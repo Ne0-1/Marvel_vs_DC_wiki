@@ -1,0 +1,435 @@
+graph [
+  directed 1
+  node [
+    id 0
+    label "Doctor Doom"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 1
+    label "Spider-Man"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Latino"
+    Alignment "Good"
+  ]
+  node [
+    id 2
+    label "Batman"
+    Universe "DC"
+    Sex "Male"
+    Race "Black"
+    Alignment "Good"
+  ]
+  node [
+    id 3
+    label "Lois Lane"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 4
+    label "Lex Luthor"
+    Universe "DC"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 5
+    label "Superman"
+    Universe "DC"
+    Sex "Male"
+    Race "Black"
+    Alignment "Good"
+  ]
+  node [
+    id 6
+    label "Lex Luthor#Relationships and family"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 7
+    label "Batman (1966 film)#Cast"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 8
+    label "Mephisto (comics)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 9
+    label "Brute (Reed Richards)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Latino"
+    Alignment "Bad"
+  ]
+  node [
+    id 10
+    label "Human Top (David Mitchell)"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 11
+    label "Master Pandemonium"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 12
+    label "Earth Force (Marvel Comics)#Membership"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 13
+    label "Doom 2099"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 14
+    label "Iron Man|Iron Man (Ultimate Marvel character)|Tony Stark (Marvel Cinematic Universe)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Good"
+  ]
+  node [
+    id 15
+    label "Tarzan in comics#Marvel Comics"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 16
+    label "Green Goblin|Green Goblin (Ultimate Marvel character)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 17
+    label "Hobgoblin (comics)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 18
+    label "Kraven the Hunter"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 19
+    label "Anti-Venom (symbiote)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Good"
+  ]
+  node [
+    id 20
+    label "Kingpin (comics)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 21
+    label "Punisher"
+    Universe "Marvel"
+    Sex "Female"
+    Race "Undefined"
+    Alignment "Good"
+  ]
+  node [
+    id 22
+    label "Gotham City Police Department#Commissioners"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 23
+    label "Robin (DC Comics)"
+    Universe "DC"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Good"
+  ]
+  node [
+    id 24
+    label "Joker (DC Comics)"
+    Universe "DC"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 25
+    label "Jimmy Olsen"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Black"
+    Alignment "Good"
+  ]
+  node [
+    id 26
+    label "Viperie (Action Comics 338)"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 27
+    label "Metallo#Jor-El's Robot"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 28
+    label "Cyclone (Marvel Comics)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 29
+    label "Sunset Bain"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 30
+    label "Achebe (comics)"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 31
+    label "Atalanta (Pantheon)"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 32
+    label "Dial H for Hero#1980s series"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  edge [
+    source 0
+    target 8
+  ]
+  edge [
+    source 0
+    target 9
+  ]
+  edge [
+    source 0
+    target 10
+  ]
+  edge [
+    source 0
+    target 11
+  ]
+  edge [
+    source 0
+    target 12
+  ]
+  edge [
+    source 0
+    target 13
+  ]
+  edge [
+    source 0
+    target 14
+  ]
+  edge [
+    source 1
+    target 15
+  ]
+  edge [
+    source 1
+    target 16
+  ]
+  edge [
+    source 1
+    target 17
+  ]
+  edge [
+    source 1
+    target 18
+  ]
+  edge [
+    source 1
+    target 19
+  ]
+  edge [
+    source 1
+    target 20
+  ]
+  edge [
+    source 1
+    target 21
+  ]
+  edge [
+    source 2
+    target 5
+  ]
+  edge [
+    source 2
+    target 22
+  ]
+  edge [
+    source 2
+    target 23
+  ]
+  edge [
+    source 2
+    target 24
+  ]
+  edge [
+    source 3
+    target 5
+  ]
+  edge [
+    source 3
+    target 25
+  ]
+  edge [
+    source 4
+    target 5
+  ]
+  edge [
+    source 4
+    target 26
+  ]
+  edge [
+    source 4
+    target 12
+  ]
+  edge [
+    source 4
+    target 27
+  ]
+  edge [
+    source 4
+    target 28
+  ]
+  edge [
+    source 4
+    target 22
+  ]
+  edge [
+    source 4
+    target 29
+  ]
+  edge [
+    source 5
+    target 30
+  ]
+  edge [
+    source 5
+    target 26
+  ]
+  edge [
+    source 5
+    target 3
+  ]
+  edge [
+    source 5
+    target 31
+  ]
+  edge [
+    source 5
+    target 4
+  ]
+  edge [
+    source 5
+    target 25
+  ]
+  edge [
+    source 5
+    target 32
+  ]
+  edge [
+    source 6
+    target 5
+  ]
+  edge [
+    source 6
+    target 26
+  ]
+  edge [
+    source 6
+    target 12
+  ]
+  edge [
+    source 6
+    target 27
+  ]
+  edge [
+    source 6
+    target 28
+  ]
+  edge [
+    source 6
+    target 22
+  ]
+  edge [
+    source 6
+    target 29
+  ]
+  edge [
+    source 7
+    target 2
+  ]
+]

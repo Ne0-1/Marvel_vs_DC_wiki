@@ -1,0 +1,1143 @@
+graph [
+  directed 1
+  node [
+    id 0
+    label "Beyonder"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Good"
+  ]
+  node [
+    id 1
+    label "Captain America|Captain America (Ultimate Marvel character)|Steve Rogers (Marvel Cinematic Universe)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Black"
+    Alignment "Good"
+  ]
+  node [
+    id 2
+    label "Captain Marvel (DC Comics)"
+    Universe "DC"
+    Sex "Female"
+    Race "Undefined"
+    Alignment "Good"
+  ]
+  node [
+    id 3
+    label "Champion of the Universe"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 4
+    label "Daredevil (Marvel Comics character)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Asian"
+    Alignment "Good"
+  ]
+  node [
+    id 5
+    label "Death (DC Comics)"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 6
+    label "Doctor Doom"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 7
+    label "Galactus"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 8
+    label "Jean Grey"
+    Universe "Marvel"
+    Sex "Female"
+    Race "Undefined"
+    Alignment "Good"
+  ]
+  node [
+    id 9
+    label "Hulk|Bruce Banner (Marvel Cinematic Universe)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Good"
+  ]
+  node [
+    id 10
+    label "J. Jonah Jameson"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 11
+    label "Spider-Man"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Latino"
+    Alignment "Good"
+  ]
+  node [
+    id 12
+    label "Daredevil (Marvel Comics character)|Kingpin (Matt Murdock)"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 13
+    label "Norman Osborn|Norman Osborn (Sam Raimi film series)"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 14
+    label "Uncle Ben"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 15
+    label "Red Skull"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 16
+    label "Scarlet Witch|Wanda Maximoff (Marvel Cinematic Universe)"
+    Universe "Marvel"
+    Sex "Female"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 17
+    label "Sentinel (comics)"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 18
+    label "Silver Surfer"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Good"
+  ]
+  node [
+    id 19
+    label "Gwen Stacy|Spider-Woman (Gwen Stacy)|Gwen Stacy (The Amazing Spider-Man film series)"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 20
+    label "Batman"
+    Universe "DC"
+    Sex "Male"
+    Race "Black"
+    Alignment "Good"
+  ]
+  node [
+    id 21
+    label "Dream (character)"
+    Universe "DC"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Good"
+  ]
+  node [
+    id 22
+    label "Flash (DC Comics character)"
+    Universe "DC"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Good"
+  ]
+  node [
+    id 23
+    label "Green Arrow"
+    Universe "DC"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Good"
+  ]
+  node [
+    id 24
+    label "Green Lantern"
+    Universe "DC"
+    Sex "Female"
+    Race "Asian"
+    Alignment "Good"
+  ]
+  node [
+    id 25
+    label "Lois Lane"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 26
+    label "Lex Luthor"
+    Universe "DC"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 27
+    label "Supergirl"
+    Universe "DC"
+    Sex "Female"
+    Race "Undefined"
+    Alignment "Good"
+  ]
+  node [
+    id 28
+    label "Superman"
+    Universe "DC"
+    Sex "Male"
+    Race "Black"
+    Alignment "Good"
+  ]
+  node [
+    id 29
+    label "Wonder Woman"
+    Universe "DC"
+    Sex "Female"
+    Race "Asian"
+    Alignment "Good"
+  ]
+  node [
+    id 30
+    label "Lex Luthor#Relationships and family"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 31
+    label "Green Lantern Corps#First attempt of rebuilding the Green Lantern Corps"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 32
+    label "Batman (1966 film)#Cast"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 33
+    label "The Shadow#Supporting characters"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 34
+    label "Molecule Man"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 35
+    label "Batman and Robin (serial)#Cast"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 36
+    label "Marvelman"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 37
+    label "Super Friends#Other DC Comics villains"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 38
+    label "Iron Man|Iron Man (Ultimate Marvel character)|Tony Stark (Marvel Cinematic Universe)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Good"
+  ]
+  node [
+    id 39
+    label "Characters of The Sandman#Unity Kinkaid"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 40
+    label "Grim Reaper (comics)"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 41
+    label "Mephisto (comics)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 42
+    label "Brute (Reed Richards)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Latino"
+    Alignment "Bad"
+  ]
+  node [
+    id 43
+    label "Human Top (David Mitchell)"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 44
+    label "Master Pandemonium"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 45
+    label "Earth Force (Marvel Comics)#Membership"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 46
+    label "Doom 2099"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 47
+    label "Doom Patrol#John Byrne's Doom Patrol (volume 4)"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 48
+    label "Rick Jones (comics)"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 49
+    label "Dial H for Hero#1980s series"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 50
+    label "Harry Osborn#Kindred"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 51
+    label "Green Goblin|Green Goblin (Ultimate Marvel character)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 52
+    label "Mary Jane Watson|Mary Jane Watson (Sam Raimi film series)"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 53
+    label "Harry Osborn|Harry Osborn (Sam Raimi film series)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 54
+    label "Hobgoblin (comics)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 55
+    label "Quicksilver (comics)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Good"
+  ]
+  node [
+    id 56
+    label "Magneto (Marvel Comics)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 57
+    label "Human Torch (android)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Good"
+  ]
+  node [
+    id 58
+    label "Master Mold"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 59
+    label "Nimrod (comics)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 60
+    label "Gotham City Police Department#Commissioners"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 61
+    label "Kasnia#Batman Beyond"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 62
+    label "Black Canary"
+    Universe "DC"
+    Sex "Female"
+    Race "Undefined"
+    Alignment "Good"
+  ]
+  node [
+    id 63
+    label "Flash in other media#The Flash (1990&#8211;1991)"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 64
+    label "Hawkman"
+    Universe "DC"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Good"
+  ]
+  node [
+    id 65
+    label "Viperie (Action Comics 338)"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 66
+    label "Lana Lang"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 67
+    label "Superman (1978 film)#Cast"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 68
+    label "Lori Lemaris"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 69
+    label "Brainiac (character)"
+    Universe "DC"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 70
+    label "Metallo#Jor-El's Robot"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 71
+    label "Cyclone (Marvel Comics)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 72
+    label "Sunset Bain"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 73
+    label "Atalanta (Pantheon)"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 74
+    label "Goddess (comics)"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 75
+    label "Doomsday (DC Comics)"
+    Universe "DC"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Bad"
+  ]
+  node [
+    id 76
+    label "Jimmy Olsen"
+    Universe "DC"
+    Sex "Undefined"
+    Race "Black"
+    Alignment "Good"
+  ]
+  node [
+    id 77
+    label "Captain Marvel (Marvel Comics)"
+    Universe "Marvel"
+    Sex "Female"
+    Race "Undefined"
+    Alignment "Good"
+  ]
+  node [
+    id 78
+    label "Scientist Supreme"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 79
+    label "Wonder Girl (Cassie Sandsmark)"
+    Universe "DC"
+    Sex "Female"
+    Race "Undefined"
+    Alignment "Good"
+  ]
+  node [
+    id 80
+    label "Hermod (comics)"
+    Universe "Marvel"
+    Sex "Undefined"
+    Race "Undefined"
+    Alignment "Undefined"
+  ]
+  node [
+    id 81
+    label "Thor (Marvel Comics)"
+    Universe "Marvel"
+    Sex "Male"
+    Race "Undefined"
+    Alignment "Good"
+  ]
+  edge [
+    source 0
+    target 34
+  ]
+  edge [
+    source 1
+    target 15
+  ]
+  edge [
+    source 2
+    target 28
+  ]
+  edge [
+    source 2
+    target 35
+  ]
+  edge [
+    source 2
+    target 36
+  ]
+  edge [
+    source 3
+    target 37
+  ]
+  edge [
+    source 4
+    target 11
+  ]
+  edge [
+    source 4
+    target 38
+  ]
+  edge [
+    source 5
+    target 39
+  ]
+  edge [
+    source 5
+    target 40
+  ]
+  edge [
+    source 6
+    target 41
+  ]
+  edge [
+    source 6
+    target 42
+  ]
+  edge [
+    source 6
+    target 43
+  ]
+  edge [
+    source 6
+    target 44
+  ]
+  edge [
+    source 6
+    target 45
+  ]
+  edge [
+    source 6
+    target 46
+  ]
+  edge [
+    source 6
+    target 11
+  ]
+  edge [
+    source 6
+    target 38
+  ]
+  edge [
+    source 6
+    target 7
+  ]
+  edge [
+    source 7
+    target 18
+  ]
+  edge [
+    source 8
+    target 47
+  ]
+  edge [
+    source 9
+    target 48
+  ]
+  edge [
+    source 9
+    target 49
+  ]
+  edge [
+    source 9
+    target 28
+  ]
+  edge [
+    source 10
+    target 11
+  ]
+  edge [
+    source 11
+    target 19
+  ]
+  edge [
+    source 11
+    target 14
+  ]
+  edge [
+    source 11
+    target 10
+  ]
+  edge [
+    source 11
+    target 50
+  ]
+  edge [
+    source 11
+    target 51
+  ]
+  edge [
+    source 11
+    target 52
+  ]
+  edge [
+    source 11
+    target 53
+  ]
+  edge [
+    source 12
+    target 11
+  ]
+  edge [
+    source 12
+    target 38
+  ]
+  edge [
+    source 13
+    target 11
+  ]
+  edge [
+    source 13
+    target 19
+  ]
+  edge [
+    source 13
+    target 50
+  ]
+  edge [
+    source 13
+    target 54
+  ]
+  edge [
+    source 14
+    target 11
+  ]
+  edge [
+    source 15
+    target 1
+  ]
+  edge [
+    source 16
+    target 55
+  ]
+  edge [
+    source 16
+    target 56
+  ]
+  edge [
+    source 16
+    target 57
+  ]
+  edge [
+    source 17
+    target 58
+  ]
+  edge [
+    source 17
+    target 59
+  ]
+  edge [
+    source 18
+    target 7
+  ]
+  edge [
+    source 18
+    target 45
+  ]
+  edge [
+    source 19
+    target 11
+  ]
+  edge [
+    source 19
+    target 51
+  ]
+  edge [
+    source 20
+    target 28
+  ]
+  edge [
+    source 20
+    target 60
+  ]
+  edge [
+    source 20
+    target 35
+  ]
+  edge [
+    source 20
+    target 37
+  ]
+  edge [
+    source 20
+    target 49
+  ]
+  edge [
+    source 20
+    target 61
+  ]
+  edge [
+    source 21
+    target 39
+  ]
+  edge [
+    source 22
+    target 28
+  ]
+  edge [
+    source 23
+    target 24
+  ]
+  edge [
+    source 23
+    target 62
+  ]
+  edge [
+    source 23
+    target 20
+  ]
+  edge [
+    source 24
+    target 63
+  ]
+  edge [
+    source 24
+    target 64
+  ]
+  edge [
+    source 24
+    target 31
+  ]
+  edge [
+    source 24
+    target 23
+  ]
+  edge [
+    source 25
+    target 28
+  ]
+  edge [
+    source 25
+    target 65
+  ]
+  edge [
+    source 25
+    target 66
+  ]
+  edge [
+    source 25
+    target 67
+  ]
+  edge [
+    source 25
+    target 63
+  ]
+  edge [
+    source 25
+    target 49
+  ]
+  edge [
+    source 26
+    target 28
+  ]
+  edge [
+    source 26
+    target 65
+  ]
+  edge [
+    source 26
+    target 25
+  ]
+  edge [
+    source 26
+    target 66
+  ]
+  edge [
+    source 26
+    target 68
+  ]
+  edge [
+    source 26
+    target 35
+  ]
+  edge [
+    source 26
+    target 69
+  ]
+  edge [
+    source 26
+    target 27
+  ]
+  edge [
+    source 26
+    target 70
+  ]
+  edge [
+    source 26
+    target 71
+  ]
+  edge [
+    source 26
+    target 60
+  ]
+  edge [
+    source 26
+    target 72
+  ]
+  edge [
+    source 27
+    target 28
+  ]
+  edge [
+    source 27
+    target 49
+  ]
+  edge [
+    source 27
+    target 26
+  ]
+  edge [
+    source 28
+    target 65
+  ]
+  edge [
+    source 28
+    target 25
+  ]
+  edge [
+    source 28
+    target 73
+  ]
+  edge [
+    source 28
+    target 74
+  ]
+  edge [
+    source 28
+    target 49
+  ]
+  edge [
+    source 28
+    target 47
+  ]
+  edge [
+    source 28
+    target 75
+  ]
+  edge [
+    source 28
+    target 26
+  ]
+  edge [
+    source 28
+    target 76
+  ]
+  edge [
+    source 28
+    target 27
+  ]
+  edge [
+    source 28
+    target 77
+  ]
+  edge [
+    source 28
+    target 78
+  ]
+  edge [
+    source 29
+    target 24
+  ]
+  edge [
+    source 29
+    target 20
+  ]
+  edge [
+    source 29
+    target 28
+  ]
+  edge [
+    source 29
+    target 79
+  ]
+  edge [
+    source 29
+    target 80
+  ]
+  edge [
+    source 29
+    target 49
+  ]
+  edge [
+    source 29
+    target 81
+  ]
+  edge [
+    source 29
+    target 47
+  ]
+  edge [
+    source 30
+    target 28
+  ]
+  edge [
+    source 30
+    target 65
+  ]
+  edge [
+    source 30
+    target 25
+  ]
+  edge [
+    source 30
+    target 66
+  ]
+  edge [
+    source 30
+    target 68
+  ]
+  edge [
+    source 30
+    target 35
+  ]
+  edge [
+    source 30
+    target 69
+  ]
+  edge [
+    source 30
+    target 27
+  ]
+  edge [
+    source 30
+    target 70
+  ]
+  edge [
+    source 30
+    target 71
+  ]
+  edge [
+    source 30
+    target 60
+  ]
+  edge [
+    source 30
+    target 72
+  ]
+  edge [
+    source 31
+    target 24
+  ]
+  edge [
+    source 32
+    target 20
+  ]
+  edge [
+    source 33
+    target 53
+  ]
+  edge [
+    source 33
+    target 20
+  ]
+]
