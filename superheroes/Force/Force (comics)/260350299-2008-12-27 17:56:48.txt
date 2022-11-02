@@ -1,0 +1,34 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=[[Image:IronMan-224.jpg|270px]]
+|caption=Force (left center, below [[Iron Man]]) as featured on the cover of Iron Man #224 (Nov. 1987). Art by [[Bob Layton]].
+|comic_color=background:#ff8080 
+|character_name=Force
+|real_name=Clayton Wilson
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Namor the Sub-Mariner|Sub-Mariner]]'' #67 (vol. 1, Nov. 1972)
+|creators=[[Steve Gerber]] and [[Don Heck]]
+|alliance_color=background:#c0c0ff
+|alliances=
+|aliases=Taylor, Carl Walker
+|powers='''Via suit''': <br>Enhanced strength<br>Force field projection<br>Flight
+|}} 
+
+'''Force''' is a character in the [[fictional]] [[Marvel Universe]].  The character first appears in ''[[Namor the Sub-Mariner|Sub-Mariner]]'' #67 (vol. 1, Nov. 1972) and was created by [[Steve Gerber]] and [[Don Heck]].
+
+==Fictional character biography==
+Clayton Wilson is a graduate student at [[Empire State University]] working as a research assistant to scientist Dr. Damon Walters, who develops a prototype device for creating a protective force field.  Wilson steals the prototype force field generator, creates a battle-suit that incorporates it, and adopts the alias "Force".
+
+Newly empowered, Force begins rampaging through New York City until defeated by [[Namor the Sub-Mariner]]. <ref>''Sub-Mariner'' #67-68 (vol. 1, Nov. - Jan. 1972 - 1973)</ref> Force retreats and later becomes a professional criminal, working for [[Justin Hammer]] in exchange for modifications to his suit.  Force and a group of mercenaries hijack the yacht of [[Anthony Stark]] (the alias of Iron Man) and take several hostages. Iron Man, however, tracks the yacht, defeats Force and his men and rescues the hostages. <ref>''Iron Man'' #140 - 141 (vol. 1, Nov. - Dec. 1980)</ref> Force eventually decides to reform, but Hammer is able to trap Wilson in the suit and threatens to kill him if he reneges on the agreement. Force flees and Hammer sends the villains the [[Abner Jenkins|Beetle]], [[Blacklash]], and the [[Blizzard (Donnie Gill)|Blizzard II]] to kill Wilson, but they are defeated by Iron Man and Force with some assistance from  [[War Machine|Jim Rhodes]]. Iron Man advises the authorities that Force is killed to placate Hammer and as Stark provides Wilson with a new identity and employment with Barstow Electronics, a subsidiary of Stark Industries. <ref>''Iron Man'' #223 - 224 (vol. 1, Oct. - Nov. 1987)</ref> Wilson later impersonates Iron Man to aid Stark. <ref>''Iron Man'' #244 (vol. 1, Jul. 1989)</ref>
+
+==Powers, abilities, and equipment==
+Clayton Wilson designed and used a powered battle-suit incorporating the force field projector designed by Dr. Damon Walters. The suit also provides enhanced strength, flight and can generate an electrical current that can be channelled through the force field when activated. Clayton Wilson is a graduate student in physics, and has expertise in physics and engineering, specifically the generation of force fields.
+
+==References==
+<references/>
+
+
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]
+
+[[tl:Force (komiks)]]

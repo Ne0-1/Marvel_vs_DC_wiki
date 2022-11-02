@@ -1,0 +1,79 @@
+{{Orphan|date=March 2012}}
+
+{{Comiccharacterbox <!--Wikipedia:WikiProjectComics-->
+|image = [[Image:LivingBrainOriginal.png]]
+|caption = The Livings Brain's original appearance in ''The Amazing Spider-Man'' #8. Art by Steve Ditko.
+|character_name = Living Brain
+|publisher = [[Marvel Comics]]
+|debut = ''[[The Amazing Spider-Man]]'' #8
+|creators = [[Stan Lee]] and [[Steve Ditko]]
+|full_name = Living Brain
+|affiliations =
+|aliases =
+|powers = Super strength <br> Capable of flight
+|}}
+
+The '''Living Brain''' is a [[fictional character|fictional]] [[comic book]] [[supervillain]] and robot in the {{Marvel Universe}}. Created by writer [[Stan Lee]] and [[Steve Ditko]], the character first appears in ''[[The Amazing Spider-Man]]'' #8 and has made few subsequent appearances since.
+
+A foe of the hero [[Spider-Man]], the Living Brain was created by the fictional International Computing Machines Corporation and billed as the most intelligent computer and robot in existence, capable of solving virtually any question asked of it.
+
+== Fictional character history ==
+The Living Brain, soon after its creation, is brought to Midtown High School by its creator, Dr. Petty, as a part of a demonstration of its ability to solve any problem. The students agreed to ask Spider-Man's secret identity, and a nervous Peter Parker fed it the given information about the wall-crawler. The answer was given in mathematical code for Peter to decode that night (because of this, it's unknown if the Living Brain had correctly deduced Spider-Man's true identity). After the Living Brain's demonstration, two workmen hired to transport it overhear the Living Brain's ability to answer anything, and decide to steal it, in order to use its abilities for gambling purposes. Caught in the middle of stealing the Living Brain by Dr. Petty, the two workmen get into a scuffle with him, which ends with one of them being knocked into the control panel on the Living Brain's chest, which causes the Living Brain to malfunction. Going on a rampage through Midtown High, the Living Brain is eventually shut down by Spider-Man, who shuts it down, in a brief fight. Peter walked home, thinking that the next day he'd tell everyone he'd lost the code during the confusion.<ref>{{Cite comic
+ | Writer = Stan Lee
+ | Penciller = Steve Ditko
+ | Inker = Steve Ditko
+ | Story = The Terrible Threat Of The Living Brain!
+ | Title = The Amazing Spider-Man
+ | Volume = 1
+ | Issue = 8
+ | Date = January, 1964
+ | Publisher = Marvel Comics
+ }}</ref>
+
+The Living Brain reappears several years later, now discredited and broken-down, Dr. Petty plans to donate it to Midtown High School's science lab. The Living Brain ends up being stolen by Dr. Petty's son, Steve Petty, who modifies the robot, giving it a gold and red color scheme, clawed hands and the ability to fly. Remotely controlling the Living Brain to attack a bully who had been tormenting him, Steve is eventually defeated by Spider-Man (who had been on a visit to Midtown High as Peter Parker) and the Living Brain is shut down once more.<ref>{{Cite comic
+ | Writer = Gerry Conway
+ | Penciller = Alex Saviuk
+ | Inker = Keith Williams
+ | Story = You Can Go Home Again?
+ | Title = Web of Spider-Man
+ | Volume = 1
+ | Issue = 35
+ | Date = February, 1988
+ | Publisher = Marvel Comics
+ }}</ref> Exempting an appearance in a flashback of Spider-Man's,<ref>{{Cite comic
+ | Writer = Paul Jenkins
+ | Penciller = Mark Buckingham
+ | Inker = Dan Green
+ | Story = The Best Medicine
+ | Title = Spider-Man
+ | Volume = 2
+ | Issue = 20
+ | Date = August, 2000
+ | Publisher = Marvel Comics
+ }}</ref> the Living Brain has not reappeared. Dan Slott confirmed in an interview that the Living Brain, along with Big Wheel, would return in Superior Spider-Man.
+
+== Other versions ==
+=== Marvel Age ===
+In the [[Marvel Age]] Universe, the Living Brain, radically redesigned to resemble an energy being, appears in a more modern re-telling of its original appearance in the comics.<ref>{{Cite comic
+ | Writer = Todd Dezago
+ | Penciller = Jonboy Meyers
+ | Inker = Pat Davidson
+ | Story = The Terrible Threat Of The Living Brain
+ | Title = Marvel Age Spider-Man
+ | Volume = 1
+ | Issue = 7
+ | Date = September, 2004
+ | Publisher = Marvel Comics
+ }}</ref>
+
+== References ==
+{{reflist}}
+
+[[Category:Comics characters introduced in 1964]]
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Characters created by Steve Ditko]]
+[[Category:Characters created by Stan Lee]]
+
+[[sv:Living Brain]]

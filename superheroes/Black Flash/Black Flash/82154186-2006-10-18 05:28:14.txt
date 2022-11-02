@@ -1,0 +1,31 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = [[Image:200px-BlackFlash.jpg]]
+| caption = Art from ''Flash'' (second series) #140 (August 1998)<br>Art by Pop Mhan and Chris Ivy
+| character_name = Black Flash
+| real_name =
+| publisher = [[DC Comics]]
+| debut = ''[[Flash (comics)|Flash]] (vol. 2)'' # 138<br> (June 1998)
+| creators = [[Mark Millar]]<br> [[Pop Mhan]]<br> [[Christ Ivy]]
+| alliances = 
+| previous_alliances = 
+| aliases = 
+| supports=
+| powers = Superhuman speed, time manipulation, role as [[psychopomp]] to speedsters
+|}}
+
+The '''Black Flash''' is a [[fictional]] [[comic book]] [[fictional character|character]] from [[DC Comics]]. It first appeared in ''Flash (vol. 2)'' # 138.
+
+The Black Flash essentially fulfils the same role as [[Death (DC Comics)|Death]] for those who possess super-speed in the DC Universe, returning them to the source of their powers: the [[Speed Force]]. It was reportedly seen before the deaths of [[Barry Allen]] and [[Johnny Quick]]; [[Max Mercury]], having had several near-death experiences, also saw the Black Flash. 
+
+It is not clear whether the Black Flash exists because the speedster characters are simply too fast for traditional Death to capture, or as some sort of bizarre side-effect to their connection to the Speed Force.
+
+It came for [[Wally West]] (at the time the current Flash) to draw him back to the Speed Force, but instead took [[Linda Park (comics)|Linda]], Wally's girlfriend, into the Speed Force. It later returned to try and take Wally again, freezing time except for those who possessed a connection to the Speed Force. Max Mercury, [[Jay Garrick]], and [[Jesse Quick]] all attempted to assist Wally by distracting the Black Flash; Wally finally defeated the Black Flash by racing it to the end of time, to a point where Death would have no meaning, causing it to dissipate. 
+
+It should not be confused with the other personifications of death in the DCU: The [[Black Racer]] and Death of the [[The Endless (comics)|Endless]]. Although an issue of ''[[Captain Atom]]'' purports Death of the Endless, the Black Racer, and Nekron to all be aspects of the same idea, Neil Gaiman (creator of Death of the Endless) refutes this idea, stating that his creation is the ultimate personification of Death. As such, any connection between the Black Flash and Death of the Endless is tenuous, at best. 
+
+==External links==
+*[http://www.hyperborea.org/flash/black-flash.html Profile on Black Flash]
+
+[[Category:Flash villains]][[Category:Personifications of death]]
+
+{{DC-Comics-stub}}

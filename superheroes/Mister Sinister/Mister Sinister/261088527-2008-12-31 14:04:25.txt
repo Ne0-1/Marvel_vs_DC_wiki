@@ -1,0 +1,134 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:Cable6sinisterdomino.jpg|250px]]
+|caption=Cover of ''[[Cable (comics)|Cable]]'' #6 (Dec. 1993). Art by [[Dwayne Turner]].
+|comic_color=background:#ff8080
+|character_name=Mister Sinister
+|real_name=Nathaniel Essex
+|species=[[Mutant (Marvel comics)|Human Mutate]]|publisher=[[Marvel Comics]]
+|debut=''[[Uncanny X-Men]]'' #221 ([[September 1987]])
+|creators=[[Chris Claremont]]<br>[[Marc Silvestri]]
+|alliance_color=background:#c0c0ff
+|alliances=[[Marauders (comics)|Marauders]]<br>[[Weapon X|Weapon X Program]]<br>[[Nasty Boys]]<br>[[Black Womb Project]]
+|aliases= Nathan/Michael Milbury, Dr. Robert Windsor, Arnold Bocklin, Nosferatu, White Devil <ref>[http://www.uncannyxmen.net/glossary/showentry.asp?fldAuto=964]</ref>
+|powers=Superhuman physical abilities<br>Mental powers<br>Energy projection<br>Shape-shifting<br>[[Genius]]-level intellect<br>}}
+
+'''Mister Sinister''' is a [[fictional character]] that appears in [[comic books]] published by [[Marvel Comics]].
+
+==Publication history==
+Created by writer [[Chris Claremont]], the character is first mentioned by the villain [[Sabretooth (comics)|Sabretooth]] in ''[[Uncanny X-Men]]'' #212 (December 1986) during the ''[[Mutant Massacre]]'', when the group of criminals known as the [[Marauders (comics)|Marauders]] slaughters a majority of the [[Morlocks (comics)|Morlocks]]. In the following ''Uncanny X-Men'' issue, [[Psylocke]] picks up a shadowy mental image of the enigmatic master of the Marauders from Sabretooth.
+
+Mister Sinister makes his full appearance in ''Uncanny X-Men'' #221 ([[1987#September|September 1987]]), drawn by [[Marc Silvestri]]. He goes on to play a major part in the ''[[Inferno (comics)|Inferno]]'' [[crossover]] and is apparently killed by [[Cyclops (comics)|Cyclops]] in ''[[X-Factor (comics)|X-Factor]]'' #39 (April 1989).
+
+The character however would reappear (his previous death is explained in ''[[X-Men]]'' #23 (Aug. 1993) as a "[[ruse]]") during the 1990s as a behind-the-scenes villain. In the ''[[Age of Apocalypse]]'' storyline, Sinister's true name is revealed to be '''Nathaniel Essex''' which is mentioned again in ''X-Men Annual'' #1 (October 1995).
+
+Creator Chris Claremont's established origin for the character was that Mister Sinister is actually an eight-year old mutant child who could never age, while his enhanced form was an eight-year old's image of a supervillain; his enmity with Cyclops stemmed from their shared childhood in an orphanage. In his original appearances in the ''Inferno'' crossover and ''Classic X-Men'' #41-42, these plot lines were hinted at, but did not come to fruition as Claremont left the franchise. The appearance of Sinister as a child at the orphanage was later [[retcon|written off]] as a disguise. When asked about his plans for Sinister's character <ref>http://www.seriejournalen.dk/tegneserie_indhold.asp?art=&ID=32</ref>, Claremont said:
+
+{{cquote|Sinister was Scott's boyhood friend in the orphanage. He's an 8-year old kid he's always been an 8-year old kid. He ages one year for every 10 of everybody else! So he's a 50 year old guy in a 10-year old's body and boy is he pissed!! (Intense laughter) That's why he works with clones. It's the only way he can deal with the adult world because he is not gonna be an adult for another 50 years... at the earliest!!! And that's why he takes a long view of things; because he's going to be around for a 1000 years, give or take a few... at least!}}
+
+Sinister's origin would eventually be detailed in the 1996 four-issue [[comic book]] [[limited series]], ''[[Further Adventures of Cyclops and Phoenix]]'', written by [[Peter Milligan]]. The character was revealed to be a 19th century geneticist obsessed with evolution, turned into a long-lived superhuman being by the ancient mutant [[Apocalypse (comics)|Apocalypse]]. Chris Claremont criticized the [[mad scientist]] background, saying "how [[cliché]] can you get? I mean the point is, to play against the [[stereotype|type]]." <ref>http://www.youtube.com/watch?v=UuIqMtB4J3M</ref>
+
+Claremont revisited his character in the [[non-canon]] 2004-2006 miniseries, ''[[X-Men: The End]]'', where it's revealed that Sinister is not immortal but transfers his psyche and powers from his old body into younger clones.
+
+==Fictional character biography==
+{{Cleanup-comics|date=July 2008}}
+{{in-universe}}
+
+'''Nathaniel Essex''' begins his life as a scientist in 19th century [[Victorian era|Victorian]] [[England]], with an obsession over [[Charles Darwin|Darwin]]'s [[theory of evolution]]. He discovers that humanity had been undergoing increasing mutation; however, he is shunned by the scientific community for his radical ideas. He also begins to experiment on homeless and deformed people kidnapped by a band of criminals in his employ called the [[Marauders (comics)#Overview|Marauders]]. Eventually he encounters the centuries-old mutant, [[Apocalypse (comics)|Apocalypse]], with whom he subsequently forms an alliance, and he also encounters the time traveling [[Scott Summers]] and [[Jean Grey]]. 
+
+Apocalypse uses his advanced technology to mutate Essex into a superhuman being, and in return, he commands Essex, who now calls himself "Sinister" (the last accusatory word his wife spoke to him as she died), to create a plague to destroy the weak of the world. Sinister refuses and instead creates a plague that attacks only Apocalypse, driving the ancient mutant into hibernation. Sinister soon comes across a time-displaced [[Gambit (comics)|Gambit]] and [[Courier (comics)|Courier]] who approach him for help. Sinister agrees, as long as he can have a DNA sample from Courier. This DNA sample allows Sinister to replicate Courier's shape-shifting abilities. A century later, Sinister will use Gambit to assemble a new group of Marauders and order the [[Mutant Massacre|massacre of the Morlocks]].
+
+By the early 20th Century, Sinister has cracked the human [[genome]] and shares the information with Herbert Edgar Wyndham, who later becomes the [[High Evolutionary]]. He also meets [[Jacob Shaw]], who will become the father of [[Sebastian Shaw (comics)|Sebastian Shaw]], and mutates him into a [[shapeshift]]er. <ref>X-Men: Hellfire Club #3</ref>
+
+During [[World War II]], Sinister [[Nazi human experimentation|works alongside the Nazis]], and gives candy to children at the [[Auschwitz]] [[Extermination camp|death camp]] in exchange for blood samples, gaining the nickname "[[Nosferatu]]". It is during this time that Sinister creates ''Experiment N2'', a clone of [[Namor the Sub-Mariner]], which has varied success against the original Namor but is defeated by Captain America. Sinister also meets [[Scalphunter (comics)|John Greycrow]], the first of a new team of Marauders. After the [[World War II#Axis collapse, Allied victory|German defeat]], his journal is found by Professor Thorton, the future director of the [[Weapon X]] Project. 
+
+Years later, under the identity of Doctor Nathan Milbury, he joins the Black Womb Project alongside [[Destiny (Irene Adler)|Irene Adler]], Brian Xavier, and Kurt Marko. He performs tests and experiments on the young [[Charles Xavier]] and [[Hazard (Marvel Comics)|Carter Ryking]], with the approval of Charles' father.<ref>''X-Men Legacy'' #211</ref> In 1968, Sinister is present in Vietnam where he is responsible for the disappearance of both soldiers and locals on whom he experiments. He is dubbed the "White Devil"<ref>''Weapon X'' #28</ref>.
+
+Later, using an [[orphanage]], the State Home for Foundlings in Sage, Nebraska, Sinister secretly observes the development of mutant children and cruelly manipulates their childhood developmental processes. Among his subjects is the orphaned Scott Summers, who will later become [[Cyclops (comics)|Cyclops]] of the X-Men.<ref>''Classic X-Men'' #41-42</ref> Sinister is obsessed with the Summers genetic line and believes that Scott Summers' and Jean Grey's mingled genes would create a mutant powerful enough to destroy Apocalypse. To this end, Sinister creates [[Madelyne Pryor]], a clone of Jean Grey.  Though the clone manifests no powers at adolescence, the [[Phoenix Force]] upon Jean Grey's death leaves her body and enters that of Pryor. Sinister then arranges a set of false memories for Madelyne, who soon encounters Scott Summers, and the two wed and produce a child, Nathan Christopher Charles Summers. Eventually, Sinister is revealed as the leader of the Marauders and the mastermind behind their massacre of the Morlocks.<ref>''Uncanny X-Men'' #221</ref>
+
+Sinister eventually takes Nathan Summers, during the [[Inferno (Marvel Comics)|Inferno]] event. The [[Demons (Marvel Comics)|demon]] [[N'astirh]] brings Madelyne (who has now become the malevolent Goblin Queen) to meet Sinister.<ref>''Uncanny X-Men'' #240</ref> Sinister vainly attempts to control the Goblin Queen, but instead loses the baby to her.<ref>''Uncanny X-Men'' #241</ref> Madelyne then has a revelation of how Sinister created her as a clone of Jean Grey.<ref>''X-Factor'' #38</ref> Sinister briefly regains Nathan following the Goblin Queen's death. Sinister then destroys [[Professor X]]avier's [[X-Mansion|mansion]].<ref>''Uncanny X-Men'' #243</ref> Sinister reveals to Cyclops how he ran the orphanage where the X-Man had once lived, and Cyclops blasts him with a supercharged optic blast, reducing him to a skeleton. <ref>''X-Factor'' #39</ref> This defeat, however, is much later revealed to have been a ruse orchestrated by Sinister. Unknown to Sinister, Apocalypse has become aware of the threat the young Nathan posed to him and has infected the infant with a techno-organic virus which threatens to consume him. The [[Askani]] take Nathan away to the future for a cure, where he becomes the man known as [[Cable (comics)|Cable]].{{issue}}
+
+Following events of the ''[[X-Cutioner's Song]]'' saga, Sinister unwittingly unleashes the [[Legacy Virus]], a plague engineered by [[Stryfe]] to kill mutants and later, humans. Sinister takes in the mutant [[Threnody (comics)|Threnody]], and uses her unique powers to track down victims of the Legacy Virus, whom he can then study and work on to develop a cure. [[Moira MacTaggert|Moira MacTaggart]], long-time ally to the X-Men and one of the top genetic immunologists on the planet, eventually develops a cure for the Virus. The cure is released thanks to the sacrifice of the mutant [[Colossus (comics)|Colossus]]. Sinister offers to clone him to his fellow X-Men as a form of gratitude, but they refuse.{{issue}}
+
+In ''[[X-Men: Endangered Species]]'' 2007 crossover, Sinister sends the Marauders and [[Acolytes]] out to murder all those who have knowledge of the future and acquire objects such as the Destiny Diaries which contain future knowledge. Sinister also has a [[Cerebro]] Machine which allows him to detect any mutant anywhere. In the midst of a battle with the X-Men, Gambit destroys the Destiny Diaries, with Sinister stating this is a serious setback to his plans.{{issue}}
+
+Sinister played a key role in the ''[[Messiah Complex]]'' as he and his Marauders sought out the first mutant child born since Decimation. However, when he confirms to Mystique that he could not save Rogue's life, Mystique pressed his face to the unconscious Rogue. This appears to have killed him, at least in the short term. <ref>''New X-Men'' vol. 2 #46</ref> 
+
+===Miss Sinister===
+
+It was revealed in ''X-Men: Legacy'' that Sinister had been anticipating some form of treachery by Mystique and Gambit. Sinister takes control of Professor X's body to save him from a gunshot wound caused by mercenaries working for [[Black Womb (comics)|Amanda Mueller]]. <ref>"X-Men Legacy #213</ref> Using the Cronus Machine, Mr. Sinister manages to use a DNA imprint on Charles Xavier's body to control his mind, forcing his rebirth. Its also revealed that Sinister had been manipulating for some time events in the Xavier family as well as the Summers family.{{issue}}
+
+However, the combined efforts of [[Sebastian Shaw (comics)|Sebastian Shaw]] and [[Gambit (comics)|Gambit]] destroyed the Cronus Machine, enabling Xavier to successfully drive Sinister's consciousness from his mind and body. After his eventual defeat a young woman is shown meeting with Shaw discussing these events. Shaw mentions that she is a much more elegant and economical way to cheat the grave and she then reveals her name, "Miss Sinister".<ref>"X-Men Legacy #214</ref> She goes by the name Claudine Renko as Sebastian Shaw calls her and appears to have the powers of Sinister, but not the memories or mind. Sebastan Shaw teams up with her to help Wolverine's son [[Daken]] regain his memories.<ref>"X-Men Legacy #217</ref>
+
+In the preview to the [[Dark Reign Files]] Professor X is again shown with Sinister's red diamond on his forehead and the caption ''Sinister'' underneath his picture<ref>''Secret Invasion: Aftermath''</ref>.
+
+==Powers and abilities==
+Mister Sinister possesses a vaguely defined set of powers due to experimentation by Apocalypse and having copied mutant genes into his own body, including enhanced strength, speed, durability and longevity, energy blasts and teleportation. Sinister has formidable mental powers; Exodus once referred to him as one of the five most skilled [[telepathy|telepaths]] he knew of. <ref>''X-Men'' #202</ref> He also seems to be in possession of some telekinetic abilities he utilizes for levitation. His malleable form grants him almost complete immunity to pain including a pseudo-[[healing factor]] and the ability to change his appearance and shape.
+
+He is also a scientific genius, with expertise in genetics, cloning and [[mechanical engineer|engineering]].
+
+==Other versions==
+===Age of Apocalypse===
+
+In the ''[[Age of Apocalypse]]'' storyline, Mister Sinister is one Apocalypse's [[Horsemen of Apocalypse|Horsemen]] and the foster father of [[Cyclops (comics)|Cyclops]] and [[Havok (comics)|Havok]], who are members of the Elite Mutant Force, Sinister's personal strikeforce. Like his [[Marvel Universe|mainstream]] incarnation, Sinister betrays Apocalypse and, in order to destroy his hated master, breeds the powerful psychic [[Nate Grey]], who ultimately turns on him.{{issue}}
+
+===Earth X===
+In the ''[[Earth X]]'' timeline, Sinister is an older [[Colossus (comics)|Colossus]], the ruler of Russia, who becomes obsessed with Jean Grey and travels back in time to the Victorian Era.{{issue}}
+
+===House of M===
+A version of Mister Sinister appears in the ''[[House of M]]'' storyline and fights dimension-hopping ''[[Deadpool]]'' over an infant Cable. <ref>''Cable & Deadpool'' #16</ref>
+
+===Ultimate Universe===
+[[Image:ultimate-sinister.jpg|150px|right|thumb|Sinister as depicted in ''Ultimate Marvel''. Art by [[Brandon Peterson]].]]
+In the ''[[Ultimate Marvel]]'' series, ''[[Ultimate X-Men]]'', Nathaniel Essex is a bioengineer working for [[Norman Osborn]] who, having seemingly experimented on a young Gambit, later experiments on himself, acquires [[mind control]] abilities and calls himself Sinister. He appears delusional, hallucinating of a "Lord Apocalypse" who orders him to kill mutants. <ref>''Ultimate X-Men'' #49</ref> After being imprisoned, Sinister fakes suicide to escape from The Triskellion to complete his mission of killing ten mutants, and transforms into Apocalypse. <ref>''Ultimate X-Men'' #90</ref> When [[Jean Grey#Ultimate Jean Grey/Marvel Girl|Phoenix]] destroys Apocalypse's body, Sinister is revealed to be inside. <ref>''Ultimate X-Men'' #93</ref>
+
+==Other media==
+===Television===
+* Mister Sinister appears in ''[[X-Men: The Animated Series]]'', voiced by [[Christopher Britton (voice actor)|Christopher Britton]] in the English version, and by [[Norio Wakamoto]] in the Japanese dub. The character was set to appear in a [[Secret Wars]] episode of ''[[Spider-Man (1994 TV series)|Spider-Man The Animated Series]]''. His appearance was canceled due to the decision to pull the X-Men cast (save for Storm) from the story. <ref>[http://marvel.toonzone.net/retrospective/x-men/part6.php Marvel Animation Age<!-- Bot generated title -->]</ref> 
+
+* Producer [[Boyd Kirkland]] of ''[[X-Men Evolution]]'', suggested that had the show been renewed for a 5th Season it was possible that Sinister could have appeared. Before being canceled, Sinister was set to appear in an issue of the ''[[X-Men Evolution]]'' comic book spin-off. The cover for issue #10 features Sinister.{{Fact|date=December 2008}}
+
+* Mister Sinister appears in the ''[[Wolverine and the X-Men]]'' animated series, voiced by [[Clancy Brown]].{{Fact|date=December 2008}}
+
+===Film===
+* In ''[[X2 (film)|X2]]'', Nathaniel Essex's name appears on the files when Mystique is browsing around on Lady Deathstrike's computer.{{Fact|date=December 2008}}
+
+===Video games===
+* Mister Sinister is a [[boss (video game)|boss character]] in the ''[[Silver Surfer (video game)|Silver Surfer]]'' video game.{{Fact|date=December 2008}}
+* Mister Sinister appears in ''[[X-Men Legends II: Rise of Apocalypse]]'' voiced by [[Daniel Riordan]].{{Fact|date=December 2008}}
+
+==Footnotes==
+{{Reflist}}
+
+==References==
+*[http://www.uncannyxmen.net/db/article/showquestion.asp?faq=4&fldAuto=68 Sinister Observations at UncannyXmen.Net]
+*[http://www.alteregocitadel.narod.ru Citadel]
+
+==External links==
+*http://www.marvel.com/universe/Mister_Sinister 
+
+{{X-Men}}
+
+{{DEFAULTSORT:Sinister}}
+[[Category:Fictional engineers]]
+[[Category:Fictional geneticists]]
+[[Category:Fictional immortals]]
+[[Category:Fictional mad scientists]]
+[[Category:Fictional murderers]]
+[[Category:Fictional scientists]]
+[[Category:Fictional shapeshifters]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics immortals]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics telepaths]]
+[[Category:Nazis in comic book fiction]]
+
+[[bg:Господин Зловещ]]
+[[es:Mr. Siniestro]]
+[[fr:Mister Sinistre]]
+[[it:Sinistro]]
+[[he:מיסטר סיניסטר]]
+[[hu:Mister Sinister]]
+[[nl:Mister Sinister]]
+[[pt:Sr. Sinistro]]

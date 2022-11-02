@@ -1,0 +1,63 @@
+:''For the comic book, see [[Sentinel (comic)]]. For the DC Comics character, see [[Alan Scott]].''
+{{Superteambox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Sentinels.PNG|250px]]
+|caption=Sentinels. Art by [[John Cassaday]].
+|comic_color=background:#ff8080
+|team_name=Sentinels
+|publisher=[[Marvel Comics]]
+|debut=''X-Men'' volume 1 #14 (November [[1965]])
+|creators=[[Stan Lee]]<br>[[Jack Kirby]]
+|status=active
+|base=
+|alliance_color=background:#c0c0ff
+|current_members=[[Master Mold]]
+|former_members=[[Nimrod (comics)|Nimrod]]<br>[[Bastion (comics)|Bastion]]<br>[[Prime Sentinels]]
+|}}
+
+The '''Sentinels''' are a type of [[fictional]] [[robot]] in the [[Marvel Comics]] [[Marvel Universe|universe]].  The Sentinels are technologically advanced and are often gigantic in stature.  Although many Sentinels are capable of devising [[tactics]] in combat, only a handful of unique Sentinels are [[self-awareness|self-aware]].  Sentinels are designed to hunt down [[mutant (fictional)|mutants]], especially the [[X-Men]], and so typically function as [[supervillain]]s or as the tools of other villains. They were created by [[Stan Lee]] and [[Jack Kirby]] in ''X-Men'' volume 1 #14 (November [[1965]]). They have evolved and improved in their capabilities with every new iteration.
+
+Sentinels have a wide array of abilities: they can fly, shoot various weapons (primarily energy blasts and restraining devices) from different parts of their bodies, and detect mutants at long range; some of them can even change form and re-assemble after being destroyed.  Sentinels' typical attacks involve either direct melee combat or firing concussive energy beams from the palms of their hands.  Sentinels also possess vast  physical strength and their bodies are highly resistant to damage.  Most dangerous of all, some variant Sentinels have the ability to learn from the attacks they face and create defenses against them which hampers the opponents' chances of defeating them.  The "X-Sentinels" created by [[Steven Lang (comics)|Steven Lang]] were capable of mimicking the appearances and powers of specific members of the original team of X-Men.  Several groups of Sentinels have been created and/or led by a massive Sentinel named [[Master Mold]].
+
+The Sentinels were first created by Dr. Bolivar Trask, who intended to use them to save humanity from what he saw as a threat to the species' existence in the form of mutants.  In a televised debate between Trask and [[Professor X|Professor Charles Xavier]], Trask revealed and then activated the Sentinels, who promptly decided that the best way to protect humanity was to rule over it themselves.  The Sentinels kidnapped Xavier and brought him and Trask to the primary Sentinel, Master Mold, only for Xavier's students, the X-Men, to find them.  When Trask realized the error of his ways, he sabotaged the machinery in the Sentinel base, destroying Master Mold and the Sentinels in an explosion, but he died in the process. However, numerous Sentinels and several Master Molds were built after the destruction of the original models.  
+[[Image:uxm098.png|thumb|left|150px|The X-Men (clockwise from top: [[Cyclops (comics)|Cyclops]], [[Wolverine (comics)|Wolverine]], [[Colossus (comics)|Colossus]], [[Nightcrawler (comics)|Nightcrawler]], [[Storm (comics)|Storm]]) fight two Mark II Sentinels.  ''Uncanny X-Men'' #98 (April, 1976).  Art by [[Dave Cockrum]].  &#169; [[Marvel Comics]].]]
+Trask had a son, Larry, who was also a mutant.  Trask gave his son a control medallion which blocked the Sentinels' mutant-sensing equipment. Not aware that he was a mutant, Larry built the next batch of Sentinels, only to be slain by them when he removed the control medallion. Larry's "Mark II" Sentinels were later persuaded by the [[Avengers (comics)|Avenger]] [[Iron Man]] to fly into the [[sun]], as he was able to convince them that they needed to destroy the sun in order to completely prevent mutation.
+The most long-lived Sentinel project was that of "Project Wideawake", a government agency led by [[Henry Peter Gyrich]] and [[Valerie Cooper]] that purchased Sentinels from [[Sebastian Shaw (comics)|Sebastian Shaw]], the mutant Black King of the [[Hellfire Club (comics)|Hellfire Club]].  Sentinels created by this project fought the X-Men, the [[New Mutants]], the [[Falcon (comics)|Falcon]], and [[X-Factor (comics)|X-Factor]], among others.
+
+During the "[[Acts of Vengeance]]", the [[Asgardians (comics)|Asgardian]] trickster god [[Loki (comics)|Loki]] manipulated various supervillains into attacking random superheroes with whom they had no previous enmity.  For the climax of this chaos, he magically amplified the power of three Sentinels, merged them into the massive Tri-Sentinel, and sent the gestalt robot to destroy [[New York City]] by levelling a nearby [[nuclear power plant]].  [[Spider-Man]] was possessed by the disembodied spirit known as [[Captain Universe]] to prevent this from occurring, and lost the Captain Universe power once he destroyed the Tri-Sentinel.  However, the Tri-Sentinel's remains were gathered by a survivalist group, and it rebuilt itself and again attempted to destroy the power plant.  It was destroyed on a sub-molecular level when Spider-Man, with the assistance of [[Nova (comics)|Nova]], released a deposit of "anti-metal" (Antarctic [[vibranium]]) at the center of its body.
+
+During the [[Onslaught (comics)|Onslaught]] [[fictional crossover|crossover]], a number of government-owned Sentinels were reprogrammed by the [[Dark Beast]] in the service of the psychic entity called Onslaught.  These Sentinels fought the X-Men, Avengers, and Spider-Man ([[Ben Reilly]]), ended the career of the heroic [[Green Goblin]] (Phil Urich), and killed the parents of Hallie Takahama, who would later join the [[Thunderbolts (comics)|Thunderbolts]] as [[Jolt (comics)|Jolt]].  During the "Operation: Zero Tolerance" crossover, a number of humans were transformed into [[cyborg]] human-Sentinel hybrids known as Prime Sentinels.  These pseudo-Sentinels were led by the robotic humanoid [[Bastion (comics)|Bastion]].  One of these Prime Sentinels, [[Karima Shapandar]], rebelled against the Sentinel programming, and later travelled to [[Genosha]] and joined the island's [[Excalibur (comics)|Excalibur]] team.
+
+During the "Kang War" against the time traveler [[Kang the Conqueror]], a battalion of Sentinels was sent into space to attack his space station.  Kang had, during a prolonged visit to the early [[20th century]], become an influential pioneer in [[robotics]] under the alias "Victor Timely", and was able to use his knowledge of modern robotics to instantly take control of these Sentinels and send them to attack the Earth.  Despite his success in that battle, Kang was ultimately defeated by the [[Avengers (comics)|Avengers]].  The robotic hero [[X-51]], better known as [[Machine Man]], was temporarily reprogrammed with Sentinel programming.  In ''[[Mekanix]]'', a number of Sentinels attacked Chicago, where [[Kitty Pryde]] was attending university.
+
+[[Image:Wildsentinel.png|125px|One of the Mega-Sentinels that destroyed Genosha. Art by [[John Cassaday]].|thumb|left]]
+In ''[[New X-Men]]'' #115, Professor X's evil twin [[Cassandra Nova]] used a distant relation of the Trasks to revive a Master Mold in [[Amazonia]].  She used this Master Mold to send a number of massive, highly adaptive "Wild-Sentinels" to destroy most of the population of [[Genosha]].  One Wild-Sentinel was transformed into a statue of Magneto, with Professor Xavier's face later also added to the statue; another was temporarily animated by "Danger", the sentient manifestation of the X-Men's Danger Room.  She also programmed a number of microscopic, [[nanite]]-based "Nano-Sentinels" to attack the blood cells of the inhabitants of the Xavier Institute, making the X-Men and their students sick.  The Nano-Sentinels were destroyed by [[Xorn (comics)|Xorn]], who may have been an alias of [[Magneto (comics)|Magneto]], although some of them were used to restore Professor Xavier's spine and legs for the duration of Xorn's stay with the X-Men.
+
+A ''[[Sentinel (comic)|Sentinel]]'' series was published under the [[Tsunami (comics)|Tsunami]] imprint in 2002.  This series followed a boy named Juston Seyfert who had discovered and reprogrammed a Sentinel of his own, using it for both good deeds and boosts to his own popularity.  The series was cancelled after twelve issues, but was revived in 2005 for a five-issue miniseries.
+
+==In other timelines==
+
+[[Image:uncanny142.png|thumb|right|200px|Storm and Wolverine are slain by Omega Sentinels in the alternate reality "Days of Future Past". Cover to ''Uncanny X-Men'' #142, by John Byrne.]]
+
+In the "[[Days of Future Past]]" future timeline first seen in ''Uncanny X-Men'' #141, the Sentinels have become the ''de facto'' rulers of the [[United States]]. The "Omega Sentinels" of this timeline are highly advanced in comparison to those of the present day, and the most powerful of these was [[Nimrod (comics)|Nimrod]], who was accidentally transported back in time to the present. Nimrod and a present-day Master Mold became allies and were merged into the being called [[Bastion (comics)|Bastion]] after passing through the [[Siege Perilous (comics)|Siege Perilous]].
+
+In an issue of the ''[[What If (comics)|What If]]'' series, [[Cannonball (comics)|Cannonball]]'s brother Josh (who would, in normal continuity, later become [[Icarus (comics)|Icarus]]) found and "adopted" a Sentinel.  Unlike every other issue of ''What If'', there was nothing in this story to indicate that it did not occur in the main [[Marvel Universe]] ([[Earth-616]]), aside from the fact that it was published in ''What If''.
+
+The ''[[Morlocks (comics)|Morlocks]]'' [[miniseries]] featured a community of Morlocks living in a city where Sentinels would track down and kill any mutant who ventured above ground.  Although this series was solicited as being in the normal Marvel Universe continuity, this aspect of the series does not fit with the Marvel Universe's status quo.
+
+In ''[[Ultimate X-Men]]'', the Sentinels were already in action at the beginning of the first story arc.
+
+In the joke comic ''[[Fred Hembeck]] Destroys the Marvel Universe'', the X-Men were killed by black, silent, man-sized "[[Ninja]] Sentinels".
+
+==In other media==
+
+Sentinels appeared in a number of episodes of the [[X-Men animated series]], most notably the fairly faithful adaptation of the original Sentinel story arc featuring Bolivar Trask.
+
+In the second animated series ''[[X-Men: Evolution]]'', there is originally only one Sentinel, a prototype created by Bolivar Trask (here a former agent of [[S.H.I.E.L.D.]]) and to Trask's dismay, released in public by Magneto to force the X-Men to fight it and reveal the existance of mutants to the media. Upgraded Sentinels are later used by S.H.I.E.L.D. against [[Apocalypse (comics)|Apocalypse]], and the finale of the show hints at a merged Bastion and Nimrod appearing later in the show's timeline.
+
+Sentinels were planned for inclusion in the second ''X-Men'' film, ''[[X2 (film)|X2]]'', but they did not appear onscreen (although Project Wideawake is mentioned on a computer readout screen).  Sketches for the film versions of the Sentinels appear as extras on the film's [[DVD]] release.  These Sentinels would have been man-sized and would have transformed into large spheres, enveloping their targets. Recently, the Sentinels have been reported to appear in [[X-Men 3]].
+
+[[Image:Sentinel05.gif|thumb|left|A Sentinel in ''X-Men: Children of the Atom''.]]
+
+Sentinels have appeared as major antagonists in almost every [[Computer and video games|video game]] to feature the X-Men.  In most games, the Sentinels are man-sized foes rather than the massive figures that are seen in most of their comic book appearances.  Notable game appearances of Sentinels include ''[[X-Men Legends]]'', in which they are the game's primary antagonists, and ''[[X-Men: Children of the Atom (video game)|X-Men: Children of the Atom]]'' and ''[[Marvel vs. Capcom 2]]'', in which a non-standard 8' tall Sentinel is a [[playable character]].  In the latter game, it is considered by many fans to be one of the most unbalanced characters in the game.
+{{wikibooks|Fighting Game Moves/Capcom/Sentinel}}
+[[Category:Marvel Comics robots]][[Category:Villain races]][[Category:X-Men villains]]

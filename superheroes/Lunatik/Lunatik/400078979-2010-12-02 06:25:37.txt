@@ -1,0 +1,59 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Lunatik
+|real_name=Arisen Tyrk, Harrison Turk
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Creatures on the Loose]]'' #35 (May 1975)
+|creators=[[David Anthony Kraft]] and [[George Pérez]]
+|alliance_color=background:#c0c0ff
+|alliances=
+|aliases=
+|powers=
+|}} 
+
+'''Lunatik''' is a fictional character in the [[Marvel Universe]].
+
+== Publication history ==
+Lunatik first appeared in ''[[Creatures on the Loose]]'' #35-37 (May-September 1975), and was created by [[David Anthony Kraft]] and [[George Pérez]].
+
+The character subsequently appears in ''Defenders'' #51-53 (September-November 1977), #55-56 (January-February 1978), #61-62 (July-August 1978), #64-65 (October-November 1978), ''Marvel Premiere'' #45-46 (December 1978, February 1979), and ''Defenders'' #70-73 (April-July 1979). 
+
+A different character named Lunatik appeared in ''[[Marvel Comics Presents]]'' #172-175 and ''Lunatik'' #1 (December 1995).
+
+==Fictional character biography==
+Arisen Tyrk was the tyrannical god-king of the dimension called [[List of Marvel Comics dimensions|Other Realm]].  He sought the power of the Godstone, which was bonded to [[John Jameson (comics)|John Jameson]] as the Man-Wolf.  Tyrk hired [[Kraven the Hunter]] to attack Man-Wolf, but Man-Wolf fought Kraven off.  Rebels from Other Realm brought the Man-Wolf to their land and he deposed Tyrk.{{Issue|date=April 2010}}
+
+Tyrk tried to escape though an extra-dimensional portal, but the portal was damaged and fragmented Tyrk into a number of forms in a number of realms.  Four of Tyrk's fragments went to Earth, becoming the crazed Lunatik. These four duplicates of Tyrk plagued the [[Defenders (comics)|Defenders]] until they were able to re-merge Lunatik into a more-or-less-whole Tyrk.  He fought the Defenders in this form, but they were eventually able to defeat him.{{Issue|date=April 2010}}
+
+For a time he posed as drama professor Harrison Turk at [[Empire State University]].<ref name="mnyc">{{cite book  | last = Sanderson  | first = Peter  | authorlink =   | coauthors =   | title = The Marvel Comics Guide to New York City  | publisher = [[Pocket Books]]  | date = 2007  | location = New York City  | pages = 30–33  | url =   | doi =   | id =   | isbn = 1-14653-141-6}}</ref>
+
+==Other characters named Lunatik==
+There is also a cosmic mercenary by the name of Lunatik.  He once killed one of Tyrk's fragments, claiming that he didn't like anyone else "using his name."  He first appeared in ''[[Marvel Comics Presents]]'' #172 (Jan 1995).
+
+This Lunatik was seen on a prison ship, the ''Dredge 01'', that was on its way to the [[Kyln]]. When it then crashed on Earth with [[Drax the Destroyer]], [[Paibok]], and the [[Blood Brothers (comics)|Blood Brothers]] as the only survivors. He seemingly met his end at the Destroyer's hand.<ref>''Drax the Destroyer; Annihilation'' #1-4</ref>
+
+==''Bibliography''==
+** Lunatik I (Arisen Tyrk)
+* ''Creatures on the Loose'' #35-37 (May–September 1975) 
+* ''Defenders'' #51-53, 55-56, 61-62, 64-65,70-73 (September–November 1977, January–February, July–August, October–November 1978 and April–July 1979)
+
+* ''Marvel Premiere'' #45–46 (Dec. 1978, Feb. 1979)
+* ''Marvel Comics Presents'' #172
+
+** Lunatik II
+* ''Marvel Comics Presents'' #172–175 
+* ''Lunatik'' #1–3 (Dec. 1995 – Feb. 1996)
+* ''Drax The Destroyer'' #1–4 (Nov. 2005 – Feb 2006)
+
+== External links ==
+* {{Marvunapp|http://www.marvunapp.com/Appendix/tyrkaris.htm|Lunatik (Arisen Tyrk)}}
+
+== References ==
+{{Reflist}}
+
+[[Category:Comics characters introduced in 1975]]
+[[Category:Marvel Comics characters who use magic]]
+[[Category:Marvel Comics supervillains]]

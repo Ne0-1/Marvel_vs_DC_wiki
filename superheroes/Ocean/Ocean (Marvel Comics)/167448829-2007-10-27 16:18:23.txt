@@ -1,0 +1,30 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Ocean
+|real_name=
+|species=[[Mutant (Marvel comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''X-Statix #1''
+|creators=
+|alliance_color=background:#ffc0c0
+|status= 
+|alliances=
+|previous_alliances=[[O-Force]]
+|aliases=
+|relatives=
+|powers= Water manipulation
+|}}
+'''Ocean''' is a [[fictional character]], a [[Mutant (Marvel comics)|mutant]] in the [[Marvel Comics]] Universe. Her first appearance was in ''X-Statix #1''.
+
+==Fictional character biography==
+Ocean is a member of America's newest mutant superhero team, [[O-Force]]. Like all potential recruits, Ocean had to compete in a live television program, hosted by [[Solomon O'Sullivan]], to win a place on the O-Force team.
+
+On a mission with O-Force, Ocean tried to free a town that was terrorized by a mutant boy named [[Fan Boy|Arnie Lundberg]]. Fighting Lundberg's army of exploding animated corpses, Ocean was caught in one of the explosions and lost her legs. She was deserted by the rest of her teammates, but was rescued by [[Mister Sensitive|Orphan]] of the team [[X-Statix]]. After Orphan made peace with Lundberg, he had the boy regrow Ocean new legs.
+
+==Powers and abilities==
+Ocean can manipulate water, whether by projecting streams of water or transforming her body into water.
+
+[[Category:Marvel Comics supporting characters]]
+[[Category:Marvel Comics mutants]]

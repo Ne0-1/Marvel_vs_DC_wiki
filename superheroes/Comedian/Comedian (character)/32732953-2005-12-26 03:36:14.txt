@@ -1,0 +1,46 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Comedian.jpg|200px]]
+|caption=The Comedian from [[Watchmen]].  Art by Dave Gibbons.
+|comic_color=background:#8080ff
+|character_name=The Comedian
+|real_name=Edward Morgan Blake
+|publisher=[[DC Comics]]
+|debut=''Watchmen'' #1 ([[1986]])
+|creators=[[Alan Moore]] (story) and [[Dave Gibbons]] (art), based on [[Peacemaker (comics)|The Peacemaker]]
+|alliance_color=background:#ffc0c0
+|status=Deceased
+|alliances=
+|previous_alliances=[[United States]] government, Crimebusters, Minutemen
+|aliases=
+|relatives=Laurie Juspecyzk (Silk Spectre II, daughter)
+|powers=None
+|}}
+
+'''The Comedian''' is a [[fictional character]] in the comic book series ''[[Watchmen]]'' (by [[Alan Moore]], published by [[DC Comics]]). He is a modified version of the character [[Peacemaker (comics)|Peacemaker]] from [[Charlton Comics]].
+
+
+{{spoiler}}
+==Involvement in ''Watchmen''==
+The story of ''Watchmen'' starts with the aftermath of a murder in [[1985]]: a man named Edward Blake was beaten mercilessly and thrown through the window of his apartment, falling several stories to his death. A "costumed adventurer" named [[Rorschach (comics)|Rorschach]] begins independently investigating the murder. While searching Blake's apartment, Rorschach discovers a hidden closet containing a costume and other items that indicate that the murdered man was The Comedian. The main plot of ''Watchmen'' initially involves Rorschach's suspicion of a plot to kill costumed heroes; his continuing investigation into Blake's murder leads to a much larger, more horrifying secret. Note that The Comedian never appears "live" in ''Watchmen'' (the first issue begins the morning after his death), but is seen several times in memories of other characters shown as [[flashback (literary technique)|flashback]]s.
+
+==History==
+The Comedian was born in [[1924]] as Edward Morgan Blake. When he first became a costumed adventurer in [[1939]], he dressed in a [[clown]]like costume with a simple domino mask. An effective and brutal vigiante, Blake managed to expunge most organized crime from the [[New York City|New York]] harbor. He became a member of The Minutemen, a prominent group of heroes. After a meeting, however, he attempted to rape fellow Minuteman [[Silk Spectre]]; Hooded Justice interrupted the assault and beat Blake, breaking his nose. The Comedian was expelled from the group and continued to work on his own, although his self-restraint continued to slip.
+
+In the 40s, Blake updated his Comedian uniform, after being stabbed by a small-time hood. He adopted a leather outfit that served as light [[body armor]], adorned with short star-and-stripe-themed sleeves and a small [[smiley|happy face]] button. He retained the small domino mask and began carrying a pistol. He fought in [[World War II]], becoming a war hero in the [[Pacific theater]]. By the late 60s, Blake had begun working as a covert government operative. Alongside [[Doctor Manhattan]], The Comedian played a major role in the United States' war with [[Vietnam]]. Shortly after Manhattan's godlike powers forced the north Vietnamese into full surrender, Blake was confronted by a woman he had gotten pregnant. He told her bluntly that he planned to leave the country immediately without her, and in a rage she slashed his face with a broken bottle. Blake shot and killed her. His injury led to a disfiguring scar that ran from his right eye down to the corner of his mouth; after this incident, he wore an enclosing leather [[gimp (sadomasochism)|gimp]]-style mask when dressed as The Comedian.
+
+The costumed adventurers faced a massive backlash and rioting in the 1970s; in response, Congress passed the Keene Act, requiring all heroes to register with the government if they wished to remain active. The majority of them "retired" in anonymity; a few, like [[Ozymandias (comics)|Ozymandias]], publicly revealed their identities and capitalized on the sudden fame, while others, such as Rorschach, continued their activities in open defiance of the law. Doctor Manhattan and The Comedian were two of the few who registered with, and were employed by, the government.
+
+==Government-sponsored activity==
+It is strongly implied that Blake killed [[Bob Woodward]] and [[Carl Bernstein]] before they could reveal the details of the [[Watergate scandal]]. In the series' alternate reality, [[Richard Nixon]] enjoyed unprecedented popularity and was able to serve four terms as [[President of the United States|President]] after a constitutional amendment. Blake was in [[Dallas, Texas]], nominally as Nixon's bodyguard, on the day that [[John F. Kennedy]] was shot; it is also implied, although vaguely, that Blake either was the actual assassin or knew of the [[Lee Harvey Oswald|assassin's]] plot beforehand. The Iranian hostage crisis in [[1980]] was resolved when Blake freed the captives after an assault.
+
+==Death==
+While on a plane during a mission in [[1985]], Blake noticed an uncharted island. He investigated and discovered that Adrian Veidt, a.k.a. [[Ozymandias (comics)|Ozymandias]], owned the island; he also learned details of Veidt's plan to end the [[Cold War]] and unite humanity through a horrific hoax. Unable to bear the burden of knowledge alone, Blake broke into the apartment of Edgar Jacobi, who had fought Blake years earlier as [[Moloch (comics)|Moloch]], and rambled drunkenly about the island. Veidt bugged Moloch's house earlier and after learning of Blake's newfound knowledge, subsequently killed both Blake and Jacobi to keep his plan secret.
+
+
+==Powers and abilites==
+Edward Blake was a skilled hand-to-hand combatant in excellent physical condition. His simple, street-wise fighting style was very effective. In the "Under the Hood" excerpts it is revealed that the Comedian bested Ozymandius in their first encounter- a slight the Veidt never got over. Never depicted as an “expert” marksman per se, Blake was proficient with a .45 pistol and pump-action shotgun. His participation in Word War II and Vietnam suggest that was skilled in military tactics. His government sanctioned activities suggest that he was very talented in or received training in covert-type operations and unconventional warfare. It is implied that he  was a “Black-Ops-CIA” type agent during the 1960’s and 70’s. Blake was slightly built when he introduced as a member of the Minutemen, but his physical stature increased over the years. At the time of his death Blake had a very stocky physique. The fact that Blake could still swim far distances well into retirement suggests that he was still in good shape.
+
+==Analysis==
+
+The Comedian was essentially a [[nihilist]]. He appears to lack any moral values or clear ethical code, as is evident in his actions in [[Vietnam war|Vietnam]].  Dr. Manhattan says of him; "I have never met anyone so deliberately amoral."  He constantly says life is simply a joke, and that he is the only person that realizes what the joke is, and he's just playing along. However, he is truly shocked and driven to the brink of insanity by what he witnessed on Veidt's island.
+[[Category:Watchmen]]

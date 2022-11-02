@@ -1,0 +1,25 @@
+{{Superherobox| <!--Part of Wikipedia:WikiProject Comics-->
+image=[[Image:thunderstrike.jpg|250px|]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Thunderstrike
+|real_name=Eric Masterson
+|publisher=[[Marvel Comics]]
+|debut= Thor vol. 1 #391 (May, [[1988]])
+|creators= [[Tom DeFalco]] (writer), [[Ron Frenz]] (artist) 
+|alliance_color=background:#ffc0c0
+|status=Deceased
+|alliances=
+|previous_alliances=[[Avengers (comics)|Avengers]], [[Asgard (comics)|Asgard]]
+|aliases=[[Thor (Marvel Comics)]]
+|relatives=Kevin Masterson (son)
+|powers=Superhuman strength and speed and, via [[Mjolnir (Marvel Comics)|Mjolnir]] and later, Thunderstrike, the ability to [[weather control |control weather]] and fire force blasts.
+|}}
+
+'''Thunderstrike''' (real name Eric Masterson) is a [[fictional character]], a [[superhero]] in the [[Marvel Comics]] [[Marvel Universe|universe]].  When [[Thor (Marvel Comics)|Thor]] briefly disappeared, Eric Masterson was endowed with the ability to take on Thor's powers and physical appearance, and masqueraded as Thor for a time. Once the original Thor returned, Odin then awarded Masterson with his own mace, which possessed similar powers to Thor's mallet Mjolnir; Masterson's new codename and the name of his mallet were both ''Thunderstrike''.  Thunderstrike later died in battle with the villainous [[Bloodaxe (comics)|Bloodaxe]] and the Egyptian death god [[Set (Serpent God)|Set]]. Masterson was possessed by the homicidal curse contained within Bloodaxe's axe and chose to sacrifice himself rather than become a murderer.
+
+{{Marvel-Comics-stub}}
+
+[[Category:Avengers members]]
+[[Category:Defenders members]]
+[[Category:Spin-off Heroes]]

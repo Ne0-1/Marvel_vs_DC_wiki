@@ -1,0 +1,5 @@
+#REDIRECT [[List of Batman supporting characters#Supporting characters]]
+
+{{Rcat shell|
+{{R to list entry}}
+}}

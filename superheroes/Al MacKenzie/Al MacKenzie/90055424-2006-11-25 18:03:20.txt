@@ -1,0 +1,27 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Al MacKenzie
+|real_name=Alphonso MacKenzie
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''Nick Fury vs. S.H.I.E.L.D.'' #3 (Aug 1988)
+|creators=[[Bob Harras]] and [[Paul Neary]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[S.H.I.E.L.D.]]
+|previous_alliances=C.I.A.
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''Al MacKenzie''' is a fictional character in the [[Marvel Universe]].  He was once the [[Central Intelligence Agency|C.I.A.]] liaison to [[S.H.I.E.L.D.]]  He became romantically involved with Contessa [[Valentina Allegra di Fontaine]] after awhile, which led to an estrangement between him and [[Nick Fury]].  Because of this, he returned to the CIA with the Contessa.
+
+MacKenzie later joined the S.H.I.E.L.D. organization full time, and is now the senior liaison officer to the C.I.A.
+
+
+{{Marvel-comics-stub}}
+
+[[Category:S.H.I.E.L.D.]]

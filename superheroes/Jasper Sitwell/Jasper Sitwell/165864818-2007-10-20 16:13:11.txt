@@ -1,0 +1,45 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Jaspersitwell.jpg|250px]]
+|caption=Jasper Sitwell (left)<br>Art by [[Ariel Olivetti]].
+|comic_color=background:#ff8080
+|character_name=Jasper Sitwell
+|real_name=Jasper Sitwell
+|publisher=[[Marvel Comics]]
+|debut=''Strange Tales'' Vol. 1, #144 (May 1966)
+|creators=[[Stan Lee]]<br>[[Jack Kirby]]
+|alliance_color=background:#cccccc
+|status=
+|alliances=[[S.H.I.E.L.D.]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=Trained in espionage, firearms, hand-to-hand combat
+|}}
+
+'''Jasper Sitwell''' is a [[fictional character|fictional]], [[comic book]] [[espionage]] agent in the [[Marvel Comics]] [[Marvel universe|universe]]. Created by [[writer]]-[[editing|editor]] [[Stan Lee]] and [[artist]] and co-plotter [[Jack Kirby]], he [[first appeared]] in ''[[Strange Tales]]'' vol. 1,  #144 (May 1966).
+
+==Publication history==
+Jasper Sitwell appears as an agent of the fictional espionage agency [[S.H.I.E.L.D.]], beginning in the feature "[[Nick Fury|Nick Fury, Agent of S.H.I.E.L.D.]]" in Marvel Comics' ''[[Strange Tales]]'' in 1966, and continuing into the subsequent series ''Nick Fury, Agent of S.H.I.E.L.D.'' in 1968. He became the S.H.I.E.L.D. liaison to [[defense industry]] contractor Tony Stark ([[Iron Man]]) beginning in the "Iron Man" feature in ''[[Tales of Suspense]]'' #93 (Sept. 1967), and continuing into that subsequent series as well. He was seldom featured from the early 1970s until the 1988 [[miniseries]] ''Nick Fury vs. S.H.I.E.L.D.'', and then again in the 1996-1997 series ''Iron Man'' Vol. 2. Sitwell afterward appeared in a three-issue arc of the [[superhero]]-team series ''[[Avengers (comics)|The Avengers]]'' in 2000, and in ''[[Punisher War Journal]]'' #1 (January 2007).
+
+==Fictional character biography==
+Young, crew cut, clean-cut Jasper Sitwell graduated at the top of his class at S.H.I.E.L.D. Academy, with particular high marks in airborne jump school and underwater maneuvers. When first introduced to S.H.I.E.L.D. Executive Director [[Nick Fury]], the new agent's eager-beaver attitude meets initially with mock (and occasionally real) frustration from Fury and second-in-command [[Dum Dum Dugan]], but Sitwell soon proves himself and earned his fellow agents' respect &mdash; albeit tinged with occasional humor aimed at his youthfulness and idealistic naïveté. Mentored by Fury himself and occasionally appointed interim director when Fury is on solo missions in the field, Sitwell later is assigned to Stark Industries as liaison between S.H.I.E.L.D. and that defense-industry contractor, which designs and manufactures much of S.H.I.E.L.D.'s ordnance and equipment. There he confronts costumed [[assassins]] and [[terrorists]] such as [[Spymaster (comics)|Spymaster]] (who shoots him and puts Sitwell in a [[coma]] for a time) and [[A.I.M.]], directly saves CEO Tony Stark's life at one point, and romances Whitney Frost ([[Madame Masque]]), a one-time Stark paramour. When [[Obadiah Stane]] takes over what was by now named Stark International, Fury sends Sitwell on an ultimately failed attempt to retrieve Stark's [[Iron Man]] armors.
+
+Sitwell, like most of the S.H.I.E.L.D. leadership at the time, is seemingly killed by a  self-aware, renegade "Deltan" variety of S.H.I.E.L.D.'s [[android|artificial-human]] "[[Life Model Decoy]]s", and replaced by one such LMD, which was then installed as Executive Director.<ref>''Nick Fury vs. S.H.I.E.L.D.'' miniseries (1988)</ref> The real Sitwell later turns up alive after having been brainwashed by a faction of the terrorist organization [[HYDRA (comics)|HYDRA]], placed in [[suspended animation]], released as part of a plot against Fury, and eventually [[deprogrammed]]. He has since become S.H.I.E.L.D.'s top interrogator, often paired with fellow agent [[Jimmy Woo]]. He has also worked closely with [[G. W. Bridge]].
+
+==See also==
+*[[List of S.H.I.E.L.D. members]]
+
+==Footnotes==
+{{reflist}}
+==References==
+*[http://www.comics.org/ The Grand Comic-Book Database]
+*[http://www.maelmill-insi.de/UHBMCC/ The Unofficial Handbook of Marvel Comics Creators]
+*[http://www.ironmanarmory.com/biosoz.html#sitwell Iron Man Armory: Jasper Sitwell]
+
+
+{{DEFAULTSORT:Sitwell, Jasper}}
+
+
+[[Category:Fictional Americans]]
+[[Category:Fictional secret agents and spies]]
+[[Category:Marvel Comics supporting characters]]

@@ -1,0 +1,35 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = 
+| caption =  
+| comic_color =background:#ff8080 
+| character_name =Byrrah
+| real_name =
+| species=[[Homo mermanus]]
+| publisher =[[Marvel Comics]]
+| debut = Marvel Mystery Comics #82 (May 1947); first modern appearance in Tales to Astonish #90
+| creators = 
+| alliance_color =background:#ffc0c0 
+| status =
+| alliances = 
+| previous_alliances =Former ally of [[Attuma]], [[Warlord Krang|Krang]], Dr. [[Lemuel Dorcas]], and the [[Badoon]].
+| aliases = 
+| relatives =Thakorr (stepfather, deceased), Fen (stepsister, deceased), [[Namor the Sub-Mariner|Namor]] (cousin), [[Namorita]] (cousin), [[Namora]] (cousin, deceased), [[Lady Dorma|Dorma]] (cousin, deceased)
+| powers =}}
+
+'''Byrrah''' is a [[Marvel Comics]] character. He is a prince of Atlantis, and cousin to [[Namor the Sub-Mariner]]. He first appeared in ''Marvel: Mystery Comics'' #82. 
+
+==History==
+They were close friends at childhood and possible heir to the throne until Namor's return. When Namor did return, Byrrah formed an alliance with Namor's enemies ([[Attuma]] and [[Warlord Krang|Krang]]) to defeat him, but failed. 
+
+==In other media==
+Byrrah appears as a villain in the RPG video game ''[[Marvel: Ultimate Alliance]]''.
+
+{{Marvel-villain-stub}}
+
+[[Category:Namor villains]]
+[[Category:Fictional characters with the power to manipulate water]]
+[[Category:Fictional hybrids]]
+[[Category:Fictional kings]]
+[[Category:Homo mermanus]]
+[[Category:Marvel Comics characters who can fly]]
+[[Category:Marvel Golden Age characters]]

@@ -1,0 +1,96 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = [[File:Patsy Walker (Hellcat).jpg|200px]]
+| caption =Hellcat.<br>Art by [[Stuart Immonen]].
+| comic_color = background:#ff8080
+| character_name = Hellcat
+| real_name = Patricia "Patsy" Walker
+| species= Human (empowered)
+| publisher = [[Marvel Comics]]
+| debut = '''as Patsy Walker''' ''[[Miss America (Marvel Comics)|Miss America]] Magazine'' #2 (Nov. 1944)<br>'''as Hellcat''' ''The Avengers'' #144 (Feb. 1976)
+| creators =
+| alliance_color= background:#ffc0c0
+| alliances=[[Defenders (comics)|Defenders]]<br/>[[Avengers (comics)|Avengers]]<br/>[[Lady Liberators (comics)#She-Hulk's team|Lady Liberators]]<br>[[Legion of the Unliving]]
+| aliases=
+| powers=Telekinesis<br>Psychic resistance<br>Retractable claws<br>Wrist grappling hook<br>Well-trained martial artist
+}}
+'''Hellcat''' ('''Patricia "Patsy" Walker''') is a [[fictional character]], a superhero appearing in books published by [[Marvel Comics]].  She premiered as the star of a [[Teen humor comics|teen]] [[Romance comics|romantic]]-[[comedy]] series and was later integrated into Marvel [[superhero]] franchises such as the [[Avengers (comics)|Avengers]] and the [[Defenders (comics)|Defenders]].
+
+Created by [[Ruth Atkinson]], Patsy Walker first appeared in ''[[Miss America (Marvel Comics)|Miss America]] Magazine'' #2 (Nov. 1944), published by Marvel precursor [[Timely Comics]], and became Hellcat in ''The Avengers'' #144 (Feb. 1976).  The character was ranked 95th in ''[[Comics Buyer's Guide]]'s'' "100 Sexiest Women in Comics" list.<ref>{{cite book| last = Frankenhoff| first = Brent| authorlink = Brent Frankenhoff| title = Comics Buyer's Guide Presents: 100 Sexiest Women in Comics| publisher = [[Krause Publications]] | year = 2011| page = 59| url = | isbn = 1-4402-2988-0}}</ref>
+
+==Publication history==
+===Teen-humor heroine===
+[[Image:PatsyAndHedy72.jpg|left|thumb|The humor-comic Patsy in ''Patsy and Hedy'' #72 (Oct. 1960).  Cover art by [[Al Hartley]].]]
+Created by [[Ruth Atkinson]], Patsy Walker first appeared in ''[[Miss America (Marvel Comics)|Miss America]] Magazine'' #2 ([[cover-date]]d Nov. 1944), published by Marvel precursor [[Timely Comics]]. Redheaded Patsy Walker, her parents Stanley and Betty, her boyfriend [[Mad Dog (Marvel Comics)|Robert "Buzz" Baxter]], and her raven-haired friendly rival Hedy Wolfe appeared from the 1940s through 1967 in issues of ''Miss America'', ''Teen Comics'', ''Girls' Life'', and the namesake [[Teen humor comics|teen-humor]] series ''Patsy Walker'' and its spin-offs: ''Patsy and Hedy'', ''Patsy and Her Pals'', and the single-issue ''A Date with Patsy''.  Attesting to its quiet popularity, ''Patsy Walker'' (along with ''[[Millie the Model]]'' and ''[[Kid Colt|Kid Colt, Outlaw]]'') was among the very few titles published continuously by Marvel from the 1940s [[Golden Age of Comic Books]], through Marvel's 1950s iteration as [[Atlas Comics (1950s)|Atlas Comics]], and into the 1960s [[Silver Age of Comic Books]].
+
+Future ''[[Mad Magazine]]'' [[cartoonist]] and "Fold-In" creator [[Al Jaffee]] wrote and drew most of the early issues, several of which included ''Mad'' founding editor [[Harvey Kurtzman]]'s highly stylized "Hey Look!" one-page humor strips. Jaffee was succeeded by [[Al Hartley]], who would go on to [[Archie Comics]] and produce many [[Christian]] comic books starring Archie characters and others.  [[Morris Weiss]] drew ''Patsy and Her Pals''.  Millie (the Model) Collins made guest appearances in #92 and 98.
+
+Following Patsy's high-school graduation, in issue #116 (Aug. 1964), the title switched from humor to become a young career-gal romantic adventure.  ''Patsy Walker'' lasted through issue #124 (Dec. 1965), with ''Patsy and Hedy'' outlasting it to its own #110 (Feb. 1967).
+
+Patsy and Hedy made a cameo appearance in ''[[Fantastic Four]] [[annual publication|Annual]]'' #3 (1965), establishing them in the [[Marvel Universe]]. The superhero-team comic ''The Defenders'' #89 (Nov. 1980) further established that the earlier stories were fictional works published within the fictional Marvel Universe itself, and written by Patsy's mother Dorothy Walker though based upon Patsy's own life and friends.<ref>{{cite journal|last= Miller|first= Jonathan|title= Beware the Claws of Patsy Walker: The Hellcat Cometh|journal= [[Back Issue!]]|issue= 40|page= 66|publisher= [[TwoMorrows Publishing]]|date= May 2010}}</ref> The Patsy Walker profile in ''Marvel Legacy: The 1960s Handbook'' #1 (2006) establishes that Walker indeed experienced many of the events from these stories.
+
+''Patsy Walker'' #95 and the [[science-fiction]] anthology ''[[Journey into Mystery]]'' #69 (both June 1961) are the first modern comic books labeled "Marvel Comics", with each showing an "MC" box on its cover.<ref>[http://www.comics.org/brand/36/ Marvel : MC (Brand)] at the Grand Comics Database.</ref>
+
+===Hellcat===
+[[Image:Avengers 144.jpg|thumb||Patsy Walker becomes Hellcat in ''The Avengers'' #144 (Feb. 1976)]]
+''[[Amazing Adventures]]'' vol. 2, #13 (July 1972) introduced the concept of Walker as a superheroine. Writer [[Steve Englehart]] recalled that Walker's cameo in ''Fantastic Four Annual'' #3 had
+{{blockquote|struck my fan's eye by including her in the Marvel Universe. ...I thought it would be cool to bring her in as a real character, with things to do. Part of my 'training' as a Marvel writer was writing romance stories and [[Western comics|Westerns]], but ''Patsy [Walker]'' was defunct as a comic by the time I got there.... Still, as a fan, I had collected everything Marvel, including ''Patsy Walker'' and ''Patsy and Hedy'' ... so I knew them as characters....<ref>Englehart in Miller, p. 62</ref>}}
+
+Walker was reintroduced in ''The Avengers'' #141 (Nov. 1975), having resumed her maiden name of Walker, and accompanied the Avengers on a couple of adventures. Shortly thereafter in ''The Avengers'' #144 (Feb. 1976), she adopted the name Hellcat, taking on superheroine [[Tigra|Greer Grant Nelson]]'s costume from her discontinued identity as The Cat. The name "Hellcat" itself had originally been proposed for Nelson.<ref>{{cite journal|last= Cassell|first= Dewey|date= August 2006|title= Talking About Tigra: From the Cat to Were-Woman|journal= [[Back Issue!]]|issue= 17|pages= 26–33|publisher= [[TwoMorrows Publishing]]}}</ref> The suit's look was later adapted slightly.
+
+Recalled Englehart in 2010,
+{{blockquote|I wasn't real interested in the Cat. I read the books and they seemed like pandering, frankly — not very good stories written to appeal to a demographic. Once [Patsy] entered the [Marvel Universe], met the Beast, confronted her husband — all that began to change the Patsy I had inherited to someone a little more savvy. By the time she became the Hellcat, she could stand back far enough to see the ironies in her taking over a feminist creation. But she was really more about jumping into the superhero pool than standing back.... She didn't muse on the irony; she wanted to be a heroine.<ref>Englehart in Miller, p. 63</ref>}}
+
+Hellcat joined the superhero team ''[[Defenders (comics)|The Defenders]]'' in issue #44 (Feb. 1977). After many adventures with the group, she met the supernatural adventurer [[Daimon Hellstrom]], the Son of [[Satan]], in ''The Defenders'' #92 (Feb. 1981). They marry in ''The Defenders'' #125 and become husband-and-wife occult investigators, but Hellstrom's demonic nature asserts itself, and Walker is driven first mad and then, in ''Hellstorm: Prince of Lies'' #14 (May 1994), to [[suicide]]. Through Hellstrom's manipulation of the superhero [[Hawkeye (comics)|Hawkeye]], she was resurrected, in ''[[Thunderbolts (comics)|Thunderbolts 2000]]'', a summer Annual of the superhero-team comic ''Thunderbolts'', and returned to Earth with new abilities acquired while in [[Hell]]. (The story which began in ''[[Thunderbolts (comics)|Thunderbolts 2000]]'' concluded in ''[[Avengers (comics)|Avengers 2000]]''.) A three-issue ''Hellcat'' (Sept. - Nov. 2000) series takes place immediately following the events in the Thunderbolts and Avengers 2000 Annuals. Briefly adopting a new costume and then returning to her traditional yellow outfit, she rejoined the Defenders in a short-lived revival series, ''The Defenders'' vol. 2, #1-12 (March 2001 - Feb. 2002).
+
+After appearing in occasional guest roles, Hellcat starred in the [[miniseries]] ''Patsy Walker: Hellcat'' #1-5 (Sept. 2008 - Feb. 2009). Following this, she was an ensemble star and narrator, alongside the superheroines [[Firestar]], [[Black Cat (comics)|Black Cat]], and [[Monica Rambeau|Photon]], in the miniseries ''[[Marvel Divas]]'' #1-4 (Sept.-Dec. 2009), which writers [[Roberto Aguirre-Sacasa]] and Tonci Zonjic had pitched it to Marvel editors as "''[[Sex and the City]]'' in the Marvel Universe".<ref name="marveldivas">{{cite web|url=http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=92159514&blogId=482150960|title=MyCup o' Tea | first = Dan | last= Abnett |first2 = Andy | last2= Lanning | authorlink = Dan Abnett | authorlink2 = Andy Lanning | date=2009-04-09|publisher=MySpace Comic Books|accessdate=2009-04-10 | archivedate = 29 April 2009 | deadurl = no | archiveurl = http://web.archive.org/web/20090413195242/http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=92159514&blogId=482150960}}</ref>
+
+Walker became part of [[All-New Marvel NOW!]] in ''[[She-Hulk]]'' #1, when Jennifer Walters starts her own law firm. Walters hires Patsy as her private investigator, who uses her Hellcat alias on assignments.<ref>''She-Hulk'' #1 (Vol. 3)</ref>
+
+==Fictional character biography==
+After growing up in suburban Centerville, graduating high school and marrying high-school sweetheart Robert "Buzz" Baxter, Patsy Walker becomes an assistant to scientist [[Hank McCoy]], the mutant superhero the Beast, who at that time was on hiatus from the [[X-Men]].{{issue|date=February 2013}} Estranged from her husband, now a U.S. Air Force colonel, Walker befriends McCoy,{{issue|date=February 2013}} and, desiring to become a superhero, accompanied McCoy on an adventure with the superhero team the Avengers. <ref>''The Avengers'' #141 (Nov. 1975)</ref> She adopts an ability-enhancing costume that formerly belonged to Greer Grant Nelson, the former masked adventuress the Cat, and Walker takes on the name Hellcat.<ref>''The Avengers'' #144 (Feb. 1976)</ref>
+
+After having used her natural athletic abilities and good instincts to rescue the Avengers, Walker is offered membership in the team.{{Issue|date=April 2010}} The cosmic adventurer [[Moondragon]] persuades her to decline and instead accompany Moondragon to the [[Saturn]] moon of [[Titan (Marvel Comics)|Titan]] for training in [[psychic]] ability and advanced [[martial arts]].{{Issue|date=April 2010}} Walker's training is abbreviated when she returns to Earth to assist the supernatural hero [[Doctor Strange]], and then join the superhero team the ''Defenders''. Moondragon revokes her psychic abilities, citing Walker's ineffective use of them as the cause.{{Issue|date=April 2010}}
+
+She meets her future husband [[Daimon Hellstrom]], the Son of Satan, during the course of her Defenders adventuring. After learning that her mother had promised her soul to Satan, and briefly being lied to by the Devil that he was her father, Walker reunites with her real father and marries Hellstrom. The two then retire from superheroics.  Ultimately, Hellstrom's demonic inheritance took possession of him and drove Walker insane.{{Issue|date=April 2010}} Institutionalized, she was driven to suicide by the otherworldly being [[Deathurge]].{{issue|date=April 2013}}
+
+Trapped in Hell, Walker's spirit is used in a series of gladiatorial-like combat scenarios. There, she learns to develop and use her psychic powers. Hellstrom tricks the archer superhero Hawkeye into returning her spirit to Earth; Hawkeye believes he is retrieving his presumed-dead wife, [[Mockingbird (Marvel Comics)|Mockingbird]], from the demonic lord [[Mephisto (comics)|Mephisto]]'s realm.{{issue|date=April 2013}} Resurrected and back on Earth, Walker retains the powers she developed in Hell. Now able to manifest a costume at will, Walker adopts a reversed version of the Cat costume, with a blue cat-suit and cowl with yellow gloves and boots.{{issue|date=April 2013}} In this new guise, and once again a member of the Defenders, Hellcat focuses on combating [[occult]] evils, notably [[Nicholas Scratch]], who had based himself in her hometown of Centerville,{{issue|date=April 2013}} and the otherdimensional ruler [[Dormammu]].{{issue|date=April 2013}}
+
+During the superhero "[[Civil War (comics)|Civil War]]" over the federal [[Registration acts (comics)|Superhuman Registration Act]], Hellcat willingly registers.{{Issue|date=April 2010}} She serves as one of the young superheroes' instructors at [[Camp Hammond (comics)|Camp Hammond]].<ref>''Avengers: The Initiative'' #10</ref> She was then assigned as an official superhero in [[Alaska]],<ref>''Patsy Walker: Hellcat'' #1-5</ref> but eventually returned to [[New York City]].<ref>''[[Marvel Divas]]'' #1-4</ref>
+
+Hellcat develops and maintains a deep friendship with the superheroes Firestar, Black Cat and [[Monica Rambeau]]. Part of this is their support of Firestar, who develops and then defeats breast cancer.<ref>''Young Allies'' #1-6 (2010)</ref>
+
+==Powers and abilities==
+Hellcat can sense mystical phenomena or those items or persons touched by mystical energy. She can use a force field that deflects mystical attacks. She is able to summon her costume at will. Patsy is a well-trained martial artist, having been taught by both [[Captain America]] and Moondragon.
+
+==Other versions==
+[[Image:ULTMTSV2006 COV.jpg|Cover to ''Ultimate New Ultimates'' #1. Art by Leinil Francis Yu.|thumb]]
+Patsy Walker has appeared in Marvel Comics' [[Multiverse (Marvel Comics)|Multiverse]] [[Ultimate Marvel]] [[imprint]]. In ''[[Ultimate Spider-Man]]'', she first appears as a spokeswoman for a security firm (#11), then as a swimsuit model for ''[[Maxim (magazine)|Maxim]]'' magazine (#14), a talk show hostess, presenting a biography on [[Alternative versions of Doctor Strange#Ultimate Doctor Strange|Doctor Strange]] (#70), and finally interviewing [[Alternative versions of the Green Goblin#Ultimate Marvel|Norman Osborn]] (#113). In addition she appeared in ''Ultimate Marvel Team-up'', hosting an instructional video for the Baxter Building, although this issue is not necessarily canonical.{{Issue|date=June 2009}}  Patsy has taken her "Hellcat" identity in [[Ultimates]] and was a founding member of the ill-fated [[Defenders (comics)#Ultimate Defenders|Defenders]]. Additionally, [[Alternative versions of Kitty Pryde#Ultimate Shadowcat|Kitty Pryde]] has (within the pages of ''Ultimate Spider-Man'') constructed a costume visually similar to the 616 Hellcat's, differing in color and mask design only. Walker later shows up in ''[[Ultimate Comics: New Ultimates]]'', apparently powered up from a [[Loki (Marvel Comics)|mysterious source]].<ref>''New Ultimates'' #1</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Marvelwiki|Hellcat_(Patricia_Hellstrom)|Hellcat (Patricia Hellstrom)}}
+*[http://www.comics.org/character/name/patsy%20walker/sort/chrono/ Patsy Walker] and [http://www.comics.org/character/name/hellcat/sort/chrono/ Hellcat] (list includes earlier, unrelated character[s]) at the [[Grand Comics Database]]
+* [http://www.atlastales.com/ Atlas Tales]
+* [http://www.maelmill-insi.de/UHBMCC/ The Unofficial Handbook of Marvel Comics Creators]
+* [http://www.marveldirectory.com/individuals/h/hellcat.htm Patsy Walker] at Marvel Directory
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/hellcatwalker.htm|Hellcat}}
+
+{{Initiative}}
+
+{{DEFAULTSORT:Walker, Patsy}}
+[[Category:1945 comic debuts]]
+[[Category:1952 comic debuts]]
+[[Category:Comics characters introduced in 1944]]
+[[Category:Comics characters introduced in 1976]]
+[[Category:Fictional characters from California]]
+[[Category:Fictional models]]
+[[Category:Fictional surfers]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics telepaths]]
+[[Category:Marvel Comics titles|Patsy Walker]]
+[[Category:Romance comics]]
+[[Category:Timely Comics characters]]

@@ -1,0 +1,69 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = F.R.I.D.A.Y.
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Iron Man (comic book)|Iron Man]]'' #53 (June 2002)
+| creators       = [[Mike Grell]]<br>[[Michael Ryan (artist)|Michael Ryan]]
+| alter_ego      = 
+| full_name      =
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = [[Stark Industries]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = Girl Friday
+| powers         = 
+| cat            = 
+| subcat         = 
+| hero           = y
+| villain        = 
+| sortkey        = 
+| addcharcat#    = 
+}}
+'''F.R.I.D.A.Y.''' is a fictional [[artificial intelligence]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+F.R.I.D.A.Y. first appears in ''[[Iron Man]]'' Vol. 3 #53 and was created by [[Mike Grell]] and [[Michael Ryan (artist)|Michael Ryan]].
+
+==Fictional character biography==
+During a time when [[Iron Man|Tony Stark]] didn't want to hire another [[secretary]], he created an artificial one in the form of an artificial intelligence named F.R.I.D.A.Y. who sported the hologram of a young girl.<ref>''Iron Man'' 3 #53</ref>
+
+When Tony Stark started to use F.R.I.D.A.Y. less, she ended up getting angry. Upon hijacking some [[Iron Man's armors|Iron Man armors]], F.R.I.D.A.Y. kidnapped [[Pepper Potts]] as Iron Man tracked her to Stark Industries' Coney Island Facility. Upon Iron Man dispatching the controlled Iron Man armors and a hologram of [[Fin Fang Foom]], Iron Man reasoned with F.R.I.D.A.Y. as Pepper noted that F.R.I.D.A.Y. had a crush on Tony. Tony then grounded her to the [[Baxter Building]] while spending a full month calculating Pi as [[Edwin Jarvis]] keeps an eye on her.<ref>''Iron Man: Iron Protocols'' #1</ref>
+
+As part of the ''[[All-New, All-Different Marvel]]'', F.R.I.D.A.Y.'s holographic appearance now resembles a young woman as Tony Stark started using her again.<ref>''Invincible Iron Man'' Vol. 2 #1</ref>
+
+During the ''[[Civil War II]]'' storyline, F.R.I.D.A.Y. informs Tony Stark that the analysis on [[Ulysses (comics)|Ulysses Cain]] is almost complete.<ref>''Civil War II'' #3</ref>
+
+==In other media==
+===Television===
+* F.R.I.D.A.Y. appears in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' episode "Adapting to Change", voiced by [[Jennifer Hale]]. She is the successor to [[J.A.R.V.I.S.]]
+
+===Film===
+* F.R.I.D.A.Y. appears in the films set in the [[Marvel Cinematic Universe]], voiced by [[Kerry Condon]].
+** F.R.I.D.A.Y. appears in ''[[Avengers: Age of Ultron]]''. She is depicted as the replacement A.I. for [[Iron Man|Tony Stark / Iron Man]], after J.A.R.V.I.S. is destroyed by [[Ultron]] and ultimately converted into [[Vision (Marvel Comics)|Vision]].
+** F.R.I.D.A.Y. appears in ''[[Captain America: Civil War]]''.<ref>{{cite news|last1=|first1=|title=That Irish accent in Avengers Age of Ultron is actress Kerry Condon!|url=http://www.irishexaminer.com/technow/movies/that-irish-accent-in-avengers-age-of-ultron-is-actress-kerry-condon-325713.html|work=[[Irish Examiner]]|accessdate=April 26, 2015|date=April 23, 2015| archivedate= May 3, 2015| archiveurl = https://web.archive.org/web/20150503142900/http://www.irishexaminer.com/technow/movies/that-irish-accent-in-avengers-age-of-ultron-is-actress-kerry-condon-325713.html| deadurl=no}}</ref><!--additional WebCitation archive: http://www.webcitation.org/6YFd9dc1a--><ref>{{cite web|url=http://www.gamespot.com/gallery/every-captain-america-civil-war-character-from-mar/2900-613/21/|title=Every Captain America: Civil War Character From Marvel Comics Confirmed so Far – FRIDAY|publisher=[[GameSpot]]|accessdate=May 6, 2016|archiveurl=https://web.archive.org/web/20160418083804/http://www.gamespot.com/gallery/every-captain-america-civil-war-character-from-mar/2900-613/21/|archivedate=April 18, 2016|deadurl=no|df=}}</ref>
+** F.R.I.D.A.Y. appears in ''[[Spider-Man: Homecoming]]'', alongside Iron Man. She operates the remote-controlled Iron Man armor after it saves Spider-Man from the river following his first encounter with [[Vulture (Marvel Comics)|Vulture]].
+** F.R.I.D.A.Y. appears in ''[[Avengers: Infinity War]]''.<ref>{{Cite news|url=https://www.irishpost.com/entertainment/7-incredible-irish-connections-avengers-infinity-war-153828|title=8 incredible Irish connections to Avengers: Infinity War {{!}} The Irish Post|last=Beresford|first=Jack|work=The Irish Post|access-date=2018-04-28|language=en-GB}}</ref>
+
+===Video games===
+* Friday is featured in ''[[Lego Marvel's Avengers]]'', voiced by Elle Newlands.
+* F.R.I.D.A.Y. appears in ''Marvel Powers United VR'', voiced by Jennifer Hale.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Friday_(Earth-616) Friday] at Marvel Wiki
+
+{{Intelligent personal assistant software}}
+{{Iron Man}}
+
+[[Category:Fictional artificial intelligences]]
+[[Category:Comics characters introduced in 2002]]
+[[Category:Superhero film characters]]
+
+
+{{Marvel-char-stub}}

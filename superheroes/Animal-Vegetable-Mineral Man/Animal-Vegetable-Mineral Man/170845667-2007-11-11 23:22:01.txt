@@ -1,0 +1,43 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = [[Image:DoomPatrol89.jpg|200px]]
+| caption = Animal-Vegetable-Mineral Man, from ''Doom Patrol'' #89</br> Art by [[Bob Brown (comics)|Bob Brown]]
+| character_name = Animal-Vegetable-Mineral Man
+| publisher = [[DC Comics]]
+| debut = ''Doom Patrol'' Vol. 1, #89 (August 1964)
+| creators = [[Arnold Drake]] (writer)</br>[[Bruno Premiani]] (artist)
+| alter_ego = Dr. Sven Larsen
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = 
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = Can change his body into the form of any animal, vegetable, or mineral.
+}}
+
+'''Animal-Vegetable-Mineral Man''' is a [[fictional]] [[supervillain]] from the [[DC Universe]] and a foe of the original [[Doom Patrol]].  He first appeared in ''Doom Patrol'' (1st series) #89 (August 1964).  The story was written by [[Arnold Drake]], with art by [[Bruno Premiani]].
+
+==Fictional character biography==
+
+He was originally a [[Sweden|Swedish]] scientist named Sven Larsen.  Dr. Larsen was a former student of [[Chief (comics)|Niles Caulder]], but they had a falling out after Larsen accused Caulder of stealing his idea for the anti-decay ray. Larsen gained his superpowers after falling into a vat of [[amino acids]]. He used his powers to get revenge on Caulder and Doom Patrol.  The Doom Patrol defeated him and were able to remove his powers. He later regained them and fought the Doom Patrol again. <ref>''Doom Patrol'' (1st series) #95 (May 1965)</ref>
+
+Larsen returned to fight the second incarnation of the Doom Patrol in ''Doom Patrol'' Vol. 2 #15 (December 1988) and #16 (Winter 1988), in partnership with [[General Immortus]].  He was defeated after [[Celsius (comics)|Celsius]] encased him in ice.  His current whereabouts are unknown.
+
+==Powers and abilities==
+Animal-Vegetable-Mineral Man can change his body into the form of any animal, vegetable, or mineral.
+
+==Other appearances==
+Animal-Vegetable-Mineral Man had a cameo appearance in issue #28 of ''[[Teen Titans Go]]''.  The Doom Patrol discuss a battle they (along with a younger Beast Boy) had with Animal-Vegetable-Mineral Man.  He makes a full appearance on page 10, which itself is a based on the cover of the ''[[Doom Patrol]]'' comic.
+
+== References ==
+{{Reflist}}
+
+==External links==
+*[http://www.dcuguide.com/who.php?name=animalvegetablemineralman Unofficial biography at DC Universe]
+*[http://www.comics.org/details.lasso?id=18531 Entry at Grand Comicbook Database]
+
+[[Category:DC Comics supervillains]]
+[[Category:Fictional Swedes]]
+[[Category:Fictional scientists]]
+
+[[tl:Animal-Vegetable-Mineral Man]]

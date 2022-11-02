@@ -1,0 +1,34 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:AvengersWestCoastAnnual4.jpg|thumb|225px]]
+|caption=Cover to ''[[Avengers West Coast]] Annual'' #4, featuring Ghaur in the background. Art by [[John Byrne]].
+|comic_color=background:#ff8080
+|character_name=Ghaur
+|real_name=Ghaur
+|publisher=[[Marvel Comics]]
+|debut=''[[Eternals]] Vol.2'' #2 ([[November]], [[1985]])
+|creators=[[Peter B. Gillis]], [[Sal Buscema]], 
+|alliance_color=background:#4040ff 
+|status=Active
+|alliances=[[Deviants]], [[Kro]], [[Set (Serpent God)|Set]] 
+|previous_alliances=[[Llyra]] 
+|aliases=
+|relatives=
+|powers=[[mind control]] of other deviants; [[shapeshifter]] 
+|}}
+'''Ghaur''' (pronounced "Gore") is a [[Marvel Comics]] [[supervillain]]. Created by [[Peter B. Gillis]] and [[Sal Buscema]], he first appeared in ''[[Eternals]] Vol.2'' #2 ([[November]], [[1985]]).
+
+In the [[Marvel Universe]] he is the head of the [[Deviants|Deviant]] [[race]]'s [[priesthood]]. His [[superhuman]] powers include the ability to manipulate the minds and actions of any other Deviant, with the sole exception of the [[Kro|Warlord Kro]].
+
+In the 1985 / [[1986]] ''Eternals vol.2'' [[miniseries]] he plotted to steal the power of a member of the [[Celestials (comics)|Celestials]] ("The Dreaming Celestial") and briefly succeeded.
+
+In the [[1989]] ''[[Atlantis Attacks]]'' [[fictional crossover|crossover]] he, in alliance with the [[Lemuria|Lemurian]] [[super-villainess]]  [[Llyra]], attempted to facilitate the return of the [[serpent]] [[god]] [[Set (Serpent God)|Set]] to [[Earth]].
+
+He has since appeared in ''[[Heroes for Hire]]'' #5-7 ([[1997]]), ''The New Eternals: Apocalypse Now'' ([[2000]]) and ''[[Black Panther (comics)|Black Panther]] Vol.3'' #26-29 ([[2001]]).
+
+==References==
+*[http://www.geocities.com/brenni_au/G.html "G" in the Encyclopaedia Olympianna]
+*[http://www.marveldirectory.com/individuals/g/ghaur.htm Marvel Directory entry on Ghaur]
+*[http://www.maelmill-insi.de/UHBMCC/ The Unofficial Handbook of Marvel Comics Creators]
+
+[[Category:Marvel Comics Deviants]]
+[[Category:Namor villains]]

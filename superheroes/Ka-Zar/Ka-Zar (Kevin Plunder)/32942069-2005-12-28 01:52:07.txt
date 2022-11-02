@@ -1,0 +1,35 @@
+{{Superherobox|
+image=[[Image:Ka-Zar_Intro.jpg|250px]]
+|caption=The first appearance of Ka-Zar and Zabu (1965).<br>Art by [[Jack Kirby]].
+|comic_color=background:#ff8080
+|character_name=Ka-Zar
+|real_name=Lord Kevin Reginald Plunder
+|publisher=[[Marvel Comics]]
+|debut=''X-Men'' vol. 1 #10
+|creators=[[Stan Lee]]<br>[[Jack Kirby]]
+|alliance_color=background:#ffc0c0
+|status=active
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=Lord Robert Plunder (father), Parnival (brother), Shanna the She-Devil (wife)
+|powers=Super strength; ability to communicate with some animals
+|}}
+
+'''Ka-Zar''' (pronounced "KAY-sar") is the name of two jungle-dwelling [[fictional character]]s, both published by [[Marvel Comics]].  The first originated in the [[pulp magazine]]s, while the second exists in the [[Marvel Universe]].
+
+==Ka-Zar I==
+The first, David Rand, was a typical "jungle lord" who first appeared in ''Ka-Zar'' #1 ([[Manvis Publishing]], 1936).  He was an unremarkable [[Tarzan]] clone who was adapted by Marvel starting with ''Marvel Comics'' #1 (October 1939).  Although he once met the [[Human Torch (Golden Age)|original Human Torch]], Marvel company policy is that in the canon of current continuity, this character never existed; the only Ka-Zar is the second one.
+
+==Ka-Zar II==
+The second, Lord Kevin Reginald Plunder, started as a similar character, but a clone of both Tarzan and [[Turok]].  He was created by [[Stan Lee]] and [[Jack Kirby]] in ''[[X-Men]]'' volume 1 #10 (March 1965).  He lives in the [[dinosaur]]- and [[caveman]]-populated [[Savage Land]], which was hidden beneath [[Antarctica]] by [[Extraterrestrial life | alien]]s.  He is the eldest son of Lord Robert Plunder, the [[England|English]] [[nobility|nobleman]] who discovered the Savage Land.  He was found and raised by the [[smilodon|sabertooth tiger]] Zabu, who possesses near-human intelligence thanks to a [[mutation]] caused by radioactive mists.  Ka-Zar and Zabu are constant partners.  His brother Parnival is the [[supervillain]] called the [[Plunderer]]; his wife is the adventurer [[Shanna the She-Devil]], and they have a son, Matthew. Ka-Zar teamed up with [[Spider-Man]] on several occasions, one of which involved stopping [[Stegron the Dinosaur Man]] from invading New York City with Savage Land dinosaurs.
+
+==Trivia==
+*During the early 1980s, Marvel experimented with the then-new comic book specialty outlets by turning three of their monthly comic titles into "direct distribution only" titles.  These comics were printed on harder paper stock than the newsprint commonly used for comics at the time, were removed from under the aegis of the [[Comics Code Authority]], and were written and drawn with more mature, adult themes.  They were only available via subscription or from a direct distribution comics specialty store.  Ka-Zar was one of the three titles to receive this treatment.  (The other two were [[Moon Knight]] and [[Micronauts|The Micronauts]].)
+
+
+[[Category:Marvel Comics heroes, non-superpowered]]
+[[Category:Spider-Man supporting characters]]
+[[Category:X-Men supporting characters]]
+
+[[pt:Ka-Zar]]

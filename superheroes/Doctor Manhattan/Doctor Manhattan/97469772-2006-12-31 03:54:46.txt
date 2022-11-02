@@ -1,0 +1,79 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:DrManhattan.jpg]]
+|caption=Doctor Manhattan from Watchmen.  Art by Dave Gibbons.
+|comic_color=background:#8080ff
+|character_name=Doctor Manhattan
+|real_name=Jonathan Osterman
+|publisher=[[DC Comics]]
+|debut=''Watchmen'' #1 ([[1986]])
+|creators=[[Alan Moore]] (story), [[Dave Gibbons]] (art), based on [[Captain Atom]] created by [[Steve Ditko]]
+|alliance_color=background:#ffc0c0
+|status=Exploring the universe
+|alliances=formerly [[United States]] government
+|previous_alliances=Crimebusters
+|aliases=Jon Osterman (former identity)
+|relatives=Father (deceased)
+|powers=Control over space, time, matter and energy, Flight, Invulnerability, Immortality, Superhuman strength, speed and endurance, [[Telepathy]], [[Precognition]], [[Teleportation]]
+|}}
+
+'''Doctor Manhattan''' (Dr. '''Jon Osterman''') is a [[fictional character]] featured in the acclaimed [[DC Comics]] series ''[[Watchmen]].'' 
+
+Due to an accident involving an [[atomic physics]] experiment, Dr. Osterman was taken outside the physical realm and returned with [[god]]-like powers, including superhuman strength, [[telekinesis]], the ability to [[teleportation|teleport]] himself or others over planetary, [[interplanetary]] and possibly [[interstellar]] distances (the exact limit to the number of people other than himself he can teleport at one time or the distance he can teleport them is unknown; it is quite possible there may be none), control over matter at a [[molecule|molecular]] level, and near total [[clairvoyance]]. 
+
+While his [[Military of the United States|military]] backers [[marketing|market]] him as a [[superhero]], he grows increasingly uninterested in human affairs, despite his importance in the [[Cold War]], and is unable to connect with others, especially his love interest Laurie, the former [[Silk Spectre]].
+
+Dr. Manhattan was created by ''Watchmen'' writer [[Alan Moore]] and artist [[Dave Gibbons]] but, like all main characters of the series, he is a modified version of a [[Charlton Comics]] character, in this case [[Captain Atom]], created by [[Steve Ditko]].
+
+{{spoilers}}
+
+==Character history==
+===Early life ===
+'''Doctor Manhattan''' was born Jon Osterman in 1929.  His father was a [[watchmaker]], and Jon plans to follow in his footsteps.  When the [[Atomic bombings of Hiroshima and Nagasaki|US drops the atomic bomb]] on [[Hiroshima]], Jon is sixteen.  His father, confronted with the undeniable facts of the [[theory of relativity]], declares his profession outdated and throws his son's watch-making parts out the windows.  Not only is this the turning point in Jon's potential future from watchmaker to [[nuclear physicist]], it foreshadows Doctor Manhattan's 'exterior' perception of time as predetermined and all things within it as so determined, including Doctor Manhattan's own reactions and emotions.
+
+Jon Osterman attends [[Princeton University]] from [[1948]]-[[1958|58]] and graduates with a [[Doctor of Philosophy|Ph.D.]] in [[atomic physics]]. In [[1959]], he moves to a research base at [[Gila Flats]], where experiments are being performed concerning the 'intrinsic fields' of physical objects which, if tampered with, result in their disintegration.  Here he meets Janey Slater, a fellow researcher; they are eventually to become lovers.
+
+During a trip to [[New Jersey]] in July 1959, Jon and Janey visit an amusement park.  There Janey's watchband breaks, and the watch is damaged when a fat man steps on it. Jon decides that he can repair the watch, and tells Janey so.  That night they sleep together.
+
+One month later, in August, 1959, Jon goes to give Janey the repaired watch, only to discover he has left it in his lab coat, which is inside the intrinsic field experiment test chamber.  While Jon is inside the test chamber retrieving his coat the door closes, automatically locking as a safety feature. Unable to open the door or override the countdown, Osterman's colleagues - save for Janey, who cannot bear to see the last moment and flees the room - can only watch, horrified, as the countdown for the current experiment shortly reaches zero, and Jon has his 'intrinsic field' removed. He is instantly vaporised and declared dead.
+
+===Transformation and abilities===
+The following months see a series of strange events and apparitions at the research base, leading residents to speculate the area is now haunted.  It becomes plain that Jon Osterman has been progressively reforming himself, this progression being indicated by a series of partial bodily reappearances: first as a disembodied [[nervous system]], including the brain and eyes; then as a [[circulatory system]] (November 10); then a partially muscled [[skeleton]] (November 14). Each time, the appearance only lasts for a few seconds.  Jon fully reappears on November 22 as a tall, hairless, blue-skinned man.
+
+Jon is the only character in the ''[[Watchmen]]'' world to explicitly possess superhuman abilities, although the details of the plot presuppose the existence (and the ability to detect) occasional genuine human psychics.  Jon has complete awareness of and control over basic atomic (and possibly sub-atomic) particles, and can alter his body's size, coloration, density, and strength.  He does not appear to age, need food, water, or air, and is for all intents and purposes immortal and indestructible. His only weakness appears to be to tachyons; a large burst of them can 'jam' or slow his ability to see the future to some extent. In addition, he can create multiple copies of himself which function independently of each other, project destructive energy, create [[Force field (science fiction)|force field]]s, [[transmutation|transmute]] or create matter, [[teleportation|teleport]] himself and others, move objects without physically touching them ([[Psychokinesis|telekinesis]]), and even reverse [[entropy]] locally.  At one point in the ''Watchmen'' story-line it is stated that, in the event of a nuclear war, he would be capable of destroying upwards of 60% of all [[Soviet]] [[Nuclear weapon|nuclear missiles]] while at the same time 'destroying' large areas of Russia.  As a result of these capabilities, Jon becomes central to the United States' [[Cold War]] strategy of [[deterrence]].
+
+After his transformation, Jon begins to experience time in a non-linear, "quantum" fashion; it is implied that Jon is aware of and experiencing all the moments of his life simultanously.  Jon is not omniscient; he remains reliant on his intellect to reach conclusions, but his range of sensory data has been abruptly extended, in proportion to the lessening of his emotional capacities.  This often leads him to arrive at conclusions greatly different from those available to normal humans.  His already weak will (marked by his apparent submission to his father's career plans, whatever they might be) becomes sublimated further during this time.   He increasingly has difficulty acting in what those around him consider the present moment, leading to many accusations and even the public perception that he is emotionless and uninterested in human affairs (for instance, he does nothing to prevent the [[assassination]] of President [[John F. Kennedy]], even though he is aware it is going to happen).  However, during the course of ''Watchmen'' he displays powerful emotion several times.  His apparent lack of sentiment is more a matter of radically altered priorities, owing to a colossal, unbridgable gap of perception between Jon and the rest of humanity. 
+
+He subscribes to a deterministic view of events (at one point remarking "We're all puppets, Laurie.  I'm just a puppet who can see the '''''strings'''''."); at no point in ''Watchmen'' does Doctor Manhattan appear to exert an effort of choice, and his actions often seemed governed by a rigidly [[utilitarianism|utilitarian]] code of ethics in which the correct course of action must be the one that benefits the most.  In some sense, unlimited power has come at the cost of the total absence of responsibility, and his growing detachment, if not apathy, is juxtaposed with his apparent ability to ''do anything''.  During the period in which Doctor Manhattan is a crime-fighter (at the behest of the government) he states that the morality of such activities escapes him.  From his radically altered perspective, almost all human concerns appear pointless, and without obvious merit.
+
+===Effect on the Cold War===
+Jon gradually becomes a pawn of the United States government, and he is given the code name 'Doctor Manhattan', a reference to the [[Manhattan Project]] that, it is hoped, will terrorize America's enemies.  He is also provided with a costume which he grudgingly accepts, though he refuses to accept the icon design which is provided for him (this being a stylised orbital model of the atom).  Instead, Jon chooses as his emblem a representation of a hydrogen atom, whose simplicity he declares to be something that kindles his respect; accordingly, he painlessly burns the mark into his forehead.  This preference for material mechanisms marks the beginning of Jon's declining humanity, which is progressively mirrored by his gradual shedding of the uniform, which, by the end of the 1970s, he refuses to wear at all.  
+
+However, Jon's presence still succeeds in tipping the balance of the [[Cold War]] in the West's favour, and the United States consequently becomes more aggressive and adventurist during this period.  His abilities also radically alter the world economy, as he can, for example, synthesize the massive amounts of [[lithium]] required for all motor vehicles to become electric.  At President [[Richard M. Nixon]]'s request, he brings America victory in the [[Vietnam war]] within three months.  This victory distorts the American political process, as the [[22nd Amendment]] is repealed and Nixon is then repeatedly reelected (and is still serving as of 1985, the year in which ''Watchmen'' is set, for what is theoretically his ''fifth'' term).   Moreover, indications in the storyline suggest that, far from solving the problems underlying the international tension, Doctor Manhattan's presence in fact exacerbates them while stifling their expression, which inevitably builds towards disaster; the entire plot of ''Watchmen'' occurs during the countdown to a potential [[nuclear holocaust]].
+
+===Exile and departure===
+During the first meeting of the 'Crimebusters' superhero group, he catches the eye of Laurie Juspeczyk, the second [[Silk Spectre]].  His relationship with Janey Slater ends acrimoniously shortly after, and he begins dating Laurie.
+
+During the execution of [[Ozymandias (comics)|Adrian Veidt]]'s plot to save the world, Manhattan is tricked into believing that he causes cancer in those exposed to him over long periods of time.  It emerges that this is untrue, a careful fabrication of Veidt's, but this revelation is not quick enough to prevent Manhattan from exiling himself to [[Mars]], where he spends much of the action of ''Watchmen''.  Eventually, he brings Laurie (who, in the meantime, has taken Dan Dreiberg/Nite Owl II as a new lover) to Mars, where they argue over the fate of the human race.
+
+==Events of Watchmen==
+At the start of ''Watchmen'', Doctor Manhattan is working in the [[Rockefeller]] Military Research Center for the U.S. Government. He is living with the [[Silk Spectre]], Laurie Juspeczyk.  
+
+Doctor Manhattan leaves Earth for [[Mars]] when he is accused of causing [[cancer]] in close associates over the years.  However, this was a frame arranged by [[Ozymandias (comics)|Veidt]] to induce Osterman to leave, to remove his interference in his scheme to save the world.  Eventually, he brings Laurie to Mars to discuss why he should do anything to aid humanity, an argument Laurie inadvertently wins when she goes through her life and realizes to her shock that her father is [[Comedian (comics)|the Comedian]], a man whom she despised for [[Sexual assault|sexually assault]]ing her mother.  From that revelation, Doctor Manhattan is amazed by the improbable chances that occurred to result in the birth of Laurie, which he sees as a stunning "thermodynamic miracle".  By extension, this miracle can apply to any living thing on Earth, and so Doctor Manhattan decides to return to Earth to protect this wonder called life.
+
+Although they return too late to stop Veidt's plan, they teleport to [[Antarctica]] to confront him. Veidt hinders Doctor Manhattan with a [[tachyon]] generator that interferes with Doctor Manhattan's ability to see the future, and then disintegrates him by subtracting his intrinsic field. Doctor Manhattan restores himself much more quickly this time, but when Veidt reveals that his scheme appears to have averted a looming [[nuclear war]] Doctor Manhattan realizes that to expose the scheme would be too dangerous for all life on Earth. Doctor Manhattan and the other superheroes except for [[Rorschach (comics)|Rorschach]] agree to keep quiet to preserve Veidt's results, and Doctor Manhattan kills an enraged Rorschach at the vigilante's own insistence.
+
+At the end of ''Watchmen'', Doctor Manhattan decides to depart Earth for good. Veidt is surprised by his decision, pointing out the apparent contradiction with Doctor Manhattan's renewed interest in human life. Doctor Manhattan responds, "Yes. Perhaps I'll create some."
+
+
+[[Category:Fictional mutates|Manhattan, Doctor]]
+[[Category:Fictional scientists|Manhattan, Doctor]]
+[[Category:Fictional nudists|Manhattan, Doctor]]
+[[Category:DC Comics immortals|Manhattan, Doctor]]
+[[Category:Fictional inventors|Manhattan, Doctor]]
+[[Category:Fictional characters with telekinesis|Manhattan, Doctor]]
+[[Category:Fictional characters with the power to warp reality|Manhattan, Doctor]]
+[[Category:Fictional Vietnam veterans|Manhattan, Doctor]]
+[[Category:Fictional atheists]]
+
+[[fr:Dr Manhattan]]
+[[it:Dr. Manhattan]]

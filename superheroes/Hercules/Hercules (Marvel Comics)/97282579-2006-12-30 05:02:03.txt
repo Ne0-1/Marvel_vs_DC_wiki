@@ -1,0 +1,95 @@
+{{ For|the DC Comics version of Hercules|Hercules (DC Comics) }}
+{{comics-tense-date|October 2006}}
+
+{{Superherobox| <!--Part of Wikipedia:WikiProject Comics-->
+image=[[Image:Hercules 1.jpg|250px]]
+|caption=Cover to ''Hercules'' #1 (2005). Art by [[Mark Texeira]].
+|character_name=Hercules
+|publisher=[[Marvel Comics]]
+|debut=[[Journey into Mystery|Journey into Mystery Annual]] #1
+|creators=[[Stan Lee]] (writer)<br/> [[Jack Kirby]] (artist)
+|alter_ego =
+|species = [[Olympians (comics)|Olympian]]
+|homeworld = Olympus
+|alliances = [[Avengers (comics)|Secret Avengers]], [[Avengers (comics)|Avengers]], [[Champions (comics)|Champions]], [[Defenders (comics)|Defenders]], [[Heroes for Hire]], [[Damage Control (comics)|Damage Control]], Olympian Pantheon, Olympia Corp, Argonauts
+|aliases = <!-- optional: actual identities the character uses, not nicknames -->
+|supports=<!--optional-->
+|powers = Superhuman strength, durability, stamina, immortality.
+}}
+
+'''Hercules''' is a [[fictional character]], an [[Olympians (comics)|Olympian]] god and [[superhero]] in the {{Marvel Universe}}. Based on the mythological [[demi-god]] and hero called Heracles by the Greeks and [[Hercules]] by the Romans.  He was adapted and introduced by writer-editor [[Stan Lee]] and artist-coplotter [[Jack Kirby]] in ''[[Journey into Mystery|Journey into Mystery Annual]]'' #1 (1965). Hercules was first used as a [[Foil (literature)|foil]] for [[Thor (Marvel Comics)|Thor]].
+
+==Fictional character biography==
+===Origin===
+Hercules was born to Zeus, king of the Olympian gods, and Alcmene, a mortal woman. Blessed with extraordinary strength imparted by his father, his history is similar to that of the mythical [[Hercules]]. The Marvel version of Hercules deviates from myth in that Hercules did not die courtesy of a poisoned robe, but rather remained in Olympus until the dawn of the Silver Age and the rise of the [[superhero]]. 
+
+===Modern era===
+Hercules' first appearance was technically ''Avengers'' #10, in which Immortus pulled Hercules from the ancient past to battle Thor.<ref>{{Comic book reference | Writer = [[Stan Lee|Lee, Stan]] | Penciller = [[Don Heck|Heck, Don]] | Inker = [[Dick Ayers|Ayers, Dick]] | Story = The Avengers Break Up! | Title = [[Avengers (comics)|Avengers]] | Volume = 1 | Issue = 10 | Date = November 1964 | Publisher = [[Marvel Comics]] }}</ref> As this was the Hercules from the past, the "modern" Hercules had no memory of the encounter when meeting Thor in ''Thor Annual'' #1 (1965).<ref name=JintoM>{{Comic book reference | Writer = [[Stan Lee|Lee, Stan]] | Penciller = [[Jack Kirby|Kirby, Jack]] | Inker = [[Vince Colletta|Colletta, Vince]] | Story = When Titans Clash! | Title = [[Journey into Mystery|Journey into Mystery Annual]] | Issue = 1 | Date = December 1965 | Publisher = [[Marvel Comics]] }}</ref> A [[retcon]] in the mini-series ''[[Avengers Forever]]'' (1998-2000), which "fixed" many inconsistencies in Avengers history, determined that the historical Hercules that Thor first met was in fact a [[Space Phantom]] in disguise.<ref>{{Comic book reference | Title = [[Avengers Forever]] | Issue =  | Date = 1998-2000 | Publisher = [[Marvel Comics]] }}</ref>  
+
+Hercules first appeared in ''Avengers'' #38 as a thrall of the Enchantress,<ref>{{Comic book reference | Writer = [[Roy Thomas|Thomas, Roy]] | Penciller = [[Don Heck|Heck, Don]] | Inker = [[George Bell|Bell, George]] | Story = In Our Midst... An Immortal! | Title = Avengers | Volume = 1 | Issue = 38 | Date = March 1967 | Publisher = [[Marvel Comics]] }}</ref> but went on to aid the team through issues #39-50 (officially joining in #45) against the likes of the [[Mad Thinker]]; the [[Namor the Sub-Mariner|Sub-Mariner]]; [[Diablo (comics)|Diablo]] and the [[Dragon Man]]; the [[Red Guardian]]; [[Whirlwind (comics)|Whirlwind]] and Typhon.<ref>{{Comic book reference | Title = Avengers | Volume = 1 | Issue = 39-50 | Date = April 1967-March 1968 | Publisher = [[Marvel Comics]] }} (officially joining in #45)</ref> Hercules would later appear in the Olympian arc (#98-100);<ref>{{Comic book reference | Title = Avengers | Volume = 1 | Issue = 98-100 | Date = March 1972-June 1972 | Publisher = [[Marvel Comics]] }}</ref> and return for the final issues of the "Korvac saga" (#173-177).<ref>{{Comic book reference | Story = Korvac Saga | Title = Avengers | Volume = 1 | Issue = 173-177 | Date = July 1978-November 1978 | Publisher = [[Marvel Comics]] }}</ref> Hercules made a guest appearance in #211,<ref>{{Comic book reference | Title = Avengers | Volume = 1 | Issue = 211 | Date = September 1981 | Publisher = [[Marvel Comics]]  }}</ref> before rejoining the team on an ongoing basis as of #250.<ref>{{Comic book reference | Story = The Fist Of Maelstrom! | Title = Avengers | Volume = 1 | Issue = 250 | Date = December 1984 | Publisher = [[Marvel Comics]] }}</ref>  
+
+In the "Avengers Under Siege" storyline in ''Avengers'' #270-277,<ref>{{Comic book reference | Story = Avengers Under Siege | Title = Avengers | Volume = 1 | Issue = 270-277 | Date = August 1986-March 1987 | Publisher = [[Marvel Comics]] }}</ref> [[Baron Zemo#Baron Helmut Zemo|Baron Helmut Zemo]] assembled a super-sized version of the [[Masters of Evil]] and courtesy of a pawn had Hercules drugged at a bar. Returning to the Mansion during the siege, a drunken Hercules ignored the [[Wasp (comics)|Wasp]] and held off the attacking the Masters of Evil until being surprised and viciously beaten by [[Atlas (comics)|Goliath]]. Hercules fell into a coma as a result of his beating, and was eventually retrieved by Hermes and taken back to Olympus, setting the stage for the "Assault on Olympus" storyline, which ran from #280-285.<ref>{{Comic book reference | Story = Assault on Olympus | Title = Avengers | Volume = 1 | Issue = 280-285 | Date = June 1987-November 1987 | Publisher = [[Marvel Comics]] }}</ref> Blamed by Zeus for Hercules' condition, the Avengers battled the gods and finally Zeus himself.
+
+
+
+===Exile===
+
+Angered by his son's preference for the mortal world, Zeus strips Hercules of his immortality and a great deal of his power, then exiles him to Earth. There, the traumatized Hercules drew support from the Avengers, especially Deathcry, whom he helped to return to her Shi'ar homeworld. Upon returning from space, Hercules discovered that the Avengers had apparently sacrificed themselves to stop the being known as [[Onslaught (comics)|Onslaught]]. Distraught over the loss of his comrades, he took to drinking, becoming an alcoholic. 
+
+Hercules traveled in search of adventure, briefly serving with the [[Heroes For Hire]]. When the Avengers and other heroes returned from their exile, Hercules joined the reformed team, opting to be an inactive member rather than serve as an active member. Hercules also sought out Goliath, now known as the hero Atlas, in order to exact revenge for his coma. [[Hawkeye (comics)|Hawkeye]] convinces Hercules to stand down, at the cost of their long friendship.
+
+===New Labors===
+With the dissolution of the Avengers during the "Disassembled" storyline and the destruction of Asgard, Hercules fell to old habits, frequenting bars and putting forth the image of a drunkard.  With Hercules in a vulnerable position, Hera decided to strike with a new set of Labors.  To this end, she utilized [[Eurystheus]], now the head of a modern company, to film a reality television show of Hercules completing new Labors, updated for the modern age.  During the course of his labors, Hercules found forgiveness from Megara, and returned to defeat Eurystheus.<ref>{{Comic book reference | Title = Hercules | Volume =  | Issue = 1-5 | Date = 2005 | Publisher = [[Marvel Comics]]
+ }}</ref>
+
+Hercules goes on to fight and seriously injure the [[Constrictor (comics)|Constrictor]], a supervillain who then sues Hercules, sending him into financial ruin. After helping Zeus and Ares unite the gods to defend Olympus against invaders, Hercules once again returned to Earth, and rejoined [[Damage Control (comics)|Damage Control]] in order to earn money. Previously, Hercules had to perform community service with Damage Control, as a result of his drunken stupors. This time, however, he is an employee, working in construction and demolition. Hercules would recover, however, when he participated in a poker game organized by the [[Thing (comics)|Thing]] and won much of his fortune back from the Constrictor.
+
+===Civil War===
+{{spoiler}}
+
+In the 2006 Marvel Comics crossover event [[Civil War (comics)|Civil War]], Hercules is shown as an early opponent of the Superhuman Registration Act, and seems to regard the Pro-Registration Heroes as "traitors".  He has taken the alias "Victor Tegler", an IT consultant, as cover to hide from pro-registration forces.  In the final pages of ''Civil War'' # 3, he is incapacitated by a bolt of lightning summoned by a clone of [[Thor (Marvel Comics)|Thor]]. In the following issue, he is the only member of [[Captain America|Captain America's]] team to resist the sonic attack triggered by [[Iron Man]].<ref>{{Comic book reference | Title = Civil War | Issue = 3-4 | Date = 2006 | Publisher = [[Marvel Comics]] }}</ref>
+{{endspoiler}}
+
+==Relationship with other gods==
+===The Mighty Thor===
+[[Thor (Marvel Comics)|Thor]] and Hercules are close rivals, but neither has hesitated to help the other if needed. The second meeting between the two gods was recently chronicled in the six-part series ''Thor: Blood Oath'' (2005).<ref>{{Comic book reference | Writer = [[Michael Avon Oeming]] | Artist = [[Scott Kolins]] | Title = Thor: Blood Oath | Issue = 2-4 | Date = December 2005- January 2006 | Publisher = [[Marvel Comics]] }}</ref> The third meeting took place in ''Journey Into Mystery'' #125 and ''Thor'' #126-130, when Thor battled the minions of Pluto to save Hercules from being trapped in the underworld forever.<ref>{{Comic book reference | Writer = [[Stan Lee]] | Penciller = [[Jack Kirby]] | Inker = [[Vince Colletta]] | Story =  | Title = Journey Into Mystery | Volume = 1 | Issue = 125 | Date =  February 1966 | Publisher = [[Marvel Comics]] }}</ref><ref>{{Comic book reference | Writer = [[Stan Lee]] | Penciller = [[Jack Kirby]] | Inker = [[Vince Colletta]] | Title = Thor | Volume = 1 | Issue = 126-130 | Date = March 1966-July 1966 | Publisher = [[Marvel Comics]] }}</ref> Hercules has returned the favor and assisted Thor on several occasions, a notable example being the final battle against the Dark Gods in ''Thor'' (vol. 2) #10-12.<ref>{{Comic book reference | Writer = [[Dan Jurgens]] | Penciller = [[John Romita, Jr.]] | Inker = [[Klaus Janson]] | Story = The Dark Wars | Title = Thor | Volume = 2 | Issue = 10-12 | Date =  April 1999-June 1999 | Publisher = [[Marvel Comics]] }}</ref>
+
+===Other gods===
+For all Zeus' gruffness, ''Hercules'' volume 2 #4 shows that he regards Hercules as his favorite,<ref>{{Comic book reference | Title = Hercules: Full Circle | Volume = 2 | Issue = 4 | Date = 1984 | Publisher = [[Marvel Comics]] }}</ref> much to chagrin of the other Olympians - with the exception of Hercules' half-brother [[Apollo (Marvel Comics)|Apollo]]. Both Ares and Pluto are Hercules' mortal enemies.<ref>{{Comic book reference | Writer = [[Stan Lee]] | Penciller = [[Jack Kirby]] | Inker = [[Vince Colletta]] | Story = The Power of Pluto! | Title = Thor | Volume = 1 | Issue = 128 | Date = May 1966 | Publisher = [[Marvel Comics]] }}</ref>
+
+==Alternate versions==
+===Hercules 2300===
+Hercules also starred in two miniseries set in the 24th century.<ref>{{Comic book reference | Title = Hercules: Prince of Power | Volume = 1 | Issue = 1-4 | Date = 1982 | Publisher = [[Marvel Comics]]  }}</ref><ref>{{Comic book reference | Title = Hercules: Full Circle | Volume = 2 | Issue = 1-4 | Date = 1984 | Publisher = [[Marvel Comics]] }}</ref> In a bid to teach his son humility, an offended Zeus banishes Hercules. Loaned Apollo's chariot and steeds as a means of transportation, Hercules explores the cosmos. He encounters and befriends a Skrull named Skyppi and the Rigellian Recorder #417, woos various ladies (one of whom would give birth to a son who would become emperor of a planet and bitter towards his absentee father), fights assorted aliens, and, hopelessly outmatched against the World Devourer [[Galactus]], only succeeds in amusing him. This, however, proves to be enough, as Galactus forgets his hunger and spares the planet Hercules is defending. After numerous encounters with a variety of beings including [[Galactus]], Hercules returns to Olympus to confront Zeus.
+
+== Powers and abilities ==
+===Power===
+Hercules' primary power is his superhuman physical strength. Hercules is physically the strongest of all Olympians. He once lifted and hurled a giant Sequoia tree.{{cn}} While the limits of Hercules' strength have never been measured, he is strong enough to stand toe to toe with [[Thor (Marvel Comics)|Thor]] (''Thor Annual'' #1, 1965) and an enraged [[Hulk]] (''Tales To Astonish'' #79, 1966).<ref name=JintoM>{{Comic book reference | Writer = [[Stan Lee|Lee, Stan]] | Penciller = [[Jack Kirby|Kirby, Jack]] | Inker = [[Vince Colletta|Colletta, Vince]] | Story = When Titans Clash! | Title = Journey Into Mystery Annual | Issue = 1 | Date = December 1965 | Publisher = [[Marvel Comics]] }}</ref><ref>{{Comic book reference | Title = Tales To Astonish | Volume = 1 | Issue = 79 | Date = May 1966 | Publisher = [[Marvel Comics]] }}</ref>
+
+Since Zeus's punishment (marked by a "lightning bolt" tattoo on Hercules's shoulder), he has reverted to his original, ancient strength level.{{fact}} Another result of this is that Hercules is no longer an immortal, aging just as ordinary humans do.{{fact}} At his full godly power, Hercules is functionally immortal, as are other Olympians. Hercules is immune to all known diseases, and cannot die under conventional circumstances, at least before Zeus's punishment. Hercules' body is highly resistant to physical injury and has withstood the impact of high caliber machine gun shells, falls from tremendous heights, exposure to temperature extremes and powerful energy blasts without sustaining injury. It took two point-blank blasts from the god Michael Korvac to bring Hercules to the point of death, although he was revived with the other fallen Avengers by a dying Korvac in ''Avengers'' volume 1, #177.<ref>{{Comic book reference | Title = Avengers | Volume = 1 | Issue = 177 | Date = November 1978 | Publisher = [[Marvel Comics]] | Page =  | Panel =  }}</ref>
+
+===Skills===
+Hercules is a skilled hand to hand combatant and [[Greco-Roman wrestling|Greco-Roman wrestler]]. Hercules is highly skilled with all forms of weaponry used in ancient Greece. Hercules' weapon of choice is an adamantine mace, forged by Hephaestus, the blacksmith of the gods. ''Thor Annual'' #1 showed the mace to be as durable as Thor's mystical hammer [[Mjolnir (comics)|Mjolnir]].<ref name=JintoM>{{Comic book reference | Writer = [[Stan Lee|Lee, Stan]] | Penciller = [[Jack Kirby|Kirby, Jack]] | Inker = [[Vince Colletta|Colletta, Vince]] | Story = When Titans Clash! | Title = Journey Into Mystery Annual | Volume =  | Issue = 1 | Date = December 1965 | Publisher = [[Marvel Comics]] }}</ref>
+
+==Other media==
+===Television===
+[[Image:MSH-Thor_1966TVtoon.jpg|220 px|left]]
+* He was a regular character on the Mighty Thor segment of ''[[Marvel Super Heroes]]''.
+
+==References==
+<div class="references-small">
+<references/>
+</div>
+
+==External links==  	 
+* [[MarvelDatabase:Hercules (Heracles)|Marvel Database Project: Hercules]] 	 
+* [http://www.marvel.com/universe/Hercules Marvel.com Bio of Hercules]
+
+[[Category:1964 introductions]]
+[[Category:Marvel Comics Olympians]]
+[[Category:Mythology in comics]]
+[[Category:Marvel Comics characters with superhuman strength]]
+
+[[es:Hércules (historietas)]]
+[[pt:Hércules (Marvel comics)]]
+[[fi:Herkules (sarjakuvahahmo)]]
+[[nl:Hercules (Marvel)]]

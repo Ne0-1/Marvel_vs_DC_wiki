@@ -1,0 +1,25 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:anthro.jpg|200px]]
+|caption=Entry from ''[[Who's Who]]'' #1, illustrated by Howard Post
+|comic_color=background:#8080ff
+|character_name=Anthro
+|real_name=Anthro
+|publisher=[[DC Comics]]
+|debut=''[[Showcase (comics)|Showcase]]'' #74 (May 1968)
+|creators=[[Howard Post]]
+|alliance_color=background:#ffc0c0
+|alliances=The Bear Tribe
+|aliases=
+|powers=
+|}}
+'''Anthro''' is a [[fictional character]], the first [[Cro-Magnon]] boy born in the [[DC Comics]] [[DC Universe|universe]]. Anthro was created by cartoonist [[Howard Post]].  After appearing in issue #74 of ''[[Showcase (comics)|Showcase]]'', he moved to his own title that lasted 6 issues (1968-69).  
+
+Anthro was a teen-age caveman.  His father was the chief of his tribe, his mom a member of another tribe.  
+
+==External link==
+*[http://www.toonopedia.com/anthro.htm Toonopedia entry]
+
+[[Category:DC Comics characters]]
+[[Category:DC Comics titles]]
+
+{{DC-Comics-stub}}

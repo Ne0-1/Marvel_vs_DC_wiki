@@ -1,0 +1,32 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+ image = 
+|caption = 
+|comic_color = background:#ff8080
+|character_name = Tusk
+|publisher = [[Marvel Comics]]
+|debut = [[X-Factor (comics)|X-Factor]] (1st series) #65
+|creators = [[Jim Lee]]<br>[[Chris Claremont]]<br>[[Whilce Portacio]] 
+|alliance_color = background:#c0c0ff
+|alter_ego = 
+|species = [[Inhumans|Inhuman]]
+|alliances[[Dark Riders (comics)|Dark Riders]]
+|aliases = Tusk and the Underlings
+|powers =<br>
+*Generation of miniature genetic duplicates<br>
+*Superhuman strength
+}}
+'''Tusk''' is a fictional [[supervillain]] in the {{Marvel Universe}}. His name comes from the two large tusks that protrude out of his shoulders. He has superhuman strength and the ability to create smaller duplicates of himself that do his bidding.  
+
+Tusk is a member of The [[Dark Riders (comics)|Dark Riders]], a team of evil [[Inhuman]]s that served [[Apocalypse (comics) |Apocalypse]] by carrying out his "survival of the fittest" program by eliminating mutants that were deemed to be weak.
+
+Tusk has rarely been present in later incarnations of The Dark Riders, such as the one that abducted [[Wolverine (comics) |Wolverine]] and attempted to infuse [[adamantium (comics)|adamantium]] to his skeleton once more. Following the team's last defeat, his current status is unknown. 
+
+==Appearances in other media==
+Tusk made minor appearances in the [[X-Men (animated series)|''X-Men'' animated series]], though here he was established as a mutant and not an Inhuman. He appeared on the 4th season episode ''Secrets, No Longer Buried'' working as a farmer in the town of Skull Mesa and also was a soldier in [[Magneto (comics)|Magneto's]] mutant army in the series final episode.
+
+{{Marvel-villain-stub}}
+
+[[Category:Wolverine villains]]
+[[Category:Inhumans]]
+[[Category:X-Men villains]]
+[[Category:Dark Riders]]

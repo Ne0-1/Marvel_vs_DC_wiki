@@ -1,0 +1,52 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image= [[Image:Steel comic 1.jpg|250px]]
+|caption= ''Steel, The Indestructible Man'' # 1, artist [[Don Heck]]
+|character_name = Commander Steel
+|publisher = [[DC Comics]]
+|debut = ''Steel, The Indestructible Man'' # 1
+|creators = [[Gerry Conway]] (writer)<br>[[Don Heck]] (artist)
+|real_name = Henry "Hank" Heywood
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances = [[All-Star Squadron]]<br>[[Shadow Fighters (comics)|Shadow Fighters]]
+|aliases =[[Steel (comics)|Steel]]
+|supports = <!-- optional -->
+|powers = Cyborg, great strength, limited invulnerability, limited superspeed
+|}}
+
+'''Commander Steel''' is the name of a [[fictional character]], a [[DC Comics]] [[superhero]]. He first appeared in ''Steel, The Indestructible Man'' #1 (1978), published by [[DC Comics]] and was created by [[Gerry Conway]] and [[Don Heck]]. His stories were set in [[World War II]]. He is also the grandfather of two different [[Steel (comics)|superheroic successors]].
+
+==Publishing history==
+Steel first appeared in his series set in 1939, Steel: The Indestructible Man, written by [[Captain America]] writer [[Gerry Conway]]. However the series was canceled after only 5 issues with Steel later made a guest-appearance in Justice League of America.<ref>{{Cite comic | Writer = [[J. M. DeMatteis]] | Penciller = [[Luke McDonnel]] | Inker = [[Steve Montano]]  | Story = Flesh | Title = Justice League of America | Volume = 1 | Issue = 260 | Date = March, 1987 | Publisher = [[DC Comics]] | Page = 22-23 | Panel = | ID = }}</ref>
+
+==Biography==
+Henry Heywood enlisted in the U.S. Marine Corps prior to their involvement in World War II, but was injured when saboteurs attacked his base spearheaded by the man who would become [[Baron Blitzkrieg]]. As a biology student under the tutelage of Doctor Gilbert Giles, his former professor performed extensive surgery on him with mechanized steel devices that facilitate normal human functions only on a superhuman level.  At the request of Doctor Giles, Heywood kept his recovery a secret and was instead forced to return to service in a desk position. Frustrated at his inability to help more directly, Heywood adopted the persona '''Steel''', and went to steal some armaments from the military base he worked at while some fifth columnist saboteurs broke into the base at the same time. Heywood was able to defeat the saboteurs and began to fight saboteurs<ref>{{Cite comic | Writer = [[Gerry Conway]] | Penciller = [[Luke McDonnel]] | Inker =  [[Don Heck]] | Story = From Hell is Forged ...A Hero! | Title = Steel: The Indestructible Man | Volume = 1 | Issue = 1 | Date = March, 1978 | Publisher = [[DC Comics]] | Page = 18 | Panel = 4 | ID = }}</ref> and criminals before America went to war.
+
+While Doctor Giles was reading a newspaper article on Steel he called out Heywood's name before having a heart-attack. Upon hearing this Heywood feared that Giles had realized he was Steel and that it had induced a heart-attack. After seeing Giles and his daughter Heywood went to publisher Edward Runyon who he had saved earlier<ref>{{Cite comic | Writer = [[Gerry Conway]] | Penciller = [[Don Heck]] | Inker = [[Joe Giella]] | Story = When Hammer Meets Steel | Title = Steel: The Indestructible Man | Volume = 1 | Issue = 3 | Date = June, 1978 | Publisher = [[DC Comics]] | Page = | Panel = | ID = }}</ref> to ask Runyon to stop publishing articles with a critical slant towards [[World War 2]] in the hopes that the American people would become more accepting of joining the war. Runyon's girlfriend Kulhammer forced Steel to agree to save capture the Gadgeteer in return for Runyon doing this which he agreed to, however afterwards Kulhammer revealed to Runyon that she didn't intend to honor the agreement as she felt it would ruin the newspaper.<ref>{{Cite comic | Writer = [[Gerry Conway]] | Penciller = [[Don Heck]] | Inker =  [[Joe Giella]] | Story = Greed-Games of the Gadgeteer!  | Title = Steel: The Indestructible Man | Volume = 1 | Issue = 4 | Date = September, 1978 | Publisher = [[DC Comics]] | Page = | Panel = | ID = }}</ref>
+
+Heywood joined [[World War II]] as a secret weapon before he allied himself with the [[All-Star Squadron]] during which time he was later commissioned '''Commander Steel''' by President [[Franklin D. Roosevelt]]. His membership in the Squadron was only for a brief period as ''[[Crisis on Infinite Earths]]'' caused him to shift from his native [[DC Multiverse|Earth-Two]] to [[DC Multiverse|Earth-One]], wherein he retired from his superhero career as there were no active costumed heroes at that time on his new home.
+
+Years later, as a wealthy industrialist, he incorporated the same mechanized components into his grandson [[Steel (comics)#Hank Heywood, III|Hank Heywood, III]] - who later joined [[Justice League#Detroit|Justice League of America]] and fought Heywood along with his ally [[Mekanique]], former allies [[Justice Society of America]] and their descendants [[Infinity, Inc.]].
+
+Although it was originally stated that Heywood performed unnecessary surgeries on his grandson, this was later [[retcon]]ned in ''Justice League of America''<ref>{{Cite comic | Writer = [[J. M. DeMatteis]] | Penciller = [[Luke McDonnel]] | Inker = [[Steve Montano]]  | Story = Flesh | Title = Justice League of America | Volume = 1 | Issue = 260 | Date = March, 1987 | Publisher = [[DC Comics]] | Page = 22-23 | Panel = | ID = }}</ref> to state that if he hadn't made his grandson into Steel, he would have been dead years ago.
+
+After his grandson's death, Heywood resumed the mantle of Commander Steel and died battling the supervillain [[Eclipso]], while a member of the [[Shadow Fighters (comics)|Shadow Fighters]]. He did come to a heroic end - detonating the Sunburst 300 (a device meant to destroy Eclipso) as his teammate [[Nemesis (DC Comics)#Tom Tresser|Nemesis]] escaped.
+
+==Powers==
+Originally he could only lift 1000 pounds but when he appeared in the pages of the ''[[All Star Squadron]]'' he was attributed 'super human' strength without an exact limit.  He was by no means as strong as [[Superman]] or [[Wonder Woman]] but he was able to hold his own with [[Robotman (comics)|Robotman]] and [[Baron Blitzkrieg]].
+
+==External links==
+*[http://www.toonopedia.com/steel1.htm Steel] at [[Don Markstein's Toonopedia]]
+*{{DCDP|Commander Steel (Hank Heywood)|Steel}}
+
+==Footnotes==
+{{reflist|1}}
+
+<br>
+<br>
+
+[[Category:Fictional commanders|Steel]]
+[[Category:United States-themed superheroes]]
+[[Category:Earth-Two]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics superheroes]]

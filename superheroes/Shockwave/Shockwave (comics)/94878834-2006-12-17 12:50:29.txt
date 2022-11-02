@@ -1,0 +1,50 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:shockwave-marvel.jpg]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Shockwave
+|real_name=Lancaster Sneed
+|publisher=[[Marvel Comics]]
+|debut=''[[Master of Kung Fu]]'' (1st series) #42
+|creators=
+|alliance_color=background:#cccccc
+|status=
+|alliances=
+|previous_alliances=[[MI6]], [[Oriental Expediters]], [[Golden Dagger Sect]], [[S.H.I.E.L.D.|S.H.I.E.L.D. Deltities]], [[Masters of Evil|Masters of Evil (Crimson Cowl)]]
+|aliases=
+|relatives=
+|powers=wears exoskeleton, enhanced strength, generate electric shock on contact
+|}}
+
+'''Shockwave''' is a fictional character in the [[Marvel Comics Universe]] whose first appearance was in ''[[Master of Kung Fu]]'' (1st series) #42.
+
+==History==
+'''Lancaster Sneed''' is a former agent of [[MI-6]] and after he stole an experimental exoskeleton he became '''Shockwave'''. As Shockwave he has been a member of the Oriental Expediters and the Golden Dagger Sect. He later became one of SHIELD Deltites.
+He has been the ally of many masterminds and criminals including [[Zaran]], [[Razor Fist]], [[Fah Lo Suee]], Tarrant/Griswold, [[Fu Manchu]] and [[Brynocki]].
+
+He is the nephew of Sir Denis Nayland Smith and before becoming an agent for MI6, he was a carnival performer.  
+
+In ''Master of Kung Fu'' (1st series) #60, Shang-Chi thought he was fighting the real Shockwave but in fact it was a robot duplicate being controlled by [[Doctor Doom]].
+
+==Notes==
+*In the [[New Universe]], [[Kathy Ling]] is known as ''Shockwave'' and a member of [[Psi-Force]].  
+*An experimental vehicle stolen from [[H.A.T.E.]] by [[Nextwave]] in ''Nextwave'' #1 was called the '''Shockwave Rider'''.
+*Two members of the [[Neo (comics)|Neo]], Farahd and Gethrin, were known as the '''Shockwave Riders'''.  The rode skimmers controlled by thought and attacked the X-Men in Venice in ''[[Uncanny X-Men]]'' #381
+
+==Bibliography==
+*''[[Captain America]]'' (1st series) #411-414
+*''[[Heroes for Hire]]'' (1st series) #4
+*''Heroes for Hire'' (2nd series) #1
+*''[[JLA/Avengers]]'' #4
+*''Master of Kung Fu'' (1st series) #42-45, 71-75
+*''New Avengers'' #1-4
+*''[[West Coast Avengers]]'' (2nd series) #11
+*''[[Spider-Man]]'' #81
+*''[[Thunderbolts]]'' (1st series) #24-25, 33
+*''Union Jack (3rd Series) #2
+
+[[Category:Fictional English people]]
+[[Category:Marvel Comics characters]]
+{{Marvel-Comics-stub}}
+
+[[fr:Shockwave (comics)]]

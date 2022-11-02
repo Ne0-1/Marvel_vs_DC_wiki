@@ -1,0 +1,38 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[image:groot.jpg]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Groot
+|real_name=
+|publisher=[[Marvel Comics]]
+|debut=''Tales to Astonish'' vol. 1 #13
+|creators=
+|alliance_color=background:#cccccc
+|status=
+|alliances=[[S.H.I.E.L.D.]]<br>[[Nick Fury's Howling Commandos|Howling Commandos]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}}
+
+'''Groot''' (also known as the '''Monarch of Planet X''') is a [[fictional character]], an extraterrestrial who appears in the [[comic books]] published by [[Marvel Comics]]. 
+
+Groot first appeared in ''Tales to Astonish'' Vol.1 #13.
+
+==Fictional character biography==
+''Groot'' is an [[extraterrestrial]] plant monster who initially came to [[Earth]] seeking humans to capture and study.  However he was seemingly destroyed by termites by [[Leslie Evans]].  
+
+Through unknown means, he was later captured by [[S.H.I.E.L.D.]] and assigned to their [[Nick Fury's Howling Commandos|Howling Commandos]] team.
+
+In ''Incredible Hulk Annual'' #5, [[Xemnu]] made a duplicate of Groot and was used to fight the [[Incredible Hulk]], however the Hulk destroyed him.
+
+==Bibliography==
+*''Marvel Monsters: Monsters on the Prowl''
+*''Nick Fury's Howling Commandos'' #1-6
+*''Tales to Astonish'' vol. 1 #13
+
+{{Marvel-Comics-stub}}
+[[Category:S.H.I.E.L.D.]]
+[[Category:Marvel Comics supporting characters]]
+[[Category:Fictional extraterrestrials]]

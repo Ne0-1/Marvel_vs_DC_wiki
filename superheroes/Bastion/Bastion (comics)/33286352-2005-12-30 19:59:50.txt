@@ -1,0 +1,66 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=[[Image:Xm067.png|225px]]
+|caption=Bastion. Also featured; [[Iceman (comics)|Iceman]] and [[Cecilia Reyes]].<br>Cover to ''X-Men'' (v2) #67. Art by Carlos Pacheco.
+|comic_color=background:#ff8080 
+|character_name=Bastion 
+|real_name=N/A
+|publisher=[[Marvel Comics]] 
+|debut=''[[X-Men]]'' (2nd series) #52 (May 1996) 
+|creators=[[Mark Waid]]<br>[[Andy Kubert]]
+|alliance_color=background:#c0c0ff
+|status=Inactive
+|alliances=Friends of Humanity, Operation: Zero Tolerance, Humanity's Last Stand 
+|previous_alliances= 
+|aliases=[[Nimrod (comics)|Nimrod]], [[Master Mold]], Prime Unit,Template
+|relatives=Bolivar Trask (creator)
+|powers=Immunity to mutant abilities, Enhanced strength, Flight 
+|}} 
+
+'''Bastion''' is a [[Marvel Comics]] [[supervillain]], that is a fusion of the [[Sentinels (comics)|Sentinels]]' [[Master Mold]] and [[Nimrod (comics)|Nimrod]]. He is mainly an enemy of the [[X-Men]]. He first appeared in ''X-Men'' (Second series) #52 (May 1996).
+
+==Character biography==
+===Origin===
+Bastion started life out as two seperate beings, the [[Sentinels (comics)|Sentinel]] creator, [[Master Mold]] and [[Nimrod (comics)|Nimrod]], a sentinel from alternate [[Future|future]]. It was on a fateful day, that Nimrod came across a piece of Master Mold's body. Master Mold's programming began to co-opt Nimrod. The two of them became one being, after being pushed into the [[Siege Perilous (comics)|Siege Perilous]], by [[Rogue (comics)|Rogue]] and [[Dazzler]].
+
+Now, a man of flesh and no memory of his past, Bastion was taken in by a woman named, Rose Gilberti. Living with Rose, Bastion began to hear about the mutant problem, across America. At some point, Bastion fell into anti-mutant groups, like [[Graydon Creed]]'s Friends Of Humanity.
+
+===Operation: Zero Tolerance===
+In time, Bastion was working his way "up the ladder", in the [[Federal government of the United States|U.S. Government]]. Unwittingly, Bastion was able to develop a new type of Sentinel, the [[Prime Sentinels]]. 
+
+After the fallout of [[Onslaught (comics)|Onslaught]] and the death of Graydon Creed, two events was the ammunition needed to initiate Bastion's Operation: Zero Tolerance. Operation: Zero Tolerance attacked mutants everywhere. The operation was successful in capturing [[Jubilee (comics)|Jubilee]] and some members of the [[X-Men]], taking direct control over the [[X-Mansion|Xavier Institute for Higher Learning]], and gaining possession of the Xavier Protocols, a list of files containing information on killing the X-Men.
+
+The [[President of the United States|President]] was convinced by [[Robert Kelly (comics)|Senator Robert Kelly]] and [[Henry Peter Gyrich]], to suspend Bastion's  operations. Bastion was captured by [[S.H.I.E.L.D.]], with help from [[Iceman (comics)|Iceman]]. While in government custody, Bastion regained his memories and escaped custody. He attempted to led another crusade against mutants, but he was stopped by [[Machine Man]] and [[Cable (comics)|Cable]]. Bastion was returned to government custody, only to be later beheaded by a brainwashed [[Wolverine (comics)|Wolverine]], who served as [[Apocalypse (comics)|Apocalypse]]'s Horseman of Death. 
+
+===Template===
+A former S.H.I.E.L.D. agent, by the name of Mainspring, was heading a project, called the Gatekeepers. Their goal was to study and destroy [[Phalanx (comics)|Phalanx]] technology. They found the remains of Bastion and rebuilt him, but lost control over him. Bastion with the new body and new programming became known as '''Template''' and killed Mainspring.
+
+Some time later, [[Carol Danvers]] contacted the X-Men about the current whereabouts of the remains of Bastion/Template. The X-Men sent [[Shadowcat]], Wolverine, and [[Gambit (comics)|Gambit]], to break into the government facility. These three goal were to reclaim their stolen  computer files. While there, Template showed the three X-Men false holograms of events and lies, about their teammates. The X-Men eventually got their files, but they were left with doubts and fears, about their teammates.
+
+[[Image:BastionxlegendsII.jpg|Bastion as he appears in ''X-Men Legends II''.|225px|thumb]]
+==Powers and abilities==
+He appears to have an incredible beam weapon that shoots out of his eyes and he can mentally command other sentinels. Bastion also have enhanced strength and the ability to fly, with the aid of jet boots.
+
+==In other media==
+Bastion appears as one of the [[Boss (video games)|bosses]] in the video game '''''[[X-Men Legends II]]'''''.
+
+==Bibliography==
+===List of titles===
+* ''X-Men'' (Second Series) #52, 57 & 64-69
+* ''[[X-Force]]'' Vol. 1 #54, 68 & 82
+* ''Uncanny X-Men'' #333-334, 339 & 346
+* ''X-Men Unlimited'' #11, 16 & 27
+* ''[[Generation X (comics)|Generation X]]'' #20 & 23
+* ''Wolverine'' Vol. 2 #115-118
+* ''Wolverine Annual'' '96
+* ''[[X-Factor]]'' Vol. 1 #127, 132
+* ''[[X-Man]]'' #22 & 30
+* ''Cable'' #40, 4-47
+* ''Cable/Machine Man Annual'' '98
+* ''Machine Man/Cable Annual'' '98
+* ''Astonishing X-Men'' Vol. 2 #1-2
+* ''Warlock'' Vol. 4 #6-8
+* ''X-Men: Declassified''
+
+
+[[Category:Fictional robots]]
+[[Category:X-Men villains]]

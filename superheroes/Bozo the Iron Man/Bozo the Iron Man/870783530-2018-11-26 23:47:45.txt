@@ -1,0 +1,53 @@
+{{multiple issues|
+{{Refimprove|date=September 2012}}
+{{notability|date=July 2012}}
+}}
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:SmashComicsNumber05.jpg|215px|]]
+|caption=Bozo on the cover of ''Smash Comics'' No. 5, 1940
+| character_name = Bozo the Iron Man
+| publisher = [[Quality Comics]]
+| debut = [[Smash Comics]] #1 (Aug. 1939)
+| creators =[[George Brenner]]
+| alter_ego =
+| full_name = Hugh Hazzard
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances =
+| partners = <!-- optional -->
+| aliases =
+| supports=<!--optional-->
+| powers = Flight
+}}
+
+'''''Hugh Hazzard and his Robot, Bozo the Iron Man''''' is a [[fictional character]], first appearing in [[Quality Comics]] series, ''[[Smash Comics]]'' #1 (Aug. 1939). The character's adventures were written and crudely drawn by Quality Comics editor [[George Brenner]].
+
+==Fictional character biography==
+In the first installment (called Hugh Hazzard and his Iron Man, by Wayne Reid), the origin story, Commissioner Hunt contacts Hazzard by signal flare and brings him into the investigation of crimes committed by a mysterious robot. Seeing the robot robbing a jewellery store, Hugh manages to temporarily deactivate it and climbs inside its hollow chest to hitch a ride to the robot's home base. This turns out to be the laboratory of an evil scientist, Dr Von Thorp who is taken to the police by his own robot and later declared insane. The robot is again deactivated, and placed on a garbage scow for disposal at sea, but Hugh Hazzard has ideas of using the robot as a crime-fighting tool. He saves the robot from its watery fate, then names the robot Bozo.
+
+In the next installment, Hazzard is shown examining the robot's [[blueprints]], and stating that the robot can be modified to fly. The modified robot, shown flying with a tiny spinning [[propeller]] on its head, is again used to foil a crime. Flying would be a part of all subsequent appearances.
+
+After the pattern of the first adventure, Hugh Hazzard tended to encounter criminals committing crimes with scientific gadgetry, and these criminals tended to become the victims of their own weapons.
+
+In 1956, Quality Comics characters were sold to [[DC Comics]]. Quality's ''[[Blackhawk (DC Comics)|Blackhawk]]'' continued to be published without interruption, but most of their other characters languished. While most of the classic Quality superheroes saw print again many years later, Hugh Hazzard has not returned. A robot resembling Bozo did make a single-panel appearance in an issue of [[James Dale Robinson|James Robinson]]'s ''[[Starman (Jack Knight)|Starman]]'', where the inactive robot was in a store-room with a Japanese collector's horde of Golden Age superhero artifacts. 
+
+In Robinson's ''[[Superman (comic book)|Superman]]'' run, Bozo appears alongside other robots including [[Mekanique]], [[Robotman (Robert Crane)|Robotman]] and various [[GI Robot]] models. The robots are part of Sam Lane's Project 7734.
+
+==Influence==
+[[Justin Gray]] said that the character concept for the villain [[Gonzo the Mechanical Bastard]] was derived from a character proposal by [[Grant Morrison]] updating Bozo.<ref>{{cite book| url = https://books.google.com/?id=902nWnHSXp0C&pg=PA66&lpg=PA66&dq=%22gonzo+the+mechanical+bastard%22+bozo#v=onepage&q=%22gonzo%20the%20mechanical%20bastard%22%20bozo&f=false | page =66 | title= The Rise of the American Comics Artist: Creators and Contexts|first= Paul |last= Williams| publisher=[[University Press of Mississippi]]| year= 2010 | isbn= 978-1604737929}}</ref> The final Gonzo character eventually became something very different: a psychotic android that can impersonate a world leader.
+
+==References==
+{{Reflist}}
+==External links==
+*[http://toonopedia.com/bozorobo.htm Bozo the Robot (a.k.a. Hugh Hazzard and His Iron Man)] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6ZygFD4uR Archived] from the original on July 12, 2015.
+
+{{GoldenAge}}
+
+{{DEFAULTSORT:Bozo The Iron Man}}
+[[Category:Quality Comics superheroes]]
+[[Category:DC Comics robots]]
+[[Category:Golden Age superheroes]]
+[[Category:DC Comics superheroes]]
+[[Category:Comics characters introduced in 1939]]
+
+{{DC-char-stub}}

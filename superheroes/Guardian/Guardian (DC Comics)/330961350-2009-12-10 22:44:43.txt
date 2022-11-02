@@ -1,0 +1,88 @@
+{{cleanup-tense|December 2007}}
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Guardian
+| image          = Guardianjh.jpg
+| imagesize      = 250
+| converted      = y
+| caption        = The Guardian by [[Steve Rude]]
+| publisher      = [[DC Comics]]
+| debut          = ''Star-Spangled Comics'' #7<br />(April, 1942)
+| creators       = [[Jack Kirby]] and [[Joe Simon]]
+| alter_ego      = James Jacob "Jim" Harper
+| full_name      =
+| species        = Human
+| homeworld      = Earth
+| alliances      = [[Science Police]]<br />[[Project Cadmus]]<br />[[All-Star Squadron]]<br />[[Newsboy Legion]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = The Harper clone has exceptional strength, speed and a healing factor, plus an indestructible shield.
+| cat            = superheroes
+| subcat         = DC Comics
+| hero           = 
+| villain        = 
+| sortkey        = Guardian
+| addcharcat#    = 
+}}
+
+'''Guardian''' ('''James Jacob "Jim" Harper''') is a [[comic book]] [[Character (arts)|fictional character]], a [[DC Comics]] [[superhero]], created by [[Jack Kirby]] and [[Joe Simon]].  He first appeared in ''[[Star Spangled Comics]]'' #7 (April 1942).<ref name="dc-ency">{{Citation | last = Greenberger | first = Robert | author-link = Robert Greenberger | contribution = Guardian | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 150 | publisher = [[Dorling Kindersley]] | place = New York  | year = 2008 | ISBN = 0-7566-4119-5 | oclc = 213309017}}</ref>  Guardian resembles an earlier Kirby and Simon character [[Captain America]] (first published in March 1941 by [[Marvel Comics]]) in that he had no [[superpower (ability)|super powers]] and carried an indestructible shield.
+
+==Jim Harper==
+Jim Harper was a police officer in [[Metropolis (Superman)|Metropolis]]' [[Suicide Slum]] who became a [[vigilante]] to catch crooks that the law couldn't prosecute, describing himself as guarding society from criminals. He was aided by a group of boys known as the [[Newsboy Legion]], to whom he was, literally, a guardian. The Legion grew up to become the heads of the [[Cadmus Project]], subsequently saving Harper's life by transferring his mind from his old, dying body into a clone of himself when he was younger.<ref name="dc-ency"/>
+
+It was later revealed that Jim Harper was the great-uncle of Roy Harper, who became [[Green Arrow]]'s sidekick under the name of "[[Roy Harper (comics)|Speedy]]".<ref>''[[Superboy]]'' #82 (January 2001) [[DC Comics]].</ref>
+
+Other relatives include his niece Roberta "Famous Bobby" Harper, who was briefly a member of the second Newsboy Legion <ref>''Guardians of Metropolis'' #1 (November 1994) [[DC Comics]]</ref> and Jamie Harper, an African-American grandniece working for the [[Gotham City]] Police Department.  She worked as [[Tim Drake|Robin]]'s personal contact in the GCPD, similar to the role [[Commissioner James Gordon]] plays for Batman.<ref>''[[Detective Comics]]'' #817 (May 2006) [[DC Comics]]</ref>. After helping Robin and [[Jason Bard]] expose two dirty cops in the GCPD, Jamie Harper was promoted to Detective Specialist and has since transferred to the Metropolis [[Science Police]].<ref>''[[Superman (comic book)|Superman]]'' #687 (June 2009) [[DC Comics]].</ref>
+
+==Golden Guardian==<!-- This section is linked from [[List of DC Comics characters: G]] -->
+In ''Superman's Pal Jimmy Olsen #135'' (January 1971), Jack Kirby reintroduced the boys of the now grown-up Newsboy Legion as supporting characters connected with the DNA Project (later [[Project Cadmus]]), a [[genetics]] research laboratory. One of the Project's  experiments was a [[Clone (genetics)|clone]] of the late Jim Harper, who took up his predecessor's role, and became the Project's Head of Security as the '''Golden Guardian'''. Post-[[Crisis on Infinite Earths|Crisis]] this character was simply known as the Guardian.
+
+Harper remained Cadmus' Head of Security even after the former Newsboys had left. Eventually, he too was killed, although another clone was created and rapidly aged to adulthood, retaining all his predecessor's memories. This Guardian disappeared along with the rest of Cadmus following an altercation with [[Amanda Waller]] and [[Lex Luthor|President Luthor]], and his whereabouts are unknown.
+
+===Post-Infinite Crisis===
+Following ''[[Infinite Crisis]]'', the Guardian clone's backstory was [[retcon]]ned. As [[Dubbilex]] explained to [[Jimmy Olsen]], Jim Harper was not killed in the line of duty, but shot by Cadmus's first head of security, [[Codename: Assassin|Jonathan Drew]], upon discovering the clone was already being created.
+
+It was also revealed that the original Guardian clone had left Cadmus early on, and was now living in the town of Warpath on the [[Mexico|Mexican]] border, where he assisted Sheriff [[Vigilante (comics)|Greg Saunders]]. Subsequent appearances of the Guardian had been new clones, each of which died within a year.<ref>''Superman's Pal Jimmy Olsen'' one-shot (October 2008)</ref>
+
+The original Guardian clone has decided to move to Metropolis with Gwen, his adopted daughter (in fact, an adolescent female clone of himself that he rescued), during the [[Superman: New Krypton|New Krypton]] storyline.<ref>''Adventure Comics'' Special #1 (January 2009) [[DC Comics]]</ref>
+
+[[Science Police]] team leaders DuBarry and Daniels, along with several prison guards, were killed during the events of [[Superman: New Krypton|New Krypton]] when a team of [[Kandor]]ians lead by Commander Gor assaulted Stryker's Island and demanded custody of [[Parasite (comics)|Parasite]].<ref>''[[Superman (comic book)|Superman]]'' #682 (January 2009). [[DC Comics]].</ref> The Science Police Control 'Rachel' tasked Guardian to act as a liaison between the [[Metropolis (comics)#Metropolis Police Department|Metropolis Police Department]] and a coalition of [[superhero]]es in bringing justice for the fallen science police officers and prison guards.<ref>''[[Superman (comic book)|Superman]]'' #683 (February 2009). [[DC Comics]].</ref>  After the Kandorians left Earth, Guardian was appointed Field Commander of the Science Police, as replacement for DuBarry and Daniels, due in part to his cloned memories of Jim Harper as a police officer and Guardian as a superhero.<ref>''[[Superman (comic book)|Superman]]'' #684 (March 2009). [[DC Comics]].</ref> He was asked by Superman to help [[Mon-El]], offering him a job with the Science Police and mentoring him on how to be a hero.
+
+In the recent issues of ''[[Detective Comics]]'' published during ''One Year Later'' event,  reveals that Harper has a grandniece, Jamie,<ref>''Detective Comics'' #819</ref> currently a detective of [[Gotham City Police Department]] and a former associate of [[Tim Drake|Robin III]].  
+
+It has been announced that the Guardian will soon join the Justice League.
+
+==Mal Duncan==<!-- This section is linked from [[List of DC Comics characters: G]] -->
+{{main|Mal Duncan}}
+In ''[[Teen Titans]]'' #44 (November 1976), the previously uncostumed Titan [[Mal Duncan]] took the name of the Guardian, wearing the original's outfit and an [[exoskeleton#Human exoskeletons in science fiction|exoskeleton]] with strength augmenting abilities. The two Guardians finally met in ''Superman Family'' #s 191-193 (Sept 78-Feb 79), when Mal helped rescue the Harper clone from Adam, an evil clone created using genetic material from both Harper and [[Dubbilex]] who had taken control of the DNA Project.
+
+The ''[[Crisis on Infinite Earths]]'' removed Duncan's career as the Guardian.
+
+==Jake Jordan==
+{{main|Manhattan Guardian}}
+In 2005, [[Grant Morrison]]'s ''[[Seven Soldiers]]'' [[metaseries|megaseries]] introduced a new character based on the original Guardian, Jake Jordan the [[Manhattan Guardian]].
+
+==Millerverse Guardian==
+In the Frank Miller graphic novel ''[[Batman: The Dark Knight Strikes Again]]'', the Guardian is one of the superheroes killed by the Joker.
+
+==Other media==
+*A teenaged reimagining of the Guardian appears in the ''[[Teen Titans (TV series)|Teen Titans]]'' animated series, going by the name of [[Minor characters in Teen Titans (animated series)#Private H.I.V.E.|Private H.I.V.E.]] As his name implies, the Private is a student of the [[H.I.V.E.]] Academy as opposed to Cadmus, and is a member of the show's version of the [[Fearsome Five]]. Private H.I.V.E. possesses an identical costume and shield to those of the Guardian, albeit with a H.I.V.E. crest located on his chest, belt, and the center of the shield. Like the Guardian, the Private is extremely disciplined and militaristic, often ending sentences with the word "Sir". He was voiced by [[Greg Cipes]].
+==References==
+{{Reflist}}
+
+==External links==
+* {{comicbookdb|type=character|id=227|title=Guardian}}
+* [http://www.dcuguide.com/who.php?name=guardian Guardian profile] at The Unofficial Guide to the DC Universe
+
+{{Superman}}
+
+{{DEFAULTSORT:Guardian (Dc Comics)}}
+[[Category:1942 comics characters debuts]]
+[[Category:Fictional clones]]
+[[Category:Fictional police officers]]
+[[Category:Fictional vigilantes]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Joe Simon]]
+
+[[tl:Guardian (DC Comics)]]

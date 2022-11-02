@@ -1,0 +1,44 @@
+{{Cleanup|date=August 2007}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Arsenal
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Avengers (comics)|Avengers]] Annual'' #9 (1979)
+|creators=[[Bill Mantlo]] and [[Don Newton]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=superhuman strength and resistance to injury, focused [[air blasters]], and sensor array
+|}} 
+
+'''Arsenal''' is a fictional character in the [[Marvel Universe]].
+
+==Fictional character biography==
+Towards the end of [[World War II]], American and Allied scientists created the Arsenal, a prototype weapons system. The Arsenal units were controlled by a computer called the "Mistress", though each system was capable of independent thought. The robots were created as doomsday weapons, as a last resort in case the Axis powers (or any enemy power) ever took over America. Should this happen, Arsenal would be activated and continue fighting, and would destroy [[New York City]] to prevent it from falling into enemy hands. When World War II ended with an Allied victory, the director of the project, Howard Stark (father of Anthony Stark who would later become known as [[Iron Man]]) convinced the American government not to use the Arsenal system in the growing [[Cold War]]. Howard Stark continued to experiment with the systems, and programmed the Mistress with the persona and brain patters of his wife, Maria. Howard stored the robots, the Alpha and Beta units, in a sub-basement beneath his [[Avengers Mansion|mansion]], and when he died they were forgotten.
+
+When the [[Avengers (comics)|Avengers]] used Stark's mansion as their headquarters, they had no idea that the Arsenal robots lay beneath. The Arsenal Beta unit was unintentionally activated when [[Radioactive Man (comics)|Radioactive Man]] sent a signal to the [[Unicorn (comics)|Unicorn]].  Assuming them to be enemy invaders, the robot attacked the Unicorn and the Avengers.  Iron Man damaged some of Arsenal's internal circuitry, so the robot caused a massive flash of light and fled to repair itself.<ref>''Iron Man'' (1st series) #114</ref>
+
+Arsenal secretly returned to its base beneath the mansion to recuperate.  When its repairs were complete, the robot and "Mistress", the computer controlling it, were confused as to what year it was and what the current state of the world was.  Mistress sent Arsenal to obtain living sources to study, so it captured [[Hawkeye (comics)|Hawkeye]] and the [[Beast (comics)|Beast]]. [[Henry Pym|Yellowjacket]] witness this, and informed the other Avengers.  As Arsenal began to overpower the Avengers, Iron Man went to find Mistress, and after Iron Man informed her of the state of the world she shut herself and Arsenal down.<ref>''Avengers Annual'' #9</ref>
+
+Later, when [[She-Hulk]] and [[Hulk (comics)|Bruce Banner]] (who was, at the time, in control of the Hulk and his transformations) were having a discussion in Avengers Mansion while visiting. [[Edwin Jarvis]] screamed when Arsenal attacked him, so the two heroes responded.  When the Arsenal incapacitated She-Hulk, the Hulk was enraged and continued to hit Arsenal until it was destroyed.<ref>''[[Incredible Hulk]]'' (2nd series) #282</ref>
+
+Iron Man eventually learned that only the Beta unit had been destroyed, and that the Alpha unit remained deactivated beneath Avengers Mansion.  He was asked to shut it down without informing the other Avengers due to the security risk it posed.  He searched under the mansion, unaware that the Avengers had followed him. Iron Man found the Alpha unit, but transmission codes being sent to him unintentionally activated the unit.<ref>Iron Man vol 2 #84</ref>  The Avengers battled the robot, luring it outside the mansion.  As they fought Arsenal, Iron Man realized that the robot was kept inert by a radio call sign from inside the mansion, and that it was activated by interference from other transmissions. Iron Man kept Arsenal busy while [[Ms. Marvel|Warbird]] destroyed the radio jammer, causing Arsenal to deactivate. [[Homeland Security]] then dismantled the Alpha unit.<ref>''Iron Man'' (2nd series) #85</ref>
+
+==Notes==
+{{reflist|2}}
+
+==External links==
+*[http://www.marvunapp.com/Appendix3/arsenal.htm Appendix to the Handbook of the Marvel Universe: Arsenal]
+*http://en.marveldatabase.com/Arsenal_%28Robot%29_%28Earth-616%29
+
+
+[[Category:Fictional robots]]
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics supervillains]]

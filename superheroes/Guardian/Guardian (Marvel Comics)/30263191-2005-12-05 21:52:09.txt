@@ -1,0 +1,45 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:ClassicXMen16.png|225px|]]
+|caption=Guardian (then known as Weapon Alpha) surprises Wolverine.<br>Art by [[Art Adams]]
+|comic_color=background:#ff8080
+|character_name=Guardian
+|real_name=James "Mac" MacDonald Hudson
+|publisher=[[Marvel Comics]]
+|debut=''Uncanny X-Men'' #109 (February, [[1978]])
+|creators=[[Chris Claremont]]<br>[[John Byrne]]
+|alliance_color=background:#ffc0c0
+|status=Active
+|alliances=[[Alpha Flight]]
+|previous_alliances=
+|aliases=Weapon Alpha, Vindicator
+|relatives=Heather MacNeil Hudson ([[Vindicator]], wife), unnamed girl (child), teenage clone (deceased), temporal copy (active)
+|powers=Flight<br>Personal force field<br>Ability to fire energy blasts
+|}}
+'''Guardian''' (James "Mac" MacDonald Hudson, a.k.a. '''Weapon Alpha''' and '''Vindicator''') is a [[fictional character]], a [[Canada|Canadian]] [[superhero]] in the [[Marvel Universe]] who was the leader of [[Alpha Flight]]. He was created by [[Chris Claremont]] and [[John Byrne]].  He was designed to be self consciously created to be the Canadian equivalent of [[Captain America]], hence his costume markings are modelled after the [[Canadian flag]].
+
+==Character Biography==
+
+James MacDonald Hudson was a leading scientist for the Am-Can corporation who worked on developing a [[powered armor|powered exo-skeleton suit]].  However, when he learned that his work would be used for American military purposes, Hudson raided his workplace to steal the prototype suit and destroy the plans.  While he left the suit to be recovered, albeit without the control helmet which he developed before coming to the company, he fully expected to be sued and arrested for his caper.
+
+However, his girlfriend, Heather MacNeil, used some political connections in the [[Canadian government]] to convince the [[Prime Minister of Canada]] (who is obviously [[Pierre Trudeau]]) to convince Am-Can to waive charges and form Department H with Hudson as head of operations.  Eventually, Hudson is inspired by the debut of the [[Fantastic Four]] to use the superhero format to create his [[powered armor]] to become a superhero himself.
+
+As such, he formed Alpha Flight which was a superhero team for the federal government.
+
+Eventually, he was killed off in ''Alpha Flight'' #12 and his suit was eventually adapted by his wife, now Heather Hudson, to become [[Vindicator]].  Later Hudson returned from the dead to resume his career, the technology formerly part of his suit now incoporated into his body.
+
+Later, Hudson was apparently deaged and had much of his memory erased. It was later revealed that this was a clone of the original, and the original had been dumped and found by the original [[Sasquatch (comics)|Sasquatch]]. The clone, along with the other new recruits, was then moved to Beta Flight, with Hudson's clone as the leader, until both Hudsons were captured by [[Advanced Idea Mechanics|AIM]] and the clone killed in the  escape.
+
+Recently, Hudson and his wife had a child, an as-yet-unnamed girl, and are currently en route with their child and several other members of Alpha Flight to return a clutch of [[Plodex]] eggs to their homeworld. Still more recently, an accident brought temporal copies of most of the original Alpha Flight, from a time before his "death", to the present, including a copy of Hudson. This group are currently acting as Alpha Flight in the present day.
+
+==Equipment==
+Formerly, Guardian used a skintight techonological suit which allowed him to fly, fire energy blasts and has a personal force field for defense.  Perhaps his most spectacular power was his ability to suspend his positioning to the earth while it literally turned under him, allowing him to travel West at high speed depending on his [[latitude]] positioning.
+
+Since his return from the dead, the technology formerly part of his suit has been incorporated into his body..
+
+==Links==
+
+[http://www.alphaflight.net/character_overviews/guardian1/ '''AlphaFlight.Net''' Character Overviews - Guardian]
+
+[[Category:Alpha Flight members]]
+[[Category:Fictional Canadians]]
+[[fr:Guardian (Division Alpha)]]

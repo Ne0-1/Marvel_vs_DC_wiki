@@ -1,0 +1,33 @@
+{{For|the [[Marvel Comics]] character|Bombshell (Marvel Comics)}}
+:''Not to be confused with the [[SpyBoy]] character in [[Dark Horse Comics]].
+{{Superherobox| <!--This box is part of Wikipedia:WikiProject Comics. See that article for details-->
+image=[[Image:BombshellTT39.jpg|150px]]
+|caption=Bombshell from ''Teen Titans'' vol. 3, #39 
+|comic_color=background:#8080ff <!--Do not change. See Wikipedia:WikiProject Comics-->
+|character_name=Bombshell
+|real_name=Amy Allen
+|publisher=[[DC Comics]]
+|debut= (cameo) ''Teen Titans'' vol. 3, #38; (actual appearance) ''Teen Titans'' vol. 3, #39 
+|creators=[[Geoff Johns]]<br>[[Tony Daniel]]
+|alliance_color=background:#ffc0c0 <!--Do not change. See Wikipedia:WikiProject Comics-->
+|alliances=[[Teen Titans (comics)|Teen Titans]]<br>[[Titans East]]
+|aliases=
+|powers=Flight, near invulnerability, energy blasts
+ |}} 
+'''Bombshell''' is a [[fictional character]], a [[supervillain]] and former [[superhero]] in the {{DC Universe}}. First mentioned in ''[[Titans (comics)|Teen Titans]]'' vol. 3, #38, she was a member of the Teen Titans during the [[Major events of the DC Universe lost year|one year gap]] after ''[[Infinite Crisis]]''. She has similar powers to [[Captain Atom]] as she underwent the same alien metal skin experiment that Nathaniel Adam did.
+
+In ''Teen Titans'' vol.3, #40, Bombshell is revealed to be a traitor to the Titans, as she threatens to kill [[Raven (comics)|Raven]], and attacks several members of the team to get a disc that contains the essence of the deceased Titan [[Jericho (comics)|Jericho]], but is stopped by [[Rose Wilson|Ravager]]. At the end of issue #41, the Titans beat her by shattering her metal skin. Since it is this metal coating that provides her powers she no longer has her abilities. 
+
+In ''Teen Titans'' vol.3, #43, Cyborg and [[Miss Martian]] visit a depowered Bombshell in jail. After refusing to tell them who she worked for, Miss Martian proceeds to probe her mind. In doing so she discovers the existence of [[Titans East]], and that Bombshell is a member. Before any additional information is discovered, [[Cassandra Cain|Batgirl]] and [[Risk (comics)|Risk]] break into the cell — but not save their former team mate. Instead, Batgirl slices Bombshell's throat with a batarang. 
+
+==Powers and abilities==
+Bombshell has '''''Dilustel''''' (quantum metal) skin like [[Major Force]] and Captain Atom, which was cut from the body of an alien lifeform known as the ''Silver Shield'' after being captured by [[List of government agencies in comics#Project Atom|Project Atom]]. This skin makes her nearly invulnerable.  She can fly and fire blasts of energy.  Bombshell can generate energy waves capable of scrambling the minds of others, and can control electromagnetically powered technology, like the electronic parts of [[Cyborg (comics)|Cyborg]]. 
+
+Bombshell's origin is different from Captain Atom's and Major Force's in that she was not exposed to a [[Effects of nuclear explosions|nuclear explosion]] in the course of acquiring her Dilustel coating; she was merely covered with the alien material. Thus, there is no risk of a radiation hazard if her quantum metal skin is breached: in fact, damaging the metal coating beyond a certain point seems to negate her powers as it is not bonded to her body.
+
+== External links ==
+* [http://titanstower.com/source/whoswho/OYG/bombshell.html Bombshell profile at Titans Tower]
+
+[[Category:DC Comics supervillains]]
+
+[[tl:Bombshell (DC Comics)]]

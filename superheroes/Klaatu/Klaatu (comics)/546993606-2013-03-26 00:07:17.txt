@@ -1,0 +1,39 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+| image = [[File:Klaatu (comics).png|250px]]
+| caption = Klaatu in ''Incredible Hulk'' vol. 2 #136 (Feb 1971).  Pencils by [[Herb Trimpe]], inks by [[Sal Buscema]].
+| comic_color = background:#ff8080
+| character_name = Klaatu
+| publisher = [[Marvel Comics]]
+| debut = ''Incredible Hulk'' #136 (Feb 1971).
+| creators =  [[Roy Thomas]], [[Herb Trimpe]]
+| alliance_color = background:#c0c0ff
+| real_name = 
+| alliances = 
+| species = [[List of Marvel Comics alien races#H|Herm]]
+| aliases = The Behemoth From Beyond Space
+| powers = energy absorption
+}}
+'''Klaatu''' is a fictional [[Marvel Comics]] alien.  He first appeared in ''The Incredible Hulk'' vol. 2 #136 (Feb 1971).  His character history was a thinly veiled pastiche of [[Moby Dick]].<ref>The story of Klaatu's reappearance in ''The Incredible Hulk'' vol. 2 #307 is titled "Call me Ishmael, Call Me ... Hulk!"</ref>  Klaatu's origin story is reprinted in ''The Essential Incredible Hulk Volume 3''.<ref>''The Essential Incredible Hulk Vol. 3'', ISBN 0-7851-1689-3</ref>
+
+==Fictional character biography==
+Klaatu was once attacked by the Andromeda Starship, in a manner reminiscent of terrestrial [[whaling]].  Klaatu destroyed the craft carrying a young "oarsman" who was badly burned as a result, requiring nearly half his body to be reconstructed with cybernetics.  This young man grew up to become the obsessed [[Captain Cybor]], who would stalk Klaatu for the rest of his life as captain of the Andromeda Starship.
+
+On Earth, in [[New York City]] during a power shortage, the Hulk jumped to the top of the [[Empire State Building]], as he sensed a disturbance there.  At the top of the building the Hulk saw the Andromeda Starship and a harpoon-wielding [[Xeron the Star-Slayer]], while an immaterial Klaatu emerged from the building itself, causing a complete [[Power outage|blackout]] in the city.  A confused Hulk attacked Klaatu, to no effect, and the creature disappeared, telling the Hulk it was going to consume all the electricity of the city.<ref name="mnyc">{{cite book | last = Sanderson | first = Peter | authorlink = | coauthors = | title = The Marvel Comics Guide to New York City | publisher = [[Pocket Books]] | year = 2007 | location = New York City | pages = 49–51 | url = | doi = | id = | isbn = 1-4165-3141-6}}</ref>  Xeron, irritated at the Hulk for causing him to lose his quarry, knocked him unconscious with an energy harpoon.  Upon waking, the Hulk was attacked by the ship's first mate, the [[Abomination (comics)|Abomination]].<ref>''The Incredible Hulk'' vol. 2 #136 (February 1971)</ref>
+
+The Andromeda Starship later confronted Klaatu again, and Xeron and Cybor were able to mortally wound the creature before their own ship was severely damaged in the process.  While Xeron tried to save the ship and its crew, Cybor fell onto the creature's back as it drifted into space and apparently into the sun, presumably to both their deaths, while the Andromeda Starship appeared stranded in space.<ref>''The Incredible Hulk'' vol. 2 #137 (March 1971)</ref>
+
+Years later it is revealed that Klaatu was not killed, but rejuvenated by the sun's energies, and had saved Xeron and Cybor and the Andromeda Starship.  The Hulk encountered him again in the [[Crossroads (Marvel Comics)|Crossroads]], an interdimensional nexus in which the Hulk was then trapped.  The Hulk, in a more feral state of mind, attacked Klaatu, again to no effect.  Klaatu departs before the arrival of the Andromeda Starship, which is still pursuing Captain Cybor's vendetta, and which captures the Hulk, and then follows Klaatu into "Ocean World".<ref>''The Incredible Hulk'' vol. 2 #306</ref>
+
+The Andromeda Starship confronts Klaatu again, but must break off the attack when the Hulk wakes up and starts tearing the ship apart.  The starship again finds Klaatu, and again apparently mortally wounds it with several energy harpoons.  Angered, the creature destroys the ship, killing its entire crew.  The Hulk takes pity on Klaatu, however, and removes the energy harpoons from its body, presumably saving its life.<ref>''The Incredible Hulk'' vol. 2 #307</ref>
+
+==Powers and abilities==
+Klaatu is a member of the extraterrestrial race called the Herm, and as such it is immensely powerful, and has been described as power incarnate. It can drain power off of large areas, such as New York, and add to its own power. It can disperse its atoms to feed on a larger area and then bring them back together. It is huge, about as tall as a skyscraper, and is unable to be harmed by physical force, and the Hulk's mightiest blows did absolutely nothing. It is made up of energies and needs to consume them to survive. It can draw power from any electromagnetic energy source. It could fly through space unaided. It is however, susceptible to certain technology, which can injure, and even destroy it, such as special energy harpoons wielded by Xeron the Star-Slayer, and special energy blasts from the Andromeda Starship1. It also cannot live for too long in an environment that is rich with oxygen.
+
+==Notes==
+{{reflist|2}}
+
+==References==
+*[http://www.marvunapp.com/Appendix/klaatuhu.htm Klaatu] at the Appendix to the Handbook of the Marvel Universe
+
+{{DEFAULTSORT:Klaatu (Comics)}}
+[[Category:Marvel Comics aliens]]

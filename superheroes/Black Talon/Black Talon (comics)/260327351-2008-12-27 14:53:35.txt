@@ -1,0 +1,83 @@
+The '''Black Talon''' is a [[fictional character]], a [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]]. 
+
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Black Talon
+|real_name=Desmond Drew
+|species=Human
+|publisher=[[Marvel Comics]]
+|debut=''[[Strange Tales]]'' vol. 1 #173 (April [[1974 in comics|1974]])
+|creators=[[Gene Colan]] and [[Len Wein]]
+|alliance_color=background:#c0c0ff
+|alliances=
+|partners=Mama Limbo
+|aliases=
+|powers=
+|}} 
+
+==Fictional character biography==
+Black Talon is a [[voodoo]] priest who can create and control [[zombies]]. He wears a costume which resembles a chicken, and has an upside-down cross painted on his chest. He was a millionaire and voodoo [[witch doctor]], and posed as a "living loa" to carry out the plans of his mother, Mama Limbo. He battled and became an enemy of [[Brother Voodoo]].<ref>''Strange Tales'' Vol. 1 #172-173</ref>  He was later exposed as an impostor, and was beaten to death by his own cultists.<ref>''Tales of the Zombie'' #6</ref>
+{{-}}
+
+==Black Talon II==
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=[[Image:Shehulk35.png|250px]]
+|caption=The second Black Talon (left) appears on the cover of She-Hulk #35.
+|comic_color=background:#ff8080 
+|character_name=Black Talon
+|real_name=Samuel David Barone
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Avengers (comics)|Avengers]]'' #152 (Oct [[1976 in comics|1976]])
+|creators=[[Gerry Conway]] and [[John Buscema]]
+|alliance_color=background:#c0c0ff
+|alliances=[[Lethal Legion]]
+|aliases=
+|powers=
+|}} 
+
+The successor to the original Black Talon, Samuel David Barone, wore the same costume as the original and was an ally of the [[Grim Reaper (comics)|Grim Reaper]], operating in the New Orleans area.  He first appeared in ''[[Avengers (comics)|Avengers]] #152'' (Oct 1976), created by [[Gerry Conway]] and [[John Buscema]].
+
+Due to Comics Code restrictions, his zombies were initially known as "zuvembies", as the word "zombie" was banned due to its association with [[EC Comics]] horror stories.{{Fact|date=August 2008}}
+
+===Fictional character biography===
+The second Black Talon was a professional criminal and cult leader, like the original. He resurrected [[Wonder Man]] as a zombie at the behest of the [[Grim Reaper (comics)|Grim Reaper]] and sent him to attack the [[Avengers (comics)|Avengers]]. The Black Talon battled the Avengers himself, and was defeated by the [[Scarlet Witch]].<ref>''Avengers'' vol. 1 #152</ref> He then joined the second [[Lethal Legion]].  With the Grim Reaper and [[Nekra]], he battled the [[Vision (Marvel Comics)|Vision]] and Scarlet Witch.<ref>''Vision & Scarlet Witch'' Vol. 2 #1</ref> Under the Grim Reaper's orders, he attempted a recreation of "Simon Williams" as a zombie.<ref>''West Coast Avengers'' Vol. 2 #2</ref> With the [[Man-Ape]], Black Talon deserted the Lethal Legion during a battle with the [[West Coast Avengers]].<ref>''Vision & Scarlet Witch'' Vol. 2 #2</ref>
+
+Nekra learned the Black Talon's voodoo rites, and she later used them on two occasions to resurrect the Grim Reaper as a zombie. <ref>''Vision & Scarlet Witch'' Vol. 2 #12; ''Avengers West Coast'' #65</ref>
+
+When battling [[She-Hulk]] Black Talon formed [[X-Humed]] from four dead mutants [[Changeling (Marvel Comics)|Changeling]], [[Scaleface]], [[Living Diamond]] and [[Harry Leland]] but was unable to control all of them at once and Changeling was able to break his hold long enough for She-Hulk to triumph.<ref>''Sensational She-Hulk'' #34-35 (1991-1992)</ref>
+
+The Black Talon has also fought [[Deadpool (comics)|Deadpool]], who viciously mocked him for his chicken costume.<ref>''Deadpool'' #29 (1999)</ref>
+
+==Powers and abilities==
+Both Black Talons were voodoo cult leaders who gain their powers from the manipulation of the forces of voodoo magic.  Each had the ability to create zombies and control zombies of his creation, either vocally or telepathically. However, the Black Talon cannot communicate with his zombies telepathically when they are not in his immediate vicinity.
+
+Each Black Talon wore a costume with the trappings of various voodoo rituals, with razor-sharp taloned gloves and boots, and a ceremonial dagger.
+
+==Other versions==
+The first Black Talon was Pascal Horta, a Nazi secret agent who first appeared in ''[[Captain America]]'' #9, in [[1941 in comics|1941]]. He was created by [[Joe Simon]] and [[Jack Kirby]].
+
+Black Talon also appeared in ''[[Howard the Duck]]'', under the name Thibodaux Boudreaux.
+
+==Notes==
+{{reflist|2}}
+
+==References==
+{{refbegin}}
+*{{comicbookdb|type=character|id=6762{|title=Black Talon (Desmond Drew)}}
+*[http://www.marvunapp.com/Appendix3/blacktalonbv.htm Black Talon (Desmond Drew)] at The Appendix to the Handbook of the Marvel Universe
+*{{comicbookdb|type=character|id=2436{|title=Black Talon (Samuel Barone)}}
+*[http://www.marvunapp.com/Appendix4/blacktaloncaga.htm Black Talon (Pascal Horta)] at The Appendix to the Handbook of the Marvel Universe
+*[http://www.marvunapp.com/Appendix3/blacktalonduck.htm Black Talon (Thibodaux Boudreaux)] at The Appendix to the Handbook of the Marvel Universe
+{{refend}}
+
+==External links==
+*[http://www.marveldirectory.com/individuals/b/blacktalon.htm ''Marvel Directory'''s article on the two in-continuity Black Talons]
+
+
+[[Category:Marvel Comics supervillains]]
+
+[[fr:Black Talon]]
+[[tl:Black Talon (komiks)]]

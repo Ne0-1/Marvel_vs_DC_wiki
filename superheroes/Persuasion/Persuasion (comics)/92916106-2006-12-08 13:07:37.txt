@@ -1,0 +1,41 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = [[Image:Persuasion_2.jpg]]
+| caption = 
+| comic_color =background:#ff8080 
+| character_name =Persuasion 
+| real_name =Kara Killgrave
+| species=[[Mutant (Marvel comics)|Human Mutant]]
+| publisher =[[Marvel Comics]]
+| debut = ''[[Alpha Flight]]'' #41 [Vol.1] (Dec 1986)
+| creators = [[Bill Mantlo]] & [[David Ross]]
+| alliance_color =background:#ffc0c0 
+| status =Unknown 
+| alliances = 
+| previous_alliances =[[Alpha Flight]], [[Beta Flight]] 
+| aliases = The Purple Girl
+| relatives =Melanie Killgrave (Mother), Zebediah Killgrave aka [[Purple Man]] (Father)
+| powers =Pheromone manipulation }}
+
+'''Persuasion''' ('''Kara Killgrave''', formerly known as the '''Purple Girl''') is a [[Marvel Comics]] [[mutant]] [[superhero]].
+
+Kara lived a normal life until she entered puberty, at which point she turned purple and gained the mutant power of mental manipulation. Her mother then admitted that Kara's father was Zebediah Killgrave, alias the [[Purple Man]]. Kara joined the Canadian superhero team [[Alpha Flight]] as a junior member, after causing quite a bit of trouble with her powers, starting with taking control of [[Northstar (comics)|Northstar]], whom she had a crush on at the time.
+
+At last report, she was incarcerated in [[Weapon X]]'s "Neverland" camp. This appears to be a false statement as she was reported to have retained her powers post-[[M-Day]].
+
+==Powers and abilities==
+Persuasion can control a person through the use of [[pheromone]]s, placing them in an extremely suggestible state wherein they will follow her every command - initially verbal, but later extending to gestures too. As a side-effect, and unlike her father, those under her control have their skin turn the same shade of purple as her - an effect which ends when they are released. She cannot order someone to control a bodily function they are incapable of consciously controlling at normal times, such as their heart rate.
+
+To prevent being controlled by her, a person must either create or utilize a physical barrier between her and themselves (including distance), or continuously rinse the pheromones off their skin before they can take effect.
+
+==External links==
+*[http://alphanex.alphaflight.net/index.php/Persuasion'''AlphaFlight.Net''' Alphanex Entry On - Persuasion]
+*[http://www.geocities.com/Hollywood/2855/persuasion.html Women of Marvel Comics: Persuasion]
+
+{{Marvel-Comics-stub}}
+
+[[Category:Fictional Canadians]]
+[[Category:Canadian superheroes]]
+[[Category:Marvel Comics mutants]]
+[[Category:The 198 Files]]
+
+[[fr:Persuasion (comics)]]

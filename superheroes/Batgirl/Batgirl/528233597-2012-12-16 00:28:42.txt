@@ -1,0 +1,920 @@
+{{For|a female who manages baseball equipment|Batboy}}
+{{Infobox comics set and title
+<!--Wikipedia:WikiProject Comics-->
+<!--Character section-->
+<!-- |code_name = Batgirl -->
+| image = Batgirls.jpg
+| caption = Art from ''[[Wizard (magazine)|Wizard Magazine]]'' (2006), featuring Barbara Gordon and Cassandra Cain as Batgirl. Art by [[Matt Haley]] and [[David Hahn (cartoonist)|David Hahn]].
+| publisher = [[DC Comics]]
+| debut = ''[[Batman (comic book)|Batman]]'' #139
+| debutyr = 1961
+| debutmo = April
+| debutyr1 = 1967
+| debutyr2 = <!-- Helena, Cassandra, & Stephanie weren't introduced as Batgirl -->
+| debutyr3 = 2006
+| writer1 = [[Bill Finger]]
+| artist1 = [[Sheldon Moldoff]]
+| characters = [[Bette Kane|Betty Kane]] ("Bat-Girl")<br />'''[[Barbara Gordon]]'''<br />[[Huntress (Helena Bertinelli)|Helena Bertinelli]]<br />[[Cassandra Cain]]<br />[[Stephanie Brown (comics)|Stephanie Brown]]
+| seealso =
+
+<!--Series section-->
+<!-- | title = -->
+| cvr_image = Batgirl v1 1.jpg
+| cvr_caption = ''Batgirl'' #1 (April 2000)<br />Featuring the Cassandra Cain version of the character.<br />Art by [[Damion Scott (comics)|Damion Scott]].
+| schedule = Monthly
+| format = '''(vol 1, 3, & 4)'''<br />[[Ongoing series]]<br />'''(vol 2)'''<br />[[Limited Series]]
+| limited = Y
+| ongoing = Y
+| Superhero = Y
+| pub_series = DC Comics
+| 1stishhead = vol 1
+| 1stishyr = 2000
+| 1stishmo = April
+| endishyr = 2006
+| endishmo = April
+| 1stishhead1 = vol 2
+| 1stishyr1 = 2008
+| 1stishmo1 = September
+| endishyr1 = 2009
+| endishmo1 = February
+| 1stishhead2 = vol 3
+| 1stishyr2 = 2009
+| 1stishmo2 = October
+| endishyr2 = 2011
+| endishmo2 = October
+| 1stishhead3 = vol 4
+| 1stishyr3 = 2011
+| 1stishmo3 = September
+| endishyr3 = Present
+| endishmo3 = 
+| issues = '''(vol 1)''': 73 + 1 Annual<br>'''(vol 2)''': 6<br>'''(vol 3)''': 24<br>'''(vol 4)''': ongoing
+| main_char_team = '''(vol 1-2)'''<br>[[Cassandra Cain]]<br>'''(vol 3)'''<br>[[Cassandra Cain]]<br>[[Stephanie Brown (comics)|Stephanie Brown]]<br>'''(vol 4)'''<br>[[Barbara Gordon]]
+| writers = [[Kelley Puckett]]<br />[[Scott Peterson (comics)|Scott Peterson]]<br />[[Dylan Horrocks]]<br />[[Andersen Gabrych]]<br />[[Adam Beechen]]<br />[[Bryan Q. Miller]]<br />[[Gail Simone]]
+| artists = 
+| pencillers = [[Damion Scott (comics)|Damion Scott]]<br />[[Rick Leonardi]]<br />[[Ale Garza]]<br />[[Pop Mhan]]<br />[[Jim Calafiore]]<br />[[Lee Garbett]]<br />[[Dustin Nguyen]]<br>Pere Perez<br>Ardian Syaf
+| inkers =
+| letterers =
+| colorists =
+| editors =
+| creative_team_month =
+| creative_team_year =
+| creators_series =
+| TPB =
+| ISBN =
+| nonUS =
+| cat = super
+| subcat = DC Comics
+| subcat_pub = Batman
+| limsub = DC
+| hero = y
+| villain =
+| sortkey = Batgirl
+| sort_title = Batgirl
+}}
+'''Batgirl''' is the name of several [[fictional characters]] appearing in [[comic book]]s published by [[DC Comics]], depicted as female counterparts to the superhero [[Batman]]. Although the character [[Bette Kane|Betty Kane]] was introduced into publication in 1961 by [[Bill Finger]] and [[Sheldon Moldoff]] as '''Bat-Girl''', she is replaced by [[Barbara Gordon]] in 1967, who later came to be identified as the iconic Batgirl. Her creation came about as a joint project between DC Comics editor [[Julius Schwartz]] and the producers of the 1960s ''[[Batman (TV series)|Batman]]'' television series. In order to boost ratings for the third season of ''Batman'', the producers requested a new female character be introduced into publication that could be adapted into the television series. At Schwartz's direction, Barbara Gordon debuted in ''[[Detective Comics]]'' #359 titled, "The Million Dollar Debut of Batgirl!" (1967) by writer [[Gardner Fox]] and artist [[Carmine Infantino]]. Depicted as the daughter of [[Gotham City]] police commissioner [[James Gordon (comics)|James Gordon]], her civilian identity is given a doctorate in library science and she is employed as head of Gotham City Public Library, as well as later being elected to the [[United States Congress]]. As Batgirl, the character operates primarily in Gotham City, allying herself with Batman and the original [[Robin (comics)|Robin]] [[Dick Grayson]], as well as other prominent heroes in the [[DC Universe]].
+
+While the introduction of Batgirl into the ''Batman'' television series failed to save it from cancellation, her comic book counterpart gained popularity and makes regular appearances in ''Detective Comics'', ''[[Batman Family]]'' and several other books produced by DC until 1988. That year, she appears in [[Barbara Kesel]]'s ''Batgirl Special'' #1, in which she retires from crime-fighting. She subsequently appears in [[Alan Moore]]'s graphic novel ''[[Batman: The Killing Joke]]'' where, in her civilian identity, she is shot through the spinal cord by the [[Joker (comics)|Joker]] and left [[paraplegia|paraplegic]]. Although she is recreated as the computer expert and information broker Oracle by editor [[Kim Yale]] and writer [[John Ostrander]] the following year, her paralysis sparked debate about the [[portrayal of women in comics]], particularly violence depicted toward female characters. Despite her paralysis in mainstream continuity, [[alternative versions of Barbara Gordon]] in her Batgirl persona have continued to appear in non-canon storylines produced by DC, typically under the company's imprint labels, [[Elseworlds]] and [[All Star DC Comics]].
+
+In the 1999 crossover ''[[No Man's Land (comics)|No Man's Land]]'', the character [[Huntress (Helena Bertinelli)|Helena Bertinelli]], known as [[Huntress (comics)|Huntress]], briefly assumes the role of Batgirl until she is stripped of the identity by Batman for violating his stringent codes. Within the same storyline, writer [[Kelley Puckett]] and artist [[Damion Scott (comics)|Damion Scott]] introduce the character [[Cassandra Cain]], who takes the mantle of Batgirl under the guidance of Batman and Oracle. Written as the daughter of assassins [[David Cain (comics)|David Cain]] and [[Lady Shiva]], she is trained from early childhood to read human body language instead of developing verbal and written communication skills as part of her father's conditioning to mold her into the world's deadliest assassin. However, after committing her first murder, she vows to never again use her martial arts prowess to kill. In 2000, she became the first Batgirl to star in an eponymous monthly comic book series as well as one of the most prominent characters of Asian descent to appear in American comics. The series was canceled in 2006, at which point during the company-wide event [[One Year Later]], she is established as a villain and head of the [[League of Assassins]]. After receiving harsh feedback from readership, she is later restored to her original conception. However, the character [[Stephanie Brown (comics)|Stephanie Brown]], originally known as Spoiler and later Robin, succeeds her as Batgirl after Cassandra Cain abandons the role. 
+
+Stephanie Brown became the featured character of the ''Batgirl'' series written by [[Bryan Q. Miller]] from 2009 to 2011. DC subsequently relaunched all their monthly publications during [[The New 52]] event. In the revised continuity, Barbara Gordon recovers from her paralysis following a surgical procedure and stars in the relaunched ''Batgirl'' series written by [[Gail Simone]] as the title character. As Batgirl, Barbara Gordon has been adapted into various media relating to the [[Batman franchise media|Batman franchise]], including television, film, animation, video games, and other merchandise. This factored into the decision to return her to the comic book role, as [[Dan DiDio]], Co-Publisher of DC Comics, expressed that she is the best known version of the character. In 2011, she was ranked 17th in both ''[[Comics Buyer's Guide]]'s'' "100 Sexiest Women in Comics" and [[IGN]]'s "Top 100 Comic Books Heroes".<ref>{{cite book
+|last=Frankenhoff
+|first=Brent
+|authorlink=Brent Frankenhoff
+|title=Comics Buyer's Guide Presents: 100 Sexiest Women in Comics
+|publisher=[[Krause Publications]]
+|year=2011
+|page=20
+|url=
+|isbn=1-4402-2988-0
+}}</ref><ref name=Top100IGN>{{cite web
+|url=http://www.ign.com/top/comic-book-heroes/17
+|title= Top 100 Comic Book Heroes
+|publisher=IGN Entertainment
+|accessdate=2011-07-06}}</ref>
+
+== Publication history ==
+
+===''Detective Comics'', ''Batman Family'' and other appearances (1967-1988)===
+Following the accusations of a homoerotic subtext in the relationship depiction between Batman and [[Dick Grayson|Robin]] as described in [[Fredric Wertham]]'s book ''[[Seduction of the Innocent]]'' (1954), a female character, Kathy Kane the [[Batwoman]], was introduced in 1956 as a love interest for Batman.{{sfn|Daniels|2004|p=93}} In 1961, a second female character was introduced as a love interest for Robin.{{sfn|Daniels|2004|p=93}} Betty Kane as "Bat-Girl" was depicted as the niece of and Robin-like sidekick to Batwoman, first appearing in ''Batman'' #139 (1961).<ref>{{Cite comic
+|writer=[[Bill Finger]]
+|penciller=[[Sheldon Moldoff]]
+|inker=[[Charles Paris]]
+|story=Bat-Girl!
+|title=[[Batman (comic book)|Batman]]
+|issuer=139
+|date=April 1961
+|publisher=[[DC Comics]]
+|url=http://www.comics.org/issue/16178/#128166
+}}</ref> The creation of the Batman Family, which included Batman and Batwoman depicted as parents, Robin and Bat-Girl depicted as their children, the [[extraterrestrials in fiction|extraterrestrial]] [[imp]] [[Bat-Mite]] and the "family pet" [[Ace the Bat-Hound]], caused the Batman-related comic books to take "a wrong turn, switching from superheroes to situational comedy".{{sfn|Daniels|2004|p=93}}
+
+These characters were abandoned in 1964 when newly appointed Batman editor Julius Schwartz concluded they were too silly and therefore inappropriate.<ref name=1stBatwoman>{{cite web
+|url=http://www.newsarama.com/dcnew/Batwoman/BatwomanHistory.htm
+|title=Remembering Kathy Kane: The First Batwoman
+|author=Grandinetti, Fred
+|publisher=Newsarama
+|accessdate=2007-09-19
+|archiveurl=http://web.archive.org/web/20070929132840/http://www.newsarama.com/dcnew/Batwoman/BatwomanHistory.htm
+|archivedate=September 29, 2007
+|deadurl=yes
+}}</ref> Schwartz had asserted that these characters should be removed, considering the Batman related comic books had steadily declined in sales, and restored the Batman mythology to its original conception of heroic vigilantism.{{sfn|Daniels|2004|p=93}} Bat-Girl, along with other characters in the Batman Family, were [[retcon]]ned out of existence following the 1985 limited series ''[[Crisis on Infinite Earths]]''.<ref>{{Cite comic
+|writer=[[Marv Wolfman]]
+|artist=[[George Pérez]]
+|title=[[Crisis on Infinite Earths]]
+|issue=1-12
+|date=April 1985 - March 1986
+|publisher=DC Comics
+}}<!--is this in a specific issue or a text piece in a specific collection--></ref> However, even though Bat-Girl did not exist in the post-''Crisis'' continuity, a modified version of the character, Mary Elizabeth "Bette" Kane, was introduced as the superhero [[Flamebird]], who continues to appear in DC Comics publications.<ref>{{Cite comic
+|writer=George Pérez
+|artist=Various
+|story=Pieces of the Puzzle
+|title=Secret Origins Annual
+|issue=3
+|date=1989
+|publisher=DC Comics
+|url=http://www.comics.org/details.lasso?id=45557
+}}</ref>
+
+Schwartz stated that he had been asked to develop a new female character in order to attract a female viewership to the ''Batman'' television series of the 1960s.{{sfn|Daniels|2004|p=113, 115}} When producers [[William Dozier]] and Howie Horowitz saw rough concept artwork of the new Batgirl by artist Carmine Infantino during a visit to DC offices, they optioned the character in a bid to help sell a third season to the [[American Broadcasting Company|ABC]] television network. Infantino reflected on the creation of Batgirl, stating "Bob Kane had had a Bat-Girl for about three stories in the ’50s but she had nothing to do with a bat. She was like a pesky girl version of Robin. I knew we could do a lot better, so Julie and I came up with the real Batgirl, who was so popular she almost got her own TV show."<ref>{{cite web
+|author=Fitzgerald, Michael
+|title=Carmine infantino: Decades at DC and Beyond
+|year=2007
+|url=http://www.wizarduniverse.com/magazine/wizard/004812442.cfm
+|accessdate=2007-11-23
+|archiveurl=http://web.archive.org/web/20071124223127/http://www.wizarduniverse.com/magazine/wizard/004812442.cfm |archivedate=November 24, 2007
+|deadurl=yes
+}}</ref> [[Yvonne Craig]] portrayed the character in the show's third season.<ref>{{cite book
+|last=Daniels
+|first=Les
+|title= DC Comics: Sixty Years of the World's Favorite Comic Book Heroes
+|year= 1995
+|publisher= Bulfinch
+|page= 141
+|isbn= 0-8212-2076-4}}</ref> Barbara Gordon and alter ego Batgirl debuted in ''Detective Comics'' #359, "The Million Dollar Debut of Batgirl" (1967), as the daughter of Gotham City's Police Commissioner James Gordon. In the debut story, while driving to a costume ball dressed as a female version of Batman, Barbara Gordon intervenes in a kidnapping attempt on Bruce Wayne by the super villain [[Killer Moth]], attracting Batman's attention and leading to a crime-fighting career. Although Batman insists she give up crime-fighting because of her gender, Batgirl disregards his objections.<ref name=supergirls>{{cite book
+|author=Madrid, Mike
+|title=The Supergirls: Fashion, Feminism, Fantasy, and the History of Comic Book Heroines
+|publisher=Exterminating Angel Press
+|year=2009|pages=136–138
+|isbn=978-1-935259-03-9
+}}</ref>
+
+In her civilian identity, Dr. Barbara Gordon [[Doctor of Philosophy|Ph.D.]] is depicted as a career woman with a doctorate in library science, as well as being head of Gotham City public library, "presumably one of the largest public libraries in the DC Comics version of reality."<ref name=LibrarianRole>{{cite book
+|author=Arant, Wendi
+|coauthors=Benefiel, Candace
+|title=The Image and Role of the Librarian
+|publisher=Haworth Press
+|year=2002
+|location=
+|pages=77–80
+|isbn=0-7890-2099-8
+}}</ref> Barbara Gordon’s Batgirl exceeded the earlier Bat-Girl and Batwoman characters in popularity, and readers requested for her to appear in other titles. Although some readers requested that Batwoman also continue to appear in publication, DC responded to the fan-based acclaim and criticism of the new character in an open letter in ''Detective Comics'' #417 (1971),<ref>{{cite comic
+|title=[[Detective Comics]]
+|issue=417
+|date=November 1971
+|publisher= DC Comics
+}}</ref> stating: "I'd like to say a few words about the reaction some readers have to Batgirl. These are readers who remember Batwoman and the other Bat-girls from years back&nbsp;... They were there because romance seemed to be needed in Batman's life. But thanks to the big change and a foresighted editor, these hapless females are gone for good. In their place stands a girl who is a capable crime-fighter, a far cry from Batwoman who constantly had to be rescued [by] Batman."<ref name=1stBatwoman/>
+
+Batgirl continued to appear in DC Comics publications throughout the late 1960s and 1970s as a supporting character in ''Detective Comics'', in addition to guest appearances in various titles such as ''[[Justice League|Justice League of America]]'',<ref>{{cite comic
+|writer=[[Gardner Fox]]
+|penciller=[[Mike Sekowsky]]
+|inker=[[Sid Greene]]
+|story=Winged Warriors of the Immortal Queen!
+|title=[[Justice League of America]]
+|issue=60
+|date=February 1968
+|publisher= DC Comics
+|url=http://www.comics.org/issue/21641/
+}}</ref> ''[[World's Finest Comics]]'',<ref>{{cite comic
+|writer=[[Cary Bates]]
+|penciller=[[Neal Adams]]
+|inker=[[Dick Giordano]]
+|story=The Superman-Batman Split!
+|title=[[World's Finest Comics]]
+|issue=176
+|date=June 1968
+|publisher= DC Comics
+|url=http://www.comics.org/issue/21924/#156369
+}}</ref> ''[[The Brave and the Bold]]'',<ref>{{cite comic
+|writer=[[Bob Haney]]
+|artist=[[Bob Brown (comics)|Bob Brown]]
+|story=In the Coils of Copperhead!
+|title=[[The Brave and the Bold]]
+|issue=78
+|date=June–July 1968
+|publisher=DC Comics
+|url=http://www.comics.org/issue/21907/#156307
+}}</ref> ''[[Adventure Comics]]'',<ref>{{cite comic
+|writer=Carry Bated
+|penciller=[[Win Mortimer]]
+|inker=[[Jack Abel]]
+|stoey=The Supergirl Gang
+|title=[[Adventure Comics]]
+|issue=381
+|date=June 1969
+|publisher= DC Comics
+|url=http://www.comics.org/issue/22800/#160617
+}}</ref> and ''[[Superman (comic book)|Superman]]''.<ref name=Superman368>{{cite comic
+|writer=[[Elliot S! Maggin]]
+|penciller=[[Curt Swan]]
+|inker=[[Bob Oksner]]
+|story=Wild Week-End in Washington!
+|title=[[Superman (comic book)|Superman]]
+|issue=268
+|date=October 1973
+|publisher= DC Comics
+|url=http://www.comics.org/issue/26740/#178708
+}}</ref> In the mid-1970s, Batgirl reveals her [[secret identity]] to her father (who had already discovered it on his own), and serves as a member of the [[United States House of Representatives]]. She moves to [[Washington, D.C.]], intending to give up her career as Batgirl, and in June 1972 appeared in a story entitled "Batgirl's Last Case."<ref>{{cite comic
+|writer=[[Frank Robbins]]
+|artist=[[Don Heck]]
+|story=Batgirl's Last Case
+|title=Detective Comics
+|issue=424
+|date=June 1972
+|url=http://www.comics.org/issue/25212/#171745
+}}</ref> Julius Schwartz brought her back a year later in ''[[Superman (comic book)|Superman]]'' #268 (1973)<ref name=Superman368/> in which she has a blind date with [[Clark Kent]], establishing their friendship, and fights alongside [[Superman]]. Batgirl and Superman team up twice more, in ''Superman'' #279 and ''[[DC Comics Presents]]'' #19. Batgirl also guest-starred in other Superman related titles such as #453 of ''Adventure Comics'' and in ''[[Superman Family]]'' #171, where she teams with Supergirl. The character is given a starring role in DC's ''[[Batman Family]]'' comic book which debuted in 1975.<ref>{{cite comic
+|writer=Elliot S! Maggin
+|artist=[[Mike Grell]]
+|story=The Invader from Hell!
+|title=[[Batman Family]]
+|issue=1
+|date=September–October 1975
+|publisher= DC Comics
+|url=http://www.comics.org/issue/29063/#188138}}</ref> The original Robin [[Dick Grayson]] became her partner in the series and the two were frequently referred to as the "Dynamite Duo: Batgirl & Robin." Batgirl meets Batwoman in ''Batman Family'' #10, when the retired superhero briefly returns to crime-fighting (before Kane is murdered by the [[Bronze Tiger]]). The two fight [[Killer Moth]] and [[Cavalier (comics)|Cavalier]], and learn each other's secret identities. Batwoman retires once again at the conclusion of the story, leaving Batgirl to continue crime-fighting.<ref>{{cite comic
+|writer=[[Bob Rozakis]]
+|penciller=Bob Brown
+|inker=[[Vince Colletta]]
+|story=Those Were the Bad Old Days!
+|title=Batman Family
+|issue=10
+|date=March–April 1977
+|url=http://www.comics.org/issue/30812/#194159
+}}</ref> Although this series ended after three years of publication,<ref>{{cite comic
+|title=Batman Family
+|issue=20
+|date=October–November 1978
+}}</ref> Batgirl continued to appear in back up stories published in ''Detective Comics'' through issue #519 (October 1982).
+
+''[[Crisis on Infinite Earths]]'', a limited miniseries published in 1985, was written in order to reduce the complex history of DC Comics to a single continuity. Although Batgirl is a featured character, her role is relatively small—she delivers Supergirl's eulogy in issue seven of the 12-part series.<ref>{{Cite comic
+|writer=[[Marv Wolfman]]
+|artist=[[George Pérez]]
+|story=Beyond the Silent Night
+|title=[[Crisis on Infinite Earths]]
+|issue=7
+|page=<!--page from rthe original comic?-->
+|date=April 1985 - March 1986
+|url=http://www.comics.org/issue/40485/
+}}</ref> The conclusion of ''Crisis on Infinite Earths'' changed [[DC Universe]] [[continuity (fiction)|continuity]] in many ways. Following the [[reboot (fiction)|reboot]], Barbara Gordon is born to Roger and Thelma Gordon, and she is Jim Gordon's niece and adopted daughter in current [[canon (fiction)|canon]]. Post-''Crisis'', Supergirl does not arrive on Earth until after Gordon has established herself as Oracle, and many of the adventures she shared with Batgirl are retroactively described as having been experienced by [[Power Girl]]. In ''[[Secret Origins]]'' #20 (1987),<ref>{{cite comic
+|writer=[[Barbara Kesel|Barbara Randall]]
+|penciller=[[Rick Leonardi]]
+|inker=Dick Giordano
+|story=Flawed Gems
+|title=[[Secret Origins]]
+|issue=20
+|date=November 1987
+|publisher=DC Comics
+|url=http://www.comics.org/issue/43650/#243946
+}}</ref> Barbara Gordon's origin is rebooted by author Barbara Randal. Within the storyline, Gordon recounts the series of events that lead to her career as Batgirl, including her first encounter with Batman as a child, studying [[martial arts]] under the tutelage of a [[sensei]], memorizing maps and blue prints of the city, excelling in academics in order to skip grades, and pushing herself to become a star athlete.
+
+===''Batgirl Special'' and ''Batman: The Killing Joke'' (1988)===
+{{Main|Batman: The Killing Joke}}
+
+DC officially retired the hero in the one-shot comic ''Batgirl Special'' #1 (July 1988), written by [[Barbara Kesel]].<ref>{{cite comic
+|writer=Barbara Randall
+|penciller=[[Barry Kitson]]
+|inker=[[Bruce Patterson (comics)|Bruce Patterson]]
+|story=The Last Batgirl Story
+|title=Batgirl Special
+|issue=1
+|date=1988
+|publisher= DC Comics
+|url=http://www.comics.org/issue/69291/
+}}</ref> Later that year, she appears in Alan Moore's ''Batman: The Killing Joke''. In this graphic novel, the [[Joker (comics)|Joker]] shoots and paralyzes Barbara Gordon in an attempt to drive her father insane, thereby proving to Batman that anyone can be morally compromised. Although events in ''The Killing Joke'' exert a great impact on the character, the story has little to do with her.<ref>{{cite comic
+|writer=[[Alan Moore]]
+|artist=[[Brian Bolland]]
+|title=[[Batman: The Killing Joke]]
+|date=1988
+|publisher= DC Comics
+}}, ISBN 978-0-930289-45-4</ref> She is deployed as a [[plot device]] to cement the Joker’s vendetta against Commissioner Gordon and Batman. In 2006, during an interview with ''[[Wizard (magazine)|Wizard]]'', Moore expressed regret over his treatment of the character calling it "shallow and ill-conceived."<ref name=bitch>{{cite journal
+|author=Cochran, Shannon
+|title=The Cold Shoulder: Saving Superheroines from Comic-book Violence
+|work=[[Bitch (magazine)|Bitch]]
+|year=2007}}</ref> He stated prior to writing the graphic novel, "I asked DC if they had any problem with me crippling Barbara Gordon—who was Batgirl at the time—and if I remember, I spoke to [[Len Wein]], who was our editor on the project," and following a discussion with then-Executive Editorial Director Dick Giordano, "Len got back onto the phone and said, ‘Yeah, okay, cripple the bitch.'"<ref name=bitch/> Although there has been speculation as to whether or not editors at DC specifically intended to have the character's paralysis become permanent, Brian Cronin, author of ''Was Superman A Spy?: And Other Comic Book Legends Revealed'' (2009) noted that DC had hired Barbara Kesel to write the ''Batgirl Special'' specifically to retire the character and set her in place for ''The Killing Joke''.<ref name=Spy>{{cite book
+|author=Cronin, Brian
+|title=Was Superman A Spy?: And Other Comic Book Legends Revealed
+|publisher=Penguin
+|year=2009
+|pages=45, 47
+|isbn=978-0-452-29532-2}}</ref> [[Gail Simone]] included the character's paralysis in a list of "major female characters that had been killed, mutilated, and depowered", dubbing the phenomenon "[[Women in Refrigerators]]" in reference to a 1994 [[Green Lantern]] story where the title character discovers his girlfriend's mutilated body in his refrigerator.{{sfn|Brown|2011|p=175}} Following the release of the graphic novel, comic book editor and writer [[Kim Yale]] discussed how distasteful she found the treatment of Barbara Gordon with her husband, fellow comic writer [[John Ostrander]]. Rather than allow the character to fall into obscurity, the two decided to revive her as a character living with a disability—the information broker, Oracle.<ref>{{cite web
+|author=Cronin, Brian
+|title=A (Perhaps Unnecessary) Guide to Oracle's Formative Years
+|year=2007
+|url=http://goodcomics.comicbookresources.com/2007/02/15/a-perhaps-unnecessary-guide-to-oracles-formative-years
+|accessdate=2007-09-11
+| archiveurl= http://web.archive.org/web/20071011220128/http://goodcomics.comicbookresources.com/2007/02/15/a-perhaps-unnecessary-guide-to-oracles-formative-years| archivedate= 11 October 2007 <!--DASHBot-->| deadurl= no}}</ref>
+
+===''No Man's Land'' (1999)===
+
+Eleven years after the editorial retirement of Barbara Gordon as Batgirl, a new version of the character was introduced in ''Batman: Shadow of the Bat'' #83 during the multi-title story arc "No Man's Land" (1999).<ref>{{Cite comic
+|writer=[[Bob Gale]]
+|penciller=[[Alex Maleev]]
+|inker=[[Wayne Faucher]]
+|story=No Law and a New Order Part Two: Strategy
+|title=[[Batman: Shadow of the Bat]]
+|issue=83
+|date=March 1999
+|publisher=DC Comics
+|url=http://www.comics.org/issue/95220/
+}}</ref> In ''[[Batman: Legends of the Dark Knight]]'' #120 (1999), the new Batgirl is revealed to be Helena Bertinelli, an established DC comics superhero alternatively known as the Huntress.<ref>{{Cite book
+|last=Brooker
+|first=Will
+|title=Batman Unmasked: Analyzing a Cultural Icon
+|year=2001
+|publisher=[[Continuum International Publishing Group]]
+|pages=187, 151, 319
+|url=http://books.google.com/books?id=GNRreYO91ogC
+|isbn=0-8264-1343-9
+}}</ref> Bertinelli is eventually forced to abandon the mantle by Batman.<ref>{{Cite comic
+|writer=[[Greg Rucka]]
+|cowriters=[[Jordan B. Gorfinkel]]
+|penciller=[[Greg Land]]
+|inker=[[Drew Geraci]]
+|story=Ground Zero
+|title=Batman: No Man's Land
+|issue=0
+|date=December 1999
+|publisher=DC Comics
+|url=http://www.comics.org/issue/95798/
+}}</ref> ''No Man's Land'' also marks the introduction of Cassandra Cain in ''Batman'' #567 (1999).<ref>{{Cite book
+|last=Conroy
+|first=Mike
+|title=500 Great Comicbook Action Heroes
+|publisher=Chrysalis
+|year=2002
+|isbn=1-84411-004-4
+}}</ref> Depicted as a [[martial arts]] [[child prodigy]], Cassandra Cain is written as a young woman of partly [[Asian people|Asian]] descent who succeeds Helena Bertinelli as Batgirl, with the approval of both Batman and Oracle.
+
+===''Batgirl'' and other appearances (2000-2011)===
+
+The first ''Batgirl'' monthly comic was published in 2000, with Cassandra Cain as the title character. Raised by assassin [[David Cain (comics)|David Cain]], Cassandra Cain was not taught spoken language, but instead was taught to "read" physical movement. Subsequently, Cain's only form of communication was body language.<ref name=NatureNurture?>{{cite web
+|last=Richards
+|first=Dave
+|title=Nature or Nurture? Andersen Gabrych talks ''Batgirl''
+|date=March 4, 2005
+|url=http://www.comicbookresources.com/news/newsitem.cgi?id=4907
+|work=[[Comic Book Resources]]
+|accessdate=February 17, 2008
+}}</ref> The parts of the character's brain normally used for speech were trained so Cain could read other people's body language and predict, with uncanny accuracy, their next move. This also caused her brain to develop learning functions different from most, a form of dyslexia that hampers her abilities to read and write.
+
+Despite Cain's disability, author Andersen Gabrych describes the character's unique form of language as the key factor in what makes Cain an excellent detective; the ability to walk into a room and "know" something is wrong based on body language.<ref name=NatureNurture?/> During the first arc of the ''Batgirl'' comic book series entitled "Silent Running", Cassandra Cain encounters a psychic who "reprograms" her brain, enabling her to comprehend verbal language, while simultaneously losing the ability to predict movements.<ref>{{Cite comic
+|writer=[[Scott Peterson]]
+|cowriters=[[Kelley Puckett]]
+|penciller=[[Damion Scott (comics)|Damion Scott]]
+|inker=[[Robert Campanella]]
+|story=Silent Running<!--based on the sub-title of the collected edition-->
+|title=Batgirl
+|issue=1-6
+|date=April–September 2000
+|publisher=DC Comics
+}}</ref> This issue is resolved during the second arc of the series, "A Knight Alone", when Batgirl encounters the assassin [[Lady Shiva]] who agrees to teach her how to predict movement once again.<ref>{{Cite comic
+|writer=Various
+|artist=Various
+|story=A Knight Alone<!--based on the sub-title of the collected edition-->
+|title=Batgirl
+|issue=7-14
+|date=October 2000 - May 2001
+}}</ref> Six years after its debut, DC Comics canceled the ''Batgirl'' comic book series with issue #73 (2006), ending with Cain relinquishing her role as Batgirl.<ref>{{Cite comic
+|writer=[[Andersen Gabrych]]
+|penciller=[[Pop Mhan]]
+|inker=[[Jesse Delperdang]]
+|coinkers=[[Adam DeKraker]]
+|story=Blood Matters Conclusion: Revelations
+|title=Batgirl
+|date=April 2006
+|url=http://www.comics.org/issue/265573/
+}}</ref>
+
+When DC Comics continuity skipped forward [[One Year Later|one year]] after the events of the limited series ''[[Infinite Crisis]]'', Cassandra Cain is revived as leader of the [[League of Assassins]], having abandoned her previous characterization as an [[altruist]]. The character's progression from hero to villain angered some of her fans and was accompanied by heavy criticism.<ref name=TalkRobin>{{cite web
+|last=Taylor
+|first=Robert
+|title=Reflections: Talking ''Robin'' (And Batgirl) With Adam Beechen
+|work=Comic Book Resources
+|date=November 5, 2006
+|url=http://www.comicbookresources.com/news/newsitem.cgi?id=8802
+|accessdate=February 19, 2008
+}}</ref> Cain reprised her role as Batgirl in the "[[Titans East]]" (2007) storyline of ''[[Teen Titans]]'',<ref>{{Cite comic
+|writer=[[Geoff Johns]]
+|penciller=[[Tony Daniel]]
+|inker=[[Jonathan Glapion]]
+|story=Titans East Part 1
+|title=[[Teen Titans]]
+|issue=43
+|volume=3
+|date=March 2007
+|publisher=DC Comics
+|url=http://www.comics.org/issue/329916/
+}}</ref> where it was discovered that she had been influenced by a mind-altering drug administered by [[supervillain]] [[Deathstroke|Deathstroke the Terminator]]. Following the conclusion of the storyline, DC Comics has restored Cain's original characterization as a superhero and the character has been given a supporting role in the comic book series ''[[Outsiders (comics)|Batman and the Outsiders]]''.
+
+Following the events of [[Batman: The Return of Bruce Wayne|Batman's disappearance]], Cassandra, acting under her mentor's orders in the event of his death, handed over the Batgirl mantle to Stephanie Brown, the former Spoiler and Robin.<ref name=RoadHome>{{Cite comic
+|writer=[[Bryan Q. Miller]]
+|artist=[[Pere Perez]]
+|title=Bruce Wayne: The Road Home: Batgirl
+|date=December 2010
+|publisher=DC Comics
+}}</ref> After declining an offer from Tim Drake to reclaim the Batgirl mantle from Stephanie,<ref>{{cite comic
+|writer=[[Fabian Nicieza]]
+|penciller=[[Marcus To]]
+|inker=[[Ray McCarthy]]
+|story=The Hit List, Epilogue: Back to Front
+|title=[[Red Robin (comics)|Red Robin]]
+|issue=17
+|date=January 2011
+|publisher=DC Comics
+|url=http://www.comics.org/issue/785638/
+}}</ref> Cassandra rejoined the Batman Family under the new identity of Blackbat.<ref>{{Cite comic
+|writer=[[Grant Morrison]]
+|artist=[[Chris Burnham]]
+|story=Nyktomorph
+|title=[[Batman Inc.]]
+|issue=6
+|date=June 2011
+|publisher=DC Comics
+|url=http://www.comics.org/issue/832933/
+}}</ref> She currently acts as the Hong Kong representative of [[Batman Inc.]]
+
+Stephanie Brown, formerly the Spoiler and briefly the fourth Robin, takes up the mantle of Batgirl after Cassandra Cain gives Brown her costume under Batman's order.<ref name=RoadHome/> Eventually, Barbara Gordon approves of Brown as her newest successor — and she gives Brown her own Batgirl costume and becomes her mentor for a period. Brown is the fourth in-continuity Batgirl and the second Batgirl to star in her own ongoing ''Batgirl'' comic book series.
+
+===The New 52: ''Batgirl'', ''Birds of Prey'' and other appearances (2011-present)===
+In September, 2011, following the company-wide relaunch, Barbara Gordon stars in a new ''Batgirl'' series—one of [[The New 52]] titles featuring the company's most iconic characters. The conclusion of the limited series ''[[Flashpoint (comics)|Flashpoint]]'' (2011) establishes a new continuity within the DC Universe, with all characters regressing to an earlier age and stage in their careers, while remaining in a modern timeline. DC Senior VP of Sales, Bob Wayne, explained that with each of their titles reverting back to issue #1, "our creative teams have the ability to take a more modern approach—not only with each character, but with how the characters interact with one another and the universe as a whole, and focus on the earlier part of the careers of each of our iconic characters."<ref name=New52>{{cite web
+|author=Doran, Michael
+|title=DC Releases New "The New 52" Info & Answers to Retailers
+|url=http://www.newsarama.com/comics/dcnu-the-new-52-retailer-info-110701.html
+|publisher=Newsarama
+|date=2011-07-01
+|accessdate=2011-07-07}}</ref> Wayne also stated that "''The Killing Joke'' still happened and she was Oracle. Now she will go through physical rehabilitation and become a more seasoned and nuanced character because she had these incredible and diverse experiences.<ref name=New52/> [[Dan DiDio]], Co-Publisher of DC Comics explained the decision by stating that "she'll always be the most recognizable [Batgirl]."<ref>{{cite news
+|author=Doll, Jen
+|title=Comic Fans to Gather in Times Square at Midnight for Launch of 'The New 52'|url=http://blogs.villagevoice.com/runninscared/2011/08/dc_comics_new_52.php
+|newspaper=[[The Village Voice]]
+|date=2011-08-30
+|accessdate=2011-09-03}}</ref> Series writer Gail Simone stated: "For many years, I got to write the character as Oracle, and there is to this day, no character who means more to me. This is classic Barbara as she was originally conceived, with a few big surprises. It’s a bit of a shock, to be sure, but we’re doing everything we can to be respectful to this character’s amazing legacy, while presenting something thrilling that a generation of comics readers will be experiencing for the first time&nbsp;... Barbara Gordon leaping, fighting, and swinging over Gotham. Now, when citizens of that city look up, they are going to see BATGIRL. And that is absolutely thrilling."<ref>{{cite web
+|author=Doran, Michael
+|title=UPDATE 7: More DCnU BATMAN Reveals, BATMAN, INC. Info
+|url=http://www.newsarama.com/comics/dcnu-detective-batman-titles-110606.html
+|publisher=Newsarama
+|date=June 6, 2011
+|accessdate=July 7, 2011| archiveurl= http://web.archive.org/web/20110623042058/http://www.newsarama.com/comics/dcnu-detective-batman-titles-110606.html| archivedate= 23 June 2011 <!--DASHBot-->| deadurl= no}}</ref> 
+
+In the new, revised continuity, the events of ''The Killing Joke'' took place three years before the current storyline, and while it is established she was paraplegic during that time, Barbara Gordon is written as having regained her mobility after undergoing experimental surgery at a [[South Africa]]n clinic.<ref name=background>{{cite web
+|author=Rogers, Vaneta
+|title=GAIL SIMONE on Revelations About BATGIRL's Miraculous Cure
+|url=http://www.newsarama.com/comics/gail-simone-batgirl-cure-revelations-120111.html
+|publisher=Newsarama
+|date=2012-01-12
+|accessdate=2012-02-22
+}}</ref> Although she resumes her work as Batgirl one year after her recovery, she continues to suffer from [[posttraumatic stress disorder]], causing her to hesitate in battle when exposed to gunfire that could result in receiving new spinal damage.<ref name=background/> The character also exhibits [[survivor guilt]] due to the fact she has made a full recovery from her paralysis while others have not.<ref name=background/> Series writer Gail Simone stated that while the character is "one of the smartest and toughest women in comics&nbsp;... One thing the book is truly about, is that the after-effects of something like PTSD (post-traumatic stress disorder) or other trauma-related syndromes, can strike even very smart, very intellectually tough people, even soldiers and cops", a subject that is generally overlooked in comic books.<ref name=background/> She also explained the method of the character's recovery is based upon real life experiences in that "some of the best real world work in the field of mobility rehabilitation is coming from South Africa. People have been talking about this as if it's some sort of mystical thing like returning from the dead, but there are treatments and surgeries that can restore mobility in some cases. Barbara's spine was not severed. That makes her a candidate."<ref name=background/>
+
+Prior to release, ''Batgirl'' #1 sold out at the distribution level with over 100,000 copies printed in its first run according to [[Diamond Comic Distributors]]. Along with ''Action Comics'' #1, ''Justice League'' #1, ''[[Batman (comic book)|Batman]]'' #1, ''[[Batman and Robin (comic book)|Batman and Robin]]'' #1, ''[[Batman: The Dark Knight]]'' #1, ''Detective Comics'' #1, ''[[The Flash (comic book)|Flash]]'' #1, ''[[Green Lantern (comic book)|Green Lantern]]'' #1, and ''[[Superman (comic book)|Superman]]'' #1, retailers were required to order a second printing.<ref>{{cite web
+|author=Rogers, Vaneta
+|title=Ten NEW 52 Titles Exceed 100k, DC Touts Sales Success
+|url=http://www.newsarama.com/comics/dc-touts-new-52-sales-success-110912.html
+|publisher=Newsarama
+|date=2011-09-12
+|accessdate=2011-09-12
+}}</ref><ref>{{cite web
+|author=Langshaw, Mark
+|title='Action Comics' #1, 'Batgirl' #1 sell out at distribution level
+|url=http://www.digitalspy.com/comics/news/a338458/action-comics-1-batgirl-1-sell-out-at-distribution-level.html
+|publisher=[[Digital Spy]]
+|date=2011-09-02
+|accessdate=2011-09-02
+}}</ref> Calvin Reid of ''[[Publishers Weekly]]'' states in a review of the first issue: "The artwork is okay though conventional, while Simone’s script tries to tie up of the end of the previous Barbara Gordon/Oracle storyline and setup up the new Batgirl. Her formula: murderous villains, blood splattering violence and high flying superheroics mixed with single-white-female bonding&nbsp;... plus a cliffhanger ending to the first issue that offers a nifty [segue] into the new world of Barbara Gordon and Batgirl."<ref>{{cite news
+|author=Reid, Calvin|title=The New 52: 'PW Comics World' Reviews DC Comics' New Series
+|url=http://www.publishersweekly.com/pw/by-topic/book-news/comics/article/48604-the-new-52--pw-comics-world-reviews-dc-comics-new-series.html
+|newspaper=[[Publishers Weekly]]
+|date=2011-09-08
+|accessdate=2011-09-08
+}}</ref> ''[[The New York Times]]'' critic George Gene Gustines wrote: "Unlike some of the other DC comics I read this week, Batgirl achieves a deft hat trick: a well-shaped reintroduction to a character, an elegant acknowledgement of fundamental history and the establishment of a new status quo. This is a must-buy series."<ref>{{cite news
+|author=Gustines, George Gene
+|coauthors=Kepler, Adam W
+|title=Rating the No. 1's: 'Batgirl' and More
+|url=http://artsbeat.blogs.nytimes.com/2011/09/08/rating-the-no-1s-batgirl-and-more/
+|newspaper=[[The New York Times]]
+|date=2011-09-08
+|accessdate=2011-09-08
+}}</ref> Earning a B+ rating in a review from ''[[Entertainment Weekly]]'', Ken Tucker writes that Simone "[takes] her Birds of Prey storytelling powers and focuses them on the newly revived Barbara Gordon as Batgirl. The result is a burst of exhilaration, as Barbara/Batgirl revels in her new freedom even as she encounters a so-far not-terribly-chilling villain called Mirror."<ref>{{cite news
+|author=Tucker, Ken
+|title=Comic-book consumer guide: Grading the new DC #1s, 'Batgirl,' 'Detective Comics,' and more
+|url=http://shelf-life.ew.com/2011/09/07/batgirl-batman-detective-comics-dc-superman/
+|newspaper=[[Entertainment Weekly]]
+|date=2011-09-07
+|accessdate=2011-09-07
+}}</ref>
+
+Since the series relaunch in September 2011, ''Batgirl'' has remained within the top 30 of the 300 best-selling monthly comic book publications sold in North America. Monthly estimated sales figures are as follows: ''Batgirl'' No. 1 with 81,489 copies (ranked 12th overall),<ref>{{cite web
+|author=Miller, John Jackson
+|title=September 2011 Comic Book Sales Figures
+|url=http://www.comichron.com/monthlycomicssales/2011/2011-09.html
+|publisher=comichron.com|date=September, 2011
+|accessdate=2012-03-07
+}}</ref> ''Batgirl'' No. 2 with 75,227 (ranked 14th),<ref>{{cite web
+|author=Miller, John Jackson
+|title=October 2011 Comic Book Sales Figures
+|url=http://www.comichron.com/monthlycomicssales/2011/2011-10.html
+|publisher=comichron.com
+|date=October, 2011
+|accessdate=2012-03-07
+}}</ref> ''Batgirl'' No. 3 with 62,974 (ranked 18th),<ref>{{cite web
+|author=Miller, John Jackson
+|title=November 2011 Comic Book Sales Figures
+|url=http://www.comichron.com/monthlycomicssales/2011/2011-11.html
+|publisher=comichron.com
+|date=November, 2011
+|accessdate=2012-03-07
+}}</ref> ''Batgirl'' No. 4 with 53,975 (raked 23rd),<ref>{{cite web
+|author=Miller, John Jackson
+|title=December 2011 Comic Book Sales Figures
+|url=http://www.comichron.com/monthlycomicssales/2011/2011-12.html
+|publisher=comichron.com
+|date=December, 2011
+|accessdate=2012-03-07
+}}</ref> ''Batgirl'' No. 5 with 51,327 (raked 26th),<ref>{{cite web
+|author=Miller, John Jackson
+|title=January 2012 Comic Book Sales Figures
+|url=http://www.comichron.com/monthlycomicssales/2012/2012-01.html
+|publisher=comichron.com
+|date=January, 2012
+|accessdate=2012-03-07
+}}</ref> and ''Batgirl'' No. 6 with 47,836 (raked 30th).<ref>{{cite web
+|author=Miller, John Jackson
+|title=February 2012 Comic Book Sales Figures
+|url=http://www.comichron.com/monthlycomicssales/2012/2012-02.html
+|publisher=comichron.com
+|date=February, 2012
+|accessdate=2012-03-07
+}}</ref> The hardcover edition of volume 1, ''Batgirl: The Darkest Reflection'', which collects issues #1-6, made the [[The New York Times Best Seller list|''The New York Times'' Best Seller list]], alongside ''Animal Man: The Hunt'', ''Batman & Robin: Born to Kill'', ''Batman: Detective Comics'', ''Wonder Woman: Blood'', ''Batwoman: Hydrology'', ''Green Lantern: Sinestro''.<ref>{{citation|author=Calvin Reid|title=DC Comics’ ‘New 52’ Drives Graphic Novel Sales|url=http://www.publishersweekly.com/pw/by-topic/book-news/comics/article/53451-dc-comics----new-52--drives-graphic-novel-sales.html|publisher=Publishers Weekly|date=2012-08-06|accessdate=2012-08-06}}</ref>
+
+Additionally, Barbara Gordon makes an appearance in ''Birds of Prey'' No. 1, where Black Canary offers her a spot on the new Birds of Prey roster. She declines Canary's invitation, suggesting that [[Katana (comics)|Katana]] take her place instead.<ref>{{Cite comic
+|writer=[[Duane Swiercynski]]
+|artist=[[Jesús Saiz]]
+|story=Let Us Prey
+|title=[[Birds of Prey (comics)|Birds of Prey]]
+|volume=3
+|issue=1
+|date=November 2011
+|publisher=DC Comics
+|url=http://www.comics.org/issue/878145/
+}}</ref> Series writer Duane Swierczynski has stated that Batgirl will join the team in issue #4.<ref>{{cite web
+|author=Swierczynski, Duane
+|title=3 Things to Know About the Birds of Prey
+|url=http://dcu.blog.dccomics.com/2011/11/18/3-things-to-know-about-the-birds-of-prey/
+|publisher=DC Comics
+|date=November 18, 2011
+|accessdate=November 18, 2011}}</ref> He commented that while she "is an essential part of this team", she is not the focus of the series, as she is hesitant to be associated with the other characters because of their status as outlaws.<ref>{{cite web
+|author=Campbell, Josie
+|title=THE BAT SIGNAL: Swierczynski Discusses Crime, Batgirl & "Birds Of Prey"
+|url=http://www.comicbookresources.com/?page=article&id=36637
+|publisher=Comic Book Resources
+|date=January 30, 2012
+|accessdate=February 22, 2012}}</ref>
+
+===Alternative versions===
+{{Main|Alternative versions of Barbara Gordon}}
+
+Various alterations of Barbara Gordon as Batgirl have appeared in storylines published in and out of mainstream continuity titles. Variants of the character within continuity often appear in stories which involve time travel, such as the crossover limited series ''[[Zero Hour (comics)|Zero Hour: Crisis in Time]]'', a follow-up story preceded by the 1985 limited series ''[[Crisis on Infinite Earths]]'' which altered mainstream continuity. Notable imprints of DC Comics such as ''[[Elseworlds]]'' and ''[[All Star DC Comics]]'' have also featured alternate versions of the character. The ''Elseworlds'' imprint takes the company's iconic characters and places them in alternate timelines, places and events making heroes "as familiar as yesterday seem as fresh as tomorrow."<ref>{{cite book
+|author=Booker, M. Keith
+|title=Encyclopedia of Comic Books and Graphic Novels
+|publisher=ABC-CLIO
+|year=2010
+|page=53
+|isbn=978-0-313-35746-6}}</ref> As Batgirl, Barbara Gordon has made several appearances in ''Elseworlds'' comics since 1997. The character is given starring roles in the [[Film noir|noir]]-style storyline ''Thrillkiller'' (1997),<ref>{{cite comic
+|writer=[[Howard Chaykin]]
+|artist=[[Dan Brereton]]
+|title=[[Thrillkiller]]
+|issues=1-3
+|date=January - March 1997
+|publisher=DC Comics
+}}</ref> its sequel ''Thrillkiller '62'' (1998),<ref>{{cite comic
+|writer=Howard Chaykin
+|artist=Dan Brereton
+|title=[[Thrillkiller '62]]
+|date=1998
+|publisher=DC Comics
+}}</ref> and the one-shot comic ''[[Elseworld's Finest: Supergirl & Batgirl]]'' (1998).<ref>{{cite comic
+|writer=Barbara Kesel
+|cowriters=[[Matt Haley]], [[Tom Simmons]]
+|penciller=Matt Haley
+|inker=Tom Simmons
+|title=Elseworld's Finest: Supergirl & Batgirl
+|date=September 1998
+|publisher=DC Comics
+}}</ref> 
+
+In 2005, DC Comics launched its ''All Star'' imprint—an ongoing series of comics designed to pair the company's most iconic characters with the most acclaimed writers and artists in the industry. Similar to ''Elseworlds'', ''All Star'' is not restricted to continuity and establishes a fresh perspective for the latest generation of readership.  According to [[Dan DiDio]], "[t]hese books are created to literally reach the widest audience possible, and not just the comic book audience, but anyone who has ever wanted to read or see anything about Superman or Batman."<ref>{{cite web
+|last=Offenberger
+|first=Rik
+|authorlink=Rik Offenberger
+|title=Dan DiDio: DC Comics' All Star
+|publisher=Silver Bullet Comics
+|year=2007
+|url=http://www.silverbulletcomicbooks.com/features/111605849050665.htm
+|accessdate=2007-09-11
+}}</ref> An alternate Barbara Gordon was adapted into [[Frank Miller (comics)|Frank Miller]]'s ''[[All Star Batman and Robin the Boy Wonder]]'' (2005) as a teenage Batgirl. In addition, another variation of the character had been set to star in an eponymous ''All Star Batgirl'' title, written by [[Geoff Johns]]; however, the series was canceled prior to publication.<ref>{{cite web
+|author=Morse, Ben
+|title=HEY NOW, YOU’RE AN ALL STAR
+|publisher=''[[Wizard (magazine)|Wizard]]''
+|year=2006
+|url=http://www.wizarduniverse.com/magazine/wizard/001559179.cfm
+|accessdate=2007-11-23
+|archiveurl=http://web.archive.org/web/20071012141004/http://wizarduniverse.com/magazine/wizard/001559179.cfm <!-- Bot retrieved archive -->
+|archivedate=2007-10-12
+}}</ref>
+
+==Characterization==
+Batgirl has officially been represented by four different characters - and two claimants - beginning with her introduction in 1961.
+
+===Betty/Bette Kane===
+{{main|Bette Kane}}  
+During the Golden Age, a female character was introduced as a love interest for Robin. Betty Kane as "Bat-Girl" was depicted as the niece of and Robin-like sidekick to the original Batwoman. In 1964, however, editor Julius Schwartz asserted that Bat-Girl and other characters in the "Bat-Family" should be removed considering the decline in sales and restored the Batman mythology to its original conception of heroic vigilantism. During the ''Crisis on Infinite Earths'' storyline, Betty Kane was retconned out of existence.
+ 
+Mary Elizabeth "Bette" Kane is a reinvented version of the "Betty Kane" character during the Golden Age. As her original characterization was retconned out of existence during the Crisis on Infinite Earths storyline, a discrepancy arose where her Bat-Girl character had joined the west coast version of the Teen Titans but simply disappeared. The character was reintroduced as "Bette" Kane and the alias of Flamebird. Following Infinite Crisis, the character's past as Bat-Girl was hinted at as being a part of continuity. However, that reference included a revamped origin of the character and it may or may not have been the current Bette Kane.
+
+===Barbara Gordon===
+{{main|Barbara Gordon}}
+During the run of the Batman television series, DC editorial was approached about adding a female character back into the Batman family. Revising the character history and motivation, Julius Schwartz created Barbara Gordon. This character held the role of Batgirl from 1967 to 1988 when she was retired by DC editorial decision. The character was reinvented to a role as a paraplegic source of information for all members of the Batman family, codenamed Oracle. She was later restored as Batgirl during the New 52 relaunch of the entire DC publication line in 2011.
+
+===Cassandra Cain===
+{{main|Cassandra Cain}}
+During the same ''No Man's Land'' storyline, Cassandra Cain was given the role of Batgirl under the guidance of Batman and Oracle. Written as the daughter of assassins David Cain and Lady Shiva, she is trained from early childhood to read human body language instead of developing verbal and written communication skills as part of her father's conditioning to mold her into the world's deadliest assassin. However, after committing her first murder, she vows to never again use her martial arts prowess to kill. In 2000, she became the first Batgirl to star in an eponymous monthly comic book series as well as one of the most prominent characters of Asian descent to appear in American comics. The series was canceled in 2006 and Cassandra Cain abandoned the role of Batgirl shortly thereafter. Years later, Cassandra rejoined the Batman family under the moniker Blackbat.
+
+===Stephanie Brown===
+{{main|Stephanie Brown (comics)}}
+Stephanie Brown was formerly known as Spoiler and then as the first in-continuity female Robin until her apparent death in 2006. Following her return to comics in 2009, she assumed the role of Batgirl. She maintained this position until 2011, the relaunch of the DC imprint under The New 52. The character has not returned to continuity since the relaunch.
+
+===Claimants===
+
+====Helena Bertinelli====
+{{main|Huntress (Helena Bertinelli)}} 
+For a brief time during 1999's ''No Man's Land'' storyline, Helena Bertinelli assumed the mantle of Batgirl. After violating Batman's code against extreme violence, she was stripped of the mantle and returned to her alias of Huntress.
+
+====Charlotte "Charlie" Gage-Radcliffe====
+{{main|Misfit (DC Comics)}}
+After Cassandra Cain abandoned the role a mystery character appeared as the new Batgirl in the ''Birds of Prey'' comic. Possessing superpowers, the teen claimed the empty mantle in an attempt to honor the character. However, Barbara Gordon quickly dissuaded the teen from continuing in the role. Charlie Gage-Radcliffe acquiesced, but modified her costume and changed her name to Misfit.
+
+==Cultural impact==
+While Barbara Gordon and Cassandra Cain have both been the subject of academic analysis regarding the [[portrayal of women in comics]], commentary on Barbara Gordon's Batgirl has focused on her character's connection to the [[Women's liberation movement]], doctoral degree and career as a librarian, while analysis of Cassandra Cain's Batgirl has focused on the character's double minority status as a woman and a [[person of color]]. Since her debut in DC Comics publication, and fueled by her adaptation into the ''Batman'' television series in 1967, Barbara Gordon's Batgirl has been listed among fictional characters that are regarded as cultural icons.<ref name=Early2003>{{cite book
+|author=Early, Frances H.
+|coauthors=Kennedy, Kathleen
+|title=Athena's Daughters: Television's New Women Warriors
+|publisher=[[Syracuse University Press]]
+|year=2003
+|page=187
+|isbn=978-0-313-33589-1
+}}</ref> Author Brian Cronin, in ''Was Superman A Spy?: And Other Comic Book Legends Revealed'' (2009) notes that following her 1967 debut, "Batgirl was soon popular enough to appear regularly over the next two decades and Yvonne Craig certainly made an impression on many viewers with her one season portraying young Ms. Gordon."<ref name=Spy/> In 2011, [[IGN]] ranked Barbara Gordon 17th in the Top 100 Comic Books Heroes.<ref name=Top100IGN/> Cassandra Cain's Batgirl has become one of the most prominent Asian characters to appear in American comic books, and her understated sexuality is notable as being contrary to the common sexual objectification of female characters, especially those of Asian descent.{{sfn|Brown|2011|p=175}}
+
+===Feminist interpretations===
+{{quote box|quote=In the late 1950s and early 1960s, before the feminist revolution, Schwartz's leading ladies included a reporter (Iris West in The Flash), a lawyer (Jean Loring in The Atom), and even the head of an aircraft company (Carol Ferris in Green Lantern). Shiera Hall was merely a secretary at the Midway City Museum, but as Hawkgirl she was a police officer on her native planet Thanagar and an equal partner to her husband Hawkman (Carter Hall) in their superheroic exploits. Then there was Zatanna, bravely traversing the dimensions in her search for her missing father (as chronicled in the recent DC trade paperback Zatanna's Quest). Barbara Gordon initially conformed to hackneyed stereotypes as a dowdy librarian, but her transformation into Batgirl could be seen in retrospect as a symbol of the emerging female empowerment movement of the 1960s. (Moreover, by the 1970s Barbara had given herself a makeover even in her "civilian identity" and ran for Congress.)|source=—[[Peter Sanderson]], [[IGN]], 2005<ref name=Sanderson2007>{{cite web
+|last=Sanderson
+|first=Peter
+|authorlink=Peter Sanderson
+|title=Comics in Context #67: Catch As Cats Can
+|year=2007
+|url=http://comics.ign.com/articles/595/595646p7.html
+|publisher=IGN
+|date=2005-01-07
+|accessdate=2007-11-22
+}}</ref>|width=350px}}
+In ''The Supergirls: Fashion, Feminism, Fantasy, and the History of Comic Book Heroines'' (2009), author Mike Madrid states that what set Barbara Gordon as Batgirl apart from other female characters was her motivation for crime-fighting. Unlike Batwoman who preceded her, "she wears his symbol on her chest, but she is not his girlfriend or faithful handmaiden."<ref name=supergirls/> Because of the fact she does not pursue a romantic interest in Batman, "Batgirl is a female Batman can actually regard as a brilliant peer and a partner in the war on crime, the same way he would a male."<ref name=supergirls/> Historian [[Peter Sanderson]] observed that Barbara Gordon's Batgirl reflected the Women's liberation movement of the 1960s.<ref name=Sanderson2007/> In the 1980s, [[Barbara Kesel]], after writing a complaint to DC Comics over the negative portrayal of female characters, was given the opportunity to write for Barbara Gordon in ''Detective Comics''. Robin Anne Reid, in ''Women in Science Fiction and Fantasy: Overviews'' (2009) wrote that "Kesel's version of Batgirl established her as a character separate from Batman and Robin: a woman motivated to do what men do, but alone and in her own way. Her ''Secret Origins'' (1987) and ''Batgirl Special'' (1988) countered the victimized and objectified presentation of Barbara Gordon/Batgirl in Alan Moore's acclaimed ''The Killing Joke'' (1988)."<ref name=RAR>{{cite book
+|author=Reid, Robin Anne
+|title=Women in Science Fiction and Fantasy: Overviews
+|publisher=ABC-CLIO
+|year=2009
+|pages=88, 89
+|isbn=978-0-313-33591-4
+}}</ref> She notes that Kesel's interpretation of the character emphasized her intelligence, technological skill, and ability to overcome fear. [[Gail Simone]] included the character's paralysis in a list of "major female characters that had been killed, mutilated, and depowered", dubbing the phenomenon "[[Women in Refrigerators]]" in reference to a 1994 [[Green Lantern]] story where the title character discovers his girlfriend's mutilated body in his refrigerator.{{sfn|Brown|2011|p=175}} Simone highlighted the gender difference regarding the treatment of Batman and Batgirl regarding paralysis by stating that "[b]oth had their backs broken [Batman broke his in a dramatic Batcave confrontation with the villain Bane; Batgirl broke hers when she was ambushed in her home and shot in the spine by the Joker, never given a chance to fight]. Less than a year later, Batman was fine. Batgirl—now named Oracle—was in a wheelchair and remained so for many years.”<ref name=bitch/>
+
+In ''Superheroes and Superegos: Analyzing the Minds Behind the Masks'' (2010), author Sharon Packer wrote that "[a]nyone who feels that feminist critics overreacted to [Gordon's] accident is advised to consult the source material" calling the work "sadistic to the core."<ref>{{cite book
+|author=Packer, Sharon
+|title=Superheroes and Superegos: Analyzing the Minds Behind the Masks
+|publisher=ABC-CLIO
+|year=2010
+|page=201
+|isbn=978-0-313-35536-3
+}}</ref> Brian Cronin noted that "[many] readers felt the violence towards Barbara Gordon was too much, and even Moore, in retrospect, has expressed his displeasure with how the story turned out."<ref name=Spy/> Jeffrey A. Brown, author of ''Dangerous Curves: Action Heroines, Gender, Fetishism, and Popular Culture'' (2011) noted ''The Killing Joke'' as an example of the "inherent misogyny of the male-dominated comic book industry" in light of the "relatively unequal violence [female characters] are subjected to."{{sfn|Brown|2011|p=175. 180}} While male characters may be critically injured or killed, they are more than likely to be returned to their original conception, while female characters are more likely to receive permanent damage.{{sfn|Brown|2011|p=175. 180}} Reid states that although speculation behind the editorial decision to allow the paralysis of the character to become permanent included the idea she had become outdated, "if audiences had grown tired of Batgirl, it was not because she was a bad character but because she had been written badly."<ref name=RAR/> 
+
+Despite views that present the character's Batgirl persona as a symbol of female empowerment, a long-held criticism is that she was originally conceived as an uninspired variation of Batman "rather than standing alone as leader, such as [[Wonder Woman]]" who had no pre-existing male counterpart.<ref name=Culture>{{cite book
+|author=Mitchell, Claudia
+|coauthors=Reid-Walsh, Jacqueline
+|title=Girl Culture: Studying Girl Culture: A Readers' Guide
+|publisher=[[ABC-CLIO]]
+|year=2008
+|page=170
+|isbn=978-0-313-33908-0
+}}</ref> In analyzing stereotypes in gender, Jackie Marsh noted that male superheroes (such as Batman) are depicted as hyper-masculine and anti-social, "while female superheroes are reduced to a childlike status by their names" such as the Batgirl character.<ref>{{cite book
+|author=Francis, Becky
+|coauthors=Skelton, Christine
+|title=Reassessing Gender and Achievement: Questioning Contemporary Key Debates
+|publisher=[[Psychology Press]]
+|year=2005
+|page=146
+|isbn=978-0-415-33324-5
+}}</ref>
+
+===Representation for librarians===
+In ''The Image and Role of the Librarian'' (2002), Wendi Arant and Candace R. Benefiel argue that Batgirl's portrayal as a librarian is considered to be significant to the profession, in that it is represented as a valuable and honorable career. Even in light of the fact that the character abandons it in order to run for United States Congress, Barbara Gordon is seen as being given a "career switch that even most librarians would consider a step up."<ref name=LibrarianRole/> In the essay "Librarians, Professionalism and Image: Stereotype and Reality" (2007), Abigail Luthmann views the character less favorably, stating that "[t]he unassuming role of librarian is used as a low-visibility disguise for her crime-fighting alter-ego, and while her information-locating skills may have been useful to her extra-curricular activities no direct examples are given."<ref>{{cite journal
+|author=Luthmann
+, Abigail
+|title=Librarians, Professionalism and Image: Stereotype and Reality
+|journal=Library Review
+|volume=56
+|issue=9
+|page=773
+}}</ref>
+
+===Representation for ethnic minorities===
+{{quote box|quote=While many fans were outraged when DC Comics turned Cassandra into a villainess, it does gel with notions of Asian women as not just mysterious and exotic but also as deceitful and dangerous. That Cassandra's turn to villainy is linked with her mother, the sexy and deadly modern Dragon Lady, implicitly aligns her ethnic heritage and her gender with the most negative connotations of Orientalism.|source=—Jeffrey A. Brown, ''Dangerous Curves: Action Heroines, Gender, Fetishism, and Popular Culture'', 2011{{sfn|Brown|2011|p=175. 180}}|width=350px}}
+The Cassandra Cain version of Batgirl, depicted as a biracial character (Half White and half Chinese), is notable as one of the most prominent characters of Asian descent to appear in American comic books. Jeffrey A. Brown states that while her ethnicity is rarely mentioned in the comic books, Asian women have had a long history in comics of being portrayed as martial artists, and as a result, are often exploited as sex objects. However, in the case of Batgirl, "Cassandra's racial identity is treated more implicitly than explicitly. Her costume design actually conceals her entire body so that while in her guise as Batgirl her ethnicity is completely unapparent."{{sfn|Brown|2011|p=175. 180}} The fact that her sexuality is also understated represents a shift away from the typical portrayls of women, and Asian women in particular.{{sfn|Brown|2011|p=175. 180}} The most controversial aspect of her character came about during the One Year Later event, when she is reintroduced as a villain. The abrupt shift in her character brought about negative criticism from readership.<ref>{{cite web
+|url=http://www.comicbookresources.com/news/newsitem.cgi?id=8704
+|title=Adam Beechen Forms A Dynamic Duo With 'Robin'
+|last=Singh
+|first=Arune
+|work=Comic Book Resources
+|date=October 24, 2006
+|accessdate=December 29, 2010
+}}</ref> When questioned about the change in characterization, writer Adam Beechen stated: "They didn't present me with a rationale as to why Cassandra was going to change, or a motivating factor. That was left for me to come up with and them to approve. And we did that. But as far as to why the editors and writers and whoever else made the decision decided that was a good direction, I honestly couldn't answer."<ref name=TalkRobin/> Although Cain is eventually restored as a hero, Jeffrey A. Brown notes that the depiction of Asian women as villains is not uncommon.{{sfn|Brown|2011|p=175. 180}}
+
+==In other media==
+{{Main|Barbara Gordon in other media}}
+[[File:Yvonne Craig Batgirl 1967.JPG|thumb|upright|[[Yvonne Craig]] as Batgirl in 1967.|alt=A black-and-white portrait of Yvonne Craig as Batgirl, wearing a mask that covers the top half of her face, though with eyes and nose exposed.  She is also wearing a hood that has bat-like ears extending up on each side of her head.]]
+Portrayed by Yvonne Craig, the character's first adaptation outside of comic books took place in the third season of ''Batman'' (1967). Les Daniels, in ''Batman: The Complete History'' (2004) wrote that the goal of [[American Broadcasting Company|ABC]] was to "attract new audience members, especially idealistic young girls and less high-minded older men."{{sfn|Daniels|2004|p=113, 115}} According to Craig: "I used to think the reason they hired me was because they knew I could ride my own motorcycle&nbsp;... I realized they hired me because I had a cartoon voice."{{sfn|Daniels|2004|p=113, 115}} A shared criticism of Batgirl and other female superheroes in television at the time (such as Wonder Woman and the [[The Bionic Woman|Bionic Woman]]), is that she was not allowed to engage in hand-to-hand combat on screen.<ref name=Early2003/> As such, "her fights were choreographed carefully to imitate the moves of a Broadway showgirl through the use of a straight kick to her opponent's face rather than the type of kick a martial artist would use."<ref name=Early2003/> However, Craig has also stated: "I meet young women who say Batgirl was their role model&nbsp;... They say its because it was the first time they ever felt girls could do the same things guys could do, and sometimes better. I think that’s lovely."<ref>{{cite web
+|author=McAllister, Ashley
+|title=From the Library: Batgirl!
+|url=http://bitchmagazine.org/post/from-the-library-batgirl
+|publisher=Bitch Media
+|date=2010-08-15
+|accessdate=2011-09-14
+}}</ref> During the early 1970s, Craig portrayed Batgirl once again in a public service announcement to advocate [[equal pay for women]].<ref name=Culture/>
+
+Since ''Batman'', the character has had a long history of appearances in television and other media.<ref name=Culture/> As Batgirl, Barbara Gordon plays a supporting role in a string of animated series, voiced by Jane Webb in ''[[The Batman/Superman Hour]]'' (1968), Melendy Britt in ''[[The New Adventures of Batman]]'' (1977), [[Melissa Gilbert]] in ''[[Batman: The Animated Series]]'' (1992), [[Tara Strong]] in ''[[The New Batman Adventures]]'' (1997), [[Danielle Judovits]] in ''[[The Batman (TV series)|The Batman]]'' (2004), and [[Mae Whitman]] in ''[[Batman: The Brave and the Bold]]'' (2008).<ref name=Culture/> In 2012, Batgirl starred alongside [[Supergirl]] and [[Wonder Girl]] in ''Super Best Friends Forever'', a series of shorts developed by [[Lauren Faust]] for the ''[[DC Nation Shorts|DC Nation]]'' block on [[Cartoon Network]].<ref>{{cite web|author=Chris Sims|url=http://www.comicsalliance.com/2012/02/21/super-best-friends-forever-dc-nation-lauren-faust/|title='Super Best Friends Forever': Art from the Supergirl, Batgirl & Wonder Girl DC Nation Short|publisher=[[ComicsAlliance]] |date=2012-02-12 |accessdate=2012-02-28}}</ref> Barbara Gordon makes two cameo appearances in the first season of the animated series ''[[Young Justice (TV series)|Young Justice]]'', and is added as a recurring character in season two where she has adopted her Batgirl persona. [[Dina Meyer]] starred as Barbara Gordon in the television series ''[[Birds of Prey (TV series)|Birds of Prey]]'' (2002). Although this series focused on her role as Oracle, the series included flash-backs of the character's history as Batgirl. A variation of the character is the Barbara Wilson Batgirl portrayed by [[Alicia Silverstone]] in the feature film ''[[Batman & Robin (film)|Batman & Robin]]'' (1997). In addition to live-action television and animation, the character has appeared in a number of video games included in the Batman franchise. She appears in ''[[The Adventures of Batman & Robin (video game)|The Adventures of Batman & Robin]]'' and ''[[Batman: Rise of Sin Tzu]]'' voiced by [[Tara Strong]]. She also appears in ''[[Lego Batman: The Videogame|LEGO Batman]]'' for the [[personal computer|PC]], [[PlayStation 2]], [[PlayStation 3]], [[Xbox 360]], [[Wii]], [[Nintendo DS|DS]], and [[PlayStation Portable]].<ref>''[[Game Informer]]'' features a two-page gallery of the many heroes and villains who appear in the game with a picture for each character and a descriptive paragraph. See "''LEGO Batman'': Character Gallery," ''Game Informer'' 186 (October 2008): 92.</ref>
+
+==Collected editions==
+{| class="wikitable"
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+! colspan="4" | Barbara Gordon
+|-
+| '''Batgirl: Year One'''
+| ''Batgirl: Year One'' #1–9 (2003 mini-series)
+| February 2003
+| {{ISBNT|978-1-4012-0080-0}}
+|-
+| '''Batman: Batgirl'''
+| one-shot special
+| July 1997
+| {{ISBNT|978-1-5638-9305-6}}
+|-
+| '''Batman: The Cat and The Cat'''
+| ''Batman Confidential'' #17-21
+| 2008
+| {{ISBNT|978-1-4012-2496-7}}
+|-
+|'''Showcase Presents: Batgirl'''
+| various titles
+| July 2007
+| {{ISBNT|978-1-4012-1367-1}}
+|-
+|'''Batgirl: The Greatest Stories Ever Told'''
+| various titles
+| December 2010
+| {{ISBNT|978-1401229245}}
+|-
+|'''Batgirl: The Darkest Reflection'''
+| ''Batgirl'' (vol. 4) #1-6
+| July 2012
+| {{ISBNT|978-1401234751}}
+|-
+|'''Batgirl: Knightfall Descends'''
+| ''Batgirl'' (vol. 4) #7-13; 0
+| February 2013
+| N/A
+"'Batgirl/Robin: Year One
+"Reprints the Batgirl: Year One and Robin: Year One miniseries"
+June 2013
+N/A
+|-
+! colspan="4" | Cassandra Cain
+|-
+| '''Batgirl: Silent Running'''
+| ''Batgirl'' #1–6
+| March 2001
+| {{ISBNT|978-1-8402-3266-0}}
+|-
+| '''Batgirl: A Knight Alone'''
+| ''Batgirl'' #7–11, #13–14
+| November 2001
+| {{ISBNT|978-1-5638-9852-5}}
+|-
+| '''Batgirl: Death Wish'''
+| ''Batgirl'' #17–20, #22–23, #25
+| August 2003
+| {{ISBNT|978-1-8402-3707-8}}
+|-
+| '''Batgirl: Fists of Fury'''
+| ''Batgirl'' #15–16, #21, #26–28
+| May 2004
+| {{ISBNT|978-1-4012-0205-7}}
+|-
+| '''Robin/Batgirl: Fresh Blood'''
+| ''Robin'' #132–133; ''Batgirl'' #58–59
+| October 2005
+| {{ISBNT|978-1-4012-0433-4}}
+|-
+| '''Batgirl: Kicking Assassins'''
+| ''Batgirl'' #60–64
+| January 2006
+| {{ISBNT|978-1-4012-0439-6}}
+|-
+| '''Batgirl: Destruction's Daughter'''
+| ''Batgirl'' #65–73
+| September 2006
+| {{ISBNT|978-1-4012-0896-7}}
+|-
+| '''Batgirl: Redemption'''
+| ''Batgirl'' #1–6 (2008 miniseries)
+| June 2009
+| {{ISBNT|978-1-4012-2275-8}}
+|-
+! colspan="4" | Stephanie Brown
+|-
+| '''Batgirl: Batgirl Rising'''
+| ''Batgirl'' (vol. 3) #1–7
+| September 2010
+| {{ISBNT|978-1-4012-2723-4}}
+|-
+| '''Batgirl: The Flood'''
+| ''Batgirl'' (vol. 3) #9–14
+| May 2011
+| {{ISBNT|978-1-4012-3142-2}}
+|-
+| '''Batgirl: The Lesson'''
+| ''Batgirl'' (vol. 3) #15-24
+| November 2011
+| {{ISBNT|978-1-4012-3270-2}}
+|}
+
+==See also==
+* [[Batwoman]]
+* [[Gotham Girls]]
+* [[List of women warriors in folklore]]
+* [[Misfit (DC Comics)|Misfit]]
+{{Portal bar|Comics|Computer security|Fictional characters|Library and information science|Speculative fiction|Feminism|Gender studies|Superhero fiction|United States}}
+
+==References==
+{{Reflist|2}}
+
+{{refbegin|2}}
+* {{cite book|last=Brown|first=Jeffrey A.|title=Dangerous Curves: Action Heroines, Gender, Fetishism, and Popular Culture|publisher=[[University Press of Mississippi]]|year=2011|isbn=978-1-60473-714-1|ref=harv}}
+* {{Cite book|last=Daniels|first=Les|authorlink=Les Daniels|title=Batman: The Complete History|publisher=[[Chronicle Books]]|year=2004|url=http://books.google.com/books?id=73wknu2cVIkC|isbn=0-8118-4232-0|ref=harv}}
+{{refend}}
+
+==External links==
+{{commonscat}}
+* {{gcdb|type=character|search=Barbara+Gordon|title=Barbara Gordon}}
+* {{comicbookdb|type=character|id=3283|title=Bat-Girl}}
+* {{comicbookdb|type=character|id=425|title=Batgirl (Barbara Gordon)}}
+* {{comicbookdb|type=character|id=3284|title=Batgirl (Helena Bertinelli)}}
+* {{comicbookdb|type=character|id=1747|title=Batgirl (Cassandra Cain)}}
+* {{comicbookdb|type=character|id=34596|title=Batgirl (Stephanie Brown)}}
+* {{DCdatabase|Batgirl}}
+* {{IMDb character|0000178|Batgirl}}
+* [http://www.canarynoir.com/ Canarynoir: Home of Birdwatching&nbsp;– ''Birds of Prey'']
+* [http://www.tvobscurities.com/articles/batgirl/ Television Obscurities - Batgirl and the Batman Phenomenon]
+
+{{Batman}}
+{{Batman publications}}
+{{1966-1968 Batman television series}}
+{{1989–1997 Batman film series}}
+
+{{Good article}}
+
+[[Category:Fictional vigilantes]]
+
+[[ca:Batgirl]]
+[[de:Batgirl]]
+[[es:Batgirl]]
+[[fa:بت‌گرل]]
+[[fr:Batgirl]]
+[[it:Batgirl]]
+[[he:באטגירל]]
+[[hu:Batgirl]]
+[[nl:Batgirl]]
+[[ja:バットガール]]
+[[no:Batgirl]]
+[[pl:Batgirl]]
+[[pt:Batgirl]]
+[[ru:Бэтгёрл]]
+[[fi:Batgirl]]
+[[sv:Batgirl]]
+[[tl:Batgirl]]
+[[ta:பேட்கேர்ள்]]
+[[vi:Batgirl]]
+[[zh:蝙蝠女孩]]

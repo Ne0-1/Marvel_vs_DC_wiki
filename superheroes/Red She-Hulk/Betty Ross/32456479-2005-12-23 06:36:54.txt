@@ -1,0 +1,26 @@
+<div class="dablink">:'''''Betty Ross''' should not be confused with  [[Betsy Ross]], reputed sewer of the [[flag of the United States|American flag]].''</div>
+{{Supersupportingbox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Betty Banner
+|publisher=[[Marvel Comics]]
+|debut=''Incredible Hulk'' #1
+|creators=[[Stan Lee]]<br>[[Jack Kirby]]
+|full_name=Betty Ross Talbot Banner
+|status=Unclear
+|supports=[[Hulk (comics)|Hulk]]
+|relatives=Robert Bruce Banner (Hulk, husband), [[Thunderbolt Ross|General Thaddeus "Thunderbolt" Ross]] (father)
+|}}
+
+'''Betty Ross''' (later '''Betty Talbot''' and then '''Betty Banner''') is a [[fictional character]] in the [[Marvel Comics]] [[Marvel Universe|universe]].  
+
+Betty has been a love interest, co-worker and later wife of Bruce Banner, the human identity of the [[Hulk (comics)|Hulk]].  She is the daughter of General [[Thunderbolt Ross]], a longtime foe of the Hulk.  She was once married to Colonel [[Glenn Talbot]], a military man who served under her father.  At once point she was briefly mutated into the '''Harpy''' by [[MODOK]] and battled the Hulk, but Banner was able to reverse this with the aid of [[Red Raven]]'s technology, after which she continued being romantically involved with Banner.  She was poisoned by the [[Abomination (comics)|Abomination]] and believed killed, although she later resurfaced, having been given [[plastic surgery]] and a new identity by a mysterious [[conspiracy]] fronted by the [[Leader (comics)|Leader]]. It is said that Betty was murdered with gamma-ray poisnsing, and Bruce Banner and the Hulk worked together to find the murderer, which to this day has not been found. 
+
+===Other media===
+The original animated series depicted Betty as a civilian hanger on with no apparent function in the Gamma Bomb as in the comics.  However, later adaptations have Betty as a professional scientific colleague to Banner who devotes much of her time trying to address and treat her love's bizarre medical condition.
+
+In the [[2003]] ''[[Hulk (film)|Hulk]]'' film, Betty Ross is played by [[Jennifer Connelly]].
+
+[[Category:Hulk supporting characters|Banner, Betty Ross]]
+{{Marvel-Comics-stub}}

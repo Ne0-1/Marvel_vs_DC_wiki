@@ -1,0 +1,214 @@
+{{for|the Disney+ series|Loki (TV series)}}
+{{Infobox character
+| color              = #AF181F
+| name               = Loki
+| franchise          = [[Marvel Cinematic Universe]]
+| image              = 
+| caption            = 
+| first              = ''[[Thor (film)|Thor]]'' (2011)
+| last = 
+| creator            = {{Plainlist|
+* [[Stan Lee]]
+* [[Larry Lieber]]
+* [[Jack Kirby]]
+}}
+| adapted_by         = {{Plainlist|
+* [[Ashley Miller (screenwriter)|Ashley Miller]]
+* [[Zack Stentz]]
+* [[Don Payne (writer)|Don Payne]]
+* [[J. Michael Straczynski]]
+* [[Mark Protosevich]]
+}}
+| based_on           = [[Loki (Marvel Comics)|Loki]]
+| portrayer          = {{Plainlist|
+* [[Tom Hiddleston]]
+* Ted Allpress (young; ''[[Thor (film)|Thor]]'')
+}}
+| full_name          = Loki
+| species            = [[Frost Giant]]
+| title              = God of Mischief
+| occupation         = {{Plainlist|
+* Prince of Asgard
+}}
+| family             = {{Plainlist|
+* [[Laufey (comics)|Laufey]] (biological father)
+* [[Odin (comics)|Odin]] (adoptive father)
+* [[Frigga (comics)|Frigga]] (adoptive mother) 
+* [[Hela (comics)|Hela]] (adoptive sister)
+* [[Thor (Marvel Cinematic Universe)|Thor]] (adoptive brother)
+}}
+| affiliation        = {{Plainlist|
+* [[Thanos]] 
+* [[Revengers]]
+}}
+| home               = {{Plainlist|
+* [[Asgard (comics)|Asgard]] (formerly)
+| significant_other  = 
+}}
+}}
+'''Loki Laufeyson''' is a [[character (arts)|character]] portrayed by [[Tom Hiddleston]] in the [[Marvel Cinematic Universe]] (MCU) [[film franchise]], based on the [[Marvel Comics]] [[Loki (Marvel Comics)|character of the same name]]. In the films, Loki is known as the "God of Mischief", and is one of the most powerful of the [[Asgardians (comics)|Asgardians]], an alien civilization with long ties to Earth, who are therefore considered by some on Earth to be gods.
+
+{{As of|2019}}, the character is an important recurring figure of the Marvel Cinematic Universe. He has appeared in six films of the series, ''[[Thor (film)|Thor]]'', ''[[The Avengers (2012 film)|The Avengers]]'', ''[[Thor: The Dark World]]'', ''[[Thor: Ragnarok]]'', ''[[Avengers: Infinity War]]'', and ''[[Avengers: Endgame]]'', and will appear in a stand-alone [[Disney+]] television series focused on the character. Loki's character has borrowed a number of characteristics and story lines from across the more than fifty-year history of the character in Marvel Comics. As in the comics, Loki has generally been a villain in the MCU, variously attempting to conquer Asgard or Earth, and having allied himself with more powerful villains to achieve his aims. He has particular antagonism for his adoptive brother [[Thor (Marvel Cinematic Universe)|Thor]], and is known to variously ally with and then betray Thor and others, and to regularly return from apparent death. Later on in his development in the films, he becomes less of a [[supervillain]] and more of an [[anti-hero]].
+
+==Concept and creation==
+The mythical figure, Loki, actually preceded Thor in making his first Marvel Comics appearance, depicted in the [[science fiction]]/[[fantasy]] [[anthology]] title [[Timely Comics]]' publication ''[[Venus (comic book)|Venus]]'' No. 6 (August 1949) as a member of the [[Olympians (Marvel Comics)|Olympian gods]] exiled to the [[Hades|Underworld]]. However, the current version of Loki made his first official Marvel appearance was in ''[[Journey into Mystery]]'' No. 85 (October 1962), where Loki was reintroduced as Thor's sworn enemy. The modern age Loki was introduced by brothers and co-writers [[Stan Lee]] and [[Larry Lieber]] and he was redesigned by [[Jack Kirby]]. As one of Thor's arch-nemeses, Loki frequently made appearances in Thor-related titles like ''Journey into Mystery'' and ''Thor'', as well as other [[Marvel Universe]] titles such as ''[[Avengers (comic book)|The Avengers]]'' and ''[[X-Men]]''.<ref>''X-Men and Alpha Flight'' No. 1 (December 1985)</ref> As well as brief appearances in the ''[[Spider-Man]]'' and ''[[Defenders (comics)|Defenders]]'' comic series.
+
+Live-action film adaptations of character in the ''Thor'' comic books were proposed at various times, but did not come to fruition. In the mid-2000s, [[Kevin Feige]] realized that Marvel still owned the rights to the core members of the [[Avengers (comics)|Avengers]], which included Thor. Feige, a self-professed "fanboy", envisioned creating a shared universe just as creators Stan Lee and Jack Kirby had done with their comic books in the early 1960s.<ref name="BostonApril2012">{{cite web|date=April 25, 2012 |last=Russo |first=Tom |title=SUPER GROUP |url=http://www.boston.com/ae/movies/articles/2012/04/29/the_avengers_collects_all_your_favorite_marvel_characters_in_one_handy_wannabe_blockbustersuper_groupthe_avengers_assembles_all_your_favorite_marvel_characters_in_one_handy_wannabe_blockbuster/ |publisher=[[Boston.com]] |archiveurl=https://www.webcitation.org/6LK5iBg53?url=http://www.boston.com/ae/movies/articles/2012/04/29/the_avengers_collects_all_your_favorite_marvel_characters_in_one_handy_wannabe_blockbustersuper_groupthe_avengers_assembles_all_your_favorite_marvel_characters_in_one_handy_wannabe_blockbuster/?page=1 |archivedate=November 22, 2013 |url-status=live  }}</ref> In 2006, the film was announced as a Marvel Studios production.<ref name="Carle">{{cite news|first=Chris |last=Carle |title=Comic-Con 2006: Marvel Announces Three |work=IGN |date=July 3, 2006 |url=http://movies.ign.com/articles/720/720532p1.html |accessdate=August 10, 2008 |archiveurl=https://www.webcitation.org/5zxByL7iA?url=http://movies.ign.com/articles/720/720532p1.html |archivedate=July 5, 2011 |url-status=live}}</ref> In December 2007, Protosevich described his plans for it "to be like a [[superhero]] [[origin story]], but not one about a human gaining super powers, but of a god realizing his true potential. It's the story of an [[Old Testament]] god who becomes a [[New Testament]] god".<ref name="Mark">{{cite news|last=Gire |first=Dann |url=http://www.dailyherald.com/story/?id=101019 |title=''I am Legend'' writer credits comics, horror films and pop culture |work=[[Daily Herald (Arlington Heights)|Daily Herald]] |date=December 23, 2007 |accessdate=March 2, 2008 |archiveurl=https://www.webcitation.org/5hKdYFyZv?url=http://www.dailyherald.com/story/?id=101019 |archivedate=June 6, 2009 |url-status=live}}</ref> In 2008, [[Guillermo del Toro]] entered talks to direct the film. Del Toro was a fan of [[Jack Kirby]]'s work on the comics, and said that he loved the character of Loki, but wished to incorporate more of the original [[Norse mythology]] into the film,<ref name="Marshall5">{{cite web|url=http://www.mtv.com/news/2594402/guillermo-del-toro-explains-how-close-he-came-to-directing-thor/|title=Guillermo Del Toro Explains How Close He Came To Directing 'Thor'|publisher=MTV.com|author=Marshall, Rick|date=June 11, 2009|accessdate=May 5, 2012}}</ref> including a "really dingy [[Valhalla]], [with] [[Vikings]] and mud".<ref name="BrentJS">{{cite web|url=http://www.reelz.com/movie-news/11437/guillermo-del-toro-sets-the-record-straight-on-his-involvement-with-thor-and-dr-strange-and-updates-the-hulk-tv-series/|title=Guillermo del Toro Sets the Record Straight on His Involvement with Thor and Dr. Strange and Updates The Hulk TV Series|publisher=Reelz|author=BrentJS|date=August 14, 2011|accessdate=May 5, 2012|url-status=dead|archiveurl=https://web.archive.org/web/20111213030848/http://www.reelz.com/movie-news/11437/guillermo-del-toro-sets-the-record-straight-on-his-involvement-with-thor-and-dr-strange-and-updates-the-hulk-tv-series/|archivedate=December 13, 2011|df=mdy-all}}</ref> However, del Toro ultimately turned down ''Thor'' to direct ''[[The Hobbit (film series)|The Hobbit]]''. [[Kenneth Branagh]] entered into negotiations to direct,<ref name="Fleming5">{{cite news|first=Michael |last=Fleming |title=Branagh in talks to direct ''Thor'' |work=[[Variety (magazine)|Variety]] |date=September 28, 2008 |url=http://www.variety.com/article/VR1117993032.html?categoryid=13&cs=1 |accessdate=September 29, 2008 |archiveurl=https://www.webcitation.org/5zxs9bFYL?url=http://www.variety.com/article/VR1117993032.html?categoryid=13&cs=1 |archivedate=July 6, 2011 |url-status=live}}</ref> and by December 2008, Branagh confirmed that he had been hired. He described it as "a human story right in the center of a big epic scenario."<ref name="Branagh">{{cite news|first=Josh |last=Horowitz |url=http://www.mtv.com/news/2593287/exclusive-kenneth-branagh-breaks-silence-on-thor-says-casting-talk-is-premature/ |title=EXCLUSIVE: Kenneth Branagh Breaks Silence On ‘Thor,’ Says Casting Talk Is Premature |publisher=MTV.com |date=December 13, 2008 |accessdate=December 13, 2008 |archiveurl=https://www.webcitation.org/5hKdYIOx8?url=http://splashpage.mtv.com/2008/12/13/exclusive-kenneth-branagh-breaks-silence-on-thor-says-casting-talk-is-premature/ |archivedate=June 6, 2009 |url-status=live}}</ref>
+
+Several actors were reportedly considered for the part, including [[Josh Hartnett]],<ref>{{Cite web|url=http://www.digitalspy.com/movies/a560555/20-actors-who-almost-got-the-part-katniss-loki-bond-batman/|title=20 actors who almost got the part|first=Emma|last=Dibdin|date=January 31, 2018|website=Digital Spy}}</ref> and [[Jim Carrey]].<ref>{{Cite web|url=https://www.cbr.com/thor-casting-rumors/|title=Thor: 10 Casting Rumors That Would Have Been Disastrous (And 9 That Would've Worked)|date=May 14, 2018|website=CBR}}</ref> In May 2009, Marvel announced that [[Tom Hiddleston]], who had worked with Branagh before and had initially been considered to portray the lead role, had been cast as Loki.<ref name="hiddlestoncast">{{cite news|url=http://www.marvel.com/news/moviestories.8063.Marvel_Studios_Update~colon~_Loki_Cast_in_Thor |title=Marvel Studios Update: Loki Officially Cast in 2011 Thor Movie |publisher=[[Marvel Comics|Marvel.com]] |date=May 18, 2009 |accessdate=May 19, 2009 |archiveurl=https://www.webcitation.org/5yaazmGGE?url=http://marvel.com/news/story/8063/marvel_studios_update_loki_officially_cast_in_2011_thor_movie |archivedate=May 11, 2011 |url-status=dead}}</ref> In June 2009, Feige confirmed that both [[Chris Hemsworth]] and Hiddleston had signed on.<ref name="feigehemsworth">{{cite news|first=Alex |last=Billington |url=http://www.firstshowing.net/2009/06/07/profile-on-marvel-studios-with-big-updates-from-kevin-feige/ |title=Profile on Marvel Studios with Big Updates from Kevin Feige |publisher=Firstshowing.net |date=June 7, 2009 |accessdate=January 27, 2010 |archiveurl=https://www.webcitation.org/5zxsDMSuN?url=http://www.firstshowing.net/2009/06/07/profile-on-marvel-studios-with-big-updates-from-kevin-feige/ |archivedate=July 6, 2011 |url-status=live}}</ref>
+
+===Characterization===
+[[File:Tom Hiddleston by Gage Skidmore.jpg|thumb|Hiddleston appearing in costume as Loki at the 2013 [[San Diego Comic-Con]].]]
+Tom Hiddleston stated that "Loki's like a comic book version of [[Edmund (King Lear)|Edmund]] in ''[[King Lear]]'', but nastier".<ref>{{cite web|url=https://screenrant.com/20-last-minute-casting-decisions-completely-changed-mcu/|title=20 Last-Minute Casting Decisions That Completely Changed The MCU|first=Ben|last=Sherlock|publisher=[[ScreenRant]]|date=January 29, 2019}}</ref> Hiddleston stated that he had to keep a strict diet before the start of filming because director Kenneth Branagh "wants Loki to have a lean and hungry look, like [[Gaius Cassius Longinus|Cassius]] in ''[[Julius Caesar (play)|Julius Caesar]]''. Physically, he can't be posing as Thor".<ref>{{cite web|url=https://collider.com/actor-thom-hiddleston-and-writer-ashley-miller-talk-thor/|title=Actor Thom Hiddleston and Writer Ashley Miller Talk Thor|last=Goldberg|first=Matt|website=[[Collider (website)|Collider]]|date=May 30, 2009|accessdate=December 9, 2019|archiveurl=https://web.archive.org/web/20131011053206/https://collider.com/actor-thom-hiddleston-and-writer-ashley-miller-talk-thor/|archivedate=October 11, 2013|url-status=live}}</ref> Hiddleston also looked at [[Peter O'Toole]] as inspiration for Loki, explaining, "Interestingly enough, [Kenneth Branagh] said to look at Peter O'Toole in two specific films, ''[[The Lion in Winter (1968 film)|The Lion in Winter]]'' and ''[[Lawrence of Arabia (film)|Lawrence of Arabia]]''. What's interesting about ... his performance [as King Henry] is you see how damaged he is. There's a rawness [to his performance]; it's almost as if he's living with a layer of skin peeled away. He's grandiose and teary and, in a moment, by turns hilarious and then terrifying. What we wanted was that emotional volatility. It's a different acting style, it's not quite the same thing, but it's fascinating to go back and watch an actor as great as O'Toole head for those great high hills".<ref name="Storm">{{cite news |author=Storm, Marc |title=Tom Hiddleston: Thor's Mischief Maker |publisher=[[Marvel Comics|Marvel.com]] |date=February 7, 2011 |url=http://marvel.com/news/story/15145/tom_hiddleston_thors_mischief_maker |accessdate=February 8, 2011 |archiveurl=https://www.webcitation.org/5zva68ecj?url=http://marvel.com/news/story/15145/tom_hiddleston_thors_mischief_maker |archivedate=July 4, 2011 |url-status=dead |df=mdy-all }}</ref> Ted Allpress portrays a young Loki.
+
+About his character's evolution from ''Thor'' to ''The Avengers'', Hiddleston said, "I think the Loki we see in ''The Avengers'' is further advanced. You have to ask yourself the question: How pleasant an experience is it disappearing into a wormhole that has been created by some kind of super nuclear explosion of his own making? So I think by the time Loki shows up in ''The Avengers'', he's seen a few things."<ref name="HiddlestonInt1">{{cite news|url=http://www.iamrogue.com/news/movie-news/item/3534-exclusive-tom-hiddleston-discusses-lokis-role-in-the-avengers.html|title=Exclusive: Tom Hiddleston Discusses Loki's Role in 'The Avengers{{'-}}|last=Philbrick|first=Jami|date=May 1, 2011|publisher=IAmRogue.com|accessdate=May 1, 2011|archiveurl=https://www.webcitation.org/5zxBoOBUw?url=http://www.iamrogue.com/news/movie-news/item/3534-exclusive-tom-hiddleston-discusses-lokis-role-in-the-avengers.html|archivedate=July 5, 2011|url-status=live}}</ref> About Loki's motivations, Hiddleston said, "At the beginning of ''The Avengers'', he comes to Earth to subjugate it and his idea is to rule the human race as their king. And like all the delusional autocrats of human history, he thinks this is a great idea because if everyone is busy worshipping him, there will be no wars so he will create some kind of world peace by ruling them as a tyrant. But he is also kind of deluded in the fact that he thinks unlimited power will give him self-respect, so I haven't let go of the fact that he is still motivated by this terrible jealousy and kind of spiritual desolation."<ref name="HollywoodReporter5">{{cite web|date=August 20, 2011|author=THR staff|title={{-'}}Avengers' Tom Hiddleston Talks the Return of Loki (Video)|url=http://www.hollywoodreporter.com/heat-vision/avengers-tom-hiddleston-talks-return-225649|work=The Hollywood Reporter|archiveurl=https://www.webcitation.org/618UtAbKg?url=http://www.hollywoodreporter.com/heat-vision/avengers-tom-hiddleston-talks-return-225649 |archivedate=August 22, 2011 |url-status=live |accessdate=August 22, 2011}}</ref> Hiddleston also filmed scenes for ''[[Avengers: Age of Ultron]]'', but his scenes were omitted from the theatrical cut because director Joss Whedon didn't want the movie to feel "overstuffed".<ref>{{cite web|url=http://www.mtv.com/news/2148918/joss-whedon-loki-avengers-age-of-ultron/|title=Joss Whedon Explains Why There's No Loki In 'Avengers: Age Of Ultron'|work=MTV News|access-date=May 1, 2015|archive-url=https://www.webcitation.org/6YD2O5qul?url=http://www.mtv.com/news/2148918/joss-whedon-loki-avengers-age-of-ultron/|archive-date=May 1, 2015|url-status=live|df=mdy-all}}</ref>
+
+In ''Thor: The Dark World'', Loki forms an uneasy alliance with Thor against the Dark Elves.<ref name="HiddlestonTDW">{{cite web|last=Warner |first=Kara |date=September 1, 2011 |title='Thor 2' Director Not Set Yet, Says Tom Hiddleston |url=http://www.mtv.com/news/2599271/thor-2-tom-hiddleston/ |publisher=[[MTV News]] |accessdate=September 19, 2011 |archiveurl=https://www.webcitation.org/61oh1vJJy?url=http://splashpage.mtv.com/2011/09/01/thor-2-tom-hiddleston/ |archivedate=September 19, 2011 |url-status=live}}</ref><ref name="USAToday2">{{cite web|last=Truitt |first=Brian |date=April 23, 2013 |title=Thor's world grows 'Dark' with new trailer |url=https://www.usatoday.com/story/life/movies/2013/04/23/thor-the-dark-world-movie-trailer/2104893/ |work=[[USA Today]] |accessdate=April 23, 2013 |archiveurl=https://www.webcitation.org/6JkZFuhxy?url=http://www.usatoday.com/story/life/movies/2013/04/23/thor-the-dark-world-movie-trailer/2104893/ |archivedate=September 19, 2013 |url-status=live}}</ref><ref name="LATimes5">{{cite web|last=McIntyre |first=Gina |date=August 7, 2013 |url=http://herocomplex.latimes.com/movies/thor-the-dark-world-trailer-puts-tom-hiddlestons-loki-center-stage/ |title='Thor: The Dark World' trailer puts Tom Hiddleston's Loki center stage |work=[[Los Angeles Times]] |accessdate=August 8, 2013 |archiveurl=https://www.webcitation.org/6IinFT1ve?url=http://herocomplex.latimes.com/movies/thor-the-dark-world-trailer-puts-tom-hiddlestons-loki-center-stage/ |archivedate=August 8, 2013 |url-status=live}}</ref> On where he wished to take the character in the film, Hiddleston said, "I'd like to take [Loki] to his absolute rock bottom. I'd like to see him yield, essentially, to his darkest instincts. Then, having hit rock bottom, maybe come back up. I think the fascination for me about playing Loki is that, in the history of the mythology and the comic books and the Scandinavian myths, is he's constantly dancing on this fault line of the dark side and redemption."<ref name="HiddlestonTDW2">{{cite web|last=Sullivan |first=Kevin |date=May 2, 2012 |title=Tom Hiddleston Wants Loki At 'Absolute Rock Bottom' In 'Thor 2' |url=http://www.mtv.com/news/articles/1684283/thor-2-tom-hiddleston-loki.jhtml |publisher=[[MTV News]] |accessdate=August 2, 2012 |archiveurl=https://www.webcitation.org/69cKA84tE?url=http://www.mtv.com/news/articles/1684283/thor-2-tom-hiddleston-loki.jhtml |archivedate=August 2, 2012 |url-status=live}}</ref> Hiddleston recalled, "When I met Alan [Taylor], he asked me how I thought I could do Loki again without repeating myself and I remembered talking with Kevin Feige when we were on the ''Avengers'' promotional tour. I said, 'OK, you've seen Thor and Loki be antagonistic for two films now. It would be amazing to see them fight side by side. I've been the bad guy now twice, so I can't be again, or otherwise I shouldn't be in the film. So we have to find a new role for me to play."<ref name="TotalFilmTDW">{{cite journal |last=Crowther |first=Jane |date=November 2013 |title=Thor: The Dark World |journal=[[Total Film]] |issue=212 |pages=66–71 |doi= |url= }}</ref>
+
+Hiddleston was interested in how Loki's attitude has changed by the events of ''Thor: Ragnarok'', saying, "he is always a trickster. It is trying to find new ways for him to be mischievous".<ref name="HiddlestonJun2016">{{Cite web |url=http://comicbook.com/2016/06/04/tom-hiddleston-teases-loki-and-the-hulk-in-thor-3-ragnarok/ |title=Tom Hiddleston Teases Loki and the Hulk in Thor 3: Ragnarok |publisher=Comicbook.com |date=June 4, 2016 |access-date=June 5, 2016 |last=Mueller |first=Matthew |archive-url=https://www.webcitation.org/6i2l70lmK?url=http://comicbook.com/2016/06/04/tom-hiddleston-teases-loki-and-the-hulk-in-thor-3-ragnarok/ |archive-date=June 5, 2016 |url-status=live}}</ref> As the ruler of Asgard since the end of ''[[Thor: The Dark World]]'' (2013), Hiddleston notes that "Loki has devoted most of his efforts to narcissistic self-glorification. Not so much on good governance."<ref name="EWSDCC2017">{{Cite web |url=http://ew.com/movies/2017/07/22/thor-ragnarok-trailer-comic-con/ |title=Hulk speaks in awesome new trailer for Thor: Ragnarok |last=Breznican |first=Anthony |publisher=[[Entertainment Weekly]] |date=July 22, 2017 |access-date=July 22, 2017 |archive-url=https://www.webcitation.org/6s9yemTVU?url=http://ew.com/movies/2017/07/22/thor-ragnarok-trailer-comic-con/ |archive-date=July 23, 2017 |url-status=live}}</ref> He also added that "the idea that Thor might be indifferent to Loki is troubling for him... it's an interesting development".<ref name="IGNSept2017">{{Cite web |url=http://www.ign.com/articles/2017/09/08/thor-ragnarok-odin-knew-of-cosmic-threats-that-thor-and-loki-didnt |title=Thor: Ragnarok: Odin Knew of Cosmic Threats That Thor and Loki Didn't |last=Vevjoda |first=Jim |publisher=[[IGN]] |date=September 8, 2017 |access-date=September 8, 2017 |archive-url=https://www.webcitation.org/6tL77MKPT?url=http://www.ign.com/articles/2017/09/08/thor-ragnarok-odin-knew-of-cosmic-threats-that-thor-and-loki-didnt |archive-date=September 9, 2017 |url-status=live}}</ref>
+
+With respect to Loki's death at the beginning of ''Infinity War'', Hiddleston expressed the opinion that "it's very powerful he calls himself an Odinson, and that closes the whole journey of Loki and what he can do", also noting that Loki's death demonstrates how powerful Thanos is, setting the stage for the fight against him.<ref>{{Cite web|url=https://comicbook.com/marvel/2018/06/25/avengers-infinity-war-loki-fate-death-tom-hiddleston/|title=Tom Hiddleston Confirms Loki's Fate In 'Avengers: Infinity War', Was Told Two Years Ago|website=Marvel|date=June 25, 2018}}</ref>
+
+===Appearance and special effects===
+Hiddleston has noted that his transformation into Loki has required dying his naturally blond hair and making his naturally ruddy skin appear very pale, stating:
+
+{{quote|In making him with this raven black hair and blanching my face of all color, it changes my features. Suddenly my blue eyes look a lot bluer, which lends a severity to my face. And even my own smile has a distorted menace to it. Whatever comes through me naturally is distorted.<ref>{{cite web|url=https://jezebel.com/tom-hiddleston-s-loki-is-a-sex-icon-for-deathly-pale-pe-1461776384|title=Tom Hiddleston’s Loki Is a Sex Icon for Deathly-Pale People Everywhere|first=Doug|last=Barry|website=jezebel.com|date=November 10, 2013}}</ref>}}
+
+Loki's costume in ''Thor'', designed by Marvel's head of visual development Charlie Wen, adapted elements from the comics while adding elements to give it a futuristic feel, reflecting the treatment of magic in the Thor films as merely highly advanced technology. Like other representations of Asgard, particularly including the costumes of Thor and Odin, it also referenced Norse symbols. Wen stated that he "designed Loki's armor to be more overtly ceremonial than practical", in keeping with the character being more focused on scheming for power than engaging in battle.<ref>{{cite web|url=https://www.themarysue.com/wacky-loki-design/|title=Loki’s First Design in Thor Was Absolutely Wild|first=Kaila|last=Hale-Stern|publisher=[[The Mary Sue]]|date=August 10, 2018}}</ref>
+
+Hiddleston described the horns worn as part of his Loki costume as weighing about 30 pounds, resulting in one instance during the filming of ''The Avengers'' where he asked co-star [[Chris Hemsworth]] to really punch him in the face, because the weight of the horns made it difficult to fake being hit.<ref>{{Cite web|url=https://www.cinemablend.com/news/2480759/that-time-chris-hemworth-punched-tom-hiddleston-in-the-face-filming-the-avengers|title=That Time Chris Hemworth Punched Tom Hiddleston In The Face Filming The Avengers|date=September 23, 2019|website=CINEMABLEND}}</ref>
+
+==Fictional character biography==
+===Origins and first betrayal of Asgard===
+{{see|Thor (film)}}
+Loki was born a Frost Giant, and abandoned as an infant by his father [[Laufey (comics)|Laufey]], only to be found by Odin during an invasion of the realm of the Frost Giants. Odin uses magic to make Loki appear Asgardian, and raises him as a son alongside Odin's biological son, Thor. During his upbringing, Odin's wife Freya teaches Loki to use magic and illusion.
+
+Hundreds of years later, Loki watches as Thor prepares to ascend to the throne of [[Asgard (comics)|Asgard]] after his father, [[Odin (character)|Odin]]. This is interrupted by frost giants attempting to retrieve an artifact captured by Odin in a war centuries before. Loki manipulates Thor into traveling to Jotunheim against Odin's order, to confront Frost Giant leader Laufey, accompanied by Loki and several of Thor's fellow warriors. A battle ensues until Odin intervenes to save the Asgardians, destroying the fragile truce between the two races. Loki discovers that he is Laufey's biological son, adopted by Odin after the war ended. After Odin exiles Thor to Earth, Loki confronts Odin about his parentage, and a weary Odin falls into the deep "Odinsleep" to recover his strength. Loki takes the throne in Odin's stead and offers Laufey the chance to kill Odin and retrieve the Casket. Sif and the Warriors Three, unhappy with Loki's rule, attempt to return Thor from exile, convincing [[Heimdall (comics)|Heimdall]], gatekeeper of the [[Bifröst]]—the means of traveling between worlds—to allow them passage to Earth. Aware of their plan, Loki sends the [[Destroyer (Thor)|Destroyer]], a seemingly indestructible [[automaton]], to pursue them and kill Thor, but Thor regains his powers and defeats the Destroyer. Thor leaves with his fellow Asgardians to confront Loki.
+
+In Asgard, Loki betrays and kills Laufey, revealing his true plan to use Laufey's attempt on Odin's life as an excuse to destroy Jotunheim with the Bifröst Bridge, thus proving himself worthy to his adoptive father. Thor arrives and fights Loki before destroying the [[Bifröst Bridge]] to stop Loki's plan, stranding himself in Asgard. Odin awakens and prevents the brothers from falling into the abyss created in the wake of the bridge's destruction, but Loki apparently commits suicide by allowing himself to fall when Odin rejects his pleas for approval.
+
+Later, [[Erik Selvig]] is taken to a S.H.I.E.L.D. facility, where Nick Fury opens a briefcase and asks him to study a mysterious cube, which [[Nick Fury]] says may hold untold power. Loki, invisible, prompts Selvig to agree, and he does.
+
+===Attacking Earth===
+{{see|The Avengers (2012 film)}}
+Loki encounters the Other, the leader of an extraterrestrial race known as the [[Chitauri]]. In exchange for retrieving the Tesseract,{{refn|name=Tesseract|group=N|Producer Kevin Feige stated that the Tesseract is based on the [[Cosmic Cube]] from Marvel comics.<ref name="movieline">{{cite web|url=http://movieline.com/2012/04/30/kevin-feige-on-avengers-marvel-universe-building-and-the-legacy-of-elektra/|title=Marvel's Kevin Feige on Avengers, Iron Man 3, Thor 2, Universe-Building, and Elektra|author=Yamato, Jen|publisher=[[MovieLine]]|date=April 30, 2012|accessdate=May 3, 2012|quote=But as we were working on them we started to keep track of some things that the writers and filmmakers of one movie were doing anyway and we started to track them and realized that we could utilize those later down the line. That's how the Cosmic Cube came about; what started as a little seed would grow and grow and grow to ''The Avengers''.|archiveurl=https://www.webcitation.org/6BtAmQRDf?url=http://movieline.com/2012/04/30/kevin-feige-on-avengers-marvel-universe-building-and-the-legacy-of-elektra/ |archivedate=November 3, 2012 |url-status=live}}</ref> After ''[[Thor: The Dark World]]'', he stated that it was also the Space [[Infinity Stone]].<ref name="CraveOnline3">{{cite web|url=http://www.craveonline.com/film/interviews/601057-exclusive-interview-kevin-feige-on-thor-and-marvels-future/2|title=Exclusive Interview: Kevin Feige on Thor and Marvel’s Future|author=Bibbiani, William|publisher=[[CraveOnline]]|date=November 8, 2013|accessdate=November 9, 2013|quote=It is. I don't know when we'll actually divulge that necessarily, but it's the space stone.}}</ref>}} a powerful energy source of unknown potential, the Other promises Loki an army with which he can subjugate Earth.
+
+At a remote [[S.H.I.E.L.D.]] research facility, Loki uses his scepter to enslave the mind of [[Clint Barton (Marvel Cinematic Universe)|Clint Barton]] and steals the Tesseract. In [[Stuttgart]], Barton steals [[iridium]] needed to stabilize the Tesseract's power while Loki causes a distraction, leading to a brief confrontation with Steve Rogers, Tony Stark, and Natasha Romanoff that ends with Loki's surrender. While Loki is being escorted to S.H.I.E.L.D., [[Thor (Marvel Cinematic Universe)|Thor]], his adoptive brother, arrives and frees him, hoping to convince him to abandon his plan and return to Asgard. After a confrontation with Stark and Rogers, Thor agrees to take Loki to S.H.I.E.L.D.'s flying aircraft carrier, the [[Helicarrier]]. Upon arrival, Loki is imprisoned while Banner and Stark attempt to locate the Tesseract.
+
+Agents possessed by Loki attack the Helicarrier, disabling one of its engines in flight and causing [[Bruce Banner (Marvel Cinematic Universe)|Bruce Banner]] to transform into the Hulk. Thor attempts to stop the Hulk's rampage, and Loki kills Agent Coulson and ejects Thor from the airship as he escapes. Stark and Rogers realize that for Loki, simply defeating them will not be enough; he needs to overpower them publicly to validate himself as ruler of Earth. Loki uses the Tesseract, in conjunction with a device Selvig built, to open a wormhole above [[Stark Tower]] to the Chitauri fleet in space, launching his invasion. The Avengers rally in defense of the city. As the Chitauri are defeated, the Hulk attacks Loki and beats him into submission. Thor returns Loki and the Tesseract to Asgard.
+
+===Battle with the Dark Elves===
+{{see|Thor: The Dark World}}
+[[Elves (Marvel Comics)#Dark Elves|Dark Elves]] led by [[Malekith the Accursed|Malekith]] attack Asgard, searching for Jane Foster, whose body has been invaded by an unearthly force knows as the Aether. Malekith and his monstrous lieutenant Kurse kill Loki's adoptive mother [[Frigga (comics)|Frigga]], who had taught Loki magic. Thor reluctantly frees Loki, who knows a secret portal to [[Svartalfheim]], home of the dark elves, in return for Thor's promise to take vengeance for their mother.
+
+In Svartalfheim, Loki appears to betray Thor, in fact tricking Malekith into drawing the Aether out of Jane, but Thor's attempt to destroy the exposed substance fails. Malekith merges with the Aether and leaves in his ship as Loki appears to be fatally wounded saving Thor from Kurse, whom Loki was able to kill through trickery. Thor ultimately defeats Malekith in a battle in [[Greenwich]], and returns to Asgard to decline Odin's offer to take the throne, and tells Odin of Loki's sacrifice. After Thor leaves, it is shown that Loki has actually survived and taken Odin's place on the throne, disguised as Odin.
+
+===Destruction of Asgard and battle with Thanos===
+{{see|Thor: Ragnarok|Avengers: Infinity War|Avengers: Endgame}}
+Several years later, Loki continues to rule Asgard disguised as Odin, having kept the real Odin under a spell in a nursing home in New York City. Thor returns to Asgard and discovers this ruse. He takes Loki to New York, and with the help of [[Doctor Strange|Stephen Strange]], they find a dying Odin in Norway, who explains that his passing will allow his firstborn child, Hela, to escape from a prison she was sealed in long ago. She appears, destroying Mjölnir, and forces the escaping Thor and Loki from the Bifröst out into space.
+
+Loki lands on the planet Sakaar, and quickly ingratiates himself to the ruler of that world, the [[Grandmaster (Marvel Comics)|Grandmaster]]. Thor later crash-lands on the planet, and is captured by the slave trader [[Valkyrie (Marvel Comics)|Valkyrie]], a former member of the ancient order of [[Valkyrior|Valkyries]] defeated by Hela. After convincing Valkyrie and Loki to help, they steal a ship with which to escape through a wormhole to Asgard – but not before Loki again attempts to betray his brother, causing Thor to leave Loki behind on Sakaar. In the midst of a battle with Hela's forces, Loki returns aboard a large vessel stolen from the Grandmaster, helping Asgard's citizens to escape the battle between Thor and Hela's forces, and proclaiming himself their savior. Loki helps defeat Hela by rushing to Odin's treasure room and placing the crown of Surtur in the eternal flame kept there, thus causing an enormous form of Surtur to appear and destroy Asgard, which is Hela's source of power. Thor, crowned king, decides to take his people to Earth despite Loki's concerns about how he will be received there, but they are intercepted by a large spacecraft carrying Thanos.
+
+Thanos, wielding an Infinity Stone, overpowers Thor and Hulk, and claims the Space Stone from the Tesseract, which Loki had stolen just before Asgard's destruction. In a last act of self-sacrifice, Loki pretends to swear allegiance to Thanos, only to attempt a futile attack, after which Thanos chokes Loki to death. Thanos eventually obtains all the Infinity Stones and snaps his fingers and destroys half the population of the universe. Five years later, the remaining Avengers figure out how to travel back in time to obtain the Infinity Stones before Thanos does to undo the snap, leading several of them to return to the Battle of New York. The plans of the time-travelling Avengers go awry, however, allowing the now-captured past version of Loki to get hold of the Space Stone and escape, forming a new timeline where Loki is again alive.
+
+==Reception==
+The character of Loki "has been a fan favorite ever since his central role in 2012's ''The Avengers''",<ref>{{cite web|url=https://screenrant.com/loki-tv-show-questions-answers-death-tesseract/|title=Loki TV Show Answers Tom Hiddleston's Death & Tesseract Questions|first=Kyle|last=Morris|publisher=[[ScreenRant]]|date=September 18, 2019}}</ref> becoming "one of the MCU's most beloved characters".<ref>{{cite web|url=https://mentalfloss.com/article/586595/tom-hiddleston-loki-series-departure-from-mcu-films|title=Tom Hiddleston Says Disney+ Loki Series Is a 'New Departure' From the MCU Films|first=Jessica|last=Bowman|website=mentalfloss.com|date=June 26, 2019}}</ref> Hiddleston has received a number of nominations and awards for his performance of the character.
+
+{| class="wikitable sortable"
+|-
+! Year
+! Film
+! Award
+! Category
+! Result
+! scope="col" class="unsortable"| {{Abbr|Ref(s)|Reference(s)}}
+|-
+| 2011
+| rowspan="3"| ''[[Thor (film)|Thor]]''
+| [[Scream Awards]]
+| [[2011 Scream Awards|Scream Award for Breakout Performance – Male]]
+| {{nom}}
+| style="text-align: center;"|<ref name="Boucher">{{cite web|last=Boucher |first=Geoff |date=7 September 2011 |title='Harry Potter,' 'X-Men: First Class' lead Scream Awards |url=http://herocomplex.latimes.com/2011/09/07/harry-potter-x-men-first-class-lead-scream-awards/#/0 |work=[[Los Angeles Times]] |accessdate=7 September 2011 |url-status=live |archiveurl=https://web.archive.org/web/20150702115227/http://herocomplex.latimes.com/2011/09/07/harry-potter-x-men-first-class-lead-scream-awards/ |archivedate=2 July 2015}}</ref>
+|-
+|rowspan="3"| 2012
+| [[Empire Awards]]
+| [[Empire Award for Best Newcomer|Best Male Newcomer]]
+|{{won}}
+| style="text-align: center;"|<ref name="EmpireAwards">{{cite web|date=March 5, 2012 |last=O'Hara |first=Helen |title=The Awards Nominations Are Here! |url=http://www.empireonline.com/news/story.asp?NID=33322 |work=[[Empire (film magazine)|Empire]] |archiveurl=https://www.webcitation.org/65xl2pdmB?url=http://www.empireonline.com/news/story.asp?NID=33322 |archivedate=March 6, 2012 |accessdate=March 6, 2012 |url-status=dead}}</ref>
+|-
+| [[Saturn Award]]s
+| [[Saturn Award for Best Supporting Actor|Best Supporting Actor]]
+| {{nom}}
+| style="text-align: center;"|<ref name="AccoSaturn">{{cite web|url=http://www.saturnawards.org/nominations.html |title=Nominations for the 38th Annual Saturn Awards |publisher=[[Academy of Science Fiction, Fantasy & Horror Films]] |work=[[Saturn Award]] |date=February 29, 2012 |accessdate=February 29, 2012 |archiveurl=https://www.webcitation.org/65olbBrXC?url=http://www.saturnawards.org/nominations.html |archivedate=February 29, 2012 |url-status=dead}}</ref>
+|-
+| rowspan="3"| ''[[The Avengers (2012 film)|The Avengers]]''
+| [[Teen Choice Awards]]
+| [[Teen Choice Award for Choice Movie Villain|Choice Movie: Villain]]
+| {{nom}}
+| style="text-align: center;"|<ref name="AccoTeenChoice2012">{{cite news |url=http://www.huffingtonpost.com/2012/07/23/teen-choice-awards-winners-2012_n_1693766.html |title=Teen Choice Awards Winners 2012: 'Twilight,' 'The Vampire Diaries,' Justin Bieber Win Big |work=Huffington Post |date=June 23, 2012 |accessdate=June 23, 2012 |archiveurl=https://www.webcitation.org/6BtAIZvP7?url=http://www.huffingtonpost.com/2012/07/23/teen-choice-awards-winners-2012_n_1693766.html |archivedate=2012-11-03 |url-status=live }}</ref>
+|-
+| rowspan="2"| 2013
+| [[Nickelodeon Kids' Choice Awards|Kids' Choice Awards]]
+| Favorite Villain
+| {{nom}}
+| style="text-align: center;"|<ref name="KidsChoiceAwards">{{cite news |last=West |first=Abby |date=February 13, 2013 |title=Kids' Choice Awards 2013 TV nominees- EXCLUSIVE |url=http://family-room.ew.com/2013/02/13/kids-choice-awards-2013-tv-nominees-exclusive/ |work=[[Entertainment Weekly]] |accessdate=March 5, 2013 |archiveurl=https://www.webcitation.org/6EuOGGhOq?url=http://family-room.ew.com/2013/02/13/kids-choice-awards-2013-tv-nominees-exclusive/ |archivedate=2013-03-06 |url-status=live }}</ref>
+|-
+| [[MTV Movie Awards]]
+| [[MTV Movie Award for Best Villain|Best Villain]]
+| {{won}}
+| style="text-align: center;"|<ref name="MTVMovieAwardsWinners">{{cite web |last=Ellwood |first=Gregory |date=April 14, 2013 |title=2013 MTV Movie Awards winners and nominees - complete list |url=http://www.hitfix.com/in-contention/2013-mtv-movie-awards-winners-and-nominees-complete-list |publisher=[[HitFix]] |accessdate=April 14, 2013 |archiveurl=https://www.webcitation.org/6Ft8ZsS6M?url=http://www.hitfix.com/in-contention/2013-mtv-movie-awards-winners-and-nominees-complete-list |archivedate=April 15, 2013 |url-status=live }}</ref>
+|-
+| rowspan="2"| 2014
+| rowspan="2"| ''[[Thor: The Dark World]]''
+| [[Empire Awards]]
+| [[Empire Award for Best Supporting Actor]]
+| {{nom}}
+| style="text-align: center;"|<ref name=Empire2014>{{cite web|title=The Jameson Empire Awards 2014 Shortlist |url=http://www.empireonline.com/awards2014/ |publisher=Empire Online |accessdate=26 March 2014 |url-status=live |archiveurl=https://web.archive.org/web/20140207055907/http://www.empireonline.com/awards2014/ |archivedate=7 February 2014}}</ref>
+|-
+| [[Saturn Awards]]
+|[[Saturn Award for Best Supporting Actor]]
+| {{nom}}
+| style="text-align: center;"|<ref>{{cite news|url=https://variety.com/2014/film/news/gravity-the-hobbit-the-desolation-of-smaug-lead-saturn-awards-noms-1201120744/ |newspaper=Variety |accessdate=14 April 2014 |date=25 February 2014 |title='Gravity,' 'The Hobbit: The Desolation of Smaug' Lead Saturn Awards Noms |first=Nikara |last=Johns |url-status=live |archiveurl=https://www.webcitation.org/6Nj6ieckF?url=http://variety.com/2014/film/news/gravity-the-hobbit-the-desolation-of-smaug-lead-saturn-awards-noms-1201120744/ |archivedate=28 February 2014}}</ref>
+|-
+| 2018
+| ''[[Thor: Ragnarok]]''
+| [[Teen Choice Awards]]
+|[[Teen Choice Award for Choice Movie Scene Stealer]]
+| {{nom}}
+| style="text-align: center;"|<ref>{{Cite news|url=https://deadline.com/2018/06/teen-choice-awards-black-panther-solo-riverdale-nominations-list-1202415855/|title=Teen Choice Awards: ‘Black Panther’, ‘Solo’, ‘Riverdale’ Lead Nominations – List|last=Evans|first=Greg|date=June 22, 2018|website=[[Deadline Hollywood]]|access-date=June 22, 2018}}</ref>
+|}
+
+==See also==
+*[[Loki in other media]]
+
+==Notes==
+{{reflist|group=N}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://marvelcinematicuniverse.fandom.com/wiki/Loki Loki] at Marvel Cinematic Universe Wiki
+* {{Marveldatabase|Loki_Laufeyson_(Earth-199999)|Marvel Cinematic Universe Loki}}
+* [https://www.marvel.com/characters/thor-thor-odinson/on-screen Thor (Thor Odinson) Biography] - Marvel Cinematic Universe (MCU) - Marvel Studios Official Web Site
+
+{{Thor}}
+{{Marvel Cinematic Universe}}
+{{portal bar|Comics|Mythology|Film}}
+
+[[Category:Fictional adoptees]]
+[[Category:Fictional characters introduced in 2011]]
+[[Category:Fictional characters with slowed aging]]
+[[Category:Fictional impostors]]
+[[Category:Fictional murdered people in film]]
+[[Category:Fictional princes]]
+[[Category:Fictional victims of genocide]]
+[[Category:Loki]]
+[[Category:Male characters in film]]
+[[Category:Male film villains]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Marvel Comics Asgardians]]
+[[Category:Norse mythology in popular culture]]
+[[Category:Supervillains]]
+[[Category:Thor (film series)]]
+[[Category:Time travelers]]

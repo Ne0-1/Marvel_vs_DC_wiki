@@ -1,0 +1,53 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|character_name=Zatara
+|publisher=[[DC Comics]]
+|debut=[[Action Comics]]'' # 1<br> (June 1938)
+|creators=[[Fred Guardineer]]
+|real_name= Giovanni "John" Zatara
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances = [[All-Star Squadron]]
+|aliases = <!-- optional: actual identities the character uses, not nicknames -->
+|supports=<!--optional-->
+|powers = Can use magic by speaking the desired effect backwards.
+}}
+
+'''Giovanni Zatara''' is a fictional character in the [[DC Universe]]. He first appeared in ''[[Action Comics]]'' # 1 and was created by writer and artist [[Fred Guardineer]].
+
+==History==
+{{spoiler}}
+Zatara was a fictional [[magic (paranormal)|magician]] appearing in various publications of [[DC Comics]], beginning with 1938's ''[[Action Comics]]'' # 1, which is also the first appearance of [[Superman]].
+
+A descendant of the [[Homo Magi]], as well as being an [[magic (illusion)|illusionist]], Zatara also had genuine magical powers, which he focused through speaking backwards: he could do anything so long as he could describe it in ''sdrawkcab hceeps'' ("backwards speech", spelled backwards). This helped distinguish Zatara from the numerous [[Mandrake the Magician]] knockoffs that cluttered the [[comic|comics]] and [[pulp magazine]]s of the day.
+
+His love of magic began early when he was given a magic kit by his uncle, himself a professional illusionist. Although he began learning the craft in childhood, his early attempts at performing professionally were unsuccessful until he realized that he needed to work on his [[showmanship]]. 
+
+To that end, he dug up old diaries of [[Leonardo Da Vinci]], who was a direct ancestor. While reading the diaries, which Da Vinci wrote in backwards spelling as a security precaution, Zatara learned that his family had the command of magic. He discovered this inadvertently when he accidentally gave a command to a [[mannequin]] to begin waving an arm wildly. Zatara realized that he could command it to stop by giving the order in backwards spelling.
+
+With this new knowledge, Zatara developed a successful show. During the premiere performance a fire broke out on stage, forcing Zatara to use his command of real magic to put it out. While the audience mistook the incident as part of the act, Zatara realized that this power could be invaluable in helping people and he resolved to use it as such between shows.
+
+Now better known as the father of his more famous daughter [[Zatanna]], John Zatara sacrificed himself to protect her while attempting to save the spiritual dimensions surrounding [[Earth]] at the conclusion of [[Alan Moore]]'s "American Gothic" storyline in ''[[Swamp Thing]]'' which was loosely tied to the events that happened in ''[[Crisis on Infinite Earths]]''. Since then he has made sporadic appearances in the afterlife, including resurrecting Mason O'Dare in ''[[Starman (comics)|Starman]]'' #80, and the recent ''Seven Soldiers: Zatanna'' miniseries.
+
+His nephew [[Zachary Zatara]] now uses the Zatara name as a stage magician.
+
+==Other versions==
+Another Zatara was featured in a supporting role in the miniseries ''[[Kingdom Come (comic)|Kingdom Come]]'' and its follow-up, ''[[The Kingdom (comic)|The Kingdom]]''. This Zatara is the son of Zatanna and magician [[John Constantine]], which makes him the grandson of the original. He is described as "a youthful Harry Houdini-like successor to the magician super-hero lineage."
+
+==Other media==
+[[Image:ZataraDC.jpg|200px|thumb|left|Zatara in [[Batman: The Animated Series]]]]
+The one broadcast depiction of the character was in ''[[Batman: The Animated Series]]'' in a flashback within the episode "Zatanna", where the (apparently non-powered) character trained [[Bruce Wayne]] in [[escapology]]. Zatara has already died, of unspecified circumstances, by the time that episode took place. He was voiced by [[Vincent Schiavelli]].
+
+In addition, in the ''[[Cartoon Monsoon]]'' contest, Zatara appeared in the ''Zatanna'' entry as the frustrated father of the title character. The story was set during Zatanna's teen years and took certain liberties.
+
+==External links==
+*[http://www.dcindexes.com/indexes/newindexes.php?character=zatara Zatara Index at Mike's Amazing World of DC Comics]
+*[http://www.geocities.com/Athens/Olympus/7160/kc3.html Jess Nevins' Comic Book Annotations for Kingdom Come #3]
+* [http://www.toonopedia.com/zatara.htm Zatara Biography at Toonopedia]
+
+[[Category:Magic users in comics]]
+[[Category:Fictional stage magicians]]
+[[Category:1938 introductions]]
+[[Category:Golden Age superheroes]]
+[[Category:DC Comics superheroes]]

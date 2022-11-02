@@ -1,0 +1,33 @@
+{{Superherobox| <!--This box is part of Wikipedia:WikiProject Comics. See that article for details-->
+image=[[Image:Deathlok cowan.jpg|250px]]
+|caption=''Deathlok'' #1. Art by [[Denys Cowan]]
+|comic_color=background:#ff8080
+|character_name=Deathlok
+|real_name=(1) Luthor Manning <br> (2) Michael Collins <br> (3) Jack Truman
+|publisher=[[Marvel Comics]]
+|debut=''[[Astonishing Tales]]'' #25 ([[1974]])
+|creators=[[Rich Buckler]] and [[Doug Moench]]
+|alliance_color=background:#ffc0c0
+|status=Active
+|alliances=None
+|previous_alliances=Former member of the [[Central Intelligence Agency]]
+|aliases=The Demolisher
+|relatives=Luthor Manning - Janice (wife, separated), Richard (son) <br> Michael Collins - Tracy (wife), Nick (son)
+|powers=Along with enhanced strength enabling him to lift (press) approximately 2 tons, Deathlok's mechanical, cybernetic physiology grants him several other powers including enhanced reflexes, endurance 5 times past the normal human level, life support and a computer augmented brain. 
+|}}
+'''Deathlok''' (sometimes also referred to as "The Demolisher") is a [[Marvel Comics]] [[fictional character|character]], a [[cyborg]], created by [[Rich Buckler]] and [[Doug Moench]]. The first Deathlok appeared in ''Astonishing Tales'' #25; and several subsequent characters have used the "Deathlok" identity since then.
+
+==Versions of Deathlok== 
+* '''Col. Luther Manning''' was the "first" Deathlok, a soldier who after being near-fatally injured, woke up in the body of the experimental Deathlok cyborg in the post-apocalyptic future, and battled against the evil corporate and military regimes that had taken over the United States, while simultaneously struggling to not lose his humanity. He encountered [[Spider-Man]] and [[Captain America]] in various time travel storylines; in the latter story, he was able to overthrow the megalomaniac who had taken over the [[United States]]. Luther Manning today remains in his near-future alternate reality, searching for a purpose in life and unable to disconnect himself from the machine he is a part of.
+* '''Michael Collins''' was the first Deathlok to be created in the modern era and also the first to be created for the traditional [[Marvel Universe]]; he was an [[African-American]] pacifist and family man working for the [[Roxxon Oil]] cybernetics corporation, whose brain was transplanted against his will into a robotic killing machine. Although his brain was intended to only serve as a medium for the robot's programming, he was able to assert his will over it (installing a "no-killing parameter" into its programming) and had a brief [[superhero]]ic career as he desperately searched for his human body, hoping it still existed. This Deathlok's cyborg body first appeared in ''Marvel Comics Presents'' #62, and Collins' brain was placed in it in ''Deathlok'' (volume 1) #1. The brain of the person connected to this cyborg body in the ''Marvel Comics Presents'' story was later transferred into another cyborg body, and became the vigilante called Siege. The current status and whereabouts of the Michael Collins Deathlok cyborg and of Siege are both currently unknown.
+* '''Jack Truman''' was an agent of the international espionage outfit [[S.H.I.E.L.D.]] who was transformed into a cyborg to battle the [[Red Skull]].  He later swapped his minds into the body of another former S.H.I.E.L.D. agent, '''Larry Young'''. Truman is presumably living a normal human life in Young's body, while Young is presumably still trapped in the Deathlok body.
+
+==In other media==
+A Deathlok feature film is currently in the works by [[Paramount Pictures]].  Though no information is currently known about the latest script draft by [[David Self]], previous rumors and scripts suggest that the movie may be using the Luthor Manning Deathlok, while adding in some of the personality and background traits of Michael Collins.  There is currently no estimated release date. There has also been a [[Marvel Legends]] action figure of Deathlok, which is part of the [[Galactus]] Series.
+
+==External links==
+[http://homepage.mac.com/dmcduffie/site/Deathlokpitch.html The original Deathlok pitch]
+
+[http://www.geocities.com/dmisfit/Deathlok/ Deathlok Lives]
+
+[[Category:Fictional cyborgs]][[Category:Marvel Comics superheroes]]

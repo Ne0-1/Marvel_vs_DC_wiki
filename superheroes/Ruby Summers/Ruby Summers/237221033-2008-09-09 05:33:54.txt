@@ -1,0 +1,37 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = 
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[Marvel Comics]]
+| debut          = [[X-Factor: Layla Miller]] #1 
+| creators       = [[Peter David]], [[Valentine De Landro]]
+| alter_ego      = 
+| full_name      = Ruby Summers
+| species        = [[Mutant (Marvel Comics)|Human Mutant]]
+| homeworld      = <!-- optional -->
+| alliances      = <!-- optional -->
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = Optic Energy Beams<br />Turning her body into ruby
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = 
+| sortkey        = {{PAGENAME}}
+| addcharcat#    = 
+}}
+
+'''Ruby Summers''' is the daughter of [[Scott Summers]] and [[Emma Frost]] from the dystopian alternate future [[Multiverse (Marvel Comics)|Earth-1191]], she begins the Summers Rebellion along with [[Layla Miller]] and others.<ref name="x-factor: lm #1">''X-Factor: Layla Miller'' #1</ref>
+==Powers and abilities==
+Ruby has the power to emit energy beams from her eyes, like her [[Scott_Summers#Powers_and_abilities|father]]. She also has the ability to transform her body into organic ruby similar to her [[Emma_Frost#Powers_and_abilities|mother's]] diamond form. This ruby form halts the aging process and allows her to survive without sustenance, but due to fear that she might "age nearly seventy years in seconds" she has remained in this form for decades.<ref name="x-factor: lm #1" />
+
+==References==
+{{Reflist}}
+
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]]
+
+{{comics-stub}}

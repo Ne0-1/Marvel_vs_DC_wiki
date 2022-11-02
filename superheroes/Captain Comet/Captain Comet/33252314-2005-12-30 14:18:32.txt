@@ -1,0 +1,38 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Comet01.jpg|200px]]
+|caption=Captain Comet. Art by [[Ivan Reis]].
+|comic_color=background:#8080ff
+|character_name=Captain Comet
+|real_name=Adam Blake
+|publisher=[[DC Comics]]
+|debut=''Strange Adventures'' # 9 ([[June]] [[1951]])
+|creators=[[John Broome (writer)|John Broome]]<br>[[Carmine Infantino]]
+|alliance_color=background:#ffc0c0
+|status=Active
+|alliances=[[L.E.G.I.O.N.]] 
+|previous_alliances=[[Secret Society of Supervillains]]
+|aliases=
+|relatives=
+|powers=Telepathy, increased intelligence, flight and super strength given by a bright comet whose light had shone upon him minutes after birth.
+|}}
+
+'''Captain Comet''' is a [[fictional character]] and [[superhero]] who appears in stories published by [[DC Comics]]. He was created by [[John Broome (writer)|John Broome]] and [[Carmine Infantino]], and first appeared in ''[[Strange Adventures]]'' # 9 ([[June]], [[1951]]).
+[[Image:Strange adventures 9.jpg|thumb|left|150px|Captain Comet's first appearance in ''Strange Adventures'' #9.]]
+
+Captain Comet, whose real name is '''Adam Blake''', is a man born 100,000 years ahead of his time as a [[mutant]]. Blake's mutant status and various powers came from a [[comet]] shining its light upon him minutes after his birth. His powers include heightened intelligence and physical skills, [[clairvoyance]], [[psychokinesis]], and a prodigy level talent in multiple fields.
+
+Blake's skills were discovered by him while he was growing up, but he first used his skills to fight crime as an adult, when criminals attempted to steal an advanced scientific device invented by his friend, physics Professor Emery Zackro. After this adventure, Blake decided to become a superhero on a full time basis, creating his own costume and fighting various threats.
+
+Captain Comet's [[1950s]] appearances ended with ''Strange Adventures'' # 49 ([[October]], [[1954]]), after which he ceased appearing for several decades.
+
+He didn't reappear in comics until [[1976]], when comic writer [[Gerry Conway]] brought him back as a supporting character in the ''[[Secret Society of Super Villains]]'' comic. In this series, it was revealed that Captain Comet had been exploring space since his final ''Strange Adventures'' appearance. After the cancellation of ''Secret Society of Super Villains'', Blake made various guest appearances in other DC titles.
+
+In the [[1990s]], Captain Comet was a lead character in the ''[[L.E.G.I.O.N.]]'' series. He was a part of the [[Justice League]] and was killed in the [[Alex Ross]] 1994 mini-series [[Kingdom Come (comic)|Kingdom Come]]. More recently, he appeared in the ''[[Rann-Thanagar War]]'' mini-series.
+
+==External links==
+*[http://www.toonopedia.com/capcomet.htm Toonopedia entry on Captain Comet]
+
+
+{{DC-Comics-stub}}
+[[Category:DC Comics superheroes]]
+[[Category:Fictional mutants]]

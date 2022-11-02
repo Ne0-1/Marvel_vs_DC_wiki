@@ -1,0 +1,4 @@
+'''Bruce Banner''' is a fictional character in the Marvel Comics universe created by Stan Lee. His superhero identity is '''The Incredible Hulk''', or sometimes '''Incredible Hulk''' or even '''Hulk''' for short.
+
+Read more here:
+#redirect [[Hulk (comics)]] {{R from secret identity|Banner, Bruce}}

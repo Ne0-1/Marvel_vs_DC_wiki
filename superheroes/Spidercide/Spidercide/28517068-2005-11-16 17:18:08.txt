@@ -1,0 +1,28 @@
+{{Superherobox| <!--This box is part of Wikipedia:WikiProject Comics. See that article for details-->
+image=[[Image:Spidercide (comics).png|250px]]
+|caption=Spidercide<br>Art by [[Ron Lim]]
+|comic_color=background:#ff8080
+|character_name=Spidercide
+|real_name=Spidercide
+|publisher=[[Marvel Comics]]
+|debut=
+|creators=
+|alliance_color=background:#ffc0c0
+|status=Unknown
+|alliances=
+|previous_alliances=[[Jackal (comics)|Jackal]], [[Scrier]], [[Judas Traveller]] 
+|aliases=Freakface
+|relatives=[[Spider-Man]] (clone from), [[Ben Reilly]] (fellow clone), [[Kaine]] (fellow clone), [[Mary Jane Watson|Mary Jane Watson-Parker]] (sister in-law)
+|powers=All of Spider-Man's powers. Can grow and shrink in size. Can turn body semi-liquid and form blades. Limited Shapeshifting.
+|}}
+
+'''Spidercide''' is a [[fictional character]], a [[supervillain]] and [[cloning|clone]] of [[Spider-Man]] in the [[Marvel Comics|Marvel]] [[Marvel Universe|Universe]].
+
+==Character history==
+
+During the [[Clone Saga]], in addition to [[Ben Reilly]] and [[Kaine]], a third significant clone of Spider-Man was introduced. While he seemingly died, in denial of his clone status, during a battle with Spider-Man, Ben and Kaine, [[Scrier]] recovered his remains and reanimated him, granting him the ability to turn into other materials and shapes in the process. While he returned to the [[Jackal (comics)|Jackal]] thereafter, his loyalty was always to Scrier, and he ultimately betrayed the Jackal in the end, sending a copy of all of the Jackal's data to Scrier and turning on the Jackal when he found out, before apparently dying of a fall from the top of the [[Daily Bugle]] building.
+
+==Powers and abilities==
+Spidercide possesses all of [[Spider-Man]]'s powers. In addition, he could also shapeshift, turn his body into a semi-liquid form and grow and shrink in size.
+
+[[Category:Spider-Man villains]]

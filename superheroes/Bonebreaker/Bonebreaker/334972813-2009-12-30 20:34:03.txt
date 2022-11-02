@@ -1,0 +1,48 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Bonebreaker
+|real_name=
+|publisher=[[Marvel Comics]]
+|debut=''[[Uncanny X-Men]]'' #229<br />(May 1988)
+|creators=[[Chris Claremont]]<br />[[Marc Silvestri]]
+|alliance_color=background:#cccccc
+|alliances=[[Reavers (comics)|Reavers]]
+|aliases=
+|powers=Cybernetic body,<br />Robotic weaponry.
+|}}
+::''See also [[Bonecrusher]]''
+'''Bonebreaker''' is a [[super villain]] in the [[Marvel Comics Universe]].  He first appeared in ''[[Uncanny X-Men]]'' #229 (May 1988) and was created by [[Chris Claremont]] and [[Marc Silvestri]].
+
+== Bonebreaker ==
+Bonebreaker was the leader of the original [[Reavers (comics)|Reavers]], a gang of cyborgs living in a ghost town in Australia, who perpetrated robberies across the globe. Bonebreaker, as well as Pretty Boy and Skullbuster, avoided being sent through the [[Siege Perilous (comics)|Siege Perilous]] along with the other Reavers after being defeated by the [[X-Men]].<ref name="Uncanny229">{{Comic book reference | Writer = [[Chris Claremont]] | Penciller = [[Marc Silvestri]] | Inker = [[Dan Green]] | Story = Down Under  | Title = Uncanny X-Men | Issue = 229 | Date = May 1988 | Publisher = [[Marvel Comics]] | }}</ref> 
+Following their defeat, Bonebreaker sought out [[Donald Pierce]] and [[Lady Deathstrike]] to aid in rebuilding the Reavers and defeating the X-Men. At this point, Pierce took over Bonebreaker's role as the Reavers leader. The Reavers never ended up battling the X-Men but encountered Wolverine, beat him half to death, and crucified him.<ref name="Uncanny251">{{Comic book reference | Writer = [[Chris Claremont]] | Penciller = [[Marc Silvestri]] | Inker = [[Dan Green]] | Story = Fever Dream  | Title = Uncanny X-Men | Issue = 251 | Date = November 1989| Publisher = [[Marvel Comics]] | }}</ref> 
+After Wolverine escaped, the Reavers attacked [[Muir Island]] where they battled the Muir Island X-Men and [[Freedom Force (comics)|Freedom Force]], 
+killing Sunder, Stonewall, and Destiny before being defeated.<ref name="Uncanny255">{{Comic book reference | Writer = [[Chris Claremont]] | Penciller = [[Marc Silvestri]] | Inker = [[Dan Green]] | Story = Crash and Burn  | Title = Uncanny X-Men | Issue = 255 | Date = December 1989| Publisher = [[Marvel Comics]] | }}</ref> After the Muir island massacre, Bonebreaker and the other Reavers continued to attack various heroes and mutants such as Wolverine, [[Emma Frost]]'s factories, Rogue, and the [[Punisher]]. When Pierce was creating [[Albert (comics)|Albert]] and [[Elsie-Dee]] as a trap for Wolverine, Bonebreaker accidentally gave Elsie-Dee the maximum artificial intelligence instead of that of a 5 year old. As a result Elsie-Dee and Albert decided that Wolverine was a noble person and foiled Pierce's plans.
+
+As part of the Upstarts' competition, [[Trevor Fitzroy]] sent his Sentinel to attack Pierce and the Reavers. The Sentinels arrived in Australia and quickly dispatched the Reavers.<ref name="Uncanny281">{{Comic book reference | Writer = [[Jim Lee]], [[John Byrne]], and [[While Portacio]] | Penciller = [[While Portacio]] | Inker = [[Art Thibert]] | Story = Fresh Upstart| Title = Uncanny X-Men | Issue = 281 | Date = October 1991| Publisher = [[Marvel Comics]] | }}</ref>
+
+Bonebreaker was among the other Reavers reassembled by Pierce and the [[Shadow King]], who attacked the X-treme X-Men. After being defeated again, the Reavers were handed over to the police.<ref name="X-Treme X-Men Annual 2001">{{Comic book reference | Writer = [[Chris Claremont]] | Penciller = [[Salvador Larroca]] | Inker = [[Sandu Horca]] | Story = Queen of Shadows | Title = X-Treme X-Men Annual 2001 | Issue = 1 | Date = February 2002| Publisher = [[Marvel Comics]] | }}</ref>
+
+== Powers and abilities ==
+Like the other members of the Reavers, Bonebreaker  is a cyborg and has bionic implants that augment strength, stamina, and reflexes beyond the levels of a normal human. 
+
+Bonebreaker's legs have been replaced with a motorized chassis that drives on tank treads. It is outfitted with anti-aircraft weapons, missile launchers, and machine guns. Bonebreaker's upper torso can be removed from the chassis. 
+
+== Other media ==
+===Television===
+* Bonebreaker and several other Reavers make an appearance in the 27th episode of the 1990s [[X-Men (TV series)|X-Men]] TV series.    
+===Video Games===
+* Bonebreaker appears as an enemy character in the 1992 [[X-Men (arcade game)|''X-Men'' arcade game]] by Konami. 
+* Bonebreaker appears as a boss in the [[The Punisher (arcade game)|''The Punisher'' arcade game]] by Capcom.
+
+== References ==
+<references />
+
+{{DEFAULTSORT:Bonebreaker}}
+[[Category:Characters created by Chris Claremont]]
+[[Category:Fictional cyborgs]]
+[[Category:Fictional aviators]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics supervillains]]

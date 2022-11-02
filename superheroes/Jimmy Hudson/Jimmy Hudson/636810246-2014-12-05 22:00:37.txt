@@ -1,0 +1,39 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Jimmy Hudson
+|real_name=James Howlett, Jr.
+|publisher=[[Marvel Comics]]
+|debut=''Ultimate Comics: X #1 (February 2010)
+|creators=[[Jeph Loeb]], [[Art Adams]]
+|alliances=[[Ultimate X-Men]]<br>[[Runaways (comics)|Ultimate X]]<br>[[Kitty Pryde]]'s Mutant Resistance
+|aliases=Wolverine, Jr., Wolverine II
+|powers=Healing factor, retractable claws, able to cover claws with [[organic metal]]
+|}}
+
+'''Jimmy Hudson''' is a [[fictional character]], a [[superhero]] in the [[Ultimate Marvel]] universe. He first appeared in the ''[[Ultimatum (Ultimate Marvel)|Ultimatum]]''s follow up ''[[Ultimate Comics: X]]'' by [[Cullen Bunn]] and art from [[David Messina]] and [[Art Adams]].<ref>{{cite web|last1=Ching|first1=Albert|title=Bunn Writes Two Generations of Ultimate Comics Wolverine|url=http://www.newsarama.com/10672-bunn-writes-two-generations-of-ultimate-comics-wolverine.html|website=Newsarama|accessdate=5 August 2014}}</ref> He is the son of [[Ultimate Wolverine]]. <ref>''Ultimate Comics: X'' #1</ref>
+
+==Fictional character biography==
+Jimmy Hudson is the son of Wolverine/James Howlett and Magda. Wolverine fought alongside [[Guardian (Marvel Comics)|James Hudson]] in the [[Iraq war]] and entrusted James with his newborn son. James later becomes a [[sheriff]] in [[Florida]] and with his wife [[Vindicator_(comics)|Heather]] raised Jimmy in [[Port St Lucie, Florida]].<ref>{{cite web|title=Jimmy Hudson (Character)|url=http://www.comicvine.com/jimmy-hudson/4005-69059/|website=Comic Vine|publisher=Gamespot|accessdate=5 August 2014}}</ref>
+
+==Powers and abilities==
+Like Wolverine, Jimmy possesses a regenerative healing factor, the signature three claws, and is able to coat them in an [[organic metal]].
+
+==References==
+{{Reflist}}
+
+{{Ultimate Marvel}}
+{{Ultimate X-Men}}
+[[Category:Marvel Comics characters with accelerated healing]]
+
+[[Category:Fictional characters from Florida]]
+[[Category:Characters created by Jeph Loeb]]
+[[Category:Ultimate Marvel| ]]
+[[Category:Wolverine (comics)| ]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics mutants]]
+[[Category:Characters created by Art Adams]]
+[[Category:Fictional beings from parallel universes]]
+[[Category:Comics characters introduced in 2010]]
+
+{{Marvel-char-stub}}

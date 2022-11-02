@@ -1,0 +1,38 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[image:goom.jpg|200px]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Goom
+|real_name=
+|publisher=[[Marvel Comics]]
+|debut=''Tales of Suspense'' vol. 1 #15
+|creators=
+|alliance_color=background:#cccccc
+|status=
+|alliances=[[S.H.I.E.L.D.]]<br>[[Nick Fury's Howling Commandos|Howling Commandos]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}}
+
+'''Goom''' is a fictional extraterrestrial character from the [[Marvel Universe]] who first appeared in ''Tales of Suspense'' vol. 1 #15.
+
+==History==
+'''Goom''' is an alien from Planet X who crashed to Earth.  He was captured by [[S.H.I.E.L.D.]] and placed in their [[Nick Fury's Howling Commandos|Howling Commandos]] Monster Force.  It is possibly that he also dated Shivoor.  He had advanced technology which was seen in ''Tales of Suspense'' vol. 1 #15 including a spaceship and a time machine, which had the ability to change the age of others.
+In ''Incredible Hulk Annual'' #5, [[Xemnu]] created a duplicate of Goom which was later destroyed by the Hulk.
+
+==Powers==
+'''Goom''' has mental powers and an immense head.
+
+==Bibliography==
+*''Marvel Monsters''
+*''Marvel Monsters: Monsters on the Prowl''
+*''Marvel Valentine Special'' #1
+*''Nick Fury's Howling Commandos'' #1-6
+*''Tales of Suspense'' vol. 1 #15
+
+{{Marvel-Comics-stub}}
+[[Category:S.H.I.E.L.D.]]
+[[Category:Marvel Comics supporting characters]]
+[[Category:Fictional extraterrestrials]]

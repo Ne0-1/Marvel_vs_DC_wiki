@@ -1,0 +1,70 @@
+{{Cleanup-rewrite|date=April 2010}}
+{{Original research|date=May 2010}}
+{{Refimprove|date=April 2010}}
+{{for|the supervillain|Immortus}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+<!-- | character_name = Nathaniel Richards -->
+| image          = 
+| caption        = 
+| real_name      = 
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Fantastic Four (comic book)|Fantastic Four]]'' #272 (November 1984)
+| creators       = [[John Byrne]]
+| alliances      = [[S.H.I.E.L.D.]]
+| aliases        = [[Iron Lad]], [[Rama Tut]], [[Kang the Conqueror]], [[Immortus]], [[Scarlet Centurion]]
+| powers         = Scientific genius and inventor of many devices, such as a time platform, as well as advanced armor
+| |cat           =
+| subcat         = Marvel Comics
+| hero           = 
+| villain        =
+| sortkey        = Richards, Nathaniel
+}}
+'''Nathaniel Richards''' is a [[fictional character]] in the [[Marvel Comics]] [[Marvel Universe|universe]]. He is the father of Reed Richards, [[Mister Fantastic]] of the [[Fantastic Four]], and the grandfather of [[Franklin Richards]] and [[Valeria Richards]]. He first appeared in ''Fantastic Four'' #272 (November [[1984 in comics|1984]]).
+
+He has been married at least twice; the first marriage to Reed's mother Evelyn and the second to Cassandra. He is also implied to be the distant ancestor of [[Iron Lad]]/[[Rama Tut]]/[[Kang the Conqueror]]/[[Immortus]]. He has other children besides Reed. In an alternate timeline he visited and fathered an unnamed son with a woman named Cassandra (this has been implied to be the ancestor of Kang). He also claims to have fathered Tara Richards aka [[Huntara]] as well as [[Kristoff Vernard]].
+
+==Fictional character biography==
+He is a scientific [[genius]], and his son Reed's aptitude for science is inherited from him, though Reed has proven himself to exceed his father's ability.
+
+Nathaniel Richards is a [[time traveler]]. Though his son Reed is a [[superhero]], Nathaniel Richards is not; his agenda is usually clouded and often sinister, though not outright villainous. He clearly has many plans in motion, but exactly what those are is unknown.
+
+During one of [[Doctor Doom]]'s absences, Nathaniel actually impersonates him, convincing even Doom's technologically advanced servitor robots. {{Issue|date=April 2010}}
+
+After Doom vanishes during the [[Onslaught (comics)|Onslaught]] incident, Nathaniel teams up with [[Cable (comics)|Cable]] and his team, [[X-Force]]. Both men agree Doctor Doom's time platform should be made secure against those who would mis-use this. During the course of this endeavor, Nathaniel assists in helping [[Tabitha Smith|Meltdown]] out of Doom's Liddleville. It is a shrunken town, where many of Doom's enemies had been imprisoned.{{Issue|date=April 2010}}
+
+Unfortunately, a [[SHIELD]] squadron follows the X-Force group into Doom's castle. A firefight results in Nathaniel, his companions and the entire castle vanishing in a teleportation effect.  {{Issue|date=April 2010}}
+
+===Relatives===
+In the miniseries [[Avengers Forever]], Kang himself explains his own origins, claiming to be the future descendant of Nathaniel Richards. It has been strongly hinted at that he is the biological father of Doctor Doom's adopted son [[Kristoff Vernard]].{{Issue|date=April 2010}} Despite this speculation, current evidence states that Kang is not to be confused with Reed Richards' father, after whom he is named.{{Citation needed|date=April 2010}} In fact, he was born in an alternate timeline. The Earth there had been transformed into a paradise thanks to Mister Fantastic's father, the Nathaniel Richards after whom he was named.{{Issue|date=April 2010}}
+
+In one storyline, Nathaniel kidnapped his grandson [[Franklin Richards|Franklin]] and raised him in the future. This was 'neutralized' when the younger Franklin reappears due to the machinations of Nathan's great-grandson [[Hyperstorm]] (Jonathan Richards aka Hyperstorm is Franklin and Rachel Summers' son from yet another alternate timeline).{{Issue|date=April 2010}}
+
+During the "[[Civil War (comics)|Civil War]]" storyline Reed tells Spider-Man the story of Nathaniel's brother Ted Richards. Ted was a writer and made the mistake of being too colorful in the McCarthy era and was for some reason sentenced to prison for six months. Unable to find work after his release Ted fell on bad times and ultimately died.{{Issue|date=April 2010}}
+
+===Recent stories===
+In [[Jonathan Hickman]]'s first arc,{{Specify|date=April 2010}} Reed has several flashbacks to his father. They have a long conversation about what it means to be a father and a man, before he heads out on his time machine.{{Issue|date=April 2010}}
+
+It was also revealed that he was an agent of [[S.H.I.E.L.D.]] in the 50's alongside [[Howard Stark]].<ref>''S.H.I.E.L.D.'' #1</ref>
+
+==Other versions==
+===Ultimate Marvel===
+In [[Ultimate Marvel]], Reed's father is named Gary. Unlike Nathaniel, Gary is a cruel father with no knowledge in science who treated his own son dismissively because of how he never developed as an athlete. He praised the athletic [[Ben Grimm]] as the son he wanted, though unlike Gary, Ben was kind-hearted to Reed. When Reed was accepted into the [[Baxter Building]] think tank, his father only agreed because Reed's family would be paid to send him. After the team is exposed to the [[Negative Zone]] and gains superhuman powers, Reed is forced to remain estranged from his family due to government secrecy. Even after they make their existence known to the world following a battle with [[Annihilus]], he chooses to keep from making contact with them. When his younger sister Enid is infected with powers of her own, he finally reestablishes contact with his parents; his mother is overjoyed to see him again, while Gary blames him for causing Enid's condition.
+
+In the mini-series "[[Ultimate Requiem]]" Reed moves back in with his family.
+<!-- Uncomment when footnotes are added
+==Notes==
+{{Reflist}} -->
+
+==References==
+{{Reflist}}
+{{Refbegin}}
+*{{comicbookdb|type=character|id=3618|title=Nathaniel Richards}}
+{{Refend}}
+
+{{Fantastic Four}}
+{{S.H.I.E.L.D.}}
+
+{{DEFAULTSORT:Richards, Nathaniel}}
+[[Category:Comics characters introduced in 1984]]
+[[Category:Fictional scientists]]
+[[fr:Nathaniel Richards]]

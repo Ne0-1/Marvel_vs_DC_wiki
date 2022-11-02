@@ -1,0 +1,68 @@
+'''Machete''' is the name of three fictional characters in the [[Marvel Comics Universe]]. 
+
+== Machete I ==
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Machete I
+|real_name=Ferdinand Lopez
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Captain America]]'' #302 (Feb 1985)
+|creators=[[Mike Carlin]] and [[Paul Neary]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Batroc the Leaper|Batroc's Brigade]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+The first known Machete was '''Ferdinand Lopez''', a member of [[Batroc's Brigade]] and [[Doom's Brigade]].  He was also a former revolutionary of San Diablo in [[South America]]. He became a mercenary to finance a revolution but was reportedly killed by Zeitgeist (Ekler).  He first appeared in ''[[Captain America]]'' (1st series) #302.
+
+===Bibliography===
+*''Captain America'' vol. 1 #302-303, 357-362, 411-414, 442 (death)
+*''Solo Avengers'' #3
+*''Spider-Man and Captain America in Dr. Doom's Revenge''
+
+== Machete II ==
+The second '''Machete''' first appeared in ''[[Elektra (comics)|Elektra]]'' (1st series) #7.  He was inadvertently killed by [[Kali Vries]] while being brought in by [[S.T.A.R.S.]] in ''[[USAgent]]'' (2nd series) #1.
+===Bibliography===
+*''Elektra'' vol. 1 #7
+*''Hawkeye: Earth's Mightiest Marksman''
+*''Spider-Man: Gathering of the Sinister Six''
+*''USAgent'' vol. 2 #1 (dead)
+
+== Machete III ==
+
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Machete
+|real_name=unknown
+|publisher=[[Marvel Comics]]
+|debut=''[[Great Lakes Avengers]]'' #2
+|creators=
+|alliance_color=background:#cccccc
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}}
+
+The third '''Machete''' is the brother of the first Machete.
+
+During the ''[[Civil War (comics)|Civil War]]'' event, he was captured by [[Baron Zemo]]'s [[Thunderbolts]] and forced to join them or face jail time.
+
+=== Bibliography ===
+
+*''[[Great Lakes Avengers]]'' #2-4
+*''[[New Thunderbolts]]'' #8
+*''[[Thunderbolts]]'' #103
+
+{{Marvel-Comics-stub}}

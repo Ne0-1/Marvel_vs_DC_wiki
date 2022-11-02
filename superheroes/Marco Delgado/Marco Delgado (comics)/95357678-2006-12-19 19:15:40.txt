@@ -1,0 +1,37 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Delgado
+|real_name=Marco Delgado
+|species=[[mutant (fictional)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''X-Men'' (2nd series) #1
+|creators=[[Chris Claremont]]<br>[[Jim Lee]]
+|alliance_color=background:#ffc0c0
+|status=Deceased<br><small> (died in the assault on [[Asteroid M]])</small>
+|alliances=
+|previous_alliances=[[Acolytes (comics)|Acolytes]]
+|aliases=
+|relatives=
+|powers=control over the size, density, and strength of his body
+|}}
+'''Marco Delgado''' is a fictional [[mutant (fictional)|mutant]] villain character in the [[Marvel Comics]] Universe.
+
+==Fictional character biography==
+Delgado was a member of the [[Acolytes (comics)|Acolytes]] that attempted to join [[Magneto (comics)|Magneto]] aboard [[Asteroid M]]. Delgado was often were targeted by those Acolytes who were able to manipulate the abilities of their fellow brethren, such as the power-boosting [[Fabian Cortez]] and the molecule-altering [[Chrome (comics)|Chrome]].
+
+Delgado died in the destruction of Asteroid M, which was engineered by the treacherous Cortez who intended to gain points in the so-called Upstart Competition by disposing of Magneto and the [[X-Men]].
+
+Marco Delgado was a mutant with the power to grow in size, strength, and speed. The upper limits of the size that he could attain and the strength that he could wield were never ascertained. Delgado drew the extra mass that he gained upon using his power from a presumably extradimensional source.
+
+==Trivia==
+*Delgado is not the same character as the S.H.I.E.L.D. agent Harry Delgado
+
+==Alternate Versions==
+* In the [[Age of Apocalypse]], Delgado was a Prelate and part of [[Apocalypse (comics)|Apocalypse's]] Infinites. Unlike his 616 counterpart, this version of Delgado had been altered and his skin was covered in rock, possibly having being enhanced by the AoA version of Chrome.
+
+[[Category:Marvel Comics mutants]]
+[[Category:Hispanic supervillains]]
+[[Category:X-Men villains]]
+[[Category:Acolytes members]]

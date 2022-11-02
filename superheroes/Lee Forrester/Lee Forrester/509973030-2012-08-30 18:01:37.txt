@@ -1,0 +1,39 @@
+{{Supersupportingbox| <!--Wikipedia:WikiProject Comics-->
+image=<!-- Deleted image removed: [[Image:Leeforrester1.jpg]] -->
+|caption=Lee Forrester
+|comic_color=background:#ff8080
+|character_name=Lee Forrester
+|full_name=Aletys Forrester
+|publisher=[[Marvel Comics]]
+|debut=''[[Uncanny X-Men]]'' #143 (March 1981)
+|creators=[[Chris Claremont]]<br>[[John Byrne (comics)|John Byrne]]
+|alliance_color=background:#F8E24D
+|status=Inactive
+|supports=[[X-Men]]
+|aliases=
+|relatives= "Jock" Forrester (father, deceased)
+|}}
+
+'''Aleytys "Lee" Forrester''' is a comic book character created by [[Marvel comics]]. Her first appearance was in ''Uncanny X-Men'' #143.
+
+==Fictional character biography==
+Forrester is a resident of [[Florida]] and the captain of the fishing trawler, ''Arcadia''. When [[Cyclops (comics)|Cyclops]] of the [[X-Men]], a.k.a. [[Scott Summers]], took a leave of absence following the death of [[Phoenix (comics)|Phoenix]], he hired himself aboard the ''Arcadia''.<ref>''Uncanny X-Men'' #143</ref> Lee was later targeted by the supernatural being [[D'Spayre]] after Lee's father, Jock, committed suicide over the loss of his wife. D'Spayre was defeated by Cyclops and D'Spayre's principal enemy, the [[Man-Thing]].<ref>''Uncanny X-Men'' #144</ref>
+
+Scott and Lee eventually engaged in a brief romantic relationship. At that time, Lee also learned that Scott was the mutant superhero Cyclops when they were shipwrecked on an island inhabited by [[Magneto (comics)|Magneto]] in the [[Bermuda Triangle]].<ref>''Uncanny X-Men'' #146, 149-150</ref> Later, after Scott broke off their relationship (though they still remained close friends), she became involved with Magneto for a short time after she rescued him from a shark attack.<ref>''Uncanny X-Men'' #188, ''New Mutants'' v1 #21-24</ref> After this, she became interested in [[Cable (comics)|Cable]],<ref>''Cable'' Vol.1 #12</ref> but she did not pursue it after she learned that he was the son of her former boyfriend, Cyclops, from the future.{{issue|date=May 2012}}
+
+Lee returns years later as the skipper of an expedition force which, after sailing through a dimensional warp within the [[Bermuda Triangle]], was stranded in an alternate Earth, the same one the adventurer [[Skull the Slayer|James Scully]] (who had been hired to join the expedition as a guide) had once travelled to. The expedition was financed by millionaire George Stanislaus, who wished to exploit the unspoilt world's resources. After three years, with the expedition having been decimated, the only three surviving members - Stanislaus, Forrester and Scully - sent forth a message buoy through the dimensional rift which brought them to this world. It was found by the [[Future Foundation]], with whom the [[X-Men]] teamed up and traveled to the alternate world to retrieve the stranded. However, this rescue mission created some tension between X-Men members [[Cyclops (comics)|Cyclops]] and [[Emma Frost]], the latter of whom being possessively jealous of her lover's former relationships.<ref>''X-Men'' #16 (2011)</ref>
+
+Just as the superheroes arrive in the new world, Stanislaus had separated from the group to pursue his own interests of power. In the meantime, Lee had come into contact and successfully negotiated with a local tribe, the Taddak, for their alliance against a host of the more hostile tribes under the leadership of the alien Emperor.<ref>''X-Men'' #17 (2011)</ref> In the struggle which followed, Lee and Skull managed to secure two artifacts which would maintain the delicate balance between the tribes of this Earth, and it is also revealed that in the time they spent here, the two had fallen in love with each other. As a result, Lee refused the X-Men and the Future Foundation's offer to return to her own native Earth, instead choosing to stay with Skull and safeguard the two artifacts for the rest of her life.<ref>''X-Men'' #19 (2011)</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvelwiki|Forrester,_Lee|Lee Forrester}}
+* {{comicbookdb|type=character|id=4884|title=Aleytys 'Lee' Forrester}}
+* [http://www.uncannyxmen.net/db/characters/showquestion.asp?fldAuto=1294 Uncanny X-Men.net Character Database]
+
+{{DEFAULTSORT:Forrester, Lee}}
+[[Category:Marvel Comics characters]]
+[[Category:Fictional captains]]
+[[Category:Characters created by Chris Claremont]]

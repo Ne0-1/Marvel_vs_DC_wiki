@@ -1,0 +1,70 @@
+'''Firepower''' is the name of two [[Marvel Comics]] supervillains.
+
+==Fictional character biography==
+===Firepower I===
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+|image=[[Image:Firepower.jpg|250px]]
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Firepower
+|real_name=Jack Taggert
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Iron Man]]'' #230 (May 1988) 
+|creators=[[David Michelinie]], [[Bob Layton]], and [[M. D. Bright|Mark Bright]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''Jack Taggert''' worked on an experimental pilotable suit for Project: Firepower for [[Edwin Cord]] (the rival of [[Tony Stark]]). The project was ostensibly designated by the U.S. Armed Forces, in conjunction with Senator Boynton, to serve as an ultimate deterrent against opponents of the United States. However, when [[Iron Man]] launched his "[[Armor Wars]]", attacking armored villains and even government agents without provocation, the Firepower program was modified with the specific goal of stopping Iron Man.
+
+While Taggert continued to train for the fight with Iron Man using a simulator rig, Boynton invited Tony Stark out to the first formal demonstration of the Firepower suit, believing that Iron Man would somehow find out from his "ex-employer", and hoping to lure the rogue Avenger into a trap. Stark chose to observe the tests from an SE helicopter, piloted by [[Jim Rhodes]], thus allowing Stark to slip away as Iron Man and attack Firepower without his absence being noticed by Boynton or the military.  The tests against tank and jet drones proved so devastating, however, that Rhodey suggested aborting; however, determined to destroy every last bit of Iron Man technology not under his control, Stark joined the fight.
+
+Iron Man found that the massive Firepower suit was able to withstand his attacks, and Firepower was even able to ambush Iron Man through a canyon wall. When Iron Man placed a Negator pack (the device he used to disable his armor technology) on Firepower, he was surprised to find out it didn't work - the government had studied the Negator pack that Iron Man had attempted to use on [[Stingray (comics)|Stingray]], and found a way to shield Firepower's circuits from the pack's effects. Badly damaged and wounded, Iron Man retreated to the helicopter, hoping to buy some time. However, Stark and Rhodey quickly realized that the military would consider them "acceptable losses" in stopping Iron Man, so just as Taggert was being ordered to target the chopper, Iron Man flew away. Taggert launched the "Terminax", a low-power nuclear missile, and completely destroyed the Iron Man armor, leaving its bloody bits to fall to the desert floor.<ref>''Iron Man'' #230</ref>
+
+Stark had faked Iron Man's death by sending out the "Silver Centurion" armor on autopilot, filled with the store of spare blood they had kept on board the chopper "just in case", so as to allow the world to believe that Iron Man was dead (Stark's injuries were blamed on the shockwave from the Terminax detination). Stark was content to leave Iron Man dead, but it was during this time that Edwin Cord took advantage. He blackmailed Boynton and the military into allowing him to keep Firepower, threatening to reveal to the press one of Firepower's "true" purposes - riot control. Cord then used Firepower to threaten the Marsten Manufacturing group to turn down a Stark bid, to attack SE division Accutech, and to personally attack and threaten Tony Stark and his workers.
+
+Finally having had enough of Firepower, Stark locked himself inside his private laboratory to build a brand new set of armor, incorporating several improvements and new weapons, as well as the "classic" red-and-gold color scheme. Even as the new armor was completed, Firepower was attacking another Stark Enterprises-owned facility, so Stark quickly faced off against Firepower as the "new" Iron Man.
+
+Taggert, convinced that he could dispatch this new Iron Man as quickly as he did the "first", was stunned to find the Firepower armor outclassed by his opponent. Iron Man was able to defeat or neutralize all of Firepower's main weapons.  In a desperate, last-ditch attempt to win, Taggert activated the Terminax to launch without a set target, hoping that Iron Man would be vaporized in the attempt to stop or redirect the missile.  However, the launcher backpack that housed the missile had been damaged by Iron Man's pulse bolts, trapping the Terminax and threatening everybody in the vicinity. Taggert pleaded with Iron Man to free him from the armor, but Iron Man told him that if the armor was magnetically sealed, there was nothing he could do to free him. Iron Man used an electromagentic pulse - a trick learned from [[Force (comics)|Force]] - to disable the Firepower armor (and his own) for six minutes.  This bought Iron Man enough time to find a way to shut down the nuke's timer once the armors' systems came back online. Upon reboot, the timer had nine seconds left; Iron Man successfully stopped it in eight.
+
+Taggert, now no longer fearing being blown up, told Iron Man that there would be others just like him that would be out to kill Iron Man just as he had, and destroy Stark Enterprises. With that, Iron Man ripped the Firepower armor apart. Stunned, Taggert stated that Iron Man had said he couldn't remove him from the armor. Coldly, Iron Man responded to him that he had lied.  Taggert and Cord were taken into custody, while Stark decided that the world still needed an Iron Man.<ref>''Iron Man'' #231</ref>
+
+===Firepower II===
+A second Firepower is a government official who was sent to bring down [[Atom-Smasher (Marvel Comics)|Atom-Smasher]], an eco-terrorist who sought to make illegal dumping grounds on a property owned by [[Iron Monger|Stane International]] (used for government projects) came to the attention of the media. A new Firepower was sent in by high ranking government officials that feared a scandal and ordered Atom Smasher eliminated. Sleeker than the original, this Firepower actually has less weapons but seems to pack a harder punch with the weapons still on board. Firepower engaged Atom Smasher and was holding his own. Then, [[War Machine]] decided to end the fight with an EMP blast that rendered both inoperable until their systems Rebooted.  Since Firepower's auto reboots after 14 minutes while War Machine's rebooted in 6 minutes, Rhodes carried the suit out to the army detail outside of the Stane Facility and ordered them off the property.{{Issue|date=July 2010}}
+
+==Powers and abilities==
+Firepower’s armour provides him with a high degree of protection from energy and physical attacks. His strength, reflexes and endurance have all been enhanced by his armour and he can fly at sub-sonic speeds. The suit is also air conditioned to prevent discomfort for the operator. The Firepower armour contains a vast array of sensors and an impressive array of weapons including: surface-to-air missiles, heat beam lasers, mini-grenades and arm-mounted concussive cannons. The armour contains a small tactical nuclear missile known as ‘Terminax’.  Described as a "two-ton tuxedo" by Jack Taggart, the suit was extremely large and its wearer had to be lifted into it with a special crane.
+
+==Other versions==
+===Ultimate Firepower===
+In ''[[Ultimate Comics: Armor Wars]]'', the [[Ultimate Universe]] version of ''Armor Wars'', Firepower is the codename for a [[London Metropolitan Police]] [[riot squad]] in power armor based on [[Ultimate Iron Man (character)|Ultimate Iron Man]]'s stolen technology. Iron Man intervenes when the Firepower armor is used against peaceful protesters, and with [[Crimson Cowl (Justine Hammer)|Justine Hammer]]'s help provides the British Government with proof that the designs the Government purchased were stolen, leading to them being recalled. Interestingly, the Firepower armor has a striking resemblince to the [[Halo (series)|Halo]] armor.
+
+==In other media==
+===Television===
+* In the two-part animated "Armor Wars" adaption of ''[[Iron Man (TV series)|Iron Man]]'', Firepower (voiced by [[Efrem Zimbalist, Jr.]]) was an automaton built by [[Justin Hammer]] to take down Iron Man. Because it was Hammer Industry Property, Iron Man's Negator Pack doesn't work on it. Iron Man faked his death, but returned in a new armor when it started to attack properties of Stark Industry. After preventing it's missile from going off, Iron Man used his suit to hack into the remains of Firepower to learn that Justin Hammer was behind the armored villains using his Stark Armor designs.
+
+===Film===
+*  In ''[[Iron Man 2]]'', Justin Hammer hires [[Whiplash_(comics)#Film|Ivan Vanko]] to build suits similar to the Iron Man armor. Vanko's end result wasn't a suit, much to Hammer's dismay, but a robotic drone, with Vanko claiming in his trademark broken English "Drone better". Later, Vanko's rebuilt drones (dubbed "'''Hammer Drones'''") share a lot of similarities to the Firepower 1 droid and were used in the penultimate fight against both Iron Man and War Machine.
+
+===Video games===
+* Firepower appears in the PSP, Wii, and mobile versions of the ''[[Iron Man 2 (video game)|Iron Man 2]]'' video game voiced by [[Cedric Yarbrough]]. He appears to be working with [[Advanced Idea Mechanics]], joins the attack on [[Budapest]] and wears a big blue suit with more strength and weapons than the player (hence the name). He fights War Machine outside a hotel. War Machine already identifies Firepower to be a mercenary.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.marvel.com/universe/Firepower_%28Jack_Taggert%29 Firepower I] at Marvel.com
+
+{{Iron Man}}
+
+[[Category:Comics characters introduced in 1988]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Characters created by David Michelinie]]
+
+[[tl:Firepower (komiks)]]

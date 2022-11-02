@@ -1,0 +1,56 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = [[Image:Daredevil_8.jpg|240px]]
+| caption = Stilt-Man's first appearance, 1965. Art by [[Wally Wood]].
+| comic_color = background:#ff8080
+| character_name = Stilt-Man I
+| real_name = Wilbur Day
+| publisher = [[Marvel Comics]]
+| debut = [[Daredevil (comics)|Daredevil]] #8 (June, [[1965]])
+| creators = [[Stan Lee]] (writer), [[Wally Wood]] (artist)
+| alliance_color = background:#c0c0ff
+| status = Active (I), Deceased (II)
+| alliances = 
+| previous_alliances = [[Emissaries of Evil]] (I)
+| aliases = 
+| relatives = 
+| powers =None:<br>
+* Gifted inventor<br>
+* Armored suit with telescoping legs<br>
+* Silicon coating resists adhesives<br>
+* Superhuman strength
+}}
+
+'''Stilt-Man''' is the name of a [[fictional character]], a [[supervillain]] in the {{Marvel Universe}}. Stilt-Man first appeared in ''[[Daredevil (Marvel Comics)|Daredevil]]'' vol. 1 #8 and was one of the earliest enemies of Daredevil. 
+==Fictional character history==
+
+===Stilt-Man===
+'''Wilbur Day''' had engineered himself a pair of extremely long, [[telescopic]] metal legs, which allowed him to tower high over the ground.
+
+The character did not age well, as his powers were more a curiosity than a real threat. As of 2006, Stilt-Man is seen as a mere footnote and as an example of the arguably weird rogues' gallery Daredevil had in his early, pre-[[Frank Miller (comics)|Frank Miller]] days — indeed, during Miller's ''Daredevil'' run, Stilt-Man was portrayed as a miserable loser<ref>''Daredevil'' vol. 1 #186</ref>; he was cold-cocked and had the armor stolen by Turk, a small-time crook and an even greater loser than Day, who took on the Stilt-Man identity, contacted the [[Kingpin (comics)|Kingpin]] and offered to become his new assassin, only to be refused ("It does not matter what armor or weapons you may have acquired, Turk. You are an idiot. I do not employ idiots").
+
+Enraged by Turk's audacity, Day contacted Daredevil and informed him of a weakness in the armor. Thanks to Day's information, Daredevil easily disabled the auto-gyroscopes necessary for the armor to keep its balance and brought Turk down. Day later modified the armor to prevent Daredevil for using this newfound knowledge against him. Stilt-Man continued to make sporadic appearances in various Marvel comics, wherein he has continued his criminal career and fought several superheroes, but without much success. 
+
+During [[Brian Michael Bendis]]' acclaimed run on ''Daredevil'', Daredevil's secret identity of Matt Murdock was exposed by a local newspaper, with Murdock denying the allegations. On hearing of this news, Wilbur visited the law offices of Nelson and Murdock, announcing he was sick of the whole ordeal and that he was retiring as Stilt-Man. He left his armor in a suitcase on Murdock's desk, and was forcibly removed when he began yelling his paranoid conclusion that Murdock was the real Kingpin. Murdock then jokingly asked his law partner, Foggy Nelson, if he'd like to be the next Stilt-Man, an offer he quickly declined.
+
+===Stilt-Man II===
+An as-yet-unnamed criminal has accquired the Stilt-Man armor, and after upgrading its telescoping abilities, was defeated in the pages of [[Marvel Team-Up]]. He was next seen being dispatched by [[Ms. Marvel]] in her new series. He was later released from prison by Tony Stark to be used as a Superhuman Enforcer in the ''[[Civil War (comics)|Civil War]]''. During a brief encounter with the [[Punisher]], Stilt man was paralyzed by a [[M72 LAW]] and then shot at point-blank range, killing him.
+
+==In other media==
+In spite of his lackluster status, (or, perhaps because of it) Stilt-Man appears in the ''[[Sinister (heroclix)|Sinister]]'' expansion to WizKid's [[HeroClix]] collectible miniature game, alongside his nemesis Daredevil.
+
+Stilt-Man also made a guest appereance on the ''[[Iron Man (TV series)|Iron Man]]'' animated series voiced by [[Dorian Harewood]]. His armor was based on Stark's [[Iron Man]] technology.
+
+==References==
+<div class="references-small">
+<references />
+</div>
+
+==External links==
+*[http://www.spiderfan.org/characters/stiltman.html ''Spider-Fan'''s Stilt-man bio]
+*[http://www.samruby.com/Villains/Stiltman/stiltman.htm Stilt-Man bio]
+*[http://marvel.com/universe/Stilt-Man Stilt-Man on the Marvel Universe Character Bio Wiki]
+
+{{Marvel-villain-stub}}
+
+[[Category:Daredevil villains]]
+[[Category:Spider-Man villains]]

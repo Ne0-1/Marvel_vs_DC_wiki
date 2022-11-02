@@ -1,0 +1,53 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Yondu Udonta.JPG|150px]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Yondu
+|real_name=Yondu Udonta
+|publisher=[[Marvel Comics]]
+|debut=''[[Marvel Super-Heroes (comics)|Marvel Super-Heroes]]'' (vol. 1) #18 (January 1969)
+|creators=[[Arnold Drake]]<br>[[Gene Colan]]
+|alliance_color=background:#ffc0c0
+|species=[[List of Marvel Comics alien races#C|Centaurian]]
+|alliances=[[Guardians of the Galaxy (original)|Guardians of the Galaxy]]<br/>[[Avengers (comics)|Avengers]] 
+|aliases=
+|powers=Empathetic relationship with all life forms
+|}}
+
+'''Yondu''' is a [[fictional]] [[superhero]] in the future of the [[Marvel Comics]] [[universe]], and a founding member of the [[Guardians of the Galaxy (original)|Guardians of the Galaxy]].
+
+==Fictional character biography==
+Yondu Udonta is a member of the Zatoan tribe, primitive beings native to [[Centauri IV]]. He functions as a hunter. His home was the first colony outside the solar system of Earth. Yondu is born in the early thirty-first century. Yondu's people had fled from contact with overwhelming earth colonizers.
+
+[[Vance Astro]], an astronaut from Earth, lands on the planet with an antiquated propulsion ship. Despite realizing his mission was pointless, he performs the recon anyway. Vance encounters Yondu during the latter's trial of manhood. 
+
+Yondu works with Vance when [[Badoon]], an alien race, overtakes the planet. Most of the Centaurians are slaughtered. Vance and Yondu escape in his ship to fetch help. However, the Badoon capture them easily. The duo are taken to Earth, which has also been conquered. They later escape the attentions of [[Drang]], the leader of the local Badoon forces. 
+
+They hook up with [[Charlie-27]] of the [[Jupiter]] colony and [[Martinex]] of the [[Pluto]] colony. They form the team called the [[Guardians of the Galaxy (original)|Guardians of the Galaxy]] in order to fight back against the Badoon.<ref>''Marvel Super-Heroes'' Vol. 1 #18</ref>  For the next few years, the four survivors attacked the Badoon's outposts in the solar system.  In 3014 A.D., the Guardians teamed with the time-traveling [[Thing (comics)|Thing]], [[Captain America]], and [[Sharon Carter]] to retake New York City from the Badoon forces.<ref>''Marvel Two-in-One'' #5</ref> The Guardians later time-traveled to the 20th Century, and met the [[Defenders (comics)|Defenders]]. They returned to 3015 A.D. with [[Starhawk (comics)|Starhawk]] and the Defenders. The Badoon are removed from their conquered planets.<ref>''Giant-Size Defenders'' #5; ''Defenders'' #26-29</ref>
+
+Yondu and the Guardians later teamed with the time-traveling [[Thor (Marvel Comics)|Thor]], and battled Korvac and his Minions of Menace.<ref>''Thor Annual'' #6</ref> Yondu traveled to the present alongside his fellow Guardians, and assisted the Avengers against [[Korvac]].<ref>''Avengers'' #167-168, 170, 173, 175-177</ref> Some time later, in 3017 A.D., Yondu and the Guardians went on a quest to find the lost [[Captain America's shield|shield of Captain America]]. They battled Taserface and the [[Stark (species)|Stark]], and defeated the Stark.<ref>''Guardians of the Galaxy'' #1-4</ref> Yondu's right hand was later destroyed by Interface, and resplaced by Martinex with a bionic appendage.<ref name="Guardians of the Galaxy #16">''Guardians of the Galaxy'' #16</ref> Yondu would later leave the team when it is discovered a small enclave of his people have survived on Centauri IV. It had been thought for some time that Yondu had been the lone survivor of his planet, but circumstances, such as radio-wave absorbing caverns, had allowed some of his species to survive. During their farewells, Vance apologizes for what he had thought was unacceptable treatment of Yondu during their earlier adventurers.<ref>''Guardians of the Galaxy'' #25</ref>
+
+==Powers and abilities==
+Yondu possesses no superhuman physical powers, but is a natural mystic, like his entire tribe.  As a member of the alien race of the planet Centauri IV, Yondu possesses an intuitive mystical "sixth sense" perception that permits him limited empathic relationships with other lifeforms.  The higher the lifeform, the more limited is his empathic potential. Additionally, Yondu possesses an intuitive and rather mystical rapport with nature, particularly with his own world, but also with any world that still possesses natural wildlife.  With this rapport, he can sense incongruous elements (foreign bodies or substances) or focus on specific elements within the whole (such as the location of a given plant).  He is also sensitive to mystical beings and forces and is able to detect their presence and activities without effort.  By going into a trance, Yondu is able to replenish his own inner strength by communing with natural forces.
+
+Yondu is an above average physical specimen of his race.  He has slightly more strength and endurance than the average human male.  An apprentice hunter, Yondu is an expert in the use of bow and arrow.  His ability to whistle with a range of four octaves aids his archery (see Weapons, below).  The native Centuarian language is a system of grunts, clicks, and whistles, but Yondu has managed to master the English language, although it is painful for him to speak for too long without resting his throat. He is an excellent hand-to-hand combatant, and a highly skilled hunter and tracker. He has extensive knowledge of the social and religious customs of the natives of Centauri IV.
+
+===Weapons===
+Yondu uses a {{convert|5|ft|m|adj=on}} single curve bow and a quiver of arrows composed of ''yaka'', a special sound-sensitive metal found only on Centauri IV.  A yaka arrow can actually change its direction (but not speed) in response to certain high-octave whistle-sounds some Centaurians can produce.  It is not yet known precisely what pitch causes a yaka arrow to move in what way.  Yondu is so skillful at controlling his arrows, he can cause an arrow to return to his hand or weave its way through a crowd of people without touching them.  Yondu's arrow are {{convert|15|in|mm}} in length and are very flexible.  He carries about 20 of them at one time.  He also carried a dagger.
+
+Yondu's right hand has been replaced by a bionic device called a weapons concealment appendage, a metal cup replacing his right hand.<ref name="Guardians of the Galaxy #16"/> Thus, he could no longer practice archery nor perform functions requiring him to grasp with his right hand. The device can release from within itself a number of weapons, including a mace, a hatchet, a scythe, a barbed spear, and others; when not in use the weapons are concealed within the appendage at a reduced sized, until enlarged by Pym particles.
+
+==References==
+{{reflist}}
+
+==External links==
+*http://marvel.com/universe/Yondu
+
+{{Earth 691}}
+
+[[Category:Extraterrestrial superheroes]]
+[[Category:Fictional archers]]
+[[Category:Fictional empaths]]
+[[Category:Fictional priests and priestesses]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics superheroes]]

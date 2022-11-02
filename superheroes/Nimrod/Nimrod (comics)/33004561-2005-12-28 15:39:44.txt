@@ -1,0 +1,55 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:nimrodxx.jpg]]
+|caption=Nimrod<br>Art by Alex Garner
+|comic_color=background:#ff8080
+|character_name=Nimrod
+|real_name=not applicable
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Men]]'' volume 1 #191. 
+|creators=[[Chris Claremont]] <br> [[John Romita, Jr.]]
+|alliance_color=background:#c0c0ff
+|status= merged with Mastermold
+|alliances=
+|previous_alliances=
+|aliases= 
+|relatives=
+|powers=Vast superhuman strength, durability, ability to project destructive energy blasts, ability to interface with and control computers, shape shifting, Regeneration, can teleport
+|}}
+
+'''Nimrod''' is a [[fictional character]], a [[robot]]ic [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]].  He was created by [[Chris Claremont]] and [[John Romita, Jr.]] in ''[[X-Men]]'' volume 1 #191.  The name is taken from the [[Nimrod (king)|Nimrod]] described in the [[Hebrew Bible]] and the [[Old Testament]] as "a mighty hunter before the Lord" ([[Genesis]] 10:8-9).
+
+==Character biography==
+[[Image:classic98.jpg|left|thumb|140px|Cover to ''Classic X-Men'' #98. Nimrod fights [[Juggernaut (comics)|Juggernaut]] and [[Rogue (comics)|Rogue]] . Art by Matthew Ryan.]]
+Nimrod is a [[mutant]]-hunting [[android]] [[Sentinels (comics)|Sentinel]] from an alternate [[future]] who was created by the Sentinels who ruled that timeline.  When [[Rachel Summers]] travelled back in time to the present, he followed her. In the process, he saved the life of construction worker, Jaime Rodriquez, who in gratitude  offered him a job and a home with his family, not realizing who or what the Sentinel truly was. After gathering information about our timeline, Nimrod eventually changed his prime directive from the extermination of all mutants, having determined that such widespread destruction was not necessary in this era. He instead decided to only exterminate mutants who were regarded as outlaws by the Government, such as the X-Men. In the present, he fought and single-handedly defeated the [[Juggernaut (comics)|Juggernaut]].  He hunted Summers and her new teammates, the X-Men, but was unsuccessful in destroying them. Sometime after this, Nimrod garnered a reputation with the public of New York as a heroic vigilante, assuming he was simply a man in powered armor and not a robot. He had also adopted a more human personality since he had established a cover alias as Nicholas Damiano. This was due to living with Rodriquez and his family for so long. One day, however when Nimrod came across a piece of the gigantic Sentinel, [[Master Mold]] while working on a construction site, his programming was immediately co-opted and the Master Mold used Nimrod's own system to rebuild its own body. The X-Men were hard pressed to defeat the robot at first, but Nimrod came to their aid, claiming he had evolved as well, and no longer viewed them or mutants as a threat. Nimrod asserted enough control over the Master Mold to render it immobile, and even convinced it that - having absorbed Nimrod, who now regarded himself as a mutant - it had become a mutant as well; thus, to fulfill its prime directive to exterminate mutants, it must self-destruct. The remains of both robots were pushed through the [[Siege Perilous (comics)|Siege Perilous]], a mystical gateway that caused all who passed through it to be reborn with new bodies.  Nimrod and Master Mold were merged into one being, [[Bastion (comics)|Bastion]]. 
+
+Bastion was a human-looking android that possessed great insight into the political process and initiated Operation: Zero Tolerance, a government-sponsored program to eliminate mutant terrorist groups (including the X-Men).  Bastion was eventually revealed when it was discovered he was turning humans into a new breed of Sentinels.  He was promptly dismantled.
+
+In ''[[X-Force]]'' #35, a modern-day version of Nimrod appeared.  This Nimrod was created by anti-mutant survivalist groups, and was based on the technology derived from the Nimrod from the future.  It deactivated itself when [[Cable (comics)|Cable]] convinced it that its existence could cause a [[paradox]] and damage the timestream.
+
+==Powers and abilities==
+Nimrod is the most highly advanced form of Sentinel robot possible for the technology of his native time period and reality to create. It is not known from what materials Nimrod was constructed, but his robotic form is highly resistant to damage even by [[superhuman]] beings. Nimrod can convert his outward appearance to resemble that of an ordinary human being. Nimrod can also reconstruct himself so as to make improvements in his robotic form and internal systems that will make him a more formidable opponent.
+
+Even when smashed to pieces, Nimrod can reintegrate the portions of his body to become whole again. Apparently Nimrod's [[Electronics|electronic]] [[consciousness]] can somehow exist independently of his physical body, at least temporarily. It has been speculated that Nimrod has complete control of his component parts down to the molecular level. If so, then Nimrod might have to be reduced to powder in order to be destroyed, and he might even be able to reconstitute his form from that state.
+
+It has also been speculated that Nimrod has the potential to evolve somehow into a "techno-organic" form of life, similar to the [[Magus]] or [[Warlock]], although presumably not having the Magus's extraordinary level of power.
+
+Nimrod contains highly advanced [[computer]] [[systems]] as well as scanning devices that make it possible for him to determine whether a human being is a superhuman or not, and if he or she is, to determined the nature of his or her superhuman abilities. Like present-day Sentinels, Nimrod can draw upon devices and systems within his [[robotic]] body in order to cope with or neutralize an opponent's superhuman power once he has determined the nature of that power. If there is no pre-existing means within Nimrod of fighting against his opponents superhuman power, it is possible that, if he has sufficient knowledge, Nimrod can devise such a means within himself before his next battle with this opponent.
+
+As yet not all of Nimrod's built-in weaponry has been observed. It is known, however, that Nimrod can project extraordinarily powerful concussive blasts of energy, as well as bolts of plasma and disintegrator beams. Nimrod can also project magnetic energy that enables him to levitate enormous quantities of [[iron]] and [[steel]]. Nimrod can create force fields about himself.
+
+Nimrod can [[teleport]] himself but the limitations on this ability are unknown.
+
+==Appearances in other media==
+
+[[Image:nimrod tv.jpg|thumb|200px|Nimord from the animated series.]]
+
+Nimrod has appeared in the ''[[X-Men (animated series)|X-Men]]'' [[animated series]] in the [[1990]]'s. In the animated continuity, it came from an amalgamated version of the Days of Future Past future and the XSE future, where [[Bishop (comics)|Bishop]] is its contemporary. Nimrod follows Bishop into the past to stop him from preventing the assassination that causes the future timeline.
+
+==Other Nimrods==
+An unrelated robot named Nimrod fought Marvel's original [[Captain Marvel (Marvel Comics)|Captain Marvel]] (Mar-Vell) in ''Captain Marvel'' #37.  This robot was created by the [[Kree]] [[Lunatic Legion]].  It was destroyed in combat with Captain Mar-Vell.
+
+==Behind the scenes==
+Originally, Nimrod was supposed to integrate portions of the [[Captain Britain]] villain [[Fury (Marvel Comics)|The Fury]], a [[superhero]]-killing [[robot]]. However, legal problems with [[Alan Moore]], the Fury's creator, interfered with Marvel's plans.
+
+[[Category:Marvel Comics robots]]
+[[Category:X-Men villains]]

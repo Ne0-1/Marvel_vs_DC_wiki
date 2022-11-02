@@ -1,0 +1,36 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=[[Image:BugOneShot1.jpg]]
+|caption=Cover to ''Bug'' #1<br>Art by [[Derec Aucoin]] and [[John Dell]]
+|comic_color=background:#ff8080 
+|character_name=Bug
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''Micronauts'' #1 (dated January 1979)
+|creators=
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Micronauts (comics)|Micronauts]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''Bug''' is a [[fictional character]] that has appeared in various [[comic book]] series published by [[Marvel Comics]]. The two series he has been most prominantly featured in are ''[[Micronauts (comics)|Micronauts]]'' and ''[[Annihilation: Conquest|Annihilation: Conquest - Star-Lord]]''.
+
+When he first appeared in ''Micronauts'' #1 (dated January 1979), Bug was known as '''Galactic Warrior''', taking this name from a figure from the [[Micronauts]] toy line the comic book series was based on. The toy based characters were all owned by [[Takara|Takara Co., Ltd.]], with any original characters owned by Marvel. Starting with the fourth issue Galactic Warrior's name was changed to Bug. This was done after Marvel realized that since the character's design looked nothing like the toy, they could assume ownership if they used a different name.<ref name="May">Cronin, Brian [http://goodcomics.comicbookresources.com/2008/05/01/comic-book-urban-legends-revealed-153/ Comic Book Urban Legends Revealed #153], [[Comic Book Resources]], May 1, 2008</ref>
+
+==Publication history==
+Bug appeared as a featured character throughout ''Micronauts'' original run, starting from the first issue until issue #59 (dated August 1984), the series' final issue. Months later Marvel restarted the series with ''Micronauts: The New Voyages'' #1 (dated October 1984) with Bug once again appearing as a featured character. This second series lasted until issue #20 (dated May 1986).<ref>{{comicbookdb|type=title|id=1348|title=''Micronauts: The New Voyages''}}</ref> <ref>{{gcdb series|id=2881|title=''Micronauts: The New Voyages''}}</ref>
+
+In the 1990s Marvel began plans to launch a new series starring the Miconauts, dispite the fact that they no longer held the publishing rights to the toy based characters. Assuming that [[Abrams Gentile Entertainment]] (the company that, at the time, owned the American rights to the Micronaut toy line) would agree to this new series, Marvel hired [[Shon C. Bury]] to write the series and [[Cary Nord]] to draw it.<ref name="June" /> <ref name="lost">[http://www.innerspaceonline.com/scb1.htm The Lost Micronauts: The Un-Told Story of the Micronauts Re-Launch...That Never Left the Launching Pad], Innerspace Online, February 2, 2007</ref> In preparation Bug and the other Micronauts that Marvel owned guest starred in ''[[Cable (comics)|Cable]]'' #39 (dated January 1997)<ref name="June">Cronin, Brian [http://goodcomics.comicbookresources.com/2008/06/19/comic-book-urban-legends-revealed-160/ Comic Book Urban Legends Revealed #160], [[Comic Book Resources]], June 19, 2008</ref> and Bug was featured in a solo [[One-shot (comics)|one-shot]] (dated March 1997).<ref>{{gcdb series|id=5787|title=''Bug''}}</ref> The negotiations with AGE eventually fell apart, the series was shelved and the three issues already produced were never published.<ref name="lost" />
+
+Bug would later appear with the other Marvel owned Miconauts (now named the Microns) in issues of ''[[Genis-Vell|Captain Marvel]]'' in 2000 and 2001. After this Bug would fail to make any appearances until 2007. At this point he appeared alone, without any of the other Microns, as a prisoner of the alien race the [[Kree]]. He was then was recruited into a hastily assembled covert team led by [[Star-Lord]]. His activities at this point were depicted in the [[limited series]], ''Annihilation: Conquest - Star-Lord'' and in the subsequent limited series ''Annihilation: Conquest''. He has since guest-starred in the new ''Guardians of the Galaxy'' series that spun out of ''Annihilation: Conquest''.
+
+==Footnotes==
+{{Reflist}}
+
+[[Category:Marvel Comics characters]]
+
+[[tl:Bug (komiks)]]

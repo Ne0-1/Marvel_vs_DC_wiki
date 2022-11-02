@@ -1,0 +1,49 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+|character_name = Sydren
+|image          = 
+|converted      = y
+|caption        = 
+|publisher      = [[Marvel Comics]]
+|debut          = ''[[Astonishing X-Men]]'' Vol. 3 #10 (2005)
+|creators       = [[Joss Whedon]] (writer)<br>[[John Cassaday]] (artist)
+|alter_ego      =
+|species        = Drenx
+|homeworld      = 
+|alliances      = [[S.W.O.R.D. (comics)|S.W.O.R.D.]]
+|aliases        = 
+|partners       = 
+|supports       = <!--optional-->
+|powers         = Enhanced Senses<br>Telepathy<br>Empathy<br>Precognition
+}}
+'''Sydren''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Sydren first appeared in ''[[Astonishing X-Men]]'' Vol. 3 #10 and was created by [[Joss Whedon]] and [[John Cassaday]].
+
+==Fictional character biography==
+Sydren is a Drenx who is a member of the [[S.H.I.E.L.D.]] offshoot [[S.W.O.R.D. (comics)|S.W.O.R.D.]] who has a habit of stating the obvious with his superior officer [[Abigail Brand]] making a snappy remark. He first appeared with Abigail Brand to help the X-Men fight [[Danger Room|Danger]].<ref>''Astonishing X-Men'' Vol. 3 #10</ref>
+
+During the ''[[Dark Reign (comics)|Dark Reign]]'' storyline, Sydren was present with Abigail Brand when [[Green Goblin|Norman Osborn]] appoints Henry Peter Gyrich as co-commander of S.W.O.R.D.<ref>''S.W.O.R.D.'' #1</ref> Sydren was among the aliens captured by Henry Peter Gyrich in order to have the aliens deported from Earth.<ref>''S.W.O.R.D.'' #2</ref>
+
+When refugees from Breakworld arrive on Earth, Sydren was with Abigail Brand when she, [[Cyclops (comics)|Cyclops]], and [[Emma Frost]] talk with Warlord Kruun and Haleena. Kruun tells them that Breakworld has fallen into anarchy and that the inhabitants of Breakworld need a place to stay.<ref>''Uncanny X-Men'' #536</ref>
+
+Sydren was with Abigail Brand when she sends a transmission to the X-Men informing them of Unit's escape from the Peak's prison.<ref>''Uncanny X-Men'' Vol. 2 #10</ref>
+
+==Powers and Abilities==
+Sydren possesses enhanced senses, telepathy, empathy, and precognition.
+
+==In other media==
+===Television===
+* Sydren appears in ''[[The Avengers: Earth's Mightiest Heroes]]'' episode "Welcome to the Kree Empire", voiced by [[Troy Baker]]. He is seen as a slave of the [[Kree]] Empire where Kalum Lo uses him to access the controls of [[Kang the Conqueror]]'s ship Damocles (which has been converted into [[S.W.O.R.D. (comics)|S.W.O.R.D.]]'s base) by typing in various codes until the one he enters is accepted. After Abigail Brand defeats the Kree on Damocles' bridge, Abigail frees Sydren in exchange that he sides with S.W.O.R.D. which he does. He helps Abigail Brand and the S.W.O.R.D. Agents compromise the Kree ship. In the episode "Secret Invasion", Sydren detects a bomb that the [[Skrull]] posing as [[Henry Peter Gyrich]] placed on Damocles and ordered everyone to evacuate. Following the Skrulls' defeat, Iron Man gave the data of his Skrull-detecting equipment to Sydren so that he can replicate it for S.H.I.E.L.D. and S.W.O.R.D. to use when it comes to hunting down the remaining Skrulls on Earth.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Sydren_%28Earth-616%29 Sydren] at Marvel Wikia
+* [http://www.comicvine.com/sydren/29-49601/ Sydren] at Comic Vine
+
+{{Marvel-char-stub}}
+[[Category:Characters created by Joss Whedon]]
+[[Category:Comics characters introduced in 2006]]
+[[Category:Marvel Comics aliens]]

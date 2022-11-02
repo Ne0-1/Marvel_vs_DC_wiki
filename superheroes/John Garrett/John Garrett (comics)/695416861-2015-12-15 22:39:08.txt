@@ -1,0 +1,43 @@
+{{Other uses|John Garrett (disambiguation){{!}}John Garrett}}
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|character_name=John Garrett
+|real_name=John Garrett 
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''Elektra: Assassin'' #2 (September 1986)
+|creators=[[Frank Miller (comics)|Frank Miller]]<br>[[Bill Sienkiewicz]]
+|alliances=[[S.H.I.E.L.D.]]
+|aliases=
+|powers=
+}}
+'''John Garrett''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Fictional character biography==
+{{expand section|date=February 2015}}
+John Garrett was a cybernetically enhanced agent, known for his lack of discipline.<ref>''Elektra: Assassin'' #2 (September 1986)</ref> He later becomes the President of the United States of America by the unwanted help of [[Elektra (comics)|Elektra]], who put his mind into the body of the (fictional) President Ken Wind, in order to save the world.{{issue|date=February 2015}}
+
+==Powers and abilities==
+John Garrett was a trained S.H.I.E.L.D. agent.
+
+==In other media==
+===Television===
+* John Garrett appears in ''[[Agents of S.H.I.E.L.D.]]'' portrayed by [[Bill Paxton]]. He is a high-level S.H.I.E.L.D. agent/munitions expert who is a former cohort of [[Phil Coulson]] and works alongside Grant Ward and Melinda May.<ref name="Ep14Guests">{{cite web |url=http://tvline.com/2013/12/05/once-upon-a-time-season-3-spoilers-rumple-belle-charming/ |title=Matt's Inside Line: Scoop on ''Once'', ''New Girl'', ''H50'', ''Haven'', ''Arrow'', ''S.H.I.E.L.D'', ''Mentalist'', ''Reign'' & More |publisher=TVLine |first=Matt Webb |last=Mitovich |date=December 5, 2013 |accessdate=December 6, 2013}}</ref><ref name="Paxton">{{cite web |url=http://www.tvguide.com/News/Agents-Shield-Bill-Paxton-First-Look-1075530.aspx |title=Keck's Exclusives First Look: Marvel's Agents of S.H.I.E.L.D. Recruits Bill Paxton  |work=TV Guide |first=William |last=Keck |date=January 13, 2014 |accessdate=January 13, 2014}}</ref> Known as "'''the Clairvoyant'''", he is revealed to be a high-ranking member of [[Hydra (comics)|Hydra]] and the mastermind behind Project Centipede in the episode "Turn, Turn, Turn".<ref name="WardGarrettHYDRA">{{cite web|url=http://marvel.com/news/tv/2014/4/8/22302/exclusive_brett_dalton_on_agent_wards_new_role_in_marvels_agents_of_shield.|title=Exclusive: Brett Dalton on Agent Ward's New Role in Marvel's Agents of S.H.I.E.L.D.|last=Strom|first=Marc|publisher=Marvel|date=April 8, 2014|accessdate=April 10, 2014|archiveurl=http://www.webcitation.org/6OkHmjPI5|archivedate=April 10, 2014|deadurl=no}}</ref> He is also the first test subject of the [[Deathlok]] program. Garrett is killed by Coulson in the episode "Beginning of the End" when Coulson used an 0-8-4 weapon on him.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/Jonathan_Garrett_%28Earth-616%29 John Garrett] at Marvel Wiki
+* [http://www.comicvine.com/john-garrett/4005-25685/ John Garrett] at Comic Vine
+* {{Marvunapp|http://www.marvunapp.com/Appendix/garrettjohnelektra.htm|John Garrett}}
+
+{{DEFAULTSORT:Garrett, John}}
+[[Category:Characters created by Bill Sienkiewicz]]
+[[Category:Characters created by Frank Miller]]
+[[Category:Comics characters introduced in 1986]]
+[[Category:Fictional Presidents of the United States]]
+[[Category:S.H.I.E.L.D. agents]]
+
+{{Marvel-char-stub}}

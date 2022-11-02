@@ -1,0 +1,46 @@
+{{Superherobox|
+image=[[Image:BirdsOfPreyCv87.PNG|225px]]
+|caption=Cover to ''Birds of Prey'' #87. Art by [[Adriana Melo]].
+|character_name=The Calculator
+|publisher=[[DC Comics]]
+|debut=''[[Detective Comics]]'' #463 (September 1976)
+|creators=[[Bob Rozakis]] (writer)<br />[[Mike Grell]] (artist)
+|alter_ego =
+|full_name=Noah Kuttler
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances = <!-- optional -->
+|partners = <!-- optional -->
+|alliances= [[Secret Society of Super Villains]]
+|aliases=
+|powers=Genius intelligence, Skilled manipulator and strategist
+|}}
+
+'''The Calculator''' is a [[fictional]] [[supervillain]] published by [[DC Comics]]. He first appeared in ''[[Detective Comics]]'' #463 (September 1976), and he was created by [[Bob Rozakis]] and [[Mike Grell]].
+
+==Publication history==
+As is commonplace in comics, the character was based on a topical event or trend; in this case, Noah Kuttler took his powers and costume design from the recently-popular pocket [[calculator]]. His costume had a large numerical [[Numeric keypad|keypad]] on the front and a [[flashlight]]-like device on the headpiece. When he typed upon the keypad, he could make "hard light" constructs appear from the headpiece, fashioning tools and weapons in the style of [[Green Lantern]]'s [[Power ring (weapon)|power ring]].
+
+==Fictional character biography==
+He was featured in a series of one-shot adventures in Detective Comics, fighting many of the Justice League members. As he was defeated by hero after hero, he would press a special button on his keypad that would (as it was revealed to the reader in a thought balloon) "turn defeat into victory". After months of appearances, the Calculator's scheme was revealed. The button somehow analyzed the powers or tactics of the hero defeating him, and effectively inoculated him from ever being defeated by that hero ever again. This immunity would manifest itself as a force field, rendering a hero unable to touch or otherwise affect The Calculator. This of course meant he could only be defeated by a new hero; luckily, there are an almost endless supply of new heroes in the DC Universe, so he was always able to be defeated.
+
+The Calculator made intermittent appearances in DC titles over the years, such as ''[[Blue Beetle]]''. In the [[2004]] [[miniseries]] ''[[Identity Crisis (comics)|Identity Crisis]]'', he was revamped as a villainous analogue to [[Barbara Gordon|Oracle]]; a source of information for supervillains planning heists, offering suggestions of weaponry, assisting with logistics, etc. — but charging $1,000 per question, unlike Oracle, who works [[pro bono]]. He became a major player in the ''[[Infinite Crisis]]'' cross-over ''[[Villains United]]'' as a core member of [[Lex Luthor|Lex Luthor's]] [[Secret Society of Super Villains|The Society]].
+
+Noah suffers from severe [[Obsessive-compulsive disorder]], unbeknownst to his peers (even though this was hinted at when he was in charge of monitoring [[Supergirl]]), and initially controlled this with medication. However, in ''[[Birds of Prey (comic book)|Birds of Prey]]'', he became obsessed with finding out the identity of Oracle, and this led him toward a mental breakdown. He stopped taking his medication and suffered from nightmares about the green mask that Oracle uses as a symbol. In ''Birds of Prey'' issue #111, Noah finally meets the woman behind Oracle face-to-face at a computer-industry conference, but is depicted looking far younger than his previous illustrations in DC titles and his history would indicate. Both are using aliases, and Noah is prevented from learning Oracle's true identity only at the last possible moment through an ingenious stratagem devised by the Birds.
+
+[[One Year Later|A year]] after the Crisis, Noah leads [[Secret Society of Super Villains|The Society]], taking over from the deceased [[Alexander Luthor, Jr.]] The Society has become a union for super-villains, with all major heists being done through the Society itself.
+
+==External links==
+* [http://www.dcuguide.com/who.php?name=calculator DCU Guide: The Calculator]
+* [http://www.silverbulletcomicbooks.com/bobro/98377920089440.htm History of the Calculator, from Bob Rozakis' column]
+* [http://www.silverbulletcomicbooks.com/bobro/98438400093459,print.htm Part 2, History of the Calculator]
+* [http://www.silverbulletcomicbooks.com/bobro/98496772926836.htm Part 3, History of the Calculator]
+* [http://www.silverbulletcomicbooks.com/bobro/9855936007107.htm Part 4, History of the Calculator]
+
+[[Category:DC Comics supervillains]]
+[[Category:American comics characters]]
+[[Category:Fictional hackers]]
+[[Category:Fictional mathematicians]]
+
+[[fr:La Calculette]]
+[[tl:Calculator (komiks)]]

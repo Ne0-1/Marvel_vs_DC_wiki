@@ -1,0 +1,57 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Uxm296.jpg|250px]]
+|caption=Cover of ''[[Uncanny X-Men]]'' #296. Art by [[Brandon Peterson]].
+|comic_color=background:#ff8080
+|character_name=Stryfe
+|real_name=
+|species=[[Mutant (Marvel comics)|Human Mutant]], [[Clone (genetics)|clone]]
+|publisher=[[Marvel Comics]]
+|debut=''[[The New Mutants]]'' #87 ([[1990#March|March 1990]])
+|creators=[[Louise Simonson]] (writer)<br>[[Rob Liefeld]] (artist/co-writer)
+|alliance_color=background:#c0c0ff
+|alliances=<br>[[New Canaanites]]<br>[[Mutant Liberation Front]]<br>[[Dark Riders (comics)|Dark Riders]]
+|aliases=Chaos Bringer,<br>Scion of the Dark Lord
+|powers=[[Telekinesis]]<br>[[Telepathy]]<br>Superhuman strength and durability
+|}}
+
+'''Stryfe''' is a [[supervillain]] that appears in the fictional [[Marvel universe]]. The character was created by [[Louise Simonson]] and [[Rob Liefeld]], and first appears in ''[[The New Mutants]]'' #87 ([[1990#March|March 1990]]). Stryfe is the main [[antagonist]] in the 1990s [[fictional crossover|crossover]], ''[[X-Cutioner's Song]]''.
+
+==Fictional character biography==
+Stryfe is the clone of Nathan Christopher Summers, also known as [[Cable (comics)|Cable]], the son of [[Cyclops (comics)|Cyclops]] and [[Jean Grey]]'s clone [[Madelyne Pryor]]; when the immortal mutant [[Apocalypse (comics)|Apocalypse]] infects the infant Nathan with a [[techno-organic virus]], a woman from the distant future introducing herself as [[Askani]] appears to Cyclops and Jean Grey, telling them that she can save the child. Once the infant Nathan arrives in the future, Askani clones the baby, hoping to salvage something if he dies. The clone's growth was greatly accelerated until he was the same age as Nathan himself. The Askani succeeded in halting the spread of the techno-organic virus in Nathan's body, thereby saving his life. However, Apocalypse and his forces attacks the Askani's hiding place and steals the cloned infant. Apocalypse takes the child as his own, raising him himself and naming him Stryfe, intending to use him as his next host body. As Apocalypse is about to transfer his essence into Stryfe, he discovers that Stryfe is in fact a clone, thus unfit to house his essence. A teenage Cable and the time-traveling Cyclops and Jean confronts Apocalypse, leaving him unable to transfer into any host body, thus causing his essence to discorporate. Apocalypse's second in command, Ch’vayre, raises Stryfe afterwards.
+
+Stryfe grows up to be an insane madman, wanting vengeance on both what he thought were his real parents (Cyclops and Jean) and his spiritual parent, Apocalypse. He raises an army and became a fierce opponent of both Cable's Clan Chosen and the [[New Canaanites]], a despotic regime that replaced Apocalypse’s. During these wars he kills Cable's wife, Jenskot, as well as kidnapping and brainwashing their son, [[Genesis (comics)|Tyler]].
+
+In [[AD]] [[4th millennium|3806]], the New Canaanites takes full control of the planet, but Stryfe manages to travel back in time two thousand years. He sows chaos in the ranks of the X-Men, posing as Cable and attacking [[Professor X]], as well as forming a [[Mutant (Marvel comics)|mutant]] [[terrorism|terrorist]] group, the [[Mutant Liberation Front]] alongside many powerful mutants including [[Dragoness (comics)|Tamara Kurtz]]. During this time, he fights Apocalypse and nearly destroys him. As a final insurance, Stryfe gives [[Mister Sinister]] a canister that he claims holds genetic material from two thousand years worth of Summers descendants; in truth, it held the deadly [[Legacy Virus]]. Stryfe battles Cable until the latter opens a temporal rift, destroying his body. Stryfe's consciousness. however, enters Cable's mind, in which he stays until he voluntarily leaves.
+
+While physically dead, Stryfe attempts to return to life through the body of [[Warpath (comics)|Warpath]]. After a brief return to villainy, Stryfe seemingly dies once more, battling an extraterrestrial creature alongside [[Bishop (comics)|Bishop]] and [[Gambit (comics)|Gambit]]. <ref>''[[Gambit & Bishop: Sons of the Atom]]'' (2001)</ref> In the end, Stryfe regrets the path and choices he has made in his life, and sacrifices himself to save the Earth from La Bete Noir, an entity trapped within the Earth at the beginnings of the universe by the [[Phoenix Force (comics)|Phoenix Force]].
+
+==Powers and abilities==
+Stryfe was a clone of the mutant Cable and, as a result, possessed all of Cable's natural mutant abilities. He also possessed other abilities through genetic manipulation similar to those that Cable achieved through cybernetic augmentation, including superhuman strength and durability.
+
+==Other versions==
+===Ultimate Stryfe===
+In ''[[Ultimate X-Men]]'', Stryfe is also the leader of the Mutant Liberation Front. He appears to be a mutant supremacist convinced that Xavier was killed by the United States government and that mutants should fight against it. His mutant power manifests as the ability to cause "strife" within people's minds, causing them to voice whatever is bothering them. However when Psylocke scans his mind she senses that he has no real conviction in what he says, suggesting that much of his mutant supremacist attitude is an act, meaning his real motives are unknown. At his side is the ultimate version of [[Zero (comics)|Zero]], a young mutant teleporter. It is revealed that Stryfe is actually a con man, working with Fenris to promote mutant unrest so they can sell Sentinels to the government.
+
+Also in Ultimate X-Men, when Cable returns from the future with Xavier they both don armor; Xavier's resembling [[Onslaught (comics)|Onslaught]] and Cable's resembling Stryfe.
+
+==In other media==
+===Television===
+* Stryfe appears briefly in ''[[X-Men: The Animated Series]]'' as one of the [[psychics]] captured by Apocalypse in the ''[[Beyond Good and Evil]]'' four-parter.
+
+===Video games===
+* Stryfe appears as a boss in ''[[X-Men Legends II: Rise of Apocalypse]]'' voiced by [[Daniel Riordan (actor)|Dan Riordan]]. 
+* Stryfe is the final boss in the [[Sega Game Gear]] game ''[[X-Men 2: Game Master's Legacy]]''.
+
+{{X-Men}}
+
+==References==
+{{Reflist}}
+
+[[Category:Fictional clones]]
+[[Category:Fictional mass murderers]]
+[[Category:Fictional terrorists]]
+[[Category:Marvel Comics telepaths]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]
+
+[[fr:Stryfe]]

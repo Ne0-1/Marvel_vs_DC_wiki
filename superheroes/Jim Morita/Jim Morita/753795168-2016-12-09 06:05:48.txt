@@ -1,0 +1,49 @@
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|character_name=Jim Morita
+|real_name=
+|publisher=[[Marvel Comics]]
+|debut=''[[Sgt. Fury and his Howling Commandos]]'' #38 (January 1967)
+|creators=[[Roy Thomas]] (writer)<br>[[Dick Ayers]] (artist)
+|species=[[Human]]
+|alliances=[[Sgt. Fury and his Howling Commandos|Howling Commandos]]
+|aliases=
+|powers=Trained soldier 
+}}
+
+'''Jim Morita''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Created by [[Roy Thomas]] and [[Dick Ayers]], Jim Morita first appeared in ''[[Sgt. Fury and his Howling Commandos]]'' #38 (January 1967).
+
+==Fictional character biography==
+Jim Morita is a Japanese-American [[soldier]] during [[World War II]]. Morita is a [[Nisei]] soldier whose squadron assisted [[Nick Fury|Sergeant Fury]]'s [[Sgt. Fury and his Howling Commandos|Howling Commandos]] on several missions. His squad was at one point captured and sent to a [[Nazi Party|Nazi]] Prison Camp, but were broken out by the Commandos.<ref>{{Cite comic |writer = [[Mike Friedrich]] |penciller = Dick Ayers |story = The Informer |title = Sgt. Fury and his Howling Commandos |issue = 57 |date = August 1968 |publisher = Marvel Comics}}</ref>
+
+==Powers and abilities==
+Jim Morita was a trained soldier.
+
+==In other media==
+===Film===
+*The character of Jim Morita was adapted for the film ''[[Captain America: The First Avenger]]'', played by actor [[Kenneth Choi]], as a member of the [[Howling Commandos]].<ref name="Choi">{{cite web |last=Coratelli |first=Carlo |date=May 7, 2011 |title=Intervista a Kenneth Choi – Jim Morita in "Captain America: The First Avenger" |url=http://www.comicus.it/blog/movie-comics/item/48872-intervista-a-kenneth-choi-jim-morita-in-captain-america-the-first-avenger |publisher=ComicUS.it |accessdate=May 29, 2011 |archivedate=July 5, 2011 |archiveurl=http://www.webcitation.org/5zx6irO7j |deadurl=no}}. Scroll down to English translation.</ref>
+===Television===
+*Choi reprises his role in the second season premiere of ''[[Agents of S.H.I.E.L.D.]]'' episode "[[Shadows (Agents of S.H.I.E.L.D.)|Shadows]]".<ref>{{cite web|url=http://www.tvguide.com/News/Agents-SHEILD-Haley-Atwell-1086753.aspx|title=First Look: Haley Atwell's Agent Carter on Marvel's Agents of S.H.I.E.L.D.|last=Logan|first=Michael|work=[[TV Guide]]|date=September 10, 2014|accessdate=September 10, 2014|archiveurl=http://www.webcitation.org/6SUTZs4Jd|archivedate=September 10, 2014|deadurl=no}}</ref> He is present with Peggy Carter when [[Kraken (character)|Daniel Whitehall]] is arrested.
+===Video games===
+*Jim Morita appears in ''[[Captain America: Super Soldier]]'', voiced by Kenneth Choi.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix3/moritajim.htm|Jim Morita}}
+
+{{Peggy Carter}}
+{{Marvel-char-stub}}
+{{DEFAULTSORT:Morita, Jim}}
+
+[[Category:Characters created by Dick Ayers]]
+[[Category:Characters created by Roy Thomas]]
+[[Category:Comics characters introduced in 1967]]
+[[Category:Fictional American people of Japanese descent]]
+[[Category:Fictional World War II veterans]]
+[[Category:Marvel Comics characters]]

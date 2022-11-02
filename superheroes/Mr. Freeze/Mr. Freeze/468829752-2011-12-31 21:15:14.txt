@@ -1,0 +1,254 @@
+{{merge from|Nora Fries|date=September 2011}}
+{{Superherobox
+|image= Freezebig.png
+|converted = yes
+|caption=Mr. Freeze and Batman <br>Art by Greg Land
+|comic_color=background:#8080ff
+|character_name=Mr. Freeze
+|real_name=Victor Fries
+|publisher=[[DC Comics]]
+|debut=as Mr. Zero: ''Batman'' #121<br>(February 1959); as Mr. Freeze: ''[[Detective Comics]]'' #373<br>(March 1968)
+|creators=[[Bob Kane]] (credited); [[David Wood (artist)|David Wood]] & [[Sheldon Moldoff]] (uncredited)
+|alliance_color=background:#c0c0ff
+|alliances=[[Injustice League]]<br/>[[Secret Society of Super Villains]]
+|aliases=Mister Zero, Doctor Zero, Doctor Schimmell
+|powers=*[[Genius]]-level intelligence
+*Expert in [[cryogenics]]
+*Wields a Freeze Gun and wears an exo-suit that keeps his body temperature below freezing and gives him [[superhuman]] strength.
+|}}
+
+'''Mr. Freeze''' (real name '''Dr. Victor Fries''') (surname pronounced "freeze", based on the German pronunciation) is a [[DC Comics]] [[supervillain]], an enemy of [[Batman]]. Created by [[Bob Kane]], he first appeared in ''[[Batman (comic book)|Batman]]'' #121 ([[1959#February|February 1959]]).<ref name="UGO - Freeze"/> 
+
+Freeze is a scientist who must wear a [[Cryogenics|cryogenic]] suit in order to survive, and bases his crimes around a "cold" or "ice" theme, complete with a "cold gun" that freezes its targets solid. In the most common variation of his [[origin story]], he is a former cryogenics expert who suffered an [[industrial accident]] while attempting to cure his [[Terminal illness|terminally ill]] wife, [[Nora Fries|Nora]].
+
+In the original ''[[Batman (TV series)|Batman]]'' television series, Mr. Freeze was played in various episodes by [[George Sanders]], [[Otto Preminger]] and [[Eli Wallach]]. He was voiced in ''[[Batman: The Animated Series]]'' by [[Michael Ansara]], and by [[Clancy Brown]] in ''[[The Batman (TV series)|The Batman]]''. In the 1997 film, ''[[Batman & Robin (film)|Batman & Robin]]'', he was portrayed by [[Arnold Schwarzenegger]].
+
+[[IGN]]'s list of the Top 100 Comic Book Villains of All Time List ranked Mr. Freeze as #67.<ref>{{cite web|url=http://comics.ign.com/top-100-villains/67.html |title=Mr. Freeze is Number 67 |publisher=Comics.ign.com |date= |accessdate=2010-12-25}}</ref>
+
+==Overview==
+Originally called '''Mr. Zero''',<ref name="UGO - Freeze">{{cite web|url=http://batman.ugo.com/roguesgallery/mrfreeze/|title=UGO's World pf Batman - Rogues Gallery: Mr. Freeze|accessdate=2008-05-10|publisher=[[UGO]]}}</ref> he was renamed and popularized by the [[Batman (TV series)|1960s ''Batman'' television series]], in which he was played by several actors.<ref name="Freeze 1"/><ref name="Freeze 2"/><ref name="Freeze 3"/> His character was used because the series creators had originally wanted to use the character of [[Two-Face]] (aka [[Harvey Dent]]), but network executives thought the character would be too scary for the numerous children who watched the show; as a result, an alternative villain with a physical deformity and a more serious personality, Mr. Freeze, was substituted. Initially, the producers sought [[Clint Eastwood]] to play the role, but instead later went with other guest stars.
+
+Over two decades later, a television adaptation of Batman revitalized him once again. ''[[Batman: The Animated Series]]'' retold Mr. Freeze’s origin in a landmark episode by writer [[Paul Dini]], introducing his terminally ill, [[cryogenics|cryogenically frozen]] [[Nora Fries|wife, Nora]], which greater explained his obsession with ice and need to build a criminal empire to raise research funds.<ref name="Heart of Ice"/> The episode was seen as groundbreaking for a Saturday morning cartoon and helped set the tone for the complex moral motivations seen constantly in the rest of the series. This backstory was also made [[canon (fiction)|canon]] in the comics and has been Fries' official origin in almost every incarnation of Batman since. This leads many fans to think of him as the most sympathetic villain and in some cases, merely as an [[antihero]] [[antagonist]].
+
+Elements of this [[back story]] were incorporated into the 1997 film ''[[Batman & Robin (film)|Batman & Robin]]'', in which he was portrayed by [[Arnold Schwarzenegger]].<ref>{{cite web|url=http://www.ew.com/ew/article/0,,291605,00.html|title=A Tights Squeeze|accessdate=2008-05-08|publisher=[[Entertainment Weekly|EW]]}}</ref>
+
+==Fictional character biography==
+From the time of his first appearance in 1958 onward, Mr. Freeze was portrayed as one of many "joke" villains (see also [[Killer Moth]], cast as stock enemies of Batman).<ref name="UGO - Freeze"/> Originally called Mr. Zero,<ref name="UGO - Freeze"/> the producers of the 1960s ''[[Batman (TV series)|Batman]]'' television series renamed him Mr. Freeze (and portrayed Batman addressing him as "'''Dr. Schivell'''"),<ref name="UGO - Freeze"/> and the name quickly carried over to the comic books. 
+
+Nearly 30 years later, Mr. Freeze would receive another update on television. In the ''Batman: The Animated Series'' episode "[[Heart of Ice (Batman episode)|Heart of Ice]]", he was made into a more complex, [[tragedy|tragic]] [[vigilante]] [[antihero]] character.<ref name="Heart of Ice"/> This version of Mr. Freeze was enthusiastically accepted by fans, and has become the standard portrayal for the character in most forms of media, including the comic book series itself, which previously had the character casually killed off by [[Joker (comics)|the Joker]]. Freeze was resurrected in the comic after the episode aired.<ref name="UGO - Freeze"/>
+
+===Silver Age===
+[[Image:Batman121 mr zero.jpg|175px|thumb|''Batman'' #121 (1959), the first appearance of the character as "Mr. Zero". Cover art by [[Curt Swan]]]]
+In the [[Crisis on Infinite Earths|Pre-''Crisis'']] [[Continuity (fiction)|continuity]] [[book series|series]], it is explained that Mr. Freeze is a rogue scientist whose design for an "ice gun" backfires when he inadvertently spills cryogenic chemicals on himself, resulting in his needing [[wiktionary:subzero|subzero]] temperatures to survive.<ref name="UGO - Freeze"/>
+
+===Modern Age===
+[[Crisis on Infinite Earths|Post-''Crisis'']], Freeze was revamped utilizing Paul Dini's backstory. Dr. Victor Fries is an expert molecular biologist. As a child, he is fascinated by freezing animals. His parents, horrified by his "hobby", send him to a strict [[boarding school]], where he is miserable, feeling detached from humanity. In college, he meets a woman named [[Nora Fries|Nora]], whom he falls in love with and ultimately marries.<ref name="UGO - Freeze"/>
+
+A year and a half after Bruce Wayne becomes the Batman, Nora has acquired a disease, while Fries works on a freeze ray. Fries' boss decides to tell the mob about the gun, leading Batman to create a team of specialists to help him do his job better. Fries decides to use the device on Nora, to put her in [[suspended animation|cryo-stasis]], but due to tampering from his boss, Nora is frozen and shattered and Fries becomes insane. Targeting those responsible for the death of his wife (who he talks to often), Fries becomes Mr. Freeze, Batman's first super villain (as opposed to the humans with no weapons he had been fighting). When Batman's operatives find Freeze, one is shot by his cold gun. Eventually, Batman catches Freeze and lets all of his operatives go, realizing he can only trust one person to help him out after his group's bickering amongst themselves and the fallout with Freeze,<ref>Batman: Legends of the Dark Knight #192-196: "Snow"</ref> and decides to go visit the [[Dick Grayson|circus]] as Bruce Wayne.
+
+Freeze's crimes tend to involve freezing everyone and everything he runs into<ref name="UGO - Freeze"/> so he hardly ever forges alliances with the other criminals in Gotham, preferring to work alone. On rare occasions he has worked with another member of Batman's rogues gallery, usually as an enforcer for Gotham's mob bosses, such as the [[Penguin (comics)|Penguin]] or [[Black Mask (comics)|Black Mask]]  . Freeze has at times shown a belief that Nora has reincarnated.<ref>Detective Comics #800—808, #811—814: City of Crime</ref> In one of his notable team-ups, Freeze constructed a cryogenic machine for [[Hush (comics)|Hush]] so that Hush might take revenge on an old enemy.
+
+During his time with the [[Secret Society of Super Villains|Society]], he fashions for [[Nyssa Raatko|Nyssa al Ghul]] a sub-zero machine in exchange for the use of her own [[Lazarus Pit]]. He attempts to restore Nora to life without waiting for the ''adjusting'' needed in the pool chemicals. However, she returns to life as the twisted Lazara, and escapes. She blames her husband for her plight, and estranges herself from him.
+
+==Powers and abilities==
+Like most Batman villains, Mr. Freeze plans his crimes about a specific [[Motif (visual arts)|theme]]; in his case, ice and cold.<ref name="UGO - Freeze"/> He freezes areas around him using special weapons and equipment, most notably a handheld "Freeze gun". His refrigeration suit grants him superhuman strength and durability, making him a powerful villain in Batman's [[rogues gallery]].<ref name="UGO - Freeze"/> 
+
+In the ''[[Underworld Unleashed]]'' storyline, the demon [[Neron]] grants Mr. Freeze the ability to generate subzero temperatures, no longer needing his freeze-gun or refrigeration suit.  However, after his encounter with [[Kyle Rayner|Green Lantern]], [[Donna Troy]], and [[Purgatory (comics)|Purgatory]] in Central Park, he reverted back to his original subzero biology. He then gained a new subzero armor and weaponry.<ref>{{Cite comic
+ | Writer = [[Mark Waid|Waid, Mark]], Peterson, Harry
+ | Artist = [[Howard Porter|Porter, Howard]] [[Phil Jimenez|Jimenez, Phil]] and others
+ | Story = 
+ | Title = Underworld Unleashed
+ | Volume = 
+ | Issue = 3
+ | Date = November 1995 - January 1996
+ | Publisher = [[DC Comics]]
+ | Page = 
+ | Panel = 
+ | ID = 1563894475 
+ }}</ref>
+
+===Animated abilities===
+According to ''Batman: The Animated Series'', Freeze understands how to reproduce his condition.<ref name="BTAS"/> Also his obsession with ice stems from personal tragedy, and his crimes are inspired by his desire to make the rest of the world as miserable as he is.<ref name="Cold Comfort"/> Furthermore, since the serum Freeze was soaked in was intended to be used for cryo-preservation, his age progression has slowed drastically to the point he is virtually immortal.<ref name="Heart of Ice"/>
+
+In ''The Batman'', Freeze has the ability of [[cryokinesis]] (i.e. to generate ice and cold with his mind, channeled via his hands).<ref name="TB - Big Chill">{{cite episode |title=The Big Chill |episodelink= |series=The Batman |serieslink= |credits=Seung Eun-Kim |network=The WB |station= |airdate=2004-11-06 |season=1 |number=5 |minutes= }}</ref>
+
+==Other versions==
+===Robot Mr. Freeze===
+This Mr. Freeze is a robot that is controlled by Doctor Thurman.<ref>''Blackhawk'' #117</ref>
+
+===Justice League Adventures===
+Based in the [[DC animated universe (comics)|DC animated universe]], Mr. Freeze is part of a group of ice-themed villains called the "[[List of Justice League enemies|Cold Warriors]]" that tried to overthrow a small African nation. The Cold Warriors appear in ''Justice League Adventures'' #12 (December 2002).
+
+===DC Super Friends===
+Based in the [[DC Super Friends]] universe, Mr. Freeze is part of a group of ice-themed villains called the "Ice Pack" that encased a city in ice and snow. The Ice Pack appear in ''DC Super Friends'' #16 (August 2009).
+
+===Flashpoint===
+In the alternate timeline of the ''[[Flashpoint (comics)|Flashpoint]]'', Mister Freeze attacks the [[S.T.A.R. Labs]] in [[Central City (DC Comics)|Central City]] for the cure of his wife [[Nora Fries]]. However, [[Captain Cold|Citizen Cold]] attacks and using his cold gun to freeze Mister Freeze's body. Mister Freeze tries to escape on robotic legs, but Citizen Cold freezes him to death and tells him that Nora is dead.<ref>''Flashpoint: Citizen Cold'' #1 (June 2011)</ref> Mister Freeze was a friend of Fallout and pursued revenge against Citizen Cold for murdering him.<ref>''Flashpoint: Citizen Cold'' #2 (July 2011)</ref> It is later revealed that the cure Mister Freeze was searching for was the radiation produced by Fallout.<ref>''Flashpoint: Citizen Cold'' #3 (August 2011)</ref>
+
+==In other media==
+===Television===
+* In the 1960s ''[[Batman (TV series)|Batman]]'' television series, Mr. Freeze was played by [[George Sanders]] in the first two-part appearance, [[Otto Preminger]] in the second two-part appearance, and [[Eli Wallach]] in the third two-part appearance.<ref name="Freeze 1">{{cite web|url=http://www.bat-mania.co.uk/main/villains/mr_freeze.php|title=Batmania UK: 1966 Batman: Villains: Mr. Freeze|accessdate=2008-05-09|publisher=Bat-Mania}}</ref><ref name="Freeze 2">{{cite web|url=http://www.bat-mania.co.uk/main/villains/mr_freeze2.php|title=Batmania UK: 1966 Batman: Villains: Mr. Freeze 2|accessdate=2008-05-09|publisher=Bat-Mania}}</ref><ref name="Freeze 3">{{cite web|url=http://www.bat-mania.co.uk/main/villains/mr_freeze3.php|title=Batmania UK: 1966 Batman: Villains: Mr. Freeze 3|accessdate=2008-05-09|publisher=Bat-Mania}}</ref><ref>[[:Wallach.Mr freeze tv series.jpg|thumb|[[Eli Wallach]] as Mr. Freeeze in the ''[[Batman (TV series)|Batman]]'' television series]].</ref> Sanders and Wallach put on German accents for the role, while Preminger used his own Austrian accent. While the George Sanders version wore the classic refrigerated suit, the Otto Preminger and Eli Wallach versions wore a "Freeze Collar" around their neck that went with Mr. Freeze's cooling suit. Before Mr. Freeze was on the show, he was always called Mr. Zero. The show's version of him continues to be campy like the comic books and is given an alias Dr. Schivel.<ref name="UGO - Freeze"/> In his first appearance "Instant Freeze", it is revealed that it was Batman who spilled the cryogenic chemicals on Dr. Schivel (portrayed by [[George Sanders]]) during an attempted arrest. Batman thus feels a certain amount of guilt for his condition. Mr. Freeze ends up stealing some famous diamonds from the Gotham City Diamond Exchange. When Batman and Robin try to stop him, he ends up freezing them with his freeze gun. In the next episode "Rats Like Cheese," Mr. Freeze kidnaps Paul Diamante of the Gotham City Eagles Team and offers to return him in exchange for Batman. Batman and Robin were able to apprehend Mr. Freeze. During this appearance, Mr. Freeze's hideout has "warm lights" so that his henchmen can interact with Mr. Freeze. In "Green Ice," Mr. Freeze (portrayed by [[Otto Preminger]]) escapes from prison and captures Miss Iceland from the finals of the Miss Galaxy Pageant. In the next episode "Deep Freeze," Mr. Freeze has led all of Gotham City to believe that Batman has given in to Mr. Freeze's bribes. Batman and Robin managed to find Mr. Freeze's hideout, rescue Miss Iceland, and defeat Mr. Freeze (who was placed in the same freezer that he placed Miss Iceland in after his Freeze Collar was knocked off). In "Ice Spy," Mr. Freeze (now portrayed by [[Eli Wallach]]) kidnaps Icelandic scientist Professor Isaacson in order to obtain an "Instant Ice" formula. In "The Duo Defy," Mr. Freeze finally obtains the "Instant Ice" formula and ends up building a large freeze ray. He is thwarted by Batman and Robin again. As Mr. Freeze and his henchmen are arrested by the police, he told the police officers that apprehended him not to touch the dials on his Freeze Collar.
+
+* Mr. Freeze appeared in ''[[The Batman/Superman Hour]]'' voiced by [[Ted Knight]].
+
+* Mr. Freeze appears in ''[[The New Adventures of Batman]]'' episode "The Deep Freeze" voiced by [[Lennie Weinrib]] in a Russian-like accent. The Filmation series has Mr. Freeze make extensive use of his self made technology such as making certain parts of his hideout "warm corridors" to accommodate underlings.<ref>{{cite video|date=2007|title=The New Adventures Of Batman|medium=DVD|publisher=Warner Bros. Home Video}}</ref> He and his henchman Professor Frost plot to steal the N-1000 (a superfast submarine) to pull of the Crime of the Century. When Batman and Robin raid his hideout, Mr. Freeze manages to freeze both of them but takes Robin with him and Professor Frost. When Mr. Freeze and Professor Frost managed to steal the N-1000, Mr. Freeze has Professor Frost steer it to the North Pole. When Batman and Bat-Mite catch up, Robin makes his escape while Mr. Freeze and Professor Frost continue to the North Pole. When Batman, Robin, and Bat-Mite catch up to Mr. Freeze and Professor Frost at the North Pole, Batman and Robin fire a beam from their device that reverses the polarity of Mr. Freeze's freeze gun so that it warms up. Batman and Robin managed to defeat Mr. Freeze and remand him to prison.
+
+[[Image:Mister Freeze BTAS.jpg|195px|right|thumb|Mr. Freeze as depicted in ''[[Batman: The Animated Series]]''.]]
+* Mr. Freeze appears in ''[[Batman: The Animated Series]]'' voiced by [[Michael Ansara]].<ref>{{cite web|url=http://www.toonzone.net/anbat/actors/villains.html#ansara|title=Batman: The Animated Series - Actors - Villains|accessdate=2008-05-09|publisher=Toon Zone}}</ref> His appearance in the series was designed by ''[[Hellboy]]'' creator [[Mike Mignola]], at the request of series creator [[Bruce Timm]].<ref name="BTAS">{{cite video|date=2004|title=Batman: The Animated Series|medium=DVD|publisher=Warner Bros. Home Video}}</ref> Mr. Freeze is introduced in the episode "Heart of Ice", which won an [[Emmy Award]] for Outstanding Writing in an Animated Program. In flashback, viewers see that while working for the company Gothcorp, Victor Fries had [[embezzlement|embezzled]] funds for an experiment in order to save his [[terminal illness|terminally ill]] wife Nora by cryogenically freezing her until a cure could be found. At the last moment however, Gothcorp CEO Ferris Boyle broke into the lab with guards, demanding an end be put to the experiment. When a panicked Fries grabbed a pistol from a security guard and aimed it at Boyle, the corrupt CEO kicked Fries into a table of chemical beakers filled with cyrogenic substance, leaving him to die. Fries survived, but was severely [[mutation|mutated]] by the substances and transformed into Mr. Freeze. As a result he must wear a cryogenic suit to survive. In the present day Freeze leads a band of henchmen and makes several raids on Gothcorp, stealing the parts for a freezing machine he wishes to build and use in his vendetta against Boyle. This leads to his first confrontation with Batman, whom he defeats easily and traps in a block of ice. Freeze traps Batman and leaves him in his hideout, confronting Boyle at the Gothcorp Humanitarian Party and freezing him up to the waist. Batman escapes, then confronts Freeze at the party, fighting him one-on-one until he breaks a thermos of [[chicken soup]] on Freeze's transparent head dome to cause it to shatter with the induced [[thermal shock]], rendering Fries unconscious at being exposed to normal room temperature. Batman then presents evidence of Boyle's criminal actions to the press which involved his part in Mr. Freeze's origin and leaves him half encased in ice. Mr. Freeze is imprisoned in Arkham in a special cell that is kept at subzero temperatures, and the episode ends with him begging his wife for forgiveness.<ref name="Heart of Ice">{{cite web|url=http://www.toonzone.net/anbat/btas/hoi.html|title=Heart of Ice|quote=Mr. Freeze targets the industrialist responsible for his wife's death.|accessdate=2008-05-09|publisher=Toon Zone}}</ref> Freeze later appears in "Deep Freeze", in which he is taken from prison against his will and brought to an off-shore city called Oceana. There, he meets billionaire amusement park designer Grant Walker, who wants to become like Freeze so he can create a frozen world for selected residents. Mr. Freeze warns Walker that his condition is one he would not wish upon anyone, but agrees to help when Walker promises to cure Nora (whose cryogenic tank was in his possession). Batman and Robin arrive and try to reason with Mr. Freeze that if he were to help Walker, Nora would hate him. Freeze eventually turns on Walker, freezing him to a wall. Mr. Freeze overloads Oceana's power-core, which starts the destruction of the city as he instructs it's inhabitants to evacuate. Mr. Freeze stays behind to die with his wife, and they all disappear in the explosion, though the episode's end reveals that they survive, trapped in [[iceberg]]s.<ref name="Deep Freeze">{{cite web|url=http://www.toonzone.net/anbat/btas/df.html|title=Deep Freeze|accessdate=2008-05-09|publisher=Toon Zone}}</ref>
+
+[[Image:Freeze-tnba.png|150px|right|thumb|Mr. Freeze as he appears in ''[[The New Batman Adventures]]''.]]
+* In ''[[The New Batman Adventures]]'', Mr. Freeze (again voiced by [[Michael Ansara]]) returns with a new, sleeker look, in which his head is mounted on four thin, [[robot]]ic legs, and which crawl and lock into a suit. His personality is also darker and more deranged, director [[Dan Riba]] said in the ''Arkham Files'' DVD feature that he and Bruce Timm took the events of ''[[Batman & Mr. Freeze: SubZero]]'' into account. The movie ended with his wife being cured, but his criminal record and freakish appearance now prevent him from being with her.<ref>{{cite video|date=2005|title=Batman: The Animated Series Volume Four|medium=DVD|publisher=Warner Brother Home Video}}</ref> In the episode "Cold Comfort", Mr. Freeze learns that the serum that mutated his body is slowly destroying it. Although he has kidnapped many scientists to try and stop the process, they only succeed after the process has claimed all but his head. Freeze felt unable to return to Nora, who, believing her husband had died in the events of ''Subzero'', married the doctor assigned to her case and left Gotham permanently. The [[psychological trauma|trauma]] destroys whatever is left of Freeze's humanity, and he begins committing crimes in order to inflict on others the loss he's suffered by taking away the things they value most (like freezing an [[Ultrasaurus]] skeleton to freezing a painting that took years to complete). One of his targets is Bruce Wayne, and he almost kills [[Alfred Pennyworth]] at [[Wayne Manor]]. At his hideout, Freeze is confronted by Batman and [[Barbara Gordon|Batgirl]], and he reveals his true condition to them as well as his goal of destroying Gotham &mdash; and thus all Batman holds dear &mdash; by dropping a "reverse fusion bomb" that will freeze the city. Freeze boards a helicopter to drop the bomb, but Batman follows him and they engage in a duel in which Batman uses his grappling gun to hook Freeze to the bomb and drop it into the river, where an explosion creates a huge iceberg. Freeze is presumed dead, but the episode's end reveals that Freeze's head is missing from his frozen armor,<ref name="Cold Comfort">{{cite web|url=http://www.toonzone.net/anbat/tnba/cc.html|title=Cold Comfort|accessdate=2008-05-09|publisher=Toon Zone}}</ref><ref>{{cite episode |title=Cold Comfort |episodelink= |series=The New Batman Adventures  |serieslink= |credits=Hilary J. Bader, Dan Riba, Shirley Walker, Koko Yang, Dong Yang |network=The WB |station= |airdate=1997-10-11 |season=1 |number=3 |minutes= }}</ref> and as revealed in ''[[Batman Beyond]]'', Freeze escapes with his life.<ref name="Meltdown">{{cite web|url=http://www.toonzone.net/anbat/bb/meltdown.html|title=Meltdown|accessdate=2008-05-09|publisher=Toon Zone}}</ref><ref name="BB - Meltdown">{{cite episode |title=Meltdown |episodelink= |series=Batman Beyond  |serieslink= |credits=Hilary J. Bader, Alan Burnett, Butch Lukic,  Lolita Ritmanis, Koko Yang, Dong Yang |network=The WB |station= |airdate=1999-02-13 |season=1 |number=5 |minutes= }}</ref> [[Image:Mr. Freeze (future).jpg|left|thumb|Mr. Freeze as he appears in ''[[Batman Beyond]]''.]]
+
+* In ''[[Batman Beyond]]'' (which is set 40 years in the future), Bruce Wayne still has one of Mr. Freeze's guns in the [[Batcave]]. His successor as Batman, [[Terry McGinnis]], uses it to freeze [[Inque]] when she infiltrates the Batcave, and Inque destroys it in a later episode. The episode "Meltdown" reveals that the disembodied head of Victor Fries (again voiced by [[Michael Ansara]]) survives the events of "Cold Comfort" thanks to the cryogenics technology, which has granted him [[Immortality|eternal life]]. Stephanie Lake, a doctor working for [[Derek Powers]], uses Mr. Freeze as a test subject for a process she hoped would be able to cure Powers' mutation (suffered in the series' pilot episode). She creates a [[cloning|clone]] body for him using his baseline [[DNA]] and transfers Fries' mind into it. Given a normal life, Fries tries to right some of the wrongs he has committed, creating a charitable organization with all his legitimate earnings from before he was imprisoned. However, the new body soon begins to revert to the same sub-zero [[biology]]. Lake and Powers betray Fries when he returns to their lab for help, hoping to learn more from a [[biopsy]]. He escapes, recovers an advanced suit of sub-zero armor, and becomes Mr. Freeze again. He seeks revenge by freezing Lake, freezing Powers (unintentionally revealing Powers' mutation into the villain Blight), and attempting to blow up a Wayne-Powers complex. Batman foils the plan while Freeze and Blight do battle. Mr. Freeze redeems himself by saving Batman from Blight and later keeps Batman from saving him so he would not perish in the explosion with Freeze.<ref name="Meltdown"/><ref name="BB - Meltdown"/>
+
+* Although Mr. Freeze never appeared in the ''[[Justice League (TV series)|Justice League]]'' animated series, his freeze gun is used by the [[Thanagar]]ian Kragger in the Batcave as seen in the episode "Starcrossed". Kragger attempts to use it on [[Superman]], who blows the freeze charge back, freezing Kragger instead.<ref>{{cite episode |title=Starcrossed |episodelink= |series=Justice League |serieslink= |credits=Butch Lukic, Dan Riba, Rich Fogel, Dwayne McDuffie |network=Cartoon Network |station= |airdate=2004-05-29 |season=2 |number=50, 51, 52 |minutes= }}</ref>
+
+[[Image:MrFreeze.png|thumb|125px|Mr. Freeze in ''[[The Batman (TV series)|The Batman]]''.]]
+* Mr. Freeze appears in ''[[The Batman (TV series)|The Batman]]'' voiced by [[Clancy Brown]]. This version of the Mr. Freeze is a bank robber who is condemned to life in a cryogenic suit after an accident in a cryogenics lab while being chased by Batman.<ref name="The Batman - episode">{{cite web|first=Alan|last=Burnett|url=http://www.tv.com/the-batman/the-batman-superman-story-1/episode/1127696/recap.html|title=The Batman: The Batman/Superman Story (1) Recap|accessdate=2008-05-11|date=2007-09-22|publisher=TV.com}}</ref> In a later episode, Mr. Freeze teams up with [[Firefly (DC Comics)|Firefly]] to put Gotham in a permanent winter.<ref>{{cite episode |title=Fire and Ice |episodelink= |series= The Batman|serieslink= |credits=Seung Eun-Kim, Michael Jelenic |network=The WB |station= |airdate=2005-05-28|season=2 |number=21 |minutes= }}</ref> In "The Icy Depths", he competes against [[Penguin (comics)|Penguin]] to claim an umbrella that is in fact a map to a sunken treasure.<ref>{{cite episode |title=The Icy Depths |episodelink= |series=The Batman |serieslink= |credits=Anthony Chun, Steven Melching |network=The CW |station= |airdate=2006-05-06 |season=3|number=38 |minutes= }}</ref> He was hired by [[Lex Luthor]], along with [[Black Mask (comics)|Black Mask]], [[Clayface]], and [[Bane (comics)|Bane]] to kidnap [[Lois Lane]] and use her as bait for Superman. In the episode "Artifacts", set in 2027, Freeze's powers have increased to the point that he wears a special mecha suit. However, he loses an unhealthy amount of weight and becomes unable to walk, and now uses mechanical spider legs. After a near-death escape, Freeze places himself in cryogenic suspension, until someone wakes him up 1,000 years in the future in 3027. Once his suit is repaired, Mr. Freeze continues terrorizing Gotham. Eventually, law enforcement officers use methods saved for the future by Batman to defeat Freeze.<ref>{{cite episode |title=Artifacts |episodelink= |series=The Batman |serieslink= |credits=Brandon Vietti, Greg Weisman |network=The CW |station= |airdate=2007-02-03 |season=4 |number=46 |minutes= }}</ref> In the [[Japanese language|Japanese]] dub of the series, Freeze is voiced by [[Tesshō Genda]], who played Batman in the Japanese dub of ''Batman: The Animated Series''.
+
+* Mr. Freeze appears in ''[[Batman: The Brave and the Bold]]'' voiced by [[John DiMaggio]]. He first appears in his [[Silver Age of comic books|Silver Age]] appearance under the name "Mr. Zero" in the episode "Legends of the Dark Mite" where he is among the Batman villains in Bat-Mite's fantasy. Batman manages to defeat him by throwing a boomerang at his helmet which deflated him. Mr. Freeze makes a cameo in the teaser for "Sidekicks Assemble" as one of the villain holograms that Robin, Speedy, and [[Aqualad]] fight. Mr. Freeze later appears in "[[Chill of the Night!]]" with a design resembling the George Sanders depiction. He is among the villains at a weapons auction held by Joe Chill. In "Bold Beginnings!", Mr. Freeze has captured Aquaman, Green Arrow, and Plastic Man. They end up rescued by Batman and helped to fight Mr. Freeze and his henchmen. After Mr. Freeze is defeated, Aquaman remains behind to wait for the police and continue telling Mr. Freeze of his first team-up with Batman against Black Manta. Mr. Freeze also appears in the opening for "Crisis: 22,300 Miles Above Earth," where he is one of the villains at the [[Joker (comics)|Joker]]'s [[celebrity roast]], where they were literally roasting Batman. With help from [[Jeffrey Ross]], Batman managed to break free from his death trap and defeat Mr. Freeze and the other villains present.
+
+* Mr. Freeze appears in the ''[[Young Justice (TV series)|Young Justice]]'' episode "Independence Day" Pt. 1 voiced by [[Keith Szarabajka]]. Mr. Freeze terrorizes a park in Gotham City until he is distracted and weakened by Robin and taken down by Batman. In "Terrors," Mr. Freeze is seen as an inmate at [[Belle Reve]]. He and the other ice villains collaborated with [[Icicle (comics)|Icicle]] Sr. in a breakout plot. When Mr. Freeze was brought to the prison's warden [[Amanda Waller]], he ends up freezing his own collar and then taking out the guards. He is defeated when [[Superboy (Kon-El)|Superboy]] shatters his helmet forcing Mr. Freeze to turn his powers on himself in order to survive.
+
+===Film===
+* Mr. Freeze appears in the direct to video movie ''[[Batman & Mr. Freeze: SubZero]]'' voiced once again by [[Michael Ansara]]. Nora's tank is shattered and Mr. Freeze kidnaps [[Batgirl]] in order to perform a vital organ transplant and uses [[Batgirl]] to get it. Mr. Freeze makes a deal with a greedy old colleague of his to help cure his wife in exchange for gold. Batman and Robin thwart this plan and Mr. Freeze is then presumed killed in the explosion of his lair on an abandoned oil rig. Wayne Enterprises then finances Nora's surgery saving her life which Freeze overhears while watching in on researchers in the [[North Pole]], bringing tears to his eyes. The events are set before ''The New Batman Adventures'' as part of the DC Animated Universe. 
+
+[[Image:Ourgovernor.jpg|200px|thumb|left|Mr. Freeze in ''[[Batman & Robin (film)|Batman & Robin]]'' played by [[Arnold Schwarzenegger]].]]
+* Mr. Freeze appears in ''[[Batman & Robin (film)|Batman & Robin]]'' played by [[Arnold Schwarzenegger]]. He serves as a main antagonist in the movie. The film features a largely [[Camp (style)|campy]] interpretation of the character, although it includes the animated series version's tragic origin. Throughout the movie, he spouts puns related to cold weather and temperatures (e.g., "You’re not sending me to the cooler!", "Allow me to break the ice", "Let's kick some ice", etc.). The film's characterization of Mr. Freeze, as well as Schwarzenegger's performance, was widely criticized.<ref>{{cite web|first=Michael|last=Swaim|url=http://www.cracked.com/article_15665_7-least-faithful-comic-book-movies.html|title=The 7 Least-Faithful Book Movies|accessdate=2008-05-10|publisher=Cracked.com}}</ref><ref>{{cite news|first=Janet|last=Maslin|url=http://www.nytimes.com/library/film/batman-film-review.html|title=Batman and Robin|quote=In other words they're a lot smarter than, say, Mr. Freeze, whose deadliest weapon in the film is an arsenal of puns. (e.g "I'm afraid my condition has left me cold to your pleas!" and "You are not sending me to the cooler!)|accessdate=2008-05-23|date=1997-06-20|work=[[New York Times]]}}</ref>
+
+* Mr. Freeze appears in ''[[Superman/Batman: Public Enemies]]''. He is seen with the "cold warriors" [[Icicle (comics)|Icicle]] II, [[Killer Frost]], and [[Captain Cold]] when they are among the villains trying to claim the bounty on [[Superman]] and [[Batman]]. After a brief fight with Batman, they are all defeated by Superman's heat vision.
+
+===Video games===
+Mr. Freeze also appears in several ''Batman'' video games:
+
+* He is a boss in ''Batman: The Animated Series'', ''The Adventures of Batman & Robin'' for the [[Sega Genesis]] (in which Freeze was the game's final boss).
+
+* Mr. Freeze appears in the video game adaptation of the movie ''Batman & Robin''.
+
+* Mr. Freeze appears in ''Batman: Chaos in Gotham''.
+
+* Mr. Freeze appears in ''[[Batman Vengeance]]'', targeting a scientist named Isaac Evers, whom he blames for sending him a video promoting Prometheon gas in order to spite him, unaware that the real culprit was the Joker, who planned to use Freeze's invasion of the lab as a distraction for him to steal large quantities of the gas. Michael Ansara reprised his role as Mr. Freeze for ''Batman Vengeance''.<ref>{{cite web|url=http://www.mobygames.com/game/batman-vengeance|title=Batman Vengeance - MobyGames|accessdate=2008-05-10|publisher=Moby Games}}</ref>
+
+* Mr. Freeze appears in ''[[Batman: Dark Tomorrow]]'' (the only game to feature the comic book version of Mr. Freeze, as all other games use the animated or movie version).<ref>{{cite web|url=http://www.gamestop.com/Catalog/ProductDetails.aspx?product_id=15788|title=Game Stop - Batman Vengeance|accessdate=2008-05-08|publisher=Game Stop}}</ref><ref>{{cite web|url=http://www.gamestop.com/Catalog/ProductDetails.aspx?product_id=21120|title=Game Stop - Batman: Dark Tomorrow|accessdate=2008-05-08|publisher=Game Stop}}</ref><ref>{{cite web|first=Matt|last=Casarnassina|url=http://cube.ign.com/articles/166/166827p1.html|title=IGN: Batman Vengeance Review|accessdate=2008-05-10|date=2001-11-19|publisher=IGN}}</ref>
+
+* He is also one of the main villains in the PC game ''Toxic Chill'', in which Freeze pairs up with the Riddler in an attempt to change the very weather of Gotham. He is eventually betrayed and nearly killed by the Riddler, who sets off a volcanic eruption. Both are sent to Arkham Asylum, and are made cellmates. It is suggested that Freeze tortures the Riddler in Arkham as revenge for his treachery.
+
+* Mr. Freeze appears ''[[Lego Batman: The Video Game]]'' with his vocal effects provided by [[Ogie Banks]]. He appears as an enemy of Batman and a follower of the [[Riddler]].<ref>''Game Informer'' features a two-page gallery of the many heroes and villains who appear in the game with a picture for each character and a descriptive paragraph. See "''LEGO Batman'': Character Gallery", ''Game Informer'' 186 (October 2008): 93.</ref> In it his design is based mainly on the animated series, and he uses his freeze gun to freeze enemies and water. The strength granted to him by his suit allows him to pick up objects others cannot.
+
+* Mr. Freeze's cell, covered in frost and icicles, can be seen in the Penitentiary area of ''[[Batman: Arkham Asylum]]'' which can be scanned to unlock his bio.
+
+* Mr. Freeze appears in ''[[DC Universe Online]]'' voiced by [[Robert Kraft]].
+
+* Mr. Freeze appears in ''[[Batman: Arkham City]]'' voiced by [[Maurice LaMarche]] as both an ally to Batman and a [[boss battle]]. After the [[Joker (comics)|Joker]] poisons Batman he has the Dark Knight find Mr. Freeze. Batman searches for him in the GCPD building (literally the coldest place in Arkham City), only to find his lab swarmed by the [[Penguin]]'s men, who reveal Cobblepot has Fries hostage in the Cryus Pinkney Museum. Batman saves Freeze from Penguin's men in the museum and asks Freeze for the cure to the Titan toxin, only for Freeze to reveal he needs his suit, which Cobblepot possesses. After the Penguin is defeated and Freeze recovers his suit he gets revenge on Cobblepot by locking him in a display case. Fries then tell Batman that the cure he made for the Joker degenerates too quickly and needs a restorative enzyme that has also bonded to human DNA, something that would take decades, only for Batman to reveal he know someone who has been exposed to that enzyme for centuries named [[Ra's al Ghul]]. Mr. Freeze tells Batman he only needs a sample of Ra's al Ghul DNA to complete the cure, and Batman proceeds to track down Ra's using one of the warriors of the [[League of Assassins]] Penguin had somehow captured. When Batman returns to the GCPD with a sample of Ra's al Ghul's blood, Freeze creates two vials of the cure before locking one in a safe and destroying the other, demanding Batman save [[Nora Fries|Nora]] from the Joker or he will never get the last of the cure. Batman fights Freeze to override the safe, which proves difficult as Freeze alters the environment around him to defeat the Dark Knight and uses his mind to strategically challenge Batman as well as seeker drones and his own freezing gun, though his powerful armor makes him move slowly. After he is beaten Batman opens the safe only to find a wall missing and the cure gone, realizing [[Harley Quinn]] stole the cure while he fought Freeze. Freeze gives him freeze grenades to help him retrieve the cure, and gives Batman Nora's location, begging him to save her. After Nora is saved Batman can find Freeze with his frozen wife, promising her he will save her and Batman tells him to end his life of crime for Nora's sake. On his interview tapes, Freeze threatens to kill [[Hugo Strange]] for taking his weapons and his wife, only to comply to the interview when Strange threatens to murder Nora. Freeze recounts his children obsession with cryonic preservation, mentioning his continuous attempts to revive his and his neighbors' dead pets, questioning why his parents always allowed their pets to die. This disturbed his family enough to disown Victor and send him to a reform school where he met Nora. Soon after their wedding Nora tragically fell ill, and Victor stayed awake for weeks, never eating or sleeping in his crusade to save his beloved wife. Nora began trying to stop her husband's research to save his health, trying to convince him to let fate take its course, and then he froze her, taking a long sleep soon after. Fries overslept and failed to stop Ferris Boyle from discovering his research, and attacked him, only for Boyle to knock Fries into his own cryogenic chemicals and claim that everything in Victor's experiment was now his, including Mrs. Nora Fries. Freeze failed to get his revenge, cursing Boyle and Batman, only for Hugo to present his theory: That Victor had acted selfishly in his crusade to cure his beloved Nora. If he had shared his plight with his colleagues Nora could be at home, serving him a hot meal instead of being delivered to the Joker (explaining why Freeze even tried to cure Joker in the first place). Upon hearing this Freeze vows to retrieve his beloved Nora and kill Strange after he finds her. Freeze's boss battle was widely praised as a step up from the repetitive Titan-thug bosses from the previous game.
+
+===Web series===
+In the third season of the [[Flash animation|Flash]] series ''[[Gotham Girls]]'', a new villain is introduced: Dora Smithy, Mr. Freeze's sister-in-law. She dons his freezing equipment in a quest to wipe out Gotham's supervillain, due to a misunderstanding that Mr. Freeze's actions killed her only sister. As a result, there is an emphasis on Mr. Freeze himself throughout the season, and he is discussed several times, although he never actually makes an appearance.
+
+===Merchandising===
+Mr. Freeze is also the name of two [[LIM]] [[roller coaster]]s at two [[Six Flags]] parks ([[Six Flags St. Louis]] and [[Six Flags Over Texas]]).<ref>{{cite web|url=http://www.sixflags.com/stLouis/rides/MrFreeze.aspx|title=Mr. Freeze: Six Flags, St. Louis|accessdate=2008-05-10|publisher=Six Flags}}</ref><ref>{{cite web|url=http://www.sixflags.com/overTexas/rides/MrFreeze.aspx|title=Mr. Freeze: Six Flags Over Texas|accessdate=2008-05-10|publisher=Six Flags}}</ref>
+
+[[Lego]]'s [[Lego Batman|Batman line]] features two sets, ''The Batcave: The Penguin and Mr. Freeze's Invasion'', which includes [[minifigure]] incarnations of Mr. Freeze, The Penguin, Batman, [[Robin (comics)|Robin]], [[Alfred Pennyworth]], [[Bruce Wayne]], a henchman, and three hench-penguins. The second set, ''Batman's Buggy: The Escape of Mr. Freeze'', includes minifigures of Mr. Freeze and Batman.
+
+===Dark Horse comic books===
+Mr. Freeze appears in the third ''[[Batman vs. Predator]]'' comic book, ''Blood Ties''. His gang members are killed by the Predators, but he is spared since he is not visible to the Predator due to his lack of body heat.<ref>{{Cite comic
+ | Writer = [[Dave Gibbons|Gibbons, Dave]]
+ | Penciller = [[Andy Kubert|Kubert, Andy]]
+ | Inker = Kubert, Andy
+ | Story = Blood Ties
+ | Title = Batman vs. Predator
+ | Volume = 
+ | Issue = 3
+ | Date = February 1992
+ | Publisher = [[DC Comics]], [[Dark Horse Comics|Dark Horse]]
+ | Page = 
+ | Panel = 
+ | ID =
+ }}</ref>
+
+In ''[[Batman/Aliens#Batman/Aliens 2|Batman/Aliens 2]]'', Mr. Freeze is not seen, but his freeze gun is used to destroy aliens, and an alien cloned from Fries' DNA can be seen.<ref>{{Cite comic
+ | Writer = [[Ian Edginton|Edginton, Ian]]
+ | Penciller = [[Staz Johnson|Johnson, Staz]]
+ | Inker = [[James Hodgkins|Hodgkins, James]]
+ | Story = 
+ | Title = Batman/Aliens 2
+ | Volume = 
+ | Issue = 2
+ | Date = 2003
+ | Publisher = [[DC Comics]], [[Dark Horse Comics|Dark Horse]]
+ | Page = 
+ | Panel = 
+ | ID = 84-7904-703-8
+ }}</ref>
+
+===Miscellaneous===
+
+*Freeze has made numerous appearances in the comics set in the DC Animated Universe.
+
+:* In ''[[Batman: Gotham Adventures]]'' issue #5 he was found shortly after the battle and back in action.<ref>{{Cite comic
+ | Writer = [[Ty Templeton|Templeton, Ty]]
+ | Artist = [[Rick Burchett|Burchett, Rick]], [[Terry Beatty|Beatty, Terry]]
+ | Story = Polar Opposites
+ | Title = Batman: Gotham Adventures
+ | Volume = 
+ | Issue = 5
+ | Date = October 1998
+ | Publisher = [[DC Comics]]
+ | Page = 
+ | Panel = 
+ | ID =
+ }}</ref> He has made further appearances in ''Batman Adventures''. The comic's writers intended ''Batman Adventures'' #15 to be Mr. Freeze's final appearance. Though the issue's ending is ambiguous, it does set up for his eventual fate, as revealed in ''[[Batman Beyond]]''.<ref name="World's Finest"/> Nora finally encounters Victor after her new husband is nearly killed by a robot he himself created in Freeze's image to attack him, hoping to prove to Nora that her first husband was a monster. The story ends with Mr. Freeze's head falling into a pond at the [[Arctic]]. Deleted material from the comic portrays Ferris Boyle and Grant Walker being killed by the Mr. Freeze robot. While the end of the story is left ambiguous, it was intended for Mr. Freeze to be taken by Powers Technology and put in storage. The company's owner, Warren Powers, father of [[Derek Powers|Derek]], a ''Batman Beyond''' villain, states that the secret to [[immortality]] is locked inside that head.<ref name="World's Finest">{{cite web|url=http://www.worldsfinestonline.com/WF/batribute/backstage/15.php|title=The World's Finest - Batman Adventures: #15|accessdate=2008-05-09|publisher=World's Finest}}</ref>
+:* Mr. Freeze made two appearances in ''[[Justice League Adventures]]'' comics. In the first, he claims that [[Captain Cold]] has stolen his freeze gun design, but in the second they are working together, alongside other cold-based villains as part of a plan to conquer Earth for a race of cold-based aliens, although they turn against their 'ally' when he attempts to betray them only for them to be released by Batman.<ref>Justice League Adventures #12</ref>
+
+*Mr. Freeze appears in the direct-to-video original animation ''[[DC Super Friends]]: The Joker's Playhouse'' (2010) voiced by [[Eric Bauza]].
+
+==See also==
+*[[List of Batman Family enemies]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{wikiquote|Batman (comics)#Mr. Freeze|Mr. Freeze}}
+*[http://batman.ugo.com/roguesgallery/mrfreeze/default.asp Mr. Freeze UGO profile]
+*{{gcdb|type=character|search=Mr.+Freeze|title=Mr. Freeze}}
+*{{comicbookdb|type=character|id=1584|title=Mr. Freeze}}
+*{{DCdatabase|Mister Freeze}}
+{{clear}}
+==Related information==
+{{Batman}}
+{{1966-1968 Batman television series}}
+
+{{DEFAULTSORT:Freeze, Mr.}}
+[[Category:DC Comics immortals]]
+[[Category:DC Comics supervillains]]
+[[Category:DC Comics metahumans]]
+[[Category:Fictional cyborgs]]
+[[Category:Fictional inventors]]
+[[Category:Fictional mass murderers]]
+[[Category:Fictional scientists]]
+[[Category:Fictional characters with cryo-abilities]]
+[[Category:Fictional cryonically preserved characters]]
+[[Category:Fictional American people of German descent]]
+[[Category:Comics characters introduced in 1959]]
+[[Category:Film characters]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:Characters created by Bob Kane]]
+[[Category:Video game bosses]]
+
+[[bg:Мистър Фрийз]]
+[[da:Mr. Freeze]]
+[[de:Mr. Freeze]]
+[[es:Sr. Frío]]
+[[fr:Mr Freeze (comics)]]
+[[id:Mister Freeze]]
+[[it:Mister Freeze]]
+[[he:מיסטר פריז]]
+[[hu:Mr. Fagy]]
+[[nl:Mr. Freeze (DC Comics)]]
+[[ja:ミスター・フリーズ]]
+[[pl:Mister Freeze]]
+[[pt:Senhor Frio]]
+[[ru:Мистер Фриз]]
+[[fi:Pakkasherra (sarjakuvahahmo)]]
+[[sv:Mr Freeze]]
+[[tl:Mr. Freeze]]

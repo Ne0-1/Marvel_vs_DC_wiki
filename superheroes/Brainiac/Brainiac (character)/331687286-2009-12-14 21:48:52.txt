@@ -1,0 +1,223 @@
+{{Refimprove|date=September 2009}}
+{{about||the American [[synthpunk]] band|Brainiac (band)|the Legion of Super-Heroes member|Brainiac 5|the Action Comics story arc|Brainiac (story arc)}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image= SupermanCv219.jpg
+|imagesize= <!-- numeral only, defaults to 250 -->
+|converted = y
+|caption = Brainiac battling [[Superman]].<br />Promotional art for ''Superman'' #219, by [[Ed Benes]].
+|character_name = Brainiac
+|real_name = Vril Dox
+|publisher=[[DC Comics]]
+|debut = ''[[Action Comics]]'' #242<br/> (July 1958)
+|creators = [[Otto Binder]] (writer)</br>[[Al Plastino]] (artist)
+|Base of operations = 
+|species   = Coluan
+|homeworld = [[Colu]]
+|alliances = <!-- optional -->[[Lex Luthor]]
+|partners  = <!-- optional -->
+|supports  = <!-- optional -->
+|aliases   =  Dr. Milton Fine<br>[[Pulsar Stargrave]]<br>The Terror of Kandor
+|powers = Twelfth Level Intelligence; variable superhuman powers
+|cat = supervillains
+|subcat = DC Comics
+|hero = 
+|villain = y
+|sortkey = Brainiac (comics)
+}}
+
+'''Brainiac''' is a [[fictional character]] that appears in [[comic books]] published by [[DC Comics]]. The character first appeared in ''[[Action Comics]]'' #242 (July 1958), and was created by [[Otto Binder]] and [[Al Plastino]].
+
+An [[extraterrestrials in fiction|extraterrestrial]] [[android]], Brainiac is a principal foe of [[Superman]], responsible for shrinking [[Kandor]], the [[capital city]] of Superman's home planet [[Krypton (comics)|Krypton]] which the hero has vowed to restore.<ref name="dc-ency">{{Citation  | last = Greenberger | first = Robert | author-link = Robert Greenberger | contribution = Brainiac | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 61  | publisher = [[Dorling Kindersley]]  | place = London  | year = 2008 | isbn = 0-7566-4119-5}}</ref> Due to complex storylines involving [[time travel]], [[cloning]], and revisions of DC's [[continuity (fiction)|continuity]], several variations of Brainiac have appeared. Most incarnations of Brainiac depict him as a bald (save for a set of [[diodes]] protruding from his skull) and green-skinned [[humanoid]].
+
+The character is the origin of [[:wiktionary:brainiac|the informal eponymous word]] which means "genius".<ref>Soanes, C. and Stevenson, A. 2004. Electronic version of ''The Concise Oxford English Dictionary''. Eleventh Edition. England: Oxford University Press.</ref>
+
+==Publication history==
+{{Article issues|section=y|in-universe=July 2008|tone=July 2008|date=April 2009}}
+===Silver age===
+[[Image:Action Comics 242.png|185px|thumb|left|Brainiac's first appearance in ''[[Action Comics]]'' #242. Art by [[Curt Swan]] and Stan Kaye.]]
+
+First appearing in ''[[Action Comics]]'' #242 ([[1958#July|July 1958]]), Brainiac was a bald, green-skinned [[humanoid]] who arrived on [[Earth]] and shrank various cities, including [[Metropolis (comics)|Metropolis]], storing them in bottles with the intent of using them to restore Bryak, the planet he ruled. He protects himself from Superman using an ultra-force barrier, not even Superman can break through it. While fighting Brainiac, [[Superman]] discovered that the villain had previously shrunk the [[Krypton (comics)|Kryptonian]] city of [[Kandor]]. He was able to restore the Earth cities to full size, but the Kandorians sacrificed their restoration to help him. Superman stored the city in his [[Fortress of Solitude]], vowing to return the natives to full size.
+
+Brainiac's legacy was revealed in ''[[Action Comics]]'' #276 (May 1961), in a ''[[Legion of Super-Heroes]]'' back-up story. This story introduced a green-skinned, blond-haired teenager named Querl Dox, or '''[[Brainiac 5]]''', who claimed to be Brainiac's 30th century descendant. Unlike his ancestor, Brainiac 5 used his "twelfth-level intellect" for the forces of good and joined the Legion alongside [[Supergirl]], with whom he fell in love. His home planet was given variously as Yod or [[Colu]].
+
+In ''[[Superman]]'' (vol. 1) #167 (February 1964), it was [[retcon]]ned that Brainiac was a machine created by the Computer Tyrants of [[Colu]] as a spy. Explaining the 1961 introduction of Brainiac's descendant [[Brainiac 5]], his biological disguise included an adopted "son", a young Coluan boy who was given the name "[[Brainiac 2]]". In the same issue, the [[comic book letter column|letter column]] contained a "special announcement" explaining that the change in the characterization of Brainiac was being made "in deference" to the "Brainiac Computer Kit", a toy computer created by [[Edmund Berkeley]] which pre-dated the creation of the comic book character.<ref>{{ Cite comic
+ | story=Metropolis Mailbag (column)
+ | title=[[Superman (comic book)|Superman]]
+ | issue=167
+ | date=February 1964
+ | publisher=DC Comics
+ | location=New York
+ | url=http://www.vintagecomputer.net/brainiac/superman_Feb_number167_mailbag.jpg
+ }}</ref><ref>{{cite web |last=Engblom |first=Mark |title=Which Came First? Brainiac or BRAINIAC? |url=http://comiccoverage.typepad.com/comic_coverage/2009/04/which-came-first-brainiac-or-brainiac.html |date=28 April 2009 |publisher=Comic Coverage |accessdate=20 August 2009}}</ref>
+
+It was later revealed{{when}} that his name was '''[[Vril Dox]]''', and that he went on to lead a revolt against the Computer Tyrants. It was in this story that Brainiac first appeared with a distinctive gridwork of red [[diode]]s across his head, which later stories explained as the "electric terminals of his sensory nerves." This would remain his appearance throughout the 1960s and 1970s.
+
+[[Image:Brainiac544.PNG|thumb|Brainiac's robotic incarnation, from ''[[Action Comics]]'' #544. Art by [[Ed Hannigan]].]]
+
+====30th century (Pre-Crisis)====
+At some indeterminate point in time, Brainiac fled into the 30th century.  Developing the ability to absorb and manipulate massive amounts of stellar energy, he remade himself as "[[Pulsar Stargrave]]".<ref>As revealed in ''Superboy and the Legion of Super-Heroes'' #226-227 (April-May 1977)</ref> He became a powerful enemy of the [[Legion of Super-Heroes]], and once masqueraded as [[Brainiac 5]]'s biological father.<ref>''Superboy and the Legion of Super-Heroes'' #224 and 226 (February-April 1977)</ref>
+
+===Bronze age===
+In the 1980s, [[DC Comics]] attempted to re-define several aspects of its ''Superman'' series in order to boost sagging sales. At the same time [[Lex Luthor]] acquired his green-and-purple battlesuit, Brainiac was re-envisioned (under the auspices of writer [[Marv Wolfman]]). In ''[[Action Comics]]'' #544 (June 1983), Brainiac had constructed a giant, artificial, computer-controlled planet and used it in his latest attempt to destroy Superman; unfortunately, his defeat at the hands of the Man of Steel left him trapped at the center of the planet, unable to escape. He was forced to make a nearby star explode in a [[nova]] in order to destroy the machine-world and allow him to re-create his form. His new body (designed by [[Ed Hannigan]]) had the appearance of a [[skeleton]] of living metal with a grey (Sometimes iridescent), [[honeycomb]]-patterned "braincase."<ref>''Who's Who in the DC Universe''<!--year needed--></ref> He also created a [[starship]] to house his new body, that was actually an extension of himself; the ship was shaped like his own skull, with metal tentacles dangling from it that he could manipulate at will. Brainiac retained this appearance until after the ''[[Crisis on Infinite Earths]].''
+
+As part of Brainiac's re-creation, Wolfman added a new aspect to Brainiac's personality. During his regeneration, Brainiac experienced a vision in which he saw Superman in the guise of a god-like "Master Programmer" who was responsible for a massive conspiracy to destroy Brainiac and keep him from achieving perfection and domination of the universe. From this vision, Brainiac concluded that it was necessary for him to destroy the Master Programmer in order to achieve his goal; therefore, his ultimate goal was to destroy Superman, whom he saw as the Master Programmer's "angel of death." This new, insane motivation re-cast Brainiac as a cold-hearted, ruthless machine whose "mind has absorbed all the knowledge this universe has to offer", and he appeared several times in this aspect until he was re-written. Further revisions of Brainiac's history removed the "Master Programmer" aspect of his personality entirely.
+
+===Modern age===
+[[Image:Vridoxpost.png‎|185px|left|thumb|Brainiac's second post-Crisis incarnation.]]
+In the post-''[[Crisis on Infinite Earths]]'' [[DC Universe]], Brainiac's history was completely rewritten again. The post-Crisis version of Brainiac was now a radical [[Colu]]an scientist called Vril Dox who, having attempted to overthrow the Computer Tyrants of Colu, was sentenced to death. In his last moments before disintegration, his consciousness is attracted light years away to Milton Fine, a human sideshow mentalist who worked under the alias "Brainiac".<ref name="dc-ency"/> Needing cranial fluid to maintain his possession of Fine, Dox went on a murder spree. He discovered that Fine had genuine [[psychic]] powers, which he frequently wielded against [[Superman]].<ref>''[[Adventures of Superman (comic book)|Adventures of Superman]]'' #438 (March 1988)</ref>
+
+Brainiac was later captured by [[Lex Luthor]], but used his powers to take control of [[LexCorp]]. Under Brainiac's mental domination, LexCorp scientists restored his Coluan form. The [[diode]]s in Brainiac's head now increased and stabilized his mental powers and also allowed him direct access to computer banks. He continued to plague Superman, using a combination of mental powers and computer control. On one occasion, Brainiac even returned to his pre-''Crisis'' incarnation's city-shrinking tactics.
+
+In the crossover story ''[[Invasion! (DC Comics)|Invasion!]]'', it was revealed that, prior to its dispersion, the Computer Tyrants allowed Dox to clone a lab assistant, Vril Dox II, who would go on to form [[L.E.G.I.O.N.]], and (although he never uses the name) is the post-''Crisis'' version of Brainiac 2.
+
+====''Panic in the Sky''====
+In the early 1990s, Brainiac returned in the "Panic in the Sky" storyline. He seized control of [[Warworld]] and managed to convince [[Maxima (comics)|Maxima]] to assist him. Then he brainwashed [[Supergirl (Matrix)]] and the alien warrior [[Draaga]] before capturing [[Metron (comics)|Metron]] and setting off for [[Earth]]. [[Orion (comics)|Orion]] and [[Lightray]] of [[New Genesis]] attacked Warworld, but they were quickly taken down by Maxima and Supergirl. Brainiac sent the mental image of the [[New Gods]] captured to [[Superman]] in order to taunt him, and he also sent his "headship" to Earth in a [[punitive expedition]].
+
+These acts prompted Superman to go on the offense rather than wait for the inevitable invasion. He gathered a coalition of most of the world's superheroes and launched a preemptive strike at Warworld before it could arrive on Earth. A small, elite force was left behind for any scouting forces that would be sent ahead. Superman led the attack on Warworld, where Supergirl and Draaga managed to shrug off their brainwashing and rally to Superman (although Draaga was killed in the fighting). Maxima would shortly switch sides in the fighting too, perceiving Brainiac as the true villain at last. Brainiac briefly took control of some of Earth's heroes, but it was not enough to turn the tide. [[Flash (comics)|Flash]], Maxima, and the [[Metal Men]] attacked him in his lair, where Maxima managed to [[lobotomy|lobotomize]] him (but was stopped short of killing him). His vegetative body was taken back to New Genesis for observation.
+
+====Dead Again!====
+Brainiac would next emerge about a year after the death and return of [[Superman]]. After a dead body appeared in Superman's tomb, prompting the world to wonder if the Superman who was flying around was the original or a fake, Superman began to track down all of his foes who might be capable of such a hoax. While Brainiac was initially eliminated as a suspect, he soon turned out to be the true culprit, creating the illusion even in his comatose state on [[New Genesis]]. He managed to revive himself there and returned to [[Earth]] in secret. While hidden, he created even more delusions, causing Superman to question his very sanity before realizing who was really at fault. Superman and Brainiac squared off in [[Metropolis (comics)|Metropolis]], where Superman taunted the evil villain, claiming that at heart he was really just Milton Fine, a cheap entertainer. This caused some break in Brainiac's mind where Fine's personality reasserted himself, burying Brainiac's. Fine was then escorted off to a psychiatric facility.
+
+Brainiac's mind reemerged at the hospital. Brainiac's new plan was to lure Superman there where he managed to pull a "[[Mind uploading|mind switch]]" on the Man of Steel. Brainiac's mind was put in Superman's body, while Superman's mind was put into the body of a 13 year old mental patient who thought that he was Superman. Brainiac, frustrated with the lack of mental powers Superman's body afforded, came up with a plan to download a vast amount of knowledge into the minds of all Metropolis citizens, thereby using them as a giant storage device. To that end, he built a new lair in the center of the city and sealed it off from the outside. Superman, in the body of the child, managed to infiltrate the city and switch everyone's minds into the right bodies. Unfortunately, this left Brainiac back in control of his original body, and he quickly blasted Superman with his psychic abilities. Luckily, the young boy whose body Superman had been in managed to save the day, reversing the flow of information Brainiac had created, jamming all of the vast knowledge into Brainiac. This left him nearly catatonic again, muttering in binary code.
+
+====''The Doomsday Wars''====
+During a later skirmish with [[Superman]] in [[Metropolis (comics)|Metropolis]], Milton Fine's body was irreparably damaged, leaving Brainiac with only a short time to live. In order to preserve his life, he concocted an elaborate scheme by having an agent of his, a [[Colu]]an named Prin Vnok, use a [[time travel|time machine]] to travel to the [[End of Time]] itself and retrieve [[Doomsday (comics)|Doomsday]], who had been left there by Superman and [[Waverider (comics)|Waverider]] to ensure that he would never be a threat again, and use Doomsday as a new host body. 
+
+Seconds before the forces of [[entropy]] destroyed him forever, Doomsday was taken to safety by Vnok and returned to Colu. There, a terminally-wounded Brainiac transferred his consciousness into Doomsday's body, temporarily becoming the most powerful being in the universe; a [[genius]] [[psychic]] mind inside an unstoppable, indestructible titan. However, Doomsday's own raging mind would eventually overwhelm Brainiac's will, and he reacted too quickly for Brainiac and Vnok to erase his mind using chemical or psionic treatments, forcing Brainiac to find another body. While still lodged in Doomsday's head, Brainiac decided to take control of a human host in order to attempt to clone a new version of Doomsday that didn't possess the creature's mind. Brainiac chose to use [[Pete Ross]] and [[Lana Lang]]'s newborn baby, born eight weeks premature and being transported by Superman to the best Neo-Natal Intensive Care Unit in the country, as the temporary host. Brainiac intercepted Superman during the attempt and stole the baby to hurt his long-time foe, correctly deducing that it was the child of someone close to Superman. However, Superman thwarted Brainiac's plot by driving him out of Doomsday's body with the use of a [[telepathy]]-blocking 'psi-blocker' which forced Brainiac to adopt a robotic body, dubbed '''Brainiac 2.5''', where he would be forever trapped as he couldn't abandon it.
+
+====Brainiac 13====
+[[Image:Supesy2k.jpg|Brainiac 13 on the cover of ''Superman Y2K'' #1. Art by [[Jackson Guice]].|left|thumb|185px]]
+At the turn of the [[millennium]], Brainiac revealed that he had placed a sleeper [[computer virus|virus]] in [[LexCorp]]'s [[Y2K bug]] safeguards which was intended to dramatically boost his abilities. Instead, it allowed his upgraded future self, '''Brainiac 13''' (or "'''B-13'''"), to travel from the 64th century to the present day and take control of Brainiac 2.5's body. Brainiac 13 began transforming [[Metropolis (comics)|Metropolis]] into the 64th century version of the city, which he controlled. Although Brainiac 13 was able to gain control of several android superheroes, such as the [[Red Tornado]], [[Hourman (android)|Hourman]], and the [[Metal Men]], and use them against [[Superman]], Superman discovered during a fight with the [[Eradicator (comics)|Eradicator]] — attempting to stop the [[Krypton (comics)|Kryptonian]] program from 'hi-jacking' the B13 virus and using it for its own ends — that Brainiac 13 couldn't cope with Kryptonian technology because he wasn't compatible with it, giving Superman a plan to stop Brainiac's scheme.
+
+With Luthor using a Kryptonian warsuit and aided by Brainiac 2.5 (who now possessed [[Lena Luthor#Modern version|Lena Luthor]]'s body), Superman and the rebuilt [[Kelex]] tricked Luthor into plugging himself into one of Brainiac 13's power conduits, claiming that Luthor would channel the energy through a Kryptonian matrix to destroy Brainiac 13. Aided by the revived Red Tornado, Superman managed to suck up the microscopic [[nanobots]] that composed Brainiac 13 and transfer them into the warsuit, leaving Brainiac 13 trapped in technology he couldn't understand or use. However, realizing his defeat was inevitable, Brainiac 13 seized his last chance for escape and gave control of Metropolis to Luthor in exchange for Lena/Brainiac 2.5, whom he forced to help him escape.
+
+He returned to [[Earth]] along with a teenage Lena (still possessed by Brainiac 2.5), during the ''Our Worlds at War'' crossover, in which Earth and its allies fought a multi-front war against [[Imperiex]]. Brainiac 13 claimed to be allying himself with Earth, but this proved to be part of a complex plan to regain control. Remaining behind the scenes for most of the conflict, at the moment when Imperiex's armor was cracked thanks to the sacrifices of [[Strange Visitor]] and [[Sergeant Rock|General Rock]], Brainiac 13 appeared on the battleground with [[Warworld]], absorbing Imperiex's energies and vowing to use them to rule everything.
+
+In a desperate gambit, Superman dove into the heart of the sun, thus gaining a massive power boost that enhanced his strength significantly. Rapidly realizing that Warworld couldn't be destroyed without releasing Imperiex and triggering another [[Big Bang]], Superman and the [[Martian Manhunter]] formed a brief telepathic link to explain their new plan. With [[Darkseid]]'s powers weakened, he would use [[Garth (comics)|Tempest]] as a magical focus for his abilities, empowered by the faith and strength of the Amazons, focusing the energy through [[John Henry Irons|Steel]]'s new 'Entropy Aegis' armor (which was created from a burned-out [[Imperiex]] probe), and, with Lex Luthor activating a temporal displacement weapon, Superman would subsequently push Warworld through a temporal [[boom tube]], sending both Imperiex's and Brainiac 13's consciousness back 14 billion years to the Big Bang, destroying both villains through a combined effort. With Brainiac 13's death, Brainiac 2.5 was expunged from Lena, who reverted to infancy, although the control discs remained.
+
+After the death of Brainiac 13, Superman discovered that a version of Krypton which he had visited via the [[Phantom Zone]] had in fact been created by Brainiac 13 as a trap for him. Having been defeated by Kryptonian technology, Brainiac 13 had traveled back in time to the real Krypton prior to its destruction, stolen the [[Eradicator (comics)|Eradicator matrix]] and [[Jor-El]]'s diaries, and created a false Krypton based on Jor-El's favorite period in history.<ref>{{Cite comic
+ | writer = [[Jeph Loeb|Loeb, Jeph]]
+ | cowriters = [[Joe Casey]], [[Mark Schultz]], ''et al.''
+ | penciller = [[Ed McGuinness|McGuinness, Ed]]
+ | copencillers = [[Duncan Rouleau]], [[Pasqual Ferry|Pascual Ferry]], ''et al.''
+ | inker = [[Cam Smith|Smith, Cam]]
+ | coinkers = Marlo Alquiza, Tom Nguyen, ''et al.''
+ | title = Superman: Return to Krypton
+ | date = 2004
+ | publisher = DC Comics
+ | location = New York
+ | id = ISBN 1401201946
+ }}</ref>
+
+Sometime later, Superman traveled into the future and battled '''Brainiac 12''', learning that everything Brainiac 13 had done in the past had been designed to ensure things reached the point where Brainiac 13 would be created. Brainiac 12's defeat before his upgrade apparently reversed the advances Brainiac 13 had made to Metropolis.<ref name="superman200">''[[Superman]]'' (vol. 2) #200 (February 2004)</ref>
+
+====The Insiders====
+{{main|Indigo (comics)}}
+[[Image:Brainiacs.jpg|right|Brainiac with his descendant [[Brainiac 8]], as they discuss his use of organics. Art by [[Matthew Clark]].|185px|thumb|right]]
+Around the time of the ''Graduation Day'' event, a future version of Brainiac, called '''Brainiac 6''', used his "granddaughter", '''Brainiac 8''' (aka [[Indigo (comics)|Indigo]]), to kill [[Donna Troy]] in order to ensure the fate of [[Colu]]. Indigo then infiltrated the [[Outsiders (comics)|Outsiders]] until she attacked the team, along with Brainiac 6 and his allies, [[Lex Luthor]], and a brainwashed [[Superboy (Kon-El)|Superboy]], who had attacked the [[Teen Titans]].{{Issue|date=October 2008}} In the ensuing battle, Indigo died and Superboy broke away from the brainwashing, while Luthor escaped. While his ship was destroyed, Brainiac's condition and whereabouts after the battle are unknown.{{Issue|date=October 2008}}
+
+It was also shown that Brainiac 6 utilized Luthor's secret cloning facilities to create a cyborg body for himself that resembled his original pre-''Crisis'' incarnation and that he planned to download his consciousness into a robot body resembling his pre-''Crisis'' metal body incarnation.
+
+Shortly after this storyline, the Teen Titans broke into one of Luthor's labs in order to procure a serum to save a dying Superboy and discovered many failed attempts in cloning a new body for Brainiac 6. The Titans then fought the so-called '''Brainiac Alpha''', a murderous, aborted [[Clone (genetics)|clone]] of Brainiac.{{Issue|date=October 2008}}
+
+====Silver Age Brainiac in the post-Crisis Universe====
+Later stories revealed that elements of Brainiac's pre-''Crisis'' history occurred in the post-''Crisis'' character's history prior to his possession of Milton Fine and his first encounter with [[Superman]]. The citizens of [[Kandor]] recall that Brainiac stole their city from [[Krypton (comics)|Krypton]], and not the alien wizard Tolos.<ref name="superman200"/> 
+
+''[[History of the DC Universe]]'' mentions his defeat by the [[Omega Men]], as seen in ''[[Crisis on Infinite Earths]]'' itself, and noted a second Brainiac was created on a laboratory on Earth two years later. In the ''[[Silver Age (DC Comics Title)|The Silver Age: JLA]]'' one-shot, the Injustice League discovered numerous shrunken alien cities found in Brainiac's abandoned spaceship.
+
+====Brainiac's updated mechanical form====
+Brainiac later re-appeared as a [[Swarm intelligence|swarm of interlinked nanotechnological units]]. Its operation was to sabotage a [[Waynetech#Wayne Technologies|Waynetech research facility]] accomplished by infecting [[Metallo]] with a [[computer virus]] and controlling him from orbit. [[Superman]] and [[Batman]] tracked Brainiac's signal to an orbital facility and attacked. Brainiac's nanoswarm body was destroyed, though he had infected the [[Metal Men]] during their previous encounter with Metallo. Brainiac proceeded to use them to acquire a prototype [[OMACs|OMAC unit]], which Bruce Wayne had developed through the use of Brainiac 13 nanotechnology. Superman and Batman destroyed the OMAC body with the aid of the Metal Men, after the Metal Men overcame Brainiac's control.{{Issue|date=October 2008}}
+
+[[Image:Action868.jpg|thumb|Brainiac on the cover of [[Action Comics]] #868. Art by [[Gary Frank]].]]
+
+====Return====
+{{main|Brainiac (story arc)}}
+Following recent revisions to Superman's continuity in ''[[Action Comics]]'' #850, Brainiac re-appeared in a self-titled five part story-arc in ''Action Comics''. A Brainiac robot probe arrives on Earth and battles Superman. After being defeated, the probe sends information about Superman's blood to the original Brainiac. [[Kara Zor-El|Supergirl]] then reveals to Superman that Brainiac shrunk the Kryptonian city of Kandor and placed it in a bottle, that Milton Fine was infected by nanite probes, (which later migrated into Doomsday, the Brainiac 2.5 android, and finally into Lena Luthor), sent by the "original" Brainiac to look for Superman and that, in current continuity, no-one has ever actually met the "real" Brainiac. Superman is soon captured by Brainiac after Superman finds him attacking an alien planet and preparing to steal a city from its surface.
+
+Superman escapes from his imprisonment and sees Brainiac emerging from his "bio-shell". This new version of Brainiac resembles a much larger and more muscular version of the original, pre-''Crisis'' Brainiac, and has motives similar to the ''[[Superman: The Animated Series]]'' incarnation of the character in that Brainiac travels the universe and steals the knowledge of various alien cultures, abducting and shrinking cities from each planet as samples, and then destroys the planet so that the value of the destroyed civilization's knowledge is increased. Brainiac's ship then travels to Earth and prepares to abduct the city of Metropolis. 
+
+Brainiac successfully steals Metropolis, and prepares to fire a missile that will destroy the sun, and the Earth itself. Supergirl stops the missile, while Superman battles Brainiac. Superman knocks Brainiac out of his ship, and into a swamp, where Brainiac is overwhelmed by the microscopic organisms covering his body. Superman uses this distraction to defeat Brainiac. While Superman frees the cities of Metropolis and Kandor, the villain launches a missile to the Kent farm in an act of spite. The farm is destroyed, and Jonathan Kent suffers a fatal heart attack because of it.<ref>''[[Action Comics]]'' #850-#855 (June-October 2008)</ref> Brainiac is brought to a top-secret military base, where the imprisoned Lex Luthor is assigned to discover his secrets. Luthor eventually manages to use Brainiac's connection to his ship to kill the soldiers assigned to watch him. Brainiac manages to free himself from Luthor's control, forcing him onboard the ship, and the two make their escape.<ref>''Adventure Comics'' #0</ref>
+
+===Other versions===
+The character has been depicted in various [[Continuity (fiction)|out-of-continuity]] stories, such as the ''[[JLA: Earth 2]]'' one-shot, where he is an organic--but still villainous--lifeform. He also appears in ''[[The Dark Knight Strikes Again]]'', ''[[Superman: Red Son]]'', ''JLA: Shogun of Steel'', and ''The Last Days of Krypton'' novel by author [[Kevin J. Anderson]].<ref> The Last Days of Krypton By Kevin J. Anderson. ISBN 006134074X</ref>
+
+==Powers and abilities==
+Brainiac has a "12th level intellect", allowing superhuman calculation abilities, enhanced memory, and advanced understanding of mechanical engineering, bio-engineering, [[physics]], and other theoretical and applied sciences, as well as extensive knowledge of various alien technologies.{{Fact|date=September 2009}} The character has created devices such as a [[force field]] belt<ref name="action242">''Action Comics'' #242 (July 1958)</ref> and a shrinking ray capable of reducing cities.<ref name="action242"/> Brainiac's advanced mental powers have shown him capable of [[Spiritual possession|possessing]] others, transferring his consciousness<ref>''Action Comics'' #544 (June 1983)</ref>, creating and manipulating computer systems, and exerting some control over time and space. [[John Byrne]]'s re-imagining of the character possessed [[telepathy]] and [[telekinesis]] that were further augmented by an implanted electrode head-piece. The most recent version of Brainiac possesses strength and durability to challenge Superman.<ref>''Action Comics'' #852 (August 2008)</ref>
+
+==In other media==
+===Television===
+[[Image:Brainiac(STAS).jpg|175px|thumb|Brainiac, as depicted in ''[[Superman: The Animated Series]]''.]]
+
+*Brainiac appears in the [[Filmation]] [[animated series]] ''[[The New Adventures of Superman (animated series)|The New Adventures of Superman]]''.
+
+*[[Ted Cassidy]] voices Brainiac in ''[[Challenge of the SuperFriends]]'', and [[Stanley Ralph Ross]] in ''[[Super Friends (1980)|Super Friends]]'' including ''[[Super Friends: The Legendary Super Powers Show]]'' and ''[[The Super Powers Team: Galactic Guardians]]''.
+
+*[[Corey Burton]] voices Brainiac in ''[[Superman: The Animated Series]]''; ''[[Justice League (TV series)|Justice League]]''; ''[[Justice League Unlimited]]''; and ''[[Static Shock]]'' two-part episode "A League of Their Own". This animated version of the character was ranked 94th in [[Wizard (magazine)|''Wizard'' magazine]]'s list of 100 Greatest Villains of all time.<ref>''Wizard'' #177</ref> Burton reprised his role as Brainiac in the ''[[Legion of Super Heroes (TV series)|Legion of Super-Heroes]]'' series.
+
+*[[James Marsters]] portrays Brainiac/Milton Fine in the ''[[Smallville (TV series)|Smallville]]'' television series. In this version he is called the Brain Interactive Construct, a Kryptonian device that can assume a Kryptonian form and powers as well as interfacing with Earth and Kryptonian computers and brains.
+
+===Film===
+*Brainiac is the main villain in the animated [[direct-to-video]] film ''[[Superman: Brainiac Attacks]]'', voiced by [[Lance Henriksen]].
+
+*Brainiac was considered a villain for ''[[Superman III]]'';<ref>[http://www.supermancinema.co.uk/superman3/general/script/s3_original_idea.pdf]</ref> and in the scrapped ''[[Superman Reborn]]'' and ''[[Superman Lives]]''. <ref>{{cite book |last=Hughes |first=David |title=The Greatest Sci-Fi Films Never Made | origyear=2002 |publisher= Titan Books|isbn=1-84023-428-8 |pages=176–179 |chapter=The Death of Superman Lives}}</ref>
+
+===Video games===
+*Braniaic appears in a number of [[Superman video games|''Superman'' video games]], including ''[[Justice League Heroes]]'',  and is confirmed to appear in the upcoming ''[[DC Universe Online]]''.<ref>[http://scrawlfx.com/2009/07/these-heroes-and-villains-will-be-in-dc-universe-online These Heroes and Villains Will Be In DC Universe Online | SCRAWL]</ref>
+
+===Music===
+*  The band [[The Dukes of Stratosphear]], an alter-ego for [[XTC]], released a song called "Brainiac's Daughter" on their 1987 album ''[[Psonic Psunspot]]''.
+
+*  In the list of people 'playing' in the song 'The Intro and The Outro' by The [[Bonzo Dog Doo-Dah Band]], Braniac is on [[banjo]].
+
+==See also==
+* [[List of Superman enemies]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://alankistler.squarespace.com/journal/2007/12/21/alan-kistlers-history-of-brainiac.html Alan Kistler's History Of Brainiac!] - Comic book historian Alan Kistler of MonitorDuty.com explores the entire history of this Superman villain all the way up to the present day, with in-depth discussions of why parts of the character's history were changed and how he's been interpreted in other media. 
+*[http://supermanica.superman.nu/wiki/index.php/Brainiac Supermanica: Brainiac]
+* [http://smallville.wikia.com/wiki/Brainiac Smallvile wiki's article about Brainaic]
+* [http://dcanimated.wikia.com/wiki/Brainiac DC Animated Universe article on Brainiac]
+* [http://dc.wikia.com/wiki/Brainiac DC Database article]
+
+{{Legion of Doom (Super Friends)}}
+{{Superman}}
+{{Justice League}}
+
+
+[[Category:1958 comics characters debuts]]
+[[Category:DC Comics aliens]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics robots]]
+[[Category:DC Comics supervillains]]
+[[Category:DC Comics telepaths]]
+[[Category:Extraterrestrial supervillains]]
+[[Category:Fictional artificial intelligences]]
+[[Category:Fictional characters who can duplicate themselves]]
+[[Category:Fictional computers]]
+[[Category:Fictional engineers]]
+[[Category:Fictional inventors]]
+[[Category:Fictional mass murderers]]
+[[Category:Fictional scientists]]
+[[Category:Fictional shapeshifters]]
+[[Category:Fictional technopaths]]
+[[Category:Kryptonians]]
+[[Category:Robot supervillains]]
+[[Category:Smallville characters]]
+[[Category:Fictional amorphous creatures]]
+[[Category:Fictional professors]]
+[[de:Brainiac (Comicfigur)]]
+[[es:Brainiac]]
+[[eu:Brainiac]]
+[[fr:Brainiac (comics)]]
+[[it:Brainiac]]
+[[he:ברייניאק]]
+[[nl:Brainiac (stripfiguur)]]
+[[no:Brainiac]]
+[[pt:Brainiac]]
+[[sc:Brainiac]]
+[[fi:Brainiac]]
+[[tl:Brainiac (komiks)]]

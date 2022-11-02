@@ -1,0 +1,44 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:glob-marvel.jpg|250px]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Glob
+|real_name=Joseph Timms
+|publisher=[[Marvel Comics]]
+|debut=''Incredible Hulk'' vol. 2 #121 (Nov 1969)
+|creators=[[Roy Thomas]] and [[Herb Trimpe]]
+|alliance_color=background:#cccccc
+|status=
+|alliances=[[Nick Fury's Howling Commandos|S.H.I.E.L.D. Paranormal Containment Unit]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}}
+
+'''Glob''' ('''Joseph "Joe" Timms''') is a fictional monster character from the [[Marvel Universe]] who first appeared in ''Incredible Hulk'' vol. 2 #121.  
+
+==Fictional character biography==
+'''Joe Timms''' was an escaped convict who drowned in a swamp bog following his escape.  Timms was transformed by radioactive waste into a strange slime-like shambling monster, named '''Glob''', with superhuman strength but with very little intelligence.   Shortly after his transformation, Glob was blown into fragments by an explosion, its brain reformed and psionically molded itself into an amnesiac blond haired man.  The man was later captured and mutated by Yagzan (leader of the crazed cult of Entropists) into a clay form version of Glob which was seemingly killed by Yagzan.  However, it was revealed that it was enslaved by the [[Collector (comics)|Collector]] and eventually rebelled against him with assistance of the [[Hulk (comics)|Hulk]] and [[Man-Thing]].  Glob was used as a weapon by the Entropists in an encounter with the Man-Thing.  However he ended up devolving back into the Glob.  He was then taken into [[S.H.I.E.L.D.]] custody where Glob was recruited in that organization's [[Nick Fury's Howling Commandos|Paramormal Containment Unit]].
+
+==Notes==
+There have been two other characters known as '''Glob''' in the Marvel Universe.  These include:
+*'''Glop''', who was known as Glob in ''Journey into Mystery'' vol. 1 #72.
+*'''Sumner Samuel Beckwith''', a geneticist who injected himself with an experimental super soldier serum was known as Glob.  It was apparently incinerated by the [[Man-Thing]]’s touch and first appeared in ''Incredible Hulk'' vol. 2 #389.
+
+==Bibliography==
+*''Giant-Size Man-Thing'' #1
+*''Incredible Hulk'' vol. 2 #121, 129, 197-199
+*''Nick Fury's Howling Commandos'' #1-6
+*''Official Handbook of the Marvel Universe A-Z'' #4
+===As Golden Brain===
+*''Giant-Size Man-Thing'' #1
+
+==External links==
+*http://www.marvunapp.com/Appendix2/globtimmshulk.htm
+
+[[Category:Fictional undead]]
+[[Category:Marvel Comics demons]]
+[[Category:Marvel Comics supporting characters]]
+
+{{Marvel-Comics-stub}}

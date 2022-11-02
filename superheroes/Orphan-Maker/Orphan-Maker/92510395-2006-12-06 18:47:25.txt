@@ -1,0 +1,29 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Orphan-Maker
+|real_name=Peter
+|species=[[Mutant (Marvel comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''X-Factor'' #31 (August 1988)
+|creators=[[Louise Simonson]]<br>[[Walt Simonson]]
+|alliance_color=background:#c0c0ff
+|alliances=[[Nanny (comics)|Nanny]], Lost Boys/Girls
+|powers=super-strength.
+|}}
+
+'''Orphan-Maker (Peter)''' is a fictional [[mutant (fictional)|mutant]] character in the [[Marvel Comics]] Universe. His first appearance was in ''X-Factor 1st. series #31''.
+
+The full story behind the Orphan-Maker has yet to be revealed. Apparently, Peter was held captive in [[Mister Sinister]]'s "orphanage" for some purpose, but Mr. Sinister had instead decided that Peter was too uncontrollable and must be killed. Somehow, the mutant/cyborg [[Nanny (comics)|Nanny]] discovered this and rescued Peter, making him into the first of her "Lost Boys (and Girls.)" Then, under Nanny's direction, Peter, as the Orphan-Maker, began to kill the parents of young mutants (and thus "orphaning" them)  and abducting them for Nanny.
+
+===Powers===
+Orphan-Maker is a mutant, but has yet to exhibit powers aside from those of his hi-tech battle suit. Also, he presumably has had his age frozen, so that he remains intellectually and physically a child.
+
+===Battle Suit===
+Orphan-Maker is highly resistant to most form of attack, and has certain reflective properties that allow him to deflect energy attacks such as [[Cyclops (comics)|Cyclops]]' optic blasts. Orphan-Maker is equipped with large guns that fire destructive energies. When he was outfitted with his new armour the suit had the capability of forming guns out of its hands.
+
+{{Marvel-villain-stub}}
+[[Category:X-Men villains]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics characters with superhuman strength]]

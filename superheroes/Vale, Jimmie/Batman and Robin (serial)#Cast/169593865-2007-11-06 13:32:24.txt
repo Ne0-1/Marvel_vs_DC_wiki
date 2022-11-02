@@ -1,0 +1,114 @@
+{{otheruses|Batman and Robin}} 
+
+{{Infobox Film
+| name           = Batman and Robin
+| image          = 
+| image_size     = 
+| caption        = 
+| director       = [[Spencer Gordon Bennet]]
+| producer       = [[Sam Katzman]]
+| writer         = [[George H. Plympton]]<br />[[Joseph F. Poland]]<br />[[Royal K. Cole]]<br />[[Bob Kane]] ''(character)''
+| narrator       = 
+| starring       = [[Robert Lowery]]<br />[[Johnny Duncan]]<br />[[Poni Adams|Jane Adams]]<br />[[Lyle Talbot]]<br />[[Ralph Graves]]<br />[[Don C. Harvey]]<br />[[William Fawcett]]<br />[[Leonard Penn]]
+| music          = [[Mischa Bakaleinikoff]]
+| cinematography = [[Ira H. Morgan]]
+| editing        = [[Dwight Caldwell]]<br />[[Earl Turner]]
+| distributor    = [[Columbia Pictures]]
+| released       = [[26 May]] [[1949]]
+| runtime        = 15 chapters (263 min)
+| country        = [[Image:Flag of the United States.svg|25px]] [[United States]]
+| language       = [[English language|English]]
+| budget         = 
+| preceded_by    = ''[[Batman (serial)|Batman]]'' ([[1943 in film|1943]])
+| followed_by    = 
+| website        = 
+| amg_id         = 1:143325
+| imdb_id        = 0041162
+}}
+
+'''''Batman and Robin''''' was a 15-chapter serial released in [[1949 in film|1949]] by [[Columbia Pictures]].
+
+[[Robert Lowery (actor)|Robert Lowery]] played Batman, while [[Johnny Duncan (actor)|Johnny Duncan]] played Robin.  Supporting players included [[Poni Adams|Jane Adams]] as [[Vicki Vale]] and veteran character actor [[Lyle Talbot]] as [[James Gordon (comics)|Commissioner Gordon]].  
+
+==Plot==
+
+The plot dealt with the Dynamic Duo facing off against the Wizard, a hooded villain whose identity remains a mystery throughout the serial until the end.
+
+==Cast==
+
+*'''[[Robert Lowery (actor)|Robert Lowery]]''' as '''[[Batman|Batman/Bruce Wayne]]'''
+*'''[[Johnny Duncan]]''' as '''[[Robin (comics)|Robin/Dick Grayson]]'''
+*'''[[Poni Adams|Jane Adams]]''' as '''[[Vicki Vale]]'''
+*'''[[Lyle Talbot]]''' as '''[[James Gordon (comics)|Commissioner Jim Gordon]]'''
+*'''[[Ralph Graves]]''' as '''Winslow Harrison'''
+*'''[[Don C. Harvey]]''' as '''Nolan''', a [[henchman]]
+*'''[[William Fawcett]]''' as '''Professor Hammil'''
+*'''[[Leonard Penn]]''' as '''Carter''', Hammil's valet and '''The Wizard'''
+*'''[[Rick Vallin]]''' as '''Barry Brown'''
+*'''[[Michael Whalen]]''' as '''Private Investigator Dunne'''
+*'''[[Greg McClure]]''' as '''Evans''', a [[henchman]]
+*'''[[House Peters Jr.]]''' as '''Earl''', a [[henchman]]
+*'''[[Jim Diehl]]''' as '''Jason''', a [[henchman]]
+*'''[[Rusty Wescoatt]]''' as '''Ives''', a [[henchman]]
+*'''[[Eric Wilton]]''' as '''[[Alfred Pennyworth]]''', (uncredited)
+
+==Production==
+
+The film's budget was even lower than the first one, and as a result, Batman drives a [[Mercury (automobile)|Mercury]] convertible.  However, the acting was regarded as better than the first. In particular, Lowery is regarded as being a much tougher Batman than his predecessor Wilson.{{Fact|date=July 2007}}
+
+The serial was released on [[DVD]] in [[2005]].
+
+==Chapters titles==
+# Batman Takes Over 
+# Tunnel of Terror 
+# Robin's Wild Ride 
+# Batman Trapped 
+# Robin Rescues Batman 
+# Target--Robin 
+# The Fatal Blast 
+# Robin Meets the Wizard 
+# The Wizard Strikes Back 
+# Batman's Last Chance 
+# Robin's Ruse
+# Robin Rides the Wind 
+# The Wizard's Challenge 
+# Batman vs. Wizard 
+# Batman Victorious
+
+== See also ==
+
+*[[List of film serials]]
+
+==External links==
+
+* {{imdb title|id=0041162|title=Batman and Robin}}
+* [http://community-2.webtv.net/CaptainHermes/B/index.html Dr Hermes Review of Batman and Robin]
+* [http://www.legionsofgotham.org/SERIALS.html Batman Serials & Interviews @ Legions Of Gotham]
+* [http://batmanytb.com/serials/index.php Serials @ Batman: Yesterday, Today, & Beyond]
+* [http://www.gothamcity.com.br Batman Site www.GothamCity.com.br]
+* [http://www.serialexperience.com/showarticle.php?fldRecNum=11 Batman and Robin article at Todd Gault's Movie Serial Experience]
+
+{{start box}}
+{{succession box 
+| title=[[Columbia Pictures|Columbia]] [[Serial (film)|Serial]] 
+| before=[[Bruce Gentry]] ([[1949 in film|1949]])
+| years=Batman and Robin ([[1949 in film|1949]])
+| after=[[Adventures of Sir Galahad]] ([[1949 in film|1949]])}}
+{{end}}
+
+{{Batman in popular media}}
+{{DC Comics films}}
+{{Columbia serials}}
+{{Americanfilms1940s}}
+
+[[Category:1949 films]]
+[[Category:American films]]
+[[Category:English-language films]]
+[[Category:Batman films]]
+[[Category:Film serials]]
+[[Category:Superhero films]]
+[[Category:Action films]]
+[[Category:Adventure films]]
+[[Category:Columbia Pictures films]]
+
+[[nl:Batman and Robin (filmserie)]]

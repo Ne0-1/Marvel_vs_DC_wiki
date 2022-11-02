@@ -1,0 +1,389 @@
+{{Infobox comics character  <!--Wikipedia:WikiProject Comics-->
+|character_name=Bane
+|image=Bane4s.png
+|converted=y
+|caption=Bane by [[Brian Bolland]].
+|real_name=
+|notables aliases=Antonio Diego
+|publisher=[[DC Comics]]
+|debut=''Batman: Vengeance of Bane'' #1 (January 1993)
+|creators=[[Chuck Dixon]]<br>[[Doug Moench]]<br>[[Graham Nolan]]
+|alliances= [[Suicide Squad]] <br> [[Secret Society of Super Villains]] <br>[[Secret Six (comics)|Secret Six]]
+|aliases=
+|powers=<ul><li>Peak human physical condition; [[List of comic book drugs#Venom|Venom]] enhances his physical abilities to [[superhuman]] levels</li>
+<li>Genius-level intellect</li>
+<li>Expert [[strategist]], [[Martial arts|martial artist]] and [[Escapology|escapologist]]</li></ul>
+|weaknesses= Losses strength if his venom supply is cut off     
+|cat=super
+|subcat=DC Comics
+|villain=y
+|sortkey=Bane
+}}
+
+'''Bane''' is a [[Character (arts)|fictional character]] that appears in [[comic book]]s published by [[DC Comics]]. The character first appeared in ''Batman: Vengeance of Bane'' #1 (January 1993), and was created by [[Chuck Dixon]], [[Doug Moench]] and [[Graham Nolan]]. Bane has been one of [[Batman|Batman's]] most intelligent and physically powerful foes. He is best known for breaking Batman's back in the "[[Batman: Knightfall#Knightfall|Knightfall]]" story arc.
+
+In most other media adaptations of the character, Bane is more simplistic and thuggish than his highly intelligent comic book counterpart.  The most notable example is in the 1997 film ''[[Batman & Robin (film)|Batman & Robin]]'', where the character is a mindless goon.  The character was portrayed by [[Jeep Swenson|Robert Swenson]] in the film.
+
+[[IGN]]'s list of the Top 100 Comic Book Villains Of All Time List ranked Bane as #34.<ref>[http://comics.ign.com/top-100-villains/34.html Bane is Number 34]</ref>
+
+==Publication history==
+According to his creators, Bane was originally intended as a "dark mirror" of the highly disciplined and multi-skilled [[Pulp magazine|pulp]] hero [[Doc Savage]],<ref name="WP - Bane">{{cite web|first=Suzanne|last=Tobin|url=http://www.washingtonpost.com/wp-srv/liveonline/03/regular/style/comics/r_style_comics051603.htm|title=Comics: Meet the Artist|quote=Actually, Chuck Dixon came up the idea for an evil 'Doc Savage' and I designed the character|accessdate=2008-05-10|date=2003-05-16|work=''[[Washington Post]]''}}</ref> 
+
+[[Chuck Dixon]], [[Doug Moench]], and [[Graham Nolan]] created the character for the ''[[Batman: Knightfall|Knightfall]]'' storyline, although it is unclear what elements were introduced by each of the two writers (Dixon and Moench). Dixon wrote the character's first appearance (''Vengeance of Bane''),<ref name="UGO - Bane">{{cite web|url=http://batman.ugo.com/roguesgallery/bane/default.asp|title=UGO's World of Batman - Rogues Gallery - Bane|accessdate=2005-05-10|publisher=[[UGO]]}}</ref> with art by Graham Nolan. It is also unclear how much input was provided by [[Dennis O'Neil|Denny O'Neil]] (veteran writer of the ''Batman'' books, then Group Editor for the ''Batman'' family of books, and author of the novel adaptation of ''Knightfall'').<ref name="WP - Bane"/><ref name="UGO - Bane"/> O'Neil had previously created Bane's hellish birthplace of Santa Prisca in ''[[Question (comics)|The Question]]'' and the drug [[List of comic book drugs#Venom|Venom]] in the storyline of the same name (published in the pages of ''Legends of the Dark Knight'' #16-20, and later reprinted as a trade paperback).<ref name="WP - Bane"/><ref name="UGO - Bane"/> In the pages of ''[[Azrael (comics)|Azrael]]'', O'Neil introduced Bane's perception of Venom as both an [[addiction]] and the weakness responsible for his earlier defeats. The link between Bane and King Snake was introduced by writer Scott Beatty.<ref name="Broken"/>
+
+==Fictional character biography==
+Bane was born in the fictional [[Santa Prisca (DC Comics)|Caribbean Republic of Santa Prisca]], in a prison called Peña Duro ("Hard Rock"). His father had been a revolutionary and had escaped Santa Prisca's court system. The corrupt government however decreed that his young son would serve out the man's life sentence, and thus Bane's childhood and early adult life are spent in the amoral penitentiary environment.<ref name="UGO - Bane"/><ref name="Broken"/> Though imprisoned, his natural abilities allow him to develop extraordinary skills within the prison's walls.  He reads as many books as he can get his hands on, builds up his body in the prison's [[gym]], and learns to fight in the merciless school of prison life.  Despite his circumstances, he finds teachers of various sorts during his incarceration, ranging from hardened convicts to an elderly [[Society of Jesus|Jesuit]] priest, under whose tutelage he apparently receives a classical education.  Bane murders this priest upon his return to Santa Prisca years later.  However, he commits his first murder at the age of eight, stabbing a criminal who wanted to use him to gain information about the prison.<ref name="Broken"/>  During his years in prison, Bane carries a teddy bear he calls Osito ([[Spanish language|Spanish]] for "little bear"), whom he considers his only friend.<ref name="dc-ency"/>  It is revealed that Osito has a hole in his back to hold a knife that Bane uses against anyone who bullies him.<ref name="UGO - Bane"/><ref name="Broken"/>
+
+Bane ultimately establishes himself as the "king" of Peña Duro prison.  The prison's controllers take note and eventually force him to become a test subject for a mysterious drug known as [[List of comic book drugs#Venom|Venom]]<ref name="Broken"/>, which had killed all other subjects.  It nearly kills him at first, but he survives and finds the drug vastly increases his physical strength, although he needs to take it every 12 hours (via a system of tubes pumped directly into his brain) or he would suffer debilitating [[Adverse drug reaction|side-effect]]s.<ref name="UGO - Bane"/><ref name="Broken"/>
+
+==="The Man who Broke the Bat"===
+[[Image:Bane-breaks-Batman-497pg21.png|175px|thumb|Bane breaks [[Batman]]'s back in a [[Comics vocabulary#Splash page|splash page]] from ''Batman'' #497 (July 1993). Art by [[Jim Aparo]].]]
+Years later, Bane escapes Peña Duro, along with several accomplices based on the [[Doc Savage#The Fabulous Five and Pat|Fabulous Five]] (his friends Trogg, Zombie, and Bird, all of whom are named after 1960s rock bands: [[The Troggs]], [[The Zombies]], and [[The Birds (band)|The Byrds]], and were designed to mimic three of Doc Savage's assistants [[Andrew Blodgett Mayfair|Monk]], [[Theodore Marley Brooks|Ham]], and [[John Renwick|Renny]]).<ref name="UGO - Bane"/><ref name="Broken"/>  His ambition turns to destroying Batman, whom he had heard tales of while serving his sentence.  He is fascinated with [[Gotham City]] because, like the prison, it is a place where fear rules: in this case, fear of Batman.  Bane is convinced that the demonic bat that haunted his dreams since childhood is a representation of the Batman.<ref name="UGO - Bane"/><ref name="Broken"/>
+
+Aware that a direct assault on Batman would be foolish, Bane destroys the walls of [[Arkham Asylum]], allowing its deranged inmates (including the [[Joker (comics)|Joker]], the [[Scarecrow (comics)|Scarecrow]], the [[Mad Hatter (comics)|Mad Hatter]], the [[Ventriloquist (comics)|Ventriloquist]], [[Firefly (comics)|Firefly]], [[Cavalier (comics)|Cavalier]], and [[Victor Zsasz]]) to escape into Gotham City, where Batman spends three months rounding them up.  Running himself to exhaustion, Batman returns to [[Wayne Manor]], where Bane awaits him, having determined Batman's [[secret identity]].  He fights Batman in the [[Batcave]], defeats him and delivers the final blow: he breaks Batman's back and leaves him [[paraplegic]], thereby having been the only man to have "Broken the Bat".<ref name="UGO - Bane"/><ref name="Broken"/>
+
+While Bane establishes himself as ruler of Gotham's criminal underworld, Bruce Wayne passes the mantle of Batman to Jean-Paul Valley, also known as [[Azrael (comics)|Azrael]].  As Batman, Jean-Paul grows increasingly violent, allowing the villain [[Abattoir (comics)|Abattoir]] to fall to his death.  Jean-Paul also refuses to recognize [[Robin (Tim Drake)|Robin]] as his partner.  Using a sophisticated combat suit in place of the traditional Batman uniform, he fights and defeats Bane at the end of the '''Knightfall''' arc, severing the tubes that pump the Venom into Bane's bloodstream, causing severe [[withdrawal]].  Valley then gives the weakened Bane a vicious beating, leaving him alive but broken.<ref name="UGO - Bane"/><ref name="Broken"/>
+
+===Legacy===
+Further following the events of '''Knightfall''', Bane recovers from his Venom addiction while serving time in Blackgate Prison, as seen in ''Vengeance of Bane II: The Redemption'' (1995).  He eventually escapes from prison and returns to Gotham, where he fights alongside Batman to take out a criminal ring that is distributing a Venom derivative to street-level thugs.  Following a victory over the criminals (and the revelation that behind it is the same doctor that performed the same surgery on Bane years earlier in Santa Prisca), Bane proclaims that he is "innocent" of his past crimes and urges Batman to stop hunting him.  He then leaves Gotham (without fighting Batman) to begin a search for his father.<ref>{{Cite comic
+ | Writer = [[Chuck Dixon|Dixon, Chuck]]
+ | Penciller = [[Graham Nolan|Nolan, Graham]]
+ | Inker = [[Eduardo Barreto|Barreto, Eduardo]]
+ | Story = 
+ | Title = Batman: Vengeance of Bane II
+ | Volume = 
+ | Issue = 
+ | Date = 1995
+ | Publisher = [[DC Comics]]
+ | Page = 
+ | Panel = 
+ | ID =
+ }}</ref>
+
+Bane's search brings him back to Santa Prisca (shown in the ''Bane of the Demon'' mini-series published in 1998).<ref name="Demon">{{Cite comic
+ | Writer = [[Chuck Dixon|Dixon, Chuck]]
+ | Penciller = [[Graham Nolan|Nolan, Graham]]
+ | Inker = [[Bill Sienkiewicz|Sienkiewicz, Bill]], [[Tom Palmer (comics)|Palmer, Tom]]
+ | Story = 
+ | Title = Batman: Bane of the Demon
+ | Volume = 
+ | Issue = 1
+ | Date = March 1998
+ | Publisher = [[DC Comics]]
+ | Page = 
+ | Panel = 
+ | ID =
+ }}</ref> In search of leads, Bane questions the Jesuit priest who had taught him while he was in Peña Duro.  The priest explains that there were four men who could possibly have been his father: a Santa Priscan [[revolutionary]], an [[United States|American]] doctor, an [[English people|English]] [[mercenary]], and a [[Switzerland|Swiss]] banker.  While searching for the Swiss man in [[Rome]], Bane encounters [[Ra's al Ghul]]'s daughter [[Talia al Ghul|Talia]].  Talia introduces Bane to her father, and eventually Bane impresses Ra's so much that he chooses Bane as his heir (an "honor" he had previously imparted on Batman).<ref name="Demon"/>
+
+Ra's al Ghul and Bane then launch a [[Plague (disease)|plague]] attack on Gotham in the "Legacy" storyline.  Bruce Wayne, again costumed as Batman, gets his rematch with Bane in ''[[Detective Comics]]'' #701 and finally defeats him in single combat.<ref>{{Cite comic
+ | Writer = [[Chuck Dixon|Dixon, Chuck]]
+ | Penciller = [[Graham Nolan|Nolan, Graham]]
+ | Inker = Hanna, Scott
+ | Story = Legacy, Part Six: Gotham's Scourge
+ | Title = [[Detective Comics]]
+ | Volume = 
+ | Issue = 701
+ | Date = September 1996
+ | Publisher = [[DC Comics]]
+ | Page = 32
+ | Panel = 
+ | ID =
+ }}</ref>
+
+Following the "Legacy" storyline, Bane appears in a one-shot publication called ''Batman: Bane'' (1997)<ref>{{Cite comic
+ | Writer = [[Chuck Dixon|Dixon, Chuck]]
+ | Penciller = [[Rick Burchett|Burchett, Rick]]
+ | Inker = Burchett, Rick
+ | Story = 
+ | Title = Batman: Bane
+ | Volume = 1
+ | Issue = 
+ | Date = May 1997
+ | Publisher = [[DC Comics]]
+ | Page = 
+ | Panel = 
+ | ID =
+ }}</ref> and fights Azrael in the "Angel and the Bane" storyline.<ref>''Azrael'' #36-40 (December 1997 - April 1998)</ref>  He then surfaces in the story arc "[[No Man's Land (comics)|No Man's Land]]", serving as an enforcer for [[Lex Luthor]] during Luthor's attempts to take control of Gotham under the cover of helping it to rebuild, but Batman convinces Bane to leave after a brief confrontation between Bane and the [[Joker (comics)|Joker]].  Following a fallout with Ra's al Ghul, Bane later embarks on a campaign to destroy [[Lazarus Pit]]s around the world, and in the process, encounters [[Black Canary]].<ref>{{Cite comic
+ | Writer = [[Chuck Dixon|Dixon, Chuck]]
+ | Penciller = [[Butch Guice|Guice, Butch]]
+ | Inker = Guice, Butch
+ | Story = The Suiter
+ | Title = [[Birds of Prey (comics)|Birds of Prey]]
+ | Volume = 
+ | Issue = 26
+ | Date = February 2001
+ | Publisher = [[DC Comics]]
+ | Page = 
+ | Panel = 
+ | ID =
+ }}</ref>
+
+==="Veritas Liberat"===
+According to the Jesuit priest that Bane speaks with in ''Bane of the Demon'' #1, there is a possibility that Bane's biological father is an American doctor.<ref name="Demon"/>  In researching this issue, Bane comes to the conclusion that he and Batman share Dr. [[Thomas Wayne]] as their biological father, with Dr. Wayne having apparently become close to Bane's mother during his time in Santa Prisca.  Bane alerts Batman to this possibility and during the time that the [[DNA]] tests are being performed, stays at [[Wayne Manor]] and fights alongside Batman on the streets of Gotham in the "Tabula Rasa" storyline.  Ultimately, it is revealed that Dr. Wayne is not Bane's father, and Bane leaves Gotham peacefully (and with Batman's blessing and financial backing) to pursue leads in the snowy mountains of [[Kangchenjunga]].<ref>{{Cite comic
+ | Writer = [[Scott Beatty|Beatty, Scott]]
+ | Penciller = [[Mike Collins|Collins, Mike]]
+ | Inker = [[Bill Sienkiewicz|Sienkiewicz, Bill]]
+ | Story = Tabula Rasa, Prologue: The Debvil You Know...
+ | Title = [[Batman: Gotham Knights|Gotham Knights]]
+ | Volume = 
+ | Issue = 33
+ | Date = November 2002
+ | Publisher = [[DC Comics]]
+ | Page = 22
+ | Panel = 
+ | ID =
+ }}</ref><ref>{{Cite comic
+ | Writer = [[Scott Beatty|Beatty, Scott]]
+ | Penciller = [[Roger Robinson|Robinson, Roger]]
+ | Inker = [[John Floyd|Floyd, John]]
+ | Story = Tabula Rasa, Part One: Skin Trade
+ | Title = Gotham Knights
+ | Volume = 
+ | Issue = 34
+ | Date = December 2002
+ | Publisher = [[DC Comics]]
+ | Page = 22
+ | Panel = 
+ | ID =
+ }}</ref><ref>{{Cite comic
+ | Writer = [[Scott Beatty|Beatty, Scott]]
+ | Penciller = [[Roger Robinson|Robinson, Roger]]
+ | Inker = [[John Floyd|Floyd, John]]
+ | Story = Tabula Rasa, Part Two: Pain and Ink
+ | Title = Gotham Knights
+ | Volume = 
+ | Issue = 35
+ | Date = January 2003
+ | Publisher = [[DC Comics]]
+ | Page = 22
+ | Panel = 
+ | ID =
+ }}</ref><ref>{{Cite comic
+ | Writer = [[Scott Beatty|Beatty, Scott]]
+ | Penciller = [[Roger Robinson|Robinson, Roger]]
+ | Inker = [[John Floyd|Floyd, John]]
+ | Story = Tabula Rasa, Part Three: Pix
+ | Title = Gotham Knights
+ | Volume = 
+ | Issue = 36
+ | Date = February 2003
+ | Publisher = [[DC Comics]]
+ | Page = 22
+ | Panel = 
+ | ID =
+ }}</ref>
+
+Bane eventually finds his father, who turns out to not be the El Jefe Del Pais of Santa Prisca<ref>''Catwoman'' #4, November 1993</ref> at all but rather the unscrupulous [[King Snake]], in the "Veritas Liberat" storyline.  Bane, with Batman looking on, helps foil King Snake's plans to unleash a powerful weapon upon the world.  Bane saves Batman from being shot by King Snake, but is mortally wounded in the process.  Batman then saves Bane by bathing him in a [[Lazarus Pit]], and leaves him with a clean slate and a new opportunity at life.<ref>{{Cite comic
+ | Writer = [[Scott Beatty|Beatty, Scott]]
+ | Penciller = [[Roger Robinson|Robinson, Roger]]
+ | Inker = [[John Floyd|Floyd, John]]
+ | Story = Veritas Liberat Chapter One: King of the Mountain
+ | Title = Gotham Knights
+ | Volume = 
+ | Issue = 47
+ | Date = January 2004
+ | Publisher = [[DC Comics]]
+ | Page = 22
+ | Panel = 
+ | ID =
+ }}</ref><ref>{{Cite comic
+ | Writer = [[Scott Beatty|Beatty, Scott]]
+ | Penciller = [[Roger Robinson|Robinson, Roger]]
+ | Inker = [[John Floyd|Floyd, John]]
+ | Story = Veritas Liberat Chapter Two: Family Reunion
+ | Title = Gotham Knights
+ | Volume = 
+ | Issue = 48
+ | Date = February 2004
+ | Publisher = [[DC Comics]]
+ | Page = 22
+ | Panel = 
+ | ID =
+ }}</ref><ref>{{Cite comic
+ | Writer = [[Scott Beatty|Beatty, Scott]]
+ | Penciller = [[Roger Robinson|Robinson, Roger]]
+ | Inker = [[John Floyd|Floyd, John]]
+ | Story = Veritas Liberat Chapter Three: The Redeemer
+ | Title = Gotham Knights
+ | Volume = 
+ | Issue = 49
+ | Date = March 2004
+ | Publisher = [[DC Comics]]
+ | Page = 22
+ | Panel = 
+ | ID =
+ }}</ref>
+
+===''Infinite Crisis'' & ''One Year Later''===
+
+In ''[[Infinite Crisis]]'' #7, Bane is shown fighting alongside the villains during the Battle of Metropolis.  During the battle, he breaks the back of the hero [[Judomaster]], killing him.  No reason was given for his actions in #7, though in ''Infinite Crisis'''s collected edition, one of the many changes made to the original series was Bane saying "I finally know who I am.  I am ''Bane''.  I ''break'' people." while breaking Judomaster's back.<ref>{{cite web |first=Ray |last=Tate |url=http://www.comicsbulletin.com/reviews/11468883691605.htm |title=''Infinite Crisis'' #7 Review - Line of Fire Reviews|accessdate=2008-05-22 |date=2006-05-05 |publisher=[[Comics Bulletin]]}}</ref>
+
+Bane resurfaces in the ''[[One Year Later]]'' continuity in ''JSA Classified'' #17-18 searching for the [[Hourman|Hourmen]] (Rex and Rick Tyler), asking them for help.  To win their trust, he tells them how, prior to the Battle of Metropolis, he returned to his homeland to put an end to the drug lords' government, in the process discovering that a new, more addictive strain of Venom had been created.  In his furious carelessness to wipe out the drug trade, he was captured, and reimplanted with the cranial tubes, hooked to the new Venom, but now unable to shake off his addiction without dying from the withdrawal.  Bane was forced to work as an enforcer for the drug cartel, unable to escape.  Believing that Bane sought Rex Tyler's expertise in [[chemistry]], Rick lets him approach his father, only to discover that the story is a ruse.  Bane, who had never truly been addicted to Venom, had in fact wiped out the drug lords, and destroyed every research note on Venom.  He discovered in the process both strains of Venom derived from Rex Tyler's early research on Miraclo.  He discovers from the Tylers that no written notes exist of Rex's work, captures Rex, and steals Rick's equipment, planning to kill Rex and force Rick to take the last of the new Venom, living forever as an addict.  Rick manipulates Bane into using Miraclo and demolishing the building as he and his father escape, burying the mercenary in the rubble of the very same Santa Priscan penitentiary where his story began.<ref>{{Cite comic
+ | Writer = [[Tony Bedard|Bedard, Tony]]
+ | Penciller = [[Scott McDaniel|McDaniel, Scott]]
+ | Inker = [[Andy Owens|Owens, Andy]]
+ | Story = The Venom Connection Part 1
+ | Title = [[JSA: Classified]]
+ | Volume = 
+ | Issue = 17
+ | Date = November 2006
+ | Publisher = [[DC Comics]]
+ | Page = 
+ | Panel = 
+ | ID =
+ }}</ref>
+
+Eventually, Bane resurfaces in Santa Prisca, leading the country to [[democracy|democratic]] elections.  Upon discovering that the elections were rigged by [[Rainbow Raiders|Computron]], he uses his influence to enforce [[martial law]], plunging the country into a [[civil war]].  Computron offers information to [[Checkmate (comics)|Checkmate]] on who ordered him to rig the elections in exchange for their help in escaping the country. [[Fire (comics)|Fire]] and Judomaster's son, [[Thomas Jagger]], are sent on the mission, with Jagger debating whether or not to seek revenge for his father's murder.  He fights Bane in order to allow Fire to escape, defeating him easily, but chooses not to kill him.<ref>{{Cite comic
+ | Writer = [[Tony Bedard|Bedard, Tony]]
+ | Penciller = [[Scott McDaniel|McDaniel, Scott]]
+ | Inker = [[Andy Owens|Owens, Andy]]
+ | Story = The Venom Connection, Part 2 of 2
+ | Title = JSA: Classified
+ | Volume = 
+ | Issue = 18
+ | Date = December 2006
+ | Publisher = [[DC Comics]]
+ | Page = 22
+ | Panel = 
+ | ID =
+ }}</ref>
+
+At the end of the mini series ''Suicide Squad: Raise the Flag'', [[Amanda Waller]] recruits Bane into the Squad.  In [[Outsiders (comics)|''Outsiders'']] #50, appears once more to be wearing the tubing system to apply Venom.<ref>{{Cite comic
+ | Writer = [[Tony Bedard|Bedard, Tony]]
+ | Penciller = [[Matthew Clark|Clark, Matthew]], [[Ron Randall|Randall, Ron]]
+ | Inker = [[Art Thibert|Thibert, Art]]
+ | Story = You Killed the Outsiders
+ | Title = [[Outsiders (comics)|Outsiders]]
+ | Volume = 
+ | Issue = 50
+ | Date = November 2007
+ | Publisher = [[DC Comics]]
+ | Page = 32
+ | Panel = 
+ | ID =
+ }}</ref>
+
+In ''[[Salvation Run]]'' #2, Bane was tricked by his fellow squad members, and sent to the prison planet.<ref>{{Cite comic
+ | Writer = [[Bill Willingham|Willingham, Bill]]
+ | Penciller = [[Sean Chen|Chen, Sean]]
+ | Inker = [[Walden Wong|Wong, Walden]]
+ | Story = Take This World and Shove It!
+ | Title = [[Salvation Run]]
+ | Volume = 
+ | Issue = 2
+ | Date = February 2008
+ | Publisher = [[DC Comics]]
+ | Page = 32
+ | Panel = 
+ | ID =
+ }}</ref> In ''Salvation Run'' #3, Bane remains with Lex Luthor's faction after Joker's faction rebels against Luthor's leadership.  He recently attacked [[Thunder and Lightning (comics)|Thunder and Lightning]] when they were attempting to feed [[Martian Manhunter]].<ref>{{Cite comic
+ | Writer = [[Matthew Sturges|Sturges, Matthew]]
+ | Penciller = [[Sean Chen|Chen, Sean]]
+ | Inker = [[Walden Wong|Wong, Walden]]
+ | Story = All You Need Is Hate
+ | Title = Salvation Run
+ | Volume = 
+ | Issue = 3
+ | Date = March 2008
+ | Publisher = [[DC Comics]]
+ | Page = 32
+ | Panel = 
+ | ID =
+ }}</ref>
+
+In ''Superman/Batman'' #53-#56, reveals Bane is trading his Venom supplies with drug lords across the globe.  One of his shipments includes a trip to Gotham.  Batman, who was temporarily endowed with Superman's powers, responded by attacking Bane at his home.  Not only was The Dark Knight able to easily defeat the villain, the hero nearly killed him with his far superior strength.  Bane survived his injuries due to the enhanced stamina from his Venom supplies.  
+
+===Secret Six===
+Since September 2008, Bane has appeared as a regular character in the ongoing [[Secret Six (comics)|Secret Six]] series. In the first issue, Bane is depicted as a [[stoic]] [[devil's advocate]] for the group, offering alternative points of view for both [[Deadshot]] and [[Catman (comics)|Catman]] on the subject of love.<ref>''Secret Six'' #1</ref>  He is later shown to have an almost father-like concern for [[Scandal (comics)|Scandal Savage]]'s well-being.<ref>''Secret Six'' #3</ref>  Although this is largely played for laughs in the early issues, the first arc's final issue displays the depth of Bane's affection.  When the Six are attacked by an army of supervillains, a wounded (and seemingly dying) Bane's concern for Scandal results in him taking Venom to save her.<ref>''Secret Six'' #7</ref>  Bane is later shown to have recovered from his ordeal, appearing in Gotham City with Catman and Ragdoll in an attempt to stem some of the chaos caused by the apparent death of Batman. During the team's several escapades, Bane reveals both a deep respect for his onetime adversary and a painful yearning to assume the mantle of Batman, telling a trio of rescued citizens to tell people that it was the Batman who saved them.  Bane ultimately gives his blessing to Dick Grayson, praying that "God help him."<ref>''Secret Six'' #9</ref>
+
+==Powers and abilities==
+Bane is highly intelligent; in "''Bane of the Demon''", Ra's al Ghul says that Bane "has a mind equal to the greatest he has known."<ref name="Demon"/> In prison, he taught himself various scientific disciplines equal to the level of understanding of leading experts in those fields.<ref name="Broken"/> He knows six active languages and at least two additional arcane and [[extinct language|dead ones]], those mentioned are Spanish, English, [[Urdu]], [[Persian language|Persian]], and [[Latin]].<ref name="Demon"/> The "''Bane of the Demon''" storyline reveals that he has a [[Eidetic memory|photographic memory]]. Within one year, he is able to deduce Batman's [[secret identity]].<ref name="Demon"/>
+
+He is also highly devious and a superb strategist and tactician.<ref name="Broken">{{Cite comic | Writer = [[Dennis O'Neill|O'Neill, Dennis]], [[Bob Kane|Kane, Bob]] | Artist = Various others | Story = Broken Bat | Title = [[Batman: Knightfall]] | Volume =  | Issue =  | Date = 1993 | Publisher = [[DC Comics]] | Page =  | Panel =  | ID = 1563891425 }}</ref> In prison, Bane also invented his own form of [[calisthenics]], [[meditation]], and a unique fighting style.<ref name="Demon"/> Usage of Venom enhances his physical abilities, including his strength, and healing process to [[superhuman]] levels. However, it is shown that Bane is physically stronger than Batman, even when not using Venom.<ref name="dc-ency">{{Citation  | last = Wallace  | first = Dan | author-link =  | contribution = Bane | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 36  | publisher = [[Dorling Kindersley]]  | place = London  | year = 2008 | isbn = 0-7566-4119-5}}</ref><ref>http://www.comicvine.com/bane/29-6129/</ref><ref>http://comicbookdb.com/character.php?ID=525</ref>
+
+==In other media==
+===Television===
+===DC Animated Universe===
+[[Image:Banex2.jpg|175px|thumb|Bane attempts to break [[Batman]]'s back in his (self-titled) debut episode, "Bane", in ''[[Batman: The Animated Series]]''.]]
+* Bane made his animated debut in ''[[Batman: The Animated Series]]'' episode "Bane", even though producers were reluctant to use him as they felt his comic incarnation was too [[gimmick]]y.<ref name="BTAS"/> Voiced with a strong South-American accent by [[Henry Silva]] for the episode and his subsequent appearances, this Bane is an articulate professional assassin hired by criminal [[Rupert Thorne]] to assassinate Batman. Bane accepts the job as he believes defeating Batman will cement his reputation within the underworld, and aid in his own aspiration to take over Gotham afterward. Whereas Bane's mask in the comics completely conceals his face, this version sports openings for the nose and mouth in the style of a traditional [[wrestling mask]]. This [[luchador]]-like incarnation is distinctly less formidable than the comic iteration, even when using Venom. During the climatic battle, Bane tries to replicate the feat of breaking Batman's back like in the comics, but Batman manages to escape by causing Bane's pump module to malfunction with one of his batarangs.  This overdoses Bane's drug usage and allows Batman to defeat him.   
+[[Image:Bane-comics-DCAU-TNBA.jpg|175px|thumb|Bane's redesigned appearance in ''[[The New Batman Adventures]]'' episode, "Over The Edge".]]
+* Henry Silva reprises his role as Bane for ''[[The New Batman Adventures]]'' episode "Over the Edge". After [[Barbara_Gordon#Animation|Barbara Gordon]] is killed in action as Batgirl, Batman's secret identity is exposed and he becomes a fugitive from the law, hunted down by her father, [[Commissioner Gordon]]. Unable to bring Batman to justice through traditional means, Gordon grants Bane an early release from prison in exchange for assistance in apprehending the Dark Knight. Bane and Batman have an especially brutal brawl on the rooftops of Gotham. When Bane notes Batman's desperate status, he asks if he's willing to fight to the death, to which Batman replies, "It makes no difference now". The fight ends on the top of the [[Gotham City Police Department|GCPD]] headquarters, with Bane preparing to kill Batman. Gordon tries to stop him since killing was not part of their agreement, but Bane quickly turns on him. Before Bane can kill Gordon, Batman launches Bane into the [[Bat-signal]], severely electrocuting him. Batman reaches over the edge of the roof to save Gordon, who is barely hanging on, but Bane temporarily regains consciousnesses and uses the last of his strength to knock them over the side before collapsing. As Batman and Gordon fall to their deaths, it is revealed that the entire episode was merely a [[Scarecrow (comics)|Scarecrow]]-induced nightmare suffered by Barbara.
+
+* Bane also appears in the ''[[Superman: The Animated Series]]'' episode "Knight Time". When Batman mysteriously disappears, Superman travels to Gotham to find the Dark Knight.  The Man of Steel ends up donning a Batsuit to keep everyone from realizing that Bruce Wayne and Batman are the same person as their disappeareances are reported around the same time.    Superman investigate the city with [[Tim Drake]], the newest Robin. Their investigation brings them into an encounter with the Riddler, Mad Hatter, and Bane, who were earlier conspiring to kill Batman. Bane gets into a fistfight with Superman, still dressed as Batman. With Riddler's help, Bane drops a massive statue on Superman, appearing to have finally killed Batman. As Bane gloats about how disappointed he is with their anti-climatic showdown, Superman suddenly lifts the statue off of himself and throws it at Bane. Superman then pummels Bane with his bare hands and finally knocks him out. An amused Robin notes to a baffled and horrified Riddler that 'Batman' had "been working out".
+
+* This version of Bane makes his final animated appearance in the ''[[Batman Beyond]]'' episode "The Winning Edge". When an influx of Venom hits the streets of future Gotham, [[Terry McGinnis]], Wayne's [[successor]] to the Batman mantle, suspects Bane as the supplier and tracks him down. Instead, McGinnis discovers that a lifetime of Venom usage has taken it's toll on the once formidable villain; he's now a frail old man, confined to a wheelchair and relies on an oxygen tank to breathe. Terry surmises that the new Venom supply did not originate from him. Bane has no dialogue in this episode nor makes any further appearances.<ref>http://www.dcauresource.com/profiles/bad/b/bane.php</ref>.
+
+===The Batman===
+[[Image:Bane TB Traction.jpg|right|thumb|175px|{{Descript-tv-capt|[[The Batman (TV series)|The Batman]]|Traction|Sept 18, 2004|grammer=y|AN=Bane and [[Batman]]}}]]
+* A different version of Bane is depicted in ''[[The Batman (TV series)|The Batman]]'' (2004-08), voice-played by [[Joaquim de Almeida]] in "''Traction''", as an assassin hired by Gotham mob bosses, and by [[Ron Perlman]] in all of Bane's other subsequent appearances.<ref name="Traction">{{cite web |first=Adam |last=Beechen |url=http://www.tv.com/the-batman/traction/episode/357600/recap.html |title=''The Batman: Traction'' Recap |accessdate=2008-05-11|date=2004-09-25 |publisher=[[TV.com]]}}</ref><ref name="Team">{{cite web|first=Joseph|last=Kuhr |url=http://www.tv.com/the-batman/team-penguin/episode/864504/recap.html|title=The Batman: Team Penguin Recap |accessdate=2008-05-11 |date=2006-09-30 |publisher=TV.com}}</ref> In the season 3 episode "Brawn" Joker uses Bane's Venom. Bane is later seen as one of the many supervillains captured by the vigilante Rumor in the episode "Rumors" and again in "The Batman/Superman Story" as one of several villains hired by [[Lex Luthor]] to capture [[Superman]]. This version of Bane is seen possessing an athletic body before pumping himself with Venom. After doing so, he transforms into a huge hulking brute with red skin. One of the best ways batman beats bane in that form is by using his exoskeleton-like bat bot.
+
+===Batman: The Brave and the Bold===
+* Bane appears in the [[cold opening]] to the [[Batman: The Brave and the Bold]] episode "Menace of the Conqueror Caveman" and is voiced by [[Michael Dorn]]. This version of Bane is physically frail before pumping himself with Venom, much like his Batman & Robin version. When Batman and [[Wildcat_(comics)#Television|Wildcat]] find an un-Venomed Bane at a train station, Wildcat quickly mocks the supposed menace for his scrawny physique and asks why Batman needed his help for such a weakling. Bane then activates his Venom pump and soon towers over the crime fighters before knocking Batman out. Wildcat manages to defeat Bane by grabbing a Batarang and cutting Bane's Venom tubes, which fall onto train tracks and electrocute him.
+
+===Film===
+[[Image:RobertSwenson-Bane.JPG|thumb|175px|[[Robert Swenson]] as Bane in ''[[Batman & Robin (film)|Batman & Robin]]'' (1997).]]
+* Bane appears in the [[live-action]] movie ''[[Batman & Robin (film)|Batman and Robin]]'' (1997). Unlike his comics counterpart, this incarnation has a real name, Antonio Diego (portrayed by Michael Reid MacKay), a diminutive [[serial killer]] serving life in prison. Somehow [[Floronic Man|Dr. Jason Woodrue]] acquired him for his illegal experiments in producing super-soldiers using Venom. He was the sole-surviving test subject and turned into the muscular Bane (portrayed by [[Robert Swenson]]). Rather than being the devious, intelligent villain of the comics, this version is an inarticulate thug who serves as the [[lackey]] of [[Poison Ivy (comics)|Poison Ivy]], one of the main villains of the film. Bane is barely even capable of speech and uses growls, roars, and snarls for most of his communication; the only word he can seem to say clearly is his own name, Bane. Despite this, he is still muscular, wears a slight variation of his classic mask, and is still superhumanly strong. This depiction of the character was one of many aspects of the film which received harsh criticism from fans and critics alike.<ref name="DVD review">{{cite web|first=Dustin |last=McNeill |url=http://www.dvdactive.com/reviews/dvd/batman-and-robin.html |title=Batman & Robin (US - DVD R1) in Reviews |quote=The only one I can recommend watching is the biography on Bane. Paul Dini of  ''Batman: The Animated Series'' and Denny O'Neil of DC Comics tell us just how badly Bane was written for the movie making the only thing missing here an apology from screenwriter Akiva Goldsman. |accessdate=2008-05-23 |publisher=DVD Active}}</ref>
+
+* Bane also appears in ''Batman: The Animated Series'' spin-off [[direct-to-video]] animated movie, ''[[Batman: Mystery of the Batwoman]]'' (2003), played by voice-actor [[Héctor Elizondo]]<ref name="BTAS">{{cite video |date=2004 |title=Batman: The Animated Series |medium=DVD |publisher=Warner Bros. Home Video}}</ref><ref name="Batwoman">{{cite video |date=2003 |title=Batman: Mystery of the Batwoman |medium=DVD |publisher=Warner Bros. Home Video}}</ref><ref>http://www.imdb.com/title/tt0346578/</ref> and this time sporting a Spanish accent. In this film, he is once again hired by Rupert Thorne along with the [[Penguin (comics)|Penguin]] and Carlton Duquesne but this time he is hired to kill [[Batwoman]] (as opposed to Batman). Towards the end of the film, Bane falls into a pit of fire after having his Venom supply cut off during a fight with Batman. He is presumed killed, but his appearance in ''Batman Beyond'' makes it clear that he survived.
+
+* Bane appears in the animated movie ''[[Superman/Batman: Public Enemies]],'' but has no dialogue and merely grunts. Bane, along with several numerous supervillains, tried to collect the $1 billion dollar reward money on Superman. He briefly fights Batman but despite being one of his major dangerous enemies he was defeated in seconds when Batman used his batarang by severing his Venom tube and knocks him out with a single kick.
+
+===Video games===
+Bane appears as a villain in several Batman based video games:
+
+* He is a [[Boss (video game)|boss character]] in the 1998 ''Batman & Robin'' [[Batman & Robin (video game)|video game adaptation]],<ref>{{cite web |first=Joe |last=Fielder |url=http://www.gamespot.com/ps/adventure/batmanrobin/review.html?sid=2546753&om_act=convert&om_clk=gsupdates&tag=updates;title;1|title=''Batman & Robin'' for Playstation Review  |accessdate=2008-05-11 |date=1998-08-06 |publisher=Game Spot}}</ref> and ''[[Batman: Chaos in Gotham]]'' (2001).<ref>http://au.media.gameboy.ign.com/media/014/014474/imgs_1.html</ref>
+
+* In ''[[Batman: Rise of Sin Tzu]]'', [[Héctor Elizondo]] reprised his role as Bane.<ref name="Rise of Sin Tzu">{{cite web|url=http://xbox.gamespy.com/xbox/batman-rise-of-sin-tzu/6328p1.html |title=Gamespy review for ''Batman: Rise of Sin Tzu'' |accessdate=2008-05-22 |publisher=Game Spy}}</ref>.
+
+* Bane also appears in ''[[Lego Batman: The Video Game]]'' as an enemy of Batman and a follower of the Penguin.<ref>''Game Informer'' features a two-page gallery of the many heroes and villains who appear in the game with a picture for each character and a descriptive paragraph. See "''LEGO Batman'': Character Gallery," ''Game Informer'' 186 (October 2008): 93.</ref>  Ben of ''Game Informer'' writes that "this game is filled with cool playable characters... Nightwing, Joker, Killer Croc, Bane, Catwoman, and Man-bat only scratch the surface of the game's catalog of great characters."<ref>Ben, "''LEGO Batman'': Time to build something new," ''Game Informer'' 187 (November 2008): 116.</ref> He is a playable character and has the super strong ability, toxic immunity, and a special "back breaker" move.
+
+* Bane is featured in the 2009 ''[[Batman: Arkham Asylum]]'' video game, voiced by [[Fred Tatasciore]]. 
+
+* Bane is set to appear in the upcoming video game ''[[DC Universe Online]]''.<ref>http://au.media.pc.ign.com/media/754/754948/imgs_4.html</ref>
+
+===Radio===
+[[Peter Marinker]] plays Bane in the radio adaption of Batman Knightfall.
+
+===Toys===
+[[Kenner]] released different versions of Bane for each of its ''Batman: The Animated Series'', ''Batman & Robin'', and ''Legends of the Dark Knight'' action figure lines.<ref>{{cite web |url=http://web.archive.org/web/20040805151956/www.legionsofgotham.org/BTASbane.jpg |title=Image of Bane action figure |accessdate=2008-05-23 |publisher=Legions of Gotham}}</ref><ref>{{cite web|url=http://web.archive.org/web/20050325105028/www.legionsofgotham.org/LOTDKlethalimpactbane.jpg|title=Image of Bane action figure|accessdate=2008-05-23|publisher=Legions of Gotham}}</ref> D.C. Direct has released two Bane figures.  One as the character appeared in the ''Batman'' "''Knightfall''" comic series as well as in the "''Secret Files & Origins''" series.  Each came packaged with a figure stand specific to that particular series, with no other accessories.<ref name="Direct">{{cite web |url=http://www.timewarner.com/corp/newsroom/pr/0,20812,1028892,00.html |title=Warner Bros. Consumer Products Soars into Gotham City with Batman for 2005 American International Toy Fair |accessdate=2008-05-23 |date=2005-02-17 |publisher=[[Time Warner]]}}</ref> [[Mattel]] has included two versions of Bane in their D.C. Superheroes line of action figures.  Both versions share the same mold and only vary in paint applications.  The first version is set apart by black pants while the second (2007) version has pants decorated with a camouflage pattern.  Both versions of this figure came with a small "Osito" accessory, although many of the first version seem to have been shipped to stores without.<ref name="Direct"/> In 2007, [[Lego|LEGO]] released a Bane mini-figure in a Bat-Tank building set, alongside a Riddler mini-figure.<ref>{{cite web |url=http://batman.lego.com/en-us/Products/Batman/7787.aspx |title=LEGO.com Batman products - Batman 7787 - The Bat-Tank: The Riddler  and Bane's Hideout |accessdate=2008-05-23 |publisher=[[Lego]]}}</ref>
+
+==See also==
+*[[List of Batman Family enemies]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*[[DCDatabase:Bane|Bane]] at the DC Database Project
+*{{gcdb|type=character|search=Bane|title=Bane}}
+*{{comicbookdb|type=character|id=525|title=Bane}}
+*{{imdb character|0000208|Bane}}
+
+{{The Batman}}
+
+{{DEFAULTSORT:Bane (Comics)}}
+[[Category:1993 comics characters debuts]]
+[[Category:DC Comics characters with accelerated healing]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics martial artists]]
+[[Category:Fictional assassins]]
+[[Category:Fictional henchmen]]
+[[Category:Fictional linguists]]
+[[Category:Fictional mercenaries]]
+[[Category:Fictional prisoners]]
+[[Category:Fictional drug dealers]]
+[[Category:Film characters]]
+
+[[bg:Бейн]]
+[[de:Bane]]
+[[es:Bane (cómic)]]
+[[fr:Bane (personnage de comics)]]
+[[it:Bane (fumetto)]]
+[[nl:Bane (DC)]]
+[[ja:ベイン]]
+[[pl:Bane (Batman)]]
+[[pt:Bane]]
+[[ru:Бэйн (Бэтмен)]]
+[[fi:Bane]]
+[[sv:Bane]]
+[[tl:Bane (komiks)]]

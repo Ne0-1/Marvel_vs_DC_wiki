@@ -1,0 +1,34 @@
+{{Superherobox|
+image=[[Image:Siena_Blaze.jpg]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Siena Blaze
+|real_name=Siena Blaze
+|species=[[Mutant (Marvel comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=Uncanny X-Men Annual #17 (1993)
+|creators= [[Scott Lobdell]]<br>[[Jason Pearson]]<br>[[Tom Grummett]]
+|alliance_color=background:#ffc0c0
+|status=Deceased
+|alliances=
+|previous_alliances=[[Upstarts (comics)|Upstarts]], [[Exiles (Malibu Comics)|All New Exiles]]
+|aliases=
+|relatives=
+|powers=Electromagnetic energy generation, flight, teleportation.
+|}}
+
+'''Siena Blaze''' is a [[Mutant (Marvel comics)|mutant]] villain in the [[Marvel Comic]]'s [[X-Men]] comics series. While she was a villain in the Marvel universe, she became a hero in the [[Ultraverse]].
+
+==Ficitional character biography==
+Siena Blaze originally started out as a member of the thrillseeking [[Upstarts (comics)|Upstarts]], a group of mutants who hunted other mutants for sport. She participated in several confrontations with members of the [[X-Men]], such as [[Nightcrawler (comics)|Nightcrawler]] and [[Rachel Summers|Marvel Girl]] and an incident in Antarctica where she battled Cyclops, Professor Xavier and Storm. Later she was transported to the Ultraverse along with [[Juggernaut (comics)|Juggernaut]] and [[Reaper (Marvel Comics)|Reaper]], where she was a member of the heroic [[Exiles (Malibu Comics)|Exiles]] (not to be confused with the current [[Exiles (Marvel Comics)|team of reality hopping heroes]]). Surprisingly, Siena adapted to the role of hero quite well. She felt a strong attraction to team leader [[Warstrike (comics)|Warstrike]]. Eventually she, along with Juggernaut and Reaper, were returned to the [[Earth-616|Marvel Universe]]. Afterwards Siena vanished from sight for years, until she met her apparent death at the [[Weapon X]] Neverland [[concentration camp]].
+
+==Powers and abilities==
+Siena Blaze has the power to fire deadly force blasts of [[electromagnetic]] energy. When she fires these blasts, she literally rips apart large sections of the Earth's magnetic field, and causes localized ecological disasters. Siena does not seem to care that using her blasts could destroy the ecosystems of the entire planet. She also can manipulate magnetic fields to inhibit other mutants from [[Teleportation|teleporting]]. She can surround herself with an aura of magnetic energy with equal polarity to the Earth's [[geomagnetic]] field, causing the Earth to repel her upwards, and enabling her to fly via [[magnetic levitation]]. She can also teleport vast distances by turning herself into magnetic energy, and turning back at a desired location.
+
+
+{{DEFAULTSORT:Blaze, Siena}}
+
+[[Category:Marvel Comics characters who can fly]]
+[[Category:Marvel Comics characters who can teleport]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]

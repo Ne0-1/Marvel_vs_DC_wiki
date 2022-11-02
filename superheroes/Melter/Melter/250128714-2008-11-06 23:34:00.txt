@@ -1,0 +1,65 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Melter.jpg|240px]]
+|caption=The '''Melter'''. Art by [[Bob Layton]].
+|comic_color=background:#ff8080
+|character_name=Melter
+|real_name=Bruno Horgan
+|publisher=[[Marvel Comics]]
+|debut=''[[Tales of Suspense]]'' #47<br>(November 1963)
+|creators=[[Stan Lee]] & [[Steve Ditko]]
+|alliance_color=background:#c0c0ff
+|alliances=[[Masters of Evil]]<br/>[[Death Squad (comics)|Death Squad]]
+|aliases= 
+|powers=Technology that melts iron; eventually all matter
+|}}
+
+The '''Melter''' is a [[fictional character]] that appears in [[comic books]] published by [[Marvel Comics]].  The character first appears in ''[[Tales of Suspense]]'' #47 (Nov. 1963) and was created by [[Stan Lee]] and [[Sam Rosen (comics)|Sam Rosen]].
+
+==Publication history==
+The Melter [[debuted]] in issue #47 of ''[[Tales of Suspense]]'' (Nov. 1963), and proved popular enough to then feature as a member of the first version of the [[Masters of Evil]] in ''[[Avengers (comics)|Avengers]]'' #6 (Jul. 1964). The character later appeared in issues #15 - 16 (Apr. - May 1965), #54 (Jul. 1968) and #83 (Dec. 1970) of the same title. Several more battles against [[Iron Man]] followed in ''[[Tales of Suspense]]'' #89 - 90 (May - Jun. 1967), ''Iron Man'' #92 (Nov. 1976), #123-127 (June - Oct. 1979), and #166 (Jan. 1983).
+
+The Melter also featured in the 1986 [[crossover]] storyline involving the ''[[Scourge of the Underworld]]'', a [[vigilante]] who assassinates numerous minor supervillains. The Melter is murdered in ''[[Avengers (comics)|Avengers]]'' #263 (Jan. 1986). The character has also made posthumous appearances in ''[[She-Hulk|Sensational She-Hulk]]'' #53 (Jul. 1993); ''[[Marvels]]'' #2 (Feb. 1994), ''[[Fantastic Four]]'' #405 (Oct. 1995), ''X-O Manowar/Iron Man in Heavy Metal'' #1 (Sep. 1996), ''[[Avengers (comics)|Avengers]]'' #8 - 9 (Jun. - Jul. 1997), and the inter-company crossover ''Avengers/JLA'' #4 (Dec. 2003).
+
+==Fictional character biography==
+'''Bruno Horgan''' is an industrialist who specializes in providing munitions to the United States government. Horgan is driven into [[bankruptcy]] when a government safety inspection team proves that he is using inferior materials. The defense contracts are awarded to his competitor — industrialist and inventor Anthony Stark, who is secretly the superhero [[Iron Man]]. Horgan then discovers that one of his faulty devices is capable of casting a beam capable of "melting" anything composed of [[iron]]. Horgan redesigns the device so that it can be strapped to his chest, and after donning a costume adopts the alias the Melter. Horgan then becomes a professional criminal and embarks on a campaign of industrial sabotage against Stark Industries, and comes into conflict with Iron Man. Despite damaging Iron Man's armor, the Melter is defeated when Stark builds a temporary duplicate armor made out of [[aluminium]] for their rematch. <ref>''Tales of Suspense'' #47 (Nov. 1963)</ref>
+
+The Melter is then coerced by master villain [[Baron Zemo]] to join the original supervillain [[Masters of Evil]] in a bid to destroy the superhero team the [[Avengers (comics)|Avengers]], of which Iron Man is an original member. The Masters of Evil, however, are defeated twice and the Melter is incarcerated. <ref>''Avengers'' #6 (Jul. 1964) + 15 (Apr. 1965) </ref> The Melter then coerces Tony Stark to improve his melting weapon, and battles Iron Man again.<ref>''Tales of Suspense'' 89 - 90 (May - Jun. 1967)</ref> The Melter later joins another version of the Masters of Evil formed by the robot [[Ultron]], but they are defeated when betrayed by the [[Black Knight (Dane Whitman)|Black Knight]]. <ref>''Avengers'' #54 - 55 (Jul. - Aug. 1968)</ref> Some months later the Masters of Evil accidentally encounter the Avengers once more, and during the battle are defeated when surprised by several female super-heroines. During the fight, the Melter is overpowered by the [[Wasp (comics)|Wasp]].<ref>''Avengers'' #83 (Dec. 1970)</ref>
+
+The Melter — along with fellow supervillains [[Blacklash|Whiplash]] and [[Man-Bull]] — is later recruited by other-dimensional villain the [[Black Lama]] to form the team the [[Death Squad (comics)|Death Squad]] and fight Iron Man to claim the Black Lama's prize. They are, however, defeated. <ref>''Iron Man'' #72 (Jan. 1974)</ref> The Melter improves his melting weapon again, and steals a prototype nuclear weapon, and then has one more brief encounter with Iron Man before disappearing into obscurity. <ref>''Iron Man'' #92 (Nov. 1976)</ref> Several years later criminal mastermind [[Justin Hammer]] hires the Melter to join an army of supervillains and battle Iron Man, who subsequently beats the Melter twice in a matter of days. <ref>''Iron Man'' #123 - 124 (Jun. - Jul. 1979) + 127 (Oct. 1979)</ref>
+
+The Melter later attacked Iron Man at Stark International, <ref>''Iron Man'' #166 (Jan. 1983)</ref> and joined a large group of superhuman criminals attempting to kill the [[Thing (comics)|Thing]]. <ref>''Marvel Two-in-One'' #96 (Feb. 1983)</ref>
+
+The Melter is then incarcerated for several years, and upon his release plans to attack the Avengers, but is shot dead by the assassin the [[Scourge of the Underworld]] disguised as the Melter's laboratory assistant. <ref>''Avengers'' #263 (Jan. 1986)</ref>
+
+==Powers and abilities==
+Bruno Horgan invents a device which projected a form of energy that loosened the bonding forces between the atoms or molecules of substances, causing these substances to change from solid form to liquid form, thus melting. The Melter's first melting beam could affect [[iron]], while a later version could affect almost any substance. The melting effect did not appear to involve heat, but when used on a human being, the beam inflicts burns as opposed to truly melting. The Melter uses several of these devices, including hand-held pistol versions and a device worn on his torso in a harness. His later designs could liquefy flesh, wood, stone and any form of metal, with an effective range of 300 yards, and could operate for several hours before the battery unit needed charging. Horgan possesses extensive knowledge of weapons and munitions.
+
+==Other media==
+===Television===
+The Melter appears in ''[[The Marvel Superheroes]]''. 
+
+===Video games===
+The Melter appears in the ''[[Iron Man (video game)|Iron Man]]'' video game, and is voiced by [[Gavin Hammon]]. 
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{refbegin}}
+*{{comicbookdb|type=character|id=8521|title=Melter}}
+{{refend}}
+
+==External links==
+*[http://www.marvel.com/universe/Melter Melter ] at the Marvel Universe
+*{{imdb character|0085817|Melter}}
+
+
+{{Iron Man}}
+
+[[Category:1963 comics characters debuts]]
+[[Category:Fictional businesspeople]]
+[[Category:Fictional criminals]]
+[[Category:Marvel Comics supervillains]]
+
+[[fr:Melter]]
+[[pt:Magma (Marvel Comics)]]

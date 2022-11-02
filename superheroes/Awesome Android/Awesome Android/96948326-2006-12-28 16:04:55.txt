@@ -1,0 +1,55 @@
+{{protected}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[image:Awesomeandy.jpg|230px]]
+|caption=Panel from ''[[She-Hulk]]'' vol. 1, #6 (Oct. 2004).<br>Art by [[Paul Pelletier]].
+|character_name=Awesome Android / Awesome Andy
+|alter_ego=
+|publisher=[[Marvel Comics]]
+|debut=''Fantastic Four'' vol. 1 #15 (June 1963)
+|creators=[[Stan Lee]]<br>[[Jack Kirby]]
+|alliances=[[Goodman, Lieber, Kurtzberg & Holliway]], Heavy Metal
+|aliases=
+|powers=Superhuman strength, ability to mimic surfaces and textures by touching them
+|}}
+
+'''The Awesome Android''', later known as '''Awesome Andy''', is a [[fictional character|fictional]] [[Artificial life|artificial lifeform]]<!--created using DNA; that makes it lifeform, that just mechanical or electronic android--> in the [[Marvel Comics]] [[Marvel Universe|universe]].  First appearing in ''[[Fantastic Four]]'' #15 (June 1963), it was created by writer [[Stan Lee]] and artist and co-plotter [[Jack Kirby]].
+
+==Publication history==
+Following its debut as "the [[Mad Thinker]]'s Awesome Android", the creature returned in ''Fantastic Four'' #28 (July 1964) in an encounter with both the title [[superhero]] team and the [[X-Men]].
+
+In ''[[Avengers (comics)|The Avengers]]'' #288 (Feb. 1988), the mimicking robot called the [[Super-Adaptoid]] found and reprogrammed the abandoned Awesome Android to serve under him in a group of robotic and similar beings, '''Heavy Metal'''. Following that group's attack of [[Avengers Mansion]], [[Namor, the Sub-Mariner]] removed the Awesome Android's head, leaving the body to sink into the ocean. He was next seen, salvaged and having gained sentience, as an office worker in ''[[She-Hulk]]'' Vol. 1 (2004-2005).
+
+==Fictional character biography==
+[[image:Ff15.jpg||left|thumb|200px|''[[Fantastic Four]]'' #15. Cover art by [[Jack Kirby]] and [[Dick Ayers]].]]
+The Awesome Android is a synthesis of [[ape]] [[DNA]] and [[unstable molecules]] incorporated into an almost indestructible android body with a [[microcomputer]] and a [[solar-power]] source. A creation of the Mad Thinker, the Android has confronted the Fantastic Four,<ref>''Fantastic Four'' Vol. 1, #15 (June 1963)</ref> the [[X-Men]],<ref>''Fantastic Four'' Vol. 1, #28 (July 1964)</ref> [[Rom (comics)|Rom]],<ref>''Rom'' Vol. 1, #14 (Jan. 1981)</ref> and the [[Avengers (comics)|Avengers]].<ref>''The Avengers'' Vol. 1, #286-289 (Feb.-May 1988)</ref>.
+
+In the mid-2000s, having gained sentience and becoming independent of his criminal creator, the Android  resurfaced as an office [[gofer]] at [[Goodman, Lieber, Kurtzberg & Holliway]], the law firm at which Jennifer Walters, a.k.a. She-Hulk, works. The firm had legally emancipated the Android from the Mad Thinker, making it an American citizen under the name "Awesome Andy" and officially considering him male. Communicating by writing on a chalkboard hung around his neck, Andy became a general office worker for the firm, finding this more fulfilling than doing the Mad Thinker's bidding.
+
+== Powers and abilities ==
+The Android is tall, hulking creature with a malleable body and a head it can set as rectangular or as a cube. It has with no eyes, nose, or visible ears. The Android can mimic certain abilities after touching its opponent. It has, for instance, taken on the strength and epidermis of the [[Thing (comics)|Thing]], the ice-creating power of [[Iceman]], and the silver shell of the Spaceknight [[Rom (comics)|Rom]]. The Android can also emit close-range blasts of [[gale|gale-force wind]] from its mouth.
+
+Its weakness is a [[fail safe]] built into it by the Mad Thinker: a collection of [[Nervous system|nerve]] [[Ganglion|ganglia]] underneath the left armpit that if struck will cause the Android to shut down.<ref>''Avengers'' Vol. 1, #286</ref>
+
+==Personality==
+As the Awesome Android, the creature was a [[tabula rasa]] with no personality. After gaining sentience and being dubbed Awesome Andy, he has shown that he cares deeply for his friends and coworkers and is willing to fight to protect them.  He also has several interests and hobbies, such as [[tai chi]] and baseball &mdash; specifically, as a [[New York Mets]] fan. As the Mad Thinker did not give him the ability to speak, Awesome Andy communicates through hand-gestures, body language, and a chalkboard that he has strung around his neck. 
+
+Despite his lack of facial features and a voice, Andy can be emotional at times, having displayed feelings for co-worker Mallory Book, who was left confined to a wheelchair when the law offices were destroyed. He also was visibly upset after seeing her flirt with the [[Two-Gun Kid]]. Andy subsequently began a relationship with Book, but later discovered Book's feelings for him were the result of his having inadvertently absorbed the [[pheromone]]-like powers of the alien [[Starfox]]. Not wanting the relationship to be based on false, manipulated emotions, Andy shut off the Starfox power, after which Book ended the "relationship".
+
+==Alternate versions==
+===Ultimate Marvel===
+In the [[Ultimate Marvel]] universe, the android is only referred to as Robbie Burchill, the younger brother of Rhona Burchill (this [[parallel universe]]'s Mad Thinker). When they were young, Rhona took part of Robbie's [[brain]] matter and transplanted it into hers in order to increase her brain power. This left Robbie [[mental retardation|mentally handicapped]]. It has not been revealed what other processes Rhona performed on Robbie to turn him into the android-like creature he became.  Robbie possesses superhuman strength and his body is made of a black, malleable metal which he can use to create various weapons.
+
+==Footnotes==
+<div class="references-small">
+<references/>
+</div>
+
+==References==
+*[http://www.marvel.com/universe/Awesome_Andy Awesome Andy Bio on Marvel.com]
+*[http://www.marveldirectory.com/individuals/m/madthinkerawesomeandroid.htm Marvel Directory: Awesome Android]
+*[http://www.marveldatabase.com/wiki/index.php/Awesome_Andy Awesome Andy] at Marvel Database Wiki
+*[http://www.marvunapp.com/Appendix2/heavymetal.htm The Appendix to the Handbook of the Marvel Universe: Heavy Metal]
+
+[[Category:Fictional robots|Awesome Android]]
+[[Category:Marvel Comics robots|Awesome Android]]
+[[Category:Fantastic Four supporting characters|Awesome Android]]

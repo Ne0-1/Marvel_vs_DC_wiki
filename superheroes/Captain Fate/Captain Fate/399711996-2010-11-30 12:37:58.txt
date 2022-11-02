@@ -1,0 +1,36 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Captain Fate
+|real_name=Jebediah Fate
+|species=human ghost; magic-user
+|publisher=[[Marvel Comics]]
+|debut=''[[Man-Thing]] #13'' (Jan 1975)
+|creators=[[Steve Gerber]] and [[John Buscema]]
+|alliance_color=background:#c0c0ff
+|alliances=Serpent's Crown 
+|aliases=
+|powers=
+|}} 
+
+'''Captain Fate''' is a fictional character in the [[Marvel Universe]].
+
+==Publication history==
+Captain Fate first appeared in ''[[Man-Thing]]'' #13-14 (January-February 1975), and was created by [[Steve Gerber]] and [[John Buscema]].
+
+The character subsequently appears in ''Man-Thing'' #7-8 (November 1980, January 1981) and ''[[Captain Britain & MI13]]'' #12 (2009).
+
+==Fictional character biography==
+Captain Fate is a 200-year-old Earth sea pirate cursed to sail the spaceways aboard his ship the ''Serpent’s Crown'' forever by the wizard/satyr Khordes.  Captain Fate and his crew came into conflict with the [[Man-Thing]] but were defeated.{{Issue|date=June 2009}}  Captain Fate later allied with [[Thog]] the Nether-Spawn,{{Issue|date=June 2009}} and then [[Dracula (Marvel Comics)|Dracula]].{{Issue|date=June 2009}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix2/captainfatemt.htm|Captain Fate}}
+
+{{Steve Gerber}}
+
+[[Category:Characters created by Steve Gerber]]
+[[Category:Comics characters introduced in 1975]]
+[[Category:Marvel Comics supervillains]]
+
+[[tl:Captain Fate]]

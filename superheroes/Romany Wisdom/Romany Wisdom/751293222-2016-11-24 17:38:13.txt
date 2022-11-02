@@ -1,0 +1,45 @@
+{{Infobox superhero <!--Wikipedia:WikiProject Comics-->
+|character_name = Romany Wisdom
+|image          = 
+|caption        = 
+|publisher      = [[Marvel Comics]]
+|debut          = ''Pryde and Wisdom'' #2<br />(October 1996)
+|creators       = [[Warren Ellis]] (writer)<br />[[Terry Dodson]] (artist)
+|alter_ego      = 
+|full_name      = 
+|species        = <!-- optional -->
+|homeworld      = <!-- optional -->
+|alliances      = <!-- optional -->
+|partners       = <!-- optional -->
+|supports       = [[Pete Wisdom]]
+|aliases        =  <!-- optional: actual identities the character uses, not nicknames -->
+|powers         = 
+|cat            = 
+|subcat         = Marvel Comics
+|sortkey        = Wisdom, Romany
+}}
+'''Romany Wisdom''' is a [[fictional]] [[supporting character]] published by [[Marvel Comics]]. She first appeared in ''Pryde and Wisdom'' #2 (October 1996), and was created by [[Warren Ellis]] and [[Terry Dodson]]. 
+
+==Fictional character biography==
+Romany Wisdom is the sister to X-Men ally [[Pete Wisdom]], and a former agent of the Royal Metropolitan Police's Department of Unusual Death (Department F.66).<ref>{{marvunapp|http://www.marvunapp.com/Appendix/dpfs.htm|Department F.66}}</ref>  Born in England, nothing is known about Romany's childhood after her mother is killed, as she had cut ties with her family. Following those years, Romany meets and falls in love with Joseph Chapman, aka the third [[Union Jack (comics)|Union Jack]]. They break up under vague circumstances, but remain friends. She continues to help Jack during his super-hero adventures, whenever her expertise is needed. She is an obsessed history fanatic, and knows much about ancient cultures, even such secret races as vampires.<ref>As seen in ''Union Jack'' v1 #1-3 (1998-1999)</ref>
+
+In order to make headway in a murder investigation, Pete is forced to contact his estranged family - visiting his borderline-senile father, Harold, to get a professional profiling on the killer, and his sister, Romany, who can translate the symbols on the bodies. With Romany's help, they determine that the murderer believes himself to be [[Cain and Abel|Cain]], son of [[Adam]], and is composing a letter directly to God on the corpses he has left behind, asking for forgiveness and to be allowed admittance into heaven. Ascertaining the killer's identity as John Gideon, a deranged officer from Department F.66, they track him down just as he makes contact with Amanda Jardine... and just after Harold Wisdom had taken it upon himself to hunt down Gideon.<ref>As seen in ''Pryde and Wisdom'' #1-3 (1996)</ref>
+
+Later, Romany is revealed to have been transformed into the cyborg head of a secret global conspiracy, which in her words is "so high up that they may as well be the right hand of God", which conducts clandestine experiments with human beings using alien technology in order to create parts to build a techno-organic world engine.<ref>As seen in ''X-Force'' v1 #115 (April 2001)</ref> She has yet to be seen since then, and is presumed to have died after her brother's particular incarnation of X-Force destroyed the entire facility in England, though she has stated that no matter what happened, "the work would always continue".
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{Refbegin}}
+* {{gcdb|type=character|search=Romany+Wisdom|title=Romany Wisdom}}
+* {{comicbookdb|type=character|id=41373|title=Romany Wisdom}}
+{{Refend}}
+
+==External links==
+* [http://marvel.wikia.com/Romany_Wisdom_(Earth-616) Romany Wisdom] at the [[Marvel Database Project]]
+* [http://www.comicvine.com/romany-wisdom/29-6283/ Romany Wisdom] at Comicvine
+
+{{DEFAULTSORT:Wisdom, Romany}}
+[[Category:Comics characters introduced in 1996]]
+[[Category:Fictional police officers]]

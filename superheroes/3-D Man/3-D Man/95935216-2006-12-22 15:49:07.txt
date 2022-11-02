@@ -1,0 +1,20 @@
+{{Supersupportingbox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:MS_04302005_0008.jpg|215px]]
+|caption=Art by [[Frank Quitely]]
+|comic_color=background:#ff8080
+|character_name=3-D Man
+|publisher=[[Marvel Comics]]
+|debut=Marvel Premiere #35 (April 1977)
+|creators=[[Roy Thomas]]<br>[[Jim Craig]]
+|full_name=Charles "Chuck" Chandler
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=Harold "Hal" Chandler (brother)
+|powers=The strength, speed, stamina, durability, and reflexes of three extraordinarily 'dude-like' men<br>Ability to sense Skrulls
+|}}
+
+
+
+{{Marvel-Comics-stub}}

@@ -1,0 +1,44 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image =[[Image:Jes1.jpg]]
+| caption = Preview, by Michael Ryan
+| comic_color = background:#ff8087
+| character_name = Preview
+| real_name = Jessica "Jessie" Vale
+| species=[[mutant (fictional)|Human Mutant]]
+| publisher = Marvel
+| debut = ''New X-Men'' (first series) #12
+| creators = Nunzio DeFilippis, Christina Weir, Michael Ryan
+| alliance_color = background:#ffc0c0
+| status = [[Decimation (comics)|Depowered]], now possibly deceased
+| alliances = 
+| previous_alliances = [[Xavier Institute]], Paragons 
+| aliases = 
+| 
+relatives =Sister: Sarah Vale/"Network" (deceased)
+| powers = Powerless. Formerly, possessed short-term precognition powers
+}}
+
+'''Preview''' is an American mutant in the [[Marvel Universe]]. '''Jessica Vale''' had the ability of short-term precognition, usually minutes in advance. Preview first appeared in ''New X-Men: Academy X'' #12. She was a member of the Paragons team at the [[X-Mansion|Academy]].  Preview proved to be difficult to the Paragons because she chose to not participate when she knew the outcome of certain actions, such as the Paragons' failure in a school wide competition.
+
+Preview is one of scores of mutants who lost their powers after the events of the ''[[House of M]]''. 
+
+{{spoiler}}
+As revealed in New X-Men #32, Preview is alive. In this issue, a memorial is held at the school for the departed. Jessie's sister Sarah is mentioned as one of the deceased, yet Jessie's name is not, confirming the fact that Jessie did not die during Stryker's ambushed assault on the bus carrying depowered X-kids in New X-Men #23. This has also been confirmed by New X-Men writer Chris Yost.
+
+==Trivia==
+
+In the ''New X-Men: Academy X: Yearbook Special'', Preview is voted "Biggest Drama Queen."
+
+==Bibliography==
+
+*''New X-Men: Academy X: Yearbook Special'' by Nunzio DeFilippis and Christina Weir
+*''New X-Men: Academy X'' #12, 14
+
+==External links==
+*[http://www.uncannyxmen.net/db/article/showquestion.asp?faq=4&fldAuto=229&page=7'''UncannyX-Men.net'''-Yearbook Entry on the Paragons]
+
+{{Marvel-Comics-stub}}
+
+[[Category:X-Men supporting characters]]
+[[Category:Marvel Comics mutants]]
+[[Category:Fictional characters with precognition]]

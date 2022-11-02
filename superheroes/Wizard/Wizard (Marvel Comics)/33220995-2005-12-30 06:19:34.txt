@@ -1,0 +1,31 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Mu wizard.jpg|130px]]
+|caption='''Wizard'''<br> John Byrne, Art
+|comic_color=background:#ff8080
+|character_name=Wizard
+|real_name=Bentley Wittman
+|publisher=[[Marvel Comics]]
+|debut=''[[Strange Tales]]'' #102
+|creators=[[Stan Lee]]<br>[[Larry Lieber]]<br>[[Jack Kirby]]
+|alliance_color=background:#c0c0ff
+|status=Active
+|alliances=[[Frightful Four]]
+|previous_alliances=
+|aliases=The Wingless Wizard
+|relatives= Cole Wittman (daughter), Salamandra (ex-wife)
+|powers=Super-genius.<br>Anti-Gravity Disks, Body Armor, and Power Gloves.
+|}}
+
+'''The Wizard''' (also known as ''the Wingless Wizard'') is a [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]].  His first appearance was in Strange Tales #102.
+
+==Character biography==
+The Wizard began his career as a celebrated physicist, inventor, and stage magician.  He amassed a sizeable fortune creating specialty high-tech items for the wealthy.  Eventually he got bored and chose the challenge of defeating first the [[Human Torch (Johnny Storm)|Human Torch]] and then the entire [[Fantastic Four]].  A chance teaming with the [[Trapster]] and the [[The Sandman (Marvel Comics)|Sandman]] inspired the Wizard to form the [[Frightful Four]].  When he encountered the then-amnesiac [[Medusa (comics)|Medusa]] wandering [[Europe]], he convinced her to join his group.  After his split with the Trapster, the Wizard decided to return to being a solo act.  He has since suffered the humiliation of being defeated by [[Franklin Richards]].
+
+The Wizard wants power, glory, and most of all, a challenge.  When he realized that [[Mister Fantastic|Reed Richards]] had amassed a treasure trove of high-tech items in the [[Baxter Building]], the Wizard decided he had to have them.  Many of his plots for the Frightful Four revolved around his fixation on plundering the Baxter Building.
+
+==Powers and abilities==
+Wittman is a scientific genius, particularly in the fields of [[physics|applied physics]] and [[particle physics|sub-atomic particles]].  His ''Anti-[[Gravity]] Discs'' can lift several hundred pounds each, and can be remotely controlled via relays in his armor.  His gauntlets (alternatively referred to as ''Power Gloves'' or ''Wonder Gloves'') can unleash potent [[electricity|electrical]] blasts or use directed gravitational fields to increase his strength.  His armor provides him with protection from assault, and devices in his helmet allow him to [[mind control|control the minds]] of others.
+
+[[Category:Frightful Four members|Wizard, The]]
+[[Category:Fictional scientists|Wizard, The (Marvel Comics)]]
+[[Category:Fantastic Four villains|Wizard, The]]

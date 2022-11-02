@@ -1,0 +1,112 @@
+{{redirect|Spider Woman}}
+{{Infobox comics set and title
+<!--Wikipedia:WikiProject Comics-->
+<!--Character section-->
+|code_name           = Spider-Woman
+|image               = Spiderwomanvolthree1.jpg
+|imagesize           = <!-- default 250 -->
+|caption             = Clockwise from bottom; Jessica Drew, Julia Carpenter, Charlotte Witter and Mattie Franklin along with Madame Web. Cover to ''Spider-Woman'' (v3) #1; art by Bart Sears.
+|publisher           = [[Marvel Comics]]
+|debut               = ''[[Marvel Spotlight]]'' #32
+|debutmo             = February
+|debutyr             = 1977
+|debutyr1            = 1984
+|debutyr2            = 1998
+|debutyr3            = 1999
+|creators            = [[Archie Goodwin (comics)|Archie Goodwin]]<br>[[Sal Buscema]]<br>[[Jim Mooney]]
+|characters          = [[Spider-Woman (Jessica Drew)|Jessica Drew]]<br />[[Julia Carpenter]]<br />[[Spider-Woman (Mattie Franklin)|Mattie Franklin]]<br />[[Spider-Woman (Charlotte Witter)|Charlotte Witter]]
+|seealso=
+
+<!--Series section--> 
+<!-- |title               = --> 
+|cvr_image           = Spiderwoman1.png
+|cvr_caption         = ''Spider-Woman'' #1 (April, 1978).<br> <br>Art by [[Joe Sinnott]].
+|schedule            = 
+|format              = '''(vol 1 & 3)'''<br>[[Ongoing series]]<br>'''(vol 2)'''<br>[[Limited series]]
+|limited             = y
+|ongoing             = y
+|Superhero           = y
+|pub_series          = '''(all)'''<br>Marvel Comics
+|1stishhead          = vol 1
+|1stishyr            = 1978
+|1stishmo            = April
+|endishyr            = 1983
+|endishmo            = June
+|1stishhead1         = vol 2
+|1stishyr1           = 1993
+|1stishmo1           = November
+|endishyr1           = 1994
+|endishmo1           = February
+|1stishhead2         = vol 3
+|1stishyr2           = 1999
+|1stishmo2           = July
+|endishyr2           = 2000
+|endishmo2           = December
+|issues              = '''(vol 1)'''<br>50<br>'''(vol 2)'''<br>4<br>'''(vol 3)'''<br>18
+|main_char_team      = '''(vol 1)'''<br>Jessica Drew<br>'''(vol 2)'''<br>Julia Carpenter<br>'''(vol 3)'''<br>Mattie Franklin
+|writers             = 
+|artists             = 
+|pencillers          = 
+|inkers              = 
+|letterers           = 
+|colorists           = 
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = 
+|TPB                 = 
+|ISBN                = 
+|nonUS               = 
+
+<!--Categories-->
+|cat                 = super
+|subcat              = Marvel Comics
+|altcat              = 
+|hero                = y
+|villain             = y
+|sortkey             = Spider-Woman
+|sort_title          = Spider-Woman
+}}
+'''Spider-Woman''' is the codename of several fictional characters in the [[Marvel Comics]] universe. They are based on the character [[Spider-Man]]. An earlier "Spider-Woman" was published by [[Harry "A" Chesler|Harry "A" Chesler Comics]] in 1944; a non-superpowered crime-fighter named Helen Goddard, she made her first and only appearance in the [[Golden Age of Comic Books|Golden Age comic book]] ''Major Victory #1''.
+Another Spiderwoman was in ''Spidey Super Stories'' #11 (story 3), although that is not official canon. 
+
+'''''Spider-Woman''''' was also the title of three separate comic books published by marvel comics. The first publishes from April 1978 through June 1983, the second a [[limited series]] published from November 1993 through February 1994, and the third published from July 1999 through December 2000.
+==Spider-Women==
+* [[Spider-Woman (Jessica Drew)|Jessica Drew]], the original and current Spider-Woman.  She starred in [[Spider-Woman (TV series)|her own animated TV series]] in 1979.
+* [[Julia Carpenter]], a former [[Avengers (comics)|Avengers]] member, now called ''Arachne'' and a member of [[Omega Flight]].
+* [[Spider-Woman (Mattie Franklin)|Mattie Franklin]], who briefly impersonated Spider-Man before receiving her own short-lived comic series was active during the 2007 ''[[Loners]]'' miniseries.
+* [[Spider-Woman (Charlotte Witter)|Charlotte Witter]], the only villain to use the name.
+
+==Alternate continuity== 
+*Prior to Jessica Drew's debut, Valerie the Librarian became Spider-Woman in ''Spidey Super Stories'' #11 (August 1975). She had no superpowers.
+* A [[Spider-Woman (TV series)|''Spider-Woman'' animated series]] was based on the Jessica Drew version.
+* Spider-Woman ([[Mary Jane Watson]]), [[ninja]] of the Spider-clan, is an alternate version of the character in the [[Marvel Mangaverse]] reality.  
+* Another version of [[Mariko Yashida#Mariko, Spider-Woman, and other missions|Mary Jane as Spider-Woman]] can be found in the ''[[Exiles (Marvel Comics)|Exiles]]'' series.
+* In [[MC2]] continuity, Jessica Drew has never regained her powers and thus did not return to being Spider-Woman.
+* In the comic book ''[[Ultimate Spider-Man]]'', an Ultimate Spider-Woman debuted in issue #98, but was not given the name "Spider-Woman" until issue #102. Though her creators named her Jessica Drew, she is a female [[Clone Saga#Ultimate Clone Saga|clone of Peter Parker]], and retains all of his memories up until the end of the Carnage storyline.
+
+==See also==
+*[[Spider-Girl]] (May Parker), daughter of Spider-Man in an alternate future
+*[[Madame Web]] (Cassandra Webb), grandmother of Charlotte Witter
+===More female Marvel characters with spider powers/affiliations ===
+*[[Agony (comics)|Agony]]
+*[[Araña]] (Anya Corazon)
+*[[Black Widow (Marvel Comics)|Black Widow]]
+*[[Scream (comics)|Scream]]
+*[[She-Venom]]
+*[[Tarantula (Marvel Comics)#Maria Vasquez|Tarantula (Maria Vasquez)]]
+
+==External links==
+*[http://marvel.com/universe/Spider-Woman Spider-Woman on the Marvel Universe Character Bio Wiki]
+*[[MarvelDatabase:Spider-Woman|MDP: Spider-Woman]] at the Marvel Database Project
+
+{{SIA|comics}}
+
+[[el:Γυναίκα Αράχνη]]
+[[es:Spider-Woman]]
+[[fr:Spider-Woman]]
+[[hu:Pók (Marvel Comics)]]
+[[it:Donna ragno]]
+[[nl:Spider-Woman]]
+[[pt:Mulher-Aranha]]
+[[fi:Hämähäkkinainen]]

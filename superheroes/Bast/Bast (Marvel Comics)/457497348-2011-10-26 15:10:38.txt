@@ -1,0 +1,48 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Bast
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        =
+| publisher      = [[Marvel Comics]]
+| debut          = (Totem only) Fantastic Four #52 (1966); (fully) Black Panther #5 (1999)
+| creators       =
+| alter_ego      =
+| full_name      = Bastet
+| species        = Ennead
+| homeworld      = Celestial Heliopolis
+| alliances      =
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = Pakht, The Cat-Goddess
+| powers         =
+| cat            =
+| subcat         =
+| hero           =
+| villain        =
+| sortkey        = Bast (Marvel Comics)
+| addcharcat#    =
+}}
+
+'''Bast''' is a [[fictional character]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]], based loosely on the [[Bast (goddess)|Bast]] of [[Egyptian mythology]].
+
+==Fictional character biography==
+One of the eldest of the Ennead, as early as 10000 BC Bast was worshiped as a panther god, granting power to worshipers and descendants. The children of Bast dwelled in the mountaintop city Bastet, existing as panthers but becoming human via the magical Eye of Bast gem until its theft. As the pharaoh's took rule over Egypt, many gods moved to Celestial Heliopolis, while Bast adopted a realm bordering Heliopolis and Ala (home of Africa's gods, the Orishas). Bast inherited Ra's life-giving solar heat, while his sibling Sekhmet inherited his fiery, destructive fury; both siblings had male and female forms. In Egypt, Bast was worshiped primarily in the city of Bubastis as a goddess of pleasure, dancing and music, and it became a pious custom to bury mummified cats within Bast's sanctuaries. Bast protected men against diseases and evil spirits, and eventually parented a lion-head son, the war god Mahes, who was also known as Apedemak. An unidentified sorcerer created the Claw of Bast, a powerful artifact using Bast's power to restore the sick or dead, it also empowered its wielder.{{issue|date=December 2010}}
+
+Employed seven times before Egyptian leader Khafre had it broken into fragments in 2500 BC, the Claw was reassembled in the twentieth century by [[Mister Fantastic|Reed Richards]], Francesca Fisher, and [[Doctor Doom|Victor von Doom]], but it crumbled after being used to defeat the Sphinx and heal Reed's ailing mentor, Professor van Nuys.{{issue|date=December 2010}} Bast received greater regard in 952 BC when Pharaoh Sheshonk elevated Bubastis to prominence within a kingdom.{{issue|date=December 2010}}
+
+Following the attack on the life of King [[Black Panther (comics)|T’Challa]], the country of [[Wakanda (comics)|Wakanda]] was thrown into uproar. Shuri, sister to T’Challa and Princess of the country, had been chosen to prepare for judgment before the Panther God, with the hope that she would be acceptable and worthy to take the mantle of Black Panther.{{issue|date=December 2010}} The Panther God found Shuri unworthy of the mantle due to her self-centered sense of entitlement. She was deemed arrogant and jealous of her brother’s accomplishments as the Black Panther. Shuri was dismissed to ponder her future as she would never be allowed to follow in her brother’s footsteps{{issue|date=December 2010}}
+
+Bast joined the [[God Squad (comics)|God Squad]] in order to combat the threat of the Chaos King. She sacrifices herself holding off hordes of Japanese demons from Yomi to buy the God Squad enough time to flee the realm of the Japanese deities, during the climax of the ''[[Chaos War (comics)|Chaos War]]''.<ref>''Chaos War: God Squad'' #1</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix/bast.htm|Bast}}
+
+[[Category:Marvel Comics Heliopolitans]]
+
+{{Marvel-Comics-stub}}
+
+[[tl:Bast (komiks)]]

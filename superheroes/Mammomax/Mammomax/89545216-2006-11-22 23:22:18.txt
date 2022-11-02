@@ -1,0 +1,39 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:Mammomax.jpg]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Mammomax
+|real_name=Maximus Jensen
+|species=[[mutant (fictional)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Men]]'' v2 #161 (November, [[2004]])
+|creators= [[Chuck Austen]] (writer), [[Salvador Larroca]] (artist)
+|alliance_color=background:#c0c0ff
+|alliances=[[X-Men: The 198|The 198]]<br>[[Brotherhood of Evil Mutants]]
+|aliases=
+|powers=Superhuman strength and endurance, invulnerable outer hide, ivory tusks, corrosive stomach acids|}}
+
+'''Mammomax''' ('''Maximus Jensen''') is a [[fictional]] [[mammoth]]-shaped human [[mutant (fictional)|mutant]] who exists in the [[Marvel Universe]]. Mammomax's first appearance was [[X-Men]] v2 #161.
+
+==History==
+When he first appeared, he was part of the [[Brotherhood of Evil Mutants]] alongside [[Avalanche (comics)|Avalanche]], [[Sabretooth (comics)|Sabretooth]], [[Exodus (comics)|Exodus]], [[Juggernaut (comics)|Juggernaut]], [[Nocturne (comics)|Nocturne]], and [[Black Tom Cassidy]]. He was defeated by [[Iceman (comics)|Iceman]] and later sucked into the black hole within [[Xorn]]'s head, which apparently led to the [[Mojoverse]].
+
+Mammomax next appeared after [[Decimation (comics)|M-Day]] on the run from members of the Sapien League with [[Erg (comics)|Erg]] and [[Peepers]]. He was rescued from being burned alive at the Institute's front gates by the X-Men. He took up residence on the Institute's grounds with other members of the 198. He also formed a friendship with Erg, [[Fever Pitch (comics)|Fever Pitch]], and [[Sack (comics)|Sack]]. During a recent outing into Salem Center, he attacked a boy for calling him "[[The Elephant Man (film)|Elephant Man]]", but a "tracking chip", implanted in his head by [[Sentinel (comics)|The Office of National Emergency]] (O*N*E), disabled him before he could hurt the boy. Mammomax had the device removed by [[Mister M (comics)|Mister M]] along with all the other members of the 198. He also followed Mr. M during his exodus from the [[Xavier Institute]].
+
+==Powers and abilities==
+Mammomax looks like a bipedal elephant with hands, because of this he is as strong as an elephant and also possess a pair of large ivory tusks which are as durable as an elephant's. Mammomax has invulnerable skin and can also produce powerful stomach acid which he can spit out of his mouth and use as a projectile attack.
+
+==Notes== 
+{{cleanup-remainder|November 2006}}
+One of the writers of the new handbooks e-mailed this to me personally concerning his real name,which was revealed in Wizard magazine #181
+
+We've checked with Marvel, and it is new but officially sanctioned information given to Wizard, so yes, it is accurate.
+
+[[Category:X-Men villains]]
+[[Category:Brotherhood of Mutants members]]
+[[Category:Marvel Comics mutants]]
+[[Category:The 198 Files]]
+[[Category:Marvel Comics characters with superhuman strength]]
+
+
+{{Marvel-villain-stub}}

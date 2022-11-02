@@ -1,0 +1,25 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Aragorn
+|real_name=Aragorn
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Avengers (comics)|Avengers]]'' #48 (Jan 1968)
+|creators=[[Roy Thomas]] and [[George Tuska]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=Ally of the [[Black Knight (Dane Whitman)|Black Knight]] and the [[Valkyrie (comics)|Valkyrie]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''Aragorn''' is a fictional character in the [[Marvel Universe]].  He is a winged horse that has served as a mount for various characters.  His name is the same as that of ''[[The Lord of the Rings]]'' character, [[Aragorn]].
+
+Professor Nathan Garrett, the criminal [[Black Knight (Marvel Comics)#Villainous Black Knight|Black Knight]] mutated a horse using genetic engineering techniques that he had developed to give it large feathered wings capable of natural flight.  After Garrett's final defeat by [[Iron Man]], this horse escaped and eventually was further mutated and fell into the possession of the [[Dreadknight]].  As he was dying, Garrett persuaded his nephew Dane Whitman to vow to use the scientific discoveries he had used as a criminal for good.  Whitman thus became a new, heroic [[Black Knight (Dane Whitman)|Black Knight]], and used his uncle's techniques to mutate another horse, whom he named Aragorn, into a flying steed.  When Whitman left his own time to stay for awhile in the 12th Century AD, he entrusted Aragorn to the care of his fellow [[Defenders (comics)|Defender]], the [[Valkyrie (comics)|Valkyrie]], who has ridden him ever since.
+
+
+{{Marvel-comics-stub}}

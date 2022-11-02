@@ -1,0 +1,34 @@
+{{not verified}}
+
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|caption='''insert image here'''<br>
+|caption='''Captain Ultra'''<br>
+|comic_color=background:#ff8080
+|character_name=Captain Ultra
+|real_name=Griffin Gogol
+|publisher=[[Marvel Comics]]
+|debut=''[[Fantastic Four]]'' Vol.1 #177 (December [[1976]])
+|creators=[[Roy Thomas]] (story), [[George Perez]] (pencils), [[Joe Sinnott]] (inker)
+|alliance_color=background:#c0c0ff
+|status=Active
+|alliances=
+|previous_alliances=
+|aliases= 
+|relatives=None revealed
+|powers=Flight,<br>Superhuman strength
+|}}
+
+'''Captain Ultra''' is a [[fictional character]], a [[superhero]] in the [[Marvel Comics]] [[Marvel Universe|universe]].   He first appeared in ''[[Fantastic Four]]'' #177 (December, [[1976]]).
+
+==Character biography==
+
+Captain Ultra (real name Griffin Gogol) has the power of flight, [[superhuman]] strength and endurance, and [[X-ray]] vision.  He was originally pathologically afraid of [[fire]]; he eventually overcame this limitation thanks to years of extensive [[psychotherapy|therapy]] under [[Doc Samson]].{{cn}}  This marks him as a parody of the [[Martian Manhunter]].{{cn}}
+
+Captain Ultra first appeared as an applicant to the [[supervillain]] team called the [[Frightful Four]]; he was at first enthusiastically accepted by the other three villains, ecstatic at his large array of powers.  However, when one of them began to light a [[cigarette]] in celebration, he fainted in the presence of the [[matchstick|match]]; he was promptly rejected.  He later applied to the [[Defenders (comics)|Defenders]].  He has since had a minor career as a solo superhero, often teaming up with heroes like [[Thor (Marvel Comics)|Thor]] to battle minor villains.  He also does [[stand-up comedy]] and once worked as a plumber.
+
+
+{{Marvel-Comics-stub}}
+
+[[Category:1976 introductions]]
+[[Category:Fictional comedians]]
+[[Category:Marvel Comics characters who can fly]]

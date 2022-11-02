@@ -1,0 +1,46 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+|comic_color=background:#ff8080 
+|character_name=Doctor Nemesis
+|real_name= James Nicola Bradley
+|species= Human Mutant
+|publisher=Ace Magazines, [[Marvel Comics]]
+|debut=(historic) ''Lightning Comics'' #6 (April 1941)</br>(Marvel Universe) ''[[Invaders]] Vol.2'' #1 (May 1993)
+|creators=
+|alliance_color=background:#c0c0ff
+|alliances=X-Club<ref name="Uncanny X-Men #507">''Uncanny X-Men #507''</ref><br/>Battle-Axis
+|aliases=Doctor Death
+|powers=Extended longevity, <br> enhanced immune system, <br> heightened eye-sight, <br> "self-evolved intellect"
+|}}
+
+'''Doctor Nemesis''' (James Nicola Bradley)<ref>''Uncanny X-Men" #512</ref> is a fictional character from [[Marvel Comics]]. He was a derivative version of the eponymous Golden Age character that originally appeared in Ace Magazines' ''Lighting Comics''.  He is a co-creator of the original [[Human Torch (android)]]<ref>''Uncanny X-Men" #504</ref>  and is currently appearing in ''[[Uncanny X-Men]]'' as a member of the newly formed "X-Club"<ref name="Uncanny X-Men #507"/>.
+
+==Fictional character biography==
+Although primarily trained as a medical physician, Dr. James Bradley began working in the late 1930s with [[Phineas Horton|Professor Phineas T. Horton]] in developing the original android Human Torch of World War II. While mostly a silent partner in this endeavor, he began building a second android during this time.  
+
+The two scientists were unable to correct the design flaw that would cause their android to burst into flames upon exposure to oxygen. Bradley had preferred they resolve this issue before revealing their work to the public. However, Horton, eager for both fame and further financial backing held a press conference in late 1939 debuting their work. This turned into a public relations disaster, as Bradley had predicted, when the android caught on fire, causing the press to label it a menace. Bradley broke off their partnership thereafter and took his unfinished second android with him.<ref>''Invaders II'' #3</ref>
+
+Sometime before 1941, Bradley completed his work and the second android acted as the superhero, Volton, the Human Generator, from late 1941 to early 1942. Unaware of its artificial origins, Bradley led Volton to believe it was a scientist named Guy Newton who had discovered how to utilize his body's power to generate static electricity.
+
+Around this time, Bradley also decided to become a masked crimefighter, too. While working by day at Mercy Hospital in New York City, he would don a surgical mask and arm himself with a hypodermic gun to fight corruption and crime as Dr. Nemesis.<ref>''Lightning Comics'' #6</ref>
+
+After a number of adventures, Dr. Nemesis was approached by agents of the Third Reich to form a group of costumed beings. Signifying a change in tactics, Bradley changed his alter-ego to Dr. Death and recruited Human Meteor, [[Spider Queen]], Strongman and Volton for the group, Battle-Axis. The members of Battle-Axis did not, necessarily, agree with the Nazi policies and agenda but, for a variety of reasons, sought to force the United States to pull out of World War II. Dr. Death started work on "Project Mojave". Using an experimental device called an oscillotron, Battle-Axis would cause a severe earthquake on the U.S. west coast. Besides causing much damage to American cities, it would destroy the war industry plants and release poison gas from underground storage. With such devastation, the U.S. would be forced to withdraw from the war in order to deal with its homefront crisis. 
+
+On June 22, 1942, Battle-Axis made their public debut protecting a German U-Boat from the [[Invaders (comics)|Invaders]] attack. The two teams battled several times as the Invaders slowly unraveled Dr. Death's secret plans. In their final confrontation, Dr. Death was able to get the oscillotron activated when he was struck down by Volton. The android had learned of its origins and Dr. Death's own role in keeping it secret. The [[Namor|Sub-Mariner]] was able to shutdown the machine and Dr. Death was left for dead.<ref>''Invaders II'' #1-4</ref>
+
+Somehow surviving the attack, Bradley returned to New York City. Apparently repentant, he assumed his original costumed persona of Dr. Nemesis. Continuing on his war on crime, he became engaged to his co-worker, Nurse Mary Strong. The majority of his wartime activities remain unchronicled.<ref>''Super-Mystery'' #3</ref>
+
+After the war, Dr. Nemesis moved to Buenos Aires, Argentina to hunt down any Nazi superscientists and any of their clones.
+
+===X-Club===
+Recently, Doctor Nemesis was approached by [[Beast (comics)|Beast]] and [[Warren Worthington III|Angel]] to help assist in undoing [[Decimation (comics)|M-Day]]. Nemesis had no interest in undoing the "spell" that turned off the X-gene. But after defeating two Super Nazis, he agrees to join McCoy's science team.<ref>''Uncanny X-Men'' #504</ref> They later locate [[Madison Jeffries]].<ref>''Uncanny X-Men'' #505</ref>. The X-team later time-travel back to turn-of-the-century San Francisco in order to obtain genetic samples for study, from the biological parents of one of the first of the modern (20th Century) wave of mutants . The mutant in question is actually Doctor Nemesis himself, who reveals to the rest of the team his powers of extended longevity as well as "self-evolved intellect". His father is a brilliant radical inventor who actually manages to invent a self-powered electric light bulb, and his mother is her husband's bodyguard. Tragically, Nemesis' father is killed when he helps the X-Club stop the Hellfire Club's first-ever sentinel from ravaging across San Francisco. Nemesis' mother later dies in childbirth, as she is already in a weakened condition from the trauma of losing her spouse. Ironically, unknown to the Rest of the X-Men, Dr. Nemesis literally delivers himself as he secretly traveled back in time again to be the Doctor of his own mother.<ref>''Uncanny X-Men" #512</ref> The X-Club are ultimately unable to obtain the couple's genetic samples as it appears that they are being deliberately blocked by the Dreaming Celestial (because they would not have survived the time-jump back to the present, they were buried in a cryogenic capsule in Golden Gate Park) as part of some grand cosmic plan. After rescuing Beast and Professor X from Norman Osborn's prison, Nemesis and the rest of the X-Club join the X-Men on the risen Asteroid M, renamed Utopia, where they mourn the death of Yuriko Takiguchi shortly afterward.
+
+==Powers and abilities==
+Nemesis is a scientific genius and firmly believes in science. He is armed with twin handguns that fire hypodermic projectiles containing dangerous narcotics. He is also a mutant with apparently delayed aging and an enhanced immune system, leading to a prolonged lifespan ( like human/merman mutant hybrids [[Namor]] and [[Namora]] ). His eyes can seek out the Nazi clones he primarily hunted before joining the X-Club over a distance of 200 meters and he has described his mutant powers as having a " self-evolved intellect ".
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Nemesis, Doctor}}
+[[Category:Marvel Comics characters]]
+[[Category:Fictional doctors]]
+[[Category:Golden Age superheroes]]

@@ -1,0 +1,40 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[image:dinomanelli.jpg]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Dino Manelli
+|real_name=Dino Manelli
+|publisher=[[Marvel Comics]]
+|debut=''Sgt. Fury and the Howling Commandos'' vol. 1 #1
+|creators=
+|alliance_color=background:#cccccc
+|status=
+|alliances=[[S.H.I.E.L.D.]]
+|previous_alliances=[[Howling Commandos]]
+|aliases=
+|relatives=
+|powers=
+|}}
+'''Dino Manelli''' is a [[fictional character]] in the [[Marvel Comics]] Universe. His first appearance was in ''Sgt. Fury and the Howling Commandos vol. 1 #1''.
+
+==History==
+Before the war, '''Dino Manelli''' was a charismatic actor who was fluent in [[German language|German]] and [[Italian language|Italian]].  Manelli was a member of the original [[Howling Commandos]] and fought alongside the team during [[World War II]].  He was briefly replaced by [[Eric Koenig]] when he was sent on a special mission, which was helping to organize another team known as the [[Dirty Dozen (comics)|Dirty Dozen]].  He later returned to the Howlers but was briefly off-duty when he was wounded.  After the war, he retired from acting.  He later assisted [[S.H.I.E.L.D.]] following the Deltite Affair.
+
+==Marvel Ultimate Alliance==
+In Marvel Ultimate Alliance, the son of Dino Manelli makes a quick cameo: Dino Manelli Jr. is rescued by your team, and in his journal he speaks of his time joining [[S.H.I.E.L.D.]].
+
+==Bibliography==
+*''Captain America Annual'' #9
+*''Captain America'' vol. 1 #273, 374
+*''Incredible Hulk'' vol. 2 #434
+*''Marvel Team-Up'' vol. 1 #139
+*''Sgt. Fury and his Howling Commandos'' #1, 100
+
+{{marvel-comics-stub}}
+
+[[Category:S.H.I.E.L.D.|Manelli]]
+[[Category:Fictional World War II veterans|Manelli]]
+[[Category:World War II fictional beings|Manelli]]
+[[Category:Marvel Comics heroes, non-superpowered|Manelli]]
+[[Category:Marvel Comics supporting characters|Manelli]]
+[[Category:Fictional soldiers|Manelli]]

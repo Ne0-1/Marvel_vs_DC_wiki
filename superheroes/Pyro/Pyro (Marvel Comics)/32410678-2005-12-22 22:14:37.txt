@@ -1,0 +1,44 @@
+''This is an article about the [[Marvel Comics]] character '''Pyro'''. For other uses of the word, see [[Pyro]].''
+{{Superherobox|
+image=[[image:pyro.png|200px]]
+|caption=Pyro
+|comic_color=background:#ff8080
+|character_name=Pyro
+|real_name=St. John Allerdyce
+|publisher=[[Marvel Comics]]
+|debut=''Uncanny X-Men'' #141
+|creators=[[Chris Claremont]]<br>[[John Byrne]]
+|alliance_color=background:#cccccc
+|status=Deceased
+|alliances=
+|previous_alliances=[[Brotherhood of Evil Mutants]], [[Freedom Force (comics)|Freedom Force]]
+|aliases=
+|relatives=
+|powers=Manipulating and controlling fire
+|}}
+
+'''Pyro''' (real name '''St. John Allerdyce''') is a [[mutant (fictional)|mutant]] in the [[Marvel Universe]] with the power to control fire.
+
+==Character history==
+Born in [[Sydney, Australia]], his [[mutant]] power to manipulate flame emerged in his teens, but he could not think of a practical way to use it. 
+
+After years of working in Southeast [[Asia]] as a journalist and novelist, Pyro met the mutant [[Mystique (comics)|Mystique]], who later recruited him to the [[Brotherhood of Evil Mutants]]. He served in this team under several leaders, including [[Toad (comics)|Toad]], but not under [[Magneto (comics)|Magneto]], its original leader.  Mystique's Brotherhood later offered its services to the United States government, in exchange for protection and a pardon, and became known as [[Freedom Force]].
+
+Some years ago, Pyro contracted the [[Legacy virus]], a fatal disease only mutants can contract. He committed several crimes in attempts to find a cure, but was not successful. He died just after saving [[Senator Robert Kelly]]'s life from a new Brotherhood of Evil Mutants, but the Senator was shot and killed soon after by a human-supremacist.
+
+==Powers and abilities==
+Pyro's power is the psionic ability to manipulate flame by shaping it as he desires, increasing or decreasing its heat, intensity, and size. However, he cannot actually create fire and usually carries a flamethrower or cigarette lighter. Pyro cannot be burned by any fire he controls, but if he turns his attention from them, the flames will return to normal and can harm him. Pyro sometimes uses his powers to shape semi-solid creatures out of fire. The creatures have a greater solidity than normal flame; For example a fiery bird might be able to pick up an object with its talons.
+
+==Appearances in other media==
+[[image:Pyro3.JPG|thumb|left|[[Aaron Stanford]] as Pyro|150px]]
+
+Pyro has appeared in the [[X-Men]] films, played by different actors. He had only a brief cameo in ''[[X-Men (film)|X-Men]]'', but his role was greatly expanded in the sequel ''[[X2 (film)|X2: X-Men United]]'' and was played by [[Aaron Stanford]] who will also portray him in ''[[X-Men 3 (film)|X-Men 3]]''. In the movies, Pyro attends [[Professor X|Professor Xavier]]'s School for the Gifted before joining [[Magneto]]'s [[Brotherhood of Evil Mutants|Brotherhood]]. He also appeared in the X-men Evolution series as part of Magneto's elite team (also known as the 'acolytes')
+
+Pyro also makes a brief appearance in the X-Men animated series, in an episode called The Cure.
+
+[[Category:Brotherhood of Evil Mutants members]]
+[[Category:Marvel Comics mutants]]
+[[Category:Fictional elementals]]
+[[Category:Fictional Australians]]
+
+[[fr:Pyro]]

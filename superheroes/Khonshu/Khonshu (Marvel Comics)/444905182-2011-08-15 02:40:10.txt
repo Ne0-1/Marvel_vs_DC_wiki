@@ -1,0 +1,38 @@
+{{Unreferenced|date=April 2008}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = 
+| caption = Panel from [[Moon Knight]] (Vol.1) #21<br>Illustrated by [[Greg LaRocque]] and [[Dave Simons]]
+| character_name = Khonshu
+| publisher = [[Marvel Comics]]
+| debut = ''Moon Knight''  #1 (November 1980)
+| creators = 
+| alter_ego = 
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = [[Heliopolitans (comics)|Heliopolitan Gods]]
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = 
+}}
+
+'''Khonshu''' is a [[fictional character]] that has appeared in various [[comic book]] series published by [[Marvel Comics]]. Based loosely on the [[Chons|Khonshu]] of [[Egyptian mythology]], the character exists in the [[Marvel Universe]]. Khonshu first appeared in ''[[Moon Knight]]''  #1 (November 1980). He is the patron of the superhero [[Moon Knight]]. 
+
+==Fictional character biography==
+While Khonshu possessed Moon Knight during the hero's time with the [[West Coast Avengers]], Khonshu was often shown as a largely benevolent god who wanted to assist the team.  He was at times shown to be conflicted as to whether he should reveal his powers and what was worthy of it.  He was able to effortlessly resist being controlled by the mutant [[Voice_(comics)|The Voice]].
+
+Moon Knight volume #4 initially treats Khonshu in a rather different way, portraying him as a harsh and unforgiving god of vengeance who is strengthened by the fear that his avatar inspires. Accordingly, he is quite prepared to manipulate Marc Spector's allies and enemies in order to revive Moon Knight's career, and is highly critical of Spector. As with many Moon Knight stories, the line between reality and hallucination is sometimes intentionally blurred, but aspects of the art and story do strongly suggest that Khonshu's actions are entirely real. Khonshu also appears as a statue, but primarily converses with Moon Knight in the mutilated form of the [[Bushman (comics)| Bushman]], a villain who was killed when Spector carved off his face.  Khonshu calls this his 'greatest work.' Moon Knight eventually breaks the influence of Khonshu, seeing the god as a scale in line with a cockroach.
+
+==Other versions==
+In the [[Universe X]] saga it is suggested that [[Uatu]] the Watcher who lives on the moon was the original inspiration for the Egyptian moon god Khonshu.
+
+==In other media==
+Khonshu does appear as an alternate costume for Moon Knight in the video game ''[[Marvel: Ultimate Alliance]]'', it is however the version of Moon Knight at the time Marc Spector's body was inhabited by Khonshu.
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix/khonshum.htm|Khonshu}}
+
+==References==
+{{Reflist}}
+
+[[Category:Marvel Comics Heliopolitans]]

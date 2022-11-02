@@ -1,0 +1,48 @@
+{{Infobox superhero <!--Wikipedia:WikiProject Comics-->
+|character_name=Faiza Hussain
+|image=[[File:Faiza Hussain.jpg|250px]]
+|caption=Faiza Hussain.<br>Art by [[Bryan Hitch]].
+|publisher=[[Marvel Comics]]
+|debut=''Captain Britain and MI: 13'' #1 (May 15, 2008)
+|creators=[[Paul Cornell]]<br>[[Leonard Kirk]]
+|alter_ego = Faiza Hussain<br>Excalibur
+|full_name = 
+|species   =  Human
+|homeworld = <!-- optional -->
+|alliance_color=background:#ffc0c0
+|alliances=
+|partners  = <!-- optional -->
+|supports  = <!-- optional -->
+|aliases   =  <!-- optional: -actual identities the character uses, not nicknames -->
+|powers= -Control over living organisms to an unknown extent<br>-Wielder of the Excalibur Sword
+|}}
+
+'''Dr. Faiza Hussain'''<ref name="CB&MI13#1">{{Comic book reference | Writer = [[Paul Cornell]] | Penciller = [[Leonard Kirk]] | Inker = [[Jesse Delperdang]] | Story = The Guns Of Avalon | Title = [[Captain Britain and MI: 13]] | Issue = 1 | Date = July 2008 | Publisher = [[Marvel Comics]] | }}</ref>, later given the codename '''Excalibur'''<ref name="CB&MI13#11">{{Comic book reference | Writer = [[Paul Cornell]] | Penciller = [[Leonard Kirk]] | Inker = | Story = Vampire State | Title = [[Captain Britain and MI: 13]] | Issue = 11 | Date = April 2009 | Publisher = [[Marvel Comics]] | }}</ref>, is a [[fictional character|fictional]] [[comic book]] character within [[Marvel Comics]]' [[shared universe]] the [[Marvel Universe]]. Hussain was created by writer [[Paul Cornell]], first penciled by [[Leonard Kirk]]. First appearing in ''[[Captain Britain and MI: 13]]'' #1 (May 2008), Faiza Hussain is used as a the title's "[[Point of view (literature)|point of view character]]"<ref name="MarvelBI">[http://www.marvel.com/news/comicstories.3312.British_Invasion "British Invasion"], [[Marvel.com]], March 24, 2008</ref>.
+
+==Fictional character biography==
+Faiza Hussain is the only daughter of a family of [[Pakistan]]i heritage who live in [[Chelmsford]] in [[Essex]]<ref name="PConFH">[http://www.comicbookresources.com/?page=article&id=12839 Super Spy Weekend: Faisa Hussain], [[Comic Book Resources]], March 9, 2008</ref>. A [[London]] based [[Muslim]] doctor, and [[United Kingdom|British]] [[superhero]] [[fangirl]], Hussain initially gets caught up in the [[Skrull|Skrull's]] [[Secret Invasion|invasion]] as she is performing battlefield [[triage]] while the Skrull attack is going on around her<ref name="CB&MI13#1"/>. While attending to the wounded, alongside the [[Black Knight (Dane Whitman)|Black Knight]], Faiza Hussain is struck by a Skrull laser weapon, this weapon seemingly gives Hussain powers which she uses to help Black Knight fend off more Skrulls<ref name="CB&MI3#2">{{Comic book reference | Writer = [[Paul Cornell]] | Penciller = [[Leonard Kirk]] | Inker = [[Jesse Delperdang]] | Story = The Guns Of Avalon | Title = Captain Britain and MI: 13 | Issue = 2 | Date = August 2008 | Publisher = [[Marvel Comics]] | }}</ref>.
+
+After the defeat of the Skrulls, Faiza Hussain became the wielder of [[Excalibur]]<ref name="CBMI4">{{Comic book reference | Writer = [[Paul Cornell]] | Penciller = [[Leonard Kirk]] | Inker = [[Jesse Delperdang]]| Story = The Guns Of Avalon | Title = Captain Britain and MI: 13 | Issue = 4 | Date = October 2008 | Publisher = [[Marvel Comics]] | }}</ref> and joined MI-13 as Black Knight's [[Steward (office)|steward]]<ref name="CBMI5">{{Comic book reference | Writer = [[Paul Cornell]] | Penciller = [[Pat Olliffe]] | Inker = [[Paul Neary]]| Story = Hell In Birmingham | Title = Captain Britain and MI: 13 | Issue = 5 | Date = November 2008 | Publisher = [[Marvel Comics]] | }}</ref>. When [[Dracula (Marvel Comics)|Dracula]] attacked the United Kingdom he personally attacked Hussain's family, injuring her mother while kidnapping her father and sending forces to attack the members of . In the aftermath of the attack, [[Pete Wisdom]] deduced that attack aim was to keep Faiza (and Excalibur) out of the battle. He gives Faiza the codename "Excalibur" because he wants Dracula and his forces to hear and know that the mythical blade is still an active part of MI:13<ref name="CB&MI13#11"/>.
+
+==Powers and abilities==
+Faiza Hussain is a trained doctor<ref name="CB&MI13#1"/> and appears to have a wide knowledge of the superhuman population. Although being an unpowered character in the first issue, Paul Cornell stated Faiza's power(s) would manifest during the first few issues of Captain Britain and MI: 13<ref name="PConFH"/>. In issue 2 this came to pass, when Faiza Hussain showed an extreme level of control over [[biological organism]]s, she was able to disassemble a human body into its component parts while keeping the subject alive and stopped a horde of Skrulls by stopping the bodies from being able to move<ref name="CB&MI3#2"/>. She is seen to use these powers not only on living organisms, but also on other kinds of materials (like Black Knight's clothes)<ref name="CBMI4"/> The extent and classification of these powers are yet to be revealed but Black Knight described them as purely defensive<ref name="CBMI5"/>.
+
+In a Q&A Cornell outlined her powers:
+
+{{cquote|She can safely open up a body, see what's wrong with it, and sort it out on a subatomic level. This has the incidental effect of halting shape-changers like Skrulls in their tracks (and anyone else who knows what's good for them). She has trouble doing this to magic beings.<ref>[http://www.comicbookresources.com/?page=article&id=20085 X-POSITION: Paul Cornell], [[Comic Book Resources]], February 17, 2009</ref>}}
+
+Faiza's own control over biological organisms does not work on any character or being with infused with magic.
+
+==Notes==
+{{Empty section|date=July 2010}}
+
+==References==
+{{Reflist}}
+{{Refbegin}}
+*{{comicbookdb|type=character|id=20916|title=Faiza Hussain}}
+{{Refend}}
+
+{{DEFAULTSORT:Hussain, Faiza}}
+[[Category:Marvel Comics characters]]
+[[Category:Fictional doctors]]
+[[Category:Fictional British people of Pakistani descent]]

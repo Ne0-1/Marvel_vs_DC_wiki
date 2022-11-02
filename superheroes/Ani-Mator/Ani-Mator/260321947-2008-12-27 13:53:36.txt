@@ -1,0 +1,37 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=[[Image:AniMator.png]]
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Ani-Mator
+|real_name=Dr. Frederick Animus
+|species=[[human]]
+|publisher=[[Marvel Comics]]
+|debut=''[[New Mutants]]'' vol. 1 #59 (Jan 1988)
+|creators=[[Louise Simonson]] and [[Bret Blevins]]
+|alliance_color=background:#c0c0ff
+|alliances=Creatures of Paradise<br/>[[The Right (comics)|The Right]]
+|aliases=
+|powers=None
+|}} 
+
+The '''Ani-Mator''' ('''Dr. Frederick Animus''') is a [[fictional character]] in the [[Marvel Universe]].
+
+==Publication history==
+The Ani-Mator appeared in ''[[New Mutants]]'' vol. 1 #59-60 (January-February 1988), and was created by [[Louise Simonson]] and [[Bret Blevins]].
+
+The Ani-Mator received an entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Update '89]]'' #1.
+
+==Fictional character biography==
+The Ani-Mator was a geneticist employed by [[Cameron Hodge]] to research a means of stopping the process that creates [[Mutant (Marvel comics)|mutants]].  Dr. Animus instead created a race of "Ani-Mates", which combined the characteristics of human beings and other animals, intending them to be a slave races for humanity.
+
+One of the Ani-Mates, [[Bird-Brain]], escaped the Ani-Mator's island and ultimately befriends the [[New Mutants]]. The New Mutants return to the island with Bird-Brain to stop the mad scientist's experiments.  The Ani-Mator, now dressed in rags, attempts to shoot and kill [[Wolfsbane (comics)|Wolfsbane]]. He instead hits and kills [[Cypher (comics)|Cypher]], who had pushed her out of the way. [[Magik (comics)|Magik]] exiles the Ani-Mator to the dimension of [[Otherplace|Limbo]] in retailiation.
+
+Bird-Brain stays on the island to help his animal friends.
+
+==External links==
+*[http://en.marveldatabase.com/Ani-Mator_%28Earth-616%29 Marvel Database entry]
+
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics supervillains]]
+
+[[tl:Ani-Mator]]

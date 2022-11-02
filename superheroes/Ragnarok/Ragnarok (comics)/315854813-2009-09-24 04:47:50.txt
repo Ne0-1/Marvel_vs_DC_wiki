@@ -1,0 +1,70 @@
+{{otheruses|Ragnarok}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image= Ragnarok_Civil_War.jpg
+|imagesize= <!-- numeral only, defaults to 250 -->
+|converted = y
+|caption = Ragnarok from the cover of ''Civil War'' #4 (September 2006), artist [[Michael Turner (comics)| Michael Turner]].
+|character_name = Ragnarok
+|real_name = 
+|publisher=[[Marvel Comics]]
+|debut = ''[[Civil War (comics)|Civil War]]'' #3 (July 2006)
+|creators = [[Mark Millar]] (writer)</br>[[Steve Mcniven]] (artist)
+|Base of operations = 
+|species   = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances = <!-- optional -->
+|partners  = <!-- optional -->
+|supports  = <!-- optional -->
+|aliases   =  [[Thor (Marvel Comics)|Thor]], Clor, Project Lightning
+|powers = Superhuman strength, stamina, durability and longevity, flight, energy projection and weather manipulation
+|cat = super
+|subcat = Marvel Comics
+|hero = 
+|villain = y
+|sortkey = {{PAGENAME}}
+}}
+
+'''Ragnarok''' is a [[fictional character]] a [[comic book]] [[supervillain]] published by [[Marvel Comics]]. He first appeared in ''[[Civil War (comics)|Civil War]]'' #3 (July 2006), and was created by [[Mark Millar]] and [[Steve Mcniven]].
+
+==Fictional character biography==
+When the real Thor was missing in action, presumed dead, [[Tony Stark]] took one of his hairs, which he had retained from the first meeting of the [[Avengers (comics)|Avengers]], and helped [[Reed Richards]] and [[Henry Pym]] clone the [[Asgardian (comics)|Asgardian DNA]] within, fusing him with Stark technology. This resulted in the creation of a new, cyborg Thor. The clone was put into action during the superhero [[Civil War (comics)|Civil War]], sent to battle anti-registration heroes.<ref>[[Mark Millar]]. ''Civil War'' #3; September 2006</ref> The battle got out of hand when the clone murdered [[Bill Foster (comics)|Goliath]], and set out to kill the rest of the anti-registration heroes. Reed Richards deactivated the cyborg with a vocal code, and his brain was later operated on, to prevent such a mishap from happening again.<ref>Mark Millar. ''Civil War'' #4; October 2006</ref> The new Thor returned during the final battle between the pro- and anti-registration heroes. He faced off against [[Hercules (Marvel Comics)|Hercules]], who defeated Thor by ramming his own hammer into his skull.<ref>Mark Millar. ''Civil War'' #7; January 2007</ref>
+
+The clone's remains were taken to [[Camp Hammond]] and stored in the laboratory for experimentation. 
+
+During the [[Secret Invasion]], it was revealed that the Henry Pym who helped create the clone was actually a [[Skrull]] impostor, who had placed a program into the cloned Thor's remains. Unless a special code, which only the Skrull knew, was inputted every twenty-four hours, the clone would reawaken. With the Skrull imposter's death during the Invasion, this event came to pass. Malfunctioning, and believing himself to be the true Thor, the clone believed he had been imprisoned in Camp Hammond. He threatened [[Baron Von Blitzschlag]] into returning his hammer to him, and set out to destroy [[Avengers: The Initiative|the Initiative]].<ref name="AvengInit#21">{{Comic book reference | Writer = [[Christos N. Gage]] | Penciller =  [[Humberto Ramos]] | Inker = [[Edgar Delgato]] | Story = Avengers: The Initiative Dissembled  | Title = [[Avengers: The Initiative]] | Issue = 21 | Date = February 2009 | Publisher = [[Marvel Comics]] | }}</ref> The clone swiftly defeated the Initiative's forces and the [[Counter Force (Marvel Comics)|New Warriors]], who had arrived to help. During that time, he took on the name "Ragnarok", which the Baron had called him, declaring that he would "bring the end of all that is". Ragnarok was only stopped when Von Blitzschlag, whose electrical powers made him immune to Ragnarok's lightning, arrived on the battlefield. The Baron showed Ragnarok footage of his creation, and showed him that the real Thor had returned, and had formed a new [[Asgard (comics)|Asgard]] above the city. Disgusted by what it perceived as Asgard's "Indignity", Ragnarok left Camp Hammond to confront the real Thor.<ref name="AvengInit#22">{{Comic book reference | Writer = [[Christos N. Gage]] | Penciller =  [[Humberto Ramos]] | Inker = [[Edgar Delgato]] | Story = Avengers: The Initiative Dissembled  | Title = [[Avengers: The Initiative]] | Issue = 22 | Date = April 2009 | Publisher = [[Marvel Comics]] | }}</ref>
+
+==Powers and abilities==
+As a clone of Thor, Ragnarok has all the powers and knowledge of the God of Thunder, (prior to Thor's recent acquisition of the Odinforce) including super-strength, extensive combat knowledge, godly stamina, high resistance to physical injury, immunity to all Earthly diseases, and superhuman agility and reflexes. Ragnarok's hammer, though not the enchanted [[Mjolnir]], is constructed of an unknown, strong metal alloy. The hammer is able to absorb and discharge lightning, like the true Mjolnir, and has circuitry within its head, which allows Ragnarok to direct it mentally.
+
+==Other versions==
+===[[What If? (comics)|What If?]]===
+In a "What if" Civil War scenario titled "What if Iron Man Lost the Civil War," Tony Stark confronted [[Captain America]] and admitted that while he felt he was doing the right thing, he was worried that he was going about it the wrong way and that he would need Cap's help. This admission prompts Captain America to not use the concealed device that would disable Stark's armor. Unfortunately, an agent on board the SHIELD Helicarrier detected the device and released Ragnarok prematurely. Reed Richards was quickly knocked out and when Ragnarok tried to kill Bill Foster, Stark leapt in front of him to stop the blast. When Ragnarok attempted to kill Iron Man, Cap held him off long enough for his armor to repair itself. The two of them joined forces, which inspired every other hero in the pro/anti-registration conflict to join together to defeat Ragnarok.
+
+==Bibliography==
+* ''Civil War'' #03-04, 07 ([[Marvel Comics]], 2006)
+* ''Civil War: Front Line'' #6 ([[Marvel Comics]], 2006)
+* ''Amazing Spider-Man'' #538 ([[Marvel Comics]], 2006)
+* ''Ms. Marvel'' #21 ([[Marvel Comics]], 2006)
+* ''Iron Man/Captain America: Casualties of War'' one-shot ([[Marvel Comics]], 2006)
+* ''Mighty Avengers '' #20 ([[Marvel Comics]], 2007)
+* ''World War Hulk'' #4 ([[Marvel Comics]], 2007)
+* ''Captain Marvel'' #01 ([[Marvel Comics]], 2008)
+* ''What If? Civil War'' one-shot ([[Marvel Comics]], 2008)
+* ''Black Panther'' #23-25 ([[Marvel Comics]], 2005)
+* ''Avengers: The Initiative Annual'' #1, ([[Marvel Comics]], December 2007)
+* ''[[Avengers: The Initiative]]'' #20-22 ([[Marvel Comics]], January-April 2009)
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.marvel.com/universe/Thor_(CSA_clone) Marvel.com: Thor (CSA clone)]
+*{{comicbookdb|type=character|id=8457|title=Ragnarok}}
+
+{{Thor}}
+[[Category:Marvel Comics characters]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Fictional cyborgs]]
+[[Category:Fictional clones]]
+[[Category:2006 comics characters debuts]]
+[[Category:Fictional killers]]

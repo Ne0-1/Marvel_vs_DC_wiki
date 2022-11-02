@@ -1,0 +1,40 @@
+{{In-universe| subject = a [[Wikipedia:WikiProject Comics|comics]] | described_object = a '''character''' | category = |date=October 2009}}
+
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Prometheus
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=<br> '''Incredible Hulk #368'''
+|creators=[[Peter David]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Pantheon (Marvel Comics)|Pantheon]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=immortality, tracker
+|}}
+
+'''Prometheus''' is a fictional character in the [[Marvel Universe]].
+
+==Fictional character biography==
+Prometheus is a member of the super hero family the [[Pantheon (Marvel Comics)|Pantheon]]. The Pantheon is led by [[Agamemnon (Pantheon)|Agamemnon]], the father of all its super-powered members. Prometheus was born with a deformed face that looks horribly burned. Prometheus drives a very high tech vehicle created by the Pantheon engineers called the Argo. Prometheus debuted trying to kidnap Bruce Banner (the [[Hulk (comics)|Hulk]]'s alter-ego).{{Issue|date=July 2011}}
+
+He later assists the Hulk by transporting his wife, [[Betty Ross Banner|Betty Banner]]. He expects her to react badly to his burnt face, but instead she insults his smoking habit.{{Issue|date=July 2011}}
+
+Prometheus is an excellent tracker even over interstellar distances. He uses this as part of a mission to help fellow Pantheon member [[Atalanta (Pantheon)|Atalanta]]. While rescuing her, they learn that Agamemon had gained his resources by selling out his future descendants.{{Issue|date=July 2011}}
+
+Because of this Agamemnon is captured and put on trial. Having been revealed to be mad, he unleashes his 'Endless Knights', cyborgs made of his dead children. During the battle, the Hulk entrusts Prometheus with the safety of Betty.{{Issue|date=July 2011}}
+
+==References==
+{{reflist}}
+
+[[Category:Characters created by Peter David]]
+[[Category:Comics articles that need to differentiate between fact and fiction]]
+[[Category:Comics characters introduced in 1993]]
+[[Category:Marvel Comics characters]]
+[[Category:Marvel Comics immortals]]

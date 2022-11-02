@@ -1,0 +1,33 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Diamondhead
+|real_name=Arch Dyker
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Nova (comics)|Nova]] #3'' (Nov 1976)
+|creators=[[Marv Wolfman]] and [[Sal Buscema]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Terrible Trio (Nova)|Terrible Trio]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''Diamondhead''' is a fictional character in the [[Marvel Universe]].
+
+==Fictional character biography==
+Diamondhead was a criminal from Earth, and a member of the [[Terrible Trio (Nova)|Terrible Trio]], along with [[Condor (comics)|Condor]] and [[Powerhouse (comics)#Powerhouse I (Rieg Davan)|Powerhouse]].  Diamondhead was mutated by a diamond-powered laser while attempting to steal some precious gems.  He became a superstrong criminal with a hard diamond-like body.  He was an enemy of [[Nova (comics)|Nova]] and the [[Champions of Xandar]], and betrayed the Nova Corps to the [[Skrull]]s.
+
+Later, Diamondead was seen as a prisoner on the [[Stranger (comics)|Stranger]]'s laboratory world.
+
+==External links==
+*http://www.marveldatabase.com/Diamondhead
+
+
+[[Category:Marvel Comics supervillains]]
+
+[[fr:Diamondhead]]

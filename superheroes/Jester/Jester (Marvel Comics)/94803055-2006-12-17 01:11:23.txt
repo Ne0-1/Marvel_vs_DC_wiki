@@ -1,0 +1,44 @@
+{{for2|the DC hero|[[Jester (comics)]]}}
+{{Superherobox|
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Jester
+|real_name=Jonathan Powers (I), Unrevealed (II)
+|publisher=[[Marvel Comics]]
+|debut=''[[Daredevil (Marvel Comics)|Daredevil]]'' v1 #42 (July, 1968)
+|creators=
+|alliance_color=background:#ffc0c0
+|alliances=
+|previous_alliances=[[Thunderbolts (comics)|Thunderbolts]] (I), [[Assembly of Evil]] (II)
+|aliases=
+|powers=None; skilled gymnast and swordsman (I)
+|}}
+
+'''Jester''' is the name of two [[Marvel Comics]] [[supervillains]].
+
+==Jester I==
+Jonathan Powers was a struggling actor of huge ego who finally got his lead break as the leading character in an off-Broadway revival of Cyrano de Bergerac. Panned by critics, jeered by the audience, and disdained by his fellow performers, Powers was fired after one performance. Obsessively, he continued to study the various arts and crafts that he thought would make him a great actor, things like gymnastics and body building. He took everything—except acting classes. Still, Powers was able to find employment as a stooge in a children's television show taped in New York.
+
+Finally getting fed up with having pies thrown in his face, Powers decided that if the audience wanted laughter, he would give it to them. Contracting the criminal weapons-maker known as the Tinkerer to make him a number of gimmicks, Powers fashioned himself a goofy harlequin-like disguise and called himself the Jester. Committing several crimes, the Jester was eventually opposed by [[Daredevil (Marvel Comics)|Daredevil]] who put the Jester behind bars. 
+
+Since then, the Jester escaped jails various times and continued to fight Daredevil, only to lose at every turn. For a time, the Jester tried to improve his life and restart his life as an actor, but this once again failed miserably. After this, he decided to full-time become a villain, but ended up in jail once more.
+
+During the super-hero [[Civil War (comics)|''Civil War'']], the Jester was allowed to come out of jail for a time, only to gleefully join the [[Thunderbolts]] so he could help arrest the rebel heroes, especially when he learned that he would be able to beat-up heroes like Daredevil and [[Spider-Man]].
+
+He has since been shot in the head and killed by the [[Punisher]], as of Civil War #5.<ref>{{Comic book reference | Writer = [[Mark Millar]] | Penciller =  [[Steve McNiven]] | Inker = [[Dexter Vines]] | Story = War | Title = Civil War | Issue = 5 | Date = November 2006 | Publisher = [[Marvel Comics]]}}</ref>
+
+== Jester II ==
+A second Jester appeared during the [[Acts of Vengeance]] crossover event which took place during the original's failed retirement from super-villainy. This Jester was given his weaponry by [[Doctor Doom]]. Among the arsenal granted to him by Doom, the "long-lived" [[Hulk Robot]] created years prior by a pair of college students and the [[Eternal]] [[Uni-Mind]]. Jester recruited a team of villains made up of himself, the Hulk robot, The [[Fenris]] twins, [[Hydro-Man]], and ''[[Rock (Marvel Comics)|Rock]]'' of ''The Hulkbusters'' to form the [[Assembly of Evil]]. The team was defeated by [[Cloak and Dagger]] and several intervening [[Avengers]].
+
+This Jester's personality and appearance bore similarities to those of [[Paul Reubens|Pee-Wee Herman]] and [[Ed Grimley]] (both popular media figures at the time of the character's introduction). He has made no known appearances after the Acts of Vengeance.
+
+==Powers and abilities==
+The first Jester (Jonathan Powers) had no super-human abilities. He was a well-trained hand-to-hand combatant, acrobat and fencer. His main weapons were a set of various joke gimmicks converted into deadly weapons: explosive balls, extendable scissor-hands capable of delivering electric shocks or bombs, weighted [[yo-yo]]s which could be used as clubbing weapons etc.
+
+==Notes==
+<references/>
+
+[[Category:Fictional Americans in Marvel Comics]]
+[[Category:Spider-Man villains]]
+[[Category:Daredevil villains]]

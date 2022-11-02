@@ -1,0 +1,28 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=King Miek
+|real_name=Miek
+|publisher=[[Marvel Comics]]
+|debut=''[[Incredible Hulk]]'' v3 #92 (''April, 2006'')
+|creators=[[Greg Pak]] & [[Carlo Pagulayan]]
+|alliance_color=background:#c0c0ff
+|status=Active
+|alliances= Warbound
+|previous_alliances= None
+|aliases= None
+|relatives=Unrevealed
+|powers=
+|}}
+
+'''Miek''' is a [[character]] in the [[Marvel Comics]], created during the "Planet Hulk" storyline.
+
+==History==
+
+Miek is a member of planet Sakaar's native race of incetaviods.  When he was young his father and most of his hive were attacked and killed by local Imperials, forcing Miek to flee underground.  When first meet he was an outcast slave who Hulk saved by accident during his fight with the Red King.  Soon after the Warbound escape Meik secretly lead them to the place where his father was killed to help get his revenge, with the Hulk telling him to "never stop making them pay".  Meik and Brood, who have form an connection due to there insect nature, freed Meik's brothers and adding the Warbound to his Hive,  within a short time he underwent a metamorphosis and became a King, a giant heavily armoured version of his race.
+
+Meik recently found one of the last Queens at an egg farm the warbound were hiding at due to a spike attack. Unfortunatley for Miek and his species the Queen was consumed by a Spike infection and had to be killed. Miek leads the Warbound in Hulks place while Hulk, Hiroim, and Caiera attempt to obtain the allegiance of Caiera and Hiroim's people.
+
+{{Marvel-villain-stub}}
+[[Category:Hulk supporting characters]]

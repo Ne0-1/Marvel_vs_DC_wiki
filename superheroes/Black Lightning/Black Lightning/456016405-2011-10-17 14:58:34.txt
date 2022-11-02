@@ -1,0 +1,144 @@
+{{About|the comic book character|references to Black Lightning in the work of William Golding|Pincher Martin|the 2009 Russian film|Black Lightning (film)}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name=Black Lightning
+|image=Black lightning nowlan.jpg
+|converted=y
+|caption=Art by [[Kevin Nowlan]].
+|publisher=[[DC Comics]]
+|debut=''Black Lightning'' #1</br> (April 1977)
+|creators=[[Tony Isabella]] (writer)</br>[[Trevor Von Eeden]] (artist)
+|real_name=Jefferson Pierce
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances=[[Justice League]]<br/>[[Outsiders (comics)|Outsiders]]<br/>[[United States Department of Education|U.S. Department of Education]]</br>[[International Olympic Committee]]
+|aliases = <!-- optional: actual identities the character uses, not nicknames -->
+|supports =<!--optional-->
+|powers=[[List of superhuman features and abilities in fiction#Electric manipulation|Electricity generation and manipulation]],<br />Limited flight<br />[[List of superhuman features and abilities in fiction#Force field generation|Force field generation]],<br />Skilled [[martial arts|martial artist]]<br />Olympic level athlete
+|cat=super
+|subcat=DC Comics
+|hero=y
+|sortkey=Black Lightning
+}}
+'''Black Lightning''' ('''Jefferson Pierce''') was one of the first major [[African American]] [[superhero]]es to appear in [[DC Comics]].<ref>DC Comics' first superhero of African descent is [[Mal Duncan]], who debuted in ''[[Teen Titans]]'' #26 (March–April 1970).</ref> He debuted in ''Black Lightning'' #1 (April 1977), and was created by [[Tony Isabella]] and [[Trevor Von Eeden]].<ref name="dc-ency">{{Cite book  | last = Beatty | first = Scott | author-link = Scott Beatty | contribution = Black Lightning | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 51  | publisher = [[Dorling Kindersley]]  | place = London  | year = 2008 | isbn = 0-7566-4119-5  | postscript = <!--None-->}}</ref>
+
+== Publication history ==
+[[Image:Black lightning JLA.jpg|thumb|left|150px|Black Lighting, cover details, ''[[Justice League of America]]'' #12. Art by [[Alex Ross]].]]
+The original candidate for DC Comics' first headlining black superhero was a character called the Black Bomber, a black hero who was actually a white racist and later described by comics historian [[Don Markstein]] as "an insult to practically everybody with any point of view at all."<ref>[http://www.toonopedia.com/b_lightn.htm Black Lightning] at [[Don Markstein's Toonopedia]]</ref> When the editor who had approved the Black Bomber left the company before the character had seen print, [[Tony Isabella]] (whose previous writing experience included [[Luke Cage]], [[Marvel Comics]]' first black superhero with his own title) was asked to salvage the character.  Isabella managed to convince editors of his Black Lightning character which he had been working on for some time, mentioning that his characters along the way were merely stepping stones.<ref>{{Cite web|last=Isabella| first=Tony|date=30 August 2007|
+title=TONY'S ONLINE TIPS for Thursday, August 30, 2007| url=http://www.worldfamouscomics.com/tony/back20070830.shtml|work=Worldfamouscomics.com| quote=''How did you come up with the character of Black Lightning? What was he intended to be? Describe the character as you created him.''That's a long story, which has been told many times. The short version is that I'd been working toward creating a new black super-hero who would be an iconic role model. The other characters I'd written along the way were stepping stones to Black Lightning. I created Jefferson Pierce to be a reluctant warrior, a man of many extraordinary talents who would hear the call of his community and respond to it, even at great cost to his personal happiness. When DC Comics planned to publish a black hero who was actually a white racist, I talked them into dumping that character and going with my creation instead.}}</ref>
+
+Tony Isabella wrote the first 10 issues of ''Black Lightning'', before handing it over to [[Dennis O'Neil]]. Only one O'Neil-scripted issue came out before the series was canceled in 1978 as part of a general large-scale pruning of the company's superhero titles known as the [[DC Implosion]] (which also canceled the debut of ''[[Vixen (comics)|Vixen]]'', which would have been DC's first title starring a ''female'' black superhero).{{Citation needed|date=April 2011}} Issue #12 was published in ''[[Cancelled Comic Cavalcade]]'' and ''World's Finest'' #260.
+
+Black Lightning made a number of guest appearances in various titles over the next few years, including a string of issues of ''[[World's Finest Comics|World's Finest]]'' written by O'Neil, then shifting to [[Detective Comics]] and a two-part story in ''[[Justice League|Justice League of America]]'' in which the League invited him to join, but he turned them down.
+
+In 1983, with his powers restored, he regularly appeared again as a member of the [[Batman]]-led superhero team [[Outsiders (comics)|the Outsiders]]. When ''The Outsiders'' ended, he returned to making occasional guest appearances.
+
+In 1995, a new ''Black Lightning'' series began, with art by Eddy Newell, again written by [[Tony Isabella]], who was fired after the eighth issue. After [[Tony Isabella]] left, the series was canceled after only five more issues. The reason for [[Tony Isabella]] leaving could have been because of editorial disagreements about the direction of the series. However, Isabella has since revealed that he believes the editor fired him because of a wish to bring in a new writer in order to "create his own power base at DC Comics".<ref>[http://forum.newsarama.com/showpost.php?p=2640064&postcount=150 Tony Isabella's post] at [[Newsarama]]</ref>
+
+A "Black Lightning: [[Year One]]" six-issue [[limited series]], written by [[Jen Van Meter]] and illustrated by [[Cully Hamner]]<ref>[http://www.dccomics.com/news/?nw=6740 DC Nation: #31] DC Comics website, October 18, 2006</ref> saw a bi-weekly release in 2009, and was nominated for two [[Glyph Awards]]<ref>[http://blog.newsarama.com/2010/02/17/2010-glyph-awards-announced/ Newsarama] February 17, 2010</ref> in 2010.
+
+== Fictional character biography ==
+=== Year One ===
+A [[gold medal]]-winning [[Olympic Games|Olympic]] [[decathlon|decathlete]], Jefferson Pierce returned to his old neighborhood in the Southside ([[Suicide Slum]]) section of the city of [[Metropolis (comics)|Metropolis]], with his wife Lynn Stewart and his daughter [[Thunder (comics)|Anissa]] to become the [[Principal (school)|principal]] of Garfield [[high school|High School]]. Southside as it was once known was where his father renowned [[journalist]] Alvin Pierce had been murdered. Guilt over this event was a factor in his decision to leave the city of Metropolis. Suicide Slum was being torn apart by a local [[organized crime|organized criminal gang]] called [[100 (DC Comics)|the 100]], shady corporations, and crooked local politicians like [[Tobias Whale]]. Peter Gambi, a family friend and tailor, had taught a much younger Jefferson how to suppress his inborn [[metahuman]] abilities so that he would not accidentally hurt any of the people he cared about.<ref>''Black Lightning: Year One'' #1 (March 2009)</ref> Upon his return Gambi suggested to Jefferson that he should use his powers to help the neighborhood, and refers him to a plaque with the paraphrased [[Milo Sweetman]] quote ''"Justice, like lightning should ever appear to some men hope, to other men fear"'', the original text of which was ''"Justice, like lightning, ever should appear to few men's ruin, but to all men's fear. Of mortal justice if thou scorn the rod, believe and tremble, thou art judged of God."'' Appalled by the public murder of Earl Clifford, one of his more promising students, Pierce tried to intervene on behalf of the schoolchildren, but quickly learned that the 100 objected violently to any interference.<ref name="dc-ency"/><ref>As seen in ''Black Lightning: Year One'' #1 (March 2009)</ref> Pierce adopts the costumed identity "Black Lightning".  Years later, he would tell fellow African American superhero [[Mister Terrific (Michael Holt)|Mister Terrific]] that he chose the name ''Black'' Lightning because he "was the only one of us around" at the time, and he "wanted to make sure everyone knew who they were dealing with."<ref>''Infinite Crisis'' #6 (May 2006)</ref>
+
+=== Outsiders ===
+{{main|Outsiders (comics)}}
+After his own series was canceled, Black Lightning lost his electrical powers, but continued fighting without them. The loss eventually turned out to be [[psychosomatic medicine|psychosomatic]], a symptom of a crisis of confidence resulting from the accidental death of a female bystander named Trina Shelton during an altercation between Black Lightning and some gun-wielding thugs. Batman, wanting to recruit him to rescue [[Lucius Fox]] in Markovia, helped him regain his powers; this eventually led him to join the Batman's Outsiders.<ref name="dc-ency"/>  During his time with the Outsiders, a group of villains called the [[Masters of Disaster (comics)|Masters of Disaster]] captured Black Lightning at the behest of the parents of Trina Shelton to avenge the death of their daughter;<ref>''Adventures of the Outsiders #34'' June 1986</ref> however, upon learning that he still regretted what happened and was willing to be executed by them, they sacrificed their lives to save him. During the [[Invasion! (DC Comics)|Invasion!]] crossover, the Dominators detonated a Gene-Bomb that wreaked havoc with anyone possessing the [[metahuman#The Metagene|metagene]] by making them lose control of their powers.<ref>''Invasion!'' #1 (January 1989)</ref> After the breakup of the Outsiders, Black Lightning moved to Brick City to continue his solo career in 1995's ''Black Lightning'' #1.<ref>''Black Lightning'' #1 (February 1995)</ref>
+
+=== Secretary of Education ===
+[[File:Blpierce.jpg|thumb|left|180px|Cover to ''Black Lightning'' v2, #1, Eddy Newell]]
+When [[Lex Luthor]] was elected [[President of the United States]] in 2000, he appoints Jefferson Pierce as [[United States Secretary of Education|Secretary of Education]], Pierce accepting as he concludes that he can do more good working within the system than outside it.<ref name="dc-ency"/>  He resigned amidst controversy over his "worst-kept secret in Washington" identity as Black Lightning, and his alleged inadvertent killing of a criminally-minded corporate [[Chief executive officer|CEO]], for which President [[Pete Ross]] (who had since succeeded Luthor) then pardoned him.
+
+Making frequent [[guest appearance]]s in several DC series, Pierce has appeared in ''[[Green Arrow]]'' (who had a one night stand with his niece, a successful attorney named Joanna Pierce). Pierce helped [[Green Arrow]] track down [[Doctor Light (Arthur Light)|Dr. Light]] in the ''Green Arrow'' "Heading into the Light" story arc. He also appeared in the new ''[[Outsiders (comics)|Outsiders]]'', of which his daughter, Anissa (using the alias [[Thunder (comics)#Anissa Pierce|Thunder]]), is a member. He came to fight the new [[Sabbac]] and help his daughter alongside [[Captain Marvel Jr.]] and the Outsiders. He had on an outfit that mixed his second outfit with the colors of the first. After teaming up with the Outsiders, incoming President [[Pete Ross]] asked him to resign as Secretary of Education and he did.
+
+At some point prior to his resignation, Pierce used his pull in Washington to deny powerful metahuman gangster known as [[Holocaust (DC Comics)|Holocaust]] permits to build a Casino on Paris Island in Dakota. This would come back to haunt Pierce sometime later when the enraged Holocaust attacked him while he was giving the graduation speech at [[Ernest Hemmingway]] Highschool.<ref>''Brave and the Bold'' (vol. 3) #24</ref>
+
+=== Infinite Crisis ===
+{{Main|Infinite Crisis}}
+In issue #5 of the ''Infinite Crisis'' storyline, it was shown that Black Lightning was one of the eight people [[Batman]] had considered to aid him in destroying the [[OMAC (comics)|Brother Eye]] satellite, which controlled the [[OMAC (comics)|OMACs]].  [[Booster Gold]], who was not on the list of eight, but knew about the candidates from his knowledge of the future, contacted Lightning before Batman did, as historical data from the future had shown who had aided Batman. Lightning accepted, arriving at the Bat cave to await orders. He then forged an uneasy yet effective alliance with [[Mister Terrific (Michael Holt)|Mister Terrific]], combining their powers of electrical manipulation and invisibility technology to strike the villainous AI from the inside.
+
+After the [[Secret Society of Super Villains|third Society of Super Villains]] was formed, Black Lightning as a member of [[Brad Meltzer|Brad Meltzer's]] new [[Justice League]] began using his status as [[Lex Luthor]]'s former Secretary of Education to gain information from super villains.<ref>''Justice League of America'' vol 2 #2 (November 2006)</ref>
+
+=== Outsiders redux ===
+In ''Outsiders'' (vol. 3) #45, it was revealed that three years have passed since Jefferson's niece Joanna Pierce was murdered, and that upon initially learning of her death, Jefferson went after the corrupt businessman Martin Somers, the man who was responsible. He had intended to wound Somers with his lightning shot, but apparently ended up killing him. Jefferson turned himself in to the authorities. However, it is revealed that [[Deathstroke]] was responsible for Somers' death by firing a dart of toxin to Somers moments before Jefferson shot his lightning. Hence, he was dead before he hit the ground. [[Jason Todd]] discovered the truth while eavesdropping on the assassin's conversation with [[Lex Luthor]] (who was really [[Alexander Luthor, Jr.]] in disguise) and contacted [[Dick Grayson|Nightwing]] with this information. When Nightwing and Anissa told Jefferson of this in prison, he disbelieved it and intended to pay for Somers' death. Anissa herself intended to break her father out of [[Iron Heights]] Prison. Upon learning from Todd that other inmates were about to carry out a contract hit on Pierce (whose identity as an inmate had leaked to unknown parties), the Outsiders resolved to assist her. They freed him from jail and with the audio recording of Deathstroke's conversation cleared his name.
+
+=== Justice League of America ===
+Years ago, [[Green Arrow]] brought Black Lightning to the attention of the [[Justice League|Justice League of America]], who extended an offer of membership to the protector of Suicide Slum.  He turned down the offer, preferring to work as a loner and focus on street-level crime.<ref>''Justice League of America'' #173-174 (December 1979-January 1980)</ref>  Most recently, however, Black Lightning has joined the JLA, once again appearing with a modified costume.<ref name="dc-ency"/> He appears to be primarily based in Washington DC again. Black Lightning assists the JLA with intelligence gathered from the criminal community. Many super villains still believe he is 'in' with Lex Luthor and are willing to cooperate. Jefferson also helps the team in a battle against [[Amazo]]. He was the first member of the League to respond to the recent attacks made by the Amazons of [[Themyscira]], and he also saved the President of the United States in this event.
+
+Black Lightning was the focus of the one-shot ''[[Final Crisis]]: Submit'', in which he helped the new [[Tattooed Man#Mark Richards|Tattooed Man]] and his family escape at the cost of his own freedom. He is subsequently shown in issue 4 of ''Final Crisis'' under Darkseid's thrall.
+
+=== Outsiders ===
+Recently, Black Lightning was recruited by [[Alfred Pennyworth]] to join a new version of the Outsiders following an attack by [[Doctor Hurt]] which left Thunder comatose. Unlike previous iterations of the team, these Outsiders must live "off the grid" and stay out of contact with friends and family for months at a time. It is confirmed that, due to this new commitment, Black Lightning has left the Justice League.<ref>''Justice League of America'' (vol. 2) #31</ref>
+
+== Black Lightning's daughters ==
+Jefferson has had two daughters by his ex-wife Lynn Stewart, both of whom have followed in his footsteps and become superheroes.
+His oldest daughter [[Thunder (comics)|Anissa Pierce]] has taken on the name "Thunder" and served on an incarnation of his team the [[Outsiders (comics)|Outsiders]]<ref>As seen in ''Outsiders'' vol. 3 #1 (August 2003)</ref> and his sixteen year old younger daughter, [[Lightning (DC Comics)|Jennifer Pierce]], was recently recruited by the [[Justice Society of America]] under the code name "Lightning".<ref>As seen in Justice Society of America #12 (March 2008)</ref> A version of Lightning first appeared in ''[[Kingdom Come (comics)|Kingdom Come]]'' a 1996 miniseries published by DC Comics.
+
+In ''Justice League of America'' (vol 2 )#27, Pierce claims that people frequently ask him if he is the father of [[Static (DC Comics)|Static]], much to his chagrin. It is later revealed that Static is in fact a fan of Black Lightning, and has a poster of the hero in his room in [[Titans Tower]].<ref>''Teen Titans'' (vol 3) #83</ref>
+
+== Powers and abilities ==
+Originally,<ref>Black Lightning #1 (April 1977)</ref> he was described as having no innate powers, using a belt that allowed him to generate a force field and project electrical bolts. This power was later revealed to exist as a result of the [[Metagene]], according to ''[[Invasion! (DC Comics)|Invasion!]]'' #3.<ref>''Invasion!'' #3 (March 1989)</ref>
+
+According to ''Black Lightning: Year One'', Jefferson Pierce is in current continuity a [[metahuman]] who was born with the ability to generate and magnify external localized electromagnetic phenomena, by manipulating intense bio-electric fields generated by his body. This is a power that he internalized and kept hidden for much of the early part of his adult life.<ref>As seen in Black Lightning: Year One #1 (March 2009)</ref>  Exactly how much electrical energy Black Lightning can generate is unknown but he can easily stun or kill a man with his internal powers, and on one occasion he was able to restart [[Superman]]'s heart after the Man of Steel had suffered from a near-fatal [[Kryptonite]] exposure. He can also generate a powerful electro-magnetic force field capable of stopping projectiles, however, this act requires considerable effort and concentration.<ref name="dc-ency"/> He has demonstrated the ability to create an electromagnetic repulsion field which grants him limited flight capabilities. Pierce also maintains his Olympic-level physical conditioning, giving him above average strength, speed, and stamina. Under Batman's tutelage, he has become a highly skilled hand-to-hand martial artist and combatant.
+
+==Reception==
+[[IGN]] listed Black Lightning as the 85th greatest comic book hero of all time describing him as a true hero and a born badass that has earned his spot on the Justice League.<ref>{{cite web | url=http://www.ign.com/top/comic-book-heroes/85 | title=Black Lightning is number 85 | publisher=[[IGN]] | accessdate=May 9, 2011}}</ref>
+
+== Other versions ==
+*Black Lightning has appeared in the ''[[Justice League Unlimited]]'' spin-off comic book. His appearances are in issues #15<ref>[http://www.comics.org/details.lasso?id=244875  GCD :: Issue Details<!-- Bot generated title -->]</ref> and #27.<ref>[http://www.comics.org/details.lasso?id=309226 GCD :: Issue Details<!-- Bot generated title -->]</ref>
+*During a JLA mission, the [[Vixen (comics)|Vixen]] encounters an alternate version of Black Lightning called the "Brown Bomber", a contemporary version of the original Black Bomber envisioned prior to Tony Isabella's involvement with the character.<ref>''Justice League of America'' (vol. 2) #26 (December 2008)</ref><ref>{{cite news |first= |last= |title=What's Happenin' Baby? Meet the Brown Bomber! |url=http://againwiththecomics.blogspot.com/2008/10/whats-happenin-baby-meet-brown-bomber.html | publisher=www.againwiththecomics.blogspot.com| date=2008-10-31 | accessdate=2009-09-19 }}</ref>
+
+==In other media==
+===Television===
+* Black Lightning appears in the ''[[Batman: The Brave and the Bold]]'' episode "Enter the Outsiders!" voiced by [[Bumper Robinson]]. He seems to be the lead of the trio composed of him, [[Katana (comics)|Katana]], and [[Metamorpho]]. They work for a sewer dweller named [[Sleez|Slug]] at first, but turn on him when [[Wildcat (comics)|Wildcat]] convinces them to fight for good. Black Lightning later uses his electricity to save Wildcat's life with instructions from Katana when the elder falls victim to a heart attack. Black Lightning and his comrades are later seen training with Batman in the teaser of "Duel of the Double Crossers!". Black Lightning's hatred for society is shown in "Inside the Outsiders!". Black Lightning had a fleeting cameo in "The Siege of Starro! Part One" (as one of the heroes under Starro's mind control) in which he blasted Firestorm with lightning and was shown to have a new costume. He reappeared in the teaser of "Requiem for a Scarlet Speedster!", in which he and the rest of the Outsiders ([[Katana (comics)|Katana]], [[Metamorpho]], [[Geo-Force]], and [[Halo (comics)|Halo]]) help Batman stop Kobra and his cultists from completing a ritual. He and Geo-Force save Batman from being crushed by a snake. Though Batman compliments Black Lightning's ability to lead, the Outsiders forgot to take out the bridge behind them, resulting in reinforcements coming in.
+
+* Both the animated versions of Black Lightning and Static share a shout-out joke;  as they both wear a blue and yellow outfit (trench coat & jacket). In addition, the pilot episode of ''[[Static Shock]]'' features a scene where Static tries on a costume that looks similar to Black Lightning's, while Black Lightning in ''[[Batman: The Brave and the Bold]]'' jokes he needs more than a "little static shock" to defeat his enemies (By the same token, Wildcat jokes that it was going to take "a whole lot more than a little static shock to slow this old man down!").
+
+* Prior to appearing in ''[[Batman: The Brave and the Bold]]'' in 2009, Black Lightning had never appeared in any of the many television series based on DC Comics superheroes. This in itself is not unusual for a character of Black Lightning's relative obscurity, but is notable because at least three such series have contained specially-created black superheroes with electrical powers who ''weren't'' Black Lightning - series regular [[Black Vulcan]] in ''[[Super Friends]]'' ([[Hanna-Barbera]] did not want to pay the larger licensing fee required to cover the royalty due to the creators, so decided to create its own version of the character{{Citation needed|date=February 2009}}); Soul Power, who appeared in ''[[Static Shock]]'' and was originally intended to have been Black Lightning, but DC Comics would not permit the use of Black Lightning{{Citation needed|date=February 2009}}; and Juice in ''[[Justice League Unlimited]]'', based on Black Vulcan.
+
+===Comic strip===
+* Black Lightning's earliest appearances outside of his own title in 1977 were in ''[[The World's Greatest Superheroes]]'' newspaper comic strip.  There, he met [[Batman]] and other heroes before his rejection of [[Justice League|Justice League of America]] membership.
+
+===Film===
+* Actor [[Terrence Howard]], who previously played the [[Marvel Comics]] character [[War Machine (comics)|Jim Rhodes]] in 2008's ''[[Iron Man (film)|Iron Man]]'', has expressed interest in playing Black Lightning in a potential film adaptation, remarking, "I don’t think he’s really been explored."<ref>[http://splashpage.mtv.com/2009/04/08/exclusive-terrence-howard-talks-iron-man-2-eyes-dc-for-future-roles/]</ref>
+* [[LeVar Burton]] provides the voice of Black Lightning in his single speaking line in the animated movie, ''[[Superman/Batman: Public Enemies]]''. He is one of the heroes who agrees to work for [[Lex Luthor]] after the supposedly reformed villain is elected President.''<ref>[http://www.worldsfinestonline.com/news.php?action=fullnews&id=502 The World's Finest]</ref>
+* An evil version of Black Lightning known as '''Black Power''' appears as a member of the [[Crime Syndicate of America]] in the animated film ''[[Justice League: Crisis on Two Earths]]''. The heroic Black Lightning also makes an appearance, along with [[Aquaman]], [[Black Canary]], [[Firestorm (Jason Rusch)]], and [[Red Tornado]], presumably as backup members of the Justice League, although their actual membership status is never explicitly stated.<ref>http://www.newsarama.com/common/media/video/player.php?videoRef=NA_100119_Justice-League</ref> Black Lightning, and the other backups, appear again after the final battle as Batman suggests initiating a membership drive. While Black Lightning does not have any lines his grunts are provided by [[Cedric Yarbrough]], who was credited only in his role as Firestorm.
+
+===Video Game===
+* Bumper Robinson reprises his role of Black Lightning in ''[[Batman: The Brave and the Bold – The Videogame]]''.
+* [[Alexander Brandon]] voices Black Lightning in the ''[[DC Universe Online]]'' video game.
+
+== Homages/parodies ==
+* [[Sinbad (actor)|Sinbad]] once appeared on [[NBC]]'s ''[[Saturday Night Live]]'' dressed as Black Lightning, crashing Superman's funeral. The other dignitaries and superheroes did not recognize him, even though he claimed to have taught Superman how to fly. As the funeral breaks up, he is spotted grabbing the free shrimp from the buffet table.
+
+* In the commercial of ''[[Alltel]]'' there is a character similar to Black Lightning, he brings Chad the spokesperson to tell the family about the offer and zaps away the competition.
+
+== References ==
+{{Reflist|3}}
+
+== External links ==
+*[http://www.mykey3000.com/cosmicteams/profiles/blacklightning.html Black Lightning] at Cosmic Teams
+*[http://www.dcuguide.com/who.php?name=blacklightning2 Black Lightning] at the DCU Guide
+*{{Comicbookdb|type=character|id=361|title=Black Lightning}}
+*[http://www.fanzing.com/mag/fanzing32/hoj.shtml Fanzing: Black Lightning history]
+*[http://darkmark6.tripod.com/blackligind.htm Black Lightning Index]
+*[http://www.fanzing.com/mag/fanzing50/feature15.shtml  Fanzing: Diversity In The DC Universe: 1961 - Today]
+*[http://www.dcindexes.com/database/series-find-results.php Database and Cover gallery for both Black Lightning series]
+*[http://www.worldfamouscomics.com/tony Tony Isabella] at World Famous Comics
+*[http://outsiders.atspace.us/ The Outer Observatory] A fansite for The Outsiders
+*{{IMDb character|0124083|Black Lightning}}
+{{Justice League}}
+
+[[Category:1977 comic debuts]]
+[[Category:Comics characters introduced in 1977]]
+[[Category:DC Comics martial artists]]
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics titles]]
+[[Category:Fictional African-American people]]
+[[Category:Fictional characters with electric abilities]]
+[[Category:Fictional schoolteachers]]
+
+[[de:Black Lightning]]
+[[fr:Black Lightning]]
+[[pt:Raio Negro (DC Comics)]]
+[[fi:Musta Salama (DC Comics)]]
+[[tl:Black Lightning]]

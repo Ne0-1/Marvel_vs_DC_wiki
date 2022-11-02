@@ -1,0 +1,46 @@
+{{originalresearch|date=October 2007}}
+{{about|the DC Comics character|the Marvel Comics supervillain|Ion (Marvel Comics)}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Ion Creature.jpg|250px]]
+|caption=The Ion entity, extracted by force from host [[Kyle Rayner]]. Art by [[Ethan Van Sciver]].
+|character_name=Ion
+|publisher=[[DC Comics]]
+|debut= '''As Kyle Rayner:'''<br>''Green Lantern'' vol. 3, #142<br>'''Revealed as Creature:'''<br>''Green Lantern: Sinestro Corps Special'' #1
+|creators='''Original Concept:'''<br>[[Judd Winick]]<br>[[Dale Eaglesham]]<br>'''Ion Creature:'''<br>[[Geoff Johns]]<br>[[Ethan Van Sciver]]
+|alliances=[[Green Lantern Corps]]<br>[[Guardians of the Universe]]
+|aliases=
+|powers=First Version: The sum total of all the energies contained by the [[Guardians of the Universe]] and the Central Power Battery which granted the possesor nigh-omnipotent control over time space and reality. Second Version: Bestows its host with flight, energy manipulation, and other powers similar to a [[Green Lantern Corps]] [[Power ring (weapon)|Power Ring]] and (when fused with [[Kyle Rayner]]) the [[Alan Scott|Starheart]].
+|}}
+
+'''Ion''' is a [[fictional character]], a [[superhero]] from [[DC Comics]].  Created by [[writer]] [[Judd Winick]] and artist [[Dale Eaglesham]] for ''[[Green Lantern]]'' (vol. 3) #142, Ion was devised as the new superhero identity for ''Green Lantern'' protagonist [[Kyle Rayner]]. It was later revealed to be a benevolent [[symbiote]], bestowing its power to a host willfully. This followed a similar [[retcon]] as [[Parallax (comics)|Parallax]], originally the new supervillain alias of [[Hal Jordan]], that was revealed to be a parasitic embodiment of fear in the 2004-2005 miniseries ''[[Green Lantern: Rebirth]]''.
+
+==Fictional character biography==
+[[Image:Ion-20060124115140093.jpg|thumb|150px|left|Kyle Rayner as Ion, the Torchbearer of the [[Guardians of the Universe]].]]
+===Power of Ion===
+Kyle first assumed the Ion identity after a prolonged series of events stemming from the death of his girlfriend [[Alexandra DeWitt|Alex]]. First, he unconsciously expelled all his feelings of rage from himself, which took physical form as one of Kyle's childhood nightmares and called itself Oblivion. Kyle defeated Oblivion in the ''[[Green Lantern: Circle of Fire|Circle of Fire]]'' storyline, and his powers were boosted as a result. Over time his powers began to grow even stronger until Kyle realized he was tapping into the Green Lantern energy left in the sun after Hal Jordan had died. After a battle over control of the power with the villain [[Nero (DC Comics)|Nero]], Kyle absorbed all the powers of the Green Lantern Corps, resulting in Kyle taking the name ''Ion''.
+
+Kyle used his newly expanded abilities to recreate the [[Guardians of the Universe]] on the planet Oa, whom he placed in the care of [[Ganthet]] and ordered him to teach them humility, and then recharged the Central Power Battery on Oa. Kyle divested himself of his new abilities soon afterwards when he realized he was losing touch with the people he was protecting.<ref>{{Cite comic|writer=[[Geoff Johns]]|penciled by=[[Ethan Van Sciver]]|story=Green Lantern: Rebirth|title=[[Green Lantern: Rebirth]]|issue=1-6|date=October 2004-April 2005|publisher=[[DC Comics]]}}</ref>
+
+===Return of Ion===
+Some time after resuming the Green Lantern identity, Kyle became Ion once again when [[Jade (comics)|Jade]] transferred all of her abilities to Kyle after her death during the events of the [[Rann-Thanagar War]].<ref>{{Cite comic|writer=[[Ron Marz]]|title=[[Ion (comics)|Ion The Torchbearer]]|issue=1|date=March 2006|publisher=[[DC Comics]]}}</ref>  This was then followed by a twelve part Ion miniseries.  The series follows Kyle as he accepts his new role as "The Torchbearer" for the Guardians and the Corps.  While doing so, he is confronted with the most challenging adversaries from his past as Green Lantern and the sudden illness of his mother.  The events of the series are revealed to be a conspiracy against him and serve to launch Kyle towards his roles in the Sinestro Corps War and the events of Countdown to Final Crisis.<ref>''Ion: Guardian of the Universe'' #1-12</ref>
+
+[[Image:Sodam Yat Ion.jpg|thumb|140px|left|Sodam Yat as ION<br>Art by Patrick Gleason]]
+
+===Sinestro Corps War===
+{{main|Sinestro Corps War}}
+The first issue of "The Sinestro Corps" revealed that like the retcon origin of Parallax, the Ion symbiote was a separate being, forcefully extracted from Kyle and imprisoned on [[Qward]] by the [[Sinestro Corps]]. Upon expelling Ion from Rayner, [[Sinestro]] forced Kyle to bond with [[Parallax (comics)|Parallax]], who invaded Kyle and took control of his body.<ref>{{Cite comic|writer=[[Geoff Johns]]|penciller=[[Ethan Van Sciver]]|story=Sinestro Corps War|title=Green Lantern: Sinestro Corps Special|issue=1|date=June 2007|publisher=[[DC Comics]]}}</ref>  The Ion entity was eventually freed by several members of the Green Lantern Corps after being experimented on by the [[Anti-Monitor]].<ref>''Green Lantern'' (vol. 4) #23</ref>  
+
+The Guardians, who now feel that Kyle has been tainted by Parallax, have recently chosen a new host for Ion, the [[Daxam|Daxamite]] [[Sodam Yat]].
+
+Witnessing the creation of the new Ion, Superman-Prime confronts him and they fight in the skies above New York. The pair are matched in terms of power until the fight moves into a Nuclear Power Plant where Sodam Yat's Daxamite physiology causes him to be severely weakened by the lead present in the reactor. As he tries to escape the power plant, Ion is impaled with a uranium rod by Prime. His powers diminished by lead poisoning, Sodam Yat continues to fight but Superman-Prime gains the upper hand, beating him seemingly to death. Still holding Sodam Yat in one hand, Superman-Prime turns his attention to Guy Gardner and John Stewart.
+
+In ''Tales of the Sinestro Corps Presents: Ion'', following the events of the war, The Guardians request Kyle Rayner assist Sodam in adjusting to his new role. While speaking about Sodam's history and attitude as a Lantern, it is revealed that Sodam must now permanently wear a Power Ring (despite his possession of the Ion powers) to prevent the lead in his body from killing him. They are then attacked by [[Nero (DC Comics)|Nero]], who had been freed during the initial assault on Oa but had not participated in the overall Sinestro Corps story. Kyle fights to less than his abilities to encourage Sodam to embrace his status as Ion. Sodam eventually defeats Nero by taking control of his own constructs- something Kyle states that he had never attempted.
+
+==References==<!--needs to include references other than Newsarama interviews-->
+{{Reflist}}
+
+{{-}}
+{{Green Lantern}}
+
+[[Category:DC Comics aliens]]
+[[Category:Extraterrestrial superheroes]]

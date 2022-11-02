@@ -1,0 +1,31 @@
+{{contradict}}
+
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[image:karnakbust.jpg|250px]]
+|caption=Karnak, as depicted in a bust from [[Bowen Designs]].
+|comic_color=background:#ff8080 
+|character_name=Karnak
+|real_name=(unrevealed)
+|publisher=[[Marvel Comics]]
+|debut=''[[Fantastic Four]]'' #45 (1965)
+|creators=[[Stan Lee]]<br>[[Jack Kirby]]
+|alliance_color=background:#ffc0c0
+|status=Active
+|alliances=[[Inhumans]]
+|previous_alliances=
+|aliases=
+|relatives=[[Black Bolt]], [[Gorgon (comics)|Gorgon]](cousins) [[Triton (comics)|Triton]] (brother)
+|powers=Sense weak points
+|}}
+
+'''Karnak''' is a [[fictional character]] on the [[Marvel Universe]]. He is a member of the Inhuman race, one of those who form the [[Inhumans|Inhuman]] Royal Family. Cousin of [[Black Bolt]], king of the Inhumans, Karnak has the ability to find the weak point in any person or thing.  Thus, he is usually used as planner by the Inhumans.
+
+He is the brother of Triton, who endured Terrigenesis before he did. However, Triton's Terrigenesis was so extreme that his parents begged that Karnak not have to endure the procedure. Instead, he was sent to a monastery, where he learned martial arts.
+
+He is usually attended by his cousins Gorgon and [[Triton (comics)|Triton]]. He has taken part in most of the Inhumans' adventures, such as the [[Kree]]-[[Skrull]] War, the many moves of the Inhuman city of Attilan, and being sent to [[Earth]] with Gorgon in an attempt to find Black Bolt's son with [[Daredevil]]'s help.
+
+
+[[Category:Inhumans]]
+
+
+{{Marvel-Comics-stub}}

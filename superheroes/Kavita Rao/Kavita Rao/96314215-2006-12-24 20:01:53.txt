@@ -1,0 +1,37 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image= [[Image:kavitarao.jpg|250px]]
+|caption= Dr. Kavita Rao in [[Astonishing X-Men]]. Art by [[John Cassaday]].
+|comic_color=background:#ff8080
+|character_name=Kavita Rao
+|real_name=Dr. Kavita Rao
+|publisher=[[Marvel Comics]]
+|debut=''[[Astonishing X-Men]]'' (Vol. 3) #1 ([[2004]])
+|creators=[[Joss Whedon]]<br>[[John Cassaday]] 
+|alliance_color=background:#cccccc
+|status=alive
+|alliances=Benetech
+|previous_alliances=[[Ord (comics)|Ord of the Breakworld]]
+|aliases=
+|relatives=
+|powers=Genius-level intellect, Master geneticist
+|}}
+'''Dr. Kavita Rao''' is a [[fictional character]] in the [[Marvel Comics]] [[Marvel Universe|universe]], associated with the [[X-Men]]. She first appeared in and featured prominently in the first story arc of [[Astonishing X-Men]] in 2005.
+
+=="Hope" in Astonishing X-Men==
+{{spoiler}}
+Dr. [[Rao]] is a world-renowned geneticist from [[India]] who developed a serum (later called "Hope") which could "cure" [[mutant (fictional)|mutants]], turning them into normal humans.
+
+Hundreds of mutants immediately signed up for the procedure at Benetech (the corporate backer of her research). The X-Men debated the merits of the cure and the significance of labelling the mutant condition a disease.  The chance at shedding his "beastly" appearance and avoiding any further secondary mutations held significant appeal for Hank McCoy (aka [[Beast (comics)|Beast]]) and he considered taking the serum.
+
+It was later revealed that Rao had been working for the alien [[Ord (comics)|Ord]] of the Breakworld who also had in his custody [[Colossus (comics)|Colossus]] who was, at that time, thought to be dead. The X-Men defeated Ord and Benetech, and Ord was delivered into the hands of [[S.H.I.E.L.D.]] Dr. Rao's work was destroyed by [[Wolverine]], leaving Hank with the last sample of "Hope".
+
+==Other media==
+{{spoiler}}
+In the [[2006]] movie ''[[X-Men: The Last Stand]]'', Kavita Rao was played by Iranian-American actress [[Shohreh Aghdashloo]]. This is despite claims made by Aghdashloo in an interview with [[Entertainment Weekly]] that she would be playing [[Cecilia Reyes|Dr. Cecilia Reyes]]. Raph Winter, producer of all three movies, subsequently stated that Aghdashloo would be playing Rao.
+
+In the film (as in the comic), Rao is the inventor of the mutant cure, which she created with the [[DNA]] of [[Leech (comics)|Leech]].  Towards the end of the movie, she is killed by [[Quill (comics)|Quill]]
+
+[[Category:X-Men supporting characters|Rao, Kavita]]
+[[Category:Fictional Indians|Rao, Kavita]]
+[[Category:Fictional scientists|Rao, Kavita]]
+[[Category:Fictional geniuses|Rao, Kavita]]

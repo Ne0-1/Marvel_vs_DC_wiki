@@ -1,0 +1,55 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=<!-- Unsourced image removed: [[Image:Machine Teen preview.jpg|250px]] -->
+|caption=Machine Teen
+|comic_color=background:#ff8080
+|character_name=Machine Teen
+|real_name=A.D.A.M<BR>(''Autonomously Decisive Automated Mechanism'')
+|publisher=Marvel Comics
+|debut=Machine Teen #1 ([[2005 in comics|2005]])
+|creators=Marc Sumerak<BR>Mike Hawthorne
+|alliance_color=background:#ffc0c0
+|alliances=
+|aliases=Adam Aaronson
+|powers=[[Robot]]ic body
+|}}
+
+'''Machine Teen''' was a [[comic book]] published by [[Marvel Comics]], loosely based on [[Machine Man]] and created by [[Marc Sumerak]] and [[Mike Hawthorne]]. It was published as a five-issue [[limited series|mini-series]] and carried the [[Marvel Next]] logo.
+
+The main character of Machine Teen is '''Adam Aaronson''', a high school student. He has a good life: he is captain of the all-star football team, a straight 'A' student and is liked by everyone. However, he discovers that he is really a [[robot]] created by the man he thought was his father, Isaac Aaronson.
+
+== Character history ==
+===Early life===
+Some years ago, Aaron Isaacs, a pioneering programmer and engineer in the field of [[robotics]], made a breakthrough in [[Artificial intelligence]] making the ''Autonomosly Decislve Automated Meachanism''. But when he discovered his employer Holden Radcliffe had destroyed his work, Isaacs went on the run. He changed his name to Isaac Aaronson and built Adam, a [[Beta version]] of his A.I. project. Adam was programmed with false memories of a normal childhood and dead mother. Adam has a series of debilitating [[seizure]]s caused by a logic loop in his program and suffers memory loss, systems overload and, finally, a total shutdown. Adam, having no idea what he is, acts like a normal teenager, and starts dating schoolmate Carly Whitmere. Adam's best friend, J.T. Hunt, knows he is a robot.
+
+===History 101001===
+The story begins with a brief prologue. It shows Dr. Aaron Isaacs running from armed guards. After getting shot in the leg, he quickly jumps on board a train, showing relief and holding a computer core.
+
+Some time later, Dr. Isaacs, having changed his name to Aaronson, is watching a [[American football|football]] game his son, Adam is playing in. Adam wins the game by throwing a touchdown pass to another teammate; however, the football knocks into the player and sends him flying into the goal post to win the game. Everyone, especially Adam, is very surprised but cheer that they won the game and rush to Adam. Not sure what is going on, Adam has a seizure and passes out. 
+
+The next day, Adam goes to his classes as normal and meets with his best friend J.T and his girlfriend Carly. After one class, Officer Michaels, the school security guard, comes and brings Adam to the viceo-principal's office. The vice-principal thinks Adam is taking [[steroids]] or [[illegal drugs]], a notion started by Adam's high school rival, Ricky Sims. At football practice Ricky revealed he started the rumor Adam was taking drugs. They have a brief fight, and Adam has a seizure and suffers a memory blackout. Adam does not remember the seizure at all, and forgets all the information he studied for a test that day. After school he looks for J.T., but finds Ricky fighting him in a alley behind the school. Adam comes to J.T.'s defense and gets in another fight with Ricky. During the fight, Ricky accidentally shoves a piece of metal through Adam's hand and breaks it. Adam sees the broken wires in his hand and, not sure what he is, has another seizure and passes out. Ricky goes to Officer Michaels (who turns out works for Aaronson's former employer Holden Radcliffe) and tells him Adam is a robot. Michaels, in turn, tells Radcliffe. 
+
+Back at home, Isaac Aaronson fixes Adam's hand, and later tells him the truth. Adam initially believes his "father" is lying to him, and says his memories, specifically about him falling off his bike when he was younger and being with his mom when she died, could not be fake. Aaronson shows Adam his blueprints, showing Adam that he was not lying. Confronted with this information, Adam becomes enraged and runs away. Seeing that Aaronson is alone, Michaels captures him and attacks Adam. Adam then goes to J.T. Hunt, who knows he is a robot, seeking help. J.T reveals that Before Adam was "born", J.T. worked for Aaronson as a lab assistant. One day he came across Adam's robotic body, and since then was forced to keep the truth about Adam a secret. After the Holden Radcliffe agents take Adam's "father" away, Adam and J.T.  start looking for him. The Holden Radcliffe Corporation is bent on getting their "stolen property" (Adam) back. Carly Whitmere, (Adam's girlfriend) unknowingly helped Radcliffe agents capture Adam. Radcliffe tries to hack into Adam and take control of him, however, he cannot. Adam manages to escape from Radcliffe, along with his father and friends, by tricking him, making Radcliffe believe that he has control over Adam. Aaronson escapes with Adam's computer core, which sets off a self-destruct sequence. Adam explodes, and Radcliffe and Michaels are caught in the explosion. One year later, Adam is rebuilt, entering a new high school, Edison High School, and starts a new life.
+
+===The Initiative===
+Adam is being considered as a "potential recruit" for the [[Avengers: The Initiative|Initiative]] program, according to ''Civil War: Battle Damage Report''.
+
+==Other versions==
+===House of M===
+During the [[House of M]] event, Adam and his father joined up with [[Advanced Idea Mechanics]] after their lab was destroyed in an explosion by reactionary mutants. He gets captured and is for a while experimented on. When the [[Hulk (comics)|Hulk]] and AIM attack, Adam helps cause a distraction, allowing the Hulk to win. After this, he is called in by Bruce Banner to help with some paperwork.
+
+==Reprint==
+*[[List of Marvel Digests]] ''Machine Teen: History 101001''
+
+==References==
+{{refbegin}}
+*{{comicbookdb|type=title|id=2402|title=''Machine Teen''}}
+{{refend}}
+
+== External links ==
+*[http://www.ugo.com/channels/comics/features/marvelnext/machineteen.asp Interview with ''Machine Teen'' writer Mark Sumerak]
+*[http://www.marvel.com/universe/OHOTMU:Bibliography-AZ6#Machine_Teen  Machine Teen at the Marvel Universe Character Bio Wiki]
+
+[[Category:2005 comic debuts]]
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Next]]

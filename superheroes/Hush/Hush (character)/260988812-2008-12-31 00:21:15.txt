@@ -1,0 +1,105 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:Hushx.jpg|225px]]
+|caption=Art from ''Batman'' #619 (September 2003).<br>Pencils by [[Jim Lee]].
+|comic_color=background:#8080ff
+|character_name=Hush
+|real_name=Thomas "Tommy" Elliot
+|publisher=[[DC Comics]]
+|debut='''As Tommy''':<br>''[[Batman (comic book)|Batman]]'' #609 (November 2002)<br>'''As Hush''':<br>''Batman'' #619 (September 2003)
+|creators=[[Jeph Loeb]]<br>[[Jim Lee]] 
+|alliance_color=background:#c0c0ff
+|alliances=
+|aliases= 
+|powers=No superpowers;<br>Master [[surgeon]],<br>[[Martial arts]],<br>Hand-to-hand combat training,<br>Expert [[marksman]].
+|}}
+
+'''Hush''' is a [[fictional character]], a [[comic book]] [[supervillain]] published by [[DC Comics]] and appearing as an enemy of [[Batman]]. Created by writer [[Jeph Loeb]] and artist [[Jim Lee]], the character first appears in ''[[Batman (comic book)|Batman]]'' #609 (November 2002). Following his 12-issue debut arc (''[[Batman: Hush]]''), Hush resurfaced in ''[[Batman: Gotham Knights]]''.
+
+==Character history==
+===Origin===
+'''Dr. Thomas Elliot''' is a childhood friend of [[Bruce Wayne]], and was also born into a wealthy family. Unlike Wayne, however, Elliot hated his parents, despising both his drunk and abusive father and his frail mother, who came from a background of poverty and willingly endured every abuse dealt to her and her son to keep on her lavish lifestyle. Instead of defending Thomas, she forced him to memorize [[Aristotle]], as a way to deal in a subtle, passive way with his father, something he never forgave her for. Driven by his desire for independence and wealth, he cut the brakes on his parents' car, causing a crash that killed his father. His mother was saved in an emergency operation by [[Thomas Wayne|Dr. Thomas Wayne]], which enraged young Elliot. While at a summer camp with Bruce, Tommy attacked a boy and ended up in a psych ward.  He irrationally blamed Bruce and Martha Wayne for his outburst, but he was soon released by an intern named [[Scarecrow (comics)|Jonathan Crane]].  During the next few years, Elliot tended to his mother and, while at first relishing the irony that Bruce had lost his parents, his anger grew when hearing about Bruce Wayne living a life of (apparent) leisure and travel, just the situation Elliot had hoped to create for himself. Shortly before Bruce returned to Gotham to take Batman's mantle, Elliot befriended, over the common ground of their unwillingly sheltered lives, Peyton Riley, the [[Ventriloquist_(comics)#Peyton_Riley|second Ventriloquist]], a relationship of which his mother never approved. Elliot's mother herself unwittingly completed their transition to true villains: when she fully recovered from her cancer, she disowned Tommy and cut him off from the Elliot's fortune in retailation for his continuing relationship with Peyton. Thomas killed her, while Peyton killed their lawyer and destroyed Mrs. Elliot's new will. As far as the rest of the world was concerned, his mother had died of a mere house accident, spurred by her weakened physical condition. Now the recipient of the Elliot fortune, Tommy ditched Riley and began traveling the world, as his nemesis Bruce had. Although he went on to [[Harvard]] and became a successful [[surgeon]], Elliot continued to hold an irrational grudge towards his childhood friend.
+
+At some point in his career, Elliot became the doctor of Edward Nigma (also known as the [[Riddler]]). Nigma, diagnosed with terminal [[cancer]], eventually hijacked one of [[Ra's al Ghul]]'s Lazarus Pits to regain his health. During this mystical treatment, which renders the participant temporarily [[insane]], the highly intelligent Nigma experienced an unexpected epiphany, realizing that Bruce Wayne is Batman. After discovering that they had a common hatred for Wayne, Elliot and the Riddler decided to pool resources to bring him down. To this end, Elliot created for himself the persona of '''Hush''' (The name is said to have been coined by the Scarecrow, referencing the lullaby "Hush Little Baby").<ref name="dc-ency">{{Citation  | last = Wallace  | first = Dan | author-link =  | contribution = Batman | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 40-44  | publisher = [[Dorling Kindersley]]  | place = London  | year = 2008 | ISBN = 0-7566-4119-5}}</ref>
+
+==="Hush Begins"===
+
+In their attempt to destroy Batman, Hush and the Riddler convince and manipulate several other villains to help. These include the [[Joker (comics)|Joker]], [[Harley Quinn]], [[Two-Face]], [[Poison Ivy (comics)|Poison Ivy]], [[Scarecrow (comics)|Scarecrow]], [[Killer Croc]] and [[Clayface]]. [[Jason Todd]] (the second [[Robin (comics)|Robin]]), presumed dead at the time, also takes part in the scheme in a limited capacity. Part of this includes fooling Bruce that Tommy is the latest victim of the Joker. This brings Batman to the brink of murdering the Joker; he is only stopped when former [[GCPD]] commissioner [[James Gordon (comics)|Jim Gordon]] talks him down.
+
+[[Image:BATMAN HUSH VOL.jpg|left|thumb|160px|Cover to ''Batman: Hush'' Vol. 2 (December 2003). Pencils by Jim Lee.]]
+
+With these villains as their pawns, Hush and the Riddler set up an elaborate plot against Batman, allowing him to realize that he is being toyed with and ultimately making him believe Jason Todd has returned from the grave to destroy him (''Batman'' #617/18).
+
+Around this time, Hush cures the disfigured [[Harold Allnut]], a longtime Batman associate. In return, Harold 'bugs' the [[Batcave]] with several devices that alter Batman's mind. Hush then kills Harold in front of Batman, immediately engaging him in battle. Batman was at first disoriented with Hush's constant quoting of [[Aristotle]] and was suspicious of him being [[Deadshot]] or being trained by him, using roughly the same fighting style (with two guns) as he. 
+
+When Elliot finally reveals himself to a worn-out Batman, the Dark Knight is saved only by the intervention of Harvey Dent, whose destructive [[Two-Face]] persona had been unwittingly wiped out by Elliot when he repaired Dent's disfigured face. Once again on the side of the law, Dent shoots Hush twice, throwing him off a bridge.
+
+Although Batman is sure that Hush indeed is Thomas Elliot, he is not able to unmask him.
+
+==="Hush Returns"===
+When Hush resurfaces, he does so with a vengeance. Still out to destroy Batman and determined not to let the rest of the villains get in his way, Hush quickly carves out a niche for himself, beating his former accomplice the Riddler to within an inch of his life, and even driving the Joker out of town. Hush also ends up temporarily killing Poison Ivy in a fruitless attempt to recruit her. 
+
+[[Image:BatmanGothamKnights60.jpg|thumb|175px|Hush Returns. Cover to ''Batman: Gotham Knights'' #60 (December 2004). Pencils by [[Jae Lee]].]]
+
+Following a short-lived alliance with [[JLA]] nemesis [[Prometheus (comics)|Prometheus]], Hush then begins to torment Bruce Wayne with the aid of an all-new Clayface. Exploiting the latter's shape-shifting abilities, Hush is briefly able to shed doubt on his true identity and has Wayne's butler [[Alfred Pennyworth]] framed for [[murder]].  Alfred's name was later cleared, albeit through trickery.
+
+===Payback===
+The Joker eventually returned to [[Gotham City]] with an army of trained pigeons and retaliated (in ''[[Batman: Gotham Knights]]'' #73-74).  He captured Hush and kept him [[sedation|sedated]] for three weeks, during which time he implanted an [[artificial pacemaker|pacemaker]] into his body, effectively gaining control of his heart. At the Joker's mercy and unable to remove the device himself, Hush turned to the one man he felt he could trust (or rather, predict): Bruce Wayne.
+
+Wayne consented to help Hush on the condition that he allow himself to be treated in, and confined to, [[Arkham Asylum]]. Hush agreed, and then immediately escaped after being told that the surgery had been a success. He was intercepted by Batman before he could confront the Joker, and the two men debated the merits of a code against killing such vile criminals. Hush demanded that Batman allow him to do what Bruce would not and finish off the Joker once and for all. Batman seemed to agree and began to leave, but then revealed that he had tricked Hush—the pacemaker was still in his body, and he had been allowed to escape the asylum. At that moment the Joker arrived, and Hush begged Batman not to leave him.
+
+The issue (and the ''Batman: Gotham Knights'' series) ended unresolved. Hush returned in the later ''[[Man-Bat]]'' miniseries, and was later shown remembering how painful removing the pacemaker alone was, and how the time between ''Gotham Knights'' and "Heart of Hush" almost totally was spent recovering from the damage suffered, confirming that Batman did desert Hush at the conclusion of "Payback".
+
+===Heart of Hush===
+
+Hush returns in ''Detective Comics'' #846-#850, in the story "The Heart of Hush", which ties together with ''[[Batman R.I.P.]]''. In this arc, Hush is portrayed in a slightly different thematic fashion than in his prior appearances. Beyond being merely a manipulative sociopath, his past as a surgeon is made into a major aspect of his [[modus operandi]]. In the first issue, Hush makes it known he will not let anyone else kill Batman, as he sees that as his right. In the second part, Hush has teamed up with [[Scarecrow (comics)|the Scarecrow]], who had contact with Elliot as a child. Hush performs routine [[plastic surgery]] on his own face, only later revealing the result is nearly identical to Bruce Wayne. <ref>Detective Comics #849</ref>
+
+Hush then ambushes and subdues [[Catwoman]] after she scratches off a portion of his facial bandages, recoiling in horror at what she sees. He then cuts out her heart, putting her on [[life support]] supplied by [[Mr. Freeze]] and delivering her to Gotham General Hospital. Hush comments to himself that it was Batman's desertion of him during the pacemaker incident that inspired this current plan.
+
+While Selina is left in [[Doctor Mid-Nite]]'s care, Batman squeezes the location of Hush's headquarters from Scarecrow. Hush, however, ambushes him by showing him the room containing Selina's heart, alive and pumping, at which time he pumps Batman with a paralyzing gas. He then confesses to Bruce his plan: using his newfound resemblance to Bruce, he will kill and disfigure him to steal his identity, then he will retire with the Wayne fortune.
+
+However, Batman is able to stave off the effects of the paralysis gas, recover Selina's heart, and warn [[Alfred Pennyworth]] of Thomas' deception. Hush manages to get into the Batcave where he nearly kills Batman, but Alfred's continuing interference and the arrival of [[Dick Grayson|Nightwing]] and [[Tim Drake|Robin]] turn the tide. Hush retreats on the Whirly-Bat (a one man helicopter), but his bandages become tangled in the rotor and it explodes.
+
+Batman and his allies can find no trace of Hush save some bloody bandages, and count him dead. Selina Kyle, not taking chances and seeking some form of closure for her predicament and her current condition (Doctor Mid-Nite made clear that it is unlikely she'll be ever able to regain her physical prowess), has [[Barbara Gordon|Oracle]], [[Holly Robinson]], [[Poison Ivy (comics)|Poison Ivy]], [[Harley Quinn]] and [[Slam Bradley]] track down Hush's secret bank accounts and stashes of cash and cut them off. Tommy Elliot, wounded but alive, limps off to plot his next move.
+
+==Powers and abilities==
+Thomas "Hush" Elliot has no superpowers on his own. However, mirroring in a twisted way the life of Bruce Wayne, he has spent a vast portion of his life, honing his skills enough to be a match for the Dark Knight. Formerly known, before his staged death during his first appearance, as one of the finest surgeon of his times, Thomas Elliot has an incredible intellect and is also a master planner, with tactical skills equal, if not exceeding those possessed by the Caped Crusader. Indeed, Hush's greatest skill is his ability to think like his opponents and use their motivations against them.
+
+Hush is an expert marksman, able to shoot two batarangs out of the air and set off C4 using twin M1911.45 caliber pistols, his weapons of choice (his skill has been compared to that of [[Deadshot]]). While not possessing the kind of training that Bruce Wayne acquired Hush has proven his ability to fight hand-to-hand. He shows expertise and competence, being able to fight almost on par with Batman, and knock out Catwoman, albeit in a moment of distraction.
+
+Despite his advanced marksmanship, and his demeanor far distant from the one of the ''gimmicked villains'' usually rampaging through Gotham, Thomas Elliot's medical background is shown in his arsenal of choice, as he's shown using [[scalpel]]s as throwing of slicing knives, and employing a large array of drugs, [[muscle relaxant]]s and other surgical appliances as weapons along with his trusty guns.
+
+Hush is a brilliant surgeon and has been able to perform breakthrough medical operations, thought impossible by many, like granting [[Harold Allnut]] a fully functional body, removing his hunchback and giving him the ability to speak, repairing Harvey Dent's face (with only a small scar to show for it), inventing a virus which accelerated [[Killer Croc]]'s devolution, and tearing out Selina Kyle's heart without any other lasting damage.
+
+Hush is also able to perform plastic surgery on himself, no matter how painful it may be, using minimal anesthetic and sheer force of will. He's implied to have removed the pacemaker installed on his own heart by himself, and routinely performs surgeries on his own face, with the aid of a simple mirror.
+
+Thomas Elliot has still access to the ''almost unlimited'' resources of the Elliot household, putting him on par with Bruce Wayne, and so he's fully able to fund his more expensive plans, and get the cooperation of the main villains in Gotham, like [[Mister Freeze]]. However since the ''Heart of Hush'' storyline [[Catwoman]] tapped his resources, reducing him to [[poverty]].
+
+==Appearances in other media==
+===Television===
+====The Batman==== 
+Hush was going to be originally featured in a planned DTV set on the animated series [[The Batman (TV series)|''The Batman'']], along with that [[fictional universe|universe]]'s versions of [[Riddler]], [[Catwoman]], [[Joker (comics)|Joker]], [[Clayface]], [[Mr. Freeze]] and [[Penguin (comics)|Penguin]]. However, the project was later scrapped by DC and [[WB Network|WB]]. There is some sketch art of Hush in ''Legions of Gotham''.<ref>[http://www.worldsfinestonline.com/news.php?action=fullnews&id=25 The World's Finest<!-- Bot generated title -->]</ref>
+
+Hush was also going to be introduced in the episode "[[Rumors (The Batman)|Rumors]]", written by Joseph Kuhr. However, DC didn't like the idea, and the villain '''Rumor''' was created in his place.<ref>[http://www.comicscontinuum.com/stories/0703/01/index.htm Comics Continuum by Rob Allstetter<!-- Bot generated title -->]</ref>
+
+===Video games===
+
+====LEGO Batman====
+Hush is a playable character that can be unlocked in ''[[LEGO Batman: The Video Game]]'' after rescuing all the civilian hostages throughout the game.<ref>http://xbox360.ign.com/articles/908/908918p1.html</ref> He uses two handguns as weapons, and can build objects and shoot faster than other characters. When left idle, he raises his hand to his mouth and makes a "hush" expression.
+
+====DC Universe Online====
+Hush is set to appear in the upcoming video game ''[[DC Universe Online]]''. <ref> [http://pc.ign.com/dor/objects/754948/dc-comics-mmo/videos/DCUO_trailer_071408.html IGN<!-- Bot generated title -->] </ref>
+
+==References==
+{{Reflist}}
+
+{{Batman}}
+[[Category:DC Comics martial artists]]
+[[Category:DC Comics supervillains]]
+[[Category:Fictional socialites]]
+[[Category:Fictional orphans]]
+[[Category:Fictional surgeons]]
+[[Category:Fictional serial killers]]
+[[Category:2002 comics characters debuts]]
+[[es:Hush (historietas)]]
+[[fr:Silence (comics)]]
+[[tl:Hush (komiks)]]

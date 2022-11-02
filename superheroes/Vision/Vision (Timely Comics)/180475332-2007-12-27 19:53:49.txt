@@ -1,0 +1,56 @@
+: ''This article is on the original 1940s Vision. For the modern-day comic-book character, see [[Vision (Marvel Comics)]]''
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:GoldenAgeVision.jpg|220px]]
+|caption=The Golden Age Vision debuts in ''Marvel Mystery Comics'' #13 (Nov. 1940). Art by [[Jack Kirby]].
+|comic_color=background:#ff8080
+|character_name=The Vision
+|real_name=Aarkus
+|publisher=[[Marvel Comics]]
+|debut=''Marvel Mystery Comics'' # 13<br> (November 1940)
+|creators=[[Joe Simon]]<br> [[Jack Kirby]]
+|alliance_color=background:#cccccc
+|alliances=
+|aliases=
+|powers=
+|}}
+
+'''The Vision''' ('''Aarkus''') is a [[fictional character|fictional]] [[comic book]] [[superhero]] in the [[Marvel Comics]] [[Marvel universe|universe]] who appeared during the 1930-'40s period fans and historians call the [[Golden Age of comic books]]. Created by the writer-artist team of [[Joe Simon]] and [[Jack Kirby]], the character first appeared in ''[[Marvel Mystery Comics]]'' #13 (Nov. 1940), published by Marvel predecessor [[Timely Comics]].
+
+== Publication history ==
+The Vision debuted in a four-page feature in ''Marvel Mystery Comics'' #13 (Nov. 1940), and continued as a regular feature in that superhero [[anthology]] through issue #48 (Oct. 1943). He also starred in an eight-page story in ''Kid Comics'' #3 (no month given; previous issue dated Summer 1943). 
+
+In the modern day, the character appeared in a [[flashback]] story in the [[World War II]]-set superhero-team series ''[[Invaders (comics)|The Invaders]]'' vol. 2, #3 (July 1993).
+
+==Fictional character biography==
+The Golden Age Vision, also known as Aarkus, is an alien [[law enforcement officer]] from a dimension called Smokeworld. While Aarkus is looking for a suitable place to exile a prisoner, he is accidentally contacted by an Earth scientist named Markham Erickson. Leaving the prisoner on the planet Jupiter, Aarkus accepts Erickson's invitation to fight crime on Earth.<ref>''[[Marvel Mystery Comics]]'' #13 (Nov. 1940)</ref> Aarkus does so for several years, although during World War II is briefly manipulated by the [[Axis powers of World War II|Axis]] powers into fighting the [[Allies]]. The superhero team the [[Invaders (comics)|Invaders]], however, manage to help Aarkus realize his mistake.<ref>''[[Invaders (comics)|The Invaders]]'' vol. 2, #3 (July 1993)</ref> 
+
+A [[simulacrum]] of the Vision was temporarily created from the mind of [[Rick Jones (comics)|Rick Jones]], along with those of the [[Blazing Skull]], the [[Fin (comics)|Fin]], and the Golden Age [[Angel (Timely Comics)|Angel]] and [[Jeffrey Mace|Patriot]], to aid the superhero team the [[Avengers (comics)|Avengers]] during the [[Kree-Skrull War]].<ref>''[[Avengers (comics)|The Avengers'' vol. 1, #97 (March  1972)]]</ref>
+
+==Reprints==
+* ''The Golden Age of Marvel Comics, Volume 2'' (Marvel, 1999) ISBN 0-7851-0713-4
+::Untitled origin story: ''Marvel Mystery Comics'' #13 (Nov. 1940)
+* ''Marvel Mystery Comics'' #1 (Dec. 1999)
+::Untitled story beginning "From the frozen wastes"; villain Khor, the Black Sorcerer: ''Marvel Mystery Comics'' #22 (Aug. 1941)<ref>Title erroneously listed as "Vs. Khor" in "The Timely Comics Super-Hero Index (1939-1957)", by Mike Nolan a.k.a. Michelle Nolan, ''[[Alter Ego (magazine)|Alter Ego]]'' Vol. 3, #57 (March 2006).</ref>
+* ''[[Marvel Super-Heroes]]'' Vol. 1, #13 (March 1968) [and]
+* ''The Golden Age of Marvel Comics'' (Marvel, 1997) ISBN 0-7851-0564-6
+::Untitled story (a.k.a. "The Book of Sorcery"): ''Marvel Mystery Comics'' #25 (Nov. 1941)<ref>Original publication source per the [http://comics.org/details.lasso?id=1778 Grand Comics Database listing for it]. The Nolan index cited lists the story as from ''Marvel Mystery Comics'' #24.</ref>
+
+==References==
+<div class="references-small">
+<references/>
+</div>
+
+==External links==
+*[http://www.geocities.com/jjnevins/vision.html Jess Nevins' "Pulp and Adventure Heroes of the Pre-War Years": The Golden Age Vision]
+*[http://www.geocities.com/SunsetStrip/4775/vision.html ''The Invaders'' profile on the Golden Age Vision]
+*[http://www.toonopedia.com/vision1.htm Don Markstein's Toonopedia: The Golden Age Vision]
+*Greg Theakston at Grand Comics Database: [http://comics.org/details.lasso?id=1102#4 ''Marvel Mystery Comics'' #13]
+*[http://www.geocities.com/mailittomarvell/vision.htm Aarkus the Vision - Appearances in Publication Order]
+
+{{DEFAULTSORT:Vision (Golden Age)}}
+
+[[Category:Extraterrestrial superheroes]]
+[[Category:Golden Age superheroes]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Timely Comics characters]]

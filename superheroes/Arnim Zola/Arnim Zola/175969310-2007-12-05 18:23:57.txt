@@ -1,0 +1,73 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Zola.PNG|225px]]
+|caption=Arnim Zola<br>Art by [[Steve Epting]]
+|comic_color=background:#ff8180
+|character_name=Arnim Zola
+|real_name=Arnim Zola
+|publisher=[[Marvel Comics]]
+|debut=''Captain America'' #208 (Apr 1977)
+|creators=[[Jack Kirby]]
+|alliance_color=background:#c0c0ff
+|alliances=
+|aliases=The Bio-Fanatic
+|powers=Genius intellect,<br>Telepathic control of genetic creations|}}
+
+'''Arnim Zola''' is a [[fictional character]], a [[supervillain]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]].  He is a master of [[biochemistry]], and frequent foe of [[Avengers (comics)|the Avengers]].
+
+==Fictional character biography==
+Arnim Zola was a [[biochemist]] during [[World War II]] who became one of the first human [[genetic engineer]]s in history after finding papers and equipment used by the offshoot race of humanity, the [[Deviant (comics)|Deviants]]. He found a ready home among the [[Nazi]] party, who saw his actions as the ability to assure the existence of a master race.
+
+One of his first accomplishments was the creation of a brain pattern imprinting device, which would allow someone's mental essence to be projected into a cloned brain. Zola presented such a gift to [[Adolf Hitler]], creating the [[Hate-Monger]]. Zola also used these skills to form a new body for himself, surviving the war and into modern times.
+
+The [[Red Skull]] also financed some of Zola's experiments, allowing Zola to produce such creations as [[Primus (comics)|Primus]] and Doughboy. This association led to Zola's first confrontation with [[Captain America]] in the [[jungle]]s of [[Central America]].
+
+Zola has since continued experiments at various times and locations around the globe. Often, his crimes against humanity bring him into conflict with various heroes, from Captain America to [[Deadpool (comics)|Deadpool]]. During one such experiment Zola collected humans from the rubble of [[New York City]] after the devastation brought after the destruction of the being known as [[Onslaught (comics)|Onslaught]]. Zola endowed a teenager with superpowers, creating the hero known as [[Jolt (comics)|Jolt]], who brought the [[Thunderbolts (comics)|Thunderbolts]] to stop him.
+
+Presumably, Zola continues to perform his genetic experiments on an unsuspecting humanity.
+
+Recently, he has joined the [[Red Skull]] in his newest attempt to kill Captain America. Zola is attempting to reverse-engineer a single-use weapon--possibly a time travel platform--which [[Doctor Doom]] gave the Skull during the [[Civil War (comics)|Superhuman Civil War]].
+
+Arnim Zola was among the 9 supervillain geniuses that [[Beast (comics)|Beast]] acquired the help of when it comes to reversing the effects of [[Decimation (comics)|Decimation]] in ''[[X-Men: Endangered Species]]''.
+
+==Powers and abilities==
+Armin Zola has no natural superpowers, but he is a scientific genius specializing in genetics and cloning. He is not only capable of creating exact clone copies of his "clients", he has also used it to create monsters which are conditioned to do his bidding.
+
+The most noticeable feat, however, Zola has performed upon himself. He has constructed a specially modified body which lacks a head. Instead, Zola's face is located - via holographic projection - on his chest, and atop his shoulders is an ESP Box, a psychotronic device which he uses to exert his control over his monster creations. In a limited effect, the Box can also be used as an offensive weapon.
+
+==Other versions==
+===Ultimate Arnim Zola===
+Arnim Zola recently appeared in the second Annual of [[the Ultimates]] written by [[Charlie Huston]]. Just like his [[Earth-616]] incarnation he was also a Nazi biochemist. His role in [[World War II]] was to make a cadre of special [[master race]] troops so as to serve as [[Adolf Hitler]]'s bodyguard.
+
+[[Captain America#Ultimate Captain America|Captain America]] was able to infiltrate Arnim Zola's facility and kill his first experimental monster, which Zola dubbed "Siegsoldat" ("Victory soldier"). The experiment's dead body then fell on Arnim Zola, seemingly killing him.
+
+However Arnim Zola did not die and the [[Office of Strategic Services|O.S.S.]] rescued him so as to harvest his intellect on the post-war [[supersoldier|super soldier]] program. Later they mapped his brain and created an [[artificial intelligence]] out of it before the tumours he had could degrade it enough.
+
+A short time before the [[Liberators (comics)|Liberators]] attacked the United States<ref>''Ultimates 2'' #9</ref>, a white survivalist group called the "Marauders" attacked the military base where Arnim Zola's AI was and stole it along with some other weaponry. Arnim Zola was then able to convince the leader of the "Marauders" to allow Zola to commence experiments on him.
+
+Zola mutated the man until he was approximately 20 foot tall and installed armour plating (and Zola's AI brain) on him with a hologram of Zola projected from the chest. He then took over the "Marauders" and got them to gather people for his experiments.
+
+Captain America and [[Falcon (comics)|the Falcon]] were sent after him and were able to defeat him by freeing the people he had kidnapped, who promptly tore apart his body, where upon Captain America collapsed a support strut onto the Zola AI.
+
+==In other media==
+===Television===
+Zola appeared in the [[Nick Fury: Agent of S.H.I.E.L.D. (film)|Nick Fury: Agent of S.H.I.E.L.D.]] television film as Dr. Arnim Zola, an elderly [[HYDRA]] chemist responsible for the creation of the Death's Head virus.
+
+==Footnotes==
+<div class="references-small">
+<references/>
+</div>
+
+==External links==
+* [http://www.marveldirectory.com/individuals/a/arnimzola.htm Arnim Zola at MarvelDirectory.com]
+*[http://www.marvel.com/universe/Zola,_Arnim Bio on Marvel.com]
+
+{{DEFAULTSORT:Zola, Arnim}}
+
+[[Category:Fictional Nazis]]
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics mutates]]
+[[Category:Fictional telepaths]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Nazis in comic book fiction]]
+
+[[fi:Arnim Zola]]

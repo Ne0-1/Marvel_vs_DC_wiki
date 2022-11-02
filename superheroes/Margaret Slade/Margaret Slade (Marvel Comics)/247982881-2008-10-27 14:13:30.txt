@@ -1,0 +1,29 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Momyslade.JPG|200px]]
+|caption= Margaret as she appears in X-men: Apocalypse vs. Dracula #2
+|comic_color=background:#ff8080
+|character_name= Margaret Slade
+|real_name=Margaret Slade
+|species=[[Mutant (Marvel comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''X-Men: Apocalypse/Dracula #2''
+|creators=[[Frank Tieri (comic book writer)|Frank Tieri]]<br>[[Clayton Henry]] 
+|alliance_color=background:#cccccc
+|alliances=[[Clan Akkaba]]
+|aliases= 
+|powers= Limited Molecular rearrangement
+|}}
+'''Margaret Slade''' is a [[fictional character]] and [[Mutant (Marvel comics)|mutant]] in the [[Marvel Comics]] [[Marvel Universe|universe]]. She makes her first appearance in ''[[X-Men]]: Apocalypse/Dracula #2''.
+
+==Fictional character biography==
+
+==Powers and abilities==
+[[Image:Margaret powers.JPG|thumb|left|200px|Margaret uses her powers against Kabar]]
+Margaret like many of [[Apocalypse (comics)|Apocalypse]]'s descendents possess a degree of molecular rearrangement. She usually uses this ability to transform her hands into weapons.
+
+{{marvel-comics-stub}}
+[[Category:Marvel Comics supervillains|Slade, Margaret]]
+
+
+[[Category:Marvel Comics mutants|Slade, Margaret]]
+[[Category:Fictional shapeshifters|Slade, Margaret]]

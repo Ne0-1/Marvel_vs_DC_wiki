@@ -1,0 +1,30 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Hecate
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Ms. Marvel]] #11'' (Nov 1977)
+|creators=[[Chris Claremont]] and [[Sal Buscema]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''Hecate''' is a fictional character in the [[Marvel Universe]].
+
+Hecate was an extradimensional female humanoid scientist and explorer, who was mistaken for the goddess [[Hecate]] when she visited Earth thousands of years ago.  She allied with and later opposed the [[Elementals (Marvel Comics)|Elementals]] while seeking the Ruby Scarab.
+
+Hecate can change shape, project energy bolts, and pull images from minds of others and make them real.
+
+==External links==
+*http://www.marvunapp.com/Appendix/hecate.htm
+
+
+[[Category:Marvel Comics aliens]]

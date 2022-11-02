@@ -1,0 +1,445 @@
+{{About|the superhero}}
+{{Mergefrom|Diana Prince|date=September 2011|reason=Merge required by policy. Even real people do not get multiple articles for their pseudonyms.}}
+{{Infobox comics character and title
+<!--Wikipedia:WikiProject Comics-->
+<!-- | character_name = -->
+| image     =WonderWomanV5.jpg<!-- Please do not change without discussion on the talk page first -->
+| imagesize      = 250
+| caption   = Wonder Woman
+| publisher = [[DC Comics]]
+| debut     = ''[[All Star Comics]]'' #8
+| debutmo   = December
+| debutyr   = 1941
+| creators  = [[William Moulton Marston]]<br />[[H. G. Peter|Harry G. Peter]]
+| alter_ego = Princess Diana of [[Themyscira]]
+| alliances = [[Justice League]]<br />[[Amazons (comics)|Amazons]] of [[Themyscira]]<br />Department of [[Metahuman]] Affairs
+| partners  = [[Steve Trevor]]<br />Trevor Barnes<br />[[Nemesis (DC Comics)|Nemesis]]<br />[[Superman]]<br />[[Batman]]
+| aliases   = [[Diana Prince]]
+| species   = [[Amazons (DC Comics)|Amazon]]<br />[[Demigod]] (2011 relaunch)
+| powers    = *[[Superhuman strength]], [[Speedster (fiction)|speed]], agility, and endurance
+*Flight (only after 1960)
+*Superior [[hand-to-hand combat]]ant
+*[[List of comic book superpowers#Empathy|Empathy]]
+*[[Healing factor]]
+*Resistance to Magic
+*[[Lasso of Truth]]
+*Access to [[#Weapons|Magical Weaponry]]
+
+<!--Series section-->
+<!-- | title = -->
+| cvr_image      = Wwoman1.jpg
+| cvr_caption    = Cover for ''Wonder Woman'' #1 (1942). Art by [[Harry G. Peter]].
+| schedule       = Monthly
+| format         =
+| ongoing        = Y
+| Fantasy        = first
+| Superhero      = y
+| multigenre     = y
+| pub_series     = DC Comics
+| 1stishhead     = vol. 1
+| 1stishyr       = 1942
+| 1stishmo       = Summer
+| endishyr       = 1986
+| endishmo       = February
+| 1stishhead1    = vol. 2
+| 1stishyr1      = 1987
+| 1stishmo1      = February
+| endishyr1      = 2006
+| endishmo1      = April
+| 1stishhead2    = vol. 3
+| 1stishyr2      = 2006
+| 1stishmo2      = August
+| endishyr2      = 2010
+| endishmo2      = July
+| 1stishhead3    = vol. 1 cont.
+| 1stishyr3      = 2010
+| 1stishmo3      = August
+| endishyr3      = 2011
+| endishmo3      = October
+| 1stishhead4    = vol. 4
+| 1stishyr4      = 2011
+| 1stishmo4      = September
+| endishyr4      = Present
+| endishmo4      = 
+| issues         = '''(vol. 1)''': 329<br />'''(vol. 2)''': 228 (+ 8 Annuals, 1 Special)<br />'''(vol.  3)''': 44 (+ 1 Annual)<br />'''(vol. 1 cont.)''': 15<br />'''(vol. 4)''':
+| main_char_team = Princess Diana of [[Themyscira]]
+| writers        = '''(vol. 1)'''<br />[[William Moulton Marston]], [[Mike Sekowsky]], [[Robert Kanigher]], [[Martin Pasko]], [[Gerry Conway]], [[Dan Mishkin]]<br />'''(vol. 2)'''<br />[[Len Wein]], [[George Pérez]], [[Mindy Newell]], [[William Messner-Loebs]], [[John Byrne (comics)|John Byrne]], [[Phil Jimenez]], [[Greg Rucka]]<br />'''(vol. 3)'''<br />[[Allan Heinberg]], [[Gail Simone]]<br />'''(vol. 1 cont.)'''<br />[[J. Michael Straczynski]]<br />'''(vol. 4)'''<br />[[Brian Azzarello]]
+| artists        = 
+| pencillers     = '''(vol. 1)'''<br />[[H. G. Peter|Harry G. Peter]], [[Ross Andru]], [[Mike Sekowsky]], [[Dick Giordano]], [[John Rosenberger]], Jose Delbo, [[Gene Colan]]<br />'''(vol. 2)'''<br />George Pérez, Chris Marrinan, [[Mike Deodato]], John Byrne, Phil Jimenez<br />'''(vol. 3)'''<br />[[Terry Dodson]], [[Aaron Lopresti]]<br />'''(vol. 1 cont.)'''<br />[[Don Kramer]]<br />'''(vol. 4)'''<br />[[Cliff Chiang]]
+| inkers         = '''(vol. 1)'''<br />[[Mike Esposito (comics)|Mike Esposito]], [[Dick Giordano]], [[Vince Colletta]]<br />'''(vol. 2)'''<br />[[Bruce Patterson]], [[Andy Lanning]]<br />'''(vol. 3)'''<br />[[Rachel Dodson]], Matt Ryan
+| letterers      =
+| colorists      = '''(vol. 2)'''<br />Carl Gafford<br />'''(vol. 3)'''<br />Alex Sinclair
+| editors        =
+| TPB            =
+| ISBN           =
+| cat            = super
+| subcat         = DC Comics
+| hero           = y
+| sortkey        = Wonder Woman
+| sort_title     = Wonder Woman
+| addcharcat1    = All-American Publications characters
+}}
+
+'''Wonder Woman''' is a [[DC Comics]] [[superhero]]ine created by [[William Moulton Marston]]. She first appeared in ''[[All Star Comics]]'' #8 (December 1941). The ''Wonder Woman'' title has been published by DC Comics almost continuously except for a brief hiatus in 1986.<ref name="ReferenceA"/>
+
+Wonder Woman is a warrior Princess of the [[Amazons (DC Comics)|Amazons]] (based on the [[Amazons]] of [[Greek mythology]]) and was created by Marston, an American, as a "distinctly feminist role model whose mission was to bring the Amazon ideals of love, peace, and [[sexual equality]] to a world torn by the hatred of men." <ref name="schoollibraryjournal.com">{{Cite web | url=http://www.schoollibraryjournal.com/article/CA6417196.html | title=The Legacy of Wonder Woman | last=Crawford | first=Philip Charles | date=March 1, 2007 | work=School Library Journal}}</ref> Known in her homeland as '''Diana of [[Themyscira]]''', her powers include [[superhuman strength]], flight (even though the original Wonder Woman did not have this ability), super-speed, super-stamina, and super-agility. She is highly proficient in hand-to-hand combat and in the art of tactical warfare. She also possesses animal-like cunning skills and a natural support with the animals, which has in the past been presented as an actual ability to communicate with the animal kingdom. She uses her [[Lasso of Truth]], which forces those bound by it to tell the truth, a pair of [[Wonder Woman's bracelets|indestructible bracelets]], a tiara which serves as a projectile, and, in some stories, an [[Invisible plane|invisible airplane]].
+
+Created during [[World War II]], the character was initially depicted fighting the [[Axis powers|Axis military forces]], as well as an assortment of [[supervillain]]s. In later decades, some writers maintained the World War II setting, with many of its themes and story arcs, while others updated the series to reflect the present day. Wonder Woman has also regularly appeared in comic books featuring the superhero teams [[Justice Society of America|Justice Society]] (from 1941) and [[Justice League]] (from 1960). Arguably the most popular and iconic female superhero in comics, Wonder Woman is also considered a feminist icon.<ref name="schoollibraryjournal.com" />  She was named the 20th greatest comic book character by ''[[Empire (magazine)|Empire]]'' magazine.<ref>{{Cite web | url=http://www.empireonline.com/50greatestcomiccharacters/default.asp?c=20 | title=The 50 Greatest Comic Book Characters - Wonder Woman | work=[[Empire (magazine)|Empire]]}}</ref>
+
+In addition to the comics, the character has appeared in other media; most notably, the 1975–1979 [[Wonder Woman (TV series)|''Wonder Woman'' TV series]] starring [[Lynda Carter]], as well as [[animation|animated]] series such as the ''[[Super Friends]]'' and ''[[Justice League (TV series)|Justice League]]''. Although a number of attempts have been made to adapt the character to live-action film, none have yet emerged from [[development hell]]. An [[Wonder Woman (film)|animated film]] was released in 2009, with [[Keri Russell]] voicing the title role. In 2011, [[Adrianne Palicki]] starred in a failed pilot for a would-be series about the character.
+
+In May 2011, Wonder Woman placed fifth on IGN's Top 100 Comic Book Heroes of All Time.<ref>http://www.ign.com/top/comic-book-heroes/2</ref>
+
+==Publication history==
+[[Image:SensationComics.jpg|thumb|left|200px|Wonder Woman's first cover, ''[[Sensation Comics]]'' #1 (January 1942)]]
+
+{{Main|Publication history of Wonder Woman}}
+<!--This section is meant to be short for a reason. The main article is where all the details go.-->
+
+===Creation===
+In an October 25, 1940 interview published in ''Family Circle'' titled "Don't Laugh at the Comics", [[William Moulton Marston]] described what he saw as the great educational potential of comic books.<ref>{{Cite web | last=Byrne | first=Olive | url=http://www.wonderwoman-online.com/articles/fc-marston.html | title=Our Women Are Our Future | work=The Wonder Woman Pages | date=August 14, 1942}} Note: Olive Byrne, a former student, conducted the interview under the pseudonym "Olive Richard".</ref> This article caught the attention of comics publisher [[Max Gaines]], who hired Marston as an educational consultant for National Periodicals and [[All-American Publications]], two of the companies that would merge to form [[DC Comics]]. At that time, Marston decided to develop a new superhero. ''Family Circle'' published a follow-up article two years later from the previously said time.
+
+In the early 1940s , the DC line was dominated by superpowered male characters such as the [[Green Lantern]], [[Batman]] and its flagship character, [[Superman]]. According to the Fall 2001 issue of the [[Boston University]] alumni magazine, it was Marston's wife [[Elizabeth Holloway Marston|Elizabeth]]'s idea to create a female superheroine:
+
+{{Quote|William Moulton Marston, a psychologist already famous for inventing the [[polygraph]] (forerunner to the magic lasso), struck upon an idea for a new kind of superhero, one who would triumph not with fists or firepower, but with love. "Fine," said Elizabeth. "But make her a woman."<ref name="Bostonia">{{Cite web | last=Lamb | first=Marguerite | date=Fall 2001 | archiveurl=http://web.archive.org/web/20071208045132/http://www.bu.edu/alumni/bostonia/2001/fall/wonderwoman/ | title=Who Was Wonder Woman? | work=Bostonia | archivedate=December 8, 2007}}</ref>}}
+
+Marston introduced the idea to Gaines, co-founder of [[All-American Publications]]. Given the go-ahead, Marston developed ''Wonder Woman'' with Elizabeth, whom Marston believed to be a model of that era's unconventional, liberated woman.<ref name="Bostonia" /> Marston was also inspired by Olive Byrne, who lived with the couple in a [[polygamy|polygamous]]/[[polyamory|polyamorous]] relationship.<ref>{{Cite book | first=Les | last=Daniels | title=Wonder Woman: The Complete History | publisher=Chronicle Books | date=April 6, 2004 | pages=28–30 | isbn=978-0811842334}}</ref> Both women served as exemplars for the character and greatly influenced the character's creation.<ref name="Bostonia"/> Wonder Woman debuted in ''[[All Star Comics]]'' #8 (December 1941), scripted by Marston and with art by [[H. G. Peter|Harry G. Peter]].
+
+Marston was the creator of a systolic-blood-pressure-measuring apparatus, which was crucial to the development of the polygraph ([[polygraph|lie detector]]). Marston's experience with polygraphs convinced him that women were more honest and reliable than men and could work more efficiently.<ref>{{Cite journal | last=Bunn | first=Geoffrey C. | title=The lie detector, ''Wonder Woman'', and liberty: The life and work of William Moulton Marston | journal=History of the Human Sciences | volume=10 | issue=1 | location=[[London]] | publisher=[[Routledge]] | year=1997 | pages=91–119}}</ref>
+
+"Wonder Woman is psychological propaganda for the new type of woman who should, I believe, rule the world," Marston wrote.<ref name="ReferenceA">{{Cite news | last=Hendrix | first=Grady | title=Out for Justice | newspaper=[[The New York Sun]] | date=December 11, 2007}}</ref> Although [[Gloria Steinem]] placed Wonder Woman on the first standalone cover of ''[[Ms. (magazine)|Ms.]]'' in 1972, Marston, writing in an earlier time, designed Wonder Woman to represent a particular form of female empowerment. [[Feminism]] argues that women are equal to men and should be treated as such; Marston's representative of femininity is a 6-foot-tall Amazon wielding a golden lasso that forces obedience on those it encircles.{{POV-statement|date=June 2011}} In Marston's mind, women not only held the potential to be as good as men but to be superior to men.{{Or|date=June 2011}}
+
+In a 1943 issue of ''[[The American Scholar (magazine)|The American Scholar]]'', Marston wrote:
+
+{{Quote|Not even girls want to be girls so long as our feminine archetype lacks force, strength, and power. Not wanting to be girls, they don't want to be tender, submissive, peace-loving as good women are. Women's strong qualities have become despised because of their weakness. The obvious remedy is to create a feminine character with all the strength of Superman plus all the allure of a good and beautiful woman.}}
+
+During this period, Wonder Woman joined the [[Justice Society of America]] as the female member,<ref>''[[All Star Comics]]'' #12 (August/September 1942)</ref> albeit as the group's secretary, since the custom was that characters who had their own comic books would hold only honorary membership.
+
+===Evolution of the character===
+[[File:Wonder Woman (new costume)-.jpg|150px|left|thumb| Wonder Woman's new costume, in ''Wonder Woman'' #607 (Feb. 2011). Art by [[Don Kramer]].]]
+Initially, Wonder Woman was an Amazon champion who wins the right to return [[Steve Trevor]] — a [[United States]] intelligence officer whose plane had crashed on the Amazons' isolated island homeland — to "Man's World" and to fight crime and the evil of the [[Nazism|Nazis]].
+
+During the [[Silver Age of Comic Books|Silver Age]], Wonder Woman's origin was revamped,<ref>''Wonder Woman'' (vol. 1) #98 (May 1958)</ref> along with other characters'. The new origin story increased the character's [[wikt:Hellenism|Hellenic]] and mythological roots: receiving the blessing of each deity in her crib, Diana is destined to become "beautiful as [[Aphrodite]], wise as [[Athena]], stronger than [[Hercules]], and swifter than [[Mercury (mythology)|Mercury]]."<ref name="Wonder Woman (vol. 1) #105">''Wonder Woman'' (vol. 1) #105 (April 1959)</ref>
+
+At the end of the 1960s, under the guidance of [[Mike Sekowsky]], Wonder Woman surrendered her powers in order to remain in Man's World rather than accompany her fellow Amazons to another dimension. Becoming a [[Mod (subculture)|mod]] boutique owner, the powerless [[Diana Prince]] acquired a Chinese mentor named [[I Ching (comics)|I Ching]]. Under I Ching's guidance, Diana learned [[martial arts]] and weapons skills and engaged in adventures that encompassed a variety of genres, from espionage to mythology.
+
+Because of the popularity of the ''Wonder Woman'' TV series, the character later returned to her superpowered roots in ''[[Justice League|Justice League of America]]'' and to the [[World War II]] era in her own title. 
+
+Following the 1985 ''[[Crisis on Infinite Earths]]'' series, [[George Pérez]], [[Len Wein]], and Greg Potter relaunched the character, writing Wonder Woman as an emissary and ambassador from [[Themyscira]] to Patriarch's World, charged with the mission of bringing peace to the outside world.
+
+Wonder Woman, real name '''Maria Mendoza''', debuted in ''Just Imagine [[Stan Lee]] with [[Jim Lee]] Creating Wonder Woman (October 2001)''.  Creators Stan Lee with [[Jim Lee]] based this version on the original DC character created by [[William Moulton Marston]].
+
+Maria is an activist, protesting against the corporate excavation of an ancient holy site near her village.  The CEO has a plan: gain power from the site and take over the world. When Maria sneaks onto the site, she finds a large plaque, and agrees to decode it. When she does, two spirits (one of light and one of darkness) come out of the plaque.  The light-spirit bonds to Maria, giving her solar-powered abilities.  The darkness-spirit bonds to the CEO, turning him into a monster.  He vows to destroy the village to retrieve both spirits, then leaves.  To save her family, Maria flies to Los Angeles and disguises herself as a normal woman.
+
+In August 2010 (issue #600), DC Comics replaced the character's iconic stars-and-stripes singlet with a blue jacket (later discarded), red and gold top and dark pants, retaining only her tiara and lasso.<ref>{{Cite web | She later marries Batman url=http://www.nationalledger.com/ledgerpop/article_272632884.shtml | title=Wonder Woman's Makeover Photos&nbsp;– Mixed Reviews | work=National Ledger | date=June 30, 2010 | accessdate=July 5, 2010}}</ref>
+
+In 2011, DC Comics [[The New 52|relaunched its entire line of publications]] to attract a new generation of readers. In this new continuity, Wonder Woman wears a costume similar to her original costume. Also, her origin is significantly changed and she is no longer a clay figure brought to life by the magic of the gods. Instead, she is a [[demigod]], the natural-born daughter of [[Hippolyta]] and [[Zeus]].
+
+==Powers and abilities==
+<!-- Contains contested point -->
+
+===Pre-Crisis===
+Originally, Wonder Woman owed her abilities to the goddess Aphrodite creating Amazons superior to men, with Diana being the best of their kind.
+
+The [[Golden Age of Comic Books|Golden Age]] [[Wonder Woman (Earth-Two)|Wonder Woman]] was later updated by Marston to be able to will a tremendous amount of brain energy into her muscles and limbs because of her Amazon training, endowing her with extraordinary strength and speed. According to her first appearance, she is stronger and more agile than a hundred of the best human athletes. In ''Sensation Comics'' #6 (June 1942), she is able to tear a steel door off its hinges. In one of her earliest appearances, she is shown running easily at 80&nbsp;mph.<ref>''[[Sensation Comics]]'' #46 (October 1945)</ref> In the same comic, she jumps from a building and lands on the balls of her feet. She can even type at a rate of over 160 words a minute during a test given to her. It was implied, and ultimately confirmed, that ''any'' woman who underwent Amazon training would gain superhuman strength.<ref>''Wonder Woman'' (vol. 1) #28 (March/April 1948)</ref> The [[Wonder Woman (TV series)|TV series]] took up this notion,<ref name="TVs1e2">{{Cite episode | title=Fausta: The Nazi Wonder Woman | series=Wonder Woman | serieslink=Wonder Woman (TV series) | airdate=April 28, 1976 | season=1 | number=2 | quote=Because of this pure environment we are able to develop our minds and physical skills...}}</ref> and in the first episode of ''[[Super Friends]]'', Diana states to Aquaman, "...the only thing that can surpass super strength is the power of the brain." In early ''Wonder Woman'' stories,<ref>''Wonder Woman'' (vol. 1) #1, #98-329 (1942, 1958–1986)</ref> Amazon training involves strengthening this ability using pure mental energy.
+
+Her powers would be removed in accordance with "Aphrodite's Law" if she allowed herself to be bound or chained by a male.<ref>{{Cite web | url=http://www.superdickery.com/index.php?option=com_content&view=article&id=559:more-crap-about-aphrodites-law&catid=34:suffering-sappho-index&Itemid=39 | title=Panel featuring Aphrodite's Law | work=SuperDickery.com | accessdate=September 3, 2008}}</ref> In the television series, her magic belt allowed her to retain her powers when she was not on Paradise Island; removing it weakened her.<ref name="TVs1e2"/>
+
+With the inclusion of [[Wonder Girl]] and "Wonder Tot" in Diana's [[back-story]], writers provided new explanations of her powers; the character became capable of feats which her sister Amazons could not equal. ''Wonder Woman'' (vol. 1) #105 reveals that Diana was formed from clay by the Queen of the Amazons and was imbued with the attributes of the [[Greek mythology|Greek]] and [[Roman mythology|Roman]] [[god]]s by Athena — "beautiful as [[Aphrodite]], wise as [[Athena]], swifter than [[Hermes]], and stronger than [[Hercules]]."<ref name="Wonder Woman (vol. 1) #105"/> Wonder Woman's Amazon training also gave her limited telepathy, profound scientific knowledge,<ref name="Wonder Woman (vol. 1) #105"/> and the ability to speak every language known to man and beyond. She was even fluent in [[caveman]]<ref name="Wonder Woman (vol. 1) #105"/><ref name="Wonder Woman (vol. 1) #115">''Wonder Woman'' (vol. 1) #115 (July 1960)</ref> and [[Martian]].<ref name="Wonder Woman (vol. 1) #115"/>
+
+Although Wonder Woman's mythos was returned to its original interpretation between 1966 and 1967, new abilities were added: super breath, the ability to blow jet streams or transform water into snow, which apparently came from Hercules; ventriloquism; imperviousness to extremes of heat and cold; the ability to ride the air currents as if flying, even sensing air updrafts with her fingers; [[telepathy]], including the ability to project images; microscopic vision; the ability to vibrate into [[Parallel universe (fiction)|another dimension]]; the ability to bestow wisdom to other beings; the ability to throw her tiara with such skill it could stop bullets; and others, according to the ''Encyclopedia of Comic Book Heroes''.<ref>{{Cite book | first=Michael L. | last=Fleisher | title=The Encyclopedia of Comic Book Heroes, Volume 2: Wonder Woman | publisher=[[Macmillan Publishers]] | date=September 1976 | isbn=978-0020800804}}</ref>
+
+Depending on the writer, Diana's invulnerability and power varied greatly according to the needs of the story. Throughout the late 1950s and early 1960s, [[Robert Kanigher]], for example, portrayed Wonder Woman as being so strong that she, after standing atop her hovering plane and lassoing it with her magic lasso, was able to effortlessly lift [[Themyscira]] out of the way of an approaching tsunami using just one hand. She was able to make a coin into a bridge with her strength, or drill through a mountain within seconds, as well as hurl spaceships with enough accuracy she could bowl over a whole fleet. Her fingernails could cut through a steel door.<ref>''Wonder Woman'' (vol. 1) #108 (August 1959)</ref> She was even able to flip straight over while nearly paralyzed, and split a tree falling on her with her Amazonian boots.<ref>''Wonder Woman'' (vol. 1) #111 (January 1960)</ref> Kanigher showed Wonder Woman as a preteen able to lift whales, push a ship away from a whirlpool, and also as a toddler able to blow so hard on her [[birthday cake]] that she sent it into orbit.<ref name="Showcase Presents Wonder Woman 2007">{{Cite book | last=Kanigher | first=Robert | title=Showcase Presents: Wonder Woman, Vol. 1 | publisher=[[DC Comics]] | date=August 22, 2007 | isbn=978-1401213732}}</ref>
+
+In the [[Silver Age of Comic Books|Silver]] and [[Bronze Age of Comic Books|Bronze]] ages of comics, Wonder Woman was able to further increase her strength. She was unable to remove her bracelets without going insane. In times of great need, however, she would do just that, in order to temporarily augment her power tenfold. Since she would become a threat to friend and foe alike, she would use Amazonian [[berserker]] rage only as a weapon of last resort.<ref>[http://www.amazonarchives.com/ww166.htm ''Wonder Woman'' (vol. 1) #166] (November 1966), [http://www.amazonarchives.com/ww229.htm ''Wonder Woman'' (vol. 1) #229] (March 1977)</ref>
+
+Before ''[[Crisis on Infinite Earths]]'' there were two Wonder Women: the [[Wonder Woman (Earth-Two)|first one]] lived on [[Earth-Two]]; the second, on [[Earth-One]]. The first canonical appearance of the Earth-One Wonder Woman is ''Wonder Woman'' (vol. 1) #80 (February 1956). Their first published meeting is ''[[Justice League of America]]'' (vol. 1) #100 (August 1972); however, their earliest meeting within the DC continuity is ''Wonder Woman'' (vol. 1) #228 (February 1977), which takes place in 1943, prior to the events of the ''Justice League of America'' story.
+
+===Post-Crisis===
+[[Image:Ww-sleep power.png|thumb|After a brief interrogation, Diana places the head of To-Choi Industries in a state of slumber.]]
+
+Wonder Woman's body is a mystical creation made from the clay surrounding Themyscira. Through divine means, her disembodied soul was nurtured in and retrieved from the [[Gods and Mortals|Cavern of Souls]].<ref>''Wonder Woman'' (vol. 2) #1 (February 1987)</ref> Once the soul was placed into the body, it immediately came to life and was blessed with [[metahuman]] abilities by six [[Greek mythology#Greek pantheon|Olympian deities]].
+
+[[Demeter]], the goddess of agriculture and fertility, blessed Diana with strength drawn from the Earth spirit [[Gaia (mythology)|Gaea]], making her one of the physically strongest heroes in the [[DC Universe]].<ref name="The DC Comics Encyclopedia">{{Cite book | editor-last=Dougall | editor-first=Alastair | title=The DC Comics Encyclopedia | publisher=[[Dorling Kindersley]] | year=2008 | isbn=978-0756641191 | oclc=213309017}}</ref> She has been observed assisting in preventing large chunks of the [[Moon]] from crashing onto the Earth,<ref>{{Cite book | first1=Phil | last1=Jimenez | author1-link=Phil Jimenez | first2=Devin | last2=Grayson | author2-link=Devin K. Grayson | title=JLA / Titans: The Technis Imperative | publisher=DC Comics | date=November 1, 1999 | isbn=978-1563895630}}</ref> supporting the weight of bridges,<ref name="ReferenceB">{{Cite book | last=Beatty | first=Scott | title=Wonder Woman: The Ultimate Guide to the Amazon Princess | publisher=Dorling Kindersley | date=November 2003 | isbn=978-0789496164}}</ref> or hefting entire railroad trains.<ref name="ReferenceB"/> Although stated as possibly being physically weaker and slower than, for example, [[Power Girl]], Diana's superior warrior training more than makes up for it, along with strength drawn from the earth itself, she is able to overpower either Kara,<ref>''Wonder Woman'' #122 (2010)</ref> or her counterpart [[Supergirl (Kara Zor-El)|Supergirl]].,<ref>''Superman/Batman'' #9 (June 2004)</ref> and hold her own against beings such as Superman and Captain Marvel.   Furthermore, unlike most of her contemporaries in Man's World, Diana is willing to use deadly force, which gives her more options to deal with opponents as circumstances dictate.
+
+While not invulnerable, she is capable of withstanding great concussive force,<ref name="The DC Comics Encyclopedia"/> shrugging off high-powered rifle fire with some pain but little injury,{{Citation needed|date=April 2011}} being knocked through a building, and even surviving a [[Faster than light|warp-core]] explosion.{{Citation needed|date=April 2011}}  She is durable enough to survive the rigors of space until she runs out of breath. While her superhuman strength affords her great resistance to blunt-force trauma, her skin can be cut by weapons if they are sharp enough. Her muscles do not produce lactic acids, giving her great stamina. This allowed her to once battle a clone of Doomsday.
+
+[[Aphrodite]], the goddess of love and beauty, blessed Diana with great beauty and a loving heart.
+
+[[Athena|Pallas Athena]], the goddess of wisdom and war, granted Diana great wisdom, intelligence, and military prowess. Athena's gift has enabled Diana to master over a dozen languages (including those of alien origin), multiple complex crafts, sciences and philosophies, as well as leadership, military strategy, and armed and unarmed combat. She can mimic voices, although it is more difficult for her to mimic a man's voice. More recently, Athena bound her own eyesight to Diana's, granting her increased empathy.<ref>{{Cite book | last=Johns | first=Geoff | author-link=Geoff Johns | title=Wonder Woman: Land of the Dead | date=February 2006 | isbn=978-1417751020}}</ref>
+
+[[Artemis]], goddess of the hunt, animals, and the Moon, graced Diana with the Eyes of the Hunter and Unity with Beasts. The Eyes of the Hunter ability gives Diana a full range of enhanced senses, including enhanced sight and hearing. Unity with Beasts grants her the ability to communicate with all forms of animal life and to calm even the most ferocious of beasts.<ref name="ReferenceB"/>
+
+[[Hestia]], goddess of hearth and home, granted Diana "sisterhood with fire, that it might open men's hearts to her." This power has been shown to control the "Fires of Truth," which Diana wields through her lasso, making anyone bound by it unable to lie. This ability also grants her resistance to both normal and supernatural fire.{{Citation needed|date=February 2010}}
+
+[[Hermes]], the messenger god of speed, granted Diana superhuman speed and the ability to fly. By concentrating, Diana can mystically defy the laws of gravity and propel herself through the air to achieve flight. She is capable of flying at speeds approaching half the speed of light.<ref name="The DC Comics Encyclopedia"/> She is swift enough to deflect bullets, lasers, and other projectiles with her virtually impenetrable bracelets. Her brain can process information at an incredibly fast rate.
+
+Diana possesses the ability to relieve her body of physical injury and toxins by becoming one with the Earth's soil and then reforming her body whole again.<ref>''Wonder Woman'' (vol. 2) #30 (May 1989)</ref> During John Byrne's run, it was stated that this is a ritual so sacred that it is used only in the most dire of circumstances.<ref>''Wonder Woman'' (vol. 2) #120 (April 1997)</ref>
+
+She is able to [[Astral projection|astrally project]] herself into various lands of myth.<ref>''Wonder Woman'' (vol. 2) #56, #75, #77, #97 (July 1991&nbsp;– May 1995); ''Wonder Woman Special'' #1 (May 1992); ''[[Artemis of Bana-Mighdall#Requiem|Artemis: Requiem]]'' #1 (June 1996)</ref> Her physical body reacts to whatever happens to her on the mythical astral plane, leaving her body cut, bruised, or sometimes strengthened once her mind and body are reunited. She can apparently leave the planet through meditation, and did this once to rescue Artemis while she was in hell.
+
+===Skills===
+All versions of Diana depict her as a masterful athlete, acrobat, fighter and strategist, trained and experienced in many ancient and modern forms of armed and unarmed combat, including exclusively Amazonian martial arts. In some versions, her mother trained her, as Wonder Girl, for a future career as Wonder Woman. From the beginning, she is portrayed as highly skilled in using her Amazon bracelets to stop bullets and in wielding her golden lasso.<ref>''[[Ambush Bug: Year None]]'' #4 (December 2008)</ref> She is a superior warrior who has beaten Batman, Big Barda, and Black Canary in sparring matches. The modern version of the character differs from her compatriots in that she is willing to use deadly force when she deems it necessary.<ref name="Wonder Woman (vol. 2) #219">''Wonder Woman'' (vol. 2) #219 (September 2005)</ref>
+
+===Weapons===
+Diana has an arsenal of powerful god-forged weapons at her disposal, but her signature weapons are her indestructible bracelets and the [[Lasso of Truth]].
+
+Her '''bulletproof bracelets''' were formed from the remnants of [[Athena]]'s legendary shield, the [[Aegis]], to be awarded to her champion. The shield was made from the indestructible hide of the great she-goat, Amalthea, who suckled Zeus as an infant. These forearm guards have thus far proven indestructible and able to absorb the impact of incoming attacks, allowing Wonder Woman to deflect [[automatic firearm|automatic weapon]] fire and energy blasts.<ref>{{Cite book | last=Wallace | first=Dan | contribution=Wonder Woman's Magical Weapons | editor-last=Dougall | editor-first=Alastair | title=The DC Comics Encyclopedia | page=93 | publisher=Dorling Kindersley | location=[[New York]] | year=2008 | isbn=978-0756641191 | oclc=213309017}}</ref> Diana can also slam the bracelets together to create a wave of concussive force capable of making Superman's ears bleed.<ref name="Wonder Woman (vol. 2) #219"/> Recently, she gained the ability to channel Zeus's lightning through her bracelets as well. Zeus explained to her that this power had been contained within the bracelets since their creation, because they were once part of the Aegis, and that he had only recently unlocked it for her use.<ref>''Wonder Woman'' (vol. 3) #39 (February 2010)</ref>
+
+The '''Lasso of Truth''', or Lariat of Hestia, was forged by [[Hephaestus]] from the golden girdle of Gaea.<ref name="ReferenceB"/> It is virtually indestructible;<ref name="ReferenceB"/> the only times it has been broken were when truth itself was challenged, such as when she confronted [[Rama Khan]] of Jarhanpur,<ref>''[[JLA (comic book)|JLA]]'' #62 (March 2002)</ref> and by [[Bizarro]] in [[Matt Wagner]]'s non-canonical ''[[Batman/Superman/Wonder Woman: Trinity]]''.<ref>{{Cite book | last=Wagner | first=Matt | authorlink=Matt Wagner | title=Batman/Superman/Wonder Woman: Trinity | publisher=DC Comics | date=July 1, 2005 | isbn=978-1401201876}}</ref> In ''Sensation Comics'' #6 (June 1942), Hippolyta claims that not even Hercules can break it. The Lasso burns with a magical aura called the Fires of Hestia, forcing anyone within the Lasso's confines to be truthful. It also at one time had the power to force anyone caught to obey any command given them, even overriding other kinds of mind control; this was effective enough to defeat strong-willed beings like Captain Marvel.<ref>''War of the Gods'' #1 (September 1991)</ref> Diana wields the lasso with great precision and accuracy and can use it as a whip or noose.
+
+As early as the 1950s,<ref name="Showcase Presents Wonder Woman 2007"/> Wonder Woman's '''Golden Tiara''' has also doubled as a dagger and a throwing weapon, returning to her like a boomerang.<ref name="ReferenceB"/> Its sharpness and mystical nature proved enough to cut even Superman.<ref name="Wonder Woman (vol. 2) #219"/>
+
+Diana once possessed the '''Sandals of Hermes''', or [[talaria]], which granted the wearer great speed and flight, and the ability to travel beyond the mystical veil that protected the island of Themiscyra from Man's World. They were passed on first to Artemis and later to Wonder Girl. Diana also once possessed the '''Gauntlets of Atlas''', which magnify the physical strength and stamina of the wearer; they too were passed on.
+
+The Golden, Silver, and Bronze Age portrayals of Wonder Woman showed her using an [[Invisible plane|'''Invisible Airplane''']] that could be controlled by mental command. It was variously described as being either a creation of Amazon technology or the legendary winged horse [[Pegasus]] transformed into an aircraft. Its appearance varied as well; originally it had a [[propeller]], while later it was drawn as a jet aircraft resembling a fighter plane. The post-Crisis or Modern Age Wonder Woman has continued to use the Invisible Plane, in the form of a small lightweight disc of alien (Lansinar) technology that, when triggered by her thoughts, transforms into a transparent version of whatever object or vehicle is appropriate for her needs. This disc was revealed to be a sentient life-form. Following the "[[One Year Later]]" continuity jump, Diana was given a new invisible plane, created by [[Wayne Enterprises|Wayne Industries]], because her original invisible plane was stuck on Themyscira.
+
+Diana occasionally uses additional weaponry in formal battle, such as ceremonial golden armor with golden wings, war-skirt, chest-plate, and a golden helmet in the shape of an eagle's head. She also possesses a sword forged by Hephaestus that is sharp enough to cut the electrons off an atom.<ref name="ReferenceB"/>
+
+As a recent temporary inductee into the [[Star Sapphire (comics)|Star Sapphires]], Wonder Woman gained access to the violet power ring of love. This ring allowed her to alter her costume at will, create solid-light energy constructs, and reveal a person's true love to them. She was able to combine the energy with her lasso to enhance its ability.
+
+==Relaunch==
+DC Comics has relaunched ''Wonder Woman'' with issue #1 in September 2011 as part of [[The New 52]] relaunch, written by [[Brian Azzarello]] and penciled by artist [[Cliff Chiang]].<ref>[http://geeksofdoom.com/2011/06/03/dc-relaunch-11-new-dc-titles-announced DC Relaunch: 11 New DC Titles Announced], ''Geeks of Doom'', June 3, 2011</ref> In the relaunch, Wonder Woman has acquired a new origin story, now the daughter of both Hippolyta and Zeus.<ref>[http://dcu.blog.dccomics.com/2011/10/10/wonder-woman%e2%80%99s-all-new-origin-%c2%adrevealed Wonder Woman’s all-new origin ­REVEALED], ''DC Universe: The Source'', October 10, 2011</ref>
+
+==In other media==
+{{main|Wonder Woman in other media|Cultural impact of Wonder Woman}}
+
+==Collected editions==
+{| class="wikitable"
+|-
+! Title !! Material collected !! ISBN
+|-
+| Wonder Woman Chronicles, Vol. 1
+| ''All Star Comics'' #8, ''Sensation Comics'' #1–9, ''Wonder Woman'' #1
+| {{ISBNT|978-1401226442}}
+|-
+| Wonder Woman Archive Edition, Vol. 1
+| ''All Star Comics'' #8, ''Sensation Comics'' #1–12, ''Wonder Woman'' #1
+| {{ISBNT|978-1563894022}}
+|-
+| Wonder Woman Archive Edition, Vol. 2
+| ''Sensation Comics'' #13–17, ''Wonder Woman'' #2–4
+| {{ISBNT|978-1563895944}}
+|-
+| Wonder Woman Archive Edition, Vol. 3
+| ''Sensation Comics'' #18–24, ''Wonder Woman'' #5–7
+| {{ISBNT|978-1563898143}}
+|-
+| Wonder Woman Archive Edition, Vol. 4
+| ''Sensation Comics'' #25–32, ''Wonder Woman'' #8–9
+| {{ISBNT|978-1401201456}}
+|-
+| Wonder Woman Archive Edition, Vol. 5
+| ''Sensation Comics'' #33–40, ''Wonder Woman'' #10–12
+| {{ISBNT|978-1401212704}}
+|-
+| Wonder Woman Archive Edition, Vol. 6
+| ''Sensation Comics'' #41–48, ''Wonder Woman'' #13–15
+| {{ISBNT|978-1401227340}}
+|-
+| Showcase Presents Wonder Woman, Vol. 1
+| ''Wonder Woman'' #98–117
+| {{ISBNT|978-1401213732}}
+|-
+| Showcase Presents Wonder Woman, Vol. 2
+| ''Wonder Woman'' #118–137
+| {{ISBNT|978-1401219482}}
+|-
+| Showcase Presents Wonder Woman, Vol. 3
+| ''Wonder Woman'' #138–156
+| {{ISBNT|978-1401225247}}
+|-
+| Diana Prince: Wonder Woman, Vol. 1
+| ''Wonder Woman'' #178–184, ''Superman's Girlfriend Lois Lane'' #93
+| {{ISBNT|978-1401216603}}
+|-
+| Diana Prince: Wonder Woman, Vol. 2
+| ''Wonder Woman'' #185–189, ''Superman's Girlfriend Lois Lane'' #93, ''The Brave and the Bold'' #87
+| {{ISBNT|978-1401218256}}
+|-
+| Diana Prince: Wonder Woman, Vol. 3
+| ''Wonder Woman'' #190–198, ''World's Finest'' #204
+| {{ISBNT|978-1401219475}}
+|-
+| Diana Prince: Wonder Woman, Vol. 4
+| ''Wonder Woman'' #199–204, ''The Brave and the Bold'' #105
+| {{ISBNT|978-1401221508}}
+|-
+| Wonder Woman, Vol. 1: Gods and Mortals
+| ''Wonder Woman'' vol. 2, #1–7
+| {{ISBNT|978-1401201975}}
+|-
+| Wonder Woman, Vol. 2: Challenge of the Gods
+| ''Wonder Woman'' vol. 2, #7–14
+| {{ISBNT|978-1401203245}}
+|-
+| Wonder Woman, Vol. 3: Beauty and the Beasts
+| ''Wonder Woman'' vol. 2, #15–19, ''Action Comics'' #600
+| {{ISBNT|978-1401204846}}
+|-
+| Wonder Woman, Vol. 4: Destiny Calling
+| ''Wonder Woman'' vol. 2, #20–24, ''Annual'' #1
+| {{ISBNT|978-1401209438}}
+|-
+| Wonder Woman: The Contest
+| ''Wonder Woman'' vol. 2, #0, #90–93
+| {{ISBNT|978-1563891946}}
+|-
+| Wonder Woman: The Challenge of Artemis
+| ''Wonder Woman'' vol. 2, #94–100
+| {{ISBNT|978-1563892646}}
+|-
+| Wonder Woman: Second Genesis
+| ''Wonder Woman'' vol. 2, #101–105
+| {{ISBNT|978-1435218093}}
+|-
+| Wonder Woman: Lifelines
+| ''Wonder Woman'' vol. 2, #106–112
+| {{ISBNT|978-1563894039}}
+|-
+| Wonder Woman: Paradise Lost
+| ''Wonder Woman'' vol. 2, #164–170, ''Secret Files'' #2
+| {{ISBNT|978-1563897924}}
+|-
+| Wonder Woman: Paradise Found
+| ''Wonder Woman'' vol. 2, #171–177, ''Secret Files'' #3
+| {{ISBNT|978-1563899560}}
+|-
+| Wonder Woman: Down to Earth
+| ''Wonder Woman'' vol. 2, #195–200
+| {{ISBNT|978-1401202262}}
+|-
+| Wonder Woman: Bitter Rivals
+| ''Wonder Woman'' vol. 2, #201–205
+| {{ISBNT|978-1401204624}}
+|-
+| Wonder Woman: Eyes of Gorgon
+| ''Wonder Woman'' vol. 2, #206–213
+| {{ISBNT|978-1401207977}}
+|-
+| Wonder Woman: Land of the Dead
+| ''Wonder Woman'' vol. 2, #214–217, ''The Flash'' #219
+| {{ISBNT|978-1401209384}}
+|-
+| Wonder Woman: Mission's End
+| ''Wonder Woman'' vol. 2, #218–226
+| {{ISBNT|978-1401210939}}
+|-
+| Wonder Woman: Who is Wonder Woman?
+| ''Wonder Woman'' vol. 3, #1–4, ''Annual'' #1
+| {{ISBNT|978-1401212346}}
+|-
+| Wonder Woman: Love and Murder
+| ''Wonder Woman'' vol. 3, #6–10
+| {{ISBNT|978-1401217082}}
+|-
+| Wonder Woman: Amazons Attack!
+| ''Wonder Woman'' vol. 3, #11-13
+| {{ISBNT|9781401215439}}
+|-
+| Wonder Woman: The Circle
+| ''Wonder Woman'' vol. 3, #14–19
+| {{ISBNT|978-1401219321}}
+|-
+| Wonder Woman: Ends of the Earth
+| ''Wonder Woman'' vol. 3, #20–25
+| {{ISBNT|978-1401221362}}
+|-
+| Wonder Woman: Rise of the Olympian
+| ''Wonder Woman'' vol. 3, #26–33
+| {{ISBNT|978-1401225131}}
+|-
+| Wonder Woman: Warkiller
+| ''Wonder Woman'' vol. 3, #34–39
+| {{ISBNT|978-1401227791}}
+|-
+| Wonder Woman: Contagion
+| ''Wonder Woman'' vol. 3, #40–44
+| {{ISBNT|978-1401229207}}
+|-
+| Wonder Woman: Odyssey, Vol. 1
+| ''Wonder Woman'' vol. 3, #600-606
+| {{ISBNT|978-1401230777}}
+|}
+
+==Merchandise==
+On January 28, 2011, Warner Bros. Consumer Products announced that [[DC Comics]]'s iconic heroine Wonder Woman will team up with [[Make-up Art Cosmetics|MAC Cosmetics]] to create a Wonder Woman makeup collection that will be available in MAC stores in the spring of 2011. The collection includes blush, eye shadow, eyeliner, lip gloss, lipstick, mascara, mineral powder and nail polish.<ref>http://www.licensemag.com/licensemag/Entertainment/Warner-Bros-To-Launch-Wonder-Woman-Makeup/ArticleStandard/Article/detail/705279?contextCategoryId=9996&ref=25</ref>
+
+==Toys==
+
+Wonder Woman has been released in numerous forms by Mattel including Barbie Dolls, Polly Pockets, and DC Universe Classics action figures in Traditional Costume and Blackest Night Star Sapphire Costume.
+
+==See also==
+{{Portal box|United States|Comics|Feminism|Gender studies|Speculative fiction|Superhero fiction}}
+* [[Alternative versions of Wonder Woman]] for ''Elseworlds'' and other characters to bear the title
+* [[Amazons (DC Comics)]]
+* [[Darna]]
+* [[Diana Prince]]
+* [[List of Wonder Woman enemies]]
+* [[List of Wonder Woman supporting characters]]
+* [[Orana (DC comics)]]
+* [[Portrayal of women in comics]]
+* [[List of female action heroes]]
+* [[Woman warrior]]
+* [[Wonder Woman in literature]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*[http://www.dccomics.com/sites/wonderwoman/ Wonder Woman Official website] at DC Comics.com
+*[http://dccomics.com/dcu/heroes_and_villains/?hv=origin_stories/wonder_woman&p=1 Origin story of Wonder Woman] at DC Comics.com
+*[http://www.carolastrickland.com/comics/wwcentral/index.html Carol A. Strickland's Wonder Woman site]
+*[http://amazonarchives.com/index2.htm AmazonArchives.com]
+*[http://www.comicbookresources.com/?page=column&id=36 Wonder of Wonders]
+*[http://wonder-woman.wikia.com/wiki/Wonder_Woman_Wiki Wonder Woman Wiki]
+*{{Cite web | first=Joshua | last=Glen | url=http://www.boston.com/news/globe/ideas/articles/2004/04/04/wonder_working_power/ | title=Wonder-working Power | work=[[The Boston Globe]] | date=April 4, 2004}}
+*{{Cite web | last=Malcom | first=Andrew H. | url=http://query.nytimes.com/gst/fullpage.html?res=9E0CE1DF1539F93BA25751C0A964958260&sec=&spon=&pagewanted=print | title=She's Behind the Match For That Man of Steel | work=[[The New York Times]] | date=February 18, 1992}}
+
+{{Wonder Woman}}
+{{Justice League}}
+{{GoldenAge}}
+
+[[Category:All-American Publications characters]]
+[[Category:Atlantis in fiction]]
+[[Category:Characters created by William Moulton Marston]]
+[[Category:Comics characters introduced in 1941]]
+[[Category:DC Comics Amazons]]
+[[Category:DC Comics characters with accelerated healing]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics martial artists]]
+[[Category:DC Comics titles]]
+[[Category:Fictional aviators]]
+[[Category:Fictional diplomats]]
+[[Category:Fictional empaths]]
+[[Category:Fictional Greek people]]
+[[Category:Fictional immigrants to the United States]]
+[[Category:Fictional princesses]]
+[[Category:Fictional women soldiers and warriors]]
+[[Category:United States-themed superheroes]]
+[[Category:Wonder Woman| ]]
+
+[[da:Wonder Woman]]
+[[de:Wonder Woman]]
+[[es:Mujer Maravilla]]
+[[fa:زن شگفت‌انگیز]]
+[[fr:Wonder Woman]]
+[[gl:Wonder Woman]]
+[[ko:원더 우먼]]
+[[it:Wonder Woman]]
+[[he:וונדר וומן]]
+[[la:Mulier Mirabilis]]
+[[hu:Wonder Woman]]
+[[nl:Wonder Woman]]
+[[pl:Wonder Woman]]
+[[pt:Mulher-Maravilha]]
+[[ru:Чудо-женщина]]
+[[simple:Wonder Woman]]
+[[sh:Wonder Woman]]
+[[fi:Ihmenainen]]
+[[sv:Wonder Woman]]
+[[tl:Wonder Woman]]
+[[th:วันเดอร์วูแมน]]
+[[tr:Wonder Woman]]
+[[uk:Диво Жінка]]
+[[zh:神奇女俠]]

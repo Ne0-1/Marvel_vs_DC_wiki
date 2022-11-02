@@ -1,0 +1,52 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:digitek.jpg]]
+|caption= 
+|comic_color=background:#ff8080 	
+|character_name=Digitek (Deceased)
+|real_name=Jonathan Bryant
+|publisher=[[Marvel Comics]]
+|debut=''Digitek'' #1 (December 1992)
+|creators=[[John Tomlinson (comics)|John Tomlinson]] & [[Andy Lanning]] (writers)<br>[[Dermot Power]] (artist)
+|alliance_color=background:#ffc0c0 
+|status=Deceased
+|alliances=[[Psi-Key]]
+|previous_alliances=Nakasoni Corporation
+|aliases=The Singularity
+|relatives= ex-wife (unnamed)
+|powers=Energy analogue; can create armor and a vast amount of weapons, establish psi-links with others, travel through phone lines, create holograms.
+|}}
+
+'''Digitek''' ('''Jonathan Bryant''') is a [[fictional character]] appearing in the [[comic books]] published by [[Marvel Comics]]. He first appeared in ''Digitek'' #1 (Dec. 1992), the first issue of a [[limited series]] published by [[Marvel UK]]. The strip was also published in Marvel UK's weekly anthology title [[Overkill (comics)|Overkill]] 
+
+The character was created by writers [[John Tomlinson (comics)|John Tomlinson]] & [[Andy Lanning]] and artist [[Dermot Power]].
+
+==Publication history==
+Digitek had his own self-titled series in 1992.  After that his appearances were far and few between until he reappeared during Civil War.
+
+==Fictional character biography==
+The story of Digitek began at the [[Mys-Tech]] organization. [[Warheads (comics)|Kether Troop]], a team of Mys-Tech mercenaries tasked with recovering alien technology from [[Parallel universe (fiction)|alternate dimensions]], managed to retrieve a product called Protosilicon from an unknown source and installed it on an item known as Jump 61. Technological analysis of the item followed, and '''Jonathan Byrant''' was assigned as its Project Leader. However his supervisor, Mr. Grant, sabotaged the project and subsequently caused the creation of the being known as "Digitek".
+
+At a certain moment, Jonathan gained a vision of someone trying to put a [[Computer virus|virus]] into the Digitek project. He rushed back toward the facility, even ignoring a call from his estranged wife Samantha. When at the company, the building exploded and everyone believed Jonathan to be dead. But, he survived and the suit had bonded with him. Choosing to use his powers for good, Jonathan also decided to call himself after the project: Digitek. 
+
+His first opponents were the villains known as [[Bacillicons]][http://www.marvunapp.com/Appendix/bacillic.htm]. Calling out for help, Digitek found aid in the form of the cyborg hero [[Deathlok]]. Together they defeated the Bacillicons and parted as friends. Digitek then fell into comic book "limbo" and did not appear again for four years.
+
+=== Civil War ===
+{{main|Civil War (comics)}}
+During Marvel's Civil War event, Digitek joined heroes opposing the Super Hero Registration Act. Once apprehended by [[S.H.I.E.L.D.]]<ref>''Civil War: Frontline'' #6</ref>, Digitek committed suicide by transforming his arm into an M-110 particle shotgun and shooting himself. Because he is made of energy, it is unknown if this death will be permanent.
+
+==Bibliography==
+*''Digitek'' #1-4
+*''Civil War Files''
+*''Civil War: Frontline'' #6
+
+==External links==
+*[http://www.marvunapp.com/Appendix/digitekp.htm Marvel Universe Appendix: Digitek]
+
+==Footnotes==
+<div class="references-small">
+<references/>
+</div>
+
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel UK titles]]
+[[it:Digitek]]

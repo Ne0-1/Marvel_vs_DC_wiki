@@ -1,0 +1,42 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Carrion.jpg]]
+|caption='''Carrion''' <br> [[Keith Pollard]], Artist
+|comic_color=background:#ff8080
+|character_name=Carrion
+|real_name=(I) Miles Warren (clone of)<br>(II) Malcolm McBride<br>(III) William Allen
+|publisher=[[Marvel Comics]]
+|debut=(I) ''[[The Spectacular Spider-Man|Spectacular Spider-Man]]'' (Vol. 1) #25<br>(II) ''[[The Spectacular Spider-Man|Spectacular Spider-Man]]'' (Vol. 1) #149<br>(III) ''Spider-Man: Dead Man's Hand''
+|creators=[[Bill Mantlo]]<br>[[Jim Mooney]]<br>[[Frank Springer]]
+|status=(I) Deceased <br>(II) Transformed<br>(III) Incarcerated
+|alliances=
+|previous_alliances=
+|aliases= 
+|relatives=(I) Miles Warren (original), numerous Jackal clones<br>(II) Beatrice McBride (mother)<br>(III) None known
+|powers=Telepathy, levitation, alter density, destroy life at a touch
+|}}
+'''Carrion''' is a [[fictional character|fictional]] [[supervillain]] in [[Marvel Comics]]' [[Marvel Universe|universe]], in which he is an enemy of [[Spider-Man]]. He first appeared in ''[[The Spectacular Spider-Man|Spectacular Spider-Man]]'' (volume 1) #25.
+
+Carrion emerged as part of a storyline that was a sequel to the original [[Clone Saga]] and as a result has one of the most complicated histories of any Spider-Man villain that has been [[retcon]]ned several times as successive writers changed the status of the various clones, the plans and motivations of [[Jackal (comics)|Professor Miles Warren]] and other aspects from the stories. Often these changes took place in stories which did not directly involve Carrion, resulting in further stories trying to tie up gaps. No less than three separate incarnations have been encountered.
+
+==Carrion I==
+
+The original Carrion first appeared seeking to destroy Spider-Man, somehow knowing that his secret identity was Peter Parker. Carrion sought to destroy Parker/Spider-Man several times before revealing that he was a decayed clone of [[Jackal (comics)|Professor Miles Warren]], also known as the Jackal. Warren had created the clone and left it in a capsule to mature to full development; however Warren had then (seemingly) died and the clone was left developing in the capsule with artificially accelerated age. Something went wrong and the clone's body became like a living corpse. As Warren's clone, Carrion blamed Spider-Man for the deaths of both Warren and [[Gwen Stacy]] and sought to bring him to justice. Carrion captured Peter Parker and prepared to kill him with a giant amoeba created by cloning cells from Parker. However Parker freed himself and became Spider-Man. In the subsequent fight a fire consumed the laboratory whilst the amoeba latched onto Carrion. Unable to escape both creatures perished in the fire.
+
+==Carrion II==
+
+Many years later Spider-Man learnt from the [[High Evolutionary]] that Warren had not achieved cloning but had instead created a genetic virus that could transform exisiting human beings into seemingly genetic duplicates of them. This left Spider-Man wondering "What about Carrion?" As Peter Parker he searched Miles Warren's old lab and found a journal which seemingly answered many questions, though many years later the Evolutionary would shed further doubt on this. Parker was followed by his university research student rival Malcolm McBride who discovered a test tube containing a strange substance. When examining it, McBride discovered it was an advance genetic creation that when exposed to air grew rapidly and consumed him, turning him into a second incarnation of Carrion, complete with all the knowledge and powers that the original had displayed.
+
+Initially this Carrion believed himself to be another clone of Warren but slowly found McBride's memories and personality trying to reassert itself. Carrion would fight with Spider-Man on several occasions, at one point teaming up with [[Carnage (comics)|Carnage]], [[Doppelganger (comics)|Doppelganger]], [[Demogoblin]] and [[Shriek (comics)|Shriek]] on a killing spree across [[New York City]]. The mentally unstable Shriek started looking upon Carrion and the others as hers and Carnage's "sons". The villains were defeated and confined to the Ravencroft mental institution. Later Shriek escaped and freed Carrion. She tried to dominate Carrion even further and encouraged him to destroy all aspects of McBride's life. However when they confronted Spider-Man in the McBride household, McBride's mother was able to reach her son's true identity. Mrs. McBride and Shriek fought over who was the true mother. Malcolm/Carrion was driven to despair by this and tried to turn the Carrion virus upon himself. In a moment of compassion Shriek cured him of the virus. Malcolm McBride returned to Ravencroft.
+
+Later the mysterious [[Judas Traveller]] invaded Ravencroft and briefly transformed McBride back into Carrion during an encounter with Spider-Man. However at the end McBride was transformed back by Traveller and all his memories of Peter Parker as Spider-Man were wiped. Subsequently it was revealed that many of the powers displayed by Traveller were actually illusions, so it remains unclear what actually happened.
+
+==Carrion III==
+
+Following the death of the Jackal his corpse was examined by agents of [[S.H.I.E.L.D.]]. Dr. William Allen ignored safety protocols and in the process was infected by a new, stronger version of the Carrion virus, transforming him into the third incarnation of the villain. The most deadly Carrion of all, he exhibited the further ability to use a "zombie plague" to control the minds of others but also found that both Warren and Allen's minds fought for control of the body. As Carrion sought to infect the city with the Red Dust plague, Spider-Man confronted the High Evolutionary who confirmed that he had deliberately sought to distort Warren's achievements by faking the journals and evidence to make it seem that Warren had never achieved true cloning. Spider-Man discovered Warren's old notes which were used to generate a cure, whilst he confronted Carrion. The latter now revealed that the original Carrion had indeed been a clone of Warren, created to incubate a virus to destroy mankind, but that it had been released too early and failed in its mission. Spider-Man subdued the new Carrion who was taken into S.H.I.E.L.D. custody. The High Evolutionary provided data from Warren's journals that could potentially cure him. Carrion has not been seen since.
+
+==External links==
+*[http://www.spiderfan.org/characters/carrion1.html SpiderFan.org: Carrion I]
+*[http://www.spiderfan.org/characters/carrion2.html SpiderFan.org: Carrion II]
+
+[[Category:Spider-Man villains]]
+[[es:Carroña (cómic)]]

@@ -1,0 +1,40 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name = Faora
+| publisher = 
+| debut = '''I:''' ''[[Action Comics]]'' #471, May 1977
+| creators = 
+| alter_ego = 
+| full_name = '''I:''' Faora Hu-Ul
+| species = '''I, II:''' [[Krypton (comics)|Krypton]]ian<br />'''IV:''' Human
+| homeworld = <!-- optional -->
+| alliances = <!-- optional -->
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=
+| powers = '''I, II:''' [[Powers and abilities of Superman|Superhuman strength, speed, stamina and invulnerability, freezing breath, super hearing, multiple extrasensory and vision powers, longevity, flight, and regeneration]]<br />'''IV:''' Disruption of molecular bonds
+}}
+
+'''Faora''' is the name of several [[supervillainess]]es in [[DC Comics]] ''[[Superman]]'' titles. All of them have some connection to Superman's home planet of [[Krypton (planet)|Krypton]].
+
+==Pre-Crisis==
+The first Faora was '''Faora Hu-Ul''', introduced in ''[[Action Comics]]'' #471, May 1977. She was a man-hater, who ran a concentration camp of men, and was subsequently imprisoned in the [[Phantom Zone]]. She was also an expert at the Kryptonian martial art of Horo-Kanu, which utilised the [[pressure points]] on the Kryptonian body.
+
+==Post-Crisis==
+===Pocket Universe===
+Following the [[Crisis on Infinite Earths]], another Faora appeared as one of [[General Zod]]'s followers in the [[Pocket Universe]] created by the [[Time Trapper]]. As with the others she was stripped of her powers and killed by Superman, following the destruction of that universe's Earth.
+
+===Phantom Zone entity===
+In the ''[[Eradicator (comics)|Eradicator]]'' miniseries, the Eradicator was pressured into embracing his programming by another construct of Kem-L's. This artifact, which was trapped in the Phantom Zone, claimed to be called Faora, after Kem-L's grandmother, and and to be the ultimate repository of Kryptonian mythology. However it is unclear how much of this is true.
+
+The Eradicator rejected Faora, "downloading" all the aspects of Kem-L's programming that contradicted Dr.David Conner's morality into the Faora program. Unknown to him, this gave it a new, monstrous form and the ability to leave the Zone, and it targeted Conner's family. The Eradicator destroyed it, but not before it killed Conner's wife.
+
+===Pokolistanian===
+One of General Zod of Pokolistan's aides, introduced in ''Action Comics'' #779 (July 2001), was a [[metahuman]] who called herself Faora. Since the spirit of the Pocket Universe General had supposedly spoken to this Zod, it may be assumed that he suggested she take this name for psychological effect. Faora has the ability to disrupt molecular bonds. She was the creator of the mutagenic virus which was the lynchpin of Zod's plan. Her whereabouts following the General's defeat are unknown.
+
+==Other media==
+In the movies ''[[Superman: The Movie]]'' and ''[[Superman II]]'', the female Kryptonian named [[Ursa (villain)|Ursa]] is based on Faora.  Her crimes are her hatred of all men, young and old.  She fights Superman alongside General Zod and Non.
+
+[[Category:Superman villains]]
+[[Category:Extraterrestrial supervillains]]
+[[Category:Kryptonians]]

@@ -1,0 +1,61 @@
+{{Use mdy dates|date=September 2013}}
+{{About|the fictional characters|the upcoming film|Ant-Man (film)}}
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+<!-- |code_name  = Ant-Man -->
+|image      = 
+|imagesize  = <!-- default 250 -->
+|caption    =
+|publisher  = [[Marvel Comics]]
+|debut      = ''[[Tales to Astonish]]'' #27 <!-- The Ant-Man ID appeared in Pym's 2nd appearance --> (January 1962)
+|debutyr1   = <!-- Lang appeared prior to taking up the Ant-Man ID -->
+|debutyr2   = 2006
+|creators = [[Stan Lee]]<br/>[[Larry Lieber]]<br />[[Jack Kirby]]
+|real_name = [[Henry Pym]]<br />[[Ant-Man (Scott Lang)|Scott Lang]]<br />[[Ant-Man (Eric O'Grady)|Eric O'Grady]]
+|alliances = [[Avengers_(comics)|Avengers]]
+|powers= Size-shifting from nearly microscopic to ~100 feet gigantic (both at extremes)<br/>Maintains strength of normal size in shrunken state
+}}
+'''Ant-Man''' is the name of several [[fictional character]]s appearing in books published by [[Marvel Comics]]. Ant-Man was originally the superhero persona of [[Henry Pym]], a brilliant scientist who invented a substance that allowed him to change his size. Henry Pym was created by [[Stan Lee]], [[Larry Lieber]] and [[Jack Kirby]] and first appeared in ''[[Tales to Astonish]]'' #27; his first appearance in the Ant-Man persona was in ''[[Tales to Astonish]]'' #35.
+
+After Pym retired his Ant-Man identity, successors [[Ant-Man (Scott Lang)|Scott Lang]] and [[Ant-Man (Eric O'Grady)|Eric O'Grady]] have used Pym's technology to take on the role of Ant-Man.
+
+==Fictional character biography==
+Over the years a variety of characters have assumed the title of Ant-Man, most of whom have been connected with the [[Avengers (comics)|Avengers]].
+
+===Henry Pym===
+{{main|Henry Pym}}
+Biophysicist and Security Operations Center expert '''Dr. Henry 'Hank' Pym''' decided to become a superhero after discovering a chemical substance (Pym Particles) that would allow the user to alter his size. Armed with a helmet that could control ants, Pym would shrink down to the size of an insect to become the mystery-solving Ant-Man.<ref name="IGN Hank Bio">{{cite web | url = http://stars.ign.com/objects/924/924202_biography.html | title = Henry Pym Biography | accessdate = April 18, 2011 | work = IGN}}</ref> He soon shared his discovery with his girlfriend, [[Janet Van Dyne]], who became his crime-fighting partner as the Wasp.<ref name='invasionillumination'> {{cite web | url = http://marvel.com/news/story/3725/secret_invasion_illumination_hank_pym | title = Secret Invasion Illumination | accessdate = April 18, 2011 | date = May 30, 2008 | work = Marvel.com}}</ref> The duo would become founding members of the [[Avengers (comics)|Avengers]], fighting recurring enemies such as the mad scientist [[Egghead (comics)|Egghead]], the mutant [[Whirlwind (comics)|Whirlwind]], and Pym's own robotic creation [[Ultron]].<ref> {{cite web | url = http://marvel.com/news/story/6469/psych_ward_hank_pym | title = Psych Ward: Hank Pym | accessdate = April 18, 2011 | date = December 29, 2008 | work = Marvel.com}}</ref>
+
+While Pym is the original Ant-Man, he has adopted other aliases over the years including [[Giant-Man]], [[Goliath (comics)|Goliath]], [[Yellowjacket (comics)|Yellowjacket]],<ref name='invasionillumination'/> and the Wasp after Janet's death in ''[[Secret Invasion]]''.<ref> {{cite web | url = http://marvel.com/news/story/9634/mighty_avengers_assemble | title = Mighty Avengers: Assemble | accessdate = April 18, 2011 | date = October 7, 2009 | work = Marvel.com}}</ref> Leaving his original persona vacant, his successors have taken up the role of Ant-Man while Pym explored these other identities.
+
+===Scott Lang===
+{{main|Ant-Man (Scott Lang)}}
+'''Scott Lang''' was a thief who first became Ant-Man after stealing Henry Pym's Ant-Man suit to save his daughter Cassie from a heart condition.<ref name="friday 13"/> Reforming from his life of crime, he soon took on a full-time career as Ant-Man with the encouragement of Hank Pym.<ref name="IGN Lang">{{cite web | url = http://stars.ign.com/objects/924/924272_biography.html | title = Ant Man (Scott Lang) Biography | accessdate = April 18, 2011 | work = IGN}}</ref> He became an affiliate of the [[Fantastic Four]],<ref name="take 10">{{cite web | url = http://marvel.com/news/story/13757/take_10_replacement_ff_members | title = Take 10: Replacement FF Members | accessdate = April 18, 2011 | date = August 25, 2010 | work = Marvel.com}}</ref> and most recently became a full-time member of the Avengers. For a period of time he dated [[Jessica Jones]].<ref name='friday 13'>{{cite web | url = http://marvel.com/news/story/1294/marvels_5_unluckiest_heroes_a_friday_the_13th_special_report | title = Marvel's 5 Unluckiest Heroes: A Friday the 13th Special Report | accessdate = April 18, 2011 | date = July 17, 2007 | work = Marvel.com}}</ref> He was later killed by the [[Scarlet Witch]] along with [[Vision (Marvel Comics)|Vision]] and [[Hawkeye (comics)|Hawkeye]] in ''[[Avengers Disassembled]]'',<ref>''Avengers #500'' (Sept. 2004)</ref> but his daughter, Cassie, has taken up his heroic mantle as [[Cassandra Lang|Stature]], in the pages of ''[[Young Avengers]]''. He has returned in 2011 in the pages of the mini series known as ''The Children's Crusade'', but soon loses his daughter when she heroically sacrifices herself to stop a super charged Doctor Doom.
+
+===Eric O'Grady===
+{{main|Ant-Man (Eric O'Grady)}}
+'''Eric O'Grady''' is the third character to take up the title of Ant-Man. Eric O'Grady is a low-level agent of [[S.H.I.E.L.D.]] who stumbled upon the Ant-Man suit in S.H.I.E.L.D.'s headquarters.<ref>''Irredeemable Ant-man'' #1 (Oct. 2006)</ref> A man of few morals and willing to lie, cheat, steal, and manipulate in order to get ahead in life, Eric stole the armor for his own selfish plans, which included using his status as a "super-hero" to seduce women<ref>''Irredeemable Ant-man'' #2 (Nov. 2006)</ref> and humiliate and torment others.<ref>''Irredeemable Ant-man'' #3 (Dec. 2006)</ref> He had his own short-lived title before being part of other teams: first the ''Avengers: The Initiative'' and then ''The Thunderbolts'' and more recently ''Secret Avengers''.
+
+==Film==
+{{main|Ant-Man (film)}}
+
+A live-action film, featuring Henry Pym and Scott Lang, titled ''Ant-Man'', is scheduled to be released on July 31, 2015.<ref name="Superherohype">{{cite news | url=http://superherohype.com/news/featuresnews.php?id=4566 | title= Exclusive: Edgar Wright Talks ''Ant-Man'' | last= Douglas |first= Edward |publisher=SuperHeroHype.com | date=July 26, 2006 | accessdate=July 30, 2006 }}</ref><ref name="NewRelease">{{cite web|url=http://www.deadline.com/2013/09/ant-man-new-release-date-july-31-2015/|title=Disney Moves Up ‘Ant-Man’ Release To Summer 2015|publisher=Deadline.com|date=September 9, 2013|accessdate=September 9, 2013|archiveurl= |archivedate= |deadurl=no}}</ref> It will be directed by [[Edgar Wright]], who wrote the script along with [[Joe Cornish (filmmaker)|Joe Cornish]].<ref name="Superherohype" /> In July 2013, Wright revealed to Digital Spy while talking about his new film  ''[[The World's End (film)|The World's End]]'', that the script was finished.<ref>{{cite web|url=http://digitalspy.com/movies/news/a497869/edgar-wright-ant-man-script-is-complete-video.html|title=Edgar Wright: 'Ant-Man script is complete' - video|last=Dibdin|first=Emma|publisher=Digital Spy|date=July 12, 2013|accessdate=September 3, 2013}}</ref> In August 2013, Wright stated in an interview with ''Collider'', that pre-production would begin in October 2013.<ref name="Collider">{{cite web |date=August 25, 2013 |last=Weintraub |first=Steve |title=Edgar Wright Talks THE WORLD’S END, Deleted Scenes, IMAX, 3D, Dwayne Johnson, ANT-MAN, His Sci-Fi Movie COLLIDER, and So Much More|url=http://collider.com/edgar-wright-worlds-end-collider-ant-man-interview/ |publisher=Collider |accessdate=August 25, 2013 |archiveurl= |archivedate= |deadurl=no}}</ref> [[Kevin Feige]] stated in October 2013 that filming would begin in mid-2014.<ref name="FilmingBegin">{{cite web|url=http://comicbook.com/blog/2013/10/25/ant-man-to-begin-filming-next-summer-says-feige/|title=Ant-Man To Begin Filming Next Summer, Says Feige|last=Burlingame|first=Russ|publisher=ComicBook.com|date=October 25, 2013|accessdate=October 26, 2013|archiveurl=http://archive.is/KtWi6|archivedate=October 26, 2013|deadurl=no}}</ref> In November 2013, Feige confirmed that aspects of Eric O'Grady's Ant-Man would not be featured in the film.<ref name="EricO'Grady">{{cite web|url=http://www.craveonline.com/film/interviews/601057-exclusive-interview-kevin-feige-on-thor-and-marvels-future/2|title=Exclusive Interview: Kevin Feige on Thor and Marvel’s Future|last=Bibbiani|first=William|publisher=CraveOnline|date=November 8, 2013|accessdate=November 10, 2013|archiveurl=http://archive.is/u5rE1|archivedate=November 10, 2013|deadurl=no}}</ref> In December 2013, [[Paul Rudd]] was cast as Ant-Man.<ref name="RuddCast">{{cite web|title=Paul Rudd Set to Star in Marvel's Ant-Man|url=http://marvel.com/news/movies/2013/12/19/21669/paul_rudd_set_to_star_in_marvels_ant-man|work=Marvel Entertainment|publisher=Marvel Studios|accessdate=December 19, 2013|date=December 19, 2013|archiveurl=http://archive.is/f1JvV|archivedate=December 19, 2013|deadurl=no}}</ref>
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+*[http://www.marvel.com/universe/Ant-Man_(disambiguation) Ant-Man (disambiguation)] at the Marvel Universe
+*[[MarvelDatabase:Ant-Man|Ant-Man]] at the Marvel Database Project
+*[http://geektyrant.com/news/2012/5/21/nathan-fillion-does-not-want-to-play-ant-man.html Geektyrant.com]
+*{{IMDb title|id=0478970|title=Ant-Man}}
+*[http://www.toonopedia.com/antman.htm Ant-Man] at [[Don Markstein's Toonopedia]]. [http://www.webcitation.org/66gWlKhua Archived] from the original on April 4, 2012.
+
+{{Henry Pym}}
+
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Fictional characters who can change size]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Comics adapted into films]]
+[[Category:Fictional characters introduced in 1962]]
+[[Category:Size change in fiction]]

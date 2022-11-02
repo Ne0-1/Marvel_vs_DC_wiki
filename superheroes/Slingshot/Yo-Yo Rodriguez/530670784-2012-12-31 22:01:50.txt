@@ -1,0 +1,45 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        =
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[The Mighty Avengers]]'' #13 (July 2008)
+| creators       = [[Brian Michael Bendis]]<br />[[Alex Maleev]]
+| alter_ego      =
+| full_name      =
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = [[Secret Warriors]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = Slingshot
+| powers         =
+| cat            = super
+| subcat         = Marvel Comics
+| hero           = y
+| villain        =
+| sortkey        = Rodriguez, Yo-Yo
+| addcharcat#    =
+}}
+'''Yo-Yo Rodriguez''', also known as '''Slingshot''', is a fictional character in the [[Marvel Universe]].
+
+==Fictional character biography==
+Yo-Yo Rodriguez, is the Puerto-Rican daughter of the [[Griffin (Marvel Comics)|Griffin]]. She is recruited by [[Nick Fury]] to join his anti-[[Skrull]] task force.<ref>''Mighty Avengers'' #13</ref> This team becomes known as the [[Secret Warriors]].<ref>''Secret Invasion'' #3</ref>
+
+Both of her arms are severed by the Gorgon, and is temporarily unable to remain active with the team.<ref>''Secret Warriors'' #3</ref> However, both arms are replaced with prosthetics<ref>''Secret Warriors'' #8</ref> and she returns to active duty.<ref>''Secret Warriors'' #9</ref>
+
+==Powers and abilities==
+She can run at superhuman speed and bounces back to the point where she began running.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{comicbookdb|type=character|id=20475|title=Yo-Yo Rodriguez}}
+* [http://marvel.wikia.com/Yo_Yo_Rodriguez_%28Earth-616%29 Yo-Yo Rodriguez] at the [[Marvel Database Project]]
+
+{{DEFAULTSORT:Rodriguez, Yo-Yo}}
+[[Category:Characters created by Brian Michael Bendis]]
+[[Category:Comics characters introduced in 2008]]
+
+{{Marvel-hero-stub}}

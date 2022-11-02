@@ -1,0 +1,28 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Osiris
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Thor (Marvel Comics)|Thor]]'' #240 (Oct 1975)
+|creators=[[Bill Mantlo]], [[Roy Thomas]], and [[Sal Buscema]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Heliopolitans (comics)|Heliopolitan Gods]]
+|previous_alliances=
+|aliases=Ousir
+|relatives=
+|powers=
+|}} 
+
+'''Osiris''' is a [[fictional character]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]], based loosely on the [[Osiris]] of [[Egyptian mythology]].  
+
+==External links==
+*[http://www.marvunapp.com/Appendix/osiristhor.htm Osiris at marvunapp.com]
+
+[[Category:Marvel Comics Heliopolitans]]
+
+
+{{Marvel-Comics-stub}}

@@ -1,0 +1,53 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Loaheadshot.jpg]]
+|caption=Loa, by Georges Jeanty
+|comic_color=background:#ff8080
+|character_name=Loa
+|real_name=Alani Ryan
+|species=[[mutant (fictional)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''New X-Men: Academy X #5''
+|creators=Nunzio DeFilippis and Christina Weir
+|alliance_color=background:#ffc0c0
+|status=Active
+|alliances=[[Xavier Institute]], [[The 198]]
+|previous_alliances=[[Alpha Squadron (comics) |Alpha Squadron]]
+|aliases=
+|relatives=
+|powers=Possesses the power to "swim" through solid matter causing it to crumble afterwards
+|}} '''Loa''' is a [[fictional character]] found in the [[Marvel Universe]].  A [[mutant]], Loa is a student at the [[Xavier Institute]].  She made her debut in ''New X-Men: Academy X #5''.
+
+==Character Biography==
+
+Born in Hawaii, '''Alani Ryan''' quickly developed a talent for surfing.  When Ryan began to experience bigotry because of her newly-emerged mutant abilities, she was sent to enroll at the [[Xavier Institute]].  Once there, she adopted the codename, Loa, and along with her fellow students, [[Anole (comics)|Anole]], [[Rubbermaid (comics)|Rubbermaid]], [[Kidogo]], [[Network (comics)|Network]], and [[Indra (comics)|Indra]], was assigned to [[Alpha Squadron (comics) |Alpha Squadron]], the training squad advised by former [[Alpha Flight]] member, [[Northstar]].   When Northstar was apparently killed by Wolverine, advising duties for Alpha Squadron were taken over by [[Karma (comics)|Karma]].  After the [[Decimation (comics)|Decimation]], she was one of the students [[Emma Frost]] placed in the fateful all-out brawl that would determine who would become the new X-Men trainees, but lost.  Recently, Anole encountered--and was subsequently beaten by--a mind-controlled Northstar, raiding the Institute.  It is unknown of Loa or Indra know their former mentor is alive.
+
+==Powers==
+
+Loa possesses a [[molecule|molecular]] distortion power that allows her to move through solid [[matter]] by disabling binding forces. This causes the matter to crumble, or break down around as she passes through it.
+
+==Trivia==
+
+* In ''New X-Men: Academy X: Yearbook Special'', Loa is voted "Most Laid Back."
+
+* Loa dislikes Chemistry.
+
+* Loa's body is covered with unusual markings.  It is unclear whether this is part of her mutant nature, or man-made tattooing.
+
+* Loa was one of the 27 students to remain powered after Scarlet Witch's House of M
+
+* Loa's codename comes from Mauna Loa, an active volcano on Hawaii Island
+
+==External links==
+
+*[http://uncannyxmen.net/db/article/showquestion.asp?faq=4&fldAuto=229&page=3'''UncannyXmen.net'''-Yearbook Entry on Alpha Squadron]
+
+==Bibliography==
+
+''New X-Men: Academy X: Yearbook Special'' by Nunzio DeFilippis and Christina Weir
+
+''X-Men: The 198 Files'' by Eric J. Moreels, Marc-Oliver Frisch, and Brian E. Wilkinson
+
+[[Category:X-Men supporting characters]]
+[[Category:Fictional Hawaiians]]
+[[Category:Marvel Comics mutants]]
+[[Category:The 198 Files]]

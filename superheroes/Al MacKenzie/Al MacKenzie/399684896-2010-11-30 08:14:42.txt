@@ -1,0 +1,41 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Al MacKenzie
+|real_name=Alphonso MacKenzie
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''Nick Fury vs. S.H.I.E.L.D.'' #3 (Aug 1988)
+|creators=[[Bob Harras]] and [[Paul Neary]]
+|alliance_color=background:#c0c0ff
+|alliances=[[S.H.I.E.L.D.]]<br/>C.I.A.
+|aliases=
+|powers=
+|}} 
+
+'''Al MacKenzie''' is a [[fictional character]] in the [[Marvel Universe]].  
+
+==Publication history==
+Al MacKenzie first appeared in ''Nick Fury vs. S.H.I.E.L.D.'' #3 (August 1988), and was created by [[Bob Harras]] and [[Paul Neary]].
+
+The character subsequently appears in ''Nick Fury, Agent of S.H.I.E.L.D.'' #1-7 (September 1989-January 1990).
+
+Al MacKenzie received an entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Update '89]]'' #4.
+
+==Fictional character biography==
+Al MacKenzie was born in [[Austin, Texas]]. He was once the [[Central Intelligence Agency|C.I.A.]] liaison to [[S.H.I.E.L.D.]]  He became romantically involved with Contessa [[Valentina Allegra di Fontaine]] after a while, which led to an estrangement between him and [[Nick Fury]].  Because of this, he returned to the CIA with the Contessa.
+
+MacKenzie later joined the S.H.I.E.L.D. organization full time, and spent considerable time as the senior liaison officer to the C.I.A. Subsequently, under unknown circumstances, MacKenzie resigned from S.H.I.E.L.D., and wrote a "tell-all" book entitled ''UnSHIELDed: an Unauthorized Insider's Look Behind the World's Most Powerful Global Spy Network'', which purportedly explained some of the history behind the organization from his point of view.<ref>''[[Amazing Fantasy]]'' Vol. 2, # 10</ref> Since then, he also acted as an unofficial source to [[Ben Urich]], prodding Urich and [[Jessica Jones (comics)|Jessica Jones]] to attempt to expose Fury's unauthorized mission to [[Latveria]],<ref>''[[The Pulse (comics)|The Pulse]]'' # 9</ref> suggesting to some readers that it is unclear how valid his resignation truly is.
+
+==References==
+{{reflist}}
+
+{{S.H.I.E.L.D.}}
+
+{{DEFAULTSORT:MacKenzie, Al}}
+[[Category:Comics characters introduced in 1988]]
+[[Category:Fictional characters from Texas]]
+[[Category:Fictional secret agents and spies]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics superheroes]]

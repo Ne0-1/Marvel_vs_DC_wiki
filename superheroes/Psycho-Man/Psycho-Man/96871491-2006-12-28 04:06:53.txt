@@ -1,0 +1,45 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Psycho-Man
+|real_name=Unknown
+|publisher=[[Marvel Comics]]
+|debut=''[[Fantastic Four]]'' Annual #5
+|creators=
+|alliance_color=background:#c0c0ff
+|alliances=
+|previous_alliances=[[Hate-Monger]] II
+|aliases=None known
+|relatives=None known
+|powers=None known
+|}}
+'''Psycho-Man''' is a fictional [[supervillain]] from [[Marvel Comics]], created by [[Jack Kirby]] and [[Stan Lee]].  He is primarily a foe of the [[Fantastic Four]]. 
+
+==Character history==
+Psycho-Man is a [[mad scientist]], the leader of a [[technocracy]] that goverened a system of worlds within a [[Microverse]].  Facing overpopulation, he determined that it would be easier to cross other dimensions than to travel to other systems.  Deciding that Earth would be an ideal target due to its inhabitants vulnerabilities to his unique weaponry, he used scientific means to enter the normal-sized universe, though he was only able to achieve [[microscopic]] size in this world and has to resort to a human-sized, armored [[exoskeleton]] to interact with anything not on a microscopic scale.
+
+Using a portable device capable of influencing people's emotions, Psycho-Man used a number of human subjects to build a larger-scale version of the machine, one capable of covering the world with its emotion-influencing rays.  This effort was thwarted by the [[Human Torch]] and [[The Thing]], several members of the [[Inhumans]], and the [[Black Panther]], and Psycho-Man was forced to retreat back to the Microverse.  He was subsequently followed by the Human Torch, the Thing, and [[Mister Fantastic]], who were forced to let him go in order to deal with a greater threat back in their own dimension.  Psycho-Man later faced the Fantastic Four again, as well as a group called the [[Micronauts]] who were native to his home dimension, by which time he claimed to be in exile from his homeworld.
+
+Returning to Earth, Psycho-Man next used an [[android]] known as H. M. Unger (also known as the [[Hate-Monger]]) to stimulate hatred among the population of New York City through demagoguery and chemically-treated pamphlets.  The Hate-Monger also succeeded in turning the [[Invisible Woman]] into the hateful warrior [[Malice (comics)|Malice]], sending her to destroy her teammates.  After her husband, Mister Fantastic, succeeded in breaking the Invisible Woman free of her conditioning, the Fantastic Four pursued the Psycho-Man back to his home dimension once more, where they found they had conquered a kindgdom ruled by their friend [[Queen Pearla]].  There the Invsiible Woman confronted Psycho-Man and used his own emotion-control device on him by subjecting him to all three emotions simultaneously at maximum intensity, collapsing his nervous system.
+
+==Powers and abilities==
+Though lacking superpowers, Psycho-Man possesses genius-level intelligence and advanced scientific knowledge.  His main weapon is an emotion-controlling device that projects a ray capable of stimulating the centers of emotion within a person's brain.  The device has settings allowing to to produce fear, doubt, and hate, which he can induce for whatever duration and intensity he desires.  Though the limits of this device are unknown, he can induce a condition of fear capable of triggering hallucinations and even trigger death due to heart strain.
+
+Psycho-Man also uses a number of suits of armor allowing him to interact with Earth's universe.  These suits, which he controls cybernetically, can be altered to provide different capabilities, and have demonstrated sufficient strength to challenge the Thing in physical combat.
+
+==Other Media== 
+Psycho Man appeared in the 1990's Fantastic Four series in which he intended to use element L for his hate ray to conquer the world.
+==Ultimate Psycho-Man==
+Psycho-Man may appear in the Ultimate Universe as an android designed to spread a message of hate around the world who is immune to the effects of his emotion ray
+
+==External links==
+*[http://marvel.com/universe/Psycho-Man Psycho-Man on the Marvel Universe Character Bio Wiki]
+
+
+[[Category:Fantastic Four villains]]
+[[Category:Avatars of Captain Universe]]
+[[Category:Fictional mad scientists]]
+{{Marvel-villain-stub}}
+
+[[fi:Psykomies]]

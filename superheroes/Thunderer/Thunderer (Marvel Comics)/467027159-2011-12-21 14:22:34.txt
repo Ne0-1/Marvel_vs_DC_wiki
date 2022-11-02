@@ -1,0 +1,37 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+noimage=yes
+|caption=
+|character_name=Thunderer
+|real_name=Jerry Carstairs
+|publisher=[[Timely Comics]]
+|debut=as the '''Thunderer''':<br>''Daring Mystery Comics'' #7 (Timely, April 1942)<br>
+as '''Black Avenger''':<br>''All-Winners Comics'' #6 (Timely, Fall 1942)
+|creators=
+|alliances=
+|aliases=Black Avenger
+|powers=Skilled fighter<br>Uses a microphone in his costume to amplify his voice to scare his enemies
+}}
+The '''Thunderer''' is a fictional character, a superhero which appeared in comic books published by Timely Comics. He first appeared in ''Daring Mystery Comics'' #7 (Timely, April 1942).
+
+==Fictional character biography==
+Frustrated that America didn't seem to be dealing with crime or Nazi saboteurs, radio operator Jerry Carstairs created a costume with a built in microphone and went out to fight for justice as the Thunderer.<ref>''Daring Mystery Comics'' #7-8</ref>
+
+The Thunderer briefly changed his name (but not his costume) to the Black Avenger.<ref>''All-Winners Comics'' #6</ref>
+
+Alongside a number of other heroes, the Thunderer patricipated in an air drop on a Nazi stronghold.<ref>''Marvels'' #1</ref>
+
+The Thunderer attended a reunion of Second World War costumed heroes.<ref>''Captain America'' #442</ref>
+
+==Other media==
+===Television===
+* The Thunderer appeared in the five-part ''[[Spider-Man (1994 TV series)|Spider-Man]]'' episode "[[Six Forgotten Warriors]]" voiced by [[Hansford Rowe]].{{cn|date=August 2011}} In this version, the Thunderer's powers are the result of an attempt at recreating the process that empowered Captain America.
+
+==References==
+{{reflist}}
+
+[[Category:Comics characters introduced in 1942]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Golden Age superheroes]]
+[[Category:Timely Comics characters]]
+
+{{Marvel-hero-stub}}

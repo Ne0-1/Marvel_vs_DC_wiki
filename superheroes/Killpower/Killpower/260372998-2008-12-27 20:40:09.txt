@@ -1,0 +1,55 @@
+{{Superherobox
+ | image = [[Image:Killpower.jpg|200px]]
+ | caption = Killpower promotional artwork
+ | comic_color = background:#ff8080
+ | character_name = Killpower
+ | publisher = [[Marvel Comics]]/[[Marvel UK]]
+ | debut = ''Motomouth'' #1
+ | creators = [[Gary Frank]]<br />[[Graham Mark]]
+ | alliance_color = background:#ffc0c0
+ | real_name = Julius Mullarkey
+ | alliances = 
+ | aliases = 
+ | powers = 
+}}
+'''Killpower''' is a [[Fictional character|fictional]] [[History of the British comic|British comic book]] character from [[Marvel UK]]. He is the partner of [[Motormouth (Comics)|Motormouth]] and first appeared in ''Motormouth'' #1. Killpower was created by [[Gary Frank]] and [[Graham Mark]].
+
+==Publication history==
+After his initial appearance in ''Motormouth'', Killpower went on to gain a self-titled limited series.  After that his series and Motormouth's were combined and renamed ''Motormouth and Killpower'', often with Killpower's name appearing handwritten or scrawled below Motormouth's as if in afterthought, possibly as a reference to Motormouth's view of him as being a hanger-on.
+
+==Fictional character biography==
+
+Killpower is a [[genetic engineering|genetically engineered]] super-being made by Gena-Sys Labs, secretly a subsidiary of [[Mys-Tech]]. He was made by the [[mad scientist]] Dr. [[Oonagh Mullarkey]], using both human and animal DNA, as a form of expendable [[supersoldier]], and designed to mature at a rapid rate. He was given the name "Julius Mullarkey" by his creator, and by the age of 18 months reached his adult size of 6 feet 8 inches and 325 pounds. He had a childlike mentality, but was not taught any morals and had no understanding of concepts like the value of human life. He took a great interest in guns and other weapons, the bigger the better, but regarded shooting people as a game.
+
+He was used as an operative of Gena-Sys (and through them, Mys-Tech) until he was sent to recover the missing MOPED (Mind Operated PErsonal Dematerialization) unit, and encountered its new owner Motormouth. She taught him that killing people was bad... the first he had ever heard of such a notion ...and he broke down crying, thinking of all those he'd killed on his missions. When Motormouth was shot in the throat, Julius used his innate mechanical instincts to repair her with technology, giving her a sonic scream as well as integrating the MOPED device into her body. Motormouth and Killpower then became travelling partners and adventurers. Killpower willingly helped Motormouth accomplish her goals, such as tracking down the creators of the MOPED devices. 
+
+Killpower plays an important role in the 'Mys-Tech Wars' though only his partner remembers the incident.
+
+===Days of Future Past===
+
+As detailed in "Excalibur" #66 (July 1993) Killpower is one of the few survivors of the anti-Sentinel front, the Resistance Coordination Execution. He follows the lead of Nigel Orpington-Smythe, a counterpart of [[R.C.X.]]. Motormouth had been one of the previous victims of a Sentinel attack.
+
+==Powers and abilities==
+Killpower has a combination of Human and animal DNA as well as "bio-occult conditioning" provided by Mys-Tech. He possesses enhanced strength, speed, stamina, reflexes, senses, and agility. He was shown shrugging off the impact of twenty tons of debris. He also has an instinctive affinity for all sorts of technology, a "mecha-psychometry" that allows him to use, repair and rebuild devices which he has never seen before. 
+
+Killpower has received training in various forms of combat and the use of numerous firearms.
+
+==References==
+{{refbegin}}
+*[http://www.marvunapp.com/Appendix/killpowe.htm Killpower] at the Appendix to the Handbook of the Marvel Universe
+*[http://www.internationalhero.co.uk/k/killpowr.htm Killpower] at the International Catalogue of Superheroes
+*{{comicbookdb|type=character|id=6327|title=Killpower}}
+*{{gcdb series|id=4705|title=''Killpower: The Early Years''}}
+*[http://www.comics-db.com/Marvel_Comics/K/Killpower__The_Early_Years/index.html ''Killpower: The Early Years''] at the [[Big Comic Book DataBase]]
+{{refend}}
+
+[[Category:1993 comic debuts]]
+
+[[Category:Fictional genetically engineered characters]]
+[[Category:Marvel Comics characters who can fly]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel UK characters]]
+[[Category:Marvel UK titles]]
+
+[[tl:Killpower]]

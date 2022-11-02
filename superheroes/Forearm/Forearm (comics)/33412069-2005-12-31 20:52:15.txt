@@ -1,0 +1,28 @@
+{{Supersupportingbox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=
+|character_name=Forearm
+|publisher=Marvel Comics
+|debut=New Mutants #86
+|creators=Rob Liefeld and Louise Simonson
+|full_name=Michael McCain
+|status=presumed deceased
+|supports=
+|relatives=None known
+|}}
+
+Forearm is a fictional character created by Marvel Comics. He was first introduced as a member of the Mutant Liberation Front in the comic title "X-Force" (more specifically, in New Mutants issue 86, around the time that Rob Liefeld took over as the penciler of that series). Forearm was also on the Mutant Liberation Front's active roster when the team was reformed in X-Force #26, with Reignfire as their leader. One of the team's first missions was the attempted assassination of Henry Peter Gyrich.
+
+Forearm's name stems from the fact that he literally has four arms on his body. His powers are limited to enhanced strength and endurance. He is not the first X-villain to possess more than two arms (see Spiral).
+
+Forearm was one of the last members of the Mutant Liberation Front to survive after they were taken into custody by Zero Tolerance. However, he was killed during a fight with former Serpent Society member Anaconda, who broke his neck during the Bloodsport tournament in Madripoor, where he was a contestant. (Wolverine, 2nd series #167)
+
+Useful Links and Readings:
+
+* [http://www.uncannyxmen.net/db/pov/showquestion.asp?faq=5&fldAuto=46 UXM entry on Mutant Liberation Front]
+
+<div class="boilerplate metadata" id="stub"><table cellpadding="0" cellspacing="0" style="background-color: transparent;"><tr><td>[[Image:Marvel_logo.jpg|55px|Marvel logo]]&nbsp;</td><td>''This [[Marvel Comics]]-related article is a [[Wikipedia:Stub|stub]]. You can [[Wikipedia:Find_or_fix_a_stub|help]] Wikipedia by [{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit}} expanding it], and please consider joining [[Wikipedia:WikiProject Comics|Wikipedia's WikiProject on Comics]].''</td></tr></table></div>[[Category:Marvel Comics stubs<noinclude>|*</noinclude>]]
+
+[[Category:X-Men villains]]
+{{Marvelcomics-stub}}

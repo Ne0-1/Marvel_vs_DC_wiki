@@ -1,0 +1,11 @@
+#Redirect [[List of Marvel Comics characters: B#Bast]]
+
+{{Rcat shell|
+{{R from fictional character|Marvel Comics}}
+{{R comics from merge}}
+{{R comics to section}}
+}}
+
+[[Category:Characters created by Christopher Priest]]
+[[Category:Comics characters introduced in 1999]]
+[[Category:Marvel Comics deities]]

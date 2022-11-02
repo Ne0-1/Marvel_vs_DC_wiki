@@ -1,0 +1,40 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=|image=[[Image:manphib.jpg|249px]]
+|caption=The Manphibian makes his first appearance (standing in between the [[Frankenstein's Monster (Marvel Comics)|Frankenstein's Monster]] and [[Dracula (Marvel Comics)|Count Dracula]]). From ''The Legion of Monsters'' #1.
+|comic_color=background:#ff8080
+|character_name=Manphibian
+|real_name=
+|publisher=[[Marvel Comics]]
+|debut=''Legion of Monsters'' #1
+|creators=
+|alliance_color=background:#cccccc
+|alliances=[[S.H.I.E.L.D.]]<br>[[Howling Commandos]]<br>[[Legion of Monsters]]
+|aliases=
+|powers=Super-Strength<br>Sharp Claws
+|}}
+'''Manphibian''' is a fictional character in [[Marvel Comics]]. It has some resemblance to the "[[Gill-man|Gill Man]]" seen in ''[[Creature from the Black Lagoon]]''.
+
+==Fictional character biography==
+{{expand section|date=August 2013}}
+'''Manphibian''' is an [[Extraterrestrial life|extraterrestrial]] creature that arrived on [[Earth]] over 1000 years ago. It is revived in 1975 and is later revealed to be captured by [[S.H.I.E.L.D.]]{{Issue|date=September 2010}} It is then placed in the [[Nick Fury's Howling Commandos|Howling Commandos]] Monster Force.{{Issue|date=September 2010}}
+
+==Powers and abilities==
+Manphibian possesses super-strength which is enough to tear a fifteen foot tree from the ground. Manphibian also has sharp claws and its skin is strong enough to withstand missiles.
+
+==Bibliography==
+* ''Legion of Monsters'' #1
+* ''Marvel Handbook: 1970s''
+* ''Nick Fury's Howling Commandos'' #1-6
+* ''Nick Fury’s Howling Commandos: Director's Cut''
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix/manphibi.htm|Manphibian}}
+
+[[Category:Fictional extraterrestrial characters]]
+[[Category:Marvel Comics characters]]
+
+
+{{Marvel-char-stub}}

@@ -1,0 +1,76 @@
+{{plot|date=December 2017}}
+{{Infobox comics story arc <!--Wikipedia:WikiProject Comics--> 
+<!-- |title          = For the Man Who Has Everything -->
+|image          = Fortheman.jpg
+|imagesize      = <!-- default 250 -->
+|caption        = {{Descript-cvr|[[Superman (comic book)|Superman]] Annual||11|1985}} Art by [[Dave Gibbons]].
+|publisher      = [[DC Comics]]
+|startmo        = 
+|startyr        = 1985
+|endmo          = 1
+|endyr          = 
+|genre          = <!--covered by cat -->
+|titles         = ''[[Superman (comic book)|Superman]] Annual'' #11
+|notable = y
+|main_char_team = [[Superman]], [[Mongul]],<br> [[Wonder Woman]], [[Batman]],<br> [[Jason Todd|Robin]],<br> [[Jor-El]]
+|writers        = [[Alan Moore]]
+|artists        = [[Dave Gibbons]]
+|pencillers     = 
+|inkers         = 
+|letterers      = Dave Gibbons
+|editors        = [[Julius Schwartz]]
+|colorists      = Tom Ziuko
+|TPB            = DC Universe: The Stories of Alan Moore
+|ISBN           = 1-4012-0927-0 
+|cat            = Superman
+|sortkey        = For the Man Who Has Everything
+|single         = y
+}}
+"'''For the Man Who Has Everything'''" is a [[comic book]] story by writer [[Alan Moore]] and artist [[Dave Gibbons]], first published in ''[[Superman (comic book)|Superman]] [[Annual publication|Annual]]'' #11 (1985). It is notable for being the first appearance of the Black Mercy, an extraterrestrial, magical plant-like organism that exhibits enjoyable hallucinogenic effects on the victims to which it attaches [[parasitically]]. The story has been adapted to television twice, first into the August 7, 2004 [[For the Man Who Has Everything (Justice League Unlimited episode)|same-named episode]] of the animated TV series ''[[Justice League Unlimited]]'', and then more loosely into "[[For the Girl Who Has Everything (Supergirl)|For the Girl Who Has Everything]]", the February 8, 2016 episode of the live action ''[[Supergirl (TV series)|Supergirl]]'' TV series. The story was nominated for the 1986 [[Kirby Award]] for Best Single Issue.
+
+==Background and context==
+Between 1980 and 1984, Alan Moore became a recurring presence in comic books published in the United Kingdom.<ref name=One>{{cite book|author=KHOURY, George|title=The Extraordinary Works of Alan Moore|publisher=TwoMorrows Publishing|date=2003|ISBN=978-1-893905-24-5}}</ref>
+Both the British division of Marvel Comics, IPC Magazines (publisher of comic [[2000 AD (comics)|2000 AD]]), and Quality Communications (publisher of the comic [[Warrior (comics)|Warrior]]) hired Moore to write for them.<ref name=One /> On more than one occasion Moore worked on comics with artist Dave Gibbons and the two enjoyed working together.
+
+Gibbons's talent caught the attention of DC Comics in 1982. That year, Len Wein hired him as the artist of the Green Lantern series.
+
+The following year Moore was also hired by Wein who had been seeking a writer for Swamp Thing due to the low sales the title had seen. Alan Moore reinvented the character and introduced new themes, dealing with social and environmental issues.<ref name=Six>{{cite book|author=KNOWLES, Christopher|authorlink=Christopher Knowles (comics)|title=[[Our Gods Wear Spandex]]|publisher=Weiser, 2007|ISBN=978-1-57863-406-4}}</ref> Moore took over the series in 1984 and his scripts soon attracted the attention of audiences and critics.
+
+Both before and while working on ''[[Swamp Thing]]'', Moore submitted numerous proposals to the publisher, seeking to work with characters like [[Martian Manhunter]] and the [[Challengers of the Unknown]], but all ended up being rejected because DC had already developed projects with other writers for the characters with which he intended to work. When the editor [[Dick Giordano]] finally approved the project that would become ''[[Watchmen]]'', Moore and Gibbons began working on planning the stories. Shortly after, the editor [[Julius Schwartz]] asked Gibbons if he could draw a Superman story. Gibbons said he was available. When Schwartz told Gibbons he could also choose who wrote the story, he immediately requested Moore. "For the Man Who Has Everything" began to take shape.<ref name=Eleven>{{cite book|author=PARKIN, Lance|title=Alan Moore: The Pocket Essential|publisher=Trafalgar Square Publishing, 2002|ISBN=978-1-903047-70-5}}</ref>
+
+==Plot==
+[[Batman]], [[Jason Todd|Robin]] and [[Wonder Woman]] visit the [[Fortress of Solitude]] with gifts on [[Superman]]'s birthday. They find him in a catatonic state. There is a large alien plant stuck to his chest, its tendrils wrapped around his body. As they analyze the situation, the alien [[Mongul]] steps into the scene, revealing the name of the plant (the "Black Mercy") and how it has put Superman into a coma, feeding him an extremely realistic and plausible dream based on his heart's desire while it consumes his bio-aura. As he explains, Mongul touches the Mercy while wearing a pair of protective, oversized gauntlets. Interspersed with the scenes in the Fortress are pages of Superman's dream of living a normal life on his long-destroyed home planet of [[Krypton (comics)|Krypton]], happily married to [[Lyla Lerrol]] with two children: a daughter Orna, and a son Van.
+
+While Wonder Woman battles Mongul, whose power and strength exceed hers, Batman and Robin try to free Superman. Meanwhile, Superman's fantasy takes a dark turn. His father [[Jor-El]]'s prediction of Krypton's doom was unfulfilled, leading to Jor-El being discredited and embittered. Superman's mother [[Lara (comics)|Lara]] has died from the "Eating Sickness", which has further isolated Jor-El from his son and the rest of his family. Even the death of his brother [[Zor-El]] has not reconciled him to his sister-in-law [[Alura]] and niece [[Kara Zor-El]].
+
+The Kryptonian society within the dream is undergoing polarization and political upheaval. Jor-El has become disgraced after his prediction of Krypton's destruction proved to be inaccurate. Spurned by the public, he has become chairman of an extremist reactionary movement called the "Sword of [[Rao (comics)|Rao]]" which calls for a return to Krypton's "noble and unspoiled" past through the establishment of a [[Theocracy|theocratic]] [[Totalitarianism|totalitarian state]] under the leadership of Brother Lor-Em. The [[Phantom Zone]], Krypton's other-dimensional prison system, has become a major point of contention in this dreamworld. As it was developed by Jor-El, the House of El is unpopular with the public, who see the Zone as cruel and unusual punishment. Kara Zor-El is brutally assaulted by anti-Zone protesters, who use the criminal [[Jax-Ur]] (sentenced to an eternity in the Zone) as a martyr and symbol. As a result, Kal-El decides to leave the city, only to witness Jor-El presiding over a [[Demonstration (protest)|political demonstration]] reminiscent of a [[Fascism|Fascist]] rally. The rally quickly dissolves into a [[riot]] due to a confrontation between anti-Zone protesters and the Sword of Rao. 
+
+Superman gradually begins to wake up from the increasingly disturbing dream, with it finally dissolving with a scene of his "son", Van-El, slipping away from him as they visit the [[Kandor]] crater. In the conscious world, Batman has resorted to trying to pry the Mercy off Superman's chest. Without protective clothing, the plant immediately attacks ''him'', submerging Batman into his own "heart's desire" dream, in which the murder of his parents is narrowly prevented by [[Thomas Wayne]] disarming [[Joe Chill]]. Superman awakens, infuriated by the Mercy's attack and the loss of the fantasy (as Mongul later describes, "''escaping it must have been like tearing off your own arm''"). He savagely attacks Mongul, who was about to kill the defeated Wonder Woman. The two adversaries battle across the Fortress, causing massive damage to it.
+
+Robin, anxiously seeking a solution, puts on Mongul's discarded gauntlets and pries the Mercy off Batman. Thinking quickly, he stuffs the Mercy into one of the gauntlets, allowing him to safely carry it to the battle. Superman, on the verge of delivering a crushing blow to Mongul, becomes distracted by the sight of the statues of his parents, allowing Mongul to deliver a stunning counterattack. Mongul is on the verge of delivering a lethal blow to Superman when Robin drops the Mercy on him. Mongul is instantly seized by the plant and submerged into his own deepest fantasy, in which he swats the Mercy aside, kills Robin, then Superman, then goes on to conquer Earth and the universe.
+
+In the aftermath, Batman and Wonder Woman's wounds have been bandaged up; Batman idly explains how his fantasy had included him marrying [[Batwoman|Kathy Kane]] and having a teenage daughter, while Wonder Woman confesses envy that she could not find out what her heart's desire was. After revealing plans to imprison Mongul by dumping him in a [[black hole]] on the other side of the galaxy, Superman unwraps his gifts; Wonder Woman had brought a replica of [[Kandor]] made by "gem-smiths" of [[Themyscira (DC Comics)|Paradise Island]], which prompts Superman to fly off, hide his own replica of the Bottle City, and return at super-speed before his absence is noticed. Batman’s gift, sadly, turns out to be another plant – a new breed of rose which has been named “The Krypton” – which had accidentally been stepped on and killed during the fight. Philosophically stating that it’s perhaps for the best, Superman asks that someone from the group of friends make coffee for everyone while he cleans up the mess around the Fortress. The final page documents Mongul's universal conquest fantasy - "''The stars run red''", "''The nebulae echo with the screams of the dying''" – leaving him at last content.
+
+==Collected editions==
+As well as appearing in ''Superman Annual'' #11 it has been reprinted in:
+*''The Greatest Superman Stories Ever Told'' — [[hardcover]] compilation, 1987, [[DC Comics]], {{ISBN|0-930289-29-3}}; and [[Trade paperback (comics)|trade paperback]] edition, 1989, DC Comics, {{ISBN|0-930289-39-0}}
+*''Superman: The Man of Tomorrow'' — trade paperback, 1988, [[Titan Books]], {{ISBN|1-85286-049-9}} (in black and white only)
+*''Across the Universe: The DC Universe Stories of Alan Moore'' — trade paperback, 2003, DC Comics, {{ISBN|1-4012-0087-7}}
+*''[[DC Universe: The Stories of Alan Moore]]''  — [[Trade paperback (comics)|trade paperback]], 2006 ([[Titan Books|Titan]] {{ISBN|1-84576-257-6}}, [[DC Comics]] {{ISBN|1-4012-0927-0}})
+
+==Animated episode==
+The story was adapted for the second episode of the animated series ''[[Justice League Unlimited]]''. In this version, Robin does not appear and most of his lines are given to Wonder Woman. The presents Wonder Woman and Batman bring are also changed; Batman now simply brings money while Wonder Woman brings the new Krypton rose. While Mongul surmises in the comic that Superman's fantasy may involve "the aboriginal backwater he grew up in" (i.e., [[Smallville]]), in the episode he speculates that the Mercy's world involves Superman controlling the universe. Lyla Lerrol, Kal-El's wife in Superman's fantasy, is renamed "Loana" and is an amalgam of both [[Lois Lane]] and [[Lana Lang]], the two main loves of Clark Kent's life. Loana is voiced by [[Dana Delany]], who provided the voice of Lois Lane in the earlier series, ''[[Superman: The Animated Series]]'', as well as throughout ''Justice League Unlimited''. The voice of [[Jor-El]] is supplied by [[Christopher McDonald]] except for Jor-El's final line, which is given by [[Mike Farrell]], who voiced [[Jonathan and Martha Kent|Pa Kent]] in ''Superman: The Animated Series''. (Farrell also voices Brainiac, the household robot.) In the original comic story, Kal-El is depicted as the father of two children in Superman's fantasy, but in the animated adapatation, only the son, Van-El, makes an appearance. Also, Batman's fantasy consists only of his father disarming and beating [[Joe Chill]] during his mugging, which becomes progressively more violent and barbaric as Wonder Woman struggles to free Batman from the Black Mercy, and he realizes the false nature of the fantasy. In the end, Mongul's fantasy of conquest is not shown, and instead represented with a soundtrack of screams and explosions as the camera zooms in on his slightly-smiling face.
+
+[[J. M. DeMatteis]] adapted the script from the Alan Moore/Dave Gibbons story; they are given credit at the beginning of the episode. A rumor states that Alan Moore has gone on record stating that the episode is the only adaptation of his works that he actually likes. However, Moore simply approved the episode.<ref>{{cite web |url=http://goodcomics.comicbookresources.com/2016/02/05/comic-book-legends-revealed-561/3/ |title=Archived copy |accessdate=2016-02-28 |deadurl=yes |archiveurl=https://web.archive.org/web/20160301074732/http://goodcomics.comicbookresources.com/2016/02/05/comic-book-legends-revealed-561/3/ |archivedate=2016-03-01 |df= }} </ref>
+
+In 2006, a ''Justice League'' Superman action figure was released which included a Black Mercy accessory.{{cn|date=July 2017}}
+
+==References==
+{{Reflist}}
+
+{{Superman publications}}
+{{Alan Moore|type=comic}}
+{{DC Animated Universe}}
+
+[[Category:Comics by Dave Gibbons]]
+[[Category:Single issue storylines of comic book series]]

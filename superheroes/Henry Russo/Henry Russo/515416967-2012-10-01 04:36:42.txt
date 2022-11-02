@@ -1,0 +1,49 @@
+{{Refimprove|date=February 2010}}
+
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Henry Russo (Microchip)
+|real_name=Henry Russo
+|publisher=[[Marvel Comics]]
+|debut=Punisher vol 7 #1
+|creators=[[Rick Remender]]
+|alliance_color=background:#c0c0ff
+|alliances=
+|aliases=
+|powers=
+|}}
+
+'''Microchip (Henry Russo)''' is a fictional character from the [[Marvel Comics]] [[Marvel Universe|Universe]].
+
+==Fictional character biography==
+Russo is the child of [[Jigsaw (Marvel Comics)|Jigsaw]], and is a supporting character in the [[Punisher]] comic book series.
+
+As a child, Russo's father would neglect and abuse him.  In a pivotal incident, Jigsaw beat Russo for letting a cat inside their house. He then pulled a gun on Russo's mother and told him that if he did not drown the cat he (Jigsaw) would shoot her. Russo did, and was left traumatised by this incident.<ref>{{cite web|url=http://www.comicbookresources.com/?page=article&id=22910|title=COMMENTARY TRACK: "Punisher" #9 by Rick Remender|publisher=ComicBookResources.com}}</ref>
+
+Russo first met the Punisher at the age of eighteen,<ref>{{cite web|url=http://www.comicbookresources.com/?page=article&id=23503|title=Remender Builds A Better Punisher|publisher=ComicBookResource.com}}</ref> when Russo rescued the Punisher after he had been badly beaten by the [[Sentry (comics)|Sentry]]. Russo took the Punisher to his secret hideout, where he told him that he has access to [[CCTV]] cameras all over [[New York City]], and that he wants to help him take down [[Norman Osborn]]. He also reveals that he was able to track Osborn's activities involving prostitution and drug running, but that he wants the Punisher to help him find the proof. Russo than assists the Punisher in taking down several criminal activities related to Osborn. Russo also assisted the Punisher in an attempt to take down [[Deadpool]] because they believed him to be responsible for an explosion which killed several innocent people. Russo also helped the Punisher and [[Anti-Venom]] take down an organised crime gang.
+
+When the Punisher learns that Russo is Jigsaw's son, he abandons him and ends their partnership, despite Russo's hatred for his father.
+
+After the Punisher's death at the hands of [[Daken]] and his subsequent resurrection, the pair were reconciled. Russo then helped him track down villain Robert Hellsgard.<ref>{{cite web|url=http://www.comicbookresources.com/?page=preview&id=4445&disp=table|title=Punisher #14 (CBR Preview)|publisher=ComicBookResources.com}}</ref>
+
+==Powers and abilities==
+Russo possesses no superhuman powers or abilities, although he is extremely skilled at using and hacking computers.
+
+==Publication history==
+Russo first appeared in ''The Punisher'', Issue 1, in March 2009, and has gone on to become a recurring character in that series, as well as appearing alongside the Punisher in other series, such as ''Anti-Venom'' and ''Deadpool: Suicide Kings''.
+
+==References==
+<references/>
+{{Punisher}}
+
+{{DEFAULTSORT:Russo, Henry}}
+[[Category:Fictional hackers]]
+[[Category:Comics characters introduced in 2009]]
+[[Category:Punisher]]
+[[Category:Fictional American people of Italian descent]]
+[[Category:Marvel Comics characters]]
+
+
+{{Marvel-char-stub}}

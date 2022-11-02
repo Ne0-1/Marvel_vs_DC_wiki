@@ -1,0 +1,52 @@
+{{Superherobox|
+image=[[Image:Mariahill.PNG]]
+|caption=Maria Hill as portrayed by [[Mike Deodato]] in [[New Avengers]]
+|comic_color=background:#ff8080
+|character_name=Maria Hill
+|real_name=Maria Hill
+|publisher=[[Marvel Comics]]
+|debut=''New Avengers'' #4 (March [[2005]])
+|creators=[[Brian Michael Bendis]]<br>[[David Finch]]
+|alliance_color=background:#cccccc
+|alliances=[[S.H.I.E.L.D]]<br>[[Civil War (comics)|Those who support the Super Hero Registration Act]]
+|powers=
+|}}
+
+'''Maria Hill''' is a [[fictional character]] of the [[Marvel Universe]]. Her current role in that context is that of executive director of the planetary defense/intelligence service [[S.H.I.E.L.D.]]. 
+
+== Biography ==
+
+Beyond the fact of her birth in [[Chicago]] (per ''[[Secret War (comics)|Secret War]]'' #5), little is known of Maria Hill prior to her appointment to her current posting within S.H.I.E.L.D., save for a brief stint in [[Madripoor]] that apparently got her noticed by various heads of state and government around the world.
+
+After the scandalous affair of the [[Secret War (comics)| Secret War]] and the disastrous fallout that struck [[New York City]], former S.H.I.E.L.D. director [[Nick Fury]] fled and went into hiding. Maria Hill, viewed by the leaders of several nations as being both an efficient agent and, more importantly in their eyes, not directly loyal to Fury or any of his personal cadre, was appointed interim Executive Director. Hill's new role as the current executive director has apparently not been announced to the public as yet; a [[Life Model Decoy]] of Fury is regularly used in public to maintain an illusion of normalcy within the Directorate's ranks. Hill was also chosen because she was expected to be loyal to United States interests before those of the [[United Nations]], which S.H.I.E.L.D. is supposed to serve before any country.
+
+Hill quickly established new policies on super-powered heroes, as requested by the [[President of the United States]] and his peers in other national governments: to end S.H.I.E.L.D. support for such heroes or curtail it to the maximum extent possible. Such policies were in full effect when she tried to prevent the [[Avengers (comics)|Avengers]] from reforming. In the wake of events in the [[Savage Land]] that led to their reorganization, the Avengers suspect her of being complicit in various crimes but have no definite evidence. For her part, Hill has suspected the latest incarnation of the Avengers of having a possibly illicit agenda of their own in connection with, among other things, the [[House of M]] affair.
+
+While her tough attitude has not made her very popular among the superhero community, she earned [[Iron Man]]'s respect when she ignored the [[President of the United States|president]]'s orders to nuke an island the Avengers were on.
+=== Civil War ===
+[[Image:CW01 11.jpg|Art from ''Civil War'' #1 by Steve McNiven.|left|thumb]]
+Maria Hill is directly responsible for [[Captain America]] going underground to lead the opposition against the Superhuman Registration Act. Weeks before the Superhuman Registration Bill became law, Hill summoned Captain America to gain insight into the developments inside the superhero community.  When the Captain informed her and other high ranking agents of S.H.I.E.L.D that the registration issue was dividing heroes and setting them against each other, Hill attempted to force him into leading the Avengers in a pre-emptive measure to capture and detain heroes who would not consent to having their identities revealed. Since the bill had not yet become law at this point, the Captain dismisses her command as politically skewed, saying that heroes need to "stay above" such affairs.
+
+When Captain America refused to take part in the affair, Hill summons a battalion of soldiers armed with tranquilizers. Believing himself left with no other choice, Captain America fights his way out of the [[Helicarrier]], becoming a fugitive as soon as the Superhuman Registration Bill became law. As S.H.I.E.L.D. Director, Hill is one of the leading enforcers of the Superhuman Registration Act, a task she carries out with absolute ruthlessness. One of such acts involved the blackmailing of [[Wonder Man]] into actively supporting S.H.I.E.L.D.'s crusade to hunt down the superheroes opposed to the Superhuman Registration Act. Hill also sent Kree supersoldier [[Noh-Varr]], already brainwashed, to capture the [[Runaways (comics)|Runaways]], and the [[Thunderbolts (comics)|Thunderbolts]] to capture Spider-Man after he goes rogue. 
+
+After foiling an attack on Stark Tower and seeing the film [[A Few Good Men]], Maria Hill admits privately to Tony Stark that she doesn't want her job as director of S.H.I.E.L.D., and for that matter she thinks she shouldn't have been given it in the first place. She suggests that the only other person besides Nick Fury who should is Stark himself, feeling he would make the best candidate. And which would also, in her own words, "piss all the right people off".
+
+==Quotes==
+*[[Joe Quesada]]: "[Hill] is such a strong personality, she's like a force of nature and quite frankly, while perhaps not immediately loved by all involved, she's certainly as strong and imposing a figure as Nick Fury. Right now I feel that people view her as the outsider but [while] I  don't think she’s any harsher than Fury has ever been, what's different is that we aren’t quite clear about her motives".<ref> [http://www.newsarama.com/NewJoeFridays/NewJoeFridays12.html ''Newsarama'' (no date): "Joe Fridays" (column), by Joe Quesada]</ref>
+
+==See also==
+*[[List of S.H.I.E.L.D. members]]
+
+==Footnotes==
+<div class="references-small">
+<references/>
+</div>
+
+{{start box}}
+{{succession box | before = [[Nick Fury]]| title = Director of [[S.H.I.E.L.D.]]| years = ''Secret War''  #5 - Present | after = ''incumbent''}}
+
+[[Category:Fictional Chicagoans|Hill, Maria]]
+[[Category:Fictional secret agents and spies|Hill, Maria]]
+[[Category:Fictional soldiers|Hill, Maria]]
+[[Category:Marvel Comics supporting characters|Hill, Maria]]
+[[Category:S.H.I.E.L.D.|Hill, Maria]]

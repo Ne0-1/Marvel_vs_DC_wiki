@@ -1,0 +1,60 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image =[[Image:Ultraadcu0.jpg|225px]]
+|caption =Ultraa, artist [[Chuck Wojkiewicz]]
+|character_name = Ultraa
+|publisher =[[DC Comics]]
+|debut =''[[Justice League of America]]'' #153, (April 1978)<br>''[[Justice League Quarterly]]'' #13 (Winter 1993)
+|creators =[[Gerry Conway]] (writer)<br>[[George Tuska]] (artist)
+|real_name = Ultraa
+|species = <!-- optional -->
+|homeworld = Almerac, Earth-Prime, Earth-33
+|alliances = League Busters
+|aliases =Jack Grey, The Ultimate Warrior
+|supports =<!--optional-->
+|powers = Super-Strength, Superspeed, Flight, Telekinesis, Telepathy.
+}}
+
+'''Ultraa''' is a [[DC Comics]] character, originally the first superhuman on [[Earth Prime]]. The original first appeared in ''[[Justice League of America]]'' #153 (April 1978), he was created by [[Gerry Conway]] and [[George Tuska]]. The current Ultraa first appeared in ''[[Justice League Quarterly]]'' #13 (Winter 1993), written by [[Kevin Dooley]] and drawn by [[Greg LaRocque]].  A version of Ultraa will appear in [[Grant Morrison]]'s [[The Multiversity]] project.<ref name= "morrison">{{cite news |last=Rogers |first=Vaneta |url= http://www.newsarama.com/21741-grant-morrison-on-multiversity-it-s-going-to-f-people-up.html |title=Grant Morrison on Multiversity: It's Going to 'F' People Up |work=[[Newsarama]] |date=2014-07-28 |accessdate=}}</ref>
+
+==Fictional character biography==
+
+===Ultraa (Pre-Crisis)===
+Ultraa's origin was very similar to [[Superman]]'s, in that he was born on an alien world, and sent to Earth to escape its destruction. He landed in the [[Australian Outback]] and was raised by [[Indigenous Australians]]. In his first appearance, Ultraa plans to go to the [[United States|United States of America]] and become a superhero. As he runs across the ocean, he is detected by the US Air Force, which sends a plane after him. Ultraa retaliates to this attack, and is mistaken for a villain by the Justice League, who are visiting from Earth One. Ultraa eventually decides Earth Prime was not ready for superheroes and accompanies the League back to their world.<ref name="JLA153">Justice League of America (vol. 1) #153</ref>
+
+Ultraa next appeared following a battle between the League and the [[Injustice Gang]] which threatened civilians, he decides Earth One was also endangered by the presence of superhumans. He uses a ray gun to create a feeling of apathy in both the League and the Injustice Gang. Unfortunately, it works on the heroes but has the opposite effect on the villains. Ultraa attempts to fight the Injustice Gang single handedly but fails. After the JLA overcome the ray's effects to defeat the Gang, they question whether they can trust Ultraa any longer.<ref>Justice League of America (vol. 1) #158</ref>
+
+As a result of their second encounter with Ultraa, the League imprisons him in a "stasis cube" prison of Superman's design. He is later released by an alien hive mind entity disguised as a human attorney. The alien entity helps Ultraa take the Justice League members who imprisoned him to court for wrongful imprisonment, but it is later learned that the trial is meant as a distraction to keep the JLA from noticing that the bulk of the hive mind entity, known as the Over-Complex, was stealing the hydrogen atoms from the world's oceans.<ref>Justice League of America (vol. 1) #169–170</ref>
+
+After this, a dispirited Ultraa adopts the civilian guise of Jack Grey and lives a simple life as a busboy in Atlantic City where he is manipulated by a down and out former opponent of the Justice League, but a heart to heart talk with Hawkman convinces him to break off the attack and Ultraa subsequently decides to live out his life among Earth-1's Australian aborigines.<ref>Justice League of America (vol. 1) #201</ref> This is his last pre-''Crisis'' appearance.
+
+===Ultraa (Post-Crisis)===
+Following the [[Crisis on Infinite Earths]], the original Ultraa was [[retcon]]ned out of history, along with Earth-Prime. In ''Justice League Quarterly'' #13 (Winter 1993), Ultraa is reintroduced as a native of Almerac and the betrothed of [[Maxima (comics)|Queen Maxima]]. He arrives on Earth to look for her, and gets into a long and brutal fight with [[Captain Atom]]. Captain Atom briefly gains the upper hand and nearly kills Ultraa, however he realizes that he himself is behaving as brutally as Ultraa and decides to throw the fight in order not to set a poor example (that [[Might makes right|might is right]]) for an onlooking boy. Ultraa in turn starts beating up Captain Atom, but Maxima intervenes and tells him to leave.  Maxima then tells Captain Atom he can stop pretending he is unconscious and the two walk off together.  
+Ultraa later appears as a member of the [[United Nations]] funded League Busters in ''Justice League International'' v2, #65 (Jun 1994).
+
+===Ultraa (Multiversity)===
+In [[Grant Morrison]]'s [[Multiversity]] series, Ultraa features in its eighth and final installment, within a "haunted comic". He is an inhabitant of Earth-33, although how much this world resembles the pre-Crisis [[Earth-Prime]] is uncertain. Within some other installments of the same series, individual frames suggest that the comic could be a homage to the [[H.P. Lovecraft]] [[Chthulhu]] mythos.
+
+==Powers and abilities==
+*The original Ultraa could not fly but had super speed, supersenses, and super strength. He could run fast enough to pass over large bodies of water. This Ultraa's only weakness was targeted [[ultrasonics]].<ref name="JLA153" />
+*As a scion of the Blood Royale of Almerac the modern Ultraa commands a vast array of powers that come from years of selective breeding and gene therapy. Like Maxima the current Ultraa has incredible strength, telepathy, telekinesis and flight.
+
+==Notes==
+*The Pre-''Crisis'' version of Ultraa was the first superhero to appear on his particular parallel Earth. The second was [[Superman Prime|Superboy Prime]].
+*An alternate version of Ultraa from one of the Earths in the post-[[Infinite Crisis]] universe was killed in ''[[Countdown: Arena]]'' #1.
+*In the forthcoming ''Multiversity: Ultraa Comics'' episode, it is uncertain whether this iteration of Ultraa has had any direct contact with other metahumans from other than his alternate Earth, unlike the pre-Crisis version who exiled himself  to Earth-One to avoid causing catastrophic damage to Earth-Prime. 
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.dcuguide.com/who.php?name=ultraa DCU Guide: Ultraa]
+
+{{-}}
+
+[[Category:DC Comics superheroes]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics aliens]]
+[[Category:Comics characters introduced in 1978]]
+[[Category:Comics characters introduced in 1993]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:Characters created by Gerry Conway]]

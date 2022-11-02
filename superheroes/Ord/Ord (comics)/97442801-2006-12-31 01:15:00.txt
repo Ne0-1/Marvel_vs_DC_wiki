@@ -1,0 +1,33 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Ast004a.jpg|225px]]
+|caption=Ord. Art by John Cassaday.
+|comic_color=background:#ff8080
+|character_name=Ord of the Breakworld
+|real_name=
+|publisher=[[Marvel Comics]]
+|debut=''[[Astonishing X-Men]]'' #1 (2004) 
+|creators=[[Joss Whedon]]<br>[[John Cassaday]] 
+|alliance_color=background:#c0c0ff
+|alliances=The Breakworld Kavita Rao<br>[[Abigail Brand]]
+|aliases=
+|powers=Superhuman strength speed and endurance<br> Enhanced durability<br> Flight<br> Master martial artist<br> Highly skilled in use of bladed weapons
+|}}
+
+'''Ord''' is a [[fictional character]], a [[comic book]] [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]]. Ord is an enemy of the [[X-Men]]. He first appeared in ''[[Astonishing X-Men]]'' #1 in May 2004. He was created by [[Joss Whedon]] and [[John Cassaday]].
+
+== Character biography ==
+=== Ord's mission ===
+Ord is a member of an alien race from a planet called the Breakworld. He was sent to Earth on a mission to stop a mutant from destroying the Breakworld (an event predicted using his race's advanced technology). To this end Ord obtained the body of the [[X-Men|X-Man]] [[Colossus (comics)|Colossus]] and resurrected him using superior Breakworld technology. Ord proceeded to experiment on Colossus and with the assistance of the human scientist [[Kavita Rao|Dr. Kavita Rao]] using his [[DNA]] to develop a cure for the mutant condition in the hope that this would prevent the destruction of his planet. In doing all this Ord was acting with the tacit consent of [[Abigail Brand|Special Agent Abigail Brand]], the head of [[S.W.O.R.D. (comics)|S.W.O.R.D.]] who was attempting to avert a potential war between Earth and the Breakworld. It was later revealed that Colossus is the one destined to destroy the Breakworld.
+
+=== Encounters with the X-Men ===
+During their first encounter Ord nearly defeated the [[X-Men]] but was caught off guard by [[Lockheed (comics)|Lockheed]]. Later, Ord was nearly killed by an enraged Colossus after he had been released by his X-Men comrades, but was prevented from doing so by Special Agent Brand and [[Nick Fury]] accompanied by [[S.H.I.E.L.D.]] agents. After one last attempt to escape aboard a spaceship was thwarted by [[Wolverine (comics)|Wolverine]], Ord was delivered into the custody of S.W.O.R.D. Later Ord escaped from the Peak, a [[space station]] in orbit around the Earth, with the assistance of [[Danger Room|Danger]] and attacked the X-men while they were under attack by [[Cassandra Nova]]. At the end of that story arc, he and Danger were re-captured along with the X-men, and teleported aboard a S.W.O.R.D. vessel headed for Breakworld.  Ord is able to contact his homeworld to alert them that Colussus is on board the ship, an event deliberately engineered by Agent Brand to draw Breakworld's forces away from the Earth.
+
+==Powers and abilities==
+Ord possesses strength much greater than that of a human and is also capable of flight. It is unclear whether these attributes are shared by all members of his race, or if they are the product of alien technology.
+
+[[Category:Marvel Comics aliens]]
+[[Category:X-Men villains]]
+[[Category:Extraterrestrial supervillains]]
+[[Category:Fictional extraterrestrials]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics characters who can fly]]

@@ -1,0 +1,39 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = [[Image:Khonshu.png]]
+| caption = Panel from [[Moon Knight]] (Vol.1) #21<br>Illustrated by [[Greg LaRoque]] and [[Dave Simons]]
+| character_name = Khonshu
+| publisher = [[Marvel Comics]]
+| debut = ''Moon Knight''  #1 (November 1980)
+| creators = 
+| alter_ego = 
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = [[Heliopolitans (comics)|Heliopolitan Gods]]
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = 
+}}
+'''Khonshu''' is a [[fictional character]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]], based loosely on the [[Chons|Khonshu]] of [[Egyptian mythology]]. Khonshu first appeared in ''[[Moon Knight]]''  #1 (November 1980).
+
+He is the patron of the superhero Moon Knight. 
+
+==Fictional character biography==
+
+Moon Knight volume #4 initially treats Khonshu in a rather different way, portraying him as a harsh and unforgiving god of vengeance who is strengthened by the fear that his avatar inspires. Accordingly, he is quite prepared to manipulate Marc Spector's allies and enemies in order to revive Moon Knight's career, and is highly critical of Spector. As with many Moon Knight stories, the line between reality and hallucination is sometimes intentionally blurred, but aspects of the art and story do strongly suggest that Khonshu's actions are entirely real.
+
+In Volume #4, Khonshu appears as a statue, but primarily converses with Moon Knight in the mutilated form of the [[Bushman (comics)]], who was killed when Spector carved his face off.
+
+==In other media==
+Khonshu does not appear as an alternate costume for Moon Knight in the video game ''[[Marvel: Ultimate Alliance]]'', it is however the version of Moon Knight at the time Marc Spector's body was inhabited by Khonshu.
+
+==External links==
+*[http://www.marvunapp.com/Appendix/khonshum.htm Khonshu at marvunapp.com]
+
+==References==
+{{reflist}}
+
+
+{{Marvel-Comics-stub}}
+
+[[Category:Marvel Comics Heliopolitans]]

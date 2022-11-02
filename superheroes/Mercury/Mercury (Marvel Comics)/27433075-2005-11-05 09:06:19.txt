@@ -1,0 +1,31 @@
+{{Superherobox| <!--Part of Wikipedia:WikiProject Comics-->
+image=[[Image:NXMHellions3.jpg|250px]]
+|caption=Mercury, by [[Clayton Henry]]
+|comic_color=background:#ff8080
+|character_name=Mercury
+|real_name=Cessily Kincaid
+|publisher=[[Marvel Comics]]
+|debut=''[[New Mutants]]'' (volume 2) #2
+|creators=[[Nunzio DeFilippis]]<br>[[Christina Weir]]<br>[[Keron Grant]]
+|alliance_color=background:#ffc0c0
+|status=Active
+|alliances=[[Xavier Institute]], [[Hellions]] squad
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=Body is composed of non-toxic mercury, which she can reshape or solidify at will.
+|}}
+'''Mercury''' is a [[fictional character]], a [[mutant (fictional)|mutant]] in the [[Marvel Universe]], one of the student body in the [[X-Men|Xavier Institute]], and a member of the [[Hellions]] squad therein. Her real name is Cessily Kincaid, and she first appeared in ''New Mutants'' (volume 2) #2. She has a crush on her teammate Wither.
+
+==Powers==
+
+Mercury's body is composed of non-toxic mercury, which she can reshape or solidify at will, although she is still inexperienced in shape-shifting.
+
+She is one of the few people who can touch [[Wither(comics)|Wither]] without decaying, since her body isn't organic.
+
+{{Marvel-Comics-stub}}
+[[Category:Hellions members]]
+[[Category:Marvel Comics mutants]]
+[[Category:X-Men members]]
+[[Category:Fictional elementals]]
+[[Category:Xavier Institute Student Body]]

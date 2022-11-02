@@ -1,0 +1,62 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:A-45.jpg|250px|''Avengers'' #45 (Oct. 1968). Art by [[Don Heck]].]]
+|caption=The '''Super-Adaptoid''' battles the [[Avengers (comics)|Avengers]] on the cover of Avengers #45 (Oct. 1967)
+|comic_color=background:#ff8080
+|character_name=Super-Adaptoid
+|real_name=None
+|publisher=[[Marvel Comics]]
+|debut=As the '''Adaptoid:'''<br>''[[Tales of Suspense]]'' #82 (Oct 1966)<br>As the '''Super-Adaptoid:'''<br>''Tales of Suspense'' #84 (Dec. 1966)
+|creators=[[Stan Lee]]<br>[[Gene Colan]]<br>[[Jack Kirby]]
+|alliance_color=background:#c0c0ff
+|alliances=[[Advanced Idea Mechanics|A.I.M.]]<br/>[[Heavy Metal (Marvel Comics)|Heavy Metal]]<br/>[[Phalanx (comics)|Phalanx]] 
+|aliases=Adaptoid, Alessandro Brannex
+|powers= power mimicry
+|}}
+
+The '''Super-Adaptoid''' is a [[fictional character]] that appears in [[comic books]] published by [[Marvel Comics]]. The character first appeared in ''[[Tales of Suspense]]'' #82 (Oct 1966) and was created by [[Stan Lee]], [[Jack Kirby]] and [[Gene Colan]].
+
+==Fictional character biography==
+===Super-Adaptoid===
+The organization known as [[Advanced Idea Mechanics|A.I.M.]] creates the Adaptoid - an [[android]] - by inserting a piece of the artifact known as the [[Cosmic Cube]] into an artificial body. A.I.M. then programs the Adaptoid with a directive to find and defeat the hero [[Captain America]]. The Adaptoid, while unsuccessful, comes into close proximity to the superhero team the [[Avengers (comics)|Avengers]], and is able to copy the powers of all present. After a brief battle the Adaptoid escapes, believing - incorrectly - that Captain America has been killed. <ref>''Tales of Suspense'' #82 - 84 (Oct. - Dec. 1966) + ''Avengers'' #45 (Oct. 1967)</ref>
+
+After an encounter with the mutant [[X-Men]], <ref>''Uncanny X-Men'' #29 (Feb. 1967)</ref> the Adaptoid goes on to battle the Avenger [[Iron Man]] and is reduced to melted slag. <ref>''Iron Man'' #49 -51</ref> Some time later the Adaptoid is reformed, and after a brief battle with Iron Man, follows him to Avengers Mansion. The Adaptoid fights several Avengers and the [[Kree]] warrior [[Mar-Vell|Captain Marvel]], who tricks the Adaptoid into copying his nega-bands, which act as a portal to the alternate dimension the [[Negative Zone]]. By striking the Adaptoid's nega-bands together, Mar-Vell banishes it to the Negative Zone indefinitely. <ref>''Captain Marvel'' #50 (Jun. 1977)</ref>
+
+Several years later the Adaptoid is used by the villains [[Annihilus]] and [[Blastaar]] against the hero the [[Thing (comics)|Thing]] and the Avengers in the Negative Zone, but is defeated by the Thing. <ref>''Marvel Two-In-One'' #75 (May 1981)</ref> The Adaptoid is stored at Avengers Mansion, and is found by the villain the [[Fixer (comics)#Fixer/Techno|Fixer]] when the supervillains the [[Masters of Evil]] storm the Mansion. The Adaptoid escapes, and after copying the powers of the villain [[Mentallo]] creates a team of artificial beings called Heavy Metal, consisting of the [[Awesome Android]], [[Machine Man]], [[Sentry (Kree)|Sentry 459]], and [[TESS-One]]. Together they attack the Avengers, who defeat most of Heavy Metal. The attack, however, is a ruse designed to draw the being [[Kubik]] - a sentient Cosmic Cube - to Earth, so that the Adaptoid can copy Kubik's powers and become all-powerful. Although successful in this regard, the Adaptoid is then beaten by Captain America, who tricks it into shutting down. <ref>''Avengers'' #286 - 290 (Dec. 1987 - Apr. 1988)</ref>
+
+The Adaptoid eventually returns, and goes on to battle many of the heroes in the Marvel Universe, including the [[Fantastic Four]], <ref>''Fantastic Four'' #336 (Jan. 1990)</ref> [[Heroes for Hire]], <ref>''Heroes for Hire'' #7, 10 (Jan. + Apr. 1998)</ref> and the [[Hulk (comics)|Hulk]]. <ref>''Hulk'' #469 (Oct. 1998)</ref>
+
+===Yelena Belova===
+A new Adaptoid is commissioned from [[Advanced Idea Mechanics]] and deployed by the terrorist organization [[HYDRA]] to battle the [[New Avengers (comics)|New Avengers]]. A fusion of human (Yelena Belova) and machine, the Adaptoid is eventually defeated when the powers she copied from the Sentry cause her the same psychological problems he experiences. HYDRA then kills the Adaptoid via a remote-controlled self destruct device to prevent the Avengers from studying it. <ref>''New Avengers'' Annual #1 (2006)</ref>
+
+===Ultra-Adaptoid===
+The Ultra-Adaptoid is created by [[Advanced Idea Mechanics|A.I.M.]] to infiltrate a group of super-villains formed by [[MODOK]], a past A.I.M. creation himself. A.I.M. agent [[Monica Rappaccini]] states the goal is to stop creating "A.I.M. inventions that turn around and try to destroy us", and as such the new Adaptoid has no independent will and is directly controlled by Rappaccini. It had many more superpowers at its disposal than any of its predecessors, since a special satellite sent it any powerset it desired from a vast database harvested from heroes and villains alike. <ref>''Super-Villain Team-Up: Modok's 11'' #3 (Nov. 2007)</ref> It was later destroyed when released from A.I.M control. <ref>''Super-Villain Team-Up: Modok's 11'' #5 (Jan. 2008)</ref>
+
+===Phalanx-Select===
+The Super-Adaptoid is revealed to be a warrior in the [[Phalanx (comics)|Phalanx]], claiming it left Earth after it became disgusted with humanity's chaotic nature, and attempts to destroy the new [[Phyla-Vell|Quasar]], her companion [[Moondragon]] and a reborn [[Adam Warlock]]. This version of the Super-Adaptoid is capable of copying Quasar's quantum bands. <ref>''Annihilation Conquest: Quasar'' #1 - #4 (Jul. - Oct. 2007)</ref>
+
+==Powers and abilities==
+The Super-Adaptoid is an artificial construct capable of mimicking the powers and skills of super beings, including specific equipment and clothing, which can be generated from its own mass. It can mimic the physical appearance of an individual, and if using the abilities of two or more individuals simultaneously will morph into a strange fusion of the super beings being mimicked (inexplicably turning green in the process). This ability to adapt was originally courtesy of a shard of a [[Cosmic Cube]] inserted by A.I.M, although the shard was eventually removed. <ref>''Avengers'' #286 - 290 (Dec. 1987 - Apr. 1988)</ref> It is unknown if Adaptoid can continue to perform imitations without the shard. The Adaptoid possesses exceptional artificial intelligence, but limited imagination and an inability to understand the human condition, which has led to defeat in the past.
+
+The Ultra-Adaptoid can access the powers of any being the Super Adaptoid encountered, but the number of abilities is controlled by A.I.M. When using its abilities, the Ultra version retains its true appearance, as opposed to morphing into a fusion of several beings. 
+
+==Other media==
+===Television===
+* Super-Adaptoid appears in the Captain America/Avengers segment of ''[[The Marvel Superheroes]]''.{{Fact|date=November 2008}}
+* Super-Adaptoid has two cameo appearances in the [[X-Men (TV series)|''X-Men'']] TV series.{{Fact|date=November 2008}}
+
+== References ==
+{{reflist}}
+
+==External links==
+* [http://www.marvel.com/universe/Super-Adaptoid Super-Adaptoid] at Marvel.com
+* [http://www.comics-db.com/comic-book/1040205-Tales_Of_Suspense.html Tales of Suspense #82 at The Big Comic Database]
+* [http://www.marvunapp.com/Appendix4/superadaptoid.htm Super-Adaptoid at marvunapp.com]
+
+{{Avengers}}
+
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics supervillains]]
+
+[[fr:Super-adaptoïde]]
+[[it:Super-Adattoide]]
+[[pt:Super-Adaptóide]]

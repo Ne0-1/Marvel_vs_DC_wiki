@@ -1,0 +1,40 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Plantman.jpg|175px]]
+|caption='''Plantman'''<br> Stan Woch, Art
+|comic_color=background:#ff8080
+|character_name=Plantman
+|real_name=Samuel Smithers
+|publisher=[[Marvel Comics]]
+|debut=''Strange Tales'' #113 (October, [[1963]])
+|creators= [[Joe Carter]], [[Stan Lee]] (co-writers), [[Dick Ayers]] (artist)
+|alliance_color=background:#cccccc
+|status=incarcerated (of his own free-will, he is attempting to reform)
+|alliances=Thunderbolts
+|previous_alliances=
+|aliases= 
+|relatives=unrevealed
+|powers=ability to manipulate plant life
+|}}
+
+'''Plantman''' is a [[fictional character]], a [[supervillain]] in the [[Marvel Universe|Marvel Comics universe]]. The character first appeared in ''Strange Tales'' #113.
+
+==History==
+Samuel Smithers, an Englishman, studied botany as an aide to a brilliant scientist for ten years before emigrating to the States and being naturalized.  While gifted in both [[technology]] and [[botany]], Smithers, raised in orphanages, lacked formal education and his insistence on creating ways to enhance the intelligence of [[plant]] life in order to communicate with it was ridiculed.  In fact, nothing he did to fulfill that dream ever worked (except in making him unemployed for allowing too much time to his pet project), until his experimental technology was struck by a supercharging lightning bolt.
+
+Smithers donned a costume, dubbed himself ''the Plantman'', and started avenging himself on his former employer and society as a whole.  While a very minor villain at first, the Plantman grew steadily more resourceful with each appearance, stealing a submarine from an early employer, then some [[Maggia]] technology to build better plant enhancers, then learning to construct stimuloids and sending them on mercenary errands in order to gather more resources.
+
+The Plantman or his stimuloids fought a large variety of heroes, from the [[Human Torch]] to [[Namor]], and even the Defenders and [[Captain America]].  One of the ''stimuloids'' ended up in the group called the Force of Nature under the name Terraformer - but he can probably be considered a character in his own right.
+
+Later, Smithers somehow internalized his plant-control powers, and became a plant-human hybrid, akin to [[DC Comics|DC's]] [[Swamp Thing]].  At this point, he took the name '''Blackheath''' and became a member of the [[Thunderbolts (comics)|Thunderbolts]]. However, when a battle involving the [[Avengers (comics)|Avengers]] and the Thunderbolts against [[Moonstone (comics)|Moonstone]] almost tore the planet apart, "the Green" abandoned him, and, human once more, he returned to prison to "learn how to put the man back into the Plantman."
+
+==Powers & Abilities==
+Control over plants.  Creation of ''Stimuloids'' - humanoid plant constructs made of wood and capable of movement, speech and can be programmed as extensively as any hi-tech robot. There are two basic kinds of Stimuloids: "Heavies" and "Replicas". Thus, you can never know whether you are up against the actual Plantman or some overgrown brush that thinks and acts like it is the Plantman.
+
+[[Category:Marvel Comics Thunderbolts members]]
+[[Category:Defenders members]]
+[[Category:Avengers villains]]
+[[Category:Captain America villains]]
+[[Category:Namor villains]]
+[[Category:Spider-Man villains]]
+[[Category:Fictional elementals]]
+[[fr:Homme-plante]]

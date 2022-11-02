@@ -1,0 +1,69 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name = Dr. Mendel Stromm
+| publisher = [[Marvel Comics]]
+| debut = ''Amazing Spider-Man'' vol.1, #37 (June 1966)
+| creators = [[Stan Lee]] (script)<br>[[Steve Ditko]] (art)
+| alter_ego = 
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = 
+| aliases = Robot-Master, Gaunt
+| supports=<!--optional-->
+| powers = Cybernetic implants that provide superhuman strength and regenerative powers.
+}}
+
+'''Dr. Mendel Stromm''' is a fictional character in the [[Marvel Comics|Marvel]] [[Marvel universe|universe]]. He first appeared in ''[[The Amazing Spider-Man (comic book)|The Amazing Spider-Man]]'' #37 (June 1966).
+
+==Fictional character biography==
+Stromm was [[Green Goblin|Norman Osborn]]'s college professor, and became his partner in OsCorp Industries. His early research was on a chemical that would provide enhanced strength in its test subjects (and would eventually turn Osborn into the [[Green Goblin]]).  Osborn, wanting the formula for himself, discovered that Stromm had been embezzling funds from OsCorp. Stromm explained that he was merely borrowing but Osborn still turned him over to the police. After several years in prison, Stromm was released and tried to kill Norman Osborn for revenge using evil robots.  He was stopped by [[Spider-Man]] and seemingly died of a heart attack. 
+
+Stromm had made plans for his death, however, by arranging to have his brain waves transferred to a robot double.  Now calling himself '''Robot Master''', Stromm returned in ''Spectacular Spider-Man'' vol. 1, #68 (July 1982).  Spider-Man defeated and destroyed the robot double.
+
+In ''Spectacular Spider-Man'' vol. 1, #233 (April 1996), Stromm returned again, this time as a cyborg called '''Gaunt.'''  It was revealed that he survived through a cybernetic suit fused to his body - attached by none other than Osborn.  Osborn had discovered that Stromm had survived his heart attack thanks to the Goblin Serum, but on a level of consciousness supported only by his suit. Eventually, via [[Seward Trainer]], he was cured of his need for the suit and came back in a large suit of robotic armor, only for it to be destroyed by [[Ben Reilly]]. Shortly afterward, Norman Osborn knocked him out with a laser blast and left him for dead, though he survived and only had amnesia. He came back in yet another robot suit, only to be stopped by Spider-Man once again. 
+
+In ''Peter Parker: Spider-Man'' vol. 2, #27 (March 2001), Stromm tried to create a [[artificial intelligence|sentient robot]] to kill Osborn, but it turned on him and destroyed his body, keeping his severed head alive. This artificial intelligence then attempted to take over [[New York City]]'s electrical grid, but was stopped when Spider-Man fought his way into its [[central processing unit|core processor]] and uploaded a [[computer virus]] into it, putting both the A. I. and Mendel into a [[coma]]tose state (''Peter Parker: Spider-Man'' #28). 
+
+The artificial intelligence took over [[Electro (Marvel Comics)|Electro]]'s body and tried to use his powers to create a horde of self spawning robots,but after the interference of Spider-Man the AI altered Spidey's spider sense, after which Spider-Man defeated the AI.
+
+In [[Robbie Baldwin|Penance: Relentless]], it is revealed that Spider-Man tipped [[S.H.I.E.L.D.]] off to Stromm's whereabouts and that they were able to rescue him from the suspended loop he was stuck in. He eagerly registered as part of the Initiative.  
+
+Later, Penance goes [[AWOL]] on the [[Thunderbolts (comics)|Thunderbolts]] and stages an assault on Stromm's home, threatening to kill him unless Stromm tells him how to activate nuclear launch codes Penance has stolen in a bid to get [[Nitro (comics)|Nitro]] deported from [[Latveria]].<ref>Penance: Relentless #2</ref>
+
+==In other media==
+===Television===
+* Stromm (under the name of '''Wardell Stromm''') appeared in the ''[[Spider-Man (1994 TV series)|Spider-Man]]'' episode "[[Enter the Green Goblin]]" voiced by [[Philip Abbott]]. He is one of the scientists working for Oscorp on the experiment that caused Norman Osborn to become the Green Goblin. Stromm is also aware of Osborn's connections to Wilson Fisk, the [[Kingpin (comics)|Kingpin]].
+
+===Film===
+* A different version of Mendel Stromm appears in the 2002 ''[[Spider-Man (film)|Spider-Man]]'' film played by [[Ron Perkins]]. This version is a scientist employed by Oscorp to develop [[Doping (sport)|Human Performance Enhancers]]. He also assists Norman Osborn ([[Willem Dafoe]]) in his attempt to use the still-unstable serum on himself; but after acquiring his powers, Osborn's resulting 'Goblin' personality kills Stromm in an uncontrollable rage.
+
+===Video games===
+* Mendel Stromm appears in the [[Spider-Man (2002 video game)|Spider-Man]] video game voiced by [[Peter Lurie]].
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.marvel.com/universe/Stromm,_Mendel Mendel Stromm] at Marvel.com
+* [http://www.spiderfan.org/characters/professor_stromm.html Dr. Mendel Stromm at Spiderfan.org]
+*{{Marvunapp|http://www.marvunapp.com/Appendix5/strommmendel.htm|Mendel Stromm}}
+
+{{Spider-Man}}
+
+{{DEFAULTSORT:Stromm, Mendell}}
+[[Category:Comics characters introduced in 1966]]
+[[Category:Fictional cyborgs]]
+[[Category:Fictional doctors]]
+[[Category:Film characters]]
+[[Category:Fictional engineers]]
+[[Category:Fictional robots]]
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics supervillains]]
+
+[[fr:Mendel Stromm]]
+[[fi:Mendel Stromm]]

@@ -1,0 +1,40 @@
+{{expand|date=February 2007}}
+{{orphan|date=February 2007}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Grindhouse
+|real_name=unknown
+|publisher=[[Marvel Comics]]
+|debut=''Heroes for Hire'' vol. 2 #1
+|creators=
+|alliance_color=background:#cccccc
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}}
+
+'''Grindhouse''' is a fictional character in the [[Marvel Comics Universe]] whose first appearance was in ''[[Heroes for Hire]]'' vol. 2 #1.
+
+==Fictional character biography==
+Little is known of '''Grindhouse''''s activities before she was first seen <ref>''Heroes for Hire'' vol. 2 #1</ref>, however upon her first appearance she was tricked into a sting operation to seek a new identity from [[Vienna (comics)|Vienna]] and to escape the prosecution from the [[Superhero Registration Act]].  Because of this set-up she was captured by the [[Heroes for Hire]].
+
+==Bibliography==
+*''Heroes for Hire'' vol. 2 #1
+
+==Footnotes==
+{{reflist}}
+
+==External links==
+*http://www.marvunapp.com/Appendix4/grindhousehfh.htm
+
+
+{{Marvel-Comics-stub}}
+
+
+[[Category:American comics characters]]
+[[Category:Marvel Comics superheroes]]

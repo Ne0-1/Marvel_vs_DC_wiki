@@ -1,0 +1,330 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Bright luthor.png|225px]]
+|caption=Lex Luthor, from ''Superman Birthright #5''.<br />Art by [[Leinil Francis Yu]].
+|comic_color=background:#8080ff
+|character_name=Lex Luthor
+|real_name=Alexander Joseph "Lex" Luthor
+|publisher=[[DC Comics]]
+|debut='''Historical''':<br />''[[Action Comics]]'' #23 (May, 1940)<br />'''Modern''':<br />''[[The Man of Steel (comic book)|The Man of Steel]]'' #4 (1986)
+|creators=[[Jerry Siegel]]<br />[[Joe Shuster]]
+|alliance_color=background:#c0c0ff
+|alliances=[[LexCorp]]<br>[[Injustice Gang]]<br>[[Injustice League]]<br>[[Federal government of the United States|Executive branch of the United States government]]<br>[[Secret Six (comics)|Secret Six]] 
+|aliases=[[Mockingbird (DC Comics)|Mockingbird]]
+|powers=(None inherent)<br />[[Genius]] level intellect<br />Superb [[Machiavellian]],<br />Access to advanced technology,<br /> Vast wealth and resources,<br />Average hand-to-hand combatant
+|}}
+
+'''Lex Luthor''' is a [[fictional character|fictional]] [[DC Comics]] [[supervillain]]. Created by [[Jerry Siegel]] and [[Joe Shuster]] as a [[Superman]] villain, Luthor first appeared in ''[[Action Comics]]'' #23 (1940).
+
+Luthor has been Superman's main foe for most of the [[superhero]]'s existence, having been envisioned as his dual opposite, devoid of morals and relying on intellect and manipulation rather than strength and direct action - consistently seizing power for his own benefit, rather than harnessing his genius for good. Though he was originally portrayed as a [[mad scientist]], he was later [[retcon|rewritten]] as a [[Machiavellian]] industrialist and [[white-collar crime|white-collar criminal]] (even briefly serving as [[President of the United States]]). Later characterizations have shown elements of both interpretations of the character.
+
+Luthor is one of several Superman characters with the initials "LL" (others include [[Lois Lane]], [[Lana Lang]], and [[Lori Lemaris]]). Luthor is also notable for having appeared in several adaptations of Superman adventures for other media.
+
+==Character history==
+===Original Luthor===
+[[Image:lexluthor_292.jpg|thumb|left|The [[Bronze Age of Comic Books|Bronze Age]] Lex Luthor attacking Superman, from the cover of ''Superman'' (Vol. 1) #292, October 1975. Art by [[Curt Swan]].]]
+When Luthor first appeared, he was portrayed with a full head of red hair; however, in 1941 Luthor came to be portrayed as completely bald after an artist's mistake in the [[Superman (comic strip)|Superman comic strip]]. Shuster preferred drawing bald villains anyway, so the more striking appearance was adopted and became a Luthor trademark. The change may also have been an attempt to echo a previous villain, the [[Ultra-Humanite]], with whom Luthor shares many similarities. When the [[Multiverse (DC Comics)|DC multiverse]] began to take hold in the 1960s, the red-haired Luthor was said to be the bald Luthor's Earth-Two counterpart, Alexei Luthor.
+
+The original Luthor of the 1940s (who did not have a first name) was one of many [[Pulp magazine|pulps]]-inspired [[mad scientist]]s who plotted to take over the world, or destroy it, through the use of various diabolical schemes. He donned disguises a few times, but generally he preferred to make himself known to the world as his master plans came to fruition... until he was foiled, time and time again, by the Man of Steel. Over time he became Superman's greatest foe, the antithesis of everything Superman stood for; although his plans for world domination were repeatedly dashed, he always managed to get away (or escape from prison) to threaten the world time and again.
+
+Luthor's originally stated goals were to kill Superman and to take over Earth as a stepping stone to dominating the universe. Over the years, Luthor came up with every conceivable plan to destroy Superman: he has synthesized [[kryptonite]]; traveled back in time; summoned beings from the [[fourth dimension]]; created robots, clones, and genetic monstrosities; allied himself with the alien super-computer [[android]] [[Brainiac (comics)|Brainiac]]; animated kryptonite rocks; detonated [[atom bomb|H-bombs]]; and has masqueraded and taken on a number of aliases. Although none of his schemes worked permanently (though one classic non-canonical "imaginary story" from the 1960s called ''The Death of Superman'' has Luthor finally killing Superman with Kryptonite after lulling him by pretending to go straight), Luthor's persistence has made him Superman's most troublesome foe.
+
+In ''[[Adventure Comics]]'' #271 in 1960 (written by Jerry Siegel), the [[Silver Age of Comics|Silver Age]] origin of Luthor is first revealed, along with Luthor finally gaining a first name, "Lex."  It was revealed that when Luthor was a teenager, his family moved to [[Smallville]], with Lex becoming a large fan of [[Superboy]].  In gratitude and to encourage Lex's scientific pursuits, Superboy built for Lex a fully stocked laboratory.  There, Lex began an experiment in creating an artificial new form of life, along with a cure for kryptonite poisoning.  
+
+[[Image:Lexchild.PNG|300px|Part of the Silver Age Luthor's origin, from ''Adventure Comics'' #271. Art by [[Al Plastino]].|thumb]]
+However, when a fire caught in his lab, Superboy mistakenly used his super-breath to extinguish the flames. This rescue attempt spilled chemicals that caused Luthor to go prematurely bald and destroyed both his kryptonite cure and his artificial life form. Luthor attributed Superboy's actions to jealousy and vowed revenge. First, he tried to show Superboy up with grandiose technological projects to improve the life of Smallville's residents, which time and again went dangerously out of control and required Superboy's intervention. Unwilling to accept responsibility for these accidents, Lex rationalized that Superboy was out to humiliate him and vowed to spend the rest of his life proving to the world he was Superboy's (and later Superman's) superior by eliminating the hero.
+
+This origin first made Luthor's fight with Superman a personal one, giving him a dimension beyond his previous mad scientist archetype and suggesting that if events had unfolded differently, Luthor might have been a more noble person; these elements were played up in various stories in the 1970s and 1980s, particularly in [[Elliot S. Maggin]]'s text novel ''[[Last Son of Krypton]]''.
+
+Though he was a noted villain and an evil mastermind on Earth, Luthor was revered as a hero on the alien world of Lexor, where he used his scientific genius to rediscover the planet's technology and rebuild society for the inhabitants. Luthor used the planet as a base for his operations to strike against Superman using equipment such as the distinctive and flight capable purple and green suit he took to wearing in stories starting in ''[[Superman]]'' #282 in 1974. In ''[[Action Comics]]'' #544 in 1983, Lex was given a makeover for Superman's 45th anniversary in comics, and was shown using long-lost (but highly advanced) Lexorian technology to build a much more powerful battlesuit, capable of facing Superman in individual combat.  It was during one such battle that an energy salvo from Lex's battlesuit accidentally overloaded a device called the "Neutrarod" Lex had earlier constructed as a means to counter Lexor's geological instability.  This led to the destruction of the planet, killing all inhabitants including Lex's local wife and son.  Superman initially assumed Lex had also been killed in the blast, but this was due to his unfamiliarity with the rugged design of Lex's new battlesuit.  Lex eventually returned to Earth, psychologically unable to accept his own role in Lexor's destruction and blaming Superman for it.
+
+The Silver/Bronze Age Luthor's final acts prior to his elimination from DC Comics canon due to the events of the landmark series ''[[Crisis on Infinite Earths]]'' were to ally with fellow Superman foe [[Brainiac]] during ''Crisis'' in order to recruit an army of supervillains from across the [[Multiverse (DC Comics)|DC Multiverse]], taking advantage of the confusion caused by the events of ''Crisis'' for their own benefit.  However, when it became clear that the lives of all beings in the Multiverse were at risk, Luthor and Brainiac reluctantly allied their faction with the Multiverse's heroes for the sake of self-preservation.  The Silver/Bronze Age Luthor was last seen in a battle on Maltus with other supervillains  to prevent [[Krona (comics)|Krona]] from starting his experiment which created the multiverse as well as the [[Anti-Monitor]]; instead, reality was altered so that instead of a Multiverse, a single reality remained that combined aspects of many of the former co-existing realities—a reality in which this incarnation of Luthor never existed. (Oddly enough even after the multiverse is changed to a single universe, this version of Luthor can still be seen.)
+
+Superman himself acknowledged that the Silver Age Luthor was a man of his word who would honor promises he made.  Luthor prefers to follow his own personal code; on occasion, he came to the aid of innocents even when doing so would lead to his capture and inevitable return to prison. Luthor had a younger blond-haired sister, Lena Thorul (shamed by Lex's criminal acts, Lex's parents, Jules and Arlene, disowned him, moved away and changed their name to the [[anagram]] "Thorul"), an [[empath]] who grew up unaware of her familial connection with the noted villain. Protective of his sister, Luthor had strived to hide his connection and had been assisted towards this end by both Superman and [[Supergirl]], the latter of whom was ironically a close personal friend of the sister of her super-cousin's greatest foe.  Luthor considered [[Albert Einstein]] a personal idol, and would make a special effort to gain his freedom around the anniversary of Einstein's birthday each year, and visit places of significance in Einstein's life.
+
+The version of Luthor seen in the various [[Super Friends]] TV series was based on the Silver Age Luthor. This animated Luthor was the leader of the [[Legion of Doom]] and was voiced by [[Stan Jones (actor)|Stan Jones]].
+
+===Modern Luthor===
+In 1986, [[John Byrne]]'s "reboot" of Superman's mythos in the limited series The Man of Steel rewrote the character of Lex Luthor from scratch, intending to make him a villain that the 1980s would recognize: a corporate white-collar criminal (the idea was originally suggested by [[Marv Wolfman]]). Under the helm of other writers, he eventually became a criminal mastermind, ever-present but never fully defeated. Unlike certain other villains, Luthor is more insidious, operating mainly behind the scenes.
+
+Pre-Crisis details have occasionally appeared in altered but recognizable form.  Among these, the battlesuit Luthor wore from ''Action Comics'' #544 onward appears as early as issue #5 of ''The Man of Steel'', worn by a Luthor henchman who was apparently easily defeated by Superman.  Prolonged wearing of the suit had the effect of destroying the man's mind, making it impossible for Superman to verify his suspicions of a Luthor connection.  This was among the earliest moments of the "machiavellian" phase of the new Luthor, setting in motion plans to test Superman's abilities while carefully taking steps to avoid all provable criminal liability. (Luthor himself would wear a battlesuit resembling his Pre-Crisis one; see the 'Fall From Power' section for more details).
+
+====Origins====
+In the post-''Man of Steel'' mythos, Luthor was born in the [[Suicide Slum]] district of [[Metropolis (Superman)|Metropolis]].  In his younger years, Alexander Joseph "Lex" Luthor grew up in a household where his cruel and short-tempered father abused Lex's mother and belittled his son's dreams of leaving the Suicide Slum district for a better life.  His only friend was [[Perry White]], who encouraged Lex's dreams of making something of himself.
+
+[[Image:Luthor_Unauthorized_Biography_Cover.jpg|200px|left|framed|Cover detail of ''[[Lex Luthor: The Unauthorized Biography]]'' graphic novel, 1989.  Art by [[Eric Peterson (artist)|Eric Peterson]].]]
+In his early teens, Lex cultivated relationships with criminals in Suicide Slum, who were impressed and amused by his intelligence.  Two boys who bullied Lex were themselves savagely beaten by Lex's adult criminal friends who were rumoured to be well paid by the boy to do so.  Later, Lex took out a large insurance policy on his parents without their knowledge and sabotaged their car's brakes, killing them. These details were uncovered decades later by a down-on-his-luck writer named Peter Sands while researching a potential book titled ''[[Lex Luthor: The Unauthorized Biography]]'' (the story is detailed in the 1989 graphic novel of the same name by [[James Hudnall]] with art by [[Eduardo Barreto]] and [[Adam Kubert]]) and confirmed by Lex himself, before he had Sands killed and his research destroyed.
+
+Lex was put into a foster home while he waited until he became of legal age to collect the insurance money.  However, Lex found that his foster parents were even worse than his biological parents. Greedy and manipulative, they schemed to find out the location of Lex's money and steal it from him. Shortly after Lex turned the age in which he could have access to his money, he secretly put it in a savings account with the explicit instruction that only he be allowed to make withdrawals. When his foster parents found bank documents Lex had hidden from them, Lex's foster father confronted his daughter Lena and demanded that she seduce Lex (who had fallen in love with Lena) into giving her parents the money under the lie that they would use the money to pay for their daughter's college education, which they had no plans on doing. 
+
+Lena, who had feelings for Lex, refused and for her trouble was beaten to death by her father. Lex was absent from the home at the time, having been talked into going to a football game by his friend Perry. When Lex returned home, he was heartbroken to find Lena murdered by her father. This event would serve as the turning point for Lex Luthor, who vowed to do whatever it took to gain power and to destroy anyone who got in his way. Later in life, on the day Lex's daughter was born, he arranged for his foster father to assassinate the mayor of Metropolis, in a new bid for power, then later, as payment, murdered his foster father himself. He named his daughter Lena.
+
+Perry White was the first target of Lex's turn to evil. Lex blamed Perry for keeping him from being at the house when Lena died and got his revenge by seducing Perry's wife shortly after their marriage and getting her pregnant with Lex's child. The offspring Jerry White, would later learn of his true parentage during his late teens before being killed by a local streetgang that Jerry had associated with. Years later, Lex would on several occasions purchase ownership of the Daily Planet, much to Perry's shock, and attempt to kill the newspaper out of complete spite for Perry.
+
+====Rise to power====
+There are many stories, or "interpretations" of Lex's fame and fortune. In some instances he was a scientific genius and gained his power by intelligence. Others (more commonly) explain Lex as a rich tycoon. 
+
+In the comics series, Lex used his money and natural genius to create a multi-national corporation known as "LexCorp" that would ultimately come to dominate the city of Metropolis. One of his earliest projects was an experimental airplane and other similar technology themed enterprises would be the hallmark of LexCorp's output.
+
+Lex became the most powerful man in Metropolis, both financially and in the world of organized crime. Lex would flood the streets with weapons to arm gangs of Metropolis and use his primarily female staff of underlings to keep blackmail files on all of the major organized crime groups in the city, so that Lex could use them to further any schemes he had planned. However, this all ended with the arrival of Superman.
+
+====Superman====
+Several months after Superman first appeared on the scene, terrorists attacked a society gala aboard Lex Luthor's yacht. Luthor observed Superman in action and then tried to hire him out after Superman dispatched the gunmen. But when Luthor admitted that he'd not only anticipated the attack but also had arranged for it to occur in order to lure Superman out, Mayor Berkowitz deputized Superman to arrest Luthor for reckless endangerment. 
+
+Luthor's (temporary) incarceration left him seething, and he swore to make Superman pay for the humiliation. He has since devoted much time and energy to that goal. 
+
+Luthor's motive for hating Superman varies over time.  Contemporary stories portray Luthor as a man who sees ''himself'' as a hero, and Superman as the threat.  He was a man driven to succeed on his own, coming from nothing in a harsh environment; Conversely, Superman was granted power by random fate. While Luthor lacks the compassion or nobility to be a hero, he has a cunning and cruel mind.  Superman has survived subsequent attempts Luthor made on his life, but had never been able to prove Luthor's role in the attacks. While on paper, Luthor remains spotless, Superman sees him as a cancer on Metropolis and pursues him with utmost vigilance.  For his part, Luthor has begun to tire of the world of business and has focused his energies on Superman to an obsessive degree, to the point where his reality seemingly revolves around the hero.
+
+====Cancer and cloning====
+[[Image:Teamluthor.jpg|left|Cover art to ''Supergirl/Lex Luthor'' Special #1, by Kerry Gammill.|thumb]]
+Luthor soon acquired the only sample of kryptonite on Earth from the Kryptonite-powered [[cyborg]] [[Metallo]], whom LexCorp abducted just before Metallo could succeed in killing Superman. Fashioning a ring from the alien ore deadly to Superman, Luthor relished being untouchable even to the man of steel, and began wearing it constantly to ward off his enemy. Unfortunately, Luthor suffered from a severe [[cancer]] in the 1990s, caused by long-term radiation exposure to his kryptonite ring. (Before ''Man of Steel'', kryptonite exposure had not been stated to be harmful to non-Kryptonian life forms).
+
+Luthor's hand required amputation to prevent the cancer's spread, but by then it had already metastasized; it was eventually determined that the disease was terminal. Luthor faked his own death shortly afterward by taking his personally designed jet, the Lexwing, on a proposed trip around the world and crashing it in the [[Andes]], using this as cover for the transplant of his brain into a healthy [[human cloning|clone]] of himself which he then passed off as his hitherto unknown, illegitimate Australian son and heir, Lex Luthor II; his deception helped by his new body having a full head of red hair and a beard. 
+
+Luthor continued to masquerade as his own son to seduce [[Supergirl]] and continue to torment Superman. However, his plan began to quickly fell apart, as Luthor's new clone body began to deteriorate and age at a rapid rate (his being one of many clones that were becoming ill at the time). Meanwhile, Lois Lane discovered proof that Lex Luthor had years earlier murdered a female LexCorp employee and framed an innocent man for the murder. This led Lois to the truth regarding Lex's faked death and false new identity. In retaliation, Luthor set out to systematically destroy Lois' life and have her fired from the ''Daily Planet''.  At the same time Luthor instigated a battle against [[Project Cadmus]], when it was discovered that the cloned hero, the Guardian, was the only one not affected by the clone malady and sought to create a cure from him.  
+
+Lois fought back and, with help from Superman, exposed the truth about Lex Luthor's faked death and criminal activities to the public.  Horrified by the fact that his employer would go to jail, one of his workers attempted to stop the two from battling, only to have Luthor kill him, but his death caused him to hit a button that activated a failsafe that was to destroy Metropolis during an alien invasion.  The failsafe, which consisted of a barrage of missiles, a collection of robots, hallucinagens, and, finallly, Superman's discarded Kryptonian Battlesuit, causing nearly the entire city to be leveled and killing thousands. Luthor became a permanent prisoner in his cloned body, unable to even blink, and swearing vengeance on Superman.
+
+However, aid would come in the form of the demon [[Neron]]; Luthor promptly sold his soul in exchange for Neron restoring his body to perfect health.  Returning to a rebuilt Metropolis, Luthor turned himself over to the police and was put on trial, where he was acquitted of all crimes when Luthor claimed to have been kidnapped by renegade scientists who replaced him with a clone, who was responsible for all the crimes he was charged with.
+
+====Philanthropist====
+Lex Luthor had cultivated a popular image as a great [[philanthropist]]. He had been instrumental in reverse-engineering alien technology for use in general consumer goods, upgrading Metropolis into a true "city of tomorrow." Luthor also played an instrumental role in assisting the [[Justice League]] in recharging the sun during  the ''[[Final Night]]'' storyline. Later, when [[Gotham City]] was destroyed by an earthquake and then abandoned by the American government in the early 2000s, it was LexCorp that took up the massive task of rebuilding the city. Unbeknownst to the populace, Luthor also took the opportunity to destroy property records so he could seize any land he wanted.  By gaining a foothold in Gotham, Luthor made a public enemy in [[Bruce Wayne]], who did not hesitate to publicly denounce him on certain occasions.  
+
+====Relationships====
+[[Image:Luthcontessa.PNG|200px|Lex Luthor and the Contessa. Art by [[Stuart Immonen]].|thumb]]
+Despite his hatred for Lois Lane for temporarily bringing down his evil criminal empire, Lex Luthor has an unspoken love for her. On several occasions Luthor has commented that had Superman not arrived in Metropolis, Lex would have used his time and energy instead to romantically pursue Lois and marry her (indeed, in his first post-Crisis appearance he is seen romantically pursing her; Marv Wolfman originally planned for the two to have been actually romantically involved, with Lois leaving him for Superman, giving Luthor another reason to hate his foe, but Byrne modified the plan when he wrote the actual issue). 
+
+The post-Crisis Lex Luthor has been married eight times, though the first seven marriages occurred off-panel in Luthor's past. While his previous seven marriages were hinted to have been based on love (or as close to the concept of love as Lex Luthor understands it) Luthor's eighth marriage to Contessa Erica Alexandra Del Portenza (or "The Contessa" as the characters call her) was a marriage that was based on mutual manipulation and greed. 
+
+The Contessa had bought controlling interest in LexCorp after Luthor was exposed as evil, forcing Lex into a marriage with her in order to regain control over the company.  The marriage was doomed from the beginning as the two fought constantly and never loved each other. The Contessa quickly became pregnant with Lex's child and began using the unborn child to dominate Lex into doing her bidding.  Luthor's response to the Contessa's actions was to use her desire to be unconscious during childbirth to lock her in the basement of his corporate headquarters in a permanently drugged unconscious state.  
+
+Luthor took over as a single father to his [[Lena Luthor|daughter]] (named Lena after his childhood sweetheart) and vowed never to marry again, stating that he wanted to never have to share his daughter's love with anyone else. The Contessa later escaped, but Luthor had her killed with a barrage of missiles. However, the Contessa's body was never found...
+
+====President of the United States====
+[[Image:Lex2000.jpg|left|160px|Cover to ''Lex 2000'' #1,  featuring Lex Luthor as [[president of the United States]]. Art by [[Glen Orbik]].|thumb]]
+Lex became the [[president of the United States]] in 2000, winning the election on a platform of promoting technological progress (his first action as president was to take a proposed moratorium on fossil-based fuels to [[Congress of the United States|U.S. Congress]] in hopes of putting "a flying car in every garage").  
+
+Despite Luthor's more villainous traits, he was assisted by the extreme unpopularity of the previous administration due to its mishandling of the [[Gotham City]] [[No Man's Land (comics)|earthquake crisis]].  Ironically, [[Batman]] would ultimately learn that Luthor was involved in the mishandling of the entire Gotham City rebuilding process, resulting with Bruce Wayne severing all military contract ties between the U.S. government and his company [[Wayne Enterprises]] in protest of Lex Luthor's election as President. Luthor responded in kind by ordering the murder of Wayne's lover Vesper Fairchild and [[Bruce Wayne: Fugitive|framing Bruce Wayne for the murder]] (although the frame was only truly successful due to Luthor hiring, by sheer coincidence, the assassin [[David Cain (comics)|David Cain]], who was aware of Batman's true identity and thus made it appear to the Bat-family that Wayne had murdered Fairchild after she had discovered he was Batman).
+
+An early triumph of his political career was the ''[[Our Worlds At War]]'' crisis, in which he coordinated the U.S. Army, Earth's superheroes and a number of untrustworthy alien forces to battle the story's villain, [[Imperiex]].  However, as it would later be revealed, Lex knew about the alien invasion in advance and did nothing to alert Earth's heroes to it.
+
+Lex Luthor finally figured out Superman's secret identity in 2002, when a lowly scientist was able to get a meeting with Lex and reveal top secret government documents showing the rocket containing baby Superman crashing near the farm of Martha and Jonathan Kent (Ironically, one of Luthor's employees had once managed to work out that Clark Kent and Superman were the same person shortly after their vendetta began, but Luthor rejected it at the time because he believed that someone as powerful as Superman would never pretend to be someone as insignificant as Clark). Killing the scientist, Lex surprisingly decided to keep the knowledge a secret even as [[Clark Kent]] took the fall for Lois publishing proof that Lex Luthor knew of the alien invasion of "Our Worlds At War" but had opted not to make any defensive plans to save the people of Kansas from attack.  In the end, the villain [[Manchester Black]] erased all knowledge that Clark Kent was Superman from Lex's mind in revenge for Lex helping Superman defeat him.
+
+====Fall from power====
+[[Image:Sb6.png|175px|thumb|Cover to ''[[Superman/Batman]]'' #6, featuring Lex Luthor in an [[Apokolips|Apokoliptian]] battlesuit, reminiscent of his battlesuit from 1983's ''[[Action Comics]]'' #544. Art by [[Ed McGuinness]].]]
+In 2004, Luthor once again overplayed his hand, as his success at framing Bruce Wayne for the murder of Vesper Fairchild caused him to get arrogant. In an attempt to blame Superman for a kryptonite meteor approaching the Earth, he instead raised questions about himself as Superman and Batman uncovered a plot of Luthor's to further torment Batman that involved tricking Batman into thinking that the Superman villain Metallo was the man who killed Batman's parents. In desperation, he used a variant combination of the "super-steroid" Venom (a [[steroid]] mainly used by Batman villain [[Bane (comics)|Bane]]), liquid synthetic green kryptonite, and an [[Apokalips|Apokaliptian]] battlesuit to battle Superman directly.  Unfortunately, the madness that is a side effect of Venom took hold, and he revealed his true colors during the battle. Superman and Batman were able to gain evidence by Luthor, via a mad confession during the battle on recorded to video, that Lex had traded arms with Darkseid on Apokolips, giving them the creature Doomsday in return for his aid during the "Our Worlds At War" crisis. The final straw was the revelation that [[Talia Head]], the acting CEO of LexCorp, had sold all the company assets to the [[Wayne Foundation]]. He has since gone underground, leaving the presidency to his [[Vice President of the United States|vice president]], [[Pete Ross]]. Ross later resigned, however, leaving the presidency to a man named Jonathan Horne.
+
+====''Birthright''==== 
+[[Image:SupermanBirthrightCVR8.jpg|160px|left|Lex Luthor as a child. Cover to ''Birthright'' #8. Art by [[Leinil Yu]].|thumb]]
+The 2004 12-issue [[limited series]] ''[[Superman: Birthright]]'' once again altered aspects of Luthor's history, such as Luthor's youth in Metropolis and his first encounter with Superman, in favor of introducing elements from the 2001 television series ''[[Smallville]]''. Among the elements of Smallville introduced into the comics' canon include Lex's problematic relationship with his wealthy father, [[Lionel Luthor]]. Birthright also reintroduced the notion of Lex spending a portion of his youth in Smallville, as well as befriending Clark Kent, who shares his interest in astronomy.
+
+Birthright emphasizes Luthor's wasted genius; despite limitless potential, he is fundamentally disturbed and alienated from everybody. During a failed experiment to communicate with a lost alien civilization ([[Krypton]]), an explosion erupts which singes off Lex's hair and kills his father. Lex refuses to take responsibility for the blaze and leaves Smallville forever, erasing any trace that he was ever there. By the time Clark meets him again in Metropolis, Lex has launched a billion-dollar business and is the foremost astrobiologist in the world, but has also become a sadistic and corrupt individual. Luthor believes that lesser minds cannot be entrusted with the world's future and that there is room for only one leader. Superman is his main obstacle toward this end.  
+
+The changes in Lex's character and background were initially controversial among fans given contradictions with established Luthor history, but were quickly accepted when it was made public by Mark Waid that editorial had forced him to craft a new origin for Luthor that incorporated aspects from the Smallville television series. Waid has gone on the record as stating that his original outline for "Birthright" had Waid restoring Luthor's pre-crisis background as a mad scientist, jettisoning the entire notion of Luthor being a respected but evil businessman. In the retrospective section of the published "''Birthright''" graphic novel, Waid describes his view that Luthor operating free and unchallenged in Metropolis for ''years'' makes Superman look ineffectual. Waid's disdain for the Post-Crisis Lex Luthor is well-known amongst comic fans, as was his opposition to the original ''post-crisis'' reboot. Unfortuantely for Waid, he was overruled by DC Editors, who ordered that any changes made to Lex Luthor's history must resemble his [[Smallville]] incarnation, due to the popularity of the show. 
+
+It was recently revealed that as a result of [[Superboy-Prime]]'s attempts to escape reality, his assault on the border between worlds created ripples that rewrote history, causing various [[Retcon|revisions]] of events to occur; one of these revisions was the changing of Luthor's origin from the ''Man of Steel'' version to the ''Birthright'' version.
+
+====''Infinite Crisis''====
+{{spoilerabout|[[Infinite Crisis]]}}
+=====The Insiders=====
+[[Image:TeenTitans-Cv24.PNG|160px|thumb|Superboy, under Lex Luthor's influence. Cover to ''Teen Titans'' #24 (2005). Art by [[Mike McKone]].|thumb]]
+Lex Luthor went into hiding, preparing to activate a mind control program planted inside the brain of the current [[Superboy (Kon-El)|Superboy Conner Kent]] (created with 50% of Lex's and 50% of Superman's DNA) to help him gain revenge against Earth's mightiest heroes. Luthor has also been carefully surveiling the new [[Supergirl]], but his attempt to split her personalities using Black [[Kryptonite]] backfired when the "evil" incarnation of Kara Zor-El rebelled against Luthor and nearly killed him.
+
+=====The New Secret Society=====
+[[Alexander Luthor, Jr.]], the son of Earth-Three's Lex Luthor, returned to the DC Universe along with other survivours from the Crisis on Infinite Earths as part of a scheme to create a perfect Earth, under the pretense of restoring Earth-Two. To this end, he assumed Lex Luthor's ientity and created a new [[Secret Society of Super Villains]].
+
+The real Lex Luthor took on the identity of  [[Mockingbird (DC Comics)|Mockingbird]] and formed a super-villain version of the [[Secret Six (comics)|Secret Six]], whose purpose was to subvert the new Secret Society created by Alexander. Lex swore vengeance against the impostor for taking his place.
+
+=====''Infinite Crisis''=====
+In ''Infinite Crisis'' #3, Lex confronted Alex Luthor after tailing him for several months.  Alex's identity was exposed to Lex during the following fight. He and Superboy-Prime managed to destroy his battlesuit, but Lex escaped via short-range teleporter.  
+
+Luthor then visited Conner Kent (in recovery at [[Titans Tower]]). Lex gave words of vengeance against Alex Luthor and Superboy-Prime, and slipped onto Conner's person a crystal shard (collected during his fight with Alex) showing the location of Alexander's Arctic Fortress. Conner later went to [[Dick Grayson|Nightwing]] and the two agreed to stop Alexander.  At the end of ''Infinite Crisis'' #7, Lex Luthor oversees the [[Joker (comics)|Joker]]'s execution of Alexander.
+
+Luthor has shown an unusual (at least by his standards) compassion for [[Superboy (Kon-El)|Conner Kent]]; it seems that by watching Superboy throughout the course of his short life, Lex came to see Conner as his son. When Superman, Wonder Woman, and Batman informed Luthor of Conner's death, he goes berserk and tries to kill the three heroes in a fit of rage over the fact that the three heroes were not present to prevent Conner from dying. Later, Luthor is shown visiting a memorial statue of Superboy in Metropolis and placed flowers there.
+
+====''52''====
+{{See also|52 (comics)}}
+In ''[[52 (comics)|52]]'' Week Three, the [[Gotham City Police Department]] find a body in an alley that looks like Lex Luthor. [[John Henry Irons]] examines the body at [[S.T.A.R. Labs]] and notices that contact lenses were inserted post-mortem to make the blue eyes appear green, like Lex's. Lex Luthor barges in with a throng of reporters, claiming that the body is that of an impostor from another Earth, the man truly responsible for his various crimes. Though Alexander's body had a missing finger and a different genetic make-up from Lex's, ''52'' editor Stephen Wacker has confirmed that the body found in Gotham is indeed Alex, and that Luthor had it altered before the police discovered it.<ref>[http://www.newsarama.com/dcnew/WAcker/Wacker03.html]</ref>
+
+Lex publicly continues to rebuild his fallen reputation. In various news broadcasts throughout the country, he claims to have engineered a way to make meta-humans out of ordinary citizens, saying that everyone should have a right to have powers, not just a select few. However, during the autopsy of Alex Luthor, Lex secretly exposes John to the chemicals involved in his creating his new army of super-heroes, turning him into a literal man of steel. When approached by John's niece [[Natasha Irons]], he gladly allows her to be one of his first test subjects. Thanks to Luthor, Natasha now has super-powers similar to those of Superman, after undergoing a treatment he called "the full package" and acts as a spokesperson his new meta-gene treatment. Also, using Natasha and several other test subjects, Luthor has formed his own team of superpowered "heroes" which are now being called a new [[Infinity Inc.]]. In week #21, this new Infinity Inc. were battling a new [[Blockbuster (comics)|Blockbuster]], which Luthor had created as well, when he demonstrated that he could shut off their powers and had his speedster, Trajectory, killed.
+
+===="One Year Later"====
+{{main|One Year Later}}
+[[Image:Luthor action837.PNG|thumb|200px|left|Luthor, from ''[[Action Comics]]'' #837 (May 2006). Art by [[Pete Woods]].]]
+One year after the events of ''[[Infinite Crisis]]'', Luthor has just been cleared from over 120 criminal counts ranging from malfeasance to first-degree murder, only to find that he's now unpopular with the public and, thanks to the machinations of [[Doctor Sivana]], is being bought out of LexCorp. He blames Clark Kent for writing articles chronicling his downfall, and pledges vengeance on Metropolis. This series of events seem to be bringing him closer to his "wealthy evil scientist" roots, as he is seen operating in underground labs with a new [[Toyman]]. After attempting (and failing) to destroy Metropolis with stolen Kryptonian technology, Luthor escapes from his jail cell and goes underground.
+
+He has recently appeared in the Last Son story arc of Action comics, which features a mysterious Kryptonian child who has come to Earth in a space vessel.  Luthor is revealed to have Bizzaro Superman in his custody, whom he sends after the kryptonian child.  Luthor's motives and ultimate role in this storyline remain unknown.
+
+The current Superman story arc features the sorcerer Arion giving Superman and his associates a glimpse at a bleak, post apocalyptic future, in which Lex Luthor is the leader of a small band of humans trying to rebuild civilization.
+{{endspoiler}} {{-}}
+
+===Earth-Three===
+[[Image:Alexander_luthor_earth3.jpg|thumb|129px|Alexander Luthor of Earth-Three, reacting to the death of [[Superwoman#Crime Syndicate of America version|Superwoman]], from ''[[Crisis on Infinite Earths]]'' #1 (April 1985). Art by [[George Pérez]].]]
+In much the same way that Superman and other heroes have evil analogs on the parallel world of [[Earth-Three]], Luthor had a heroic counterpart there.  Alexander Luthor was the only superhero in that world's history, and reluctantly decided to adopt a heroic identity to combat his world's analog of the Justice League, the evil [[Crime Syndicate of America]]. This version, who eventually married the [[Lois Lane]] of Earth-Three, died in ''[[Crisis on Infinite Earths]]'', but was survived by their son, [[Alexander Luthor, Jr.]], one of the most pivotal figures in ''Infinite Crisis''.
+
+In the late 1990s ''[[JLA: Earth 2]]'' graphic novel, an updated version of Earth-Three and its version of Luthor were reintroduced to the post-Crisis [[DC Universe]]. The physical appearance of this Lex resembles the pre-Crisis Earth-One version from 1983s ''[[Action Comics]]'' (down to the battlesuit he wears). In this version of events, the heroic Luthor travelled from his Earth (located in an [[anti-matter]] universe rather than an alternate positive one) to the mainstream DC Earth, and asked the Justice League to help him rebuild his world. However, since "evil always wins" in this alternate world, the attempt failed, and Luthor resigned himself to being the only noble character on his Earth, although a later comic showed another group of heroes on this world named the [[Justice Underground]].
+
+==In other media==
+===''Atom Man Vs. Superman''===
+Luthor was revealed to be the master villain in the second ''Superman''  [[serial]], 1950's ''[[Atom Man Vs. Superman]]''. Luthor was played by [[Lyle Talbot]].
+
+===Films===
+[[Image:Lexlutsupermanii.JPG|thumb|left|Actor [[Gene Hackman]] as Luthor in the 1980 film [[Superman II]]]]Actor [[Gene Hackman]] played the role of Lex Luthor in the 1978 movie ''[[Superman (movie)|Superman]]'', and in two of its three sequels (''[[Superman II]]'' and ''[[Superman IV: The Quest for Peace]]''). Hackman's portrayal of Luthor is seen by some to be more lighthearted and comical;  he often behaves more like a [[conman]] hustler than a true mastermind. Rather than an obsessive vendetta against Superman or a desire for world domination, this version of Luthor apparently is mainly motivated by a desire to make a fortune in real estate. Also, while bald, this version of Lex Luthor is apparently insecure about his hairlessness, and tends to wear a variety of obvious wigs to conceal his baldness. Despite his bombastic exterior, Luthor is not without menace and proves fully capable of killing Superman and leveling [[California]]. When not in complete control of a given situation, Luthor has a habit of trying to cowardly talk his way out of trouble. Hackman's performances in the movies are noted for being consistently strong, even when his character motivation is not.
+
+In the first film, Luthor's high-tech hideout is located in an abandoned transit station buried beneath the Metropolis streets. Luthor's sinister plans are offset by a tendency to surround himself with less-than-satisfactory help, such as his bumbling henchman [[Otis (Superman)|Otis]], and his girlfriend [[Eve Teschmacher]]. In the first film he attempts to divert military missiles to hit the [[San Andreas fault]], causing California to sink into the ocean, turning its neighboring states into beach front property (which of course is owned by his company, Lex Luthor Incorporated). Although he nearly kills Superman using kryptonite, he is defeated and sentenced to prison. He escapes with Miss Teschmacher's help in ''Superman II'', and allies himself with [[General Zod]] in his bid to destroy Superman and rule the world. Lex did not appear in ''Superman III'' although a similar, wealthy criminal mastermind named [[Ross Webster]] fulfilled a similar role.
+
+He reappears in ''Superman IV'' and once more escapes from prison, this time with the help of his nephew [[Lenny Luthor]]. Once again, Lex allies himself with other villains, in this instance a cadre of [[war profiteer]]s and [[arms dealer]]s who are worried about what Superman's efforts to disarm the world's nuclear arsenals will do to their businesses. To defeat Superman this time, Lex, using a strand of his hair stolen from a museum, creates a "clone" of Superman which he names "[[Nuclear Man]]," who possesses powers similar to Superman's and who receives his power from sunlight. Although Nuclear Man comes close to killing Superman, good wins out in the end. Nuclear Man is killed, and Superman recaptures Lex and returns him to prison, telling him, "See you in twenty."
+
+===''Superboy''===
+In the late 1980s and early 1990s syndicated television show ''[[Superboy (TV series)|Superboy]]'', Luthor began as merely a scheming super-intelligent college student, played by [[Scott Wells]]. At the beginning of the second season, Luthor's personality took a dark turn as he killed a businessman and tried, unsuccessfully, to take his place via plastic surgery. This version was played by [[Sherman Howard]]. Howard's portrayal of Luthor harkened back to the mad scientist Luthor of the comics. It was later revealed that Luthor murdered his abusive parents in order to protect his sister Lena, whom he loved more than anything in the world.  Her apparent death caused him to go insane and plan the destruction of all life, with only robot duplicates of himself and his sister remaining. It turned out that she had faked her death because she was ashamed of Luthor's notoriety as an evil criminal and wanted to be free of him. This caused him to reject her, although the robot duplicate of himself tried desperately to right everything in Lena's eyes.
+
+===''Ruby-Spears'' animated series===
+In the short-lived 1988 animated series produced by Ruby-Spears Enterprises, Luthor was shown as an evil businessman for the first time in other media. He is voiced by [[Michael Bell]].
+
+===''Lois & Clark: The New Adventures of Superman''===
+[[Image:Luthor lac.jpg|thumb|left|230px|[[John Shea]] as Lex Luthor, seen prior to Luthor's death (season 1).]]
+In the television series ''[[Lois & Clark: The New Adventures of Superman]]'' (1993–1997), Lex Luthor is played by actor [[John Shea]].  Here in the eyes of the public he is a (supposed) humanitarian who is beloved by all, but few have witnessed his true face.  
+
+Clark Kent/Superman spent a good deal of the first season trying to prove that Luthor was corrupt, while Luthor was bent on finding his weakness.  In addition to staging tests for Superman's powers, Luthor came up with dangerous plots for turning the public against Superman.  At the end of season one, he managed to acquire [[kryptonite]] and devised a trap for Superman that almost killed him, but Superman narrowly escaped when Luthor left him to his fate. Just as Lex was about to marry [[Lois Lane|Lois]], the truth about Luthor's evil nature was exposed and he took his own life rather than face imprisonment. Fleeing to his private balcony, Lex flung himself over the ledge with a smile knowing that he'd be dead before living in a cage. Ironically, due to exposure to Luthor's kryptonite, Clark's powers were too weak and he could not save him.
+
+Following the season one finale, Lex's corpse disappeared from the coroner's office. Later on, the body resurfaced in a lab where a devoted scientist (played by [[Denise Crosby]]) froze Luthor's remains and was laboring to bring Luthor back from the dead.  She eventually succeeded, but as a side effect of his resurrection, Lex lost his hair, thus bringing him in line with most other incarnations of Luthor.  Lex found himself disenchanted with the changes that had happened in Metropolis during his absence, notably the crime syndicate [[Intergang]]'s stranglehold on the city and the fact that Lois Lane was dating Clark Kent, whom Lex despised. 
+
+[[Image:Luthor bald.jpg|thumb|230px|Luthor revived (season 2).]]
+
+Lex hid underground, again seeking kryptonite. But after kidnapping Lois in an attempt to reclaim her, he was traced to his sewer lair by Superman.  This time however, Superman prevented Lex from taking his own life again to "avoid justice" and sent him to prison. 
+
+He later escaped through a complicated plot involving cloning experiments; first using a clone of the [[President of the United States|President]] to allow him to walk free, then kidnapping the real Lois Lane and replacing her with a clone just before her wedding to Clark. Now a fugitive, Luthor hoped to transfer his and the real Lois' minds into clone bodies so they could never be found.  Although Lex tricked the fake Lois into divulging Superman's secret identity ("He's really someone else...someone ''else'' you hate"), he still failed in destroying Superman and, in the ensuing destruction of his lab, was killed (apparently for good).  Luthor's legacy lived on in his numerous illegitimate children, three of whom came to blows with Superman, as well as a number of [[Lexcorp]] projects still active.
+
+After Shea's departure from the show after the first season, the character of Lex Luthor was constantly built into dialogue leading to his guest appearances in subsequent seasons. Some viewers saw this move as appropriate, giving the character a mystique and legendary status on the show, and giving appropriate hyperbole with the title of Superman's greatest enemy. {{-}}
+
+===DC Animated Universe===
+====''Superman: The Animated Series''====
+[[Image:Luthor1.jpg|thumb|170px|left|Luthor from ''[[Superman: The Animated Series]].'']]
+In the 1990s cartoon ''[[Superman: The Animated Series]]'' and the subsequent ''[[Justice League (animated series)|Justice League]]'' animated series, Luthor was voiced by actor [[Clancy Brown]] of ''[[Highlander (film)|Highlander]]'' and ''[[The Adventures of Buckaroo Banzai Across the 8th Dimension|Buckaroo Banzai]]'' fame (Brown originally auditioned for the role of [[Superman]]/[[Clark Kent]], but that part went to [[Tim Daly]] instead).  Luthor in this version was again a corrupt businessman, and again his hatred of Superman ultimately brought down his empire. According to the creators' commentaries on the First set of DVDs, this version of Luthor was inspired by [[Telly Savalas]]' interpretation of [[James Bond|Bond]] villain [[Ernst Stavro Blofeld]] in ''[[On Her Majesty's Secret Service (film)|On Her Majesty's Secret Service]]''.
+
+====''Justice League''====
+After he was revealed as a criminal and lost his business empire (in the first season of ''Justice League''), his characterization turned more toward the original conception of the character as a criminal genius obsessed with destroying Superman.  Later, Luthor's character turned in an opposite way of his comics counterpart; he was pardoned after helping the [[Justice League]] defeat their alternate evil counterparts, the [[Justice Lords]], with a power disruptor and implied to the press that he was thinking of going into politics.
+
+====''Justice League Unlimited''====
+In the second season of ''[[Justice League Unlimited]],'' Luthor announced he was running for [[President of the United States]]. It was later revealed to be a ruse to enrage Superman. Luthor was revealed to be financially backing [[Project Cadmus]], a shadow government organization devoted to stopping the League if they ever turned on the earth. Luthor then betrayed them, hi-jacking the League's space-based laser to take out Cadmus leaving the impression the League had attacked the United States government. While attempting to place his mind in a duplicate of [[A.M.A.Z.O.]],  he was thwarted by Amanda Waller of Cadmus.  At this point, it was revealed that [[Brainiac (comics)|Brainiac]] had possessed Luthor, secretly controlling his actions. After the two merged into a more complete being using alien [[nanotechnology]], Luthor and Brainiac attempted to destroy the world but were stopped by [[Wally West|The Flash]].
+
+Luthor returned later to join the [[Legion of Doom]], but, ironically, not as the leader ([[Gorilla Grodd]] was the leader). Luthor agreed to join in order to obtain the last remaining piece of Brainiac, which Grodd has in his possession.  Luthor is obsessed with rebuilding Brainiac, as what is left of him is inhabiting Luthor's mind, giving him a sort of [[dissociative identity disorder|multiple personality disorder]]. It is unclear to the viewer, however, if Brainiac really exists and inhabits his mind or if he is simply a mad figment of his imagination. Later on, using the failure of Grodd's silly masterplan to turn all humans into apes as pretext, Lex Luthor shot Gorilla Grodd and took over as leader, and imprisons Grodd.
+
+{{spoiler}}
+
+After taking over as leader of the Legion, Luthor returned to his obsession of trying resurrect Brainiac.  Using the power of the Legion headquarters, Luthor spent tireless hours trying to bring a fragment of Brainiac back online.  After nearly destroying the headquarters' power supply, Luthor had [[Tala (comics)|Tala]] use her magic to garner any information from the fragment. Tala shows Luthor a vision of Brainiac's base (seen in the episode "Twilight") before its destruction and Luthor reconfigures the Legion base into a spaceship with hyperspace capability.
+
+During the journey to the remnants of Brainiac's base, Tala frees Gorilla Grodd and he mounts an insurrection against Luthor with fellow Legion members. The battle climaxes with Luthor fighting Grodd in hand-to-hand combat. Just as Grodd moves to use his telepathic power on Luthor, Luthor uses his belt to take over Grodd's mind. Afterwards, Luthor forces Grodd into an airlock and jettisons him into space.
+
+[[Image:Luthoriac.jpg|thumb|230px|Luthor merged with [[Brainiac (comics)|Brainiac]].]]
+
+The Legion, back under Luthor's power, returns to their task of resurrecting Brainiac. Luthor hooks Tala up to a machine, reminiscent of Brainiac's machine used against Superman, to transmutate remnants of Brainiac's base back into a working body of Brainiac. Before Luthor begins the process, [[Metron (comics)|Metron]] stops time and appears to him warning that he may be unleashing something that will affect the past, present and future.  Luthor, still obsessed with becoming a god, ignores him and the process begins.
+
+However, although the process is successful, Luthor ends up resurrecting [[Darkseid]], who attempts to destroy the Legion. The remnants of the Legion, under Luthor, go to the Justice League Watchtower to warn to the superheroes of the threat and insist on a temporary alliance in the defence of the planet. With the aid of the New God Metron, Luthor manages to acquire the [[Anti-Life Equation]] long sought by Darkseid, and uses it on the lord of Apokolips, apparently  sacrificing his own life in the process. 
+{{endspoiler}}
+
+===''Superman: Brainiac Attacks''===
+
+Lex Luthor was also featured in the [[direct-to-video]] animated movie ''[[Superman: Brainiac Attacks]]''. Lex's character designs from ''Superman: The Animated Series'', his job as a criminal businessman and his bodyguard [[Mercy Graves]] were used for this movie, but this version of Luthor acted similar to [[Gene Hackman]]'s Luthor from ''[[Superman: The Movie]]''. He constantly spouted one-liners and at one point threw a Tiki Torch Luau to celebrate Superman's presumed death. Lex Luthor was voiced by [[Powers Boothe]] in this movie.
+
+{{spoiler}}
+Luthor's role in this movie, which was not made to fit into the continuity of the DC Animated Universe despite using its character/set designs and voice actors, had him forming an alliance with [[Brainiac (comics)|Brainiac]] (this is also treated as the first meeting between the two). He placed Brainiac in a new robot body and sent him to destroy Superman. Afterwards Brainiac would pretend to be defeated by Luthor and then leave Earth to conquer a different planet, while Luthor would appear as a hero to a people and then continue his quest to rule Earth. Naturally this plan failed, and it ended with a usual "Luthor under investigation" ending. {{endspoiler}}
+
+===''Smallville''===
+[[Image:SV LexLuthor.jpg|thumb|right|290px|[[Michael Rosenbaum]] as young Luthor on ''[[Smallville (tv series)|Smallville]]''.]]
+The television series ''[[Smallville (TV series)|Smallville]]'', which began in 2001,  features a Lex Luthor, played by [[Michael Rosenbaum]], whose history echoes many previous versions of the character, though this version of Lex did not start out as a bona fide villain. 
+{{spoiler}}
+In ''Smallville'', Lex is heir to his father's fortune, once again invoking the corrupt businessman version of the character. This incarnation of Lex states his full name to be "Alexander Luthor", named after [[Alexander the Great]]; Lionel believes himself to be the business world version of Philip II of Macedonia. ''Smallville'''s Lex is shown to have been mutated during the meteor shower that brought [[Kal-El]] to Earth. The explosion from the impact of a nearby meteor causes Lex's red hair to fall out. Kal-El's indirect involvement in Lex's hair loss can be seen in the Silver Age comic mythos. Years later, Lex would lose control of his [[Porsche]] and slam into Clark and off a bridge. It's when Clark saves his life that the two bond and become best friends. ''Smallville'' emphasizes Lex's journey to the evil, criminal mastermind that he'll become later. It plays on his relationship with Clark and how that deteriorates into the mutual enmity that they will have in life. 
+
+''Smallville'' portrays Lex's father, [[Lionel Luthor|Lionel]], with many of the same characteristics that Lex's comic book counterpart has. It's through this dysfunctional relationship that ''Smallville'' attempts to characterize how Lex eventually succumbs to his more evil side; early seasons focused on Lex's severely traumatic and loveless upbringing, a stark contrast to Clark's own idyllic childhood. 
+
+Though most of the first 3 seasons of ''Smallville'' show Lex as having noble efforts, especially with regard to how he is accepted by the townsfolk, it's during season 4 that Lex begins to head down the "dark" path of his comic book self. Lex tries to rectify his failing relationship with Clark, who he sees as his inspiration, even going so far as to tell Clark to "not give up on me". It's during season 5 that Lex's relationship with Clark finally ends, and his true machinations become apparent, when he has Clark, his parents, and Lana taken hostage in an effort to prove that Clark is hiding some secret abilities. Through deception and lies, Lex manages to alienate Clark and his own father, steal Lana away from Clark, and become possessed by the consciousness of [[General Zod]]. The progression of the character, in ''Smallville'', has been an ever growing process that continues into its current season.
+{{endspoiler}}
+
+===''Krypto the Superdog''===
+In the animated series, ''[[Krypto the Superdog]]'', Luthor (who is also portrayed as a rich businessman in the series, though he is only rarely seen) has a pet [[iguana]] named Ignatius. Like Luthor, Ignatius is very intelligent, vain, and is morally ambivalent about making others suffer for personal gain; however, he tends to behave in a much less dignified manner than Luthor, and is more prone to engaging in frivolous (and dangerous) personal whims. Ignatius is voiced by [[Scott McNeil]].
+
+===''Superman Returns''===
+{{spoiler}}
+[[Image:Lex-luthor1.jpg|thumb|left|[[Kevin Spacey]] as Lex Luthor.]]
+In the 2006 film ''[[Superman Returns]]'', Luthor is played by two-time [[Academy Awards|Academy Award]] winner [[Kevin Spacey]]. Spacey's Luthor frequently indulges in Hackman-style comedy, but on a few occasions he comes across like an older version of the Rosenbaum Luthor. At one point he compares himself to [[Prometheus]] in that, in taking the Kryptonian technology from the Fortress of Solitude for his own use, he is taking fire from the Gods and giving it to the people. Like his film predecessor, Spacey's Luthor is a scholarly crook; well-educated but totally focused on personal gain. He enjoys promoting himself through [[hyperbole]], much like in previous films.
+
+In the film, Lex Luthor has spent five years in prison, giving him a harder, more violent edge, as well as a desire for revenge on Superman. During Superman's disappearance, he is released from prison on an [[appeal]]. He re-acquires funding for his criminal operations by seducing his elderly but wealthy benefactor Gertrude Vanderworth (portrayed by [[Noel Neill]], who had played Lois Lane in the ''Superman'' serials as well as the 1950s television series, and had other cameo appearances in later Superman productions), and recruits several goons who had allied with him while in jail. His machinations once again concern real estate, as they did in the Richard Donner film. Luthor plans to use crystals (like the one Superman used to create the Fortress of Solitude) stolen from Superman to create a new continent off the east coast of the United States, destroying all surrounding landmass in the process and killing billions of innocent civilians. In doing so, he will create a vast new real estate opportunity and spite Superman at the same time. By fusing the crystal together with [[kryptonite]], the landmass also has the added effect of sapping Superman's powers when he is in proximity, giving Luthor the advantage. After his scheme fails, Luthor uses a helicopter to escape capture, but it runs out of fuel, stranding him on a deserted island.
+{{endspoiler}}
+
+Unlike Hackman's portrayal of the character, this Luthor seems to have grown comfortable being bald, despite several jokes made about his lack of hair throughout the film.  He uses wigs in several scenes, usually as part of a disguise.  His first scene in the film ends with him casually discarding a wig immediately after the death of Gertrude Vanderwoth, apparently no longer needing it as he has just inherited all of her wealth.  In later scenes, his wearing a wig of long brown hair makes him resemble [[John Glover]]'s portrayal of [[Lionel Luthor]], Lex's father on the series ''[[Smallville]]''.  Though Lex has a collection of wigs, in his private life he does without.
+
+===''Legion of Super Heroes'' animated series ===
+In the ''[[Legion of Super Heroes (TV series)|Legion of Super Heroes]]'' episode "Legacy", the young Superman meets Alexis, the "richest girl in the galaxy" in the 30th century, who also has a knack with machinery and access to powerful technology. A redhead who wears a purple jumpsuit like Luthor's classic supervillain costume, she begins as a friend of Superman but by the end of the episode is twisted into a supervillain. Also, at one point her hair falls out after she is recovered from the wreckage of a robot suit she was wearing. In the final scene, she appears to be regrowing her hair while in prison, and her prison uniform displays the name "Luthor" written in the [[Interlac]] alphabet.
+
+=== Video games ===
+
+Lex Luthor is a recurring character in most video games featuring Superman since his first game released in the [[Atari 2600]].  He is usually plays a villain.  Most recently, he has appeared in the [[Superman Returns (video game)|Superman Returns]] but only appeared in the cut scenes.
+
+==Full name==
+Lex Luthor's full first name has over the years been variously spelled as Alexis, Alexei, and Alexander (currently his official first name), but originally "Lex" was not intended to be short for anything. In Latin, the name "Lex" translates as "law." He was not given a first name until more than a decade after his first appearance.
+
+In ''[[Smallville (TV series)|Smallville]]'', his full name is Alexander, after [[Alexander the Great]], the historical general whom Lionel Luthor most admires and encourages his son to pattern himself after.
+
+==Homages and pastiches==
+{{Unreferenced|date=December 2006}}
+*[[Squadron Supreme]] and [[Supreme Power]]'s [[Master Menace]] based on ''Lex Luthor''.
+*[[Big Bang Comics]]'s  ''Dr. Dexter Cortex'' a mixture of [[Dr. Sivana]] and Lex Luthor.
+
+==Cultural references==
+
+*On the television series ''[[Robot Chicken]]'', which uses [[action figures]] and other toys to create [[stop motion]] animation shorts, a Lex Luthor figure was featured as part of a [[carpool]] of villains (along with 1980's toy/cartoon villains [[Skeletor]], [[Cobra Commander]], and [[ThunderCats#Villains|Mumm-Ra the Ever-Living]]).
+
+*Professional wrestler [[Kurt Angle]] has stated in many interviews he based his performance as Evil General Manager on Lex Luthor.
+
+*Rapper [[Eminem]] made several references to both [[Superman]] and Lex Luthor in his song "Rain Man" from his 2004 album [[Encore (album)|Encore]].
+
+*In the episode of [[Fairly Oddparents]] where Cosmo and Wanda go to their high school reunion, there is a [[bully]] named Luthor Lex, and the bully is bald.
+
+*A long-running feature in [[NGC Magazine]] was called Lex Luthor's Solve My Maze, a nonsensical puzzle (only occasionally was it actually a maze) which the reader was challenged to solve to "Win A Game!" It was based on a level from the infamous [[Superman 64]] in which Lex asks Superman to "solve my maze" (even though there was no maze in the vicinity, only a series of rings to fly through).
+
+*A villain named Lex Luthor, also voiced by [[Clancy Brown]], appeared on ''[[The Life and Times of Juniper Lee]]''. Show creator [[Judd Winick]] is a DC Comics writer so the name is assumed not to be a coincidence.
+
+==External links==
+*[http://www.dccomics.com/features/lex/lexwins.html ''Luthor Wins!''] - announcement of Lex Luthor's victory in the 2000 Presidential election, on the official DC Comics site
+*[http://captain.custard.org/league/php/profile.php?id=luthor&mode=profile The Captain's Unofficial Justice League Homepage:Lex Luthor]
+*[http://supermanica.info/wiki/index.php/Lex_Luthor Supermanica: Lex Luthor] Supermanica entry on the Pre-Crisis Lex Luthor
+*[http://www.newsarama.com/forums/showthread.php?s=e6d22c5a4ab308597a4aa87eb91ab9f3&threadid=57405 Newsarama: '''''Journey into Comics''' In Defense of Luthor'']
+*[http://www.fortunecity.com/tatooine/niven/142/recycleb/rb23.html The Remaking of Lex Luthor] From the [http://www.fortunecity.com/tatooine/niven/142/index.html Quarter Bin]
+*[http://www.dccomics.com/secret_files/pdfs/lex_luthor.pdf Secret Files Entry] for Lex Luthor from the official DC Comics website (requires [[Adobe Acrobat]])
+*[http://dccomics.com/sites/52/?action=headlines&i=5862 Lex Luthor Guilty AND Innocent!] "News article" on how Luthor had his name cleared in ''52''
+
+{{Superman}}
+{{Superman in other media}}
+
+<!--Smallville continuity-->
+
+[[Category:DC Comics supervillains|Luthor, Lex]]
+[[Category:DC Comics titles|Lex Luthor: Man of Steel]]
+[[Category:Fictional Americans in DC Comics|Luthor, Lex]]
+[[Category:Fictional atheists|Luthor, Lex]]
+[[Category:Fictional businesspeople|Luthor, Lex]]
+[[Category:Fictional evil geniuses|Luthor, Lex]]
+[[Category:Fictional inventors|Luthor, Lex]]
+[[Category:Fictional Kansans|Luthor, Lex]]
+[[Category:Fictional mad scientists|Luthor, Lex]]
+[[Category:Fictional megalomaniacs|Luthor, Lex]]
+[[Category:Fictional millionaires|Luthor, Lex]]
+[[Category:Fictional Presidents of the United States|Luthor, Lex]]
+[[Category:Superman villains|Luthor, Lex]]
+[[Category:Supervillains without aliases|Luthor, Lex]]
+[[Category:1940 introductions]]
+[[Category:Fictional possessed|Luthor, Lex]]
+[[Category:Fictional mutants|Luthor, Lex]]
+[[Category:Superhero Related]]
+
+[[bs:Lex Luthor]]
+[[de:Lex Luthor]]
+[[dv:ލެކްސް ލޫތަރ]]
+[[es:Lex Luthor]]
+[[fr:Lex Luthor]]
+[[it:Lex Luthor]]
+[[he:לקס לות'ור]]
+[[hu:Lex Luthor]]
+[[pt:Lex Luthor]]
+[[fi:Lex Luthor]]
+[[sv:Lex Luthor]]

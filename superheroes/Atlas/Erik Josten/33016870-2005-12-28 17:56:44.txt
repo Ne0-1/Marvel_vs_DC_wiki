@@ -1,0 +1,38 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Atlas (comics).png|250px]]
+|caption=Atlas, from the cover of ''New Thunderbolts'' #12<br>Art by [[Tom Grummett]].
+|comic_color=background:#ff8080
+|character_name=Atlas 
+|real_name=Erik Josten
+|publisher=[[Marvel Comics]]
+|debut=(as [[Power Man]] I) Avengers #21, (as Smuggler) Spectacular [[Spider-Man]] #49, (as [[Henry_Pym#Goliath_III|Goliath III]]) [[Iron Man]] Annual #7, (as Atlas) Thunderbolts #1
+|creators=Stan Lee, Jack Kirby
+|alliance_color=background:#ffc0c0
+|status=Active
+|alliances=[[Thunderbolts (comics)|Thunderbolts]]
+|previous_alliances=[[Lethal Legion]] and new [[Masters of Evil]], henchman for various villains.
+|aliases=[[Power Man]], Smuggler, Goliath III.
+|relatives=Conrad Josten (brother)
+|powers=Ability to increase in body size and mass.  Increase in size also results in increase in physical strength.
+|}}
+:''This article is about the Marvel Comics character Atlas. For the comics companies of that name, see [[Atlas Comics (1950s)]] or [[Atlas/Seaboard Comics]]''.
+
+'''Atlas''' (Erik Josten, formerly '''Power Man''', '''Smuggler''' and '''Goliath''') is a [[fictional character]], a former [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]] and member of the [[Thunderbolts (comics)|Thunderbolts]].
+
+Josten was originally a mercenary who was convinced by [[Enchantress (Marvel Comics)|The Enchantress]] to undergo the same 'ionic-ray' treatment (from a machine invented by [[Baron Zemo]]) that [[Wonder Man]] did, making him super-strong. Taking the name Power Man, he became The Enchantress's partner for a while, but later struck out on his own. He became a professional supervillain, even joining groups like the [[Lethal Legion]] and the [[Masters of Evil]]. During his time with the Masters of Evil, Josten was one of the villains who invaded the Avengers mansion and beat Hercules nearly to death.
+
+Eventually, Josten met [[Luke Cage]], a hero who had assumed the same name. The two fought, but Cage won. 
+
+Josten's powers were greatly reduced when [[Count Nefaria]] stole them (along those of the his other superhuman underlings.) His strength fading, he changed his costume and became a smuggler, taking the name The Smuggler.
+
+Later, he gained the ability to grow to giant size from the criminal [[Doctor Malus]], who used a sample of [[Henry Pym]]'s growth serum. He then took on the name Goliath, a name used previously by super heroes (see [[Goliath (comics)|Goliath]], [[Black Goliath]]) and again changed his costume.
+
+Josten joined a new version of the Masters of Evil, founded by the second Baron Zemo. When Zemo decided to disguise the Masters as a superhero team called The [[Thunderbolts (comics)|Thunderbolts]], Josten created the original identity (and costume) of Atlas.
+
+However, like most of the Thunderbolts, Atlas decided to reform and become a true superhero, even after the truth was revealed to the public. After absorbing the energy from one of Zemo's weapons, an "ionic bomb", Josten mutated into a "ionic energy creature" similar to the one Wonder Man had become. In this form he came to inhabit the body of Dallas Riordan, a woman he loved. However he's now back to being a size-shifter.
+
+Atlas is currently still a heroic member of the Thunderbolts.
+
+
+[[Category:Marvel Comics Thunderbolts members]]
+[[Category:Masters of Evil members]]

@@ -1,0 +1,26 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Black Fox
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Amazing Spider-Man]]'' #255 (Aug 1984)
+|creators=[[Tom DeFalco]] and [[Ron Frenz]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''The Black Fox''' is a fictional character in the [[Marvel Universe]].  He is a jewel thief with a long international criminal career. Though elderly, he was still active and looking to score one last big heist.  He came into conflict with the amazing [[Spider-Man]], often playing off Spider-Man's sympathy towards the elderly, and was forced by the [[Red Ghost]] to commit robberies for him.  He was also pursued by [[Silver Sable]] and [[Doctor Doom]], and his fiancee was murdered by the assassin [[Chance (comics)#Note|Chance]].
+
+==Other characters named Black Fox==
+An unrelated character called Black Fox was a heroic member of the [[First Line (comics)|First Line]] in ''[[Marvel: The Lost Generation]]''.
+
+{{Marvel-villain-stub}}
+[[Category:Spider-Man villains]]

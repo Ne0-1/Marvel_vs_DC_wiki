@@ -1,0 +1,37 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Warlock9.jpg|250px]]
+|caption=''Warlock'' #9 cover<br>Art by [[Pasqual Ferry]]
+|comic_color=background:#ff8080
+|character_name=Warlock
+|real_name=Warlock
+|publisher=[[Marvel Comics]]
+|debut=''New Mutants'' (vol. 1) #18
+|creators=[[Chris Claremont]]<br>[[Bill Sienkewicz]].
+|alliance_color=background:#ffc0c0
+|status=Active
+|alliances=
+|previous_alliances=[[New Mutants]]
+|aliases=Douglock
+|relatives=[[Magus (comics)#Magus_.28Technarchy.29|Magus]] ("siredam"/father), [[Cypher (comics)|Cypher]] (Doug Ramsey, absorbed memories of)
+|powers=body composed of a techo-organic material that can be reshaped at will and can unwittingly infect organic hosts with a transforming virus if not contained
+|}}
+'''Warlock''' is a [[fictional character]], a [[cybernetic]] [[Extraterrestrial life|alien]] [[superhero]] in the [[Marvel Comics]] [[Marvel Universe|universe]], affiliated with the original [[New Mutants]], a [[mutant]] [[superhero]] team.  He was created by [[Chris Claremont]] and [[Bill Sienkewicz]].
+
+==Character biography==
+
+Warlock is a member of the alien [[Technarchy]], a race of mechanical organisms that survive by infecting living creatures with the "techno-organic" transmode virus, before draining the life energy ("lifeglow") of the infected organism.  Warlock, unlike others of his race, possesses a distinctive degree of compassion, and as a result has been described as a mutant himself.  He is the son of the Technarch ruler, [[Magus (comics)|Magus]], who has battled the New Mutants and the [[X-Men]].  Warlock served as a member of the original New Mutants for most of that group's existence, and become a close friend of his teammate Doug Ramsey, alias [[Cypher (comics)|Cypher]], until Doug's death at the hands of the Ani-Mator.  Warlock was subsequently killed on the island nation of [[Genosha]] during the "X-Tinction Agenda" [[fictional crossover|crossover]].
+
+Later, a group of humans called the [[Phalanx (comics)|Phalanx]] appeared.  This group had been mutated into techno-organic forms via the transmode virus, which had been extracted from Warlock's corpse.  One of the Phalanx was "'''Douglock'''", a lookalike of Doug Ramsey who possessed all of Doug's memories and believed himself to actually be Doug Ramsey.  Douglock joined the [[Europe]]an mutant team [[Excalibur (comics)|Excalibur]].
+
+It was later revealed that Douglock was a reanimated Warlock who had been given Doug's memories. He then reverted to the name of Warlock and began a career as a solo adventurer,  briefly starring in his own title ''Warlock'', written by [[Louise Simonson]] (who had previously been responsible for killing both Doug and the original Technarchy Warlock off) and drawn by [[Pasqual Ferry|Paschalis Ferry]]. During his adventures, Warlock was joined by a young girl named Hope who he had unwittingly infected with the Techo-organic virus along with her pet monkey and a novice [[psychic]] named Psimon.
+
+==Appearances in other media==
+[[Image:goldmanlee02b.gif|thumb|left|Warlock in the X-Men animated series, with [[Beast (comics)|Beast]]]]A version of Warlock appeared in a two-part episode in the ''[[X-Men (animated series)|X-Men animated series]]''.
+
+[[Category:Excalibur members|Douglock]]
+[[Category:Fictional cyborgs]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics titles]]
+[[Category:New Mutants and X-Force members]]
+[[Category:X-Men members]]
+[[Category:Xavier Institute Student Body]]

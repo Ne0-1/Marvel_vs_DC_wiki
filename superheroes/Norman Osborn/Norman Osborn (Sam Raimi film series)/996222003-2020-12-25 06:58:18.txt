@@ -1,0 +1,149 @@
+{{short description|2002-07 Spider-Man film series character}}
+{{Infobox character
+| colour            = #003f2d
+| name              = Norman Osborn
+| series            = {{no italic|[[Sam Raimi]]'s}}  [[Spider-Man in film#Sam Raimi films|Spider-Man]]
+| image             = File:Norman Osborn Willem Dafoe.png
+| caption           = Willem Dafoe as Norman Osborn during the famous "mirror scene" in ''Spider-Man'' (2002)
+| first             = ''[[Spider-Man (2002 film)|Spider-Man]]'' (2002)
+| last              = ''[[Spider-Man 3]]'' (2007)
+| based_on          = {{Based on|[[Norman Osborn]]|[[Stan Lee]]|[[Steve Ditko]]}}
+| adapted_by        = [[David Koepp]]
+| portrayer         = [[Willem Dafoe]]
+| voice             = Willem Dafoe ([[Spider-Man (2002 video game)|2002 movie game]])<br />[[Roger L. Jackson]] (''[[Spider-Man: Friend or Foe|Friend or Foe]]'')
+| gender            = [[Male]]
+| species           = Human mutate
+| nationality       = [[Americans|American]]
+| significant_other = 
+| family            = [[Harry Osborn (Sam Raimi film series)|Harry Osborn]] (son)
+| occupation        = Head of [[Oscorp]]
+| weapon            = {{Plainlist|
+*[[Green Goblin]] technology
+*Pumpkin bombs
+*Bladed suit and glider
+*Rocket launcher
+}}
+}}
+'''Norman Virgil Osborn''' is a [[fictional character]] and the original [[secret identity]] of [[Green Goblin]] in [[Spider-Man in film|the Sam Raimi Spider-Man films]], adapted from the [[comic-book]] character [[Norman Osborn|of the same name]] created by [[Stan Lee]] and [[Steve Ditko]]. He is portrayed by [[Willem Dafoe]]. This rendition of the Green Goblin follows the [[Sam Raimi]] trilogy of ''[[Spider-Man (2002 film)|Spider-Man]]'', ''[[Spider-Man 2]],'' and ''[[Spider-Man 3]]'', also appearing in a video game adaptation derived from the first film with Dafoe reprising his role vocally.
+
+As depicted in the films, Norman is the father of [[Harry Osborn]], who is [[Spider-Man|Peter Parker]]'s best friend. Peter admires Norman for his work as the CEO of [[Oscorp]], though Norman faces some financial difficulties. Pressured to secure a government contract, Norman desperately tests performance enhancers on himself, developing a split personality in addition to enhanced physical abilities which results in the Green Goblin persona. After he is asked to step down as CEO, Norman lays siege to [[New York City]] in revenge as the Green Goblin until Spider-Man stops him. Norman's Green Goblin form continues to haunt his son Harry as a ghostly figure in ''Spider-Man 2'' and ''Spider-Man 3'', enticing his son to take revenge on Spider-Man.
+
+Dafoe's performance as the Green Goblin garnered wide critical praise and has been considered as one of the most iconic villains in superhero films.
+
+==Character development==
+===Design, casting and execution===
+
+[[File:OriginalGreenGoblin.jpg|thumb|The original animatronic headgear for the Green Goblin was created by [[Amalgamated Dynamics]]]]
+During development of what would eventually become the 2002 Spider-Man film, [[David Koepp]]'s rewrites of [[James Cameron]]'s original script had the [[Green Goblin]] as the main antagonist and added [[Doctor Octopus]] as the secondary antagonist.<ref>{{cite book |last= Gross |first= Edward |title= Spider-Man Confidential |pages=208–209 |publisher=[[Hyperion (publisher)|Hyperion]] |date=May 2002 |isbn= 0-7868-8722-2 }}</ref> Incoming director [[Sam Raimi]] felt the Green Goblin and the surrogate father-son theme between [[Norman Osborn]] and [[Spider-Man|Peter Parker]] would be more interesting, thus, he dropped Doctor Octopus from the film.<ref name="trivia track">{{cite video | title = Subtitled Factoids: Weaving the Web | type = DVD | publisher = Sony |year = 2002}}</ref> In June 2000, [[Columbia Pictures]] hired [[Scott Rosenberg]] to rewrite Koepp's material. Willem Dafoe was cast for the role of Norman Osborn in November 2000.<ref>{{cite web |url=http://movies.ign.com/articles/034/034471p1.html | title=More ''Spider-Man'' Casting News: Dafoe Is Green Goblin | website=IGN | date=November 17, 2000 | accessdate=January 23, 2007 | archive-url=https://web.archive.org/web/20071018202909/http://movies.ign.com/articles/034/034471p1.html | archive-date=October 18, 2007 }}</ref> [[Nicolas Cage]] (who would later portray [[Spider-Man Noir]] in ''[[Spider-Man: Into the Spider-Verse]]''), [[Jason Issacs]], [[John Malkovich]], and [[Jim Carrey]] turned down the role.<ref>{{cite news|author=Ethan Aames|title=Interview: Nicolas Cage on National Treasure|publisher=Cinema Confidential|date=September 18, 2004|url=http://www.cinecon.com/news.php?id=0411181|accessdate=October 10, 2007|archive-date=May 16, 2011|archive-url=https://web.archive.org/web/20110516140506/http://www.cinecon.com/news.php?id=0411181|url-status=live}}</ref><ref>{{cite news | url=http://www.scifi.com/scifiwire/art-main.html?2000-11/06/10.00.film | title=Malkovich Says No To Spidey | publisher=[[Syfy|Sci Fi Wire]] | date=November 6, 2000 | accessdate=January 23, 2007 | archiveurl=https://web.archive.org/web/20071012144659/http://scifi.com/scifiwire/art-main.html?2000-11%2F06%2F10.00.film | archivedate=October 12, 2007 | url-status=live }}</ref> Dafoe insisted on wearing the uncomfortable costume as he felt that a stuntman would not convey the character's necessary body language. The 580-piece suit took half an hour to put on.<ref name="hughes">{{cite book | author = David Hughes | title = Comic Book Movies | publisher = [[Virgin Books]] | year = 2003 | location = London | pages = 235–241 | isbn = 0-7535-0767-6}}</ref>
+
+Dafoe later called his role as the Green Goblin one of his favorites throughout his career, having enjoyed playing the unhinged character particularly due to his dual personalities, and balancing between a dramatic and comedic performance. In particular, he enjoyed the mirror scene in which Norman Osborn discovers and converses with the Green Goblin persona after murdering the Oscorp board of directors. Sam Raimi had given Dafoe a copy of [[Jekyll and Hyde]] to prepare for the scene, which was filmed in one take multiple times before Raimi decided to split it.<ref name="Dafoe enjoyment">{{Cite web |last=Holmes |first=Adam |date=2019-02-19 |title=Willem Dafoe Really Loved Playing The Green Goblin In Spider-Man |url=https://www.cinemablend.com/news/2467144/willem-dafoe-really-loved-playing-the-green-goblin-in-spider-man |access-date=2020-08-25 |website=CINEMABLEND |archive-date=2020-06-20 |archive-url=https://web.archive.org/web/20200620044024/https://www.cinemablend.com/news/2467144/willem-dafoe-really-loved-playing-the-green-goblin-in-spider-man |url-status=live }}</ref><ref>{{Cite AV media |url=https://www.youtube.com/watch?v=jiMguaZQREUt=202s |title=Willem Dafoe Breaks Down His Most Iconic Characters – GQ |date=February 15, 2019 |type=Video |language=English|publisher=[[YouTube]]}}</ref>
+
+===Costume design===
+
+Before settling on the look used in the film, the original headgear created for the Green Goblin was an [[animatronic]] mask created by Amalgamated Dynamics. The design was much more faithful to the comics than the finished product, and allowed for a full range of emotions to be expressed by the wearer. Ultimately, the mask was scrapped before an actor was chosen to play the Green Goblin, and a static, military-grade helmet was produced for the film instead, due to the animatronic concept being deemed "too creepy" by studio executives and due to technical difficulties and constraints.<ref>{{cite web |last1=Parker |first1=Ryan |title='Spider-Man': Willem Dafoe's Original Green Goblin Mask Was Amazing |url=https://www.hollywoodreporter.com/heat-vision/spider-man-willem-dafoes-original-green-goblin-mask-was-amazing-1019532 |website=The Hollywood Reporter |accessdate=October 4, 2018 |archive-date=October 4, 2018 |archive-url=https://web.archive.org/web/20181004190007/https://www.hollywoodreporter.com/heat-vision/spider-man-willem-dafoes-original-green-goblin-mask-was-amazing-1019532 |url-status=live }}</ref><ref>{{cite web |last1=Lammers |first1=Timothy |title=Spider-Man's Green Goblin Mask Was Originally Far More Comic Accurate |url=https://screenrant.com/raimi-spider-man-green-goblin-accurate-mask-dafoe/ |website=Screen Rant |accessdate=October 4, 2018 |archive-date=October 4, 2018 |archive-url=https://web.archive.org/web/20181004185734/https://screenrant.com/raimi-spider-man-green-goblin-accurate-mask-dafoe/ |url-status=live }}</ref><ref name="Behind the scenes">{{Cite web |last=Hutchinson |first=Sam |date=2020-06-01 |title=Spider-Sense: 10 Behind-The-Scenes Details Of Sam Raimi Trilogy Fans Never Knew |url=https://screenrant.com/spider-man-sam-raimi-tobey-maguire-trilogy-trivia/ |access-date=2020-08-25 |website=ScreenRant |language=en-US |archive-date=2020-06-18 |archive-url=https://web.archive.org/web/20200618102014/https://screenrant.com/spider-man-sam-raimi-tobey-maguire-trilogy-trivia/ |url-status=live }}</ref>
+
+==Characterization and themes==
+As portrayed in the Sam Raimi film series, Norman Osborn is a workaholic scientist/businessman, who has a complicated relationship with his son Harry. A career-focused man who prioritizes science, business and success above all else and despite genuinely caring for his son, has a distant relationship with him and is quite disappointed in Harry, who is meant to be Norman's heir, but lacks his father's ambition, intellect, strength and will to succeed and control.
+
+The Green Goblin is Norman Osborn's second personality, born because of the exposure to the experimental performance-enhancing gas. The Green Goblin may perhaps be the unrestrained manifestation of Norman Osborn's ambition for power, desire to succeed, and hatred for anyone who may be a hindrance to his control, such as greedy contractors and board members, and his destined enemy, the superhero Spider-Man. He is a violent, sadistic and unhinged psychopath and an over-ambitious maniac who believes that his power gives him endless potential and places him above normal people. He even attempts to invite Spider-Man to join him, believing that as another powerful being, they both could accomplish many things together. He refuses to give any value to human life and kills whomever stands in his way without hesitation. Although his mental stability has been badly damaged, the Green Goblin is extremely intelligent and clever, making him even more dangerous.
+
+In the comics, Norman Osborn is either depicted as having [[dissociative identity disorder|dual personalities]] (in original/classic depictions of the Spider-Man mythos) or utilizing the Goblin persona as a mask for his villainous deeds and being truly evil (as in later depictions), depending on the writer. The films went with the former route, making the Goblin personality separate from Norman's normal personality.<ref name="Dafoe enjoyment" />
+
+Writing in 2020, James Whitbrook of ''[[Gizmodo]]'' contrasts [[Tobey Maguire]]'s Peter Parker / Spider-Man with Willem Dafoe's Norman Osborn / Green Goblin and [[James Franco]]'s Harry Osborn in the way they choose to exercise their power in the film series, as he notes that the leading men in the series appear to hold some form of power. While Peter learns to tame his abilities and [[With great power comes great responsibility|accept the responsibility that comes with it]], Norman gives into fear of losing his prestigious position at his company, choosing to pursue an alternate power in the form of inadvertently becoming the Green Goblin. As a result, he attacks his former colleagues and the people he cares about, namely Harry and Peter, while descending further into madness and insanity.<ref>{{Cite web |last=Whitbrook |first=James |date=2020-08-02 |title=Sam Raimi's Spider-Man is a Cautionary Tale About the Power Men Wield |url=https://www.gizmodo.co.uk/2020/08/sam-raimis-spider-man-is-a-cautionary-tale-about-the-power-men-wield/ |access-date=2020-08-25 |website=Gizmodo UK |language=en |archive-date=2020-08-05 |archive-url=https://web.archive.org/web/20200805081353/https://www.gizmodo.co.uk/2020/08/sam-raimis-spider-man-is-a-cautionary-tale-about-the-power-men-wield/ |url-status=live }}</ref>
+
+==Film appearances==
+[[File:Green Goblin Spider-Man (2002).png|thumb|The final Green Goblin suit as it appears in ''[[Spider-Man (2002 film)|Spider-Man]]''.|alt=]]
+===''Spider-Man'' (2002)===
+{{main|Spider-Man (2002 film)}}
+Norman Osborn first appears as his limousine driver drops his son [[Harry Osborn (Sam Raimi film series)|Harry]] off for a school field trip. Harry introduces Norman to his friend [[Peter Parker (Sam Raimi film series)|Peter Parker]], whom he takes an immediate liking to. Norman is the head of [[Oscorp]], a company contracted by the [[United States Armed Forces]] to create a new super-soldier serum. Osborn's colleague, Dr. [[Mendel Stromm]], feels it important to reveal to the military official overseeing the project that some of the test subjects have gone insane. Hearing this, Osborn is threatened with a tight deadline. Needing to prove his formula can succeed, Osborn experiments on himself. The process drives him insane, however, and he kills Stromm. Upon waking up back home, he has no recollection of what had happened. At the high school graduation ceremony for Peter, Harry and [[Mary Jane Watson (Sam Raimi film series)|Mary Jane Watson]], Norman gives Peter his condolences as his [[Uncle Ben]] had recently been killed.
+
+The military decides to give the super-soldier contract to another company, Quest Aerospace, and in revenge, a crazed Norman, who steals an Oscorp suit and glider, kills several high-ranking military officers and Quest scientists present at the test. Although Quest Aerospace's prototype is destroyed, the company decides to expand and, in doing so, assumes control of Oscorp on the condition that Norman Osborn step down as CEO. In retaliation, Norman suits up again, killing Oscorp's board of directors during a festival in [[Times Square]], thus removing the last threat to his control of Oscorp, and inadvertently almost killing Mary Jane. His appearance at the festival also marks the beginning of his animosity towards [[Spider-Man]]. Instead of hating his new enemy, however, Norman views Spider-Man as the son that he always wanted, strong and intelligent, and attempts to recruit him to his side after he discovers his crazed second personality through a [[hallucination]].
+
+Norman next leads an attack at the [[Daily Bugle]] to question [[J. Jonah Jameson]], who had dubbed his alter-ego as the "[[Green Goblin]]", for the identity of the photographer who takes pictures of Spider-Man. Peter was at the office during the attack and soon shows up as Spider-Man. The Goblin gasses him and takes him to a rooftop, where he offers Spider-Man a partnership and belittles his choice to become a hero, warning that eventually, the city will turn against him. This starts to become true when the Bugle in response to the attack prints a story claiming the Goblin and Spider-Man are allies.
+
+The Goblin later baits Spider-Man to a burning apartment, disguising himself as a helpless old woman, and demands Spider-Man's choice, to which the latter refuses to work with him. The two fight, leaving Spider-Man with a cut on his arm. At Thanksgiving dinner, Peter's [[Aunt May]] invites Mary Jane, Harry, and Norman. During the dinner, Norman sees the wound and realizes Peter's identity. Norman then gets up to leave, claiming "something came up". Upon Harry persuading his father to stay, Norman insults Mary Jane, whom Harry was seeing at the time. He converses with his Goblin persona and resolves to get to Spider-Man's heart by harming those closest to him, attacking and hospitalizing May. After Harry confides to Norman that MJ seems to like Peter, Norman kidnaps Mary Jane to get Spider-Man's attention, forcing him to choose between saving her and a [[Roosevelt Island Tramway]] car full of children. Upon the Goblin dropping both into the river, Peter manages to save both much to the former's chagrin. 
+
+The Goblin whisks Spider-Man away and brutally beats him, threatening to make MJ's death "nice and slow". An enraged Peter stops the Goblin from stabbing him, then brutally counterattacks, beating the Goblin into submission. Norman then takes off his mask and reveals himself to Peter, with his normal personality apparently surfacing. He begs for Peter's forgiveness, saying that he was like a son to him, but Peter retorts that his true father was Ben Parker. Norman then attempts to impale Peter with his bladed glider, but the latter senses the attack and dodges, allowing the glider to instead fatally stab Norman, who with his dying breath, tells Peter not to tell Harry of his Goblin persona. Peter takes Norman's body back to the Osborn house; Harry arrives to find him standing over his father's body. Harry seizes a gun, intent on shooting Spider-Man, but Peter escapes and hides Norman's equipment. At Norman's funeral, Harry holds Spider-Man responsible for his father's death and vows revenge, not knowing of his father's deeds.
+
+===''Spider-Man 2'' (2004)===
+{{main|Spider-Man 2}}
+Norman returns as a hallucination of Harry after the latter discovers Peter is Spider-Man in ''Spider-Man 2''. Norman, appearing to Harry in a mirror, entices his son to avenge him while Harry is reluctant to kill his best friend. Harry shatters the mirror only to find his father's equipment and technology behind it.
+
+===''Spider-Man 3'' (2007)===
+{{main|Spider-Man 3}}
+Norman's ghostly presence appears again in ''Spider-Man 3'' after Harry, now as the "New Goblin", recovers his memories. Norman's ghost teaches his son to go after Peter's heart. However, Harry eventually finds out the truth about his father's death and gives up his vendetta against Peter, helping him in a battle against [[Sandman (Marvel Comics)|Sandman]] and [[Venom (Marvel Comics character)|Venom]] and giving his own life to save Peter.
+
+==In other media==
+===Television===
+This version of Norman Osborn is mentioned in ''[[Spider-Man: The New Animated Series]]'', a [[Computer-generated imagery|CGI]]-animated television series which serves as a loose alternate continuation of the first ''Spider-Man'' film. As in the films, Harry holds a grudge against Spider-Man for his father's death, even though he's not aware of Norman's criminal activities as the Green Goblin.
+
+===Video games===
+*Norman Osborn/Green Goblin appears in the [[Spider-Man (2002 video game)|video game adaptation]] of the 2002 film, with Willem Dafoe reprising his role in a vocal capacity, making him and Tobey Maguire the only two actors from the film to do so.
+
+*This version of Norman Osborn appears in his Green Goblin persona in the 2007 game ''[[Spider-Man: Friend or Foe]]'', voiced by [[Roger L. Jackson]]. The game borrows character designs from the ''Spider-Man'' film trilogy, but they are otherwise unrelated. The Goblin first appears in the openning [[cutscene]], fighting Spider-Man and the New Goblin alongside other villains.  After the battle, the group is attacked by a swarm of P.H.A.N.T.O.M.s, and the Goblin, the other villains, and the New Goblin are suddenly teleported elsewhere while Spider-Man is rescued by [[S.H.I.E.L.D.]] The Goblin is then brainwashed by [[Mysterio|the villainous mastermind]] behind the P.H.A.N.T.O.M.s and sent to [[Tokyo]] to retrieve a meteor shard. There, the player fights him on top of an Oscorp tower, and Spider-Man destroys his mind-controlling amulet, restoring his free will. Afterward, the Goblin, seeking revenge on whoever brainwashed him, reluctantly joins forces with Spider-Man, and becomes a playable character for the remainder of the game.
+
+==Reception and legacy==
+[[File:Willem Dafoe Cannes.jpg|thumb|right|175px|[[Willem Dafoe]] at the [[2005 Cannes Film Festival]]]]
+Willem Dafoe's role in the first ''Spider-Man'' film was widely well-received, including a ''[[New York Daily News]]'' reviewer who felt he put "the scare in archvillain" and [[Peter Bradshaw]] of ''[[The Guardian]]'' who deemed him "strong support".<ref>{{cite web|last1=Mathews|first1=Jack|title=What A Wondrous Web They Weave|url=http://www.nydailynews.com/archives/nydn-features/wondrous-web-weave-article-1.479105|website=[[New York Daily News]]|accessdate=April 11, 2018|date=May 3, 2002|archive-date=April 12, 2018|archive-url=https://web.archive.org/web/20180412082020/http://www.nydailynews.com/archives/nydn-features/wondrous-web-weave-article-1.479105|url-status=live}}</ref><ref>{{cite web|last1=Bradhsaw|first1=Peter|title=Spider-Man|url=https://www.theguardian.com/film/2002/jun/14/1|website=[[The Guardian]]|accessdate=April 11, 2018|date=June 14, 2002|archive-date=December 10, 2018|archive-url=https://web.archive.org/web/20181210071949/https://www.theguardian.com/film/2002/jun/14/1|url-status=live}}</ref><ref>{{cite web|last1=Scott|first1=A.O.|title=Muscles Ripple, Webs Unfurl, Hormones Race|url=https://www.nytimes.com/2002/05/03/movies/film-review-muscles-ripple-webs-unfurl-hormones-race.html|website=[[The New York Times]]|accessdate=April 11, 2018|date=May 3, 2002|archive-date=April 12, 2018|archive-url=https://web.archive.org/web/20180412003051/https://www.nytimes.com/2002/05/03/movies/film-review-muscles-ripple-webs-unfurl-hormones-race.html|url-status=live}}</ref> However, the Green Goblin costume used in the first film was met with a mixed response, with ''[[IGN]]'''s Richard George to comment years later: "We're not saying the comic book costume is exactly thrilling, but the Goblin armor (the helmet in particular) from ''Spider-Man'' is almost comically bad... Not only is it not frightening, it prohibits expression."<ref>{{cite web | first = Richard | last = George | title = Spider-Man in Film: Volume One | website = IGN | date = April 19, 2007 |url=http://uk.comics.ign.com/articles/782/782199p3.html | accessdate = April 27, 2007 | url-status=dead | archive-url=https://web.archive.org/web/20071017233239/http://uk.comics.ign.com/articles/782/782199p3.html | archive-date = October 17, 2007 | df = mdy-all }}</ref>
+
+Despite some criticism of the costume, Dafoe's rendition of the Green Goblin is now acclaimed as one of the greatest superhero film villains. ''Vulture'' ranked the Green Goblin 19th on the top 25 superhero film villains in 2018,<ref>{{Cite web |last=Riesman |first=Abraham |date=2018-02-20 |title=The 25 Best Movie Supervillains, Ranked |url=https://www.vulture.com/article/the-25-best-movie-supervillains-ranked.html |access-date=2020-08-26 |website=Vulture |language=en-us |archive-date=2020-04-14 |archive-url=https://web.archive.org/web/20200414115737/https://www.vulture.com/article/the-25-best-movie-supervillains-ranked.html |url-status=live }}</ref> while ''Collider'' ranked him the 5th greatest Spider-Man film villain in 2020.<ref>{{Cite web |last=Reimann |first=Tom |date=2020-06-29 |title=Spider-Man’s Movie Villains, Ranked According to Bodacity |url=https://collider.com/spider-man-movie-villains-ranked/ |access-date=2020-08-26 |website=Collider |language=en-US |archive-date=2020-07-15 |archive-url=https://web.archive.org/web/20200715222737/https://collider.com/spider-man-movie-villains-ranked/ |url-status=live }}</ref> Steven Scaife of ''[[Vice (magazine)|Vice]]'' wrote that "Dafoe's Goblin represents everything that’s fun about superhero villains, as well as everything that’s great about Raimi's campy films." He also commended Dafoe's voice and body language, which helped overcome the bulky Green Goblin costume that he compared to that of a ''[[Power Rangers]]'' villain.<ref>{{Cite web |last=Scaife |first=Steven |date=December 2017 |title=Willem Dafoe's Green Goblin Was the Best Superhero Villain, Actually |url=https://www.vice.com/en_uk/article/vbzmkx/spider-man-willem-dafoe-green-goblin-essay |access-date=2020-08-25 |website=www.vice.com |language=en |archive-date=2020-05-14 |archive-url=https://web.archive.org/web/20200514190955/https://www.vice.com/en_uk/article/vbzmkx/spider-man-willem-dafoe-green-goblin-essay |url-status=live }}</ref> Looking back at the Sam Raimi trilogy, [[Tom Holland (actor)|Tom Holland]], who [[Peter Parker (Marvel Cinematic Universe)|portrays Spider-Man]] in the [[Marvel Cinematic Universe]], in addition to his co-star [[Jacob Batalon]], praised Dafoe's performance in the trilogy, calling the Green Goblin a "landmark villain". The two actors praised Dafoe's ability to "bring a difficult character to life" and particularly the mirror scene where he portrays both Norman Osborn and the Green Goblin persona.<ref>{{Cite web |last=Perrine |first=Aaron |date=2020-08-07 |title=Spider-Man: Far From Home Star Tom Holland Looks Back on Willem Dafoe's Green Goblin |url=https://comicbook.com/movies/news/spider-man-far-from-home-tom-holland-willem-dafoe-green-goblin/ |access-date=2020-08-25 |website=Movies |language=en |archive-date=2020-08-10 |archive-url=https://web.archive.org/web/20200810065937/https://comicbook.com/movies/news/spider-man-far-from-home-tom-holland-willem-dafoe-green-goblin/ |url-status=live }}</ref>
+===Accolades===
+{| class="wikitable"
+|+
+! scope="col" |Year
+! scope="col" |[[Spider-Man in film|Film]]
+! scope="col" |Award
+! scope="col" |Category
+! scope="col" |Result
+! scope="col" class="unsortable"|{{abbr|Ref.|Reference}}
+|-
+| 2002
+| ''Spider-Man''
+| [[New York Film Critics Circle]] 
+| [[New York Film Critics Circle Award for Best Supporting Actor|Best Supporting Actor]]
+| {{Won}}
+|
+|-
+| rowspan="2"| 2003
+| rowspan="2"| ''Spider-Man''
+| rowspan="2"| [[2003 MTV Movie Awards|MTV Movie Awards]]
+| Best Villain
+| {{nom}}
+| style="text-align: center;" | <ref name="MTV">{{cite web|url=http://www.mtv.com/ontv/movieawards/2003/|title=2003 MTV Movie Awards|work=[[MTV]]|accessdate=June 23, 2011|archive-date=April 21, 2008|archive-url=https://web.archive.org/web/20080421195306/http://www.mtv.com/ontv/movieawards/2003/|url-status=live}}</ref>
+|-
+| Best Fight (with Tobey Maguire)
+| {{nom}}
+| style="text-align: center;" | <ref name="MTV" />
+|}
+
+==See also==
+* [[Green Goblin in other media]]
+
+==References==
+{{reflist}}
+
+[[File:CC-BY-SA icon.svg|50px]] The plot description and characterization were adapted from [https://spiderman-films.fandom.com/wiki/Spider-Man_(film) Spider-Man (film)], [https://spiderman-films.fandom.com/wiki/Spider-Man_2 Spider-Man 2], and [https://spiderman-films.fandom.com/wiki/Spider-Man_3 Spider-Man 3] at Spider-Man films Wiki and [https://marvel-movies.fandom.com/wiki/Norman_Osborn_(Earth-96283) Norman Osborn (Earth-96283)] at Marvel Movies Wiki, which are available under a [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-Share Alike 3.0 (Unported) (CC-BY-SA 3.0) license].
+== External links ==
+*{{Marveldatabase|Norman Osborn (Earth-96283)}}
+
+{{Spider-Man films}}
+{{Spider-Man characters}}
+{{Green Goblin}}
+
+{{DEFAULTSORT:Osborn, Norman}}
+[[Category:Spider-Man (2002 film series)]]
+[[Category:Film characters introduced in 2002]]
+[[Category:Spider-Man film characters]]
+[[Category:Action film villains]]
+[[Category:Experimental medical treatments in fiction]]
+[[Category:Fictional business executives]]
+[[Category:Fictional scientists]]
+[[Category:Fictional socialites]]
+[[Category:Fictional engineers]]
+[[Category:Fictional characters with multiple personalities]]
+[[Category:Fictional goblins]]
+[[Category:Fictional terrorists]]
+[[Category:Fictional kidnappers]]
+[[Category:Fictional mass murderers]]
+[[Category:Green Goblin]]
+[[Category:Characters created by Sam Raimi]]

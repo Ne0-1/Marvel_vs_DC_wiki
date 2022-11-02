@@ -1,0 +1,59 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Corvus Glaive
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[Marvel Comics]]
+| debut          = "Free Comic Book Day Vol 2013 Infinity"
+| first_series   = 
+| first_episode  = 
+| first_comic    = 
+| creators       = [[Jonathan Hickman]]<br>[[Jim Cheung]]
+| voiced_by      = 
+| based_on       = 
+| alter_ego      = 
+| full_name      = 
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = Black Order<br>[[Cabal (comics)|Cabal]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = Super-Strength<br>Super-Speed<br>Enhanced Durability<br>Enhanced Endurance
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = 
+| sortkey        = {{PAGENAME}}
+| addcharcat#    = 
+}}
+
+'''Corvus Glaive''' is a fictional character, a supervillain from [[Marvel Comics]].
+
+==Fictional character biography==
+Corvus Glaive is one of the Black Order, who serve [[Thanos]].
+
+On a distant planet, an alien being known as Outrider returns (Outriders are genetically produced assassins that serve their masters) and brings a message about a planet known as Ahl-Agullo to Corvus Glaive. Corvus Glaive relays this message for his master and asks if this pleases him. Corvus Glaive's master replies "yes" as the Outrider is sent on another mission. Corvus Glaive appears on Ahl-Agullo and demands a tribute from the king of the Ahl-Agullo and references that its planet's greatest warrior and son is dead. Corvus Glaive then reveals that the last time his master came to this world, he burned this world down and asks the king to pay a tribute. Returning to his master, Corvus Glaive gives his master Ahl-Agullo's tribute and asks if this tribute pleases him. Corvus' master, Thanos, replies "yes". The tribute is revealed to be a crate containing the severed heads of many Ahl-Agullo citizens.<ref>''Free Comic Book Day Vol 2013 Infinity''</ref>
+
+Corvus Glaive and the rest of the Black Order (which also consisted of Black Dwarf, Ebony Maw, [[Proxima Midnight]], and Supergiant) arrive on Earth and appeared at the different parts of the Earth to confront the [[Illuminati (comics)|Illuminati]]. Corvus Glaive and Supergiant arrived at the [[X-Mansion|Jean Grey School for Higher Learning]].<ref>''New Avengers'' Vol. 3 #8</ref>
+
+After the Inhumans deny a tribute to Corvus Glaive, Thanos appears on [[Attilan]] to meet with [[Black Bolt]]. Black Bolt attacks Thanos with his hypersonic voice.<ref>''Infinity'' #3</ref>
+
+The event ended with the defeat of Thanos's forces and the capture of Thanos and his generals Proxima Midnight and Corvus Glaive, all three of whom were imprisoned in amber in "a state of living death" by Thanos's son Thane.<ref>''Infinity'' #6</ref> They joined the [[Black Swan (comics)|Black Swan]] and [[Terrax|Terrax the Enlightened]] as Illuminati prisoners.{{issue|date=July 2014}} They were later freed by [[Namor]] and formed the new [[Cabal (comics)|Cabal]].<ref>''New Avengers'' Vol. 3 #23</ref>
+
+==Powers and abilities==
+Corvus Glave has enhanced strength, speed, durability, and endurance.
+
+It is also shown that when he is wielding his blade, Corvus Glave cannot die.{{issue|date=July 2014}}
+
+==In other media==
+===Video games===
+* Corvus Glaive appears in ''[[Marvel: Avengers Alliance]]''. He appears in Spec-Ops #13 which is based on the ''Infinity'' storyline.
+
+==References==
+{{reflist}}
+
+[[Category:Marvel Comics supervillains]]
+
+{{Marvel-villain-stub}}

@@ -1,0 +1,44 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Dr. Farley Stillwell
+|real_name=
+|species=Human
+|publisher=[[Marvel Comics]]   
+|debut=''[[The Amazing Spider-Man]]'' #20 (1965)
+|creators=[[Stan Lee]]<br>[[Steve Ditko]]
+|alliance_color=background:#c0c0ff
+|alliances=
+|aliase=
+|powers=Scientific genius
+}}
+
+'''Farley Stillwell''' is a scientist in the [[Marvel Comics]] universe.
+
+==Fictional character biography==
+When [[J. Jonah Jameson]] first hired [[Spider-Man|Peter Parker]], he was amazed at how he managed to obtain the pictures. He hired private investigator [[Mac Gargan]] to look into this. When J. Jonah Jameson saw an article about inducing animal mutations into humans, he visited the scientist that established this experiment: Dr. Farley Stillwell. At first thinking that he's a crack-pot, he saw this as an opportunity to take down Spider-Man. When it came to first seen Dr. Farley Stillwell in his lab, J. Jonah Jameson had him experiment on Mac Gargan. With Farley giving Mac Gargan a high-tech scorpion-suit, the Scorpion was born.
+
+Shortly after the experiment, Farley ran some tests and found out that his experiment wasn't a true success as he knew that Scorpion would lose his sanity as he got stronger. Creating an antidote, Farley headed to where Spider-Man was fighting the Scorpion. Upon learning the side effects of the formula from Dr. Farley Stillwell, Scorpion didn't want to lose his powers and climbed up a building. Farley went up after him and lost his grip. As he fell, Dr. Stillwell threw the serum at Gargan in a vain hope to cure him. He missed and fell to his death.
+
+It is later revealed that he had a brother named [[Harlan Stillwell]] who used the experiment to create the [[Human Fly (comics)|Human Fly]].
+
+==Other versions==
+===[[House of M]]===
+In a flashback, Dr. Farley Stillwell was among the scientists who experimented on [[Luke Cage]].{{issue}}
+
+==Other media==
+===Television===
+* Dr. Farley Stillwell appeared in the 1960s ''[[Spider-Man (1967 TV series)|Spider-Man]]'' episode "Never Step on a Scorpion" voiced by [[Tom Harvey]].{{Fact|date=November 2008}}
+* Dr. Farley Stillwell appeared in the 1990s ''[[Spider-Man (1994 TV series)|Spider-Man]]'' episode "Sting of the Scorpion" voiced by [[Michael Rye]]. J. Jonah Jameson hired him to turn Mac Gargan into the Scorpion. When Scorpion wanted Farley to restore him later on, Farley ended up knocked out and hospitalized. In a flashback in "Make a Wish," Farley was the scientist that led the experiment involving neogenics, an accident during this enabled Peter Parker to become Spider-Man. In "The Final Nightmare," Farley was abducted from the hospital by the Scorpion who took him to the laboratory where Spider-Man, Dr. Curt Connors, and [[Vulture]] were. During the fight between Spider-Man, Vulture, and Scorpion, Dr. Farley Stillwell was about to destroy a computer that has genetic information when Dr. Curt Connors tried to intervene saying that it would help cure him. When Farley asks him what it would cure him of, Curt turned into the [[Lizard (comics)|Lizard]] and attacked. Spider-Man took down Lizard as Farley destroys the computer which causes the explosion. Farley later explains to Curt that he has mesmerized all the knowledge of the genetic information and states that he won't be seeing him again.{{Fact|date=November 2008}}
+
+===Video games===
+* In the video game adaption to ''[[Spider-Man 3 (video game)|Spider-Man 3]]'', a female Dr. Stillwell (voiced by [[Nika Futterman]]) is based on Dr. Farley Stillwell.
+
+==External links==
+* [http://www.marvel.com/universe/Stillwell,_Farley Farley Stillwell] at Marvel.com
+
+{{Spider-Man}}
+
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics supervillains]]

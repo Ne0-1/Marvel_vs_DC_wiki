@@ -1,0 +1,46 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Starlordmu0.png|225px]]
+|caption=Marvel Preview #4, art by [[Gray Morrow]]
+|character_name=Star-Lord
+|publisher=[[Marvel Comics]]
+|debut=''Marvel Preview'' #4, January ([[1976]])
+|creators=[[Steve Englehart]] (writer)<br>Steve Gan (artist)
+|real_name=Peter Quill
+|species = Spartoi
+|homeworld = <!-- optional -->
+|alliances= United Front, [[Shi'ar Imperial Guard]], Ship, Master of the Sun, Jason of Sparta
+|aliases=
+|supports=<!--optional-->
+|powers=None:<br>
+*Special space suit<br>
+*Element gun<br>
+*Cybernetic implants<b>
+*Skilled marksman & swordsman
+|}}
+
+
+'''Star-Lord''' is a [[fictional character]] published by [[Marvel Comics]]. He debuted in ''Marvel Preview'' #4, January ([[1975]]). He was created by writer [[Steve Englehart]] and artist Steve Gan.
+
+==Fictional character biography==
+Star-Lord is Peter Quill, a former astronaut who was the son of Meredith Quill, an Earth woman, and Jason, emperor of the Spartoi, an alien humanoid civilization. 
+
+==Powers and abilities==
+As Star-Lord, Quill possesses augmented strength and resiliency and controls an "element gun", a pistol capable of conjuring one of the four elements. He is also psychically linked to his starship, which is a living entity.
+
+==Resources==
+*[http://www.marvunapp.com/Appendix/starlor1.htm Marvel Universe Appendix: Star-Lord]
+*[http://www.marvunapp.com/Appendix/jasonspa.htm Marvel Universe Appendix: Jason of Sparta]
+*[http://www.marvunapp.com/Appendix/mastersn.htm Marvel Universe Appendix: Master of the Sun]
+*[http://www.marvunapp.com/Appendix/shipstld.htm Marvel Universe Appendix: Ship]
+
+==External links==
+*[http://www.marvel.com/comics/23 Marvel.com - Official Annihilation webpage]
+*[http://www.newsarama.com/marvelnew/annihilation/Reports/skrull/NovaReport.html  Annihilation War Report: Nova]
+
+[[Category:Marvel Comics superheroes]]
+[[Category:Science fiction characters]]
+
+
+{{Marvel-Comics-stub}}
+{{comics-char-stub}}
+{{sf-char-stub}}

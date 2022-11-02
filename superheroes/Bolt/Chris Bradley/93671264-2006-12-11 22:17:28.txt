@@ -1,0 +1,29 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image =[[Image:BoltComics.jpg|200px]] 
+|caption =Bolt, from ''New Warriors'' (vol. 2) #5. <br>Pencils by [[Karl Kerschl]] and [[Chris Renaud (artist)|Chris Renaud]]. 
+|comic_color = background:#ff8080
+|character_name = Bolt
+|real_name = Christopher "Chris" Bradley
+|species=[[mutant (fictional)|Human Mutant]]
+|publisher = [[Marvel Comics]]
+|debut = ''X-Men Unlimited'' #8
+|creators = 
+|alliance_color = background:#ffc0c0
+|status = Deceased
+|alliances = 
+|previous_alliances = [[Maverick (comics)|Maverick]], [[New Warriors]],  [[Underground (comics)|Underground]], [[Gene Nation]]
+|aliases = Maverick
+|powers = Able to generate and control electricity
+}}
+
+'''Bolt (Christopher Bradley)''', also known as '''Maverick''', is a [[fictional character]], a young [[mutant (comics)|mutant]] in the [[Marvel Universe]], who first appeared in ''[[X-Men Unlimited]]'' #8. It was revealed he had the [[Legacy Virus]], and he began training in the use of his powers at the [[X-Mansion|Xavier Institute for Gifted Youngsters]].
+He soon found a mentor in [[Maverick (comics)|Maverick]] and stayed with him for a while before joining the [[New Warriors]]. After the break-up of his New Warriors team, he teamed up again with Maverick.
+
+When Maverick disappeared and was believed dead, Bolt took the Maverick alias for himself and joined the [[Underground (comics)|Underground]], a group founded by [[Cable (comics)|Cable]] to battle [[Weapon X]] and expose its existence. Following the group's defeat, Chris remained in the Underground, though it was taken over by [[Marrow (comics)|Marrow]] and remade into a new incarnation of the extremist mutant supremacist group [[Gene Nation]]. Chris did not leave as he wanted to undermine Gene Nation from within and preventing its terrorist attacks, though he was ultimately killed by his former mentor himself, now bearing the codename '''Agent Zero''', who did not find out Chris had been the new Maverick until it was too late.
+{{Marvel-Comics-stub}}
+
+[[Category:Gene Nation members]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics mutants]]
+[[Category:Fictional characters with the power to manipulate electricity]]
+[[Category:New Warriors]]

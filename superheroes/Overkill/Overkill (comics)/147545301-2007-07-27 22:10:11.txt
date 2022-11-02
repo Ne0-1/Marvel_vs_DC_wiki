@@ -1,0 +1,28 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Overkill
+|real_name= unrevealed
+|species=[[Mutant (Marvel comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''X-Statix #1''
+|creators=
+|alliance_color=background:#ffc0c0
+|status= 
+|alliances=
+|previous_alliances=[[O-Force]]
+|aliases=
+|relatives=
+|powers= Energy projection
+|}}
+'''Overkill''' is a [[fictional character]], a [[Mutant (Marvel comics)|mutant]] in the [[Marvel Comics]] Universe. His first appearance was in ''X-Statix #1''.
+
+==Fictional character biography==
+Overkill was a tryout from the [[O-Force]] [[television show]]. He won a place on the team and joined them in their missions. He didn't seem to care very much for his teammates, given the fact that he left [[Ocean (Marvel Comics)|Ocean]] to die during their mission against [[Fan Boy|Arnie Lundberg]]. 
+
+==Powers and abilities==
+He can project a form of energy from his hands.
+
+[[Category:Marvel Comics supporting characters]]
+[[Category:Marvel Comics mutants]]

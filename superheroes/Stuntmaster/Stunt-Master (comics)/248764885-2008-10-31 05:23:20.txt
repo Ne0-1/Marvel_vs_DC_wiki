@@ -1,0 +1,31 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Stuntmaster
+|real_name=George Smith
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Daredevil (Marvel Comics)|Daredevil]] #58'' (Nov 1969)
+|creators=[[Roy Thomas]] and [[Gene Colan]]
+|alliance_color=background:#c0c0ff
+|alliances=
+|aliases=
+|powers=
+|}}
+
+'''Stuntmaster''' is a fictional character in the [[Marvel Universe]].
+
+George Smith was a retired overage stuntman who became a costumed criminal under [[Crime-Wave]] and fought [[Daredevil (Marvel Comics)|Daredevil]].  Later, after redeeming himself, Stuntmaster became a hero.  
+
+Later, Smith became a television actor, working with [[Ghost Rider (Johnny Blaze)|Johnny Blaze]] on the Stuntmaster TV show.  The [[Enforcer (comics)|Enforcer]] and [[Aqueduct (comics)|Water Wizard]] menaced Blaze on the set of the show.  The original [[Eel (comics)#Leopold Stryke|Eel]] worked on his show for a time as a technical advisor.
+
+==Other versions==
+===MC2===
+Stuntmaster is mentioned in ''[[A-Next]]'' #1 as being Los Angeles' only superhero. In ''A-Next'' #5, [[Thunderstrike (Kevin Masterson)|Thunderstrike]], who comes from that city, is seen to have a Stuntmaster poster on the wall in his New York apartment.
+
+
+[[Category:Marvel Comics superheroes]]
+
+
+{{Marvel-Comics-stub}}

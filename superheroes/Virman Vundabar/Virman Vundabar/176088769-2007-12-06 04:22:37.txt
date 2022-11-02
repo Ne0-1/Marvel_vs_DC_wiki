@@ -1,0 +1,54 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image =[[Image:Vundabar panel.JPG|250px]] 
+| caption = Virman Vundar from Mister Miracle #5, <br> artist [[Jack Kirby]]
+| character_name =Virman Vundabar 
+| publisher =[[DC Comics]] 
+| debut = ''[[Mister Miracle]]'' vol. 1 #5, (December 1971)
+| creators =[[Jack Kirby]] (writer & artist)
+| real_name =Virmin Vundabarr
+| species = [[New Gods|New God]]
+| homeworld = [[Apokolips]]
+| alliances=[[Darkseid's Elite]]
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports =<!--optional-->
+| powers = Expert strategist. Highly developed mechanical expertise. 
+}}
+
+'''Virman Vundabar''' is a [[fictional]] [[extraterrestial]] [[supervillain]] published by [[DC Comics]]. He first appeared in ''[[Mister Miracle]]'' vol. 1 #5 (December 1971), and was created by [[Jack Kirby]].
+
+==Fictional character biography==
+A resident of [[Apokolips]], Virman is a minion of [[Granny Goodness]], having grown up in her orphanages like many of Darkseid's soldiers. He models his personality and schemes on [[Prussia]]n military appearance and precision partly because of the Earth-based name assigned to him by Granny. Like many of his associates, he is a nemesis of [[Mister Miracle]]. Virman has involved himself with many schemes to gain power, often involving many of Darkseid's lieutenants, such as [[Doctor Bedlam]], [[Steppenwolf (comics)|Steppenwolf]] and [[Kanto (comics)|Kanto]].
+
+Specifically, in ''Underworld Unleashed: Apokolips - Dark Uprising'' #1 (1995), while Darkseid is missing at the [[Source Wall]], Vundabar allies himself with [[Granny Goodness]] against the other members of Darkseid's inner circle. 
+
+Darkseid returns from the Source Wall, but he is not in full control of his mind. Virman attempts to take advantage of this but Darkseid recovers enough to obliterate him with his Omega Beams. However, Darkseid resurrects him in ''Death of the New Gods #1'' (October 2007), and he is again seemingly loyal to Darkseid despite the skepticism of Granny Goodness. 
+
+His niece, [[Malice Vundabar|Malice]], has joined the [[Female Furies]]. She can control a shadow monster named [[Chessure]].
+
+==Other Media==
+Vundabar has appeared in an episode of ''[[Justice League Unlimited]]''. In that episode, he was in control of [[Apokolips]] when [[Darkseid]] disappeared and held [[Kalibak]] as a prisoner. He was voiced by [[Arte Johnson]], and indeed uttered a variation on Johnson's signature "Very interesting... but stupid" [[catch phrase]] from [[Laugh-in]]. He also makes a cameo appearance in the Justice League Unlimited episode ''Alive'', where he tried to take over Apokolips from Granny Goodness and the Female Furies.
+
+==Other versions==
+*In the [[Elseworlds]] story ''Superman: The Dark Side'', Virman is depicted as a double of [[Adolf Hitler]].
+
+==Naming==
+*The name "Vundabar" is a corruption of the German word "wunderbar", which means "wonderful". This name was given to him by [[Granny Goodness]].
+*His name has varied over the years between ''Vundabar'' and ''Vunderbarr''.  His name in his first appearance was Vundabar.
+
+==External links==
+*[http://www.dcuguide.com/who.php?name=virmanvundabar DCU Guide: Virman Vundabar]
+
+{{New Gods}}
+
+<!--
+
+STOP! Categories go into categories. Please check to see if the category you are adding is not redundant.
+
+-->
+
+[[Category:New Gods of Apokolips]]
+
+{{DC-Comics-stub}}
+
+[[de:New Gods#Virman Vunderbarr]]
+[[fr:New Gods]]

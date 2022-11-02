@@ -1,0 +1,41 @@
+{{notability|date=June 2018}}
+{{in-universe|date=June 2018}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Randall Shire
+|real_name=Randall Shire
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Cable (comic book)|Cable]]'' vol. 2 #79
+|creators=
+|alliances=
+|aliases=
+|powers= Emotion projection 
+}}
+
+'''Randall Shire''' is a fictional [[Mutant (Marvel Comics)|mutant]] character appearing in [[American comic book]]s published by [[Marvel Comics]]. His first appearance was in ''[[Cable (comic book)|Cable]]'' #79.
+
+==Fictional character biography==
+Randall Shire ran a small [[traveling carnival]] in [[Australia]], consisting entirely of low-level mutants pretending to be mere sideshow entertainers. Shire himself was a projecting empath, able to impose his own emotional state onto anyone who heard him speak. Shire was content to run his carnival until one day, in the midst of a performance, he was possessed by Semijan, one of the alien species known as the [[Undying Ones]].{{issue|date=December 2012}}
+
+Semijan's presence boosted Shire's mutant power to astonishing levels. Whenever Shire spoke, he bound people to him by the sound of his voice. Anyone hearing him speak became his slave, and whatever Shire wished became their purpose. He enslaved thousands of Australians in this manner.{{issue|date=December 2012}}
+
+However, Semijan was ambitious, and Shire traveled to America, planning to conquer the world by possessing highly placed government officials. When [[S.H.I.E.L.D.]] Commander G.W. Bridge investigated the disappearance of the supposedly catatonic mutant mercenary Blockade, who had actually been possessed by Semijan's rival Undying One Aentaros.{{issue|date=December 2012}}
+
+After the mutant hero [[Cable (comics)|Cable]] defeated the Blockade, Aentaros possessed Cable's long-time friend [[Domino (comics)|Domino]], and Aentaros' plans to kill Shire continued. However, Cable learned that if Shire were to survive the assassination attempt, an alternate future in which humanity conquers the galaxy and renames itself the Ranshi Empire would flourish. If Shire were to die, an alternate future in which Earth becomes a paradise of peace known as Harmony would occur.{{issue|date=December 2012}}
+
+When Aentaros possessed Domino to use her to kill Shire, the mutant hero Cable intervened and managed to stop the assassination. This enraged Semijan, and thanks to Shire's power those whom he had enslaved also became enraged and turned on Shire. Because Cable saved Shire and then discredited him, both the Ranshi Empire and the Harmony timelines were destroyed, leaving only one ship-full of survivors from each world. Shire was taken into S.H.I.E.L.D. custody, and after Cable and his allies invaded the Undying Ones' lair, Semijan fled Shire's body to return to confront the invaders.{{issue|date=December 2012}}
+Randall Shire lost his mutant powers after the [[Decimation (comics)|M-Day]].<ref>confirmed in ''New Avengers #18''</ref>
+
+==Powers and abilities==
+Randall Shire was a projecting empath; he could impose his own emotional state onto anyone who heard him speak, allowing him to convince others of things they would not normally believe or incite others to act on his behalf.
+
+==Bibliography==
+*''Cable'' vol. 2 #79-82
+
+==References==
+{{reflist}}
+{{DEFAULTSORT:Shire, Randall}}
+[[Category:Fictional empaths]]
+[[Category:Marvel Comics mutants]]

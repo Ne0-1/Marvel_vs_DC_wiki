@@ -1,0 +1,76 @@
+:''For the offbeat humorous superhero, see [['Mazing Man]].''
+
+:''For the [[Centaur Publications]] character see [[Amazing Man (Golden Age)]]''
+
+'''Amazing Man''' is a name used by several [[fictional character]]s, all of them [[superhero]]es. Two of these fictional characters were published by [[DC Comics]].
+
+==DC Comics==
+===Amazing Man I===
+{{Superherobox| <!--Part of Wikipedia:WikiProject Comics-->
+image=[[Image:AllStarSquadron_23.jpg|225px]]
+|caption=''All-Star Squadron'' #23 (July 1983).<br>Art by [[Jerry Ordway]].
+|comic_color=background:#8080ff
+|character_name=Amazing Man
+|real_name=William Blake "Will" Everett
+|publisher=[[DC Comics]]
+|debut=''[[All-Star Squadron]]'' #23 (July 1983)
+|creators= [[Roy Thomas]]<br>[[Jerry Ordway]]
+|alliance_color=background:#ffc0c0
+|alliances=[[All-Star Squadron]]
+|aliases=
+|powers=Duplicated the properties of matter.
+|}}
+
+====Character biography====
+The second Amazing Man, better known today than the original, resides in the [[DC Comics]] [[DC Universe|universe]]. Although a [[1980s]] creation of writer [[Roy Thomas]], he was, through [[retcon]], placed in the [[1940s]] as a contemporary of various [[Golden Age of comic books|Golden Age]] superheroes. The character was created by Thomas as a tribute to [[Bill Everett]] (who, back in the Golden Age, had also created a character called [[Amazing Man (Golden Age)|Amazing Man]]) although Everett died before the character debuted.
+
+Thomas's Amazing Man was '''Will Everett''', a promising young [[African-American]] [[Olympic Games|Olympian]] who had competed in the [[1936 Olympic Games]] in [[Berlin]] but whose post-Olympic career devolved into a [[janitor]]ial profession. During an accident involving the explosion of some equipment, he was connected to developed by the criminal mastermind the [[Ultra-Humanite]], Everett quickly developed the ability to mimic whatever properties he touched (similar to [[Marvel Comics]]' [[Absorbing Man]]). For example, if he touched [[wood]], then his body became composed of wood.
+
+At first, he was employed by the Ultra-Humanite as a henchman along with [[Cyclotron (comics)|Cyclotron]] and [[Deathbolt]]. However, his sympathies soon swayed towards the side of good after repeated exposure to the [[All-Star Squadron]], a team comprised of both Golden Age characters and retroactive characters like himself, whom he joined and helped to defeat his former employer's machinations.  He then served a lengthy stint as a member of this voluminous mystery man organization. His current status and the status of his son, father of Amazing Man II are currently unknown.
+
+On a future case, Amazing Man's powers changed so that now he had mastery of [[magnetism]] while losing his ability to mimic matter. His post-[[World War II]] career has been unchronicled. However, it was later revealed that his grandson, '''Will Everett III''' (a.k.a. "Junior") also developed the same mimicry attributes. According to ''DC Comics Encyclopedia'', Will Everett I eventually died of [[cancer]].
+
+====Powers====
+*Originally capable of transforming himself into a living, breathing facsimile of any material that he touched. 
+*Later, his powers were altered, and he was instead able to magnetically attract or repel objects with his hands. But a later appearance in [[Young All-Stars]] #2 demonstrated that he had his old powers back.
+{{-}}
+
+===Amazing Man II===
+{{Superherobox| <!--Part of Wikipedia:WikiProject Comics-->
+image=[[Image:ExtremeJustice_16.jpg|225px]]
+|caption=''Extreme Justice'' #16 (May 1996).<br>Art by [[Tom Morgan]].
+|comic_color=background:#8080ff
+|character_name=Amazing Man
+|real_name=Will Everett III
+|publisher=[[DC Comics]]
+|debut=''[[Justice League America]]'' #86 (March 1994)
+|creators= [[Dan Vado]]<br>[[Marc Campos]]
+|alliance_color=background:#ffc0c0
+|alliances=[[Justice League]]
+|aliases="Junior"
+|powers=Duplicated the properties of matter and energy.
+|}}
+
+====Character biography====
+Will Everett III carried on his grandfather's heroic tradition, joining the famed superhero team the [[Justice League]]. As a member, he was instrumental in defeating the [[Overmaster]] alongside the other members of the League and reformed members of the [[Cadre (comics)#Cadre_of_the_Immortal|Cadre of the Immortal]]. Later, he joined the short-lived Justice League offshoot known as [[Extreme Justice]].
+
+Will Everett III was apparently killed by [[Mist (comics)|the Mist II]], alongside several other minor JLA members such as [[Blue Devil]] and [[Crimson Fox]]. In Amazing Man's case, Mist tricked him into mimicking glass and then shattered him. It is assumed that he is deceased, but given the nature of his transformational abilities, it is possible that he could still be alive. The status of his father Will Everett II, and the whereabouts of his family and whether or not he had siblings, is unknown.
+
+====Powers====
+*Could cause his body to duplicate the properties of any inorganic material he touched from stone to glass. If he touched the pavement, for example, he became a sentient being made of living stone, with all its commensurate strengths and weaknesses.
+*He could also absorb and duplicate vast amounts of energy, as when he defeated the Overmaster by draining and duplicating it's powers.
+
+==Trivia==
+*DC also published an unrelated offbeat superhero/humor title, ''[['Mazing Man]]'', during the late 1980s.
+
+==External links==
+
+*[http://www.toonopedia.com/amazngmn.htm Centaur Amazing-Man page at Toonopedia]
+*[http://www.internationalhero.co.uk/a/amazman1.htm Amazing-Man at International Superheroes]
+* [http://www.lib.utulsa.edu/Speccoll/comicmi0.htm Comic Books on Microfiche: The University of Tulsa, McFarlin Library, Dept. of Special Collections] Note: The listing for ''Amazing Man Comics'' #5 (Sept. 1939), says the comic continues the numbering of the unreleased ''[[Motion Picture Funnies Weekly]]''.
+
+[[Category:Black superheroes]]
+[[Category:Public domain characters]]
+[[Category:1939 introductions]]
+[[Category:DC Comics superheroes]]
+[[Category:Fictional characters with the power to manipulate magnetic fields]]

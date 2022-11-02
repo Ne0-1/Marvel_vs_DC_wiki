@@ -1,0 +1,27 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Peregrine
+|real_name=Alain Racine
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Contest of Champions]]'' #1 (Jun 1982)
+|creators=[[Mark Gruenwald]], [[Bill Mantlo]], [[Steven Grant]], [[John Romita, Jr.]], and [[Pablo Marcos]]
+|alliance_color=background:#c0c0ff
+|alliances=Freelance operative for [[Silver Sable]]
+|aliases=
+|powers=
+|}} 
+
+'''Le Peregrine''' is a fictional character in the [[Marvel Universe]].  Alain Racine is a superhero from France, who took his name after the French word for "the falcon".  
+
+Peregrine was first seen in the [[Grandmaster (comics)|Grandmaster]]'s [[Contest of Champions]] against [[Death (Marvel Comics)|Death]] for the life of the [[Collector (comics)|Collector]].  He competed on the Grandmaster's side, in the illustrious company of other heroes such as [[Captain America]], [[Captain Britain]], [[Wolverine (comics)|Wolverine]], [[Daredevil (comics)|Daredevil]], [[She-Hulk]], and the [[Thing (comics)|Thing]].  He was pitted against another winged opponent, the [[Archangel (comics)|Angel]], but the Angel's greater experience gave him the edge to defeat Le Peregrine.
+
+Later, back on Earth, Peregrine encountered [[Silver Sable]], who invited him to become her operative in France. He assisted the archer [[Hawkeye (comics)|Hawkeye]] in destroying a nuclear warhead generator stolen by the [[Red Skull]], and freeing the [[Sandman (Marvel Comics)|Sandman]]--another of Silver Sable's operatives--in the process.
+
+
+{{Marvel-comics-stub}}
+
+[[Category:Fictional French people]]
+[[Category:Marvel Comics superheroes]]

@@ -1,0 +1,175 @@
+{{for|a girl who manages baseball equipment|Batgirl (baseball)}}
+{{Infobox comics set and title
+<!--Wikipedia:WikiProject Comics-->
+<!--Character section-->
+<!-- |code_name  = Batgirl -->
+|image      = Batgirls.jpg
+|caption    = Art from ''[[Wizard Magazine]]'' (2006), featuring Barbara Gordon and Cassandra Cain as Batgirl.  Art by [[Matt Haley]] and [[David Hahn (cartoonist)]].
+|publisher  = [[DC Comics]]
+|debut      = ''[[Batman (comic book)|Batman]]'' #139
+|debutyr    = 1961
+|debutyr1   = 1967
+|debutyr2   = <!-- Helena & Cassandra weren't introded as Batgirl -->
+|debutyr3   = 2006
+|creators   = [[Bob Kane]]<br />[[Sheldon Moldoff]]
+|characters = [[Betty Kane]] ("Bat-Girl")<br />[[Barbara Gordon]]<br />[[Huntress (Helena Bertinelli)|Helena Bertinelli]]<br /> '''[[Cassandra Cain]]'''<br /> [[Misfit (DC Comics)|Charlotte Gage-Radcliffe]]
+|seealso    = 
+
+<!--Series section--> 
+<!-- |title               = --> 
+|cvr_image           = Batgirl v1 1.jpg
+|cvr_caption         = ''Batgirl'' vol. 1, #1 (Apr, 2000).<br>Featuring the Cassandra Cain version of the character<br>Art by [[Damion Scott]].
+|schedule            = Monthly
+|format              = '''(vol 1)'''<br>[[Ongoing series]]<br>'''(vol 2)'''<br>[[Limited Series]]
+|limited             = Y
+|ongoing             = Y
+|Superhero           = y
+|pub_series          = DC Comics
+|1stishhead          = vol 1
+|1stishyr            = 2000
+|1stishmo            = April
+|endishyr            = 2006
+|endishmo            = April
+|1stishhead1         = vol 2
+|1stishyr1           = 2008
+|1stishmo1           = September
+|endishyr1           = 2009
+|endishmo1           = February
+|issues              = '''(vol 1)'''<br>73 and 1 Annual<br>'''(vol 2)'''<br>6
+|main_char_team      = [[Cassandra Cain]]
+|writers             = 
+|artists             = 
+|pencillers          = 
+|inkers              = 
+|letterers           = 
+|colorists           = 
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = 
+|TPB                 = 
+|ISBN                = 
+|nonUS               = 
+
+<!--Categories-->
+|cat                 = super
+|subcat              = DC Comics
+|altcat              = 
+|hero                = y
+|villain             = 
+|sortkey             = Batgirl
+|sort_title          = Batgirl
+}}
+'''Batgirl''' is the name of several [[fictional characters]] appearing in [[comic book]]s published by [[DC Comics]], depicted as female counterparts to the [[superhero]] [[Batman]]. Originally created by [[Bob Kane]] and [[Sheldon Moldoff]], the first incarnation of the character, the "Bat-Girl" [[Betty Kane]], debuted in ''[[Batman (comic book)|Batman]]'' #139 (1961). Following the promotion of [[Julius Schwartz]] to editor of the Batman-related comic book titles in 1964, the Bat-Girl character was removed from publication and replaced by the "new" Batgirl [[Barbara Gordon]] in late 1966. The new character was introduced in [[Gardner Fox]] and [[Carmine Infantino]]'s ''[[Detective Comics]]'' #359, entitled "The Million Dollar Debut of Batgirl". 
+
+The Barbara Gordon version of Batgirl made regular appearances in Batman-related comics from 1966 to 1988 and is described as one of the most high-profile characters to be published during the [[Silver Age of Comic Books]]. Following the editorial retirement of the character in ''Batgirl Special'' #1 (1988), Barbara Gordon is paralyzed by [[Joker (comics)|The Joker]] in the [[graphic novel]] ''[[Batman: The Killing Joke]]'' (1988). Editor [[Kim Yale]] and comic book author [[John Ostrander]] later reinvented Barbara Gordon as [[Barbara Gordon|Oracle]], the premiere [[information broker]] of the [[DC Comics Universe]] and leader of the ''[[Birds of Prey (comics)|Birds of Prey]]'' organization. 
+
+In the 1999 story ''[[No Man's Land (comics)|Batman: No Man's Land]]'', [[Huntress (Helena Bertinelli)|Helena Bertinelli]] briefly assumes the role of Batgirl, until she is stripped of the identity by Batman towards the conclusion of the story for violating his stringent codes. Within the same year, a new character introduced during the ''No Man's Land'' series, named [[Cassandra Cain]], created by [[Kelley Puckett]] and [[Damion Scott]], becomes the third Batgirl, and she is mentored by Batman and Oracle. Cassandra Cain was the first version of the Batgirl character to be featured in an [[eponym]]ous monthly series, which was canceled in 2006, ending with Cain relinquishing her title as Batgirl. During the "Headhunt" arc of the ''Birds of Prey'' comic book series, the [[Misfit (DC Comics)|Charlotte Gage-Radcliffe]] character created by [[Gail Simone]] temporarily took the name of Batgirl, but was eventually forced to abandon the role by Oracle and subsequently adopted the alias "[[Misfit (DC Comics)|Misfit]]." Following the events of the limited series ''[[52 (comics)|52]]'' (2006), the Cassandra Cain character reclaimed her former identity as Batgirl.
+
+==Publication history==
+===Betty Kane===
+{{main|Betty Kane}}
+
+Following the accusations of homosexuality between Batman and [[Dick Grayson|Robin]] as described in [[Fredric Wertham]]'s book ''[[Seduction of the Innocent]]'' (1954), a female character, Kathy Kane the [[Batwoman]], was introduced in 1956 as a love interest for Batman.<ref name="Batman: The Complete History">{{cite book  | last = Daniels | first = Les | authorlink = Les Daniels |  title = Batman: The Complete History | publisher = [[Chronicle Books]] | year = 2004 |  pages = 93 | url = http://books.google.com/books?id=73wknu2cVIkC  | isbn = 0811842320 }}</ref> In 1961, a second female character was introduced as a love interest for Robin.<ref name="Batman: The Complete History"/> Betty Kane the "Bat-Girl" was depicted as the niece and side-kick to Batwoman and first appeared in ''Batman'' #139 (1961).<ref>{{cite book |title= ''Batman'' #139 |year= 1961 |publisher= DC Comics}}</ref> The creation of the Batman Family, which included Batman and Batwoman depicted as parents, Robin and Bat-Girl depicted as their children, the [[extraterrestrial]] [[imp]] [[Bat-Mite]] and the "family pet" [[Ace the Bat-Hound]], caused the Batman-related comic books to take "a wrong turn, switching from superheroes to situational comedy".<ref name="Batman: The Complete History">{{cite book  | last = Daniels | first = Les | authorlink = Les Daniels |  title = Batman: The Complete History | publisher = [[Chronicle Books]] | year = 2004 |  pages = 93, 94 | url = http://books.google.com/books?id=73wknu2cVIkC  | isbn = 0811842320 }}</ref>
+
+These characters were abandoned in 1964 when newly appointed Batman editor Julius Schwartz concluded they were inappropriate.<ref name="Remembering Kathy Kane: The First Batwoman">{{cite web | url=http://www.newsarama.com/dcnew/Batwoman/BatwomanHistory.htm | title=Remembering Kathy Kane: The First Batwoman | author=Fred Grandinetti | publisher= [[Newsarama]] | accessdate=2007-09-19 | archiveurl=http://web.archive.org/web/20070710222202/http://www.newsarama.com/dcnew/Batwoman/BatwomanHistory.htm | archivedate=2007-07-10 }}</ref> Schwartz had asserted that these characters should be removed, considering the Batman related comic books had steadily declined in sales, and restored the Batman mythology to its original conception of heroic vigilantism.<ref name="Batman: The Complete History">{{cite book  | last = Daniels | first = Les | authorlink = Les Daniels |  title = Batman: The Complete History | publisher = [[Chronicle Books]] | year = 2004 |  pages = 97 | url = http://books.google.com/books?id=73wknu2cVIkC  | isbn = 0811842320 }}</ref> Bat-Girl, along with other characters in the Batman Family, were [[retcon]]ned out of existence following the 1985 limited series ''[[Crisis on Infinite Earths]]''.<ref>{{cite book |last= Wolfman| first= Marv| authorlink= Marv Wolfman| title= Crisis on Infinite Earths |year= 1985|publisher= DC Comics |isbn= 1-56389-750-4}}</ref> However, even though Bat-Girl did not exist in the Post-''Crisis'' continuity, a modified version of the character, Mary Elizabeth "Bette" Kane, was introduced as the superheroine [[Flamebird]], who continues to appear in DC Comics publications.<ref>{{cite book  |  title = Secret Origins Annual #3 | publisher = DC Comics | year = 1989 | url = http://www.comics.org/details.lasso?id=45557}}</ref>
+
+===Barbara Gordon===
+{{main|Barbara Gordon}}
+
+A new Batgirl -- Barbara "Babs" Gordon, the daughter of Batman's supporting character Police commissioner [[James Gordon (comics)|James Gordon]] -- debuted in ''Detective Comics'' #359 (cover-dated January 1967, but released in November 1966).<ref>{{cite book |last= Fox |first= Gardner |authorlink= Gardner Fox |title= ''Detective Comics'' #359|year= 1967 |publisher= DC Comics}}</ref> In her debut, Gordon is on her way to a masquerade ball dressed as a female version of Batman when she disrupts a kidnapping attempt on Bruce Wayne by the villainous [[Killer Moth]]. This attracts the attention of Batman and leads to her establishing a crime-fighting career. This new character, jointly created by Editor Julius Schwartz, artist Carmine Infantino and author Gardner Fox, was a collaboration between DC Comics and the ''[[Batman (TV series)|Batman]]'' television series of the late 1960s which aired on [[American Broadcasting Company|ABC]]. When television producer [[William Dozier]] sought to renew the Batman program for a third season, he asked Schwartz for a new female character to be introduced in the comic book medium, which could be adapted into the television series in order to attract a female audience.<ref name="Batman: The Complete History">{{cite book  | last = Daniels | first = Les | authorlink = Les Daniels |  title = Batman: The Complete History | publisher = [[Chronicle Books]] | year = 2004 |  pages = 113 | url = http://books.google.com/books?id=73wknu2cVIkC  | isbn = 0811842320 }}</ref> The new version of Batgirl was written as an adult, having earned a doctorate in library science and maintaining a career as head of Gotham City Public Library.<ref name= "The Image and Role of the Librarian">{{cite book  | last = Arant | first = Wendi |  coauthors = Candace Benefiel | title = The Image and Role of the Librarian | publisher = Haworth Press | year = 2002 |  pages = 77–78 | url = http://books.google.com/books?id=RXsa43PYarQC  | isbn = 0789020998}}</ref> 
+
+As Batgirl, Barbara Gordon proved to be more popular than the previous Bat-Girl and Batwoman characters. Barbara Gordon appeared as Batgirl in both ''Batman'' and ''Detective Comics'', and other DC Comics publications unrelated to Batman. The character also received a starring role in the ''Batman Family'' comic book series which debuted in 1975, where she becomes part of the "Dynamic Duo: Batgirl & Robin" with Dick Grayson.<ref>{{cite book |last= Maggin |first= Elliot |title= ''Batman Family'' #1 |year= 1975 |publisher= DC Comics}}</ref> Described as one of the most popular characters to appear in publications during the Silver Age of Comic Books,<ref name= "The Image and Role of the Librarian">{{cite book  | last = Arant | first = Wendi |  coauthors = Candace Benefiel | title = The Image and Role of the Librarian | publisher = Haworth Press | year = 2002 |  pages = 77–78 | url = http://books.google.com/books?id=RXsa43PYarQC  | isbn = 0789020998}}</ref> Barbara Gordon appeared as Batgirl regularly from 1966 to 1988, and she is frequently featured as Batgirl in "flashback" stories in current DC Comics publications. After relinquishing her role as Batgirl in the 1988 [[one-shot]] comic ''Batgirl Special'' #1,<ref>{{cite book |last= Randall |first= Barbara |title= ''Batgirl Special'' #1 |year= 1988 |publisher= DC Comics}}</ref> Barbara Gordon is shot through the spinal cord and crippled by the Joker in ''Batman: The Killing Joke''.<ref> {{cite book |last= Moore |first= Alan |authorlink= Alan Moore |title= Batman: The Killing Joke |year= 1988 |publisher= DC Comics|isbn= 978-0930289454}}</ref> The plot, which led to Gordon's paralysis, subsequently became a point of controversy among critics and commentators.<ref>{{cite web | title = Variations on a Theme | date = 2007-08-18 | url = http://blog.newsarama.com/2007/08/18/variations-on-a-theme-2/ | accessdate = 2007-12-19}}</ref> Editor Kim Yale and author John Ostrander revive the character in ''[[Suicide Squad]]'' #23 (1989) under the guise of Oracle, a freelance information broker and expert hacker.<ref>{{cite book | last = Ostrander | first = John  | authorlink = John Ostrander | title = Suicide Squad (Vol. 1) #23| publisher = DC Comics | year = 2007 | url = http://www.dccomics.com/graphic_novels/?gn=8207 | isbn = 1401214916}}</ref> As Oracle, Barbara Gordon is written as an ally to various DC Universe superheroes, but is most notable as the founder and head of operations of the Birds of Prey organization.
+
+===Helena Bertinelli===
+{{main|Huntress (Helena Bertinelli)|No Man's Land (comics)}}
+
+Eleven years after the editorial retirement of Barbara Gordon as Batgirl, a new version of the character is introduced in ''Shadow of the Bat'' #83 during the [[maxiseries]] ''Batman: No Man's Land'' (1999).<ref>{{cite book  | last = Gale  | first = Bob | authorlink = Bob Gale | coauthors = Devin Grayson | title = Batman: No Man's Land | publisher = DC Comics | year = 1999 | isbn = 978-1563895647}}</ref> In ''[[Batman: Legends of the Dark Knight]]'' #120 (1999), the new Batgirl is revealed to be Helena Bertinelli, an established DC comics superheroine alternatively known as the Huntress.<ref name="Batman Unmasked">{{cite book |last= Brooker |first= Will |title= Batman Unmasked: Analyzing a Cultural Icon |year= 2001 |publisher= Continuum International Publishing Group| pages= 187, 151, 319|url=http://books.google.com/books?id=GNRreYO91ogC| isbn = 0826413439}}</ref> Bertinelli is eventually forced to abandon the mantle by Batman.<ref>{{cite book  | last = Rucka  | first = Greg |  coauthors = Kelley Puckett | title = Batman: No Man's Land VOL. 3| publisher = DC Comics | year = 1999 | isbn = 1563896346}}</ref> After reclaiming her identity as the Huntress, Bertinelli later joins Oracle's Birds of Prey, becoming the second former Batgirl to be on the team's roster.<ref>{{cite book |last= Simone |first= Gail |authorlink= Gail Simone |title= Birds of Prey #65 |year= 2004 |publisher= DC Comics}}</ref>
+
+===Cassandra Cain===
+{{main|Cassandra Cain}}
+
+Depicted as a [[martial arts]] [[child prodigy]], Cassandra Cain is written as a young woman of partly [[Asian people|Asian]] descent who becomes the third in-continuity Batgirl, with the approval of both Batman and Oracle, following her introduction in ''Batman'' #567 (1999) as part of the ''Batman: No Man's Land'' crossover.<ref>{{cite book  | last = Conroy  | first = Mike | title = 500 Great Comicbook Action Heroes | publisher = Chrysalis | year = 2002 | isbn = 1844110044}}</ref> Cassandra Cain wears the same Batgirl costume worn by Helena Bertinelli. Raised by assassin [[David Cain]], Cassandra Cain was not taught spoken language, but instead was taught to "read" physical movement. Subsequently, Cain's only form of communication was body language.<ref name="Nature or Nuture?">{{cite web | last = Richards | first = Dave  |  title = Nature or Nuture? Andersen Gabrych talks "Batgirl" | date = 2005-03-04 | url = http://www.comicbookresources.com/news/newsitem.cgi?id=4907 | accessdate = 2008-02-17}}</ref> The parts of the character's brain normally used for speech were trained so Cain could read other people's body language and predict, with uncanny accuracy, their next move. This also caused her brain to develop learning functions different from most, a form of dyslexia that hampers her abilities to read and write. 
+
+Despite Cain's disability, author Andersen Gabrych describes the character's unique form of language to be the key factor in what makes Cain an excellent detective; the ability to walk into a room and "know" something is wrong based on body language.<ref name="Nature or Nuture?"/> During the first arc of the ''Batgirl'' comic book series entitled ''Silent Running'', Cassandra Cain encounters a psychic who "reprograms" her brain, enabling her to comprehend verbal language, while simultaneously losing the ability to predict movements.<ref>{{cite book  | last = Peterson  | first = Scott  |  coauthors = Kelley Puckett | title = ''Batgirl'' Vol 1: Silent Running | publisher = DC Comics | year = 2001 | isbn = 978-1563897054}}</ref> This issue is resolved during the second arc of the series, ''Batgirl: A Knight Alone'', when Batgirl encounters the assassin [[Lady Shiva]] who agrees to teach her how to predict movement once again.<ref>{{cite book | last = Puckett  | first = Kelly  |   title = ''Batgirl'' Vol. 2: A Knight Alone | publisher = DC Comics | year = 2001 | isbn = 978-1563898525}}</ref> Six years after its debut, DC Comics canceled the ''Batgirl'' comic book series with issue #73 (2006), ending with Cain relinquishing her role as Batgirl.<ref>{{cite book |last= Gabrych |first= Andersen |title= ''Batgirl: Destruction's Daughter'' |year= 2006 |publisher= DC Comics |isbn=1401208967}}</ref>
+
+When DC Comics continuity skips forward [[One Year Later|one year]] after the events of the limited series ''[[Infinite Crisis]]'', Cassandra Cain is revived as leader of the [[League of Assassins]], having abandoned her previous characterization as an [[altruist]]. The character's progression from heroine to villain angered some of her fans and was accompanied by heavy criticism.<ref>{{cite web | last = Taylor | first = Robert | title = Reflections: Talking "Robin" (And Batgirl) With Adam Beechen |  publisher = ''[[Comic Book Resources]]'' | date = 2006-11-05 | url = http://www.comicbookresources.com/news/newsitem.cgi?id=8802 | accessdate = 2008-02-19}}</ref> Cain reprised her role as Batgirl in the "[[Titans East]]" (2007) storyline of ''[[Titans (comics)|Teen Titans]]'',<ref>{{cite book |last= Johns |first= Geoff |authorlink= Geoff Johns |title= ''Teen Titans'' #43 |year= 2007 |publisher= DC Comics}}</ref> where it was discovered that she had been influenced by a mind-altering drug administered by [[supervillain]] [[Deathstroke|Deathstroke the Terminator]]. Following the conclusion of the storyline, DC Comics has restored Cain's original characterization as a superheroine and the character has been given a supporting role in the comic book series ''[[Batman and the Outsiders]]''.
+
+===Charlotte Gage-Radcliffe===
+{{main|Misfit (DC Comics)}}
+
+During the "Headhunt" arc of ''Birds of Prey'' by Gail Simone, a "new" Batgirl emerges in Gotham City, who is soon revealed to be a teenager named Charlotte Gage-Radcliffe; a young girl with inherent superpowers.<ref>{{cite book |last= Simone |first= Gail |title= ''Birds of Prey'' #97 |year= 2006 |publisher= DC Comics}}</ref><ref>{{cite book |last= Simone |first= Gail |title= ''Birds of Prey'' #98 |year= 2006 |publisher= DC Comics}}</ref> After encountering Oracle face to face, Gage-Radcliffe is forced to abandon her career as a vigilante. However, the character later returns in ''Birds of Prey'' #101 under the alias "Misfit", becoming the third former Batgirl to be affiliated with Oracle's organization.<ref>{{cite book |last= Simone |first= Gail |title= ''Birds of Prey'' #101 |year= 2006 |publisher= DC Comics}}</ref>
+
+==Character attributes==
+
+Betty Kane's Bat-Girl was primarily interested in vigilantism in order to develop a relationship with the original Robin, Dick Grayson, as her introduction into publication was a deliberate attempt to avoid further allegations of homosexuality that ''Seduction of the Innocent'' presented to the public.<ref name="Batman Unmasked"/> Depicted as the niece of Batwoman, Bat-Girl had developed a crush on Robin after arriving in Gotham City and decided to fashion her own superhero persona based on Robin's costume. Her appearance in comic books primarily displayed her character attempting to develop a romantic relationship with Robin, despite his embarrassment or lack of interest.<ref name="Batman: The Complete History"/>
+
+When Julius Swartz asked Carmine Infantino for a redesign of the Bat-Girl character, Infantino recalled Betty Kane's character as a "pesky girl version of Robin", and decided to come up with something more original.<ref>{{cite web | last = Fitzgerald | first = Michael | authorlink = Michael Fitzgerald | title = Carmine Infantino: Decades at DC and Beyond | year = 2007 | url = http://www.wizarduniverse.com/magazine/wizard/004812442.cfm | accessdate = 2007-11-23}}</ref> Gardner Fox and Carmine Infantino's new "Batgirl" was written as an adult and as a career woman working as head of Gotham City Public Library. Though the Barbara Gordon character saw Batman as her inspiration and idol, fashioning her crime-fighting persona after him, her primary concern was solving cases and often worked independently from Batman and Robin. Batgirl was primarily featured in ''Detective'' comics in stories separate from the Dynamic Duo.<ref name= "The Image and Role of the Librarian"/>
+
+==Adaptations in other media==
+{{main|Barbara Gordon in other media}}
+[[Image:Yvonne Craig Batgirl.jpg|thumb|Batgirl as portrayed by [[Yvonne Craig]] in the 1960s ''[[Batman (TV series)|Batman]]'' television series.]]
+A [[pop icon|pop culture icon]], the Barbara Gordon version of Batgirl has been adapted into all media relating to the Batman franchise including [[merchandise]], [[television]], [[animation]], video game,<ref>''Game Informer'' features a two-page gallery of the many heroes and villains who appear in ''[[LEGO Batman]]'', including Batgirl, with a picture for each character and a descriptive paragraph.  See "''LEGO Batman'': Character Gallery," ''Game Informer'' 186 (October 2008): 92.</ref> and [[feature film]]. The Barbara Gordon Batgirl, jointly inspired by producer William Dozier and DC Comics editor Julius Schwartz,<ref name="Batman Unmasked"/> appeared in the final season of the live-action ''Batman'' television series in 1967, promptly following the character's comic book debut.<ref>{{cite web | last = Sherman | first = Stanford |   title = Enter Batgirl, Exit Penguin | work = Batman | publisher = www.tv.com | date = 1967-09-14 | url = http://www.tv.com/batman-1966/enter-batgirl-exit-penguin/episode/6903/summary.html | accessdate = 2008-01-02}}</ref> Actress [[Yvonne Craig]] was featured in a promotional short, which was shown to ABC executives in order to not only add Batgirl to the cast, but ensure a third season for the television series.<ref name="Crime Fighting Heroes">{{cite book  | last = Terrace | first = Vincent | title = Crime Fighting Heroes of Television: Over 10,000 Facts from 151 Shows, 1949-2001 | publisher = McFarland | year = 2002 |  pages = 23 | url = http://books.google.com/books?id=IRog-mvSMR8C  | isbn = 0786413956}}</ref> As Barbara Gordon, Craig was a replica of her comic book counterpart, working as a librarian for Gotham City Public Library; she led a double life as Batgirl, helping Batman, Robin and the Gotham City police department to solve an array of cases.<ref name="Crime Fighting Heroes"/> Although Craig's addition to the cast was able to renew the program for a third season, it did not save the series from cancellation;<ref>{{cite book |last= Daniels |first= Les |authorlink= Les Daniels |title= DC Comics: Sixty Years of the World's Favorite Comic Book Heroes |year= 1995 |publisher= Bulfinch |pages= 141 |isbn= 0-8212-2076-4}}</ref> ''Batman'' was officially canceled in March 1968.<ref>{{cite book  | last = Browne | first = Ray Broadus | coauthors=Pat Browne | title = The guide to United States popular culture | publisher = Popular Press | year = 2001 |  pages = 69 | url = http://books.google.com/books?id=U3rJxPYT32MC  | isbn = 0879728213}}</ref>
+
+Barbara Gordon's Batgirl made her first animated appearance in ''[[Batman with Robin the Boy Wonder]]''<ref>{{cite web | title = The Batman/Superman Hour | year = 1968 | url = http://www.imdb.com/title/tt0062544/ | accessdate = 2007-12-20}}</ref> in 1968 and was also adapted into its successor animated program ''[[The New Adventures of Batman]]'' in 1977.<ref>{{cite web |     title = Pest | work = The New Adventures of Batman | publisher = www.tv.com | date = 1977-02-10 | url = http://www.tv.com/the-new-adventures-of-batman/the-pest/episode/194782/summary.html | accessdate = 2008-01-02}}</ref> During the 1990s and 2000s, Barbara Gordon appears as Batgirl in the series of animated programs and animated films which comprise the [[DC Animated Universe]]; these include ''[[Batman: The Animated Series]]'',<ref name="Shadow of the Bat">{{cite web | last = Reaves  | first = Brynne |   title = Shadow of the Bat | work = Batman: The Animated Series | publisher = www.tv.com | date = 1993-09-13 | url = http://www.tv.com/batman-the-animated-series/shadow-of-the-bat-part-1-of-2/episode/72331/summary.html | accessdate = 2008-01-02}}</ref> ''[[Batman & Mr. Freeze: SubZero]]'', ''[[The New Batman Adventures]]'',<ref>{{cite web | last = Dini  | first = Paul | authorlink = Paul Dini |  title = Holiday Knights | work = The New Batman Adventures | publisher = www.tv.com | date = 1997-09-13 | url = http://www.tv.com//holiday-knights/episode/115343/summary.html | accessdate = 2008-01-02}}</ref> and ''[[Batman Beyond: Return of the Joker]]''. A younger version of the Barbara Gordon character also played a recurring role in the animated series entitled ''[[The Batman (TV series)|The Batman]]''.<ref name="Batgirl Begins: Part 1">{{cite web | last = Jelenic | first = Michael |   title = Batgirl Begins | work = The Batman | publisher = www.tv.com | date = 2005-09-17 | url = http://www.tv.com/the-batman/batgirl-begins-1/episode/416142/summary.html | accessdate = 2008-01-02}}</ref> 
+
+In addition to animated adaptations, the Barbara Gordon version of Batgirl served as the inspiration for the character Barbara Wilson in the 1997 feature film ''[[Batman & Robin (film)|Batman & Robin]]''. Departing from the comic book character's history, the alternate version of Barbara is portrayed by [[Alicia Silverstone]] as the niece of [[Alfred Pennyworth]], Bruce Wayne's butler and Batman's loyal assistant.<ref name="Modern Amazons">{{cite book |last= Mainon |first= Dominique |coauthors= James Ursini |title= The Modern Amazons: Warrior Women on Screen |year= 2006 |publisher= Hal Leonard |pages= 135–137 |url=http://books.google.com/books?id=PDWlgucdqUMC|isbn= 0879103272}}</ref> The short-lived ''[[Birds of Prey (television series)|Birds of Prey]]'' television series, which aired on [[The WB]] network in 2002, features a paralyzed Barbara Gordon donning her Batgirl costume after creating a device that allows her to walk.<ref>{{cite web | last = Armus | first = Adam |  coauthors = Kay Foster | title = Lady Shiva | work = Birds of Prey | publisher = www.tv.com | date = 2002-11-27 | url = http://www.tv.com/birds-of-prey/lady-shiva/episode/194250/summary.html | accessdate = 2008-01-02}}</ref> The series featured [[Dina Meyer]] as Barbara Gordon, in a future where she has been paralyzed by the Joker and operates as Oracle.<ref name="Modern Amazons"/>
+
+==Cultural impact==
+
+The depiction of the Barbara Gordon incarnation of Batgirl as a career-oriented woman, coupled with her alter-ego as a crimefighter, is considered to be symbolic of the women's empowerment movement of the 1960s according to critic and historian [[Peter Sanderson]].<ref>{{cite web | last = Sanderson | first = Peter | authorlink = Peter Sanderson | title = Comics in Context #67: Catch As Cats Can | year = 2007 | url = http://comics.ign.com/articles/595/595646p7.html | publisher= [[IGN]] | accessdate = 2008-06-09}}</ref> Gordon's career as a librarian also represented a "valued and honored profession" within mainstream American comics, despite the fact that comic books were not considered to be a respectable pastime by library professionals.<ref name= "The Image and Role of the Librarian"/>
+
+<blockquote>...likely explanations for why Batgirl's alter ego was a librarian are (a) librarianship was at the time an established and acceptable occupation for a(n) (unmarried) young woman, and (b) Barbara Gordon's job as a seemingly meek and passive librarian had to be considered an ideal contrast to her truly significant (and exciting) work as Batgirl.<ref name= "The Image and Role of the Librarian"/></blockquote>
+
+Actress [[Yvonne Craig]], who was cast as Batgirl during the final season of the ''Batman'' television series, also portrayed the character in the 1972 [[public service announcement]] for the [[United States Department of Labor]] advocating [[equal pay for women|equal pay]].<ref name="Yvonne Craig as Batgirl in a Public Service Announcement for the U.S. Department of Labor">{{cite web | title = Yvonne Craig as Batgirl in a Public Service Announcement for the U.S. Department of Labor | year = 1972 | url = http://www.yvonnecraig.com/up_close_tv.php | publisher= www.yvonnecraig.com | accessdate = 2008-06-09}}</ref> Craig has stated her portrayal of Batgirl remains a symbol of women's empowerment.<ref name="interviewyvonne">{{cite web | last = Schiff | first = Laura | work= Femme Fatales Magazine | title = Interview With Yvonne | year = 1998 | url = http://yvonnecraig.com/up_close_interviews.php | publisher= www.yvonnecraig.com | accessdate = 2008-06-09}}</ref> Despite this, the Batgirl character has often been criticized for being an uninspiring female variation of Batman.<ref>{{cite book  | last = Flood | first = Michael | title = International Encyclopedia of Men and Masculinities | publisher = [[Routledge]] | year = 2007 | location = London | pages = 256 | isbn = 9780415333436}}</ref> Compared to Wonder Woman, described as "the principal icon of superhero women", Batgirl has been disregarded as a derivative of her male counterpart.<ref>{{cite book  | last = Zimmerman | first = David A. | title = Comic Book Character: Unleashing the Hero in Us All | publisher = InterVarsity Press | year = 2004 | pages = 60 | isbn = 0830832602}}</ref> When Yvonne Craig portrayed Batgirl in the ''Batman'' television series, she was not allowed to engage in hand-to-hand combat; her fight scenes were all based on choreographed dance routines of Broadway showgirls, thus making her appear as an inferior version of Batman.<ref>{{cite book  | last = Early | first = Frances H. | coauthors= Kathleen Kennedy | title = Athena's Daughters: Television's New Women Warriors | publisher = Syracuse University Press | year = 2003 | pages = 136 | isbn = 0815629680}}</ref>
+
+==See also==
+*[[Batwoman]]
+*[[Alternate versions of Barbara Gordon]]
+*[[Gotham Girls]]
+*[[List of women warriors in folklore, literature, and popular culture]]
+
+==Notes==
+{{Reflist|2}}
+
+==References==
+{{refbegin}}
+* Arant, Wendi. Benefiel, Candace. ''The Image and Role of the Librarian''. Haworth Press, 2002. ISBN 0789020998
+* Brooker, Will. ''Batman Unmasked: Analyzing a Cultural Icon''. [[Continuum International Publishing Group]], 2001. ISBN 0826413439 
+* Daniels, Les. ''Batman: The Complete History''. [[Chronicle Books]], 2004. ISBN 0811842320
+* Daniels, Les. ''DC Comics: Sixty Years of the World's Favorite Comic Book Heroes''. [[Bulfinch]], 1995. ISBN 0-821-22076-4
+*Early, Frances H. Kennedy, Kathleen. ''Athena's Daughters: Television's New Women Warriors''. Syracuse University Press, 2003. ISBN 0815629680
+* Flood, Michael. ''International Encyclopedia of Men and Masculinities''. [[Routledge]], 2007. ISBN 9780415333436
+*Mainon, Dominique. Ursini, James. ''The Modern Amazons: Warrior Women on Screen''. Hal Leonard, 2006. ISBN 0879103272
+* Nolen-Weathington, Eric. ''Modern Masters Volume 3: Bruce Timm''. [[TwoMorrows Publishing]], 2004. ISBN 1893905306
+*Terrace, Vincent. ''Crime Fighting Heroes of Television: Over 10,000 Facts from 151 Shows, 1949-2001''. McFarland, 2002. ISBN 0786413956
+*Zimmerman, David A. ''Comic Book Character: Unleashing the Hero in Us All''. InterVarsity Press, 2004. ISBN 0830832602
+{{refend}}
+
+==External links==
+*{{gcdb|type=character|search=Barbara+Gordon|title=Barbara Gordon}}
+*{{comicbookdb|type=character|id=425|title=Batgirl (Barbara Gordon)}}
+*{{comicbookdb|type=character|id=13906|title=Barbara Gordon (Post-Crisis)}}
+*{{comicbookdb|type=character|id=449|title=Oracle (Barbara Gordon)}}
+*{{imdb character|0000178|Batgirl}}
+* [http://www.canarynoir.com/ Canarynoir: Home of Birdwatching - ''Birds of Prey'']
+* [http://www.tvobscurities.com/articles/batgirl.php TVObscurities.com - Batgirl Promotional Short]
+* [http://www.worldsfinestonline.com/WF/thebatman/media/showintro/s3/04.jpg Barbara Gordon in ''The Batman'']
+* [http://www.yvonnecraig.com/up_close_tv.php Yvonne Craig as Batgirl in a Public Service Announcement for the U.S. Department of Labor]  
+
+{{Batman}}
+
+[[Category:DC Comics titles]]
+[[Category:Fictional vigilantes]]
+
+[[ca:Batgirl]]
+[[de:Batgirl]]
+[[es:Batgirl]]
+[[fr:Batgirl]]
+[[it:Batgirl]]
+[[nl:Batgirl]]
+[[ja:バットガール]]
+[[pt:Batgirl]]
+[[fi:Batgirl]]
+[[sv:Batgirl]]
+[[tl:Batgirl]]

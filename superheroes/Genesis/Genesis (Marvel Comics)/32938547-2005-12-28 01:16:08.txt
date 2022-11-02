@@ -1,0 +1,31 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:GENCOM.JPG|255px]]
+|caption=Genesis<br>Steve Skroce, Art
+|comic_color=background:#ff8080
+|character_name=Genesis
+|real_name=Tyler Dayspring
+|publisher=[[Marvel Comics]]
+|debut=''X-Force'' #5 (as Mr. Tolliver), ''Cable'' Vol. 2 #1 (as Tyler Dayspring)
+|creators=[[Peter David]] (story) and [[Sam Kieth]] (art)
+|alliance_color=background:#c0c0ff
+|status=Deceased
+|alliances=[[Dark Riders (comics)|Dark Riders]] (leader)
+|previous_alliances=Unrevealed
+|aliases=Mr. Tolliver
+|relatives=[[Cable (comics)|Cable]] (father), [[Stryfe]] (adoptive father and clone of father)
+|powers= ability form psionic link with others in order to project solid holograms of memories of subject, advanced knowledge of technology.
+|}}
+'''Genesis''' (real name '''Tyler Dayspring''') is a fictional character in the comic books published by [[Marvel Comics]].  He is a foe of [[Cable (comics)|Cable]] and [[Wolverine (comics)|Wolverine]].  His first appearance was as '''"Mister Tolliver"''' in ''[[X-Force]]'' #5 (1992); his first appearance as Tyler Dayspring was ''Cable'' volume 2 #1, and his first appearance as Genesis was in ''Cable'' volume 2 #19. He is a mutant. 
+
+==Character Biography==
+Tyler is the son of Cable, the mutant cyborg from the future. He had been abducted by the villain [[Stryfe]] as a child and corrupted. He used [[time travel]] to come to the present, following his father. Adopting the alias of Tolliver, he hired the mercenary [[Deadpool]] and the futuristic android [[Zero (comics)|Zero]] to assassinate those whose deaths would change the future to his liking.
+
+Later, adopting the identity '''Genesis''', Tyler sought to replace [[Apocalypse (comics)|Apocalypse]] in his role as warlord in the future history of his timeline, and chose [[Wolverine (comics)|Wolverine]] to be a soldier in his army, the Dark Riders. He attempted to erase Wolverine's mind and re-bond adamantium to Wolverine's skeleton.  On both accounts he failed. Wolverine's mutation was sent into overdrive and he reverted into a beast-like, almost simian form. Wolverine killed Genesis in ''Wolverine'' volume 2 #100.
+
+==Powers==
+He was a mutant with ability to form a psionic link with another consciousness and visually project those memories as solid holograms. (Genesis mutant ability is revealed in "''The Official Handbook of the Marvel Universe: Wolverine 2004''")
+
+
+[[Category:Marvel Comics mutants]]
+[[Category:Wolverine villains]]
+[[Category:X-Men villains]]

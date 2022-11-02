@@ -1,0 +1,41 @@
+{{for|the [[Steve Gerber]]-created character|Omega the Unknown}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Omega
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Fantastic Four]] #131'' (Feb 1973)
+|creators=[[Roy Thomas]] and [[Ross Andru]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+{{Unreferenced|date=April 2008}}
+
+'''Omega''' is a fictional character in the [[Marvel Universe]].
+
+==Publication history==
+Omega first appeared in ''[[Fantastic Four]]'' #131 (February 1973), and was created by [[Roy Thomas]] and [[Ross Andru]].
+
+The character subsequently appears in ''Marvel Team-Up'' #11 (July 1973), ''Avengers'' #127 (September 1974), ''Fantastic Four'' #150 (September 1974), and ''Avengers'' #20 (September 1999).
+
+==Fictional character biography==
+Omega is a gigantic humanoid creation of [[Maximus (comics)|Maximus]] which draws upon psionic power from the racial hatred of the [[Inhumans]] towards the [[Alpha Primitive]]s, and converts that power into strength.  
+
+Later, [[Ultron]] betrayed Maximus and placed his computer-mind within an enlarged adamantium head and transplanted it atop Omega's body.  In this form, Ultron attacked the [[Avengers (comics)|Avengers]], [[Fantastic Four]], and Inhumans.
+
+==External links==
+*http://www.marvunapp.com/Appendix/omegainhumans.htm
+
+
+[[Category:Marvel Comics supervillains]]
+
+
+{{Marvel-comics-stub}}

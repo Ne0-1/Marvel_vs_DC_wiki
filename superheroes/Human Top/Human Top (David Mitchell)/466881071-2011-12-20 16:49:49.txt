@@ -1,0 +1,45 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=|image=[[Image:goldengrrl.jpg|249px|]]
+|caption=Human Top (right bottom) appears alongside the [[Kid Commandos]]. From ''The Invaders'' #28.
+|comic_color=background:#ff8080
+|character_name=Human Top
+|real_name= David Mitchell
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Invaders (comics)|Invaders]] #27'' (Apr 1978)
+|creators=[[Roy Thomas]]<br>[[Frank Robbins]]
+|alliance_color=background:#c0c0ff
+|alliances=[[Kid Commandos]]<br/>Penance Council
+|aliases=
+|powers=
+|}}
+
+'''Human Top''' ('''David Mitchell''') is a fictional character in the [[Marvel Universe]].
+
+==Publication history==
+The Human Top first appeared in ''[[Invaders (comics)|Invaders]]'' #27-28 (April-May 1978) and was created by [[Roy Thomas]] and [[Frank Robbins]].
+
+The character subsequently appears in ''The Invaders'' #38-39 (March-April 1979), #41 (September 1979), ''The Invaders'' #1 (May 1993), ''Citizen V and the V-Battalion'' #2 (July 2001), and ''Citizen V and the V-Battalion: The Everlasting'' #1 (March 2002), and #3 (June 2002).
+
+==Fictional character biography==
+David "Davy" Mitchell was a World War II hero, and member of [[Kid Commandos]].  He had the power to spin like a top at super-speed.
+
+During [[World War II]], teenagers David "Davy" Mitchell and Gwenny Lou Sabuki, were present at a stateside battle in which sidekicks [[Bucky]] (Bucky Barnes) and [[Toro (comics)|Toro]] (Thomas Raymond) of the superhero team the [[Invaders (comics)|Invaders]] fought the supervillain [[Agent Axis#Marvel Comics|Agent Axis]]. During the battle, one of Gwenny's father's inventions accidentally gave Gwenny and Davy superhuman powers. She became [[Golden Girl#Gwenny Lou Sabuki|Golden Girl]], he the Human Top.<ref>''Invaders'' #28</ref> The four youthful heroes defeated Agent Axis, and later formed the Kid Commandos, who were allied with the adult Invaders.
+
+After the war, he was a member of the Penance Council and [[V-Battalion]].
+
+His son, as Twister, had tried using mechanical means to simulate the powers of the Human Top, but eventually decided to serve the V-Battalion in a scientific capacity.  Davy is also the grandfather of [[Topspin (comics)|Topspin]].
+
+==References==
+{{reflist}}
+
+==External links==
+*http://web.archive.org/web/20091026205941/http://www.geocities.com/ratmmjess/top.html
+*http://www.marveldatabase.com/Human_Top_(David_Mitchell)
+
+
+[[Category:Marvel Comics superheroes]]
+
+{{Marvel-hero-stub}}
+
+[[tl:Human Top (David Mitchell)]]

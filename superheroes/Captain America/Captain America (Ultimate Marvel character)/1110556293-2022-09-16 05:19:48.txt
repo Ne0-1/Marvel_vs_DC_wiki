@@ -1,0 +1,189 @@
+{{Short description|Alternate version of Captain America in Marvel Multiverse}}{{distinguish|Steve Rogers (Marvel Cinematic Universe)}}
+{{Primary sources|date=March 2022}}
+{{Infobox comics character and title
+<!--Wikipedia:WikiProject Comics-->
+| character_name = [[Captain America]]
+| image          = Captain America (Ultimate Marvel character).jpg
+| imagesize      = <!-- default 250 -->
+| caption        = Cover art for ''[[The Ultimates (comic book)|The Ultimates]]'' #11.<br>Art by [[Bryan Hitch]].
+| publisher      = [[Marvel Comics]] ([[Ultimate Marvel]] imprint)
+| debut          = ''[[The Ultimates (comic book)|The Ultimates]]'' #1<br>(March 2002)
+| creators       = [[Mark Millar]]<br>[[Bryan Hitch]]<br>(based upon the [[Captain America|original character]] by [[Joe Simon]] and [[Jack Kirby]])
+| alter_ego      = Steven "Steve" Rogers
+| full_name      =
+| species        = [[Human]]
+| homeworld      = <!-- optional -->
+| alliances      = [[Ultimates|The Ultimates]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = Physical attributes enhanced to a super human level.<br>Expert [[martial artist]] and hand-to-hand combatant<br>All terrain acrobatics<br>Master [[Military tactics|tactician]] and field commander<br>[[Captain America's shield|Vibranium Adamantium shield]]
+
+<!--Series section-->
+<!-- |title               = Ultimate Captain America -->
+|cvr_image           = Uccap01.jpg
+|cvr_caption         = {{Descript-cvr|Ultimate Comics: Captain America||1|Jan 2011}}Art by [[Ron Garney]].
+|cvr_alt             = Cover of the first issue of the series.
+|schedule            = Monthly
+|limited             = y
+|Superhero           = y
+|pub_series          = [[Marvel Comics]]
+|date                =
+|1stishhead          =
+|1stishyr            = 2011
+|1stishmo            = January - April
+|endishyr            =
+|endishmo            =
+|issues              = 4 of 4
+|main_char_team      = Ultimate Captain America
+|writers             = [[Jason Aaron]]
+|artists             = [[Ron Garney]]
+|pencillers          =
+|inkers              =
+|letterers           = Clayton Cowles
+|colorists           = Jason Keith<br />Jim Charalampidis
+|editors             =
+|creative_team_month =
+|creative_team_year  =
+|creators_series     =
+|TPB                 =
+|ISBN                =
+|cat                 = super
+|pubcat              = Marvel Comics
+|altcat              = Captain America
+|limcat              = Marvel
+|hero                = y
+|villain             =
+|sortkey             = Ultimate Captain America
+|sort_title          = Ultimate Captain America
+|addcharcat1         = Ultimate Marvel characters
+|addpubcat#          =
+}}
+'''Captain America''' ('''Steven''' "'''Steve'''" '''Rogers''') is a <!--Do not add "fictional" as it is tautological; superheroes (and characters in general) are by definition implied to be fictionalized to some extent.-->[[superhero]] appearing in books published by [[Marvel Comics]]. He appears in the [[Ultimate Marvel]] line of books, and is an alternative version of [[Captain America]]. The character first appeared in ''[[The Ultimates (comic book)|The Ultimates]]'' #1 (March 2002), and was created by writer [[Mark Millar]] and artist [[Bryan Hitch]] (based upon the original version of the character by [[Joe Simon]] and [[Jack Kirby]]).
+
+==Fictional character biography==
+Steve Rogers grew up in [[Brooklyn]] during the [[Great Depression]], a scrawny child protected from neighborhood bullies by his best friend, [[Bucky (Marvel Comics)|"Bucky" Barnes]]. Horrified by newsreel footage of the [[Nazis]] in [[Europe]], Rogers was inspired to enlist in the [[U.S. Army|Army]] around the time that the [[United States]] entered [[World War II]]. However, because of failing the physical test, he was rejected. Refusing to work in factories, he reattempted enlistment several times. His luck changed during another visit to a Recruitment Center when [[Dum Dum Dugan|Military Sergeant Dugan]] recruited him for [[Weapon Plus#Weapon I|Project: Rebirth]], after hearing Rogers' pleas. After voluntarily subjecting to surgery, steroid treatments, and other experimental treatments supervised by [[Abraham Erskine|Doctor Erskine]], Rogers became the first genetically-enhanced super-soldier. During the final treatment, he noticed a suspicious soldier focusing on him instead of standing guard. The shady man revealed himself as a Nazi spy sent to murder Rogers in the event that he survived the entire experiment. Rogers stopped him from destroying the experiment, but not before the spy murdered  Doctor Erskine and other soldiers who attempted to stop him. Fully committing himself to the American war efforts, Rogers bid farewell to his sweetheart [[Gail Richards]], becoming '''Captain America'''.<ref>{{Cite comic | Writer = [[Brian Michael Bendis]] | Artist = Jackson Guice | Colorist = Justin Ponsor | Title = Ultimate Origins #2 | Date = July 2008 | Publisher = [[Marvel Comics]] }}</ref>
+
+For the next three years, he underwent numerous covert operations, often accompanied by Bucky, now a war photographer, and sometimes alongside [[Ultimate Wolverine|James "Lucky Jim" Howlett]]. During one mission, Captain America was able to infiltrate [[Arnim Zola#Ultimate Arnim Zola|Arnim Zola]]'s facility and kill his first experimental monster, which Zola dubbed "Siegsoldat" ("Victory soldier"). The experiment's dead body then fell on Arnim Zola, seemingly killing him.<ref name="ReferenceC">{{Cite comic | Writer = Charlie Huston | Artist = Mike Deodato | Colorist = Rainier Beredo | Title = Ultimates Annual #2 | Date = August 2006 | Publisher = [[Marvel Comics]] }}</ref> During one of his few leaves he met up with Gail and they spent the night together, which resulted in her becoming pregnant.<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Carlos Pacheco | Colorist = Justin Ponsor | Title = Ultimate Avengers #2 | Date = September 2009 | Publisher = [[Marvel Comics]] }}</ref> He would later come into battle with Herr Kleiser, who possessed a prototype atomic bomb, made with alien technology, and was meant to target the White House. Captain America managed to get to the bomb as it was launched. In a successful attempt to stop it in mid air, he fell into the sea and was lost, presumed dead.<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Paul Mounts | Title = Ultimates #1 | Date = March 2002 | Publisher = [[Marvel Comics]] }}</ref>
+
+===[[The Ultimates (comic book)|The Ultimates]]===
+Years later, Captain America was found in the [[Arctic Ocean]], frozen in a block of ice, and was revived.<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Paul Mounts | Title = Ultimates #2 | Date = April 2002 | Publisher = [[Marvel Comics]] }}</ref> Initially he thought [[S.H.I.E.L.D.#Ultimate S.H.I.E.L.D.|S.H.I.E.L.D.]] were a group of Nazi soldiers who had  captured him, but eventually realized that he was in a different time after seeing a modern [[New York City]]. He discovers that his best friend Bucky Barnes is now married to his fiancée and that all of his loved ones are dead.<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Paul Mounts | Title = Ultimates #3 | Date = May 2002 | Publisher = [[Marvel Comics]] }}</ref>
+
+After catching up to his new era, Captain America is inducted into the [[Ultimates]], the superhero task force maintained by S.H.I.E.L.D.<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Paul Mounts | Title = Ultimates #4 | Date = June 2002 | Publisher = [[Marvel Comics]] }}</ref> Soon after, the Ultimates are faced with the Hulk. Rogers was able to put down the Hulk briefly during combat. When he was about to inject the [[Hulk (Ultimate Marvel character)|Hulk]] with an antidote, Hulk made a surprise attack and broke the needle and Hulk then began beating Cap, until [[Ultimate Thor|Thor]] came to the rescue. After Hulk had reverted to Banner, Cap knocked him out and had him taken back to the [[Triskelion]].<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Paul Mounts | Title = Ultimates #5 | Date = July 2002 | Publisher = [[Marvel Comics]] }}</ref>
+
+After learning that his teammates [[Henry Pym#Ultimate Marvel|Hank]] and [[Wasp (comics)#Ultimate Marvel|Janet Pym]]'s quarrels with each other had left Janet hospitalized and nearly dead,<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Paul Mounts | Title = Ultimates #6 | Date = August 2002 | Publisher = [[Marvel Comics]] }}</ref> Rogers tracked the now fugitive Hank Pym to a bar and engaged him in combat, emerging victorious.<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Paul Mounts | Title = Ultimates #8 | Date = November 2002 | Publisher = [[Marvel Comics]] }}</ref><ref name="ReferenceA">{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Paul Mounts | Title = Ultimates #9 | Date = April 2003 | Publisher = [[Marvel Comics]] }}</ref> He then takes Janet flowers and other gifts, but she was not amused by his actions and rejected his gifts.<ref name="ReferenceA"/> Rogers soon discovered that his nemesis, Herr Kleiser, had survived World War II and was an alien soldier. This was why he would always seem to survive, Cap saying that he has killed Kleiser "twice".<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Paul Mounts | Title = Ultimates #10 | Date = July 2003 | Publisher = [[Marvel Comics]] }}</ref> When Kleiser resurfaced, he and Captain America resumed their enmity. During the Chitari invasion, Rogers fought Kleiser in combat, but was unable to defeat him due to his regeneration abilities.<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Paul Mounts | Title = Ultimates #12 | Date = November 2003 | Publisher = [[Marvel Comics]] }}</ref> When the Hulk was dropped into their battle, Captain America convinced Hulk that Kleiser was "hitting on [[Betty Ross|Betty]]", causing Hulk to mutilate and then eat Herr Kleiser.<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Paul Mounts | Title = Ultimates #13 | Date = December 2003 | Publisher = [[Marvel Comics]] }}</ref> After the successful battle against the Chitari, Rogers danced with Janet Pym and a relationship between them bloomed.<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Laura Martin | Title = Ultimates #13 | Date = December 2003 | Publisher = [[Marvel Comics]] }}</ref> The relationship would later become sour as Rogers' 1940s personality created a generation gap between him and the Wasp, causing her to secretly go back to her ex-husband.<ref name="U27">{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Laura Martin | Title = Ultimates 2 #7 | Date = September 2005 | Publisher = [[Marvel Comics]] }}</ref>
+
+===Ultimate War===
+During the events of Ultimate War, the Ultimates battle with the [[Ultimate X-Men|X-Men]] after [[Ultimate Magneto|Magneto]] was found alive and members of The Brotherhood of Mutants bombed the [[Brooklyn Bridge]]. S.H.I.E.L.D. believe the X-Men have teamed up with the Brotherhood.<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Chris Bachalo | Colorist = Paul Mounts | Title = Ultimate War #1 | Date = February 2003 | Publisher = [[Marvel Comics]] }}</ref>  Captain America then vows that he will kill Magneto.<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Chris Bachalo | Colorist = Paul Mounts | Title = Ultimate War #2 | Date = February 2003 | Publisher = [[Marvel Comics]] }}</ref> Later the X-Men are framed to make it look like they teamed up with Magneto.<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Chris Bachalo | Colorist = Paul Mounts | Title = Ultimate War #3 | Date = March 2003 | Publisher = [[Marvel Comics]] }}</ref> The Ultimates with the support of numerous S.H.I.E.L.D agents succeed in capturing the X-Men and [[Alternative versions of Professor X#Ultimate Charles Xavier|Professor Xavier]] is taken into S.H.I.E.L.D. custody.<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Chris Bachalo | Colorist = Paul Mounts | Title = Ultimate War #4 | Date = March 2003 | Publisher = [[Marvel Comics]] }}</ref>
+
+===[[Ultimate Six]]===
+During the Ultimate Six story arc Captain America leads the Ultimates in the arrests of [[Ultimate Electro|Electro]] and [[Kraven the Hunter]].<ref>{{Cite comic | Writer = [[Brian Michael Bendis]] | Artist = Trevor Hairsine | Colorist = Dave Stewart | Title = Ultimate Six #1 | Date = November 2003 | Publisher = [[Marvel Comics]] }}</ref> Later those two–along with the [[Ultimate Sandman|Sandman]], [[Doctor Octopus]], and the [[Green Goblin]]—escape from S.H.I.E.L.D.<ref>{{Cite comic | Writer = [[Brian Michael Bendis]] | Artist = Trevor Hairsine | Colorist = Dave Stewart | Title = Ultimate Six #2 | Date = November 2003 | Publisher = [[Marvel Comics]] }}</ref> He becomes very disheartened when he finds out that these villains were all a result of trying to duplicate the Super Soldier serum.<ref>{{Cite comic | Writer = [[Brian Michael Bendis]] | Artist = Trevor Hairsine | Colorist = Dave Stewart | Title = Ultimate Six #5 | Date = February 2004 | Publisher = [[Marvel Comics]] }}</ref> During an attack on the White House lawn Captain America wrestled with [[Spider-Man (Ultimate Marvel character)|Spider-Man]] with neither out-powering the other. He then explained the truth to Spider-Man that his [[Aunt May|aunt]] was safe with S.H.I.E.L.D.<ref>{{Cite comic | Writer = [[Brian Michael Bendis]] | Artist = Trevor Hairsine | Colorist = Dave Stewart | Title = Ultimate Six #6 | Date = March 2004 | Publisher = [[Marvel Comics]] }}</ref> Captain America then fought the Green Goblin landing several hits while not being hit once. The Ultimates and Spider-Man defeat the five villains and they are taken back into custody.<ref>{{Cite comic | Writer = [[Brian Michael Bendis]] | Artist = Trevor Hairsine | Colorist = Dave Stewart | Title = Ultimate Six #7 | Date = June 2004 | Publisher = [[Marvel Comics]] }}</ref>
+
+===[[The Ultimates 2]]===
+Cap and the Ultimates were later under fire from the press and public due to the belief that Thor had revealed that Bruce Banner was indeed the Hulk.<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Laura Martin | Title = Ultimates 2 #1 | Date = December 2004 | Publisher = [[Marvel Comics]] }}</ref> In a meeting with Thor, Thor brought up the fact that Captain America killed many people and still goes to church, saying that he's confused with his morals.<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Laura Martin | Title = Ultimates 2 #2 | Date = January 2005 | Publisher = [[Marvel Comics]] }}</ref> The Ultimates fought Thor and eventually captured him when his power belt was removed by [[Quicksilver (comics)|Quicksilver]].<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Laura Martin | Title = Ultimates 2 #4 | Date = March 2005 | Publisher = [[Marvel Comics]] }}</ref><ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Laura Martin | Title = Ultimates 2 #5 | Date = April 2005 | Publisher = [[Marvel Comics]] }}</ref> From then on the Ultimates became involved in foreign affairs wherein America attempted to control Third World countries' nuclear resources.<ref name="U27"/>
+
+The Ultimates' actions led to Third World countries forming their own superhuman team, dubbed "[[Masters of Evil|the Liberators]]".<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Laura Martin | Title = Ultimates 2 #9 | Date = December 2005 | Publisher = [[Marvel Comics]] }}</ref> Captain America was framed by [[Ultimate Black Widow|Black Widow]] for the assassination of [[Ultimate Hawkeye|Hawkeye]]'s family and was hastily subdued and arrested when he was visiting Bucky for consolation after his relationship with Janet Pym ended bitterly for him.<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Laura Martin | Title = Ultimates 2 #8 | Date = September 2005 | Publisher = [[Marvel Comics]] }}</ref> He was imprisoned in the [[Triskelion]]. When the Liberators attacked the United States, he was freed by the Wasp and defeated multiple copies of the [[The Schizoid Man (comics)|Schizoid Man]] rather than killing him while escaping the prison.<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Laura Martin | Title = Ultimates 2 #11 | Date = June 2006 | Publisher = [[Marvel Comics]] }}</ref>  He and the Wasp soon reached the White House where they met with Hawkeye, Nick Fury, the [[Scarlet Witch]] and Quicksilver. Captain dueled with his Liberators counterpart, [[Red Guardian|The Colonel]], and emerged victorious after stabbing the Colonel in the chest with one end of the double-bladed [[energy sword]] that the Colonel used.<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Laura Martin | Title = Ultimates 2 #12 | Date = September 2006 | Publisher = [[Marvel Comics]] }}</ref>
+
+After the Liberators are defeated, Steven Rogers somberly looked over the Colonel's body being transferred away by S.H.I.E.L.D., and thought of what he said to him about America's current role in the world. Seeing how having the Ultimates working with the United States government "policing" the world would produce similar results to their battle against the Liberators, Rogers and his team decided to leave S.H.I.E.L.D. and to continue to work as an independent team instead.<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Bryan Hitch | Colorist = Laura Martin | Title = Ultimates 2 #13 | Date = May 2007 | Publisher = [[Marvel Comics]] }}</ref>
+
+===Post Liberators===
+After the Liberators short occupation Captain America helped in the rebuilding of New York City until he found out that his old Nazi nemesis Arnim Zola did not die; instead the O.S.S. rescued him so as to harvest his intellect on the post-war super soldier program. Later they mapped his brain and created an artificial intelligence out of it before the tumors he had could degrade his mind. A white survivalist group called the "Marauders" attacked the military base where Arnim Zola's AI was being held and stole this intelligence, along with some other weaponry. Cap was furious at this and immediately went with the [[Falcon (comics)#Ultimate Falcon|Falcon]] to Missouri to stop the Marauders and Zola. Unknown to Cap Arnim Zola was then able to convince the leader of the "Marauders" to allow Zola to experiment on him. Zola mutated the man until he was approximately 20-foot (6.1 m) tall and installed armor plating (and Zola's AI brain) on him with a hologram of Zola projected from the chest. He then took over the "Marauders" and got them to gather people for his experiments. Once they found the Marauder's camp Cap held off the marauders and Zola's new monster Seigsoldat-X while the Falcon freed the Prisoners. Together with the freed prisoners they tore apart Seigsoldat-X until all that remained was the Arnim Zola AI whereupon, Captain America collapsed a support strut onto the Zola AI, finally bringing an end to the Nazi.<ref name="ReferenceC"/>
+
+===[[The Ultimates 3]]===
+Before the events of the Liberators' attack, Steve befriended [[T'Challa]], the Black Panther, and trained him in preparation for making him a member of the Ultimates. As the team's deputy leader, Rogers was uncomfortable with the notion of working with a man that he knew so little about. After Steve alarmingly discovered that T'Challa's throat was heavily damaged and that these injuries caused his muteness, he pressed Fury for more information.  Fury lied about the origin of T'Challa's scars, and about T'Challa's history with the Weapon X Program, while also telling him that everything about the "Black Panther" was classified.<ref name="ReferenceB">{{Cite comic | Writer = [[Jeph Loeb]] | Artist = Marko Djurdjevic | Colorist = Marko Djurdjevic | Title = Ultimate Captain America #1 | Date = October 2008 | Publisher = [[Marvel Comics]] }}</ref>
+
+Captain America eventually established a means of communicating with T'Challa and learned of the man's desire to return to [[Wakanda]] to see his father. Since no one but Cap had ever seen T'Challa's true face, he decided to take his place in the Ultimates, enabling the real Black Panther the chance to return home.<ref name="ReferenceB"/>
+
+Following the Ultimates' separation with S.H.I.E.L.D., Rogers secretly adopted the identity of the Black Panther.<ref name="ReferenceB"/>  Eventually his secret was blown when [[Ultimate juggernaut|Juggernaut]] literally beat Rogers' costume off of him. Iron Man and Wasp arrived with Cap's shield and uniform. He then led the Ultimates against their robotic doppelgangers.<ref>{{Cite comic | Writer = [[Jeph Loeb]] | Artist = Joe Madureira | Colorist = Christian Lichtner | Title = Ultimates 3 #4 | Date = March 2008 | Publisher = [[Marvel Comics]] }}</ref><ref>{{Cite comic | Writer = [[Jeph Loeb]] | Artist = Joe Madureira | Colorist = Christian Lichtner | Title = Ultimates 3 #5 | Date = September 2008 | Publisher = [[Marvel Comics]] }}</ref>
+
+===[[Ultimatum (Ultimate Marvel)|Ultimatum]]===
+Captain America drowned when Magneto's Ultimatum Wave hit New York.<ref>{{Cite comic | Writer = [[Jeph Loeb]] | Artist = David Finch | Colorist = Steve Firchow | Title = Ultimatum #2 | Date = December 2008 | Publisher = [[Marvel Comics]] }}</ref> While in Valhalla, Thor appeared to save the life of his love, Valkyrie, and traded his own life for Valkyrie and Steve Rogers.<ref>{{Cite comic | Writer = [[Jeph Loeb]] | Artist = David Finch | Colorist = Steve Firchow | Title = Ultimatum #3 | Date = March 2009 | Publisher = [[Marvel Comics]] }}</ref> Cap then led a team of Ultimates, while Jean Grey led a team X-Men against Magneto and vowed to not let Thor's sacrifice be in vain.<ref>{{Cite comic | Writer = [[Jeph Loeb]] | Artist = David Finch | Colorist = Steve Firchow | Title = Ultimatum #4 | Date = June 2009 | Publisher = [[Marvel Comics]] }}</ref> Magneto was defeated and the world began its rebel against mutants.<ref>{{Cite comic | Writer = [[Jeph Loeb]] | Artist = David Finch | Colorist = Steve Firchow | Title = Ultimatum #5 | Date = July 2009 | Publisher = [[Marvel Comics]] }}</ref>
+
+===[[Ultimate Requiem|Post Ultimatum]]===
+Shortly after defeating Magneto, Captain America, Iron Man, and the military are searching for survivors in the ruins of New York City. Captain America finds a maskless Spider-Man in the rubble and digs him out.<ref>{{Cite comic | Writer = [[Brian Michael Bendis]] | Artist = Wade von Grawbadger | Colorist = Stuart Immonen, Justin Ponsor | Title = Ultimatum: Spider-Man Requiem #2 | Date = July 2009 | Publisher = [[Marvel Comics]] }}</ref> Later while the X-Men dig graves for the fallen, Sabretooth, Mystique, and Assemble arrive, claiming that they have come to pay their respects. However, Jean Grey blames them for the destruction, and a fight ensues. Captain America arrives, decapitating Assemble and stating that he also came to pay respect to the fallen X-Men.<ref>{{Cite comic | Writer = Aron Coleite | Artist = Ben Oliver | Colorist = Mark Brooks | Title = Ultimatum: X-Men Requiem #1 | Date = July 2009 | Publisher = [[Marvel Comics]] }}</ref>
+
+===[[Ultimate Comics: Avengers|The Red Skull and the Avengers]]===
+Months after Ultimatum, Captain America and Hawkeye fought a group of AIM terrorists at the Baxter Building who were stealing the building's valuable and powerful technologies. After defeating a majority of the terrorists, Cap encountered the Red Skull, who easily beat him. The Red Skull then shockingly revealed to Rogers that he was his own son before throwing him out of a helicopter, which Cap was saved by Hawkeye.<ref name="UCA1">{{Cite comic | Writer = [[Mark Millar]] | Artist = Carlos Pacheco | Colorist = Justin Ponsor | Title = Ultimate Comics: Avengers #1 | Date = September 2009 | Publisher = [[Marvel Comics]] }}</ref>
+
+After learning that the Red Skull's words to him were true and that his mother is Gail Richards, Captain America decided to personally confront his son, in which he abandoned the Ultimates and attacked S.H.I.E.L.D. agents in the process. Rogers later infiltrate the Army's computer database and discovered the truth of the Red Skull.<ref name="UCA1"/> Sometime later Captain America was in Paris, France for his own reasons. Rogers created a plot to which he would place Nick Fury's Ultimates, who were coming for him to capture him, with tracers, and allow him to later find his son, whom the Avengers were also in pursuit. Cap fought the Avengers, managing to defeat all of them. He was subsequently subdued and captured by the Avengers. However this was all a part of his plan to get to the Red Skull as during the fight Cap managed to place tracers on War Machine, Red Wasp, and Black Widow.<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Carlos Pacheco | Colorist = Justin Ponsor | Title = Ultimate Comics: Avengers #3 | Date = October 2009 | Publisher = [[Marvel Comics]] }}</ref><ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Carlos Pacheco | Colorist = Justin Ponsor | Title = Ultimate Comics: Avengers #4 | Date = November 2009 | Publisher = [[Marvel Comics]] }}</ref>
+
+Escaping the [[France|French]] S.H.I.E.L.D. guards, Cap jumped into a tele-plane (a jet which teleports), to where the Avengers were fighting the [[Red Skull]], in [[Alaska]].<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Carlos Pacheco | Colorist = Justin Ponsor | Title = Ultimate Comics: Avengers #5 | Date = March 2010 | Publisher = [[Marvel Comics]] }}</ref> When he arrived, Red Skull, who was wielding the Cosmic Cube, subdued Rogers' jet. However, Cap ordered Hawkeye the coordinates for the Red Skull's position in which he had the jet teleport to the Red Skull and fatally impale his son on the tele-plane's nose. After the Red Skull was in custody, Rogers emotionally bear witness to Gail Richards to be briefly reunited with her dying son.<ref>{{Cite comic | Writer = [[Mark Millar]] | Artist = Carlos Pacheco | Colorist = Justin Ponsor | Title = Ultimate Comics: Avengers #6 | Date = April 2010 | Publisher = [[Marvel Comics]] }}</ref>
+
+===[[Ultimate Comics: New Ultimates|New Ultimates]]===
+Steve Rogers is currently a member of the New Ultimates, and helped Valkyrie, Zarda, Iron Man and Hawkeye fight off an attack from [[Defenders (comics)#Alternate versions|the Defenders]], who managed to steal [[Mjolnir (comics)|Thor's hammer]] before they retreated.<ref>[[Loeb, Jeph]]. ''Ultimate New Ultimates'' #1 - 5 (March 2010 - February 2011), [[Marvel Comics]]</ref>
+
+===Ultimate Captain America series===
+Rogers learns that the Captain America project was maintained after he was lost in World War II.  A more aggressive successor was selected for USA operations during the Vietnam War.  The "1960s Captain America" (named [[Nuke (Marvel Comics)#Ultimate Comics|Frank Simpson]]) has returned and is not pleased with the return of the World War II Cap and seeks to make himself the only active Cap. Rather than kill Rogers, Simpson instead beats him to the point of collapse.<ref>{{Cite comic | Writer = Jason Aaron | Artist = Ron Garney | Colorist = Jason Keith | Title = Ultimate Comics: Captain America #1 | Date = January 2011 | Publisher = [[Marvel Comics]] }}</ref>  Steve wakes up two days later in the French hospital where he is given a briefing by SHIELD Director Danvers about Simpson.<ref name="UCCA2">{{Cite comic | Writer = Jason Aaron | Artist = Ron Garney | Colorist = Jason Keith, Jim Charalampidis | Title = Ultimate Comics: Captain America #2 | Date = February 2011 | Publisher = [[Marvel Comics]] }}</ref>
+
+Frank Simpson's background is similar to the circumstances of Steve Rogers. Swept up in nationalistic pride, he attempted to join the United States Army in order to serve overseas, but due to his original physical stature he is rejected. He is then inducted into a secret program similar to that of "Project: Rebirth". Due to the formula of the Super Soldier Serum having died with the death of Dr Abraham Erskine, he went through a painful combination of steroids as well as physical and psychological training in order to prepare for his assignment. Danvers reveals that originally, Simpson was overjoyed about serving his country and amassed a high enemy casualty count. But then the psychological pressure began to wear down on him and after an operation for the Phoenix Program he simply disappeared.<ref name="UCCA2"/>
+
+Rogers, sensing that Carol told him this in order for him to make it look like he went AWOL, subdued Danvers and left to hunt down Frank Simpson. Once in Vietnam, Rogers' search for Simpson results in being told about a secret village deep in the Vietnamese forest.  Unfortunately, the source of this news along with the rest of the village has a synthesis of the Super Soldier Serum via Simpson's blood flowing through them and Steve is captured and taken prisoner.<ref name="UCCA2"/>  Day after day he is physically and psychologically tortured and Simpsons attempts to brainwash him with anti-American diatribes.<ref name="UCCA3">{{Cite comic | Writer = Jason Aaron | Artist = Ron Garney | Colorist = Jason Keith, Matt Milla | Title = Ultimate Comics: Captain America #3 | Date = March 2011 | Publisher = [[Marvel Comics]] }}</ref>
+
+One day two S.H.I.E.L.D. employees sent to rescue Steve are captured and later executed because they are mistaken for assassins.  Steve upon seeing this begins to pray and Simpson decides to indulge in his beliefs before executing him.  The page then fades to black as Simpson enters to execute Steve, but with a sound of physical pain emanating from the prison cell.<ref name="UCCA3"/>
+
+The sound of pain was the result of Frank screaming after having [[snake venom]] spat directly into his eyes from Steve. After a lengthy hand-to-hand fight with an argument about morality, Steve was able to emerge victorious over Simpson. Aware of the fact that he was surrounded by gun toting villagers with Super Soldier Serum flowing in their veins, he warns them that if they persisted in aiming to kill him, he will treat them as enemy combatants and show them no mercy. After the surrender of the villagers, a rescue by S.H.I.E.L.D., and some time to recuperate, Steve is seen having a beer with Hawkeye where he tells Hawkeye that he did not know if he would make it out of that jungle alive and it was God that sent him the cobra.  Hawkeye intimates that the Devil is not a possibility.  Feeling the need to put Frank on the right path and to lead him on the right path, Rogers visits Simpson in the [[Triskelion (comics)|Triskelion]] where he is hospitalized under supervision and begins to read the Bible to him.<ref>{{Cite comic | Writer = Jason Aaron | Artist = Ron Garney | Colorist = Jason Keith | Title = Ultimate Comics: Captain America #4 | Date = April 2011 | Publisher = [[Marvel Comics]] }}</ref>
+
+===Ultimate Comics Ultimates===
+Ultimate Cap is largely absent during the series of events initiated by [[Maker (Reed Richards)|Reed Richards]], leading to the destruction of Washington and death of POTUS [[Barack Obama]].<ref>''Ultimate Comics Ultimates'' 01-12</ref> He returns to assist new President Howard during the events of "Divided they Fall." The US is on the brink of civil war as some States decide to leave the Union, and the legitimacy of President Howard is being put into question.<ref>''Ultimate Comics Ultimates'' 13-14</ref>
+
+Captain America takes on the role of being the President of the United States after being made a [[write-in candidate]] in Issue 16 and reunites the warring states of America."<ref>{{cite web|last=Moore|first=Matt|title=CAPTAIN AMERICA GETS NEW JOB TITLE: US PRESIDENT|url=http://bigstory.ap.org/article/captain-america-gets-new-job-title-us-president|publisher=AP|access-date=18 September 2012}}</ref>
+
+===Return===
+When Maker collaborated with [[High Evolutionary]] to destroy the Superflow that kept the different universes separate in order to merge them into one reality, the Ultimates members Captain America, Iron Man, Giant-Man, Wasp, and Hulk were revived where they were to help Eternity fight the First Firmament.<ref>''Ultimates 2'' Vol. 2 #9</ref> When [[Ultimates (2015 team)|Earth-616's version of the Ultimates]] arrived on Counter-Earth to confront Maker about his actions, he ordered the Earth-1610 Ultimates to attack. As both versions of Ultimates concluded that there is no reason to fight each other, Maker killed the Earth-1610 Captain America for disobeying his orders.<ref>''Ultimates 2'' #100</ref>
+
+Captain America later turns up alive with the Ultimates when it is shown that Earth-1610 has been recreated.<ref>''Spider-Men II'' #5</ref>
+
+==Powers and abilities==
+Like his [[Earth-616]] counterpart, Ultimate Captain America underwent the super soldier procedure which turned him into America's first super soldier. Unlike his Earth 616 counterpart, however,  Ultimate Captain America's physical attributes have been augmented to superhuman, rather than peak human, levels. On a number of occasions characters have described his strength as enhanced (Nick Fury described him as being able to bench press a Toyota). He has been shown bending steel with his bare hands, catching a tree heavy enough to crush a Jeep. He is also shown jumping large distances, and the Ultimate Red Skull, when he was fourteen and scientists said he had abilities comparable to his father, is shown running alongside a motorcycle.
+
+Captain America is also shown to have fast healing( while nowhere near as powerful as Wolverine and Sabretooth's, in "Blade vs the Ultimates" a remembrance by Cap shows scientists saying he can heal gunshots and knife wounds in hours. Cap himself in ''Ultimates'' volume 1 says he should be able to heal broken bones in about a day or two.
+
+==Other versions==
+===Secret Wars (2015)===
+During the ''[[Secret Wars (2015 comic book)|Secret Wars]]'' storyline, a variation of the Ultimate Captain America resides in the Battleworld domain called the Kingdom of Manhattan where he also co-exists with a variation of his Earth-616 counterpart.<ref>''Ultimate End'' #1</ref>
+
+==In other media==
+===Television===
+* In ''[[The Avengers: Earth's Mightiest Heroes]]'', the [[Skrull]] that replaces Captain America wears Ultimate Captain America's uniform.
+
+===Film===
+* Captain America appears in the films ''[[Ultimate Avengers]]'' and ''[[Ultimate Avengers 2]]'', loosely based on the [[Ultimates]], voiced by [[Justin Gross]].
+* In the film ''[[Captain America: The First Avenger]]'', elements are taken from the Ultimate version, such as Bucky protecting him from bullies and knowing him since childhood, growing up in Brooklyn, and parts of his costume are incorporated into the film's uniform. His characterization is more in line with his traditional kinder self.
+* Elements of the Ultimate costume also appear in the modernized suit in ''[[The Avengers (2012 film)|The Avengers]]''.
+* In the 2014 film ''[[Captain America: The Winter Soldier]]'', Captain America jumps out of a [[Quinjet]] without a parachute in homage to the first issue of ''The Ultimates.''
+* In the films ''[[Avengers: Age of Ultron]]'' and ''[[Captain America: Civil War]]'', Captain America's suit was more modernized and modified based on his Golden Age uniform and S.T.R.I.K.E. Uniform as well. However, his suit was removed due to the ratification of the Sokovia Accords. This version of the uniform is dispensed with the electromagnets, re-adopting more traditional straps.
+
+===Video games===
+* The Ultimate costume is the default skin for Captain America in the video game ''[[Marvel: Ultimate Alliance]]'', as well as being worn in the cutscenes.
+* Ultimate Captain America appears with [[The Ultimates]] after Spider-Man battling with Green Goblin in ''[[Spider-Man: Battle for New York]]''.
+* In the video game ''[[Avengers: Battle for Earth]]'', Captain America wears the Ultimate costume, though the wings from his mainstream counterpart's cowl are also present.
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Steven_Rogers_(Earth-1610) Captain America of Earth-1610] at Marvel Wiki
+
+{{Captain America}}
+{{Ultimate Marvel}}
+{{S.H.I.E.L.D.}}
+{{Mark Millar}}
+
+[[Category:Alternative versions of Captain America]]
+[[Category:Characters created by Bryan Hitch]]
+[[Category:Comics characters introduced in 2002]]
+[[Category:Characters created by Mark Millar]]
+[[Category:Fictional characters from parallel universes]]
+[[Category:Fictional characters from New York City]]
+[[Category:Fictional cryonically preserved characters in comics]]
+[[Category:Fictional military strategists]]
+[[Category:Fictional Office of Strategic Services personnel]]
+[[Category:Fictional World War II veterans]]
+[[Category:Fictional presidents of the United States]]
+[[Category:Fictional super soldiers]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics military personnel]]
+[[Category:United States-themed superheroes]]
+[[Category:S.H.I.E.L.D. agents]]
+[[Category:Fictional shield fighters]]

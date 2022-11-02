@@ -1,0 +1,62 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = [[Image:Chemo.PNG|225px]]
+| caption = '''Chemo.'''<br />Art by [[Phil Jimenez]]
+| comic_color = background:#8080ff
+| character_name = Chemo
+| real_name = Chemo
+| publisher = [[DC Comics]]
+| debut = ''[[Showcase (comics)|Showcase]]'' #39 (July-August 1962)
+| creators = Robert Kanigher<br />Ross Andru<br />Mike Esposito
+| alliance_color = background:#c0c0ff
+| alliances =[[Injustice League]]<br/>[[Secret Society of Super Villains|The Society]]<br/>[[Suicide Squad]]
+| aliases =  
+| powers = Immense superhuman strength and durability, Super-regenerative capabilities, Capable of producing and expelling almost any kind of hazardous liquid material 
+|}}
+'''Chemo''' is a [[DC Comics]] [[supervillain]], and an enemy of the [[Metal Men]]. He first appeared in ''[[Showcase (comics)|Showcase]]'' #39 (July-August 1962).<ref name="dc-ency">{{Citation  | last = Jimenez | first = Phil | author-link = Phil Jimenez | contribution = Chemo | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 80  | publisher = [[Dorling Kindersley]]  | place = New York  | year = 2008 | ISBN = 0-7566-4119-5 | oclc = 213309017}}</ref>
+
+==Fictional character biography==
+Chemo was originally a huge plastic vessel, twenty-five feet tall and roughly man-shaped, built by eccentric scientist Ramsey Norton to contain the chemical by-products from his failed experiments to better motivate him to eventual success. The scientist meets with failure after failure in his experiments, but presses forward, and Chemo becomes filled with greater and greater quantities of various chemicals. 
+
+After attempting to create a growth formula that will enlarge plants to help feed starving nations, the scientist again is unsuccessful and pours the remnants of his project into Chemo, finally filling the massive vessel. These chemicals cause a massive reaction that results in Chemo coming to life and growing into a building-sized giant. Chemo proceeds to poison the scientist with a lethal dose of the growth-formula chemicals, and then goes on a rampage, only to be defeated by the robotic [[Metal Men]].<ref name="dc-ency"/>
+
+Chemo proves to be an impressively resilient monster.  It is apparently incapable of being killed.  It returns time and time again, undergoing various resurrections and mutations, and has several more encounters with the Metal Men as well as squaring off against [[Superman]] more than once. During the ''[[Crisis on Infinite Earths]]'', [[Brainiac (comics)| Brainiac]] and [[Lex Luthor]] use Chemo as a living weapon stationed on Earth-4. Chemo proceeds to destroy much of that earth's New York City and kills [[Aquagirl]] by spewing more than a dozen varieties of corrosive acids into the ocean. It is finally destroyed when [[Valentina Vostok| Negative Woman]] uses her energy powers to shatter Chemo's living plastic shell.
+
+After the Crisis, Chemo is resurrected and fights against a variety of superheroes, including its old enemies the Metal Men, Superman, and [[Supergirl]]. It has also fought with Superman as part of the [[Suicide Squad]] formed by President Lex Luthor to break [[Doomsday (comics)|Doomsday]] out of his prison at the [[JLA]] Watchtower teleporters. 
+
+===Infinite Crisis===
+{{main|Infinite Crisis}}
+
+[[Image:Destructbludhaven.PNG|The city of Blüdhaven is destroyed by Chemo. Panel from ''[[Infinite Crisis]]'' #4 (March 2006), art by [[Phil Jimenez]].|left|thumb]]
+[[Secret Society of Super Villains#3rd Formation|The Society]] has the [[Brotherhood of Evil]] acquire Chemo and they used Chemo as a living chemical weapon by dropping him onto the city of [[Blüdhaven]], killing hundreds of thousands of people. [[Dick Grayson]] (Nightwing) had agreed with [[Deathstroke]] for the 72 hours of ceasefire in Blüdhaven in exchange for staying away from [[Rose Wilson|Rose]]. However, Chemo is dropped before the 34th hour. Chemo bathes the entire city in radiation and toxic waste. All able-bodied superheroes attempt to save the infected, but Chemo quickly reforms itself. [[Superman]] battles the monster with the plan that he would regenerate quicker as the battle ensued. While Chemo regenerates, he continues to suck the toxins and radiation out of the city, cleansing the city of the remaining radiation and waste. In the end, Superman lifts Chemo and throws him into outer space.<ref>''Infinite Crisis'' #4</ref>
+
+===One Year Later===
+Later appearing in ''[[Outsiders (comics)|Outsiders - Five of a Kind]]: Nightwing/Captain Boomerang'', Chemo is encountered in space by Nightwing and [[Owen Mercer]] on a mission from Batman.
+
+On the cover of ''Justice League of America'' (vol. 2) #13, it shows Chemo as a member of the latest [[Injustice League]].
+
+===[[Salvation Run]]===
+Chemo is seen being transported to the Prison Planet.<ref>[[Salvation Run]] #2</ref> [[Joker (comics)|Joker]] and [[Gorilla Grodd]] use Chemo to destroy a burrowing [[Kraken]]-like creature that attacks the villains.<ref name="dc-ency"/><ref>Salvation Run #3</ref>
+
+==Baby Chemos==
+In ''Superman'' #663, rogue [[New Gods]] acting as "superheroes" in [[Metropolis (comics)|Metropolis]] capture a trio of multicolored "baby Chemos", miniature versions of the monster that Superman traces back to an abandoned [[LexCorp]] warehouse. [[Lana Lang]] explains that the new Chemos were constructed from samples obtained from the ruins of Blüdhaven and assures Superman that they are merely one of many clandestine LexCorp projects that were hidden by [[Lex Luthor|Luthor]] from his successors. The Chemos are last seen in the custody of the young New Gods; their fate is unknown.
+
+==Powers and abilities==
+Chemo has superhuman strength, endurance and some resistance to physical and energy attacks. He can alter his height from 25' to over 100' and spew acid hundreds of feet at a target.
+
+==Other media==
+In the ''[[Justice League (TV series)|Justice League]]'' episode "Metamorphosis" Pt. 2, Metamorpho's vengeance on Simon Stagg resulted in the creation of a synthoid (vocal effects are done by [[Dee Bradley Baker]]) that is based on Chemo.
+
+A promo for the original pilot episode (viewable on disc four of the ''Justice League'' Season 1 box set, ), briefly features Chemo battling the [[Martian Manhunter]].
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.dcuguide.com/who.php?name=chemo Unofficial Guide to DC Comics entry]
+
+[[Category:DC Comics robots]]
+[[Category:DC Comics supervillains]]
+[[Category:1962 comics characters debuts]]
+
+[[de:Schurken im Superman-Universum#Chemo]]
+[[tl:Chemo (komiks)]]

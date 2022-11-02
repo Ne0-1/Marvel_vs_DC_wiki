@@ -1,0 +1,39 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=The Agent.<br />
+|comic_color=background:#ff8080
+|character_name=The Agent
+|real_name=Rick Mason
+|publisher=[[Marvel Comics]]
+|debut=''Marvel Graphic Novel: Rick Mason, The Agent'' (1989)
+|creators=
+|alliance_color=background:#ffc0c0
+|alliances=[[S.H.I.E.L.D.]]
+|aliases=
+|powers=
+|}}
+
+'''The Agent''' ('''Rick Mason''') is a [[fictional character]] featured in some [[Marvel Comics]] publications.
+
+==Fictional character biography==
+The Agent is the son of prolific weapons designer Phineas Mason, better known in supervillain circles as [[Tinkerer|the Tinkerer]]. The Agent is a highly skilled covert operations specialist and has completed missions for the governments of many nations including [[United States|America]], [[Israel]], [[Japan]], and The [[United Kingdom]].
+
+His upbringing in New York City<ref>Official Handbook of the Marvel Universe A to Z Vol.1</ref> brought him into contact with many criminals due to his father's occupation. Ill at ease with wrong-doers, the Agent sought a path in life other than aiding others in perpetrating crimes. Becoming a mercenary the Agent worked for [[S.H.I.E.L.D.]] though was later hired by the [[United Kingdom|British]] government to prevent the super team [[China Force]] from overthrowing their rule of Hong Kong. Returning to S.H.I.E.L.D., he was required by [[Nick Fury]] to undertake a similar mission in [[Costa Brava (Marvel Comics)|Costa Brava]] involving American-backed rebels. The Agent discovered that one of his former teachers, Teng Yun-Suan, was responsible for both of these incidents. Yun-Suan met his death at the Agent's hands.
+
+The Agent remained on good terms with his father despite the latter making a living in a field he did not approve of. The [[Corporation (comics)|Corporation]] used this to their advantage and kidnapped the Agent to force the Tinkerer to work for them. Despite his escape, the Agent has since met his apparent death at the hands of a super-villain whose identity is unknown.
+
+Rossi is feautured in Ms. Marvel (2006) #32-34 in which he and Michael Rossi are seen working together in Afghanistan.
+
+==External links==
+* [http://marvel.com/universe/Agent_%28Rick_Mason%29 Marvel Official Bio]
+*http://www.marvunapp.com/Appendix/agentrm.htm
+
+==References==
+{{reflist}}
+
+[[Category:Fictional characters from New York City]]
+[[Category:Fictional mercenaries]]
+[[Category:Fictional secret agents and spies]]
+[[Category:Marvel Comics superheroes]]
+
+[[tl:Agent (komiks)]]

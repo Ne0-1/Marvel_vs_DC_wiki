@@ -1,0 +1,48 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:MammothJump.jpg|225px]]
+|caption=Mammoth, from ''[[Outsiders (comics)|Outsiders]]'' #13 (August 2004).  Art by [[Tom Raney]]. 
+|comic_color=background:#8080ff
+|character_name=Mammoth
+|real_name=Baran Flinders
+|publisher=[[DC Comics]]
+|debut=''New Teen Titans'' #3 (December 1980)
+|creators=[[Marv Wolfman]]<br>[[George Pérez]]
+|alliance_color=background:#cccccc
+|alliances=[[Injustice League]]<br/>[[Fearsome Five]]<br/>[[H.I.V.E.]]<br/>[[Secret Society of Super Villains]]
+|aliases=The Terminator
+|powers=Superhuman strength, stamina, and durability
+|}}
+'''Mammoth''' is the alias of '''Baran Flinders''', a [[fictional character]] that is a [[comic book]] [[supervillain]] from [[DC Comics]]. The character was created by [[George Pérez]] and [[Marv Wolfman]].
+
+==History==
+He first appeared in ''New Teen Titans'' #3 (January 1981) as one of the founding members of the [[Fearsome Five]], and became enemy of the [[Teen Titans (comics)|Teen Titans]], [[Superman]], and the [[Outsiders (comics)|Outsiders]].<ref name="dc-fear">{{Citation | last = Greenberger | first = Robert | author-link = Robert Greenberger | contribution = Fearsome Five | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 120  | publisher = [[Dorling Kindersley]] | place = New York  | year = 2008 | ISBN = 0-7566-4119-5 | oclc = 213309017}}</ref> He is highly devoted to his sister Selinda (a.k.a. [[Shimmer (comics)|Shimmer]]), also a founding member of the Fearsome Five. A towering hulk of a man with immense physical strength and durability, Mammoth is intellectually and emotionally underdeveloped (so much so that he was once tricked into surrendering to a Superman whose powers had recently been lost thanks to [[Lex Luthor]]'s use of [[Mister Mxyzptlk]]'s [[Kryptonite#Variations|red kryptonite]]), and he lacks skill as a hand-to-hand combatant.
+
+Mammoth at one point retired to a Tibetan monastery along with his sister although shortly thereafter discovered [[Psimon]] (himself a former member of the Fearsome Five). Psimon used his considerable mental abilities to subdue Mammoth and turn Shimmer into glass, which he then proceeded to shatter in an act of vengeance. Mammoth subsequently worked with former ally [[Gizmo (comics)|Gizmo]], apparently unable to comprehend his sister was dead, and believing they were looking for her.
+
+Mammoth later appears in a fight with [[Booster Gold]], which he loses. He is surprised at being found out, as his crime was a spur-of-the-moment deal (he did not understand Gold has access to future information).
+
+On the cover of ''[[Justice League|Justice League of America]]'' #13 (Vol.2), it shows Mammoth as a member of the new [[Injustice League]] and is one of the villains featured in [[Salvation Run]].
+
+==Powers and abilities==
+Mammoth has superhuman strength and endurance. He has some degree of protection from physical and energy attacks.
+
+==Other media==
+===Television===
+* Mammoth appears in the ''[[Teen Titans (TV series)|Teen Titans]]'' animated series voiced by [[Kevin Michael Richardson]]. Mammoth was a member of the former [[H.I.V.E.]] Academy. Mammoth's personality is not much more than an oversized class bully: big and strong, but not too bright. He works in a group with [[Jinx (DC Comics)|Jinx]] and Gizmo. Mammoth later forms The H.I.V.E. F.I.V.E. with the two above and [[List of minor characters in the Teen Titans animated series#See-More|See-More]] and [[List of minor characters in the Teen Titans animated series#Private H.I.V.E.|Private H.I.V.E.]] He becomes the H.I.V.E. F.I.V.E.'s muscle (Jinx is the leader, Gizmo is its resident genius, and See-More and Private H.I.V.E. provide defense). He is ordered by the [[Brotherhood of Evil]] to take out [[Cyborg (comics)|Cyborg]]. Instead, he knocks Cyborg into an abyss, only for Cyborg to later reemerge inside the Brotherhood's secret hideout with [[Kole]] and [[Gnarrk]] (Cyborg even taunts Mammoth for failing to finish the job by defiantly shouting, "Lesson number one: Never throw me down a hole unless you make sure I ''stay'' there!"). Mammoth returns to the Brotherhood of Evil's secret headquarters in "Titans Together" where five Titans encounter him and three other villains hurry to watch [[Robin (comics)|Robin]] being flash-freezed. [[Jericho (comics)|Jericho]], in the body of [[List of minor characters in the Teen Titans animated series#Cinderblock|Cinderblock]], released [[Pantha]], [[Más y Menos|Más]], [[Beast Boy]], and [[Mal Duncan|Herald]], and Mammoth's face is burned by Pantha's claw. During the final battle, he is stunned by Jinx's betrayal long enough for her to cause a massive hex wave that knocks all five of the H.I.V.E. F.I.V.E off their feet. Mammoth is tossed into the flash-freezing machine and is frozen with all of the other villains. Mammoth makes appearances with his fellow students in the ''[[Teen Titans Go!]]'' comic book series.
+
+===Video Games===
+* Mammoth is also a [[boss (video games)|boss]] in both [[Teen Titans (video game)|Teen Titans]] video games.
+
+==References==
+{{reflist}}
+
+[[Category:DC Comics characters with superhuman strength]]
+
+[[Category:DC Comics supervillains]]
+[[Category:Fictional genetically engineered characters]]
+[[Category:DC Comics metahumans]]
+[[Category:1980 comics characters debuts]]
+
+[[de:Schurken im Superman-Universum#Mammoth]]
+[[fr:Mammoth]]
+[[tl:Mammoth (komiks)]]

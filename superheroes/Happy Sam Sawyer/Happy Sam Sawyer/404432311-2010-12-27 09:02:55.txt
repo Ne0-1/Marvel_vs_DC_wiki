@@ -1,0 +1,47 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:samsawyer.jpg|150px]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Happy Sam Sawyer
+|real_name=Samuel Sawyer
+|publisher=[[Marvel Comics]]
+|debut=''[[Sgt. Fury and the Howling Commandos]]'' vol. 1 #1 (May 1963)
+|creators= [[Stan Lee]] and [[Jack Kirby]]
+|alliance_color=background:#cccccc
+|alliances=[[Sgt. Fury and his Howling Commandos|Howling Commandos]]<br/>[[United States Army]]
+|aliases=
+|powers=
+|}}
+'''General Samuel "Happy Sam" Sawyer''' is a [[fictional character]] in [[Marvel Comics]] [[Marvel Universe]]. His first appearance was in ''[[Sgt. Fury and his Howling Commandos]] vol. 1 #1''.
+
+==Fictional character biography==
+'''Happy Sam Sawyer''' was assigned to the British Commandos by the U.S. Army.  He trained in parachuting in Britain in 1940 by Finley's Flying circus that comprised daredevil parachutist [[Nick Fury]] and pilot Red Hargroves where they nicknamed him Happy Sam ironically, because of his deadly serious and consistently stony demeanor.<ref>''Blitzkrieg'' ''Sgt Fury and his Howling Commandos'' #34</ref>  In 1942 Sawyer, who had been wounded in North Africa and was deemed unfit for combat missions, organised and led the [[Howling Commandos]], Bull McGiveney's Maulers, Jim Morita's Nisei Squad, and Sgt Bob Jenkin's The Missouri Marauders as well as the Deadly Dozen. When artist [[John Severin]] joined ''Sgt Fury and his Howling Commandos'' with issue #44, Severin drew Sawyer as being much older and balder than his original depiction as a young man. 
+
+In a Sgt Fury annual set in the [[Korean War]], Sawyer was a Colonel, in another annual set in the [[Vietnam War]], Sawyer was a full general. 
+
+In modern times, [[Baron Strucker]] created an [[Life Model Decoy|LMD]] of Sawyer that attacked the original Howling Commandos as well as [[Captain America]].  Sawyer would sacrifice himself when the LMD detonated itself while trying to gain missile navigation override codes.<ref>''Captain America'' vol. 1 #274</ref>
+
+In the wake of his death, a [[S.H.I.E.L.D.]] assault [[Helicarrier]] has been named in his honor in the mini-series ''Iron Man: Hypervelocity''. There is also a Samuel J. Sawyer Memorial Veterans Hospital<ref>Young Allies 70th anniversary Special</ref>
+
+==Bibliography==
+*''Captain America'' vol. 1 273-274 (death)
+*''Marvel Comics Presents'' #77
+*''Marvel Fanfare'' vol. 1 #10
+*''Sgt. Fury and his Howling Commandos'' #1, #7, #34
+
+==References==
+{{reflist}}
+
+==External links==
+*http://www.marvunapp.com/Appendix3/sawyersam.htm
+
+{{Howling Commandos}}
+
+{{DEFAULTSORT:Sawyer}}
+[[Category:Comics characters introduced in 1963]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Fictional circus performers]]
+[[Category:Fictional soldiers]]
+[[Category:Fictional World War II veterans]]
+[[Category:Marvel Comics superheroes]]

@@ -1,0 +1,69 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=[[Image:Kleinstocks_1.jpg|120px]]
+|caption=The Kleinstock Brothers.  Art by Casey Jones.
+|comic_color=background:#ff8080 
+|character_name=Sven Kleinstock
+|real_name=Sven Kleinstock 
+|species=[[mutant (fictional)|Human Mutant]]
+|publisher=[[Marvel Comics]] 
+|debut=''[[Uncanny X-Men]]'' #298 (March 1993)
+|creators=[[Scott Lobdell]]<br>[[Brandon Peterson]]
+|alliance_color=background:#c0c0ff
+|status=Undetermined<br><small> (may have died in the assault on [[Genosha]])</small>
+|alliances=[[Acolytes (comics)|Acolytes]]
+|previous_alliances= 
+|aliases=
+|relatives=Sven (brother - deceased), Harlan (brother)
+|powers=Explosive plasma blasts<br.>When merged with brother: Superhuman strength
+|}} 
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Harlen Kleinstock
+|real_name=Harlan Kleinstock
+|species=[[mutant (fictional)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Uncanny X-Men]]'' #298 (March 1993)
+|creators=[[Scott Lobdell]]<br>[[Brandon Peterson]]
+|alliance_color=background:#ffc0c0
+|status=Undetermined<br><small> (may have died in the assault on [[Genosha]])</small>
+|alliances=[[Acolytes (comics)|Acolytes]]
+|previous_alliances= 
+|aliases=
+|relatives=Sven (brother - deceased), Eric (brother)
+|powers=Explosive plasma blasts<br.>When merged with brother: Superhuman strength
+|}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Eric Kleinstock
+|real_name=Eric Kleinstock 
+|species=[[mutant (fictional)|Human Mutant]]
+|publisher=[[Marvel Comics]] 
+|debut=''[[Uncanny X-Men]]'' #298 (March 1993)
+|creators=[[Scott Lobdell]]<br>[[Brandon Peterson]]
+|alliance_color=background:#c0c0ff
+|status=Deceased
+|alliances=[[Acolytes (comics)|Acolytes]]
+|previous_alliances=
+|aliases=
+|relatives=Eric & Harlen (brothers)
+|powers=Explosive plasma blasts, Flight through a field of bio-kinetic force
+|}}
+The '''Kleinstocks''' were a set of [[triplets]] that are [[comic book]] [[fictional character]]s, and are [[mutant (fictional)|mutant]] [[supervillain]]s, in the [[Marvel Comics]] [[Marvel Universe|universe]]. The three brothers names are '''Harlan''', '''Sven''' and '''Eric''', they were created by [[Scott Lobdell]] and [[Brandon Peterson]] and first appeared in ''[[Uncanny X-Men]]'' #298 (March 1993).
+
+==Character biography==
+In their first mission with the [[Acolytes (comics)|Acolytes]], they were sent along with [[Cargill (comics)|Cargill]] and Carmella Unuscione to kidnap a young mutant. While attempting the kidnapping, they murdered [[Sharon Friedlander]], a former staff member at [[Professor X|Charles Xavier]]'s [[X-Mansion|School for Gifted Youngsters]]. In the moment before she died, Sharon managed to send a [[psionic]] cry for help to Xavier. Based upon this, Xavier sent a squad of X-Men to investigate. During the battle between the Acolytes and the X-Men, Eric was shot and killed by [[Tom Corsi]], another former staff member from Xavier's school. After discovering the mutant they were sent to kidnap had [[Down's Syndrome]], the Acolytes abandoned their mission.
+
+Despite losing their brother, Harlan and Sven continued to serve with the Acolytes. During the destruction of [[Avalon (comics)|Avalon]] by [[Holocaust (comics)|Holocaust]], the twins were among the Acolytes who evacuated to Earth with the X-Man [[Cyclops (comics)|Cyclops]]. They crash landed in the [[Australian Outback]], where they managed to get to the X-Men's former base of operations. Once help arrived, they turned themselves over to the authorities.
+
+They were able to escape prison and rejoined the Acolytes under the leadership of [[Fabian Cortez]]. These Acolytes were involved in attacks on Wundagore mountain. Some time later, they were involved in an attack on the [[X-Mansion]] with a group of Acolytes. At the end of the battle, they asked for sanctuary with Xavier; they were denied. They eventually rejoined the Acolytes under [[Magneto (comics)|Magneto]]'s command, when he was give leadership over [[Genosha]]. The possibility that they died in the [[Sentinels (comics)|Sentinel]] attack on Genosha is very high.
+
+[[Category:X-Men villains]]
+[[Category:Fictional Swiss]]
+[[Category:Acolytes members]]
+[[Category:Avengers villains]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics characters who can fly]]

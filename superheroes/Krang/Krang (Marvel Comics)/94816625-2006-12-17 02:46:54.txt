@@ -1,0 +1,31 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = 
+| caption =  
+| comic_color =background:#ff8080 
+| character_name =Krang
+| real_name =
+| species=[[Homo mermanus]]
+| publisher =[[Marvel Comics]]
+| debut = ''[[Fantastic Four]] Annual'' #1 (1963)
+| creators = [[Stan Lee]] and [[Jack Kirby]]
+| alliance_color =background:#ffc0c0 
+| status =
+| alliances = ally of [[Attuma]] and [[Byrrah]]
+| previous_alliances =
+| aliases = 
+| relatives =
+| powers =}}
+
+'''Krang''' is a [[fictional character]], in the [[Marvel Comics]] [[Marvel Universe|universe]]. He was an high-ranking member of the [[Homo mermanus|Atlantean]] military.
+
+==History==
+{{section-stub}}
+
+==Other Media==
+Warlord Krang appears in the 1994 [[Fantastic Four (1994 TV series)|Fantastic Four]] cartoon series voiced by [[Neil Ross]].
+
+Warlord Krang appears in [[Marvel: Ultimate Alliance]] where he is a member of [[Doctor Doom]]'s [[Masters of Evil]].
+
+{{Marvel-Comics-stub}}
+[[Category:Namor villains]]
+[[Category:Homo mermanus]]

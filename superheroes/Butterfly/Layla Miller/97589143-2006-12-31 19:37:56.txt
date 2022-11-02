@@ -1,0 +1,58 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Layla MIller.png|250px]]
+|caption=Layla Miller.<br>Art from ''X-Factor'' (vol. 3) #13, art by [[Pablo Raimondi]]
+|comic_color=background:#ff8080
+|character_name=Layla Miller
+|real_name=Layla Rose Miller
+|species=[[mutant (fictional)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''[[House of M]]'' #3 (Aug, 2005)
+|creators=[[Brian Michael Bendis]]<br>[[Oliver Coipel]]
+|alliance_color=background:#ffc0c0
+|status=Active
+|alliances=[[X-Factor Investigations]] 
+|previous_alliances=
+|aliases=Butterfly
+|relatives= Unnamed mother and father (deceased)
+|powers=[[Precognition|Precognitive]] abilities, awareness of changes to reality, the ability to restore the memories of individuals affected by changes to reality.
+}}
+
+'''Layla Rose Miller''', also known as '''Butterfly''', is a [[fictional character]] in the [[Marvel Comics]] [[Marvel Universe|universe]].  She first appeared in ''[[House of M]]'' #4, and was created by [[Brian Michael Bendis]] and [[Oliver Coipel]].  [[Peter David]] has developed the character, placing Layla at the center of the ensemble of mutant private detectives in his title ''X-Factor''.
+
+==Fictional character biography==
+Layla Miller is a young [[mutant (fictional)|mutant]] girl with strong precognitive powers.  When the [[Scarlet Witch]] warped reality and provided everyone with false memories of living in the new, mutant-dominant world, Layla was instrumental in bringing down the "[[House of M]]".  
+
+Layla was one of four unaffected characters (the others being [[Wolverine (comics)|Wolverine]], the Scarlet Witch, and the Witch's brother [[Quicksilver (comics)|Quicksilver]]), and she was able to restore other characters' memories, helping them rebel against the House and restore reality.  In ''House of M'' #7, [[Dr. Strange]] suggested that the Scarlet Witch had created Layla to help the heroes.
+
+In the current ''[[X-Factor (comics)|X-Factor]]'' series, Layla joins [[X-Factor Investigations]] and has knowledge of certain private matters and future events.  In her own words: "I'm Layla Miller.  I know stuff."  Contradicting Dr. Strange's theory of her origin, Layla is established to have had a life prior to the events of ''House of M'', as a young mutant living in an [[orphanage]] (though it theoretically wouldn't be beyond the Scarlet Witch's powers to create a history for someone); after the House of M reality reverted to normal, Layla is one of the majority of mutants who lost their powers at the Scarlet Witch's decree, a phenomenon referred to as the [[Decimation (comics)|Decimation]].  However, Layla is the only such person thus far to have (apparently) spontaneously gained new powers without outside influence.
+
+When asked, Layla has purported to understand how it is that she "knows things."  However, she claims that if she were to tell anyone, she would be struck down and die on the spot.  Since she has proven to be capable of manipulation, the veracity of her contention is in doubt.
+
+Layla can be cold-blooded and detached in pushing events in a direction that she perceives as "right".  She has admitted that she had prior knowledge of the vicious attack [[Siryn]] would suffer, and appears to have withheld this information because she surmised that X-Factor's reluctant leader [[Jamie Madrox]] would respond forcefully, directing his efforts against the source of the assault.
+
+{{spoiler-blank|Civil War}}
+Layla's mission in ''X-Factor'' is to make certain the members of the team never learn the truth about the [[Decimation (comics)|Decimation]].  However, this mission is made obsolete in ''X-Factor'' #8, (a crossover with Marvel Comics' ''[[Civil War (comics)|Civil War]]''), when Siryn acquires the details of the House of M and Decimation from [[Spider-Man]].  Siryn learns that Quicksilver, who has settled in the same area of [[New York City]] in which X-Factor operates, coerced his sister into warping reality and creating the House of M.  
+
+Layla refers to herself as Quicksilver's nemesis.  At the same time she works to steer events in certain directions guided by the "stuff" she knows, Quicksilver desires to reverse some of the effects of the Decimation, using newly-gained abilities to restore mutants' lost powers.  According to what Layla knows, Quicksilver's path is somehow dangerous in the grand scheme of things, and she believes the best thing for the world would be a future in which Quicksilver dies in an accident &mdash; a future which events beyond her control have rendered null and void.
+{{endspoiler}}
+
+Layla has also taken steps to deal with Singularity Investigations, a rival firm determined to eliminate X-Factor Investigations by any means necessary (Singularity arranged the vicious assault on Siryn).  Layla has provided cryptic (and useful) advice to X-Factor members in their confrontations with Singularity, and has engineered the events that lead to the death of a Singularity operative who had broken in to X-Factor's base of operations (she then shipped the corpse, packed in ice, to Singularity's headquarters).
+
+On several occasions, Layla has remarked that she and Jamie Madrox will eventually be married. Since Layla is his junior by at least a decade, this utterance causes Jamie repeated and considerable discomfort. This, however, may be a somewhat possible outcome for the two as Rahne Sinclair ([[Wolfsbane (comics)|Wolfsbane]]) recently revealed she had seen a future in which she had murdered both Layla and Jamie, apparently on their wedding night. This is still uncertain however as it is unknown if this was really a vision of things to come and even if it was, the future in the Marvel universe has been known to suffer multiple changes.
+
+==Powers==
+Layla currently possesses a precognitive ability to see paths of causality to their ultimate conclusion, which allows her to alter events to prevent or cause certain occurrences.  She only sees in the future though, not the past, and a few times has exhibited 'blind spots'.  Her abilities apparently do not work as well on Quicksilver, due to a chaotic influence, possibly caused by Quicksilver's relation to the Scarlet Witch, or those related to Singularity Investigations, especially CEO [[Damian Tryp]], whom she cannot read at all.
+
+{{spoiler}}
+Layla has learned that a similar "blind spot" she has concerning X-Factor member [[Strong Guy]] is the result of his having been surreptitiously brainwashed by Damian Tryp's forces.  
+
+After the destruction of Singularity Industries, the present form of [[Damian Tryp]] (the elder/ancient) reveals to Layla that her very existence had foiled his plans &mdash;  she is a force of chaos like he is.  Tryp also reveals that when he comes into conflict with Layla, terrible events occur as a result.  Following her encounter with Tryp, Layla appears genuinely shocked for the first time: the glass of milk she is pouring overflows, spilling onto the floor.
+{{endspoiler}}
+
+==External links==
+*[http://www.newsarama.com/forums/showthread.php?s=&threadid=32619 Newsarama: Layla Who? Bendis and Brevoort talk Layla Miller.]
+*[http://marvel.com/universe/Miller%2C_Layla Layla Miller on the Marvel Universe Character Bio Wiki]
+
+[[Category:Marvel Comics superheroes|Miller, Layla]]
+[[Category:Marvel Comics mutants|Miller, Layla]]
+[[Category:Fictional characters with precognition|Miller, Layla]]

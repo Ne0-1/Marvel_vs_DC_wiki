@@ -1,0 +1,45 @@
+''For members of the Marvel Comics superhero team, see [[X-Men]].''
+{{Superherobox| <!--Part of Wikipedia:WikiProject Comics-->
+image=
+[[Image: Xman_flying_art_by_Ivan_and_Hermes_T..jpg|250px]]
+|caption=Cover of ''X-Man'' #26 (April 1997). Art by [[Roger Cruz]] and [[Bud LaRosa]].
+|comic_color=background:#ff8080
+|character_name=X-Man
+|real_name=Nate Grey
+|publisher=[[Marvel Comics]]
+|debut=''X-Man'' #1
+|creators=[[Jeph Loeb]]<br>[[Steve Skroce]]<br>(NB: Loosely based on [[Cable (comics)|Cable]])
+|alliance_color=background:#ffc0c0
+|status=Deceased
+|alliances=
+|previous_alliances=[[X-Men]]
+|aliases=
+|relatives=[[Cyclops (comics)|Cyclops]] (genetic father),  [[Jean Grey]] (genetic mother), [[Cable (comics)|Cable]] (alternate reality self/half-brother; son of Cyclops and Madelyne Pryor), [[Stryfe]] (clone of Cable), [[Rachel Summers]] (alternate reality sister), [[Madelyne Pryor]] (clone of Jean Grey)
+|powers=[[Telepathy]], [[Telekinesis]], ability to travel inter-universally unaided.
+|}}
+
+'''X-Man''' (Nate Grey) is a [[Marvel Comics]] [[superhero]].  He first appeared in ''X-Man'' #1 (March 1995), created by [[Jeph Loeb]] and [[Steve Skroce]]. He possesses immense [[psychic]] powers, such as [[telepathy]] and [[telekinesis]], and is the equivalent of [[Cable (comics)|Cable]] from another dimension. ''X-Man'' was published monthly from 1995 to 2001.
+
+{{spoiler}}
+Nate Grey hails from the [[alternate universe]] known as the [[Age of Apocalypse]], where he was created by [[Mister Sinister]] from the [[gene]]s of that universe's [[Cyclops (comics)|Cyclops]] and [[Jean Grey]]. After helping that world's [[X-Men]] fight [[Apocalypse (comics)|Apocalypse]], he was transported to the [[canon (fiction)|canon]]ical [[Marvel Universe]] ([[Earth-616]]) by the power of the [[M'Kraan crystal]]. 
+
+Soon he befriended a woman calling herself [[Madelyne Pryor]], although she was later revealed to be a construct of his own mind. Later he developed a close relationship with [[Threnody (comics)|Threnody]], a former employee of this universe's Mister Sinister. Due to a series of misunderstandings, he came into conflict with the "REAL" X-Men on several occasions, and his violent encounter with [[Professor X]] unwittingly contributed to the birth of the entity [[Onslaught (comics)|Onslaught]].
+
+Later, he worked alongside the X-Men and [[Spider-Man]], joined [[Havok]]'s short-lived [[Brotherhood of Mutants]], performed "[[miracle]]s" in [[Central Park]], and even briefly joined the X-Men in ''[[Astonishing X-Men]]'' (volume 2) #1 (September 1999). After the 2000 "[[Revolution (comics)|Revolution]]" event placed ''X-Man'' in the "[[Counter-X]]" line, Nate became a "psychic [[shaman]]" and protector of all humanity. In the final issue (#75, May 2001), he sacrificed himself to save the Earth.
+
+==Relationship to Cable==
+[[Image:Cable 31.jpg|thumb|left|191px|[[Cable (comics)|Cable]] (above) meets X-Man, from ''Cable'' #31 (May 1996).]]
+Nate Grey (X-Man) and Nathan Christopher Summers ([[Cable (comics)|Cable]]) are unlikely twins: both are descended from the genetic material of Scott Summers and Jean Grey. Nate was grown in a [[laboratory]] in an alternate dimension by Sinister from the genes of Scott and Jean, while Cable was born to Scott and Madelyne Pryor (a clone of Jean also created by Mr. Sinister), infected with a techno-organic virus, and raised in the future. As a result, their genetic and psychic profiles are identical, although Nate is much younger (having done no [[time travel]]) and much more powerful (Cable is actually near or equal to Nate's power level, but must constantly devote his mental resources to fighting the Techno-Organic virus). Moreover, Nate and Cable hail from completely different backgrounds. The juxtaposition of the two characters allowed writers to address issues of identity and [[nature versus nurture]] and explore the complex nature of family relationships in the X-Men world. When Cable was de-aged in [[Cable and Deadpool]], he greatly resembled Nate Grey.
+
+==Powers and abilities==
+X-Man has incredible telepathic and telekinetic abilities that are almost as strong as those of the [[Phoenix (comics)|Phoenix]]. He can use his telepathy to read minds and even read residual thought imprints left on objects touched by people, communicate with others by broadcasting his thoughts, control minds, create illusions by altering the perceptions of others, fire psioinc blasts that can scramble an opponents thought processess (causing the victim either intense pain, or rendering them unconscious), project his mind into the astral plane and even pull the astral projections of other telepaths into the physical world, and sense dimensional rifts or anomalies. His telekinesis allows him to move, levitate, and manipulate matter by using his thoughts, create defensive shields by focusing his telekinetic energies around himself and others, and channel his psychic powers into explosive psionic force blasts. By levitating himself, he can fly at amazing speeds, and he can walk through walls by mentally shifting the wall's molecules around his body as he moves foward. X-Man can mentally manipulate dust particles and water vapor to refract lightwaves and create [[holograms]].  X-Man can use his telekinesis to channel the Earth's [[magnetic]] field through the electrocurrent of his brain and generate devastating electromagnetic pulses. X-Man even learned that he could use his telekinesis to transport hismelf into other dimensions by mentally bending the dimensional barriers that seperate one reality from another.
+
+==External links==
+* [http://xman.comicbooks.net/ The X-Man Homepage]
+* [http://www.uncannyxmen.net/db/spotlight/showquestion.asp?faq=10&fldAuto=73 Spotlight on... X-Man] at uncannyxmen.net
+
+
+[[Category:Brotherhood of Evil Mutants members]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics titles]]
+[[Category:X-Men members]]

@@ -1,0 +1,50 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:TLT2.png]]
+|caption=The Living Tribunal.<br>Art by [[Jim Starlin]].
+|comic_color=background:#ff8080
+|character_name=Living Tribunal
+|real_name=
+|publisher=[[Marvel Comics]]
+|debut= (Cameo) ''[[Strange Tales]]'' #157 (June, 1967)
+|creators=[[Stan Lee]] <br> [[Marie Severin]] <br> [[Herb Trimpe]]
+|alliance_color=background:#cccccc
+|alliances=
+|aliases= 
+|powers= Omnipotence, <br>Omniscience,<br>Omnipresence
+|}}   
+
+The '''Living Tribunal''' is a [[fictional character]] that appears in [[comic books]] published by [[Marvel Comics]]. The character first appeared in ''[[Strange Tales]]'' #157 June 1967 (cameo - first full appearance next issue) and was created by [[Stan Lee]], [[Marie Severin]] and [[Herb Trimpe]].
+
+==Publication history==
+The Living Tribunal debuted in a storyline called "The Sands of Death" in ''[[Strange Tales]]'' #157 - 163 (June - Dec. 1967), giving [[mysticism|mystic]] hero [[Doctor Strange]] a limited time to prove Earth is worth saving. Established as apparently the supreme power in the Marvel Universe, the character made several sporadic appearances over the years, including ''[[What If (comics)|What If]]'' #32 (April 1982); ''[[Rom (comics)|Rom]]'' #41 (April 1983) and ''[[Secret Wars II]]'' #6 (Dec. 1985). The Living Tribunal revealed clues as to its true purpose and nature in ''[[Silver Surfer]]'' vol. 3, #31 (Dec. 1989).
+
+After brief appearances in the role of observer in ''[[Guardians of the Galaxy]]'' #16 (Sep. 1991) and ''[[Quasar (comics)|Quasar]]'' #26 (Sep. 1991), the character had a significant role in the [[limited series]] ''[[The Infinity Gauntlet|Infinity Gauntlet]]'' #1 - 6 (July - Dec. 1991) and ''[[Warlock and the Infinity Watch]]'' #1 (Feb. 1992). The Living Tribunal's role was eventually expanded on in ''[[She-Hulk]]'' vol. 2, #12 (Nov. 2006).
+
+==Fictional character biography==
+The Living Tribunal is a virtually [[omnipotence|omnipotent]] entity that oversees and maintains balance in the realities that constitute the Marvel Comics [[Multiverse (Marvel Comics)|Multiverse]], including the [[Earth-616|mainstream universe]] and all [[Parallel universe (fiction)|alternate universe]]s. 
+
+The character is first encountered by [[Doctor Strange]], announcing its intent to destroy Earth due to its potential for evil. After a series of trials Strange is able to convince the Living Tribunal that good also exists, and Earth is spared.<ref>''Strange Tales'' #157 - 163 (Jun. - Dec. 1967)</ref> The Tribunal reappears to the [[Galador]]ian spaceknight [[Rom (comics)|Rom]];<ref>''Rom'' #41 (April 1983)</ref> appears briefly with the rest of the cosmic hierarchy when in discussion with the entity the [[Beyonder (comics)|Beyonder]];<ref>''Secret Wars II'' #6 (Dec. 1985)</ref> and reveals to the former [[Herald of Galactus]] (the [[Silver Surfer]]) that its three faces represent "Equity"; "Vengeance" and "Necessity." The fourth side of the Living Tribunal's head is a void, with the entity claiming that it could have represented the face of the [[Cosmic entities (Marvel Comics)|cosmic entity]] the [[Stranger (comics)|Stranger]].<ref>''Silver Surfer'' vol. 3, #31 (Dec. 1989)</ref> The character also witnesses the triumph of the hero [[Quasar (Wendell Vaughn)|Quasar]] - acting as the [[Incarnation|avatar]] of cosmic entity [[Infinity (comics)|Infinity]] - over the villain [[Maelstrom (comics)|Maelstrom]], who acts for the entity [[Oblivion (comics)|Oblivion]].<ref>''Quasar'' #26 (Sep. 1991)</ref>
+
+The Living Tribunal's power is almost limitless, as the entity prevents the [[Infinity Gems]] from being used in unison,<ref>''Warlock and the Infinity Watch'' #1 (Feb. 1992)</ref> although it remains subordinate to an even higher entity whom it represents and serves, known as the One-Above-All.<ref>''Official Handbook of the Marvel Universe A-Z'' Hardcover Vol. 6</ref> The entity has representatives called ''The Magistrati'' who dispense judgments by request on alien worlds, and chose to reveal the previously covered face of "Necessity" to [[She-Hulk]] as a reflection of her own face, stating that the face is a "Cosmic Mirror which reminds us to always judge others as we would have ourselves judged."<ref>''She-Hulk'' vol. 2, #12 (Nov. 2006)</ref>
+
+[[Iron Man]] and the [[Uatu|Watcher]] later find what appears to be the Living Tribunal's withered corpse on the moon, with no sign of who killed the entity.<ref>''New Avengers'' (vol. 3) #8 (July 2013)</ref>
+
+== Powers and abilities ==
+The Living Tribunal possesses virtually unlimited power and absolute control over the Marvel Multiverse.
+
+==Other media==
+During ''[[DC vs. Marvel]]'', the Tribunal teamed up with the [[Spectre (comics)|Spectre]] to save their worlds from the two cosmic brothers' attempts to destroy one of the two universes, although they were not powerful enough to defeat the brothers themselves.{{issue|date=August 2013}}
+
+== Footnotes ==
+{{reflist|2}}
+
+==External links==
+* [http://www.marvel.com/universe/Living_Tribunal Living Tribunal] at Marvel.com
+
+{{Marvel Mystic}}
+{{Marvel Cosmic}}
+
+[[Category:Comics characters introduced in 1967]]
+[[Category:Fictional characters with multiple personalities]]
+[[Category:Fictional judges]]
+[[Category:Marvel Comics cosmic entities]]

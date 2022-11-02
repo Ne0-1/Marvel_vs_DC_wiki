@@ -1,0 +1,48 @@
+{{Notability|date=June 2010}}
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Turk Barrett
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        =
+| publisher      =
+| debut          = ''[[Daredevil (Marvel Comics)|Daredevil]]'' (vol. 1) #69 (October 1970)
+| creators       = [[Gary Friedrich]]<br>[[Roy Thomas]]<br>[[Gene Colan]]
+| alter_ego      =
+| full_name      =
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = <!-- optional -->
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| alliances      = [[Hood (comics)|Hood]]'s Crime Syndicate
+| aliases        = [[Mauler (comics)|M.A.U.L.E.R.]], [[Stilt-Man]]
+| powers         =
+| cat            =
+| subcat         =
+| hero           =
+| villain        =
+| sortkey        = Turk Barrett
+| addcharcat#    =
+}}
+
+'''Turk Barrett''' is [[fictional character]], a small time criminal in the {{Marvel Universe}}. He first appears in ''[[Daredevil (Marvel Comics)|Daredevil]]'' (vol. 1) #69 (October 1970) and was created by writers [[Gary Friedrich]] and [[Roy Thomas]] and artist [[Gene Colan]].<ref name="comicbookdb1">{{cite web|url=http://www.comicbookdb.com/character.php?ID=8652 |title=Turk Barrett |publisher=Comic Book DB |date= |accessdate=2010-06-08}}</ref><ref>{{cite web|url=http://www.marvunapp.com/Appendix/turkbarretdd.htm |title=Turk (Daredevil character) |publisher=Marvunapp.com |date= |accessdate=2010-06-08}}</ref>
+
+Turk has had many run-ins with Daredevil where his inept schemes are usually played as [[comic relief]].<ref name="comicbookdb1"/>
+
+==History==
+{{Expand section|date=June 2010}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.marvunapp.com/Appendix/turkbarretdd.htm Turk Barrett] at Marvel Appendix
+
+[[Category:Fictional criminals]]
+[[Category:Fictional African-American people]]
+[[Category:Marvel Comics characters]]
+[[Category:Characters created by Roy Thomas]]
+
+
+{{Marvel-Comics-stub}}

@@ -1,0 +1,58 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Avengers Forever1a-Kang.jpg|200px]]
+|caption=Kang. Art by Carlos Pacheco.
+|comic_color=background:#ff8080
+|character_name=Kang the Conqueror
+|real_name=Nathaniel Richards ''(not to be confused with [[Mister_Fantastic|Reed Richards]]' father, after whom he is named)''
+|publisher=[[Marvel Comics]]
+|debut=(as Rama-Tut) ''Fantastic Four'' #19 (October [[1963]])<br>(as Kang) ''Avengers'' #8 (September [[1964]])
+|creators=[[Stan Lee]]<br>[[Jack Kirby]]
+|alliance_color=background:#c0c0ff
+|status=Active
+|alliances=
+|previous_alliances=
+|aliases=Pharaoh Rama-Tut, Victor Timely
+|relatives=[[Immortus]] (future self), Scarlet Centurion (son, deceased), [[Iron Lad]] (younger self), 
+|powers=None inherent
+|}}
+
+'''Kang the Conqueror''' is a [[supervillain]] in [[Marvel Comics]].  He is a [[time travel]]ler from the 30th Century who has frequently travelled to the present day and fought the [[Avengers (comics)|Avengers]]. He first appeared in ''Avengers'' #8 and was created by [[Stan Lee]] and [[Jack Kirby]].
+
+==Character history==
+===Origin===
+Nathaniel Richards - the man who would become Kang - was born in an alternate timeline. The Earth there had been transformed into a paradise thanks to [[Mister Fantastic]]'s father, the [[Nathaniel Richards]] after whom he was named. However, this younger Nathaniel, a scholar, was restless in this peaceful world, and studied the history of war in his longing for a more savage and driven age. His long-term hospitalization by bullies (and the near-financial ruin of his family as a result) quite probably caused or increased this drive. He discovered [[time travel]] technology that one of his ancestors (who may have been Nathaniel Richards or [[Doctor Doom]]) had invented.
+
+[[image:Avengers8.jpg|Cover to '''Avengers #8''', Kang's first appearance. Art by Jack Kirby.|150px|thumb|left]]
+
+Kang travelled back in time to ancient [[Egypt]] and became the '''Pharaoh Rama-Tut'''. There he ruled until he was driven off by the time-displaced heroes of the 20th Century including the [[Fantastic Four]] and the [[West Coast Avengers]].  Following that conflict, he left the past and travelled to a post-apocalyptic 40th century and reinvented himself briefly as the '''Scarlet Centurion''' before settling on the identity of '''Kang the Conqueror'''. From there he created his interstellar, interdimensional and inter-temporal empire that would not only include Earth, but future versions of the Brotherhood of the [[Badoon]], the [[Shi'ar]] Empire, and the dimension of Kosmos.
+
+On his first foray into the [[twentieth century]], he was thwarted by [[Avengers (comics)|the Avengers]], and they have remained his enemies ever since, having fought him on dozens of occasions. However, due to the diverging of timelines that was caused by his time travelling technology, multiple and sometimes divergent versions of himself were created.  Most of them were eventually eliminated by the Council of Kangs, which were set up by one of the multiple Kangs to rid himself of his counterparts.
+
+===Destiny War===
+[[Image:Avengers Forever 03.jpg|Kang battles Immortus. Cover to ''Avengers Forever'' #3. Art by Carlos Pacheco.|150px|thumb]]
+
+At some point in his personal timeline, Kang became weary of battle, due to frustration and the loss of his son Marcus and consort [[Ravonna]] in several timelines.  He was approached by the alien Time-Keepers — time travelers from the end of the universe, the last living creatures in existence — to become their agent, preserving timelines rather than conquering them in exchange for immortality.  He accepted and reinvented himself again, this time as '''[[Immortus]]'''.  He again came into conflict with the Avengers, but under different circumstances, and more notably with his younger self, who was unable to see the reasoning behind Immortus' actions.  Kang's conflict with Immortus was dubbed the "[[Avengers Forever|Destiny War]]."
+
+[[image:AVENGERS 49.jpg|left|Kang War. Cover to ''Avengers'' (vol. 3) #49. Art by [[Kieron Dwyer]].|150px|thumb]]
+
+Immortus faked his death several times before ultimately turning on the Time-Keepers to assist the Avengers and, as punishment, was truly killed.  However, he was resurrected minutes later as temporal energies from the Time-Keepers' attempts to turn Kang directly into Immortus and thus fulfill the time loop caused a backlash that created Kang and Immortus as separate beings, freeing Kang from what he saw as a destiny as a "doddering old scholar."
+
+===Kang dynasty===
+
+Kang would then go on to launch his most vicious attack yet on present-day Earth, being the first villain in Marvel history to subdue it by physical means as opposed to some form of mental domination.  His reign, though, was undone by the Avengers as well as with the unwitting aid of his son, Marcus, the new [[Scarlet Centurion]].
+
+===Iron Lad===
+[[Image:YNGAVN005 COV.jpg|150px|Kang battles his younger self, Iron Lad. Cover to ''Young Avengers'' #5. Art by Jim Cheung.|thumb]]
+Recently in the pages of the comic [[Young Avengers]], it has been revealed that the super-hero known as [[Iron Lad]] is actually a younger version of the villain, who discovered that he would become an evil tyrant and went back in time to prevent himself from conquering the world. Kang battled the teen heroes and was seemingly gaining the upperhand when Iron Lad, with tears in his eyes, runs [[Kate Bishop]]'s sword through Kang's chest. This killed Kang, but the ramifications caused several changes to the timeline, including all the Avengers being dead. Iron Lad realized that the only way to restore everything was to go back in time and become Kang. The Young Avengers had to wipe his mind before he went back, but before they did he asked them to forgive him for the actions he would commit in the future.
+
+==External links==
+
+*[http://www.avengersassemble.us/kang/kangtoc.html A Brief History of Kang] (Does not cover ''Avengers Forever'' or later)
+
+[[Category:Adam Warlock villains]]
+[[Category:Avengers villains]]
+[[Category:Fantastic Four villains]]
+[[Category:Hulk villains]]
+[[Category:Fictional time travelers]]
+[[Category:Fictional kings]]
+[[Category:Fictional scientists]]

@@ -1,0 +1,52 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:FlagSmasherMarvel2.jpg|250px| ]]
+| caption = Flag-Smasher stands over a defeated Captain America (John Walker).
+| comic_color = background:#ff8080
+| character_name = Flag-Smasher
+| publisher = [[Marvel Comics]]
+| debut =[[Captain America]] (1st series) #312 ''(December 1985)''
+| creators =[[Mark Gruenwald]] & [[Paul Neary]] 
+| alliance_color = background:#c0c0ff
+| alter_ego = *
+| species = Human
+| status = **
+| alliances = [[Ultimatum (comics)|ULTIMATUM]]
+| previous_alliances = <!-- optional -->
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| relatives = <!-- optional -->**
+| powers = None
+}}
+'''Flag-Smasher''' is a [[fictional character]], a [[supervillain]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]].  He has most often been a foe of [[Captain America]].  Other adversaries include [[the Punisher]], [[Moon Knight]], [[Ghost Rider]], and [[Runaways (comics)|The Runaways]].
+
+==History==
+Flag-Smasher is the son of a wealthy [[Switzerland|Swiss]] [[banker]]-turned-[[diplomat]]. He wanted to follow in his father's footsteps and become a diplomat until his father was trampled to death in a riot at a [[Latveria]]n embassy. He came to believe that humanity needed to do away with the concept of countries and nationalism that made people feel superior to those of different nationalites.
+
+Today, Flag-Smasher uses [[terrorism]] to spread anti-[[nationalist]] sentiment. He founded [[Ultimatum (comics)|ULTIMATUM]], the Underground Liberated Totally Integrated Mobile Army To Unite Mankind. [[Roxxon|Roxxon Oil]] turned him into a berserker with super-strength, but he later lost these powers.  
+[[Image:FlagSmasherMarvel.jpg|thumb|left|Flag-Smasher explains his politics.]]
+During the events of ''[[Citizen V]] & The V-Battalion: The Everlasting'', Flag-Smasher was installed as the ruler of Rumekistan by the V-Battalion as a compromise between powers.  In a recent story-arc of [[Cable & Deadpool]], Flag-Smasher was assassinated by Domino as part of a series of events which installed [[Cable (comics)|Cable]] as leader of that nation.[http://www.uncannyxmen.net/db/issues/showquestion.asp?fldAuto=3424]
+
+==Civil War==
+Flag-Smasher reappears in ''[[Civil War: Young Avengers/Runaways]]'' #1, though the ''Civil War Files'' one-shot describes him as an imposter. He attacks the [[Third Street Promenade|Santa Monica Farmers' Market]] to show his opposition to the [[Registration Acts (comics)|Super-Human Registration Act]], but is defeated by [[Runaways (comics)|The Runaways]].
+
+The mini-series, ''[[Dr. Strange]]: The Oath'' describes a fight between Flag-Smasher and [[Araña]], but doesn't specify if it is the original Flag-Smasher or an imposter.
+
+==Bibliography==
+*''Cable & Deadpool'' #27-28 ("death")
+*''Captain America'' vol. 1 #312, 321-322, 400, 438
+*''Captain America 1999''
+*''Citizen V and the V Battalion: Everlasting'' #1-4
+*''[[Civil War: Young Avengers/Runaways]]'' #1 (imposter)
+*''Ghost Rider'' vol. 3 #5-6
+*''Marvel Team-Up'' vol. 2 #3
+*''Moon Knight'' vol. 3 #8-9
+*''Official Handbook of the Marvel Universe A-Z #4
+*''X-Man'' #35
+*''X-Men Unlimited'' vol. 1 #22
+
+[[Category:Punisher villains]]
+[[Category:1985 introductions]]
+[[Category:Captain America villains]]
+[[Category:Marvel Comics villains]]
+[[Category:Moon Knight villains]]
+[[Category:Ghost Rider villains]]
+[[Category:Fictional terrorists]]

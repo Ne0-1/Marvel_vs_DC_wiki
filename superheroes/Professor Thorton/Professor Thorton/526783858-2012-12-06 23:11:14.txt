@@ -1,0 +1,59 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=The Professor
+|real_name=Truett Hudson
+|publisher=[[Marvel Comics]]
+|debut=''[[Marvel Comics Presents]]'' #73
+|creators=Barry Windsor-Smith
+|alliances=[[Weapon X]]<br>[[Weapon Plus]]
+|aliases=Professor Andre Thorton, Number One
+|powers=Genius-level intellect
+|}}
+'''Professor Andre Thorton'''<ref>http://marvel.wikia.com/Truett_Hudson_%28Earth-616%29</ref><ref>http://www.comicvine.com/professor-thorton/29-9392/</ref> (real name '''Truett Hudson'''; also known as '''The Professor''') is a character in [[Marvel Comics]], an enemy of [[Wolverine (comics)|Wolverine]].
+
+==History==
+In 1972, nearly twenty years before [[Wolverine (comics)|Logan]] was romantically involved and abducted with [[Silver Fox (comics)|Silver Fox]] at Windsor snow lodge{{citation needed|article|date=September 2012}}, Thorton experimented on numerous mutants including [[Sabretooth (comics)|Sabretooth]] and [[Mastodon (comics)|Mastodon]]. He hired Carol Hines as his assistant and the scientist [[Abraham Cornelius]]. He experiments on Wolverine and is responsible for his adamantium-laced skeleton. He is also connected to the creation of [[Alpha Flight]] on to developing super-soldiers for the US government. During the adamantium-lacing process, the pain of past memories awakes Wolverine, enabling him to break through the chamber after the process was completed. In the ensuing rampage, Wolverine cuts off Professor Thorton's hand and supposedly kills him in a mad rage. However, an ending scene clarifies to the reader that this was a virtual reality simulation of an escape attempt by Wolverine. 
+
+Sometime later, Professor Thorton and Carol Hines lure Wolverine into an abandoned warehouse in Canada which was once the secret location for the Weapon X program. Codenamed Project X, Wolverine soon discovers Weapon X was funded by the CIA and sheltered in Canada. Professor Thorton's secret weapon, a robotic android named Shiva, is activated to destroy him. Wolverine discovers the apartment complex is not a Pest control outlet but a trap for revenge. Silver Fox (who works for another secret organization called [[HYDRA]]) is revealed to be behind the entire plan. In the end, the missing character and cohort Silver Fox surprises them amidst the fighting there by killing the professor.<ref>''Wolverine'' #50</ref>
+
+==Other versions==
+* A version of the Professor (although insane) appears in the pages of ''[[Mutant X]]'', but is killed by [[Captain America]]. <ref>''Mutant X'' #30</ref>
+
+* The Professor appears in ''[[Wolverine: The End]]'' in a flashback. <ref>''Wolverine: The End'' #1</ref>
+
+==In other media==
+
+===Television===
+* Professor Thorton is seen briefly in the ''[[X-Men (TV series)|X-Men]]'' episode "Out of the Past." He is merged with [[Lord Dark Wind|Kenji Oyama]] as a character named '''Professor Oyama'''. 
+* Professor Thorton appears in the ''[[X-Men: Evolution]]'' episode "Grim Reminder", voiced by [[Campbell Lane]].
+* Professor Thorton appears in ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]'' voiced by [[Tom Kane]].
+* Tom Kane reprises his role of Professor Thornton who appears in ''[[The Avengers: Earth's Mightiest Heroes]]'' episode "Behold...The Vision." He is heard at a Weapon X facility when the [[Vision (Marvel Comics)|Vision]] attacks.
+
+===Film===
+* Professor Thorton appeared in the Wolverine portion of ''[[Hulk Vs]]'' voiced by [[Tom Kane]].
+
+===Video games===
+* Professor Thorton appeared in ''[[X2: Wolverine's Revenge]]'', voiced by [[Don Morrow]].
+* Professor Thorton appeared in ''[[X-Men: Legends]]'', voiced by [[Earl Boen]].
+
+==Bibliography==
+* ''Wolverine'' #50
+* ''Marvel Comics Presents Weapon X'' vol. 1 #73-87
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.comicvine.com/professor-thorton/29-9392/ Professor Thorton] at Comic Vine
+* [http://marvel.wikia.com/Truett_Hudson_%28Earth-616%29/ Professor Thorton] at Marvel Wikia
+
+{{Wolverine}}
+[[Category:Comics characters introduced in 1991]]
+[[Category:Marvel Comics characters]]
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Fictional Canadian people]]
+[[Category:Characters created by Barry Windsor-Smith]]
+{{Marvel-char-stub}}

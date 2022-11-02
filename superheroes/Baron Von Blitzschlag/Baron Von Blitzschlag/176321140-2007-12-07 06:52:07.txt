@@ -1,0 +1,37 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:BVonBlitzschlag.jpg|250px]]
+|caption=Baron Von Blitzschlag.<br>Art by [[Stefano Caselli]].
+|character_name=Baron Von Blitzschlag
+|real_name= Baron Von Blitzschlag
+|publisher=[[Marvel Comics]]
+|debut=''Avengers: The Initiative'' # 1<br> (April 2007)<br>
+|creators= [[Dan Slott]]<br> [[Stefano Caselli]] 
+|alliances= [[Avengers: The Initiative|The Fifty-State Initiative]], [[Nazi Party]],  [[Commission on Superhuman Activities]]
+|aliases=
+|supports=
+|powers= Genius level intellect and  an ablility to generate electricity
+|}}
+'''Baron Von Blitzschlag''' is a [[fictional character]] in the {{Marvel Universe}}, created by writer [[Dan Slott]] and artist [[Stefano Caselli]].
+
+==Fictional character biography==
+===Pre-Initiative===
+According to interviews with character creator Dan Slott, Baron Von Blitzschlag was "a Nazi supervillain [[retcon|that you've never seen]]. He's someone who had off panel run-ins with guys like the [[Whizzer (Robert Frank)|Whizzer]], [[Miss America (Marvel Comics)|Miss America]], and [[Thin Man (comics)|Thin Man]]. But no one really remembers him. The way he works in this book is that he's one of the guys in [[Hank Pym]]'s lab in [[Avengers: The Initiative|the Initiative]]. You read stuff like '[[Civil War (comics)|Civil War]]' and you see that they're making heroes like [[Champions (comics)|the new Champions]]. And that's one of the places he comes in. The Baron is a [[Nazi]] [[geneticist]] who is helping out the Initiative in the same way [[Wernher von Braun]] was helping out the [[NASA]] space program. As much as we hate the Nazis and they were awful human beings, we used guys who worked on the [[V2 rocket|V-2 rockets]] to help us put men on the moon and the Russians were using them too. There's something like that going on in the Initiative but I can't say any more about it."<ref>[http://www.comicbookresources.com/news/newsitem.cgi?id=10191 www.comicbookresources.com - IN THE ARMY NOW: SLOTT TALKS "AVENGERS: THE INITIATIVE"]</ref>.
+
+===The Initiative===
+Following the conclusion to [[Civil War (comics)|Civil War]], Baron Von Blitzschlag is recruited into [[Avengers: The Initiative|The Initiative]]  and works at [[Camp Hammond]], seemingly taking the position as the head of scientific research. He sits in on training sessions and is particularly interested in the development of [[Trauma (comics)|Trauma]]'s abilities. 
+
+Following the death of [[MVP (comics)|MVP]], Von Blitzschlag is asked to perform the autopsy. After discovering MVP's naturally formed peak human abilities, he argues with [[Hank Pym]] over whether exploiting MVP's genetic material in order to create more [[superheroes]] is [[medical ethics|ethical]]. After Pym laments the fact that he has to work with a former [[supervillain]] and Nazi, Von Blitzschlag points out Pym's role in a number of "villainous" acts including the creation of [[Ultron]] and the [[Thor (Marvel Comics)|Thor Clone/Cyborg]] from [[Civil War (comics)|Civil War]], finishing by saying "Don't hate me Herr Pym, for I am your greatest fan!".
+
+When the  Vulturions (criminals using the flying technology created by the original [[Vulture (comics)|Vulture]]) stole a briefcase containing classified research on [[gamma ray|gamma radiation]] from Von Blitzschlag, he attempted to stop them using his power to generate electricity, but was unable produce more than an electric glow around his hand, indicating that his powers are so weakened as to be negligible.
+
+It is later revealed that Von Blitzschlag used MVP's body to clone three duplicates, who are currently serving as the [[Scarlet Spider]]s.
+
+==Footnotes==
+<references />
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Fictional Germans]]
+[[Category:Fictional Nazis]]
+[[Category:Nazis in comic book fiction]]
+
+[[Category:Supervillains without aliases]]

@@ -1,0 +1,74 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Controller.gif|214px]]
+|caption= Controller
+|comic_color=background:#ff8180
+|character_name=Controller
+|real_name=Basil Sandhurst
+|publisher=[[Marvel Comics]]
+|debut=''[[Iron Man]]'' #12 (Apr 1969)
+|creators=[[Archie Goodwin (comics)|Archie Goodwin]] and [[George Tuska]]
+|alliance_color=background:#c0c0ff
+|status=Active
+|alliances=
+|previous_alliances=[[Thanos]]
+|aliases=
+|relatives=Vincent (brother, deceased).
+|powers=Wields control discs,<br>[[Mind control]],<br>Ability to drain mental energy from controlled pawns to power & enhance [[power armor|exoskeleton]] 
+|}}
+
+'''Controller''' is a [[fictional character]], a [[supervillain]] appearing in the [[Marvel Universe]].  He specializes in [[mind control]], and is a frequent foe of [[Iron Man]].
+
+==History==
+Basil Sandhurst was born in [[Kittery Point, Maine]]. His obsession with control brought his downfall as a scientist when his refusal to obey ethical restraints got him banned from most research facilities. Sandhurst was prone to fits of rage, and in an attempt to calm him, his brother Vincent inadvertently triggered a lab explosion, crippling Basil. Vincent, guilt-ridden, outfitted Basil with an automated lab, in which Basil bonded a super-strong exoskeleton to his body, powered by the cerebral energies from those around him. As the controller, he planned to enslave New York, But [[Iron Man|Iron man]] foiled his scheme and left controller comatose.
+
+Months later, he was released from prison by the alien [[Thanos]], who upgraded his technology. [[Thanos]] promissed Controller rulership of Earth, and so he began enslaving dozens of operatives. But his egotistical displays endangered [[Thanos|Thanos's]] security, and when the Controller failed to defeat [[Thanos|Thanos's]] enemy, [[Captain Marvel (Marvel Comics)|Captain Marvel]], the alien left him for dead. The Controller went underground for years, upgrading via stolen Stark technology from [[Justin Hammer]], and eventually enslaved a cult. [[Iron Man]] defeated him once more and sentenced him to the Vault. He eventually broke out of jail, only to be defeated by [[Iron Man]], again.
+
+Revived by the world-conquering [[Master (comics)|Master]], the Contoller became [[Master (comics)|the Master's]] pawn against the [[Avengers (comics)|Avengers]] and [[Heroes for Hire]]. Abandoned after a later defeat, the Controller, in an ironic nod to his many hospitalizations, acquired his own clinic, where he influenced the wealthy to do his bidding. However, the Contoller could not resist enslaving [[Iron Man|Tony Stark]] as well, leading to his latest defeat by [[Iron Man|Iron Man.]]
+
+Returned to [[The Raft (comics)|the Raft]], the Controller escaped with dozens of others but was recaptured during a clash with the [[U-Foes]] and [[Avengers (comics)|Avengers]].<ref name="Avengers.">{{
+cite book
+|title=The New Avengers: Most Wanted Files
+
+}}</ref>
+
+==Powers and Abilities==
+The Controller wears an exoskeleton that grants him mobility, as well as superhuman strength (up to 1000 pounds) and endurance. He uses "slave discs" to control others, draining cerebral energy to magnify his exoskeleton's strength (to as much as 50 tons) and duplicate his victim's abilities. He can psionically control "weak-willed" subjects even without his discs. He flies via boot-jets and has employed image inducers, stun mists, and other technology as needed.<ref name="needed.">{{
+
+cite book
+|title=The New Avengers: Most Wanted Files
+
+}}</ref>
+
+==Alternate versions==
+*In ''Earth X'' #5, Sandhurst was mentioned as having been one of the many who were killed when [[Norman Osborn|Osborn]] rose to power.
+
+==In other media==
+
+The Controller appeared as a guest villain in the ''[[Iron Man (TV series|Iron Man Animated Series]].'' His slave discs were based on the Iron Man technology which allowed him to mentally control his armor.
+
+==Bibliography==
+*''Avengers Unplugged'' #5
+*''Avengers: Deathtrap: The Vault''
+*''Captain America'' vol. 1 #365-367
+*''Captain Marvel'' vol. 1 #28-30
+*''Heroes for Hire'' vol. 1 #1-4
+*''Iron Man Annual'' #15
+*''Iron Man'' vol. 1 #12-13, 28, 88-89, 91, 225-226, 292-293
+*''Iron Man'' vol. 3 #12-13
+*''New Avengers'' #1-4
+*''Spider-Man: Breakout'' #1-5
+*''Web of Spider-Man''#99-100
+
+==Notes and references==
+<div class="references-small">
+<references/>
+</div>
+
+==External link==
+* [http://www.marveldirectory.com/individuals/c/controller.htm Controller at MarvelDirectory.com]
+
+[[Category:Fictional scientists]]
+[[Category:Iron Man villains]]
+
+
+{{Marvel-villain-stub}}

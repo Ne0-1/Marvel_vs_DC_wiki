@@ -1,0 +1,46 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8180
+|character_name=Machinesmith
+|real_name=Samuel "Starr" Saxon
+|publisher=[[Marvel Comics]]
+|debut=(as Starr Saxon) ''Daredevil'' #49, (as Mister Fear II) ''Daredevil'' #54, (as Machinesmith) ''Marvel Two-in-One'' #47
+|creators=
+|alliance_color=background:#c0c0ff
+|status=Active
+|alliances=
+|previous_alliances=
+|aliases=Mister Fear (II)
+|relatives=
+|powers=Scientific genius, particularly in robotics.<br>Robotic body possesses great strength and limited shapeshifting capabilities. Can transfer his mind into other machines.
+|}}
+
+'''Machinesmith''' is a [[supervillain]] in the [[Marvel Universe]].  He specializes in [[robot]]ics, and is able to make convincing [[Doppelgänger|doubles]] of other superhumans. His own [[mind]] was later transferred to a robotic body.
+
+==History==
+Starr Saxon's original efforts saw to his use of his robotics and enginnering abilities to construct a variety of androids to be used as assassins for hire/personal gain. At some point during this period, he constructed a facsimile of [[Magneto (comics)|Magneto]] and a variety of robotic "mutant" drones called [[The Demi Men]] who went on to battle the [[X-Men]]. The Magneto-Robot would appear several times over the years, believing itself to be the true Magneto, until it was destroyed by a [[Sentinel]]. As of this writing, the individual(s) who commissioned Saxon for the creation of the robot is unrevealed, but fan speculation has suggested Magneto himself.
+
+Saxon's next noteworthy campaigns saw to the use of a powerful android in a series of crimes in New York. He was opposed by [[Daredevil (Marvel Comics)|Daredevil]].  Saxon decided to confront Daredevil directly. He murdered the original [[Mr. Fear]] and stole his costume and weaponry. As Mr. Fear, Saxon battled Daredevil and lost, falling to his death from a flying platform.
+
+Saxon's robots found his dying body and transferred his consciousness into a computer, from which he could control into a variety of android bodies. Now calling himself the Machinesmith, Saxon or his robots would come into conflict with a variety of superheroes.
+
+Machinesmith would come to the exclusive employ of [[Red Skull|The Red Skull]], for whom he served as his primary scientist/machinist. On several occasions, Machinesmith would undertake various field missions for the Skull, usually confronting [[Captain America]].
+
+A portion of the Machinesmith consciousness was eventually captured, (assumed to be Saxon's entire consciousness), and enslaved by Tony Stark when he was under the thrall of [[Kang the Conquerer]]. Machinesmith later claimed to have easily recovered the lost fragment and reassimilated it.
+
+When the Skull was blasted apart by the destruction of the Kubekult's [[Cosmic Cube]], Machinesmith enacted a series of protocols dictated by the Skull to kill Captain America and plunge the world into nuclear holocaust. Machinesmith was defeated.
+
+Later, Machinesmith came under the employ of the Crimson Cowl's [[Masters of Evil]]. After the defeat of the team by the [[Thunderbolts]], Machinesmith has since lain low. His current activities are unknown.
+
+==External link==
+*[http://www.marveldirectory.com/individuals/m/machinesmith.htm Machinesmith at MarvelDirectory.com]
+
+{{Marvel-villain-stub}}
+[[Category:Captain America villains]]
+[[Category:Daredevil villains]]
+[[Category:Fictional evil scientists]]
+[[Category:LGBT characters in comics]]
+[[Category:Marvel Comics robots]]
+[[Category:Masters of Evil members]]
+[[Category:X-Men villains]]

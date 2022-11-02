@@ -1,0 +1,30 @@
+:''For information about the color, see [[Cerise (color)]].''
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Cerise.jpg|100px]]
+|caption=Cerise, by [[Alan Davis]]
+|comic_color=background:#ff8080
+|character_name=Cerise
+|real_name=Cerise
+|publisher=[[Marvel Comics]]
+|debut=(cameo) ''Excalibur'' #46<br>(full) ''Excalibur'' #47
+|creators=[[Alan Davis]]
+|alliance_color=background:#ffc0c0
+|status=Unknown
+|alliances=
+|previous_alliances=[[Excalibur (comics)|Excalibur]]
+|aliases=
+|relatives=
+|powers=Ability to create and manipulate solid light constructs.
+|}}
+'''Cerise''' is a [[fictional character]], a [[superhero]] in the [[Marvel Comics]] [[Marvel Universe|universe]].
+
+Cerise is an [[extraterrestrial life in popular culture|alien]] from the [[Shi'ar]] race. She arrived upon Earth after deserting the empire's brutal army, refusing to fire upon innocents and as a result causing the death of her crew.  She became a member of [[Excalibur (comics)|Excalibur]] and was romantically involved with [[Nightcrawler (comics)|Nightcrawler]].  Eventually, the Shi'ar empress [[Lilandra]] pardoned Cerise for her crimes, given their circumstances, and allowed her to serve out her prison sentence as a personal aide.  Cerise's role in the Shi'ar Empire is to investigate reports of brutality and violence.  Nightcrawler professed at one point that he still loves her, but at the time he was planning to become a priest, and thus could not rekindle their relationship.
+
+Cerise's power is the ability to create solid objects in the form of coherent red spectrum energy. These include swords, force fields, shields, funnels, and more. She once even used this energy to fly a whole broken [[Sentinels (comics)|Sentinel]] holding her friends within, across the Atlantic Ocean as a means of disguise. She can also direct the energy as concussive blasts. 
+She can also fly (without use of her energy fields), and hold her breath for six or seven minutes. She wears gloves that allows her to search for specific lifeforms, energy, and time/dimensional abnormalities in a surrounding area.
+
+
+[[Category:Excalibur members]]
+
+
+{{Marvel-Comics-stub}}

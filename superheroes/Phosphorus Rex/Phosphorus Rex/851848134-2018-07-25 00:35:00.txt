@@ -1,0 +1,56 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Phosphorus Rex
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| alt            = 
+| publisher      = [[DC Comics]]
+| debut          = ''[[Batman (comic book)|Batman]]'' #666 (July 2007)
+| creators       = [[Grant Morrison]]
+| full_name      =
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = [[Circus of Strange]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = Pyrokinesis
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = y
+| sortkey        = Phosphorus Rex
+| addcharcat#    = 
+}}
+'''Phosphorus Rex''' is a supervillain in [[DC Comics]].
+
+==Publication history==
+Phosphorus Rex first appeared in ''Batman'' #666 and was created by [[Grant Morrison]].
+
+==Fictional character biography==
+Phosphorus Rex is a fiery member of the [[Circus of Strange]].<ref>''Batman and Robin'' #1. DC Comics.</ref> After [[Mister Toad (comics)|Mister Toad]] was apprehended by the [[Gotham City Police Department]], Phosphorus Rex joined the Circus of Strange members Big Top, Siam, and a group of [[Professor Pyg]]'s Dollotrons into attacking the Gotham City Police Department which resulted in four [[police officer]]s getting killed and six others ending up injured. Phosphorus Rex and the rest of the Circus of Strange were defeated by [[Dick Grayson|Batman]] and [[Damian Wayne|Robin]]. Batman later interrogated Phosphorus Rex into giving him the identity of the Circus of Strange's leader. What Phosphorus Rex told Batman led him to Professor Pyg.<ref>''Batman and Robin'' #2. DC Comics.</ref>
+
+In September 2011, [[The New 52]] rebooted DC's continuity. In this new timeline, Phosphorus Rex and Professor Pyg are first seen as inmates of [[Arkham Asylum]]. At the time when [[Batman]] and Nightwing arrived at Arkham Asylum to capture a corrupt guard who ended up releasing the inmates, Phosphorus Rex is among those who take part in the break-out attempt only to be thwarted by Batman and Nightwing.<ref>''Batman'' Vol. 2 #1. DC Comics.</ref>
+
+==Powers and abilities==
+Phosphorus Rex has pyrokinetic abilities. He is surrounded by fires that are not lethal to him, but are lethal to everyone else.
+
+==Other versions==
+In the alternate future of ''Batman in Bethlehem'', Phosphorus Rex and his fellow Circus of Strange members are depicted as crime bosses.<ref>''Batman'' #666. DC Comics.</ref>
+
+==In other media==
+{{Plot|section|date=March 2018}}
+Phosphorus Rex appears in the ''[[Beware the Batman]]'' episode "Allies", voiced by [[Greg Ellis (actor)|Greg Ellis]]. In this show, Phosphorus Rex's human identity is Milo Match who is [[Tobias Whale]]'s [[lawyer]] and can assume a fiery form. After Tobias Whale was apprehended by Batman and the Gotham City Police Department, Milo Match appeared where he demanded that Tobias Whale be cleared of all charges and released. James Gordon doesn't agree to the terms. This led to Milo Match having [[Barbara Gordon]] abducted and taken to "The Cauldron" (a former industrial park that fell to corruption during Gotham City's bankruptcy) upon Batman discovering this. Tobias Whale and Milo Match are shown to be in league with the "ghosts" of "The Cauldron". Lt. Gordon arrives with Tobias Whale at the warehouse where Barbara Gordon, Batman, [[Katana (comics)|Katana]], and Milo Match are at as Tobias Whale has Milo Match show off his powers. As Milo transforms into Phosphorus Rex, Tobias Whale states that Milo is also his chief enforcer. Tobias Whale is accidentally pinned down by a shelf during Phosphorus Rex's fiery attack on Batman and Katana. Batman and Katana managed to defeat Tobias Whale and Phosphorus Rex who are then arrested by the police. In the episode "Reckoning", Tobias Whale and Phosphorus Rex are some of the [[Blackgate Penitentiary]] inmates rallied by [[Ra's al Ghul]] to capture and bring Batman to him.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://dc.wikia.com/wiki/Phosphorus_Rex_(New_Earth) Phosphorus Rex] at DC Comics Wiki
+* [https://comicvine.gamespot.com/phosphorus-rex/4005-64811/ Phosphorus Rex] at Comic Vine
+
+{{Batman characters}}
+
+[[Category:DC Comics supervillains]]
+[[Category:Fictional characters with fire or heat abilities]]

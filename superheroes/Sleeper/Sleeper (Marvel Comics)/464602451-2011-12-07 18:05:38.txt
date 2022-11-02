@@ -1,0 +1,47 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Sleeper
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Captain America]]'' #101 (May 1968)
+|creators=[[Stan Lee]] and [[Jack Kirby]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Skeleton Crew (comics)|Skeleton Crew]]
+|previous_alliances=
+|aliases=SL-4, the Fourth Sleeper
+|relatives=
+|powers=
+|}}
+'''Sleeper''' is a fictional character in the [[Marvel Universe]].
+
+==Fictional character biography==
+The Sleeper was the most powerful of four robots designed in Berlin by Nazi Germany as agents of destruction. After World War II, the Sleeper was entombed within a crypt that was sunk into the sea.  The crypt was retrieved from the sea in modern times, and when the Sleeper reactivated it destroyed a seacoast smelting factory and battled [[Captain America]]. The Sleeper was ultimately rendered intangible by a "sonic crystal".<ref>''Strange Tales'' #115</ref>
+
+The Sleeper was later restored to tangibility by the [[Machinesmith]] and was used as a "Trojan horse" to gain entrance onto [[Hydro-Base|Avengers Island]] in order to liberate the various robots incarcerated there. It was thwarted by Captain America, and badly damaged.<ref>''Captain America'' #354</ref>
+
+The damage done to the Sleeper was later repaired by the Machinesmith.<ref>''Captain America'' #368</ref> The Sleeper was animated by the Machinesmith to join the [[Skeleton Crew (comics)|Skeleton Crew]] in search of the missing [[Red Skull]]. It battled [[Hellfire Club (comics)|Hellfire Club]] mercenaries, and the [[Selene (comics)|Black Queen]].<ref>''Captain America'' #369</ref> Replicas of the five Sleeper robots were then pitted against Captain America and [[Diamondback (comics)|Diamondback]]. <ref>''Captain America'' #370</ref>
+
+==Powers and abilities==
+The Sleeper's robotic materials, design, and construction provide it with superhuman strength, stamina, durability, and reflexes.  It possesses a limited artificial intelligence, with a capacity for limited self-motivated activity. The Sleeper is programmed to be moderately proficient at hand-to-hand combat. The Sleeper has repulsor-ray blasters mounted in its eyesockets.
+
+Originally the Sleeper could alter its density from its natural tempered steel form to total intangibility. The circuits that controlled this function have burned out and have not been replaced. The vibration of a certain "sonic crystal" caused the Sleeper's intangibility control to malfunction. The Sleeper originally could also generate "volcanic" thermal energy and project it through its face-plate. This function has also apparently been eradicated.
+
+==In other media==
+===Television===
+* A Sleeper robot appeared in the ''[[X-Men (TV series)|X-Men]]'' episode "Old Soldiers", where it was defeated by [[Wolverine (comics)|Wolverine]] and Captain America.
+* Robots of a similar design to the Sleepers appeared in the "Six Forgotten Warriors" saga of the ''[[Spider-Man (1994 TV series)|Spider-Man]]'' TV series. They were created by the Red Skull to protect his "doomsday weapon". They were initially defeated by the Six Warriors, [[Kingpin (comics)|Kingpin]] and the [[Sinister Six|Insidious Six]], but were later reactivated by [[Electro (Marvel Comics)|Electro]] to attack the [[United Nations]]. They were defeated once again by the Six Warriors.
+
+===Video games===
+* Sleeper appears in the ''[[Captain America: Super Soldier]]'' video game. This version was a creation of unknown origins as [[Baron Zemo]] the 12th and his ancestors have been digging it out for years.
+
+==References==
+{{reflist}}
+
+{{Captain America}}
+
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics supervillains]]

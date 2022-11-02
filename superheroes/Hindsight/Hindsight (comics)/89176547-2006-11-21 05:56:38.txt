@@ -1,0 +1,38 @@
+{{Superherobox| <!--This box is part of Wikipedia:WikiProject Comics.  See that article for details-->
+image=<!-- Unsourced image removed: [[Image:Hindsight2.jpg|200px]] -->
+|caption= Hindsight
+|comic_color=background:#ff8080
+|character_name=Hindsight
+|real_name=Carlton LaFroyge
+|publisher=[[Marvel Comics]]
+|debut=''New Warriors Annual'' #3
+|creators=[[Fabian Nicieza]]<br>[[Darick Robertson]]
+|alliance_color=background:#ffc0c0
+|status=Active
+|alliances=
+|previous_alliances=[[New Warriors]]
+|aliases=Hindsight Lad
+|powers=None   
+|}}
+'''Hindsight (Carlton LaFroyge)''', formerly '''Hindsight Lad''', is a [[fictional character]] from the [[Marvel Comics]] universe that appeared primarily in the [[New Warriors]] series. Created by [[Fabian Nicieza]] and [[Darick Robertson]], he first appeared in ''New Warriors Annual'' #3.
+==Character biography==
+Soon after Robbie Baldwin (the superhero [[Speedball (comics)|Speedball]]) moved into his building, Carlton LaFroyge discovered Baldwin's secret identity <ref>''New Warriors Annual'' #3</ref> and blackmailed him by threatening to reveal his secret identity <ref>''New Warriors'' (vol. 1) #35</ref>. Baldwin refused. Soon, the New Warriors were captured by a street gang called the Poison Memories, who had earlier kidnapped various team members' relatives. LaFroyge, calling himself Hindsight Lad and wearing a homemade, caped costume which included a football helmet with automobile side mirrors attached, called on [[Night Thrasher]] to help free them. Through this, he weaseled his way onto the team as a non-official member <ref>''New Warriors'' (vol. 1) #38</ref>.
+
+Soon, Night Thrasher recognized his use to the team, and offered him full membership <ref>''New Warriors'' (vol. 1) #51</ref>. He changed costumes to a red/yellow suit and dropped the 'Lad' part of his name <ref>''New Warriors'' (vol. 1) #60</ref>. Through him, another person gained membership, [[Timeslip (comics)|Timeslip]]. He remained with the team until sometime after issue #75.
+
+Hindsight was supposed to appear in [[Jay Faerber]]'s ''New Warriors'' (vol. 2) as the newest [[Box (comics)|Box]], a member of Canadian team [[Alpha Flight]]. This was unexplored, as the series was cancelled before this story could be developed.{{cn}}
+
+===Civil War===
+{{main|Civil War (comics)}}
+Hindsight was more recently seen following the disaster in Stamford, Connecticut, wherein the Warriors, during the taping of their reality TV series, inadvertently caused the supervillain [[Nitro (comics)|Nitro]] to explode, killing most of the team and hundreds of the town's residents. Lafroyge, now retired from heroics, became unhinged at the news and turned against his former teammates, setting up an inflammatory anti-New Warriors website, DestroyAllWarriors.com. Through the site, Lafroyge not only publicly posted the Warrior's civilian identities but incited violence against the team's surviving members, past and present. [[She-Hulk]] helped [[Justice (comics)|Justice]], [[Rage (comics)|Rage]], [[Ultra Girl]], [[Slapstick (comics)|Slapstick]], and [[Firestar]] locate Lafroyge and force him to shut the site down.  Lafroyge was subsequently placed under arrest by She-Hulk's fiancee, [[John Jameson (comics)|John Jameson]].
+
+==Powers and abilities==
+Hindsight possesses no superhuman abilities, though [[Turbo (comics)|Turbo]] (Mickey Musashi) offered to share her costume with him after her previous partner died. This was never explored.  LaFroyge did have no small skill with computer programming and research, as well as some tactical ability, though the latter skill was best employed when assessing events that had already occurred, analyzing in hindsight how events could have played out if different actions were taken (thus the source of his "heroic" identity).  His research capabilities most often came into play as an associate and later member of the Warriors, including identifying potential additions to the Warriors' ranks when the [[Sphinx (comics)|Sphinx]] had dispersed the original membership throughout time.
+
+==References==
+<div class="references-small">
+<references />
+</div>
+
+[[Category:Marvel Comics heroes, non-superpowered]]
+[[Category:New Warriors]]

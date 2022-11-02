@@ -1,0 +1,458 @@
+{{Article issues|tone=September 2009|primarysources=August 2009|or=September 2009}}
+
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image= Greenlantern.PNG
+|converted = y
+|caption=Hal Jordan as Green Lantern<br />Art by [[Ethan Van Sciver]]
+|character_name=Green Lantern
+|publisher=[[DC Comics]]
+|debut=''[[Showcase (comics)|Showcase]]'' #22<br /> (October [[1959 in comics|1959]])
+|creators=[[John Broome (writer)|John Broome]]<br />[[Gil Kane]]
+|alter_ego = Harold "Hal" Jordan
+|species = Human
+|homeworld = Earth
+|alliances=[[Green Lantern Corps]]<br/>[[Justice League]]<br/>[[United States Air Force|US Air Force]]
+|partners=[[Green Arrow]]
+|aliases=[[Pol Manning]], [[Parallax (comics)|Parallax]], [[Spectre (comics)|Spectre]]
+|supports=<!--optional-->
+|powers=[[Power ring (weapon)|Green Power Ring]]
+|}}
+
+'''Harold "Hal" Jordan''' is a [[fictional character]], a [[DC Comics]] [[superhero]].  He is DC Comics' second '''[[Green Lantern]]''' and the first earthman ever inducted into the [[Green Lantern Corps]] and founding member of the [[Justice League of America]]. Created by [[John Broome (writer)|John Broome]] and [[Gil Kane]], he first appeared in ''[[Showcase (comics)|Showcase]]'' #22 (October 1959).<ref name="dc-ency">{{Citation | last = Wallace | first = Dan | author-link = | contribution = Green Lantern | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 144–147 | publisher = [[Dorling Kindersley]] | place = New York  | year = 2008 | ISBN = 0-7566-4119-5 | oclc = 213309017}}</ref>
+
+The revamp of Green Lantern as Hal Jordan was one of many DC Comics characters to emerge in the [[Silver Age of comics]].The Original [[Golden Age Green Lantern]],also known as [[Alan Scott]] had nothing to do directly this Silver version of the Green Lanterns,except the name and similar abilities with a magical type ring.
+
+In 1994 Hal Jordan turned into the [[supervillain]] '''[[Parallax (comics)|Parallax]]''' and was replaced by [[Kyle Rayner]] as the new Green Lantern. Jordan then underwent a number of further changes in the [[1990s in comics|1990s]] including dying and later returning as a new incarnation of '''[[Spectre (comics)|The Spectre]]'''. Hal Jordan returned to the role of Green Lantern in 2004's ''[[Green Lantern: Rebirth]]'' miniseries and is the protagonist of the current volume of ''Green Lantern''.
+
+==Publication history==
+===Recreated for the Silver Age===
+After achieving great success in 1956 in reviving the [[Golden Age of Comic Books|Golden Age]] character ''[[Flash (comics)|The Flash]]'', DC editor [[Julius Schwartz]] looked toward recreating the Green Lantern from the [[Golden Age of Comic Books]]{{Citation needed|date=March 2009}}. Like The Flash, Schwartz wanted this new character to have a different secret identity, origin, and personality than his 1940s counterpart. A long time [[science-fiction]] fan and [[literary agent]], Schwartz wanted a more sci-fi based Green Lantern, as opposed to the mystical powers of [[Alan Scott]], the forties Green Lantern. He enlisted writer [[John Broome (writer)|John Broome]] and artist [[Gil Kane]], who in 1959 would reintroduce Green Lantern to the world in ''[[Showcase (comics)|Showcase]] #22'' (September-October 1959).
+
+Like [[E.E. Doc Smith]]'s [[Lensman|Lensmen]], the new Green Lantern was a member of an intergalactic constabulary made up of many different alien species who were given a device that provided them with great mental and physical abilities; however, both Broome and Schwartz have denied a connection between those stories from science fiction pulps and the Green Lantern comic book stories.{{Citation needed|date=March 2009}} Gil Kane drew from actor [[Paul Newman]] in creating Hal Jordan's likeness,<ref>''Green Lantern'' (vol. 2) #3 (November-December 1960)</ref> and redesigned the Green Lantern uniform into a very sleek form-fitting outfit of green, black, and white - quite the opposite of Alan Scott's red, yellow, green, purple, and black costume with a puffy shirt and cape.
+
+The character was a success and it was quickly decided to follow-up his three issue run on ''Showcase'' with a self-titled series. ''Green Lantern #1'' began in July-August 1960 and would continue until #84 in April-May 1972.
+
+[[Image:showc22.png|thumb|left|Cover to ''Showcase'' #22 (October 1959), the first appearance of Hal Jordan.  Art by [[Gil Kane]].]]
+
+This creative team was responsible for introducing many of the major characters in Hal Jordan's life. First and foremost was [[Carol Ferris]], Jordan's love interest. She was in charge of Ferris Aircraft, and as such, Hal's boss. While she preferred Green Lantern to Hal Jordan, she took an active role in trying to win him over, even going so far as to propose to him in the old [[Leap Year]] tradition. Although she gave Jordan some attention, her job and company always came first. Ferris was a strong-willed woman of authority at a time when this was rare, especially in comic books.
+
+Another unique addition to Green Lantern's supporting cast was his best friend, [[Thomas Kalmaku|Tom Kalmaku]], who was both Hal's mechanic and the chronicler of his super-hero adventures. An [[Inuit]] (Eskimo) from Alaska, Tom's nickname was "Pie" or "Pieface", in reference to Eskimo Pie ice cream sandwiches. Like "Chop Chop" from the [[Blackhawk (comics)|Blackhawk]] comics, this nickname is today understandably viewed as racist and has been downplayed by most modern writers{{Citation needed|date=March 2009}}. However, unlike "Chop Chop", Tom was actually a competent and intelligent character with a well-rounded personality, not a stereotypical buffoon. Despite the unfortunate nickname, Tom Kalmaku was among the first minority characters to be portrayed in this manner and broke new ground for mainstream comic books. Tom would later be followed by another trail-blazing minority character, [[John Stewart (comics)|John Stewart]], the first African-American super-hero of the DC Universe.
+
+Jordan's masters, the mysterious [[Guardians of the Universe]], were physically based on [[David Ben-Gurion]], the first [[Prime Minister of Israel]], and were developed from an idea Schwartz and Broome had originally conceived years prior in a story featuring [[Captain Comet]] in ''[[Strange Adventures]] #22'' (July, 1952) entitled "Guardians of the Clockwork Universe".<ref>[http://povonline.com/cols/COL234.html] {{Dead link|date=May 2008}}</ref>
+
+Schwartz and company also allowed Jordan to have a family, which was another rare thing at this time in superhero comics. While he didn't have a wife or children of his own, he had many interactions with his two brothers, Jack and Jim. The Brothers Jordan were primarily inspired by the Kennedy brothers, who rose to prominence during the sixties.
+
+When compared to comics of the thirties, forties, and early fifties, Green Lantern broke new storytelling ground and can be seen as a precursor to the "[[Marvel Comics|Marvel]] Revolution" that would take place several years later.{{Citation needed|date=March 2007}} Whereas older comics treated each issue as a stand-alone with no real sense of temporal direction between issues, ''Green Lantern's'' issues followed the order of publication, with references within the stories to previous stories and adventures. Not only were references made, but subplots (such as Hal and Carol's romance, the marriage of Tom Kalmaku, etc.) were advanced showing actual growth in the character's lives. While these subplots rarely were given much notice in comparison to Marvel's storylines in the sixties and especially to today's modern stories, they were the first step toward this sort of serial storytelling instead of the episodic nature of older comics{{Or|date=March 2009}}.
+
+Likewise, Green Lantern was one of the first comics to be a part of a "shared universe". [[Justice League|The Justice League of America]] united several superheroes that DC owned, just as [[Justice Society|the Justice Society of America]] had in the Golden Age. The crucial difference was that events occurring in the ''Justice League'' title were reflected and referenced in individual superheroes' titles (such as Green Lantern).
+
+Also adding to the advancement of the medium was Gil Kane's use of dynamic art.{{Citation needed|date=March 2007}} Whereas previously, comics had mostly stuck with a six panel page consisting of six equal sized rectangles, Kane's panels changed in size and shape to offer a more emotional and visceral experience. The action and/or scene dictated the art instead of being forced into a rigid box structure. In addition, while there had been plenty of flying superheroes in the past, none flew quite like Hal Jordan. Kane’s art made Hal look more like he was gliding or swimming through the air than the usual leaping or bullet-like flying motion of other superheroes. His fluid poses made Hal a more graceful and, as a result, realistic-looking flying man.{{Citation needed|date=March 2007}}{{Or|date=March 2009}}
+
+John Broome seemed to come up with stories centered on a common theme and then run them together within a fairly short time. For example, ''Green Lantern #2-4'' each contained stories involving the [[anti-matter]] universe of [[Qward]], issues #12 and #15 featured "Zero Hour" stories{{Clarify|date=March 2009}} , and issues #8 and #12 involved Hal being sent to the year 5700 AD in the guise of Pol Manning.<ref>[http://members.aol.com/MG4273/lantern.htm Green Lantern<!-- Bot generated title -->]</ref>
+
+Starting in issue #17, [[Gardner Fox]] joined the book to share writing duties with John Broome. The quartet of Schwartz, Broome, Fox, and Kane remained the core creative team until 1970.
+
+===The era of social conscience===
+Starting with issue #76, [[Dennis O'Neil]] took over scripting duties and [[Neal Adams]] took over as artist. This issue is one of the comics which is considered to have ushered in the [[Bronze Age of Comic Books]]{{Citation needed|date=March 2009}}. It is worth noting that Neal Adams actually drew his first cover in Green Lantern #63 in the late Silver Age. The collaboration of O'Neil and Adams produced the most famous and celebrated runs on Green Lantern{{Citation needed|date=March 2009}}. Julius Schwartz remained editor and hand-selected the two{{Citation needed|date=March 2009}} to revitalize the title, whose sales had been slipping. O’Neil and Adams had already begun preparation for the classic run in the form of their re-workings of another DC character: [[Green Arrow]].
+
+Green Arrow was a character originally created by DC in 1941 (then known as National Comics). He was a wealthy businessman named Oliver Queen who wore a green [[Errol Flynn]]-esque [[Robin Hood]] costume and shot “trick” arrows in his efforts to fight crime. His characterization was fairly basic (borrowing heavily from [[Batman]] but lacking the depth and tragedy of that character{{Or|date=March 2009}}) and as such remained a second or third string hero throughout the Golden Age. However, the character managed to survive the fifties (during which most superhero comics were eliminated) by being a backup character in [[Adventure Comics]]. In 1961, DC added Green Arrow to the roster of the [[Justice League of America]], but he still remained in the background.
+
+[[Image:GLGA76BS.jpg|thumb|250px|Three panels ushering in the O'Neil/Adams run in ''Green Lantern'' #76.]]
+
+This changed in 1968 with ''Justice League of America #66''. Written by Denny O’Neil, Green Arrow started to show resentment toward his fellow superheroes who wielded great power (as he himself, possessing exceptional skill but no actual super-powers, did not), but did little to help the ordinary people with ordinary problems. O’Neil continued to push Green Arrow’s tolerance for his peers, and a little less than a year later, Neal Adams (not working in any sort of cooperation with O’Neil) redesigned Arrow, giving him a goatee and a new outfit. ''Justice League of America #74'' (still being written by O’Neil) introduced [[Black Canary]] as Arrow’s love interest and issue #75 left him broke, his company and fortune stolen from him. O’Neil wanted to recreate Green Arrow to better represent a modern Robin Hood, but felt a rich man would be a poor champion of the downtrodden{{Citation needed|date=March 2009}}.
+
+Some time after this, Schwartz invited O’Neil to take over ''Green Lantern''. Wanting to represent his own political beliefs in comics and take on social issues of the late sixties and early seventies, O’Neil came up with the idea of pitting Hal Jordan, who as an intergalactic cop stood for not only Law and Order but The Establishment, against Oliver Queen, who O’Neil had characterized as a profoundly outspoken liberal and stood for the Counter-Culture Movement{{Citation needed|date=March 2009}}. The first issue he wrote had Green Lantern capturing a street "punk" who was pushing around a man. All around him, people start throwing things at the bewildered Jordan. As he steps in to attack, he is stopped by Green Arrow, who explains that the man he defended was a [[slum lord]] "fat cat" and goes even further to show Lantern the conditions of the slum. At the roof, in a now famous scene, an elderly African-American man grills Jordan as to why he allowed [[segregation]] against African-Americans to continue on Earth, when he saved [[Tomar-Re|"the orange skins"]] and [[Korugar|"the purple skins"]] from exactly that.
+
+Following Schwartz's approval of the story, Neal Adams was brought in to replace Gil Kane, much to the surprise of Denny O'Neil. And yet, the pair had already been working together on [[Batman]] (where Adams successfully reconstructed the character into a more dramatic "Dark Knight"), Adams had been the one to redesign Green Arrow's costume, and the artist had a growing reputation for one who did not back down and pushed for innovative, good ideas{{Citation needed|date=March 2009}} and therefore, was the perfect candidate to work with O'Neil{{Or|date=March 2009}}.
+
+The pair tackled a number of social issues including corruption, sexism, cults, consumerism, the environment, racism, poverty, and even (subtly) child molestation{{Citation needed|date=March 2009}}. However, none were more shocking and controversial{{Citation needed|date=March 2009}} than the issue explored [[Snowbirds Don't Fly|in the famous "Snowbirds Don't Fly" issues #85 and #86]]. Neal Adams drew the cover, which showed Green Arrow’s youthful [[side-kick]], [[Roy Harper (comics)|Speedy]], shooting [[heroin]]. Editor Julius Schwartz did not want it published{{Citation needed|date=March 2009}}. Neither did publisher [[Carmine Infantino]]{{Citation needed|date=March 2009}}. But over at [[Marvel Comics]], [[Stan Lee]] had green-lit ''[[Amazing Spider-Man]] #96'', which featured pills and presented an anti-drug message ''without'' the [[Comics Code Authority]] seal. Facing opposition and controversy, the Comics Code Authority revised its rules in regard to what could and could not be presented in comic books and, while still restrictive, became more lenient. As a result{{Citation needed|date=March 2009}}, DC approved Adams’ cover and O’Neil wrote a two-part story involving drugs with Speedy being hooked. Green Arrow, who was usually presented as being the more understanding and mentoring of the Arrow/Lantern duo, now had his world turned upside-down, not only unable to understand his own part in leading Speedy toward drugs, but even coming off as uncompassionate toward the troubled youth. With this story, Adams and O’Neil not only tackled a difficult social ill, but looked inward at the ways that their “champion of the everyman” could be wrong{{Or|date=March 2009}}. New York [[John V. Lindsay|Mayor John V. Lindsay]] wrote a letter to DC in response to the issue commending them, which was printed in issue #86.
+
+Due to losing sales ''Green Lantern/Green Arrow'' was canceled, one of many titles that ended publication under the reign of Carmine Infantino. Julius Schwartz had a reprint of an older story published for issue #88 and saw the comic he began back in 1959 come to an end in 1972 with issue #89. However, he had Denny O’Neil and Neal Adams do one last story together, stretched out over ''Flash #217-219'' as a backup story.
+
+===The '80s exile===
+In comics published in the early [[1980s in comics|1980s]], Jordan was exiled into space for a year by the Guardians in order to prove his loyalty to the Green Lantern Corps, having been accused of paying too much attention to Earth when he had an entire "sector" of the cosmos to patrol. When he returned to Earth, he found himself embroiled in a dispute with Carol Ferris. Faced with a choice between love and the power ring, Jordan chose to resign from the Green Lantern Corps. The Guardians called upon Jordan's backup, [[John Stewart (comics)|John Stewart]], to regular duty as his replacement.
+
+In 1985, the ''[[Crisis on Infinite Earths]]'' saw Jordan once again take up the mantle of Green Lantern, even as the Guardians withdrew from his dimension for a while to consort with their female counterparts, the [[Zamarons]]. The new Corps, with seven members residing on Earth, including several aliens, John Stewart, and [[Guy Gardner (comics)|Guy Gardner]]. For a while, Jordan was romantically involved with an alien Lantern named [[Arisia (comics)|Arisia]], for which he came under fire; a difference in time between Earth and her planet meant that in earth years, she was roughly fourteen years old. The alien Lanterns took a more direct hand in human affairs, a fact not appreciated by human governments. ([[Kilowog]] helped create the [[Rocket Red]]s for the [[Soviet Union]]). Eventually, the Earth corps broke up, several members returning to their home sectors. The Guardians soon returned to this dimension, and Jordan worked with them to rebuild the fractured Corps.
+
+===1990s===
+During this time, the character's origin story is re-told and expanded in two limited series by Gerard Jones, ''[[Emerald Dawn]]'' and ''Emerald Dawn II''. The first series expanded the role of the Corps in his origin and also provided more details about his childhood and his relationship with his father and brothers, while the sequel detailed the role of Jordan in the downfall of Sinestro. 
+
+In the 1992 [[prestige format]] [[graphic novel]] ''Green Lantern: [[Ganthet#Ganthet's Tale|Ganthet's Tale]]'' (ISBN 1-56389-026-7) (story by [[Larry Niven]], script & art by [[John Byrne]]), Hal Jordan first encounters [[Ganthet]], one of the [[Guardians of the Universe]]. He asks Hal to help Ganthet battle a renegade Guardian, Dawlakispokpok (or Dawly, for short) who has attempted to use a [[Time travel|time machine]] to change history. 
+
+[[Image:Greenl50.jpg|thumb|left|150px|Cover to ''Green Lantern'' (vol. 3) #50 (March 1994). Hal Jordan becomes Parallax. Art by Darryl Banks.|thumb]]
+In the 1994 ''[[Emerald Twilight]]'' storyline in ''Green Lantern'' vol. 3, #48-50, the villainous alien [[Mongul]] comes to Earth in a plot to take advantage of [[The Death of Superman|the death of Superman]]. Jordan defeats Mongul, but not before [[Coast City]] (Jordan's former home) is destroyed and all of its inhabitants murdered. He tries to use his ring to recreate the city, but the Guardians condemned this use of the ring for personal gain and demand that Jordan come to Oa for trial. Angered at what he saw as the Guardians' ungrateful and callous behavior, Jordan goes [[insane]] and attacks Oa to seize the full power of the Central Power Battery, destroying the Corps in the process. He then renounces his life as Green Lantern, adopting the name [[Parallax (comics)|Parallax]].
+
+As Parallax, he initiates the ''[[Zero Hour (comics)|Zero Hour: Crisis in Time]]'', attempting to rewrite history to his own liking, but he is eventually defeated by a gathering of heroes. Jordan is replaced by [[Kyle Rayner]] as the Green Lantern of Earth when Rayner comes into possession of the last power ring, created from the shattered remains of Jordan's. In the 1996 ''[[Final Night]]'' miniseries and crossover storyline, Jordan returns and sacrificing his life to reignite the Sun (which had been extinguished by the [[Sun-Eater]]). 
+
+During the [[Emerald Knights]] storyline, when Kyle Rayner went on an accidental time-traveling trip, he ends up unintentionally drawing a past version of Hal into the present where Hal was shocked to learn of the crimes his future self had committed as Parallax.<ref name=GL106>''Green Lantern'' (vol. 3) #106</ref>
+
+In the 1999 mini-series ''[[Day of Judgment (comics)|Day of Judgment]]'', Jordan becomes the newest incarnation of the [[Spectre (comics)|Spectre]].<ref>{{gcdb series|id=7101|title=Day of Judgment}}</ref> Soon after assuming this mantle, Jordan chose to bend his mission from a spirit of vengeance to one of redemption, also making other appearances through some of DC's other story lines, such as advising [[Superman]] during the ''Emperor [[Joker (comics)|Joker]]'' storyline (Where the Joker stole the reality-warping power of [[Mister Mxyzptlk]]) and erasing all public knowledge of [[Wally West]]'s identity as the [[Flash (comics)|Flash]] after his terrible first battle with [[Zoom (comics)|Zoom]]. A new ''Spectre'' series based on this premise, however, lasted only 27 issues before cancellation due to poor sales.
+
+===2000s===
+Following up on the ''[[Green Lantern: Rebirth]]'' miniseries, DC Comics subsequently began a new ''Green Lantern'' (vol. 4) series starting with issue #1 (July 2005), with Hal Jordan once again the main character. Trying to rebuild his life, Hal Jordan has moved to the nearly deserted Coast City, which is slowly being reconstructed. He has been reinstated as a Captain in the United States Air Force, and works in the Test Pilot Program at [[Edwards Air Force Base]]. The series introduces new supporting characters for Hal, most notably a man from Hal's past, Air Force's General Jonathan "Herc" Stone, who learned Hal's secret as Green Lantern during a battle with the Manhunters and acts as his ally. He also begins to develop a romantic attraction with his fellow pilot, the beautiful Captain [[Jillian Pearlman|Jillian "Cowgirl" Pearlman]].<ref name=GL1>''Green Lantern'' (vol. 4) #1 (May 2005)</ref><ref name=GL2>''Green Lantern'' (vol. 4) #2 (June 2005)</ref><ref name=GL3>''Green Lantern'' (vol. 4) #3 (August 2005)</ref> The returning characters also include Carol Ferris, Tom Kalmaku, and Hal's younger brother James Jordan with his sister-in-law Susan and their children, Howard and Jane.
+
+In his new title, he faces revamped versions of his Silver Age foes such as [[Hector Hammond]], [[Shark (comics)|The Shark]] and [[Black Hand (comics)|Black Hand]].<ref name=GL4>''Green Lantern'' (vol. 4) #4 (August 2005)</ref><ref name=GL5>''Green Lantern'' (vol. 4) #5 (November 2005)</ref><ref name=GL6>''Green Lantern'' (vol. 4) #6 (December 2005)</ref>
+
+Hal helps briefly with the attack of the [[OMACs]] and [[Brother Eye]].<ref name=IC6>''Infinite Crisis'' #6</ref> He also fights alongside a group of heroes against the Society, defending [[Metropolis(comics)|Metropolis]]. [[Guy Gardner (comics)|Guy Gardner]], leads the Green Lantern Corps attack against [[Superboy-Prime]] with Hal appearing in the group.<ref name=IC7>''Infinite Crisis'' #7</ref>
+
+As part of DC's retconning of the entire universe, as of ''Green Lantern'' vol. 4, #10, the book has skipped ahead [[One Year Later|one year]], bringing drastic changes to Hal Jordan's life, as with every other hero in the DC Universe. It is revealed that Jordan spent time as a P.O.W. in an un-named conflict and has feelings of guilt from his inability to free himself and his fellow Captives.<ref name=GL17>''Green Lantern'' (vol. 4) #17 (November 2006)</ref>
+
+A new account of Green Lantern's origins was released in the (2008) ''Green Lantern'' series. In this ''new'' origin, Hal Jordan, is working as an assistant mechanic under [[Tom Kalmaku]] himself, barred from flying due to his insubordination while in the [[United States Air Force|U.S.A.F.]] and his employers lingering guilt about his father's death in the line of duty, when [[Abin Sur]], fighting [[Atrocitus]] of the Five Inversion, crashes near Coast City.<ref name="GL29">''Green Lantern'' (vol. 4) #29 (March 2008)</ref><ref name="GL30">''Green Lantern'' (vol. 4) #30 (April 2008)</ref>
+
+Hal and the rest of the Green Lantern Corps find themselves at war with [[Sinestro]] and his army, the [[Sinestro Corps]] during the events of the [[Sinestro Corps War]]<ref name=GLSCS>''Green Lantern Sinestro Corps Special''</ref> As a Green Lantern native to Earth he features in the [[Final Crisis]] mini-series by [[Grant Morrison]].<ref name=FC1>''Final Crisis'' #1</ref>
+
+Leading into the ''[[Blackest Night]]'' storyline, the Rage of the Red Lanterns storyline features Jordan making use of both Red and Blue rings.<ref name=GL36>''Green Lantern'' (vol. 4) #36 (December 2008)</ref><ref name=GL37>''Green Lantern'' (vol. 4) #37 (January 2009)</ref><ref name=GL38>''Green Lantern'' (vol. 4) #38 (February 2009)</ref>
+
+In the Agent Orange story arc, Hal Jordan is briefly in command of [[Agent Orange (DC Comics)|Agent Orange]]'s power battery after he steals it from Agent Orange in a battle. The orange light of avarice converses with Jordan, his costume changes, and he becomes the new Agent Orange. However, [[Agent Orange (DC Comics)|Larfleeze]] quickly takes his power battery back from Jordan.<ref name=GL42>''Green Lantern'' (vol. 4) #42 (June 2009)</ref>
+
+During the'' Blackest Night'', after either against or allies himself with six other Lantern Corps during The War of Light, Hal finds himself facing many of his deceased allies, enemies, and people he failed to save reanimated as undead [[Black Lantern Corps|Black Lantern]]s under the controls of the Green Lantern Corps' ancient enemy [[Nekron]] on Coast City during the demon lord's universal invasion.  Hal finds himself not only he must teaming up with his best friend [[Flash (Barry Allen)|Barry Allen]] (otherwise known as [[Flash (comics)|The Flash]]), who is also resurrected from his death, but also must work with his enemies Sinestro, Atrocitus,Larfleeze, his former love Carol Ferris (who is now a Star Sapphire once more), and his allies Saint Walker from the [[Blue Lantern Corps]], [[Indigo Tribe]] member Indigo-1, and Guardians [[Ganthet]] and [[Sayd]], in order to save the universe. Along the way, Hal and Barry battling their personal demons as they're face the consequences of being resurrected as Nekron's black rings seeking to claim them as Black Lanterns.     
+
+Jordan is also a character of focus in the new ''Justice League of America'' series as a charter member of the revamped JLA. He is also involved in the first plotline of the ''[[Brave and the Bold]]'' monthly series, teaming up first with [[Batman]] and later [[Supergirl (Kara Zor-El)|Supergirl]]. When teamed with the fledgling Supergirl, Hal is very impressed with her cleverness, although he finds her flirtatious behavior somewhat unnerving.<ref name=BB2>''Brave and the Bold'' (vol. 3) #2</ref>
+
+In the ''Justice League: Cry for Justice'' mini-series, Hal leads his own ''Justice League'' with [[Green Arrow]], [[Captain Marvel Jr.|Shazam]], Supergirl, [[Congo Bill#Congorilla|Congorilla]], [[Starman (comics)|Starman]], [[Batwoman]], and the [[Atom (comics)|Atom]] in order to avenge the deaths of [[Martian Manhunter]] and Batman.<ref name=JLCJ1>''Justice League: Cry for Justice'' #1 (July 2009)</ref>
+
+==Other versions==
+As with other characters published by DC comics, many alternative universe versions and analogues of the character have appeared within both the Green Lantern series and other titles. In [[Action Comics]] #856, a [[Bizarro]] version of Hal, called Yellow Lantern, is featured. Yellow Lantern possessed a [[Sinestro Corps]] ring and used to inflict fear among [[Htrae]]'s inhabitants.
+
+The Green Lantern of [[Earth-5]] is shown to be the Hal Jordan of [[Captain Marvel (DC Comics)|Captain Marvel's]] world in the new 52 multiverse. He is killed in [[Countdown: Arena]] #2 by [[Monarch (comics)|Monarch]]. A Green Lantern named Hal Jordan III, grandson of the original Hal Jordan, from the world of [[Batman Beyond]]. He is labeled as Green Lantern of Earth-12. He loses his left arm in battle with Monarch. 
+
+The character has also appeared in and been the focus of many Elseworlds titles such including ''[[JLA: Age of Wonder]]'', ''[[DC: The New Frontier]]'', ''[[Superman: Red Son]]'', ''[[JLA: The Nail]]'', ''[[Green Lantern: Evil's Might]]'' and the John Byrne penned ''[[Superman & Batman: Generations]] 2'' and a part of the Frank Miller ''Dark Knight'' universe, appearing in ''[[All Star Batman and Robin]]'' and ''[[Batman: The Dark Knight Strikes Again]]''.
+
+In the DC/Marvel Company crossover series [[Amalgam]], there appeared to be two amalgams of Hal.  The [[Iron Lantern]] was the amalgam of Hal Jordan and [[Iron Man|Tony Stark]].  His identity was known as Hal Stark.  Another unknown amalgam of Hal Jordan appeared in ''Speed Demon'' #1, in which the Speed Demon killed him, as apparently this Jordan had committed a horrible crime.
+
+Hal Jordan is a character in ''[[JLA/Avengers]]'', which featured a [[intercompany crossover|crossover]] between DC and Marvel Comics. Despite the fact that both teams travel to both of their respective universes, this is one of the few comics featuring multiple universes that remains in (DC) continuity.
+
+An alternate version of Hal Jordan also appeared in the Pocket Universe Earth created by the [[Time Trapper]]. He, along with various other heroes who had no superpowers in this reality, teamed up with a good version of [[Lex Luthor]] to stop three evil Kryptonians who had escaped from the [[Phantom Zone]]. Hal Jordan piloted an advanced jet craft that was easily destroyed by the Kryptonians.
+
+Though Jordan was never one of the main characters in the award-winning mini-series ''[[Kingdom Come (comics)|Kingdom Come]]'', a version of him from the Earth-22 (A post ''[[Infinite Crisis]]'' [[alternate universe]]) made a cameo on the end of the storyline" ''Thy Kingdom Come''" story arc on the issue of ''[[Justice Society of America]]'' (vol. 3) #22, during Batman's funeral.
+
+==Other media==
+{{Main|Green Lantern in other media}}
+===Animated television===
+====''The Superman/Aquaman Hour of Adventure''====
+*Hal Jordan made his first cartoon appearance in 1967 in an [[eponym]]ously-titled segment of ''[[The Superman/Aquaman Hour of Adventure]]'' cartoon by [[Filmation]]. In it, he fought evil with the aid of a blue-skinned, pointed-eared sidekick [[Kairo (Superman/Aquaman Hour)|Kairo]], Hal's Venusian Helper. It is revealed that Hal is a member of the [[Justice League|JLA]].  In these cartoons, Hal Jordan was voiced by [[Gerald Mohr]].
+
+====''Super Friends''====
+*Green Lantern was featured as a 'guest hero' in ''[[The All-New Super Friends Hour]]''. Unfortunately, his powers were consistently misrepresented, such creating vehicles for transportation with his ring such as a "Lantern Jet," ignoring the fact that the power ring traditionally allows him to simply will himself to fly. Also, whenever Green Lantern would use his ring to create something, such as a life raft or a double-bladed transport helicopter, the final product would often be shown with its appropriate colors, instead of the same green shade as the power beam.
+*Hal Jordan and his archnemesis Sinestro were also regulars in ''[[Challenge of the SuperFriends]]'' which aired 1978–1979. One notable episode featured a re-telling of Hal's origin in which the dying Abin Sur passes on his ring. The character would continue to be brought back for the subsequent ''[[Super Friends: The Legendary Super Powers Show]]'' and ''[[The Super Powers Team: Galactic Guardians]]'' shows. [[Michael Rye]] voiced the character for all three shows.
+
+===DC animated universe===
+[[File:HalJ.jpg|thumb|right|Hal Jordan in ''Justice League Unlimited'', with [[Terry McGinnis]] and [[Static (comics)|Static]] behind him and [[Batman]] to the right.]]
+*Hal Jordan has a single appearance in the ''[[Justice League Unlimited]]'' episode "[[The Once and Future Thing]] Part II: Time Warped". When time becomes fluid, [[John Stewart (comics)|John Stewart]] is unexpectedly replaced by Hal. He quickly introduces himself to his bewildered teammates and continues on as if nothing happened, explaining that the ring has brought him "up to speed". Later, as the assembled heroes close in on the time-warping villain responsible, Hal reverts back to John, causing an annoyed [[Static (comics)|Static]] to say "Make up your mind!" Hal was voiced by [[Adam Baldwin]] in this episode.
+
+===''The Batman''===
+*In the fourth [[season finale]] of ''[[The Batman (TV series)|The Batman]]'', "[[The Joining, Part Two|The Joining]]", the Justice League was introduced. Hal Jordan was included among its members, in a non-speaking cameo. He and the other members of the League play a role in the show's fifth season. He appears in the episode "Ring Toss", and in the finale "Lost Heroes", both times voiced by [[Image:Duck dodgers Hal Jordan.jpg|thumb|170px|right|Hal Jordan in ''Duck Dodgers'']] [[Dermot Mulroney]].
+
+===''Duck Dodgers''===
+*Hal Jordan also appeared in a 2003 episode of the ''[[Duck Dodgers (TV series)|Duck Dodgers]]'' animated series entitled ''The Green Loontern'', in which Duck Dodgers is mistakenly given a Green Lantern uniform by his dry cleaners. Donning it, he meets the Corps and fights [[Sinestro]] before meeting Hal (voiced by [[Kevin Smith]]), who is wearing Dodgers' too-small uniform.
+
+===''Batman: The Brave and the Bold''===
+*Hal Jordan appears in the ''[[Batman: The Brave and the Bold]]'' episode ''The Eyes of Despero'', voiced by [[Loren Lester]]. He is first seen leading many other Green Lanterns into battle against [[Despero]], only to have them be turned against him by Despero's mind control. Releasing a discharge of power from his ring, he seemingly perished in the blast alongside his fellow Lanterns, with his ring going across the universe in search of another wielder. It makes its way to [[Batman]], sending him to space. Hal, the [[missing in action]] Lanterns, and the [[Guardians of the Universe]] were revealed to be alive and in the ring near the end.
+
+===Live-action television===
+===''Legends of the Superheroes''===
+*In 1979, a two part mini-series of live-action films featuring The Justice League and their villains [[The Legion of Doom]] was produced under the title ''[[Legends of the Superheroes]]''. It featured [[Howard Murphy]] as Hal Jordan.
+
+===Films===
+[[File:First Flight Hal Jordan.jpg|thumb|right|Hal Jordan in ''[[Green Lantern: First Flight]]''.]]
+*Hal Jordan is one of the main characters featured in ''[[Justice League: The New Frontier]]''. He is voiced by [[David Boreanaz]], while Carol Ferris is voiced by [[Brooke Shields]].
+
+*[[Christopher Meloni]] voices Hal Jordan on Warner Premiere animated feature ''[[Green Lantern: First Flight]]''.
+
+*[[Ryan Reynolds]] has been cast to play Hal Jordan in a [[Martin Campbell]] directed ''Green Lantern'' motion picture feature.<ref>[http://weblogs.variety.com/bfdealmemo/2009/07/ryan-reynolds-is-the-green-lantern.html Ryan Reynolds is the "Green Lantern"], [[Variety (magazine)|Variety]], July 10, 2009</ref>
+
+*[[Nolan North]] voices Hal Jordan appears in the ''[[Justice League: Crisis on Two Earths]]'' animated feature film.
+
+===Video games===
+*Hal Jordan is a playable character in the video game, ''[[Mortal Kombat vs. DC Universe]]''. His Game Ending has him and the other Green Lanterns becoming aware of a giant pyramid (from MK: Armageddon) emerging. Realizing Sinestro could try and take the pyramid's secret, he and the Green Lantern Corps try to stop him.
+
+===Other references===
+*A nod to Hal Jordan was made in Ninja Turtles (2003) 7th season episode "The Super Power Struggle". The character in reference was Al Gordon, The Green Mantle. An emerald cape gives him super powers, however it is not triggered by will power. The character lost the cape after a fight with his arch nemesis, Mechazar. A kid found it and kept it as a collectible for more than 40 years. The character in modern day looks like Hal Jordan from 1990 to 2004 with the gray streaks of hair. He reclaims the cape and repairs it to resume the identity of The Green Mantle once again.
+
+*The pop/rock band [[The Roy Clark Method]] released "[[Sector 2814]]," a song about Hal Jordan's fall after the [[Reign of the Supermen]] series, on their 2002 album [[Mild-Mannered Supermen]]. A second version of the song appeared on their [[self-titled]] second album in 2005.<ref>[http://webzoom.freewebs.com/altmusicisdead/07%20Sector%202814.wma Sector 2814 by The Roy Clark Method.<!-- Bot generated title -->]</ref><ref>[http://www.freewebs.com/royclarkmethod The Roy Clark Method official website.<!-- Bot generated title -->]</ref>
+
+*In an issue of the Bongo Comics series Simpsons comics Comic Book Guy says "I wanted to be a Martian Manhunter but I ended up a Hal Jordan."
+*In the song "Sunshine Superman" by Scottish singer Donavan In 1968, Superman and Green Lantern are both referred to.
+*Kirby Krackle composed a song about Hal Jordan called "Ring Capacity" that hasn't been added to any album although it has been announced they will ad it to their next album
+
+==Bibliography==
+===Ongoing series===
+Hal Jordan [[first appearance|first appeared]] in ''[[Showcase (comics)|Showcase]]'' #22-24 (September 1959 – February 1960, DC Comics).  After that, he was given his own series. Over the years, it has been renamed, canceled, and rebooted several times. His “core” series have been:
+
+*''[[Green Lantern|Green Lantern (vol. 2)]]'' #1-75 (July 1960 – March 1970, DC Comics). Renamed following issue #75.
+*''[[Green Lantern/Green Arrow]]'' #76-89 (April 1970 – May 1972, DC Comics). Canceled following issue #89.
+*''[[Flash (comics)|The Flash]]'' (vol. 1) #217-246 (August 1972 – January 1977, DC Comics). Hal’s stories were a backup feature which stopped following his own title’s return.
+*''[[Green Lantern/Green Arrow]]'' #90-122 (August 1976 – November 1979, DC Comics). Renamed following issue #122.
+*''[[Green Lantern|Green Lantern (vol. 2)]]'' #123-200 (December 1979 – May 1986, DC Comics). Renamed following issue #200.
+*''[[Green Lantern Corps]]'' #201-224 (June 1986 – May 1988, DC Comics). Canceled following issue #224.
+*''[[Action Comics#Action Comics Weekly|Action Comics Weekly]]'' #601-635 (24 May 1988 – 17 January 1989, DC Comics). Hal’s stories were one of several characters featured in the series.  Canceled following issue #635.
+*''Green Lantern Special'' #1 (1988). Tying in with the stories from ''Action Comics Weekly''.
+*''Green Lantern Special'' #2 (1989). Concluding the story plots from ''Action Comics Weekly'', after the anthology series' cancellation.
+*''[[Green Lantern|Green Lantern (vol. 3)]]'' #1-50 (June 1990 – March 1994, DC Comics). Following issue #50, the character [[Kyle Rayner]] took over this series.
+*''[[Spectre (comics)#Hal Jordan|The Spectre (vol. 4)]]'' #1-27 (March 2001 – May 2003, DC Comics). Hal Jordan's adventures as the Wrath of God. Canceled following issue #27.
+*''[[Green Lantern|Green Lantern (vol. 4)]]'' #1-present (July 2005 – present, DC Comics). Currently written by [[Geoff Johns]] with various artists.
+
+===Team series===
+Hal Jordan was a founding member of [[Justice League|the Justice League of America]], which first appeared in [[Brave and the Bold]] #28-30 (February 1960 – July 1960, DC Comics).
+
+*''[[Justice League|Justice League of America (vol. 1)]]'' #1-200 (October 1960 – March 1982, DC Comics).  Hal was exiled to space by the Guardians following this and the League was disbanded by Aquaman later in ''[[Justice League|Justice League of America Annual]]'' #2 (November 1984).
+*''[[Justice League Europe|Justice League of Europe]]'' #39-61 (June 1992 – February 1994, DC Comics).  At the time of joining, Hal took leadership of this team, but left for “personal reasons” following the destruction of Coast City.
+*''[[Justice Society of America|JSA]]'' #19-20(February 2001 - March 2001), 60-62 (June 2004 - August 2004), ''[[Justice Society of America|JSA: All Stars]]'' #1 (July 2003), 8 (February 2004). After becoming the Spectre, Hal aided The Justice Society of America on several different adventures.
+*''[[JLA (comic book)|JLA]]'' #35 (November 1999), 115-120 (August 2005 - January 2006). While he was The Spectre, Hal aided the JLA on one case. After becoming Green Lantern once again, Hal rejoined and aided the JLA on their final case before breaking up once more and attended the gathering to announce the official dissolving of the JLA.
+*''[[Justice League|Justice League of America (vol. 2)]]'' #1- (October 2006 – , DC Comics). Hal had been chosen by Superman, Wonder Woman, and (reluctantly) Batman to be a part of the new incarnation of the League.
+
+===Collected editions===
+Hal Jordan's stories have been collected into a number of [[trade paperback (comics)|volumes]]:
+
+{| class="wikitable"
+|-
+! Title !! Material collected !! ISBN
+|-
+! colspan="3" | Green Lantern [[DC Archive Editions|Archives]] (color, hardcover)
+|-
+| '''Green Lantern Archives Vol. 1''' 
+| ''Showcase'' #22-24; ''Green Lantern'' (Vol. 2) #1-5
+| HC: ISBN 1-56389-087-9 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=1147 ''Green Lantern Archives: Volume 1''] at DC Comics.com</ref>
+|-
+| '''Green Lantern Archives Vol. 2''' 
+| ''Green Lantern'' (Vol. 2) #6-13
+| HC: ISBN 1-56389-566-8 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=1148 ''Green Lantern Archives: Volume 2''] at DC Comics.com</ref>
+|-
+| '''Green Lantern Archives Vol. 3''' 
+| ''Green Lantern'' (Vol. 2) #14-21
+| HC: ISBN 1-56389-713-X <ref>[http://dccomics.com/dcu/graphic_novels/?gn=1149 ''Green Lantern Archives: Volume 3''] at DC Comics.com</ref>
+|-
+| '''Green Lantern Archives Vol. 4''' 
+| ''Green Lantern'' (Vol. 2) #22-29
+| HC: ISBN 1-56389-811-X <ref>[http://dccomics.com/dcu/graphic_novels/?gn=1150 ''Green Lantern Archives: Volume 4''] at DC Comics.com</ref>
+|-
+| '''Green Lantern Archives Vol. 5''' 
+| ''Green Lantern'' (Vol. 2) #30-38
+| HC: ISBN 1-4012-0404-X <ref>[http://dccomics.com/dcu/graphic_novels/?gn=2485 ''Green Lantern Archives: Volume 5''] at DC Comics.com</ref>
+|-
+| '''Green Lantern Archives Vol. 6''' 
+| ''Green Lantern'' (Vol. 2) #39-47
+| HC: ISBN 1-4012-1189-5 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=6281 ''Green Lantern Archives: Volume 6''] at DC Comics.com</ref>
+|-
+! colspan="3" | Green Lantern Chronicles (color, paperback)
+|-
+| '''Green Lantern Chronicles Vol. 1''' 
+| ''Showcase'' #22-24; ''Green Lantern'' (Vol. 2) #1-3
+| SC: ISBN 1-4012-2163-7 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=11323 ''Green Lantern Chronicles: Volume 1''] at DC Comics.com</ref>
+|-
+| '''Green Lantern Chronicles Vol. 2''' 
+| ''Green Lantern'' (Vol. 2) #4-9
+| SC: ISBN 1-4012-2499-7
+|-
+! colspan="3" | [[Showcase Presents]]: Green Lantern (black and white, paperback)
+|-
+| '''Showcase Presents: Green Lantern Vol. 1''' 
+| ''Showcase'' #22-24; ''Green Lantern'' (Vol. 2) #1-17 
+| SC: ISBN 1-4012-0759-6 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=4177 ''Showcase Presents: Green Lantern: Volume 1''] at DC Comics.com</ref>
+|-
+| '''Showcase Presents: Green Lantern Vol. 2''' 
+| ''Green Lantern'' (Vol. 2) #18-37; ''The Flash'' #143
+| SC: ISBN 1-4012-1264-6 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=6659 ''Showcase Presents: Green Lantern: Volume 2''] at DC Comics.com</ref>
+|-
+| '''Showcase Presents: Green Lantern Vol. 3''' 
+| ''Green Lantern'' (Vol. 2) #39-59
+| SC: ISBN 1-4012-1792-3 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=9182  ''Showcase Presents: Green Lantern: Volume 3''] at DC Comics.com</ref>
+|-
+| '''Showcase Presents: Green Lantern Vol. 4''' 
+| ''Green Lantern'' (Vol. 2) #60-75
+| SC: ISBN 1-4012-2278-1 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=11747  ''Showcase Presents: Green Lantern: Volume 4''] at DC Comics.com</ref>
+|-
+! colspan="3" | Green Lantern/Green Arrow
+|- 
+| '''Green Lantern/Green Arrow Vol. 1''' 
+| ''Green Lantern'' (Vol. 2) #76-82
+| SC: ISBN 1-4012-0224-1 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=3754  ''Green Lantern/Green Arrow: Volume 1''] at DC Comics.com</ref>
+|- 
+| '''Green Lantern/Green Arrow Vol. 2''' 
+| ''Green Lantern'' (Vol. 2) #83-87, 89; back-ups from ''Flash'' (vol. 2) #212-219
+| SC: ISBN 1-4012-0230-6 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=2366 ''Green Lantern/Green Arrow: Volume 2''] at DC Comics.com</ref>
+|-
+! colspan="3" | Miscellaneous
+|- 
+| '''[[Cosmic Odyssey (comics)|Cosmic Odyssey]]'''
+| ''Cosmic Odyssey'' #1-4 (miniseries)
+| ISBN 1-56389-051-8
+|-
+| '''Green Lantern: The Road Back''' 
+| ''Green Lantern'' (Vol. 3) #1-8
+| ISBN 1-56389-045-3 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=3758 ''Green Lantern: The Road Back''] at DC Comics.com</ref>
+|-
+| '''Green Lantern: [[Emerald Dawn]]''' 
+| ''Green Lantern: Emerald Dawn'' #1-6 (miniseries)
+| ISBN 1-4352-4580-6 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=3755 ''Emerald Dawn''] at DC Comics.com</ref>
+|-
+| '''Green Lantern: Emerald Dawn II''' 
+| ''Green Lantern: Emerald Dawn II'' #1-6 (miniseries)
+| ISBN 1-4012-0016-8 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=3756 ''Emerald Dawn II''] at DC Comics.com</ref>
+|-
+| '''Green Lantern: [[Ganthet|Ganthet's]] Tale'''
+| ''
+| ISBN 1-56389-026-7
+|-
+| '''[[Superman]]: [[The Death of Superman|The Return of Superman]]'''
+| ''Green Lantern'' (Vol. 3) #46; ''[[Action Comics]]'' #687-691; ''[[Adventures of Superman (comic book)|The Adventures of Superman]]'' #500-505; ''[[Superman (vol. 2)|Superman]]'' (Vol. 2) #78-82; ''[[Superman: The Man of Steel]]'' #22-26
+| ISBN 1-56389-149-2
+|-
+| '''Green Lantern: [[Emerald Twilight]]'''
+| ''Green Lantern'' (Vol. 3) #48-50
+| ISBN 1-56389-164-6
+|-
+! colspan="3" | As Parallax
+|-
+| '''[[Zero Hour (comics)|Zero Hour]]: Crisis in Time'''
+| ''
+| ISBN 1-56389-184-0
+|-
+| '''[[The Final Night]]'''
+| ''
+| ISBN 1-56389-419-X
+|-
+| '''Green Lantern: Emerald Knights''' 
+| ''Green Lantern'' (Vol. 3) #99-106; ''Green Arrow'' #136
+| ISBN 1-56389-475-0 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=1355 ''Emerald Knights''] at DC Comics.com</ref>
+|-
+! colspan="3" | Flashbacks
+|-
+| '''Flash & Green Lantern: The Brave and the Bold''' 
+| ''Flash & Green Lantern: The Brave and the Bold'' #1-6 (miniseries)
+| ISBN 1-56389-708-3
+|-
+| '''[[Green Lantern: Willworld]]'''
+| Graphic Novel
+| HC: ISBN 1-56389-782-2 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=1360 ''Willworld'' hardcover] at DC Comics.com</ref>
+SC: ISBN 1-56389-993-0 <ref>[http://dccomics.com/graphic_novels/?gn=1361 ''Willworld'' softcover] at DC Comics.com</ref>
+|-
+! colspan="3" | As Spectre
+|-
+| '''Green Lantern: The Power of Ion'''
+| ''Green Lantern'' (Vol. 3) #142-150
+| ISBN 1-56389-972-8
+|-
+| '''Green Lantern: Brother's Keeper'''
+| ''Green Lantern'' (Vol. 3) #151-155; ''Green Lantern Secret Files'' #3
+| ISBN 1-4012-0078-8
+|-
+! colspan="3" | On his return
+|-
+| '''[[Green Lantern: Rebirth]]'''
+| ''Green Lantern: Rebirth'' #1-6 (miniseries)
+| HC: ISBN 1-4012-0710-3 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=4154 ''Green Lantern: Rebirth'' hardcover] at DC Comics.com</ref>
+SC: ISBN 1-4012-0465-1 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=6802 ''Green Lantern: Rebirth'' softcover] at DC Comics.com</ref>
+|-
+| '''Green Lantern: No Fear'''
+| ''Green Lantern'' (Vol. 4) #1-6; ''Green Lantern Secret Files and Origins'' #1
+| HC: ISBN 1-4012-0466-X <ref>[http://dccomics.com/dcu/graphic_novels/?gn=4967 ''Green Lantern: No Fear'' softcover] at DC Comics.com</ref>
+SC: ISBN 1-4012-1058-9 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=9170 ''Green Lantern: No Fear'' softcover] at DC Comics.com</ref>
+|-
+| '''[[Green Lantern Corps: Recharge]]'''
+| ''Green Lantern Corps: Recharge'' #1-5 (miniseries)
+| SC: ISBN 1-4012-0962-9 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=5221 ''Green Lantern Corps: Recharge''] at DC Comics.com</ref>
+|-
+| '''Green Lantern: Revenge of the Green Lanterns''' 
+| ''Green Lantern'' (Vol. 4) #7-13
+| HC: ISBN 1-4012-1167-4 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=6070 ''Revenge of the Green Lantern'' hardcover] at DC Comics.com</ref>
+SC: ISBN 1-4012-0960-2 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=9972 ''Revenge of the Green Lantern'' softcover] at DC Comics.com</ref> 
+|-
+| '''Green Lantern: Wanted: Hal Jordan'''
+| ''Green Lantern'' (Vol. 4) #14-20
+| HC: ISBN 1-4012-1339-1 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=7454 ''Wanted: Hal Jordan'' hardcover] at DC Comics.com</ref>
+SC: ISBN 1-4012-1590-4 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=10738 ''Wanted: Hal Jordan'' softcover] at DC Comics.com</ref>
+|-
+| '''Green Lantern Corps: To Be a Lantern'''
+| ''Green Lantern Corps'' (Vol. 2) #1-6
+| SC: ISBN 1-4012-1356-1 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=7152 ''Green Lantern Corps: To Be a Lantern''] at DC Comics.com</ref>
+|-
+| '''Green Lantern Corps: The Dark Side of Green'''
+| ''Green Lantern Corps'' (Vol. 2) #7-13
+| SC: ISBN 1-4352-5617-4 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=8190 ''Green Lantern Corps: The Dark Side of Green''] at DC Comics.com</ref>
+|-
+| '''[[Sinestro Corps War]] Vol. 1'''
+| ''Green Lantern'' (Vol. 4) #21-23; ''Green Lantern Corps'' (vol. 2) #14-15; ''Green Lantern: Sinestro Corps Special''
+| HC: ISBN 1-4012-1650-1 <ref>[http://www.dccomics.com/dcu/graphic_novels/?gn=8543 ''Sinestro Corps War: Volume 1'' hardcover], at DC Comics.com</ref>
+SC: ISBN 1-4012-1870-9 <ref>[http://www.dccomics.com/dcu/graphic_novels/?gn=11322 ''Sinestro Corps War: Volume 1'' softcover], at DC Comics.com</ref>
+|-
+| '''Sinestro Corps War Vol. 2'''
+| ''Green Lantern'' (Vol. 4) #24-25; ''Green Lantern Corps'' (vol. 2) #16-19
+| HC: ISBN 1-4012-1800-8 <ref>[http://www.dccomics.com/dcu/graphic_novels/?gn=9168 ''Sinestro Corps War: Volume 2'' hardcover], at DC Comics.com</ref>
+SC: ISBN 1-4012-2036-3 <ref>[http://www.dccomics.com/dcu/graphic_novels/?gn=11743  ''Sinestro Corps War: Volume 2'' softcover], at DC Comics.com</ref>
+|-
+| '''Tales of the Sinestro Corps Wars'''
+| ''Green Lantern: Sinestro Corps Special''; ''Tales of the Sinestro Corps: Ion''; ''Tales of the Sinestro Corps: Parallax''; ''Tales of the Sinestro Corps: Cyborg Superman''; ''Tales of the Sinestro Corps: Superman Prime''; ''Green Lantern/Sinestro Corps Secret Files''; back-up stories from ''Green Lantern'' #16-20
+| HC: ISBN 1-4012-1801-6 <ref>[http://www.dccomics.com/dcu/graphic_novels/?gn=11740 ''Green Lantern: Tales of the Sinestro Corps'' hardcover] at DC Comics.com</ref>
+SC: ISBN 1-4012-2326-5 <ref>[http://www.dccomics.com/dcu/graphic_novels/?gn=11740 ''Green Lantern: Tales of the Sinestro Corps'' softcover] at DC Comics.com</ref>
+|-
+| '''Green Lantern Corps: Ring Quest'''
+| ''Green Lantern Corps'' (Vol. 2) #19-20,23-26
+| SC: ISBN 1-4012-1975-6 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=10461 ''Green Lantern Corps: Ring Quest''] at DC Comics.com</ref>
+|-
+| '''Green Lantern: [[Rage of the Red Lanterns]]'''
+| ''Green Lantern'' (Vol. 4) #26-28, 36-38; ''Final Crisis: Rage of the Red Lanterns''
+| HC: ISBN 1-4012-2301-X <ref>[http://dccomics.com/dcu/graphic_novels/?gn=11742 ''Rage of the Red Lanterns''] at DC Comics.com</ref>
+|-
+| '''Green Lantern: Secret Origin'''
+| ''Green Lantern'' (Vol. 4) #29-35
+| HC: ISBN 1-4012-1990-X <ref>[http://dccomics.com/dcu/graphic_novels/?gn=10386 ''Green Lantern: Secret Origin'' hardcover]</ref>
+|-
+| '''Green Lantern Corps: Sins of the Star Sapphire'''
+| ''Green Lantern Corps'' (Vol. 2) #27-32
+| SC: ISBN 1-4012-2273-0 <ref>[http://dccomics.com/dcu/graphic_novels/?gn=11744 ''Green Lantern Corps: Sins of the Star Sapphire''] at DC Comics.com</ref>
+|-
+| '''Green Lantern: [[Agent Orange (DC Comics)|Agent Orange]]'''
+| ''Green Lantern'' (Vol. 4) #39-42
+| HC: ISBN 1-4012-2421-0 
+|-
+| '''Green Lantern Corps: Emerald Eclipse'''
+| ''Green Lantern Corps'' (Vol. 2) #33-38
+| HC: ISBN 1-4012-2528-4 
+|}
+
+== See also ==
+*[[Kristogar Velo]]
+
+==Notes==
+{{Reflist|3}}
+
+== References ==
+{{refbegin}}
+*{{comicbookdb|type=character|id=35|title=Green Lantern (Hal Jordan)}}
+*{{imdb character|0030789|Hal Jordan}}
+* [[Les Daniels|Daniels, Les]] ''DC Comics: Sixty Years of the World’s Favorite Comic Book Heroes''. Boston, MA: Bulfinch, 1995. ISBN 0-8212-2076-4
+* [[Dennis O'Neil|O'Neil, Dennis]] "Introduction by Dennis O'Neil". ''Green Lantern/Green Arrow Volume One''. Ed. Robert Greenberger. New York, NY: DC Comics, 2000. ISBN 1-4012-0224-1
+* [[Dick Giordano|Giordano, Dick]] "Introduction by Dick Giordano". ''Green Lantern/Green Arrow: More Hard-Traveling Heroes''. Ed. Robert Greenberger. New York, NY: DC Comics, 1993. ISBN 1-56389-086-0
+* Lawrence, Christopher "Neal Adams". ''Wizard''. Sept. 2003.
+* [[Todd Casey|Casey, Todd]] "Green Mile". ''Wizard''. Nov. 2004.
+{{refend}}
+
+== External links ==
+* [http://www.dccomics.com/sites/greenlantern/ Official Green Lantern (Hal Jordan) Website]
+* [http://alankistler.squarespace.com/journal/2008/9/5/alan-kistlers-history-of-the-green-lantern-part-1.html Alan Kistler's profile on Green Lantern]
+* [http://forum.newsarama.com/showthread.php?t=98511 GEOFF JOHNS - AMON SUR, AND EVERYTHING GREEN LANTERN]
+* [http://www.dccomics.com/heroes_and_villains/?hv=origin_stories/green_lantern Green Lantern's (Hal Jordan's) origin @ dccomics.com]
+* [http://home.aol.com/MG4273/lantern.htm The Silver Age Green Lantern], a critical study
+* [http://glcorps.dcuguide.com/profile.php?name=greenlantern2 Bio at the Unofficial Green Lantern Corps Webpage]
+
+{{Green Lantern}}
+{{Green Arrow}}
+{{Justice League}}
+
+{{DEFAULTSORT:Jordan, Hal}}
+[[Category:DC Comics superheroes]]
+[[Category:Fictional characters from California]]
+[[Category:Fictional air force personnel]]
+[[Category:Fictional aviators]]
+[[Category:Green Lantern]]
+[[Category:1959 comics characters debuts]]
+[[Category:Characters created by John Broome]]
+[[Category:Characters created by Gil Kane]]
+
+[[es:Linterna Verde]]
+[[fr:Hal Jordan]]
+[[it:Hal Jordan]]
+[[nl:Hal Jordan]]
+[[pt:Hal Jordan]]
+[[fi:Hal Jordan]]

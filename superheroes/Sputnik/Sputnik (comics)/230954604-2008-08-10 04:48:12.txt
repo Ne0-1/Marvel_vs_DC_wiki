@@ -1,0 +1,39 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Sputnik
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Captain America]]'' #352 (Apr 1989)
+|creators=[[Mark Gruenwald]] and [[Kieron Dwyer]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Supreme Soviets]]
+|previous_alliances=
+|aliases=Vostok
+|relatives=
+|powers=
+|}} 
+
+'''Sputnik''' is a fictional character in the [[Marvel Universe]].
+
+==Publication history==
+Sputnik first appeared in ''Captain America'' #352-353 (April-May 1989), and was created by [[Mark Gruenwald]] and [[Kieron Dwyer]].
+
+The character subsequently appears as '''Vostok''' in ''Avengers'' #319-324 (July-October 1990), ''Incredible Hulk'' #393 (May 1992), ''Soviet Super-Soldiers'' #1 (November 1992), ''Quasar'' #54 (January 1994), ''Iron Man'' #9-10 (October-November 1998), ''Maximum Security'' 33 (January 2001), and ''Thunderbolts'' #57 (December 2001).
+
+Sputnik appeared as part of the "Supreme Soviets" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Update '89]]'' #7.
+
+==Fictional character biography==
+The synthezoid originally known as '''Sputnik''' was a member of the [[Supreme Soviets]]. The team had been sent by the Soviet government to capture the [[Soviet Super-Soldiers]], who were attempting to defect to the United States.  Sputnik had been disguised by an illusion to appear as the [[Vision (Marvel Comics)|Vision]]. Eventually, [[Captain America]] defeated the Supreme Soviets and freed the badly wounded Soviet Super-Soldiers.
+
+Sputnik later changed his name to '''Vostok''' when the team became known as the People's Protectorate. Eventually the team broke up and merged with the Soviet Super-Soldiers to form the [[Winter Guard]].
+
+==Powers and abilities==
+Sputnik has the ability to manipulate mechanical systems.
+
+
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics supervillains]]

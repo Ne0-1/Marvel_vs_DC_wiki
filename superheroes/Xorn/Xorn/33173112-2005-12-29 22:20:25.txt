@@ -1,0 +1,44 @@
+:''This entry is for the [[X-Men]] character. For the [[Dungeons and Dragons]] creature, see [[Xorn (Dungeons and Dragons)]]''.
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Xornquitely.jpg|center|200px]] 
+|caption=The original Xorn, by Frank Quietly
+|comic_color=background:#ff8080
+|character_name=Xorn
+|real_name=(I) Kuan-Yin Xorn<br>(II) Shen Xorn
+|publisher=[[Marvel Comics]]
+|debut=(I) ''[[New X-Men]] [[Annual publication|Annual]] 2001''<br>(II) ''X-Men'' volume 2 #157
+|creators=[[Grant Morrison]]<br>[[Leinil Francis Yu]]
+|alliance_color=background:#cccccc
+|status=(I) Deceased<br>(II) Unknown
+|alliances=
+|previous_alliances=[[X-Men]]<br>(I) Special Class
+|aliases=(I) [[Magneto (comics)|Magneto]]
+|relatives=(I) Shen Xorn<br>(II) Kuan-Yin Xorn
+|powers=(I) The ability to heal and to manipulate energy and gravity due to the star which made up his brain.<br>(II) Telepathy, ability to survive without oxygen, black hole for a head which is apparently a portal to an unknown dimension.
+|}}
+'''Xorn''' is the surname of two [[fictional]] [[mutant (fictional)|mutants]] in the [[Marvel Comics]] [[Marvel Universe|universe]].
+
+==Kuan-Yin Xorn==
+The first Xorn was a mutant who claimed that his mutation had gifted him with a "[[star]] for a [[brain]]"; as a result, he was a powerful [[healer]] and possessed the ability to manipulate energy and [[gravity]].  He was originally found and rescued by the [[X-Men]] members [[Cyclops (comics)|Cyclops]] and [[Emma Frost]] from a prison in [[China]].  He became a valued member of the team, even going so far as to apparently heal [[Professor X]]'s severed spinal cord.
+
+Soon he was put in charge of the "Special Class", a group of physical and social misfits who attended the [[Xavier Institute]], who he soon commanded as his own unofficial team of X-Men.  However, this proved to work against them when, in the storyline "[[Planet X (comics)|Planet X]]", he took off his helmet to apparently reveal his identity as none other than the X-Men's nemesis [[Magneto (comics)|Magneto]].  He claimed that he had used his energy-manipulation powers to fake the fictional Xorn's spurious mutation. Xorn had previously only demonstrated the ability to manipulate magnetism, gravity and electricity and to control [[nanotechnology]], all of which Magneto was easily capable of.  Upon this revelation, he once again crippled Xavier, levelled Xavier's mansion, and fatally wounded [[Jean Grey]] before being beheaded by [[Wolverine (comics)|Wolverine]]. 
+
+Xavier then took the body of "Magneto" to [[Genosha]], where he met the original Magneto, who was alive and well. Xavier and Magneto debated the imposter's actions while standing by the bandage-wrapped body of Xorn. Most of the answers to the Magneto imposter's identity came in subsequent issues of ''X-Men'', when a second Xorn was introduced.
+
+==Shen Xorn==
+Later issues of ''X-Men'' stated that Xorn was an actual person who was under the influence of the entity known as [[Sublime (comics)|Sublime]]. A man named Shen Xorn possessing similar powers appeared soon after, claiming to be the brother of the original Xorn, a claim supported by a thorough mindscan of him by [[Emma Frost]]. However, he left the team when [[Chuck Austen]] left as writer, and has not been seen since then.
+
+==Behind the scenes==
+[[Grant Morrison]] had intended Xorn to be the real Magneto. However, knowing that what he had planned for the character and the school would cause behind the scenes problems, it has been rumoured he deliberately sent in his scripts at the last possible moment, to minimise the chances of being asked for rewrites (the ''[[New Mutants]]'' writers, whose book was also set in the school, only found out that Morrison had destroyed the school when ''New X-Men'' #147 came out. It should be pointed out that this problem is not uncommon in [[shared universe]] comics). Consistency between the titles was being downplayed at Marvel during this period and falls under the remit of editorial, not the writers.
+
+Unhappy with the treatment and death of Magneto, wanting to allow other books to get back on track, and wanting Xorn, a marketable new character, around, Marvel then [[retcon|reversed]] several of Morrison's decisions in the "[[Planet X (comics)|Planet X]]" arc, reconstructing the school immediately and reintroducing Magneto (in [[Chris Claremont]]'s new ''[[Excalibur (comics)|Excalibur]]'' book, while establishing that he never left Genosha after its destruction), and a new Xorn (in [[Chuck Austen]]'s ''X-Men''), while establishing that the new Xorn was the brother of the original and that the original had been possessed by some (unrevealed) force.  Some confusion has arisen, however, due to the somewhat chaotic way Marvel went about this reversal, in two separate comics, and without complete answers as of yet.
+
+Grant Morrison fans remain unhappy at what they see as Marvel maliciously unwinding Morrison's story. Other fans point out that Morrison's characterisation of Magneto (a [[Jew]]ish [[Holocaust]] survivor) as a tyrannical dictator who would herd people into [[crematorium]]s was horribly out-of-character, and even offensive. 
+
+More recently, in the [[Avengers Disassembled]] event, Magneto's daughter, the [[Scarlet Witch]], was revealed to have been subconsciously rewriting reality for some time. Although some expected this to be used to complete the explanation, the existence and identity of the Xorns have not been revisited since the disappearance of Shen Xorn - although the ''[[Official Handbook of the Marvel Universe]]: X-Men 2005'' did, indeed, hint that the Scarlet Witch was responsible for Kuan-Yin Xorn becoming a duplicate, insane, Magneto.
+
+
+[[Category:Brotherhood of Evil Mutants members]]
+[[Category:Fictional elementals]]
+[[Category:Marvel Comics mutants]]
+[[Category:X-Men members]]

@@ -1,0 +1,77 @@
+{{Cleanup|June 2006}}
+'''Mister Fear''' is a [[fictional character|fictional]] [[supervillain]] in the [[Marvel Comics]] [[Marvel universe|universe]].  Four different individuals have played the role of Mister Fear.  Mister Fear is primarily a villain of [[Daredevil (comics)|Daredevil]], the "Man Without Fear."
+
+==Zoltan Drago==
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = [[Image:DD_04302005_0013.jpg|200px]]
+| caption = Art by [[Wally Wood]]
+| comic_color = background:#ff8080
+| character_name = Mister Fear
+| publisher = [[Marvel Comics]]
+| debut = ''Daredevil'' I #6
+| creators = '''Writer:''' [[Stan Lee]]<br />'''Artist:''' [[Wally Wood]]
+| alliance_color = background:#c0c0ff
+| real_name =
+| status = Deceased
+| alliances = <!-- optional -->
+| previous_alliances = <!-- optional -->
+| species = <!-- optional -->
+| aliases = <!-- optional -->
+| relatives = <!-- optional -->
+| powers = Fear pheromone administered primarily by gas pellets, occasionally by syringe
+}}
+'''Zoltan Drago''' was the propriator of a financially-ailing wax museum who inadvertently created the fear gas while trying to brng his wax figures to life. Drago decided that his new discovery was perfect for starting a new life as a master criminal.  He immediately teamed up with [[Ox (comics)|Ox]] of the [[Enforcers (comics)|Enforcers]] and the [[Eel (comics)|Eel]].
+
+==Starr Saxon==
+{{main|Machinesmith}}
+Starr Saxon temporarily assumed the guise of Mister Fear, after killing Zoltan Drago in order to do so.
+
+==Larry Cranston==
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| comic_color = background:#ff8080
+| character_name = Mister Fear
+| publisher = [[Marvel Comics]]
+| debut = ''Daredevil'' I #88
+| creators = 
+| alliance_color = background:#c0c0ff
+| real_name = Larry Cranston
+| status = Deceased
+| alliances = <!-- optional -->
+| previous_alliances = <!-- optional -->
+| species = <!-- optional -->
+| aliases = <!-- optional -->
+| relatives = [[Mister Fear#Alan Fagan|Alan Fagan]] (nephew)
+| powers = Fear pheromone administered primarily by gas pellets, occasionally by syringe
+}}
+'''Larry Cranston''' was a law school classmate of Matt Murdock who also became his employer for a while.  Cranston happened to overhear Saxon killing Drago, and after learning that Saxon himself had died, he took on the guise of Fear himself. 
+
+==Alan Fagan==
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| comic_color = background:#ff8080
+| character_name = Mister Fear
+| publisher = [[Marvel Comics]]
+| debut = ''[[Marvel Team-Up]]'' I#92 (April, 1980)
+| creators = 
+| alliance_color = 
+| real_name = Alan Fagan
+| status = in custody
+| alliances = <!-- optional -->
+| previous_alliances = [[New Enforcers]]
+| species = <!-- optional -->
+| aliases = <!-- optional -->
+| relatives = [[Shock (comics)|Ariel Tremmore]] (daughter), [[Mister Fear#Larry Cranston|Larry Cranston]] (uncle, deceased)
+| powers = Fear pheromone administered primarily by gas pellets, occasionally by syringe
+}}
+'''Alan Fagan''' was the nephew of the third Mister Fear, Larry Cranston.  When Larry died, Alan came into possession of the fear gas and other equipment.  Unlike the other Fears, Fagan's primary adversary was [[Spider-Man]], not Daredevil.
+
+==External links==
+*[http://www.marvunapp.com/Appendix3/mrfearfagan.htm ''The Appendix to the Handbook of the Marvel Universe'''s profile on Mister Fear (Alan Fagan)]
+
+[[Category:Daredevil villains]]
+
+
+{{Marvel-villain-stub}}

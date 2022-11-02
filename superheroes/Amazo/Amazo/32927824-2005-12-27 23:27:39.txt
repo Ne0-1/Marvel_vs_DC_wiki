@@ -1,0 +1,42 @@
+{{Superherobox|
+image=[[Image:amazo1.jpg|250px]]
+|caption=Amazo
+|comic_color=background:#8080ff
+|character_name=Amazo
+|real_name=None
+|publisher=[[DC Comics]]
+|debut=''The Brave and the Bold'' Vol. 1 #30 (June 1960)
+|creators=[[Gardner F. Fox]]
+|alliance_color=background:#c0c0ff
+|status=Active
+|alliances=[[Society of Supervillains]]
+|previous_alliances=None
+|aliases=Professor Ivo's Amazing Android
+|relatives=Professor Ivo (creator)
+|powers="Absorption cells" throughout Amazo's synthetic body permit the android to replicate the special abilities of any super-beings in his immediate area. 
+|}}
+
+'''Amazo''' is a fictional [[android]] from [[DC Comics]].  He has fought the [[Justice League of America]] on several occasions.
+
+==Character history==
+Amazo was built by the insane super-scientist [[Professor Ivo]] to battle the [[Justice League of America]]. Ivo wished to demonstrate his ingenuity while ridding the world of its premier [[superhero]] team.  Amazo was originally built to imitate the powers of the original JLA members: [[Superman]], [[Batman]], [[Wonder Woman]], [[Green Lantern]] (Hal Jordan), [[The Flash]] (Barry Allen), the [[Martian Manhunter]] and [[Aquaman]]. However, the lineup of the JLA's founding roster has been changed via [[retcon]]s, and it is currently uncertain how this changes Amazo's origin. Later versions of the robot appeared with differing abilities depending on which heroes he battled and later versions were able to evolve abilites simply by encountering heroes.  One version was able to mimic the powers of any current JLA member, and to add new powers as new members appeared.  This version was beaten when Superman officially disbanded the team; with no JLA to mimic, Amazo was rendered powerless.
+
+Amazo, in the guise of ''Timazo'', became the chief enemy of the android [[Hourman]] when he was able to duplicate half of Hourman's near-infinite temporal manipulation abilities.  Timazo also possessed the powers of [[Aquaman]], [[Black Canary]] (Dinah Lance), the [[Flash (comics)|Flash]] (Barry Allen), [[Green Lantern]] (Hal Jordan) and the [[Martian Manhunter]].
+
+A stripped down version of Amazo was recently destroyed in Gotham City. Lacking a power ring and lasso, this robot had the abilities of Superman, Flash and Aquaman. Batman and Nightwing managed to partially disable it, and used a missle launched from the Batmobile to finish the job.
+
+==Powers and abilities==
+Using "absorption cells" Amazo is able to duplicate the powers of any metahuman he encounters. Originally, he could only use one power at a time and has duplicated [[Superman]]'s strength, the [[Flash]]'s speed, [[Green Lantern]]'s power ring and [[Wonder Woman]]'s magic lasso among others. After years of battling the JLA to a standstill, he recently "upgraded" by absorbing part of [[Hourman]]'s Worlogog which gave him [[time travelling]] powers as well.
+
+==Amazo in Other Media==
+In the [[Justice League (animated series)|''Justice League'' animated series]], The A.M.A.Z.O. Project was an android created by Professor Ivo, one of [[Lex Luthor]]'s employees.  Luthor needed Ivo's help, but found Ivo had died in his sleep, with the naive android watching over its creator.  Luthor persuaded the Android to help him defeat the Justice League.  This version of Amazo (almost always called simply "the android") possesses a [[nanotechnology|nanotechnological]] construction, and could mimic the superpowers of any superhuman it could see.  It mimicked the abilities of [[Hawkgirl]] (including forming a replica of her [[Nth Metal]] [[mace]]), [[Wonder Woman]], the [[Flash (comics)|Flash]] (Wally West), [[Green Lantern]] (John Stewart), and [[Superman]]; it saw nothing worth mimicking in [[Batman]].  After mimicking the [[Martian Manhunter]]'s telepathy, it learned Luthor intended to destroy him after he killed the Justice League.  Seeing itself above the petty squabbles of humanity, it left Earth and wandered the [[universe]] ("Tabula Rasa"). 
+
+In a later episode ("The Return" in [[Justice League Unlimited]]), the android eventually returned to [[Earth]] - now in possession of the abilities of an untold number of [[Extraterrestrial life|alien]] species - and sought out Luthor. While numerous Justice League members made a futile attempt to stop the android, [[The Atom]] assisted Luthor in creating a weapon that would destroy Amazo. The device failed because Amazo had, he said, "evolved beyond" his nanotechnological origins. However, instead of killing Luthor, Amazo demanded that to know what his purpose was.  Luthor told the android it had to forge its own [[destiny]].  [[Dr. Fate]] offered to help the android find its destiny, and Amazo moved into Dr. Fate's Tower. While attempting to help the Justice League defeat a resurrected Solomon Grundy, it discovered that Grundy, being animated by "chaos magic" was drawing on Amazo's energy to make himself even more powerful (JLU "Wake the Dead"). To prevent himself from being a danger until he could devise a way to counter the drain, Amazo teleported away from Earth. Presumably, Amazo returned once Grundy was defeated, but it has not been seen again thus far.
+
+In "Panic in The Sky", Lex Luthor (secretly merged with and controlled by a copy of [[Brainiac]]) was preparing to transfer his consciousness in to a copy of Amazo with his face as the culmination of his scheme to destroy the Justice League.  However, just before he began the transfer, [[Amanda Waller]] entered the room to arrest Luthor, and destroyed the android body as well.
+
+In the animated series, Amazo was voiced by [[Robert Picardo]].
+
+
+[[Category:DC Comics robots]]
+[[Category:Justice League villains]]

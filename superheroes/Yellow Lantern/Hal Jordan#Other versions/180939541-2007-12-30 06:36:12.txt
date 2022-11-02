@@ -1,0 +1,327 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Greenlantern.PNG|250px]]
+|caption=Hal Jordan as Green Lantern<br>Art by [[Ethan Van Sciver]]
+|character_name=Green Lantern
+|publisher=[[DC Comics]]
+|debut=''[[Showcase (comics)|Showcase]]'' #22<br> (October 1959)
+|creators=[[John Broome (writer)|John Broome]]<br>[[Gil Kane]]
+|alter_ego = Harold "Hal" Jordan
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances=[[Green Lantern Corps]]<br/>[[Justice League]]<br/>[[United States Air Force|US Air Force]]
+|aliases=[[Pol Manning]], [[Parallax (comics)|Parallax]], [[Spectre (comics)|Spectre]], Human Starburst 
+|supports=<!--optional-->
+|powers=[[Power ring (weapon)|Power Ring]]
+|}}
+'''Hal Jordan''' is a [[fictional character]], a [[DC Comics]] [[superhero]].  He is the second '''[[Green Lantern]]''' and arguably the most famous hero to bear that name.  Created by [[John Broome (writer)|John Broome]] and [[Gil Kane]], he first appeared in ''[[Showcase (comics)|Showcase]] #22'' (October [[1959]]).
+
+Hal Jordan's revamp as the Green Lantern was one of many old DC Comics characters to emerge in the [[Silver Age of comics]].  Like many of his contemporaries, Hal Jordan became more identified with his heroic identity than the previous iterations of the characters.  Controversy erupted among comic book readers in 1994 when Hal Jordan became [[supervillain]] '''[[Parallax (comics)|Parallax]]''' and [[Kyle Rayner]] replaced him as the Green Lantern. 
+
+Jordan underwent a number of further changes in the 1990s including dying and later returning as a new incarnation of '''[[Spectre (comics)|The Spectre]]'''. Hal Jordan returned to the role of Green Lantern in 2004's ''[[Green Lantern: Rebirth]]'' miniseries and is currently the protagonist of the current volume of ''Green Lantern''.
+
+==Publication history==
+===Recreated for the Silver Age===
+After achieving great success in 1956 in reviving the original Golden Age character ''[[The Flash]]'', DC editor [[Julius Schwartz]] looked toward recreating the original hero, Green Lantern from the [[Golden Age of Comic Books]].  Like The Flash, Schwartz wanted this new character to have a different secret identity, origin, and personality than his 1940s counterpart.  A long time science-fiction fan and literary agent, Schwartz wanted a more sci-fi based Green Lantern, as opposed to the mystical powers of [[Alan Scott]], the forties Green Lantern.  He enlisted writer [[John Broome (writer)|John Broome]] and artist [[Gil Kane]], who in 1959 would reintroduce Green Lantern to the world in ''[[Showcase (comics)|Showcase]] #22'' (September-October 1959).
+
+Like [[E.E. Doc Smith|E.E. "Doc" Smith's]] Lensmen, the new Green Lantern was a member of an intergalactic constabulary made up of many different alien species who were given a device that provided them with great mental and physical abilities; [http://www.absoluteastronomy.com/encyclopedia/l/le/lensman.htm <nowiki>[</nowiki>1<nowiki>]</nowiki>] however, both Broome and Schwartz had denied a connection between those stories from science fiction pulps and the Green Lantern comic book stories.  Gil Kane drew from actor [[Paul Newman]] in creating Hal Jordan's likeness and redesigned the Green Lantern uniform into a very sleek form-fitting outfit of green, black, and white - quite the opposite of Alan Scott's red, yellow, green, purple, and black costume with a puffy shirt and cape.
+
+The character was a success and it was quickly decided to follow-up his three issue run on ''Showcase'' with a self-titled series.  ''Green Lantern #1'' began in July-August of 1960 and would continue until #89 in April-May 1972.
+
+This creative team was responsible for introducing many of the major characters in Hal Jordan's life.  First and foremost was [[Carol Ferris]], Jordan's love interest. She was in charge of Ferris Aircraft, and as such, Hal's boss. While she preferred Green Lantern to Hal Jordan, she took an active role in trying to win him over, even going so far as to propose to him in the old [[Leap Year]] tradition.  Although she gave Jordan the time of day, her job and company always came first.  Ferris was a strong-willed woman of authority at a time when this was rare, especially in comic books.
+
+Another unique addition to Green Lantern's supporting cast was his best friend, [[Thomas Kalmaku|Tom Kalmaku]], who was both Hal's mechanic and the chronicler of his super-hero adventures.  An [[Inuit]] (Eskimo) from Alaska, Tom's nickname was "Pie" or "Pieface", in reference to Eskimo Pie ice cream sandwiches.  Like "Chop Chop" from the [[Blackhawk (comics)|Blackhawk]] comics, this nickname is now understandably viewed as racist and has been downplayed by most modern writers.  However, unlike "Chop Chop", Tom was actually a competent and intelligent character with a well-rounded personality, not a stereotypical buffoon.  Despite the unfortunate nickname, Tom Kalmaku was among the first minority characters to be portrayed in this manner and broke new ground for mainstream comic books.  Tom would later be followed by another trail-blazing minority character, [[John Stewart (comics)|John Stewart]], the first African-American super-hero of the DC Universe.
+
+Jordan's masters, the [[Guardians of the Universe]], were physically based on [[David Ben-Gurion]], the first [[Prime Minister of Israel]], and were developed from an idea Schwartz and Broome had originally conceived years prior in a story featuring [[Captain Comet]] in ''[[Strange Adventures]] #22'' (July, 1952) entitled "Guardians of the Clockwork Universe".[http://povonline.com/cols/COL234.html <nowiki>[</nowiki>2<nowiki>]</nowiki>]
+
+Schwartz and company also allowed Jordan to have a family, which was another rare thing at this time in superhero comics.  While he didn't have a wife or children of his own, he had many interactions with his two brothers, Jack and Jim.  The Brothers Jordan were primarily inspired by the Kennedy brothers, who rose to prominence during the sixties.
+
+When compared to comics of the thirties, forties, and early fifties, Green Lantern broke new storytelling ground and can be seen as a precursor to the "Marvel Revolution" that would take place several years later.{{Fact|date=March 2007}}  Whereas older comics treated each issue as a stand-alone with no real sense of temporal direction between issues, ''Green Lantern's'' issues followed the order of publication, with references within the stories to previous stories and adventures.  Not only were references made, but subplots (such as Hal and Carol's romance, the marriage of Tom Kalmaku, etc.) were advanced showing actual growth in the character's lives.  While these subplots rarely were given much notice in comparison to Marvel's storylines in the sixties and especially to today's modern stories, they were the first step toward this sort of serial storytelling instead of the episodic nature of older comics.
+
+Likewise, Green Lantern was one of the first comics to be a part of a "shared universe".  [[Justice League|The Justice League of America]] united several superheroes that DC owned, just as [[Justice Society|the Justice Society of America]] had in the Golden Age.  The crucial difference was that events occurring in the ''Justice League'' title were reflected and referenced in individual superheroes' titles (such as Green Lantern).
+
+Also adding to the advancement of the medium was Gil Kane's use of dynamic art.{{Fact|date=March 2007}}  Whereas previously, comics had mostly stuck with a six panel page consisting of six equal sized rectangles, Kane's panels changed in size and shape to offer a more emotional and visceral experience.  The action and/or scene dictated the art instead of being forced into a rigid box structure.  In addition, while there had been plenty of flying superheroes in the past, none flew quite like Hal Jordan.  Kane’s art made Hal look more like he was gliding or swimming through the air than the usual leaping or bullet-like flying motion of other superheroes.  His fluid poses made Hal a more graceful and, as a result, realistic-looking flying man.{{Fact|date=March 2007}}
+
+John Broome seemed to come up with stories centered on a common theme and then run them together within a fairly short time.  For example, ''Green Lantern #2-4'' each contained stories involving the anti-matter universe of Qward, issues #12 and #15 featured "Zero Hour" stories, and issues #6 and #12 involved Hal being sent to the year 5700 AD in the guise of Pol Manning.[http://members.aol.com/MG4273/lantern.htm <nowiki>[</nowiki>3<nowiki>]</nowiki>]
+
+Starting in issue #17, [[Gardner Fox]] joined the book to share writing duties with John Broome.  The quartet of Schwartz, Broome, Fox, and Kane remained the core creative team until 1970.
+
+===The Era of Social Conscience===
+Starting with issue #76, [[Dennis O'Neil]] took over scripting duties and [[Neal Adams]] took over as artist.  Their collaboration produced the most famous and celebrated runs on Green Lantern.  Julius Schwartz remained editor and hand-selected the two to revitalize the title, whose sales had been slipping.    O’Neil and Adams had already begun preparation for the classic run in the form of their re-workings of another DC character: [[Green Arrow]].
+
+Green Arrow was a character originally created by DC in 1941 (then known as National Comics).  He was a wealthy businessman named Oliver Queen who wore a green [[Errol Flynn]]-esque [[Robin Hood]] costume and shot “trick” arrows in his efforts to fight crime.  His characterization was fairly basic (borrowing heavily from [[Batman]] but lacking the depth and tragedy of that character) and as such remained a second or third string hero throughout the Golden Age.  However, the character managed to survive the fifties (during which most superhero comics were eliminated due to lack of interest) by being a backup character in the ''[[Superboy]]'' comics.  In 1961, DC added Green Arrow to the roster of the Justice League of America, but still remained in the background and fairly uninteresting.
+
+[[Image:GLGA76BS.jpg|thumb|250px|The oft-reprinted three panels ushering in the O'Neil/Adams run in ''Green Lantern'' #76.]]
+This changed in 1968 with ''Justice League of America #66''.  Written by Denny O’Neil, Green Arrow started to show resentment toward his fellow superheroes who wielded great power (as he himself, possessing exceptional skill but no actual super-powers, did not), but did little to help the ordinary people with ordinary problems.  O’Neil continued to push Green Arrow’s tolerance for his peers, and a little less than a year later, Neal Adams (not working in any sort of cooperation with O’Neil) redesigned Arrow, giving him a goatee and more dynamic and fierce outfit.  ''Justice League of America #74'' (still being written by O’Neil) introduced [[Black Canary]] as Arrow’s love interest and issue #75 left him broke, his company and fortune stolen from him.  O’Neil wanted to recreate Green Arrow to better represent a modern Robin Hood, but felt a rich man would be a poor champion of the downtrodden.
+
+Some time after this, Schwartz invited O’Neil to take over ''Green Lantern''.  Wanting to represent his own political beliefs in comics and take on social issues of the late sixties and early seventies, O’Neil came up with the idea of pitting Hal Jordan, who as an intergalactic cop stood for not only Law & Order but The Establishment, against Oliver Queen, who O’Neil had characterized as a profoundly outspoken liberal and stood for the Counter-Culture Movement.  The first issue he wrote had Green Lantern capturing a street "punk" who was pushing around a man.  All around him, people start throwing things at the bewildered Jordan.  As he steps in to attack, he is stopped by Green Arrow, who explains that the man he defended was a slum lord "fat cat" and goes even further to show Lantern the conditions of the slum.  At the roof, in a now famous scene, an old African-American man grills Jordan as to why he has not done much for the "black skins" of his own planet while helping out other different colored aliens of other planets.
+
+Following Schwartz's approval of the story, Neal Adams was brought in to replace Gil Kane, much to the surprise of Denny O'Neil.  And yet, the pair had already been working together on Batman (where Adams successfully reconstructed the character into a more dramatic "Dark Knight"), Adams had been the one to redesign Green Arrow's costume, and the artist had a growing reputation for one who did not back down and pushed for innovative, good ideas and therefore, was the perfect candidate to work with O'Neil.
+
+The pair proved to be dynamic and stunning.  They tackled a number of social issues including corruption, sexism, cults, consumerism, the environment, racism, poverty, and even (subtly) child molestation.  However, none were more shocking and controversial than the issue explored in issues #85 and #86.  Neal Adams drew the cover, which showed Green Arrow’s youthful side-kick, Speedy, shooting heroin.  Editor Julius Schwartz did not want it published.  Neither did publisher [[Carmine Infantino]].  It appeared that the cover, which at that point had no story, would be forgotten.  But over at Marvel, [[Stan Lee]] had green-lit ''[[Amazing Spider-Man]] #96'', which featured pills and presented an anti-drug message ''without'' the [[Comics Code Authority]] seal.  Facing opposition and controversy, the Comics Code Authority revised its rules in regard to what could and could not be presented in comic books and, while still restrictive, became more lenient.  As a result, DC approved Adams’ cover and O’Neil wrote a two-part story involving drugs with Speedy being hooked.  Green Arrow, who was usually presented as being the more understanding and mentoring of the Arrow/Lantern duo, now had his world turned upside-down, not only unable to understand his own part in leading Speedy toward drugs, but even coming off as uncompassionate toward the troubled youth.  With this story, Adams and O’Neil not only tackled a difficult social ill, but looked inward at the ways that their “champion of the everyman” could be wrong.  New York [[John V. Lindsay|Mayor John V. Lindsay]] wrote a letter to DC in response to the issue commending them, which was printed in issue #86.
+
+Despite unprecedented mainstream media coverage, critical attention, awards, and apparent increased sales, ''Green Lantern/Green Arrow'' was canceled, one of many titles that ended publication perhaps prematurely under the reign of Carmine Infantino.  Julius Schwartz had a reprint of an older story published for issue #88 and saw the comic he began back in 1959 come to an end in 1972 with issue #89.  However, he had Denny O’Neil and Neal Adams do one last story together, stretched out over ''Flash #217-219'' as a backup story.
+
+==Fictional character biography==
+===Green Lantern History at Large===
+
+It is important to note that [[Green Lantern]] is something of an anomaly in the greater [[DC Comics]] universe.  While most titles were "rebooted" with the 1980s [[Crisis on Infinite Earths]], Green Lantern's continuity remained (for the most part) intact with relatively few exceptions (the only rule being, if a future issue contradicted something that came before, the subsequent issue would have precedence).
+
+The second '''[[Green Lantern]]''' is '''Hal Jordan''', who in comics published in [[1959]] was a second-generation [[test pilot]] (having followed in the footsteps of his father, Martin Jordan) who was given the power ring and battery (lantern) by a dying [[extraterrestrial life in popular culture|alien]] named [[Abin Sur]].  When Abin Sur's [[starship|spaceship]] crashed on [[Earth]], the alien used his ring to seek out an individual to take his place as Green Lantern: someone who was "utterly honest and born without fear" (which would be later retconned in Green Lantern vol. 4 as someone instead who would "overcome great fear").
+
+===The Beginning===
+[[Image:showc22.png|thumb|right|150px|left|Cover to ''Showcase'' #22 (October [[1959]]), the first appearance of Hal Jordan.  Art by [[Gil Kane]]|thumb]]
+Hal Jordan had a longtime on-again off-again love affair with his boss, Carol Ferris.  He fought colorful [[1960s]]-published villains such as [[Star Sapphire (comics)|Star Sapphire]] (a mind-altered Ferris), [[Hector Hammond]], and the rogue Green Lantern, [[Sinestro]].  He was also a founding member of the [[Justice League|Justice League of America]] in ''[[The Brave and the Bold]] #28'' ([[1959]]), where he became friends with the Silver Age Flash, [[Flash (Barry Allen)|Barry Allen]]. Later, Hal became friends with Barry's nephew, [[Wally West]], the third Flash (then known as Kid Flash).
+
+Near the end of the sixties, Hal decided to finally propose to Carol only to discover that she'd already agreed to marry another man named Jason Belmore.  Heartbroken, Hal quit his job as a test pilot at Ferris Aircraft and began travelling around America in a series of different jobs including a commercial pilot, an insurance investigator and a travelling toy salesman (where met and began dating [[Olivia Reynolds]]).  The combination of this change in status quo and new competition from less idealized heroes published by [[Marvel Comics]] led to diminishing sales on Green Lantern, prompting a startling new direction...
+
+===Hard Traveling Heroes===
+[[Image:Green lantern 76.JPG|thumb|left|150px|''Green Lantern'' vol. 2, #76 (April 1970). Cover art by [[Neal Adams]].]]
+In comics published in [[1970]], torn between dealing with the intergalactic problems of the Guardians and his individual, personal issues on Earth, Jordan travelled across the [[United States]] with fellow hero [[Green Arrow]] in a "search for America," highlighted by tensions between the pair due to their different outlooks on life.  One memorable scene from this period saw Green Lantern confronted by an elderly black man, who noted that the Green Lantern had done much for aliens with fantastic skin colors, but asked what he had done for the "black skins."
+
+The Guardians assigned one of their own to accompany the pair for a time, while temporarily reducing the power of their insubordinate Lantern's ring{{Fact|date=February 2007}}. Meanwhile, a new character was introduced named [[John Stewart (comics)|John Stewart]], who was designated by the Guardians to assume the role of the Green Lantern of Space Sector 2814 should Jordan ever become unable to perform his duties.  John was chosen for this task when Jordan's previous back-up, [[Guy Gardner (comics)|Guy Gardner]], was injured saving a young girl during an earthquake.  Gardner later recovered, but was left a vegetable when his Power Battery exploded and hurled him into the [[Phantom Zone]] and the Anti-Matter Universe of [[Qward]].
+
+During this period, Hal had fallen in love with psychic Kari Limbo, whom he met following Gardner's presumed death.  When Gardner was discovered alive on Hal & Kari's wedding day, Kari left Hal at the altar to care for Gardner, now in a coma.  Soon afterwards, Hal dissolved his partnership with Green Arrow and returned to Ferris Aircraft to work as a test pilot once again.
+
+===The 80s Exile===
+In comics published in the early [[1980s]], Jordan was exiled into space for a year by the Guardians in order to prove his loyalty to the Green Lantern Corps, having been accused of paying too much attention to Earth when he had an entire "sector" of the cosmos to patrol.  When he returned to Earth, he found himself embroiled in a dispute with Carol Ferris.  Faced with a choice between love and the power ring, Jordan chose to resign from the Green Lantern Corps.  The Guardians called upon Jordan's backup, [[John Stewart (comics)|John Stewart]], to regular duty as his replacement.
+
+In [[1985]], the ''[[Crisis on Infinite Earths]]'' saw Jordan once again take up the mantle of Green Lantern, even as the Guardians withdrew from his dimension for a while to consort with their female counterparts, the [[Zamarons]].  Jordan helped organize the new Corps, with seven members residing on Earth, including several aliens, John Stewart, and Jordan's slightly-unbalanced "other backup," [[Guy Gardner (comics)|Guy Gardner]].  For a while, Jordan was romantically involved with a younger, alien Lantern named [[Arisia (comics)|Arisia]].  The alien Lanterns took a more direct hand in human affairs, a fact not appreciated by human governments. ([[Kilowog]] helped create the [[Rocket Red]]s for the [[Soviet Union]]).  Eventually, the Earth corps broke up, several members returning to their home sectors.  The Guardians soon returned to this dimension, and Jordan worked with them to rebuild the fractured Corps.
+
+===''Green Lantern: Emerald Dawn''===
+In December of [[1989]], following the cancellation of [[Green Lantern Corps]] at issue #224 (May 1988) (originally ''[[Green Lantern]]'' vol. 2 until the title was changed with issue #206 (Nov. 1986)), DC made Green Lantern and his adventures exclusive to the failed ''[[Action Comics#Action Comics Weekly|Action Comics Weekly]]'' for a bit less than a year in 1988-1989.  The origin of Hal Jordan was retold/retconned (in a similar manner to Frank Miller's ''Batman: Year One'' and John Byrne's ''The Man of Steel'') in the 6-issue [[limited series]] ''Green Lantern: Emerald Dawn'', written by [[Jim Owsley]] (issue #1), [[Keith Giffen]] & [[Gerard Jones]] (#2-6) with art by [[M.D. Bright]] and [[Romeo Tanghal]].  This story, published between the second and third volumes of [[Green Lantern]] (though chronologically the first Hal Jordan story in the modern day post-''[[Crisis on Infinite Earths]]'' continuity), explores what originally made Hal the man he is, and how he obtained the ring and under what conditions.  His father dies before his very eyes, he rolls a jeep with his friends in it while driving a little less than sober, and the reader sees how a person like this must manage a ring of power. 
+
+As Hal Jordan is testing a new flight simulator, the machine suddenly seems to tear itself free of its moorings and begins to fly through the air.  Hal lands near a crashed alien spacecraft occupied by a fatally injured alien who tells Hal that he is this sector's Green Lantern.  The dying man, [[Abin Sur]], has chosen Hal to be his successor, using his Green Lantern power ring to bring him (and, unfortunately, the doomed flight simulator) to the crash site.  He calls Hal a man without fear (though in the later fourth and current series of ''[[Green Lantern]]'', this would be retconned to indicate Abin Sur told Hal, in fact, that he was a man that would "overcome great fear").  With this, Hal Jordan becomes [[Green Lantern]].
+
+Though treated on Earth like a superhero, Hal Jordan soon learns that Abin Sur was a member of an elite force of intergalactic [[police]] called the [[Green Lantern Corps]], who work for the [[Guardians of the Universe]].  Instead of one Green Lantern wielding a magic ring, there are 3,600 Green Lanterns, each protecting a sector of the entire universe.  Their rings are powered by a Central Power Battery on the Guardians' home planet [[Oa]].  Oan power rings must be recharged every 24 hours, and are ineffective against direct contact with the color [[yellow]] due to a "[[Parallax (comics)|necessary impurity]]" in the design of the rings.  Jordan is assigned to patrol Sector 2814, which includes Earth.
+
+It seems, at first, that Hal is less than up to the task.  The first thing he does with the ring is goof off and have fun flying.  But when an evil alien known as [[Legion (DC Comics)|Legion]] appears, he discovers that the time has come to get serious.  Legion appears both angry and unstoppable, and Hal finds out about his power ring's one flaw the hard way:  Legion's entire body is yellow.  Jordan resorts to detonating the engine of Abin Sur's ship to cause a nuclear explosion to kill the enemy.  Although this move seems successful, Jordan realizes that he is out of his depth using the ring.  To address the problem, Jordan asks if he can meet another member of the Green Lantern Corps for help and the ring takes him to Green Lantern [[Tomar-Re]].  Upon hearing of Jordan's concerns, Tomar-Re suggests that Jordan goes to Oa for the Corps' optional training program.  Jordan takes his new friend's advice and undergoes a rigorous training regime on Oa under the strict tutelage of Green Lantern [[Kilowog]].
+
+The conflict escalates when Legion attacks the Guardians at the [[Green Lantern Corps]] headquarters on Oa.  Because of his color, even the full might of the Corps suffers heavy losses in battle after battle trying to neutralize the adversary.  Even though Hal is technically still a trainee under the stern watch of the Green Lantern's drill sergeant-esque trainer [[Kilowog]], of the planet [[Bolovax Vik]], we see a glimmer of the Hal that will one day emerge when he comes up with an ingenious plan to defeat Legion that impresses even the [[Guardians of the Universe]].  In the end, Hal Jordan returns to Earth to face the consequences of the mistakes he has made in his personal life, accepting a 90-day jail sentence resulting from his drunk-driving incident.  After serving his time, he emerges to continue as Sector 2814's [[Green Lantern]].
+
+===''Green Lantern: Emerald Dawn II''===
+The story begins 90 days from the conclusion of the original "Emerald Dawn", and relates the events of Hal Jordan's actual drunk driving sentence in ''Green Lantern: Emerald Dawn II'', the sequel 6-issue limited series (released from April to September 1991, again by the ''Emerald Dawn I'' creative team of writers [[Keith Giffen]] & [[Gerard Jones]] and artists [[M.D. Bright]] and [[Romeo Tanghal]]). He begins it in earnest, intending to serve his time with no question, though he still dreams of his time with the [[Green Lantern Corps]] and the adventures that yet lay ahead.
+
+It is determined by the [[Guardians of the Universe]] that Hal Jordan's training requires the experties of another of their finest Green Lanterns, this time [[Sinestro]] of [[Korugar]], who reportedly has the most orderly of all Green Lantern Corps-controlled sectors.  Sinestro grudgingly agrees to further train Hal Jordan, and immediately appears in Hal Jordan's prison cell.  A series of temporary jailbreaks ensues, during which Hal does his best to conceal his absence (either by making glowing replicates of himself still "asleep" in bed or by other means) while he completes a series of training exercises with Sinestro into outer space and alien worlds.  Finally, when Sinestro is unable to establish contact with his homeworld,  he takes Hal Jordan along with him to see what is the matter.  What Sinestro finds, to Hal Jordan's shock, is a world in turmoil -- it seemed Sinestro's people have rebelled against him, tearing down banners and flags bearing Sinestro's image.  In return for his protection, Sinestro has demanded a heavy price for his "protection" from his own people -- nothing less than hero worship, and the people were no longer willing to pay.
+
+Hal Jordan does not stand idly by either, quickly calling in the Green Lantern Corps at large.  Sinestro is arrested by his brethren, then promptly tried by the Guardians of the Universe and sentenced to exile to the Anti-Matter Universe of [[Qward]].
+
+Hal Jordan returns to Earth to serve the remainder of his sentence in relative peace. 
+
+It is also noteworthy that [[Guy Gardner (comics)|Guy Gardner]] plays the role of a [[social welfare]] caseworker over the course of this storyline, often aiding Hal Jordan and sticking up for him when questions are raised about his whereabouts during his trainings with Sinestro.  In the end, during a prison riot, Guy Gardner loses control of his anger and we see a more familiar side of the Guy Gardner he would later become.
+
+===Green Lantern: Ganthet's Tale===
+In the [[1992]] [[prestige format]] [[graphic novel]] ''Green Lantern: [[Ganthet#Ganthets' Tale|Ganthet's Tale]]'' (ISBN 1-56389-026-7) (story by [[Larry Niven]], script & art by [[John Byrne]]), Hal Jordan first encounters [[Ganthet]], one of the [[Guardians of the Universe]]. He asks Hal to help Ganthet battle a renegade Guardian, Dawlakispokpok (or Dawly, for short) who has attempted to use a [[Time travel|time machine]] to change history. In the early era of the planet [[Oa]], a character named [[Krona (comics)|Krona]] attempted to use a time-machine to see the beginning of time. In the process, Krona somehow accidentally 'bled' the universe of a billion years of life. Dawly intends to use his own time machine to thrust Krona to the end of time, preventing him from following through on his plan. During the battle, however, it turned out that Dawly is (or becomes) responsible for the mishap that caused the universe to be 'born old'. When Dawly's family is brought before the Guardians, Ganthet prevents the others from seeing his thoughts, allowing Hal to retain his memory of one of the biggest secrets of the Guardians.
+
+===Emerald Twilight and Zero Hour===
+[[Image:Greenl50.jpg|thumb|left|150px|Cover to ''Green Lantern'' (vol. 3) #50 (March [[1994]]). Hal Jordan becomes Parallax.  Art by Darryl Banks.|thumb]]
+
+In the controversial 1994 ''[[Emerald Twilight]]'' storyline in ''Green Lantern'' vol. 3, #48-50, the villainous alien [[Mongul]] comes to Earth in a plot to take advantage of [[The Death of Superman|the death of Superman]].  Jordan defeats Mongul, but not before [[Coast City]] (Jordan's former home) is destroyed and all of its inhabitants murdered.  He tries to use his ring to recreate the city, but the Guardians condemned this use of the ring for personal gain and demand that Jordan come to Oa for trial.  Angered at what he saw as the Guardians' ungrateful and callous behavior, Jordan seemingly goes [[insane]] and attacks Oa to seize the full power of the Central Power Battery.  The [[Green Lantern Corps]] attempt to defend Oa, but the enraged Jordan overwhelms them, crippling his fellow Lanterns (even cutting off the hand of [[Boodikka]] and reducing [[Kilowog]] to bone and ashes) and the Guardians.  He then renounces the Central Power Battery to his life as Green Lantern, adopting the name [[Parallax (comics)|Parallax]].
+
+As Parallax, he initiates the ''[[Zero Hour (comics)|Zero Hour: Crisis in Time]]'', attempting to rewrite history to his own liking, but he is eventually defeated by a gathering of heroes.  Jordan is replaced by [[Kyle Rayner]] as the Green Lantern of Earth when Rayner comes into possession of the last power ring, created from the shattered remains of Jordan's.  During the same storyline, [[Alan Scott]] gave up his ring upon the death of members of the original [[Justice Society of America]], and this ring is later crushed by Parallax.  Alan Scott soon renounces his "Green Lantern" identity and begins to use the codename "Sentinel".  This leaves [[Kyle Rayner]] as the sole bearer of the mantle of "Green Lantern."
+
+===Final Night===
+In the 1996 ''[[Final Night]]'' miniseries and crossover storyline, Jordan returns to his heroic roots, sacrificing his life to reignite the Sun (which had been extinguished by the [[Sun-Eater]]).  Many super-heroes, including [[Superman]], view this sacrifice as Jordan's redemption, one final heroic act.  [[Batman]] is unconvinced, saying that one act couldn't make up for the evil that Hal had committed. It was later revealed that, prior to his sacrifice, Hal had resurrected his old friend [[Green Arrow|Oliver Queen]], who had died while he was away from Earth and Hal regretted his failure to be there for his friend.
+
+===Emerald Knights===
+When Kyle Rayner went on an accidental time-travelling trip, he ended up unintentionally drawing a past version of Hal into the present where Hal was shocked to learn of the crimes his future self had committed as Parallax. Determined to stop Parallax's crimes from taking place, Hal remained in the future, even fighting alongside [[Connor Hawke]] to deal with the return of the terrorist group who had killed Oliver- in an interesting twist of irony, they were working with the rogue pilot whose actions had led to Hal leaving the air force in the first place- but Hal was forced to leave after Parallax discovered his past self. After a brief fight, the two Hals were convinced to return to their own times by Kyle, who acknowledged that Hal was needed as Parallax in order to save Earth from the Sun-Eater.
+
+===The Spectre, Spirit of Redemption===
+In the 1999 miniseries ''[[Day of Judgment (comics)|Day of Judgment]]'', Jordan becomes the newest incarnation of the [[Spectre (comics)|Spectre]].  [http://www.comics.org/series.lasso?SeriesID=7101] Soon after assuming this mantle, Jordan chose to bend his mission from a spirit of vengeance to one of redemption, also making other appearances through some of DC's other storylines, such as advising [[Superman]] during the ''Emperor [[Joker (comics)|Joker]]'' storyline (Where the Joker stole the reality-warping power of [[Mister Mxyzptlk]]) and erasing all public knowledge of [[Wally West]]'s identity as the [[Flash (comics)|Flash]] after his terrible first battle with [[Zoom (comics)|Zoom]].  A new ''Spectre'' series based on this premise, however, lasted only 27 issues before cancellation due both to poor sales and continued calls amongst comics fandom to return the character to his sci-fi roots as [[Green Lantern]]. Jordan was forced to return, temporarily, to the Spectre's mission of vengeance, following a confrontation between the new Justice Society and the [[Spirit King]], who had managed to 'resurrect' the ghosts of all those the Spectre had damned to Hell.
+
+===Green Lantern: Rebirth=== 
+[[Image:Green Lantern Rebirth 1 coverart.jpg|thumb|150px|Promotional art for ''Green Lantern: Rebirth'' #1 (December 2004) cover, art by [[Ethan Van Sciver]].]]
+DC brings back Hal Jordan as Green Lantern of Earth and largely exonerated him of his past crimes in the 2004/2005 miniseries ''[[Green Lantern: Rebirth]]'' (written by [[Geoff Johns]], and pencilled by [[Ethan Van Sciver]]). It is revealed that [[Parallax (comics)|Parallax]] was actually an ancient yellow parasitic "spirit" dating back to the dawn of time.  The sentient embodiment of fear, Parallax traveled from world to world, feeding off the fear of sentient beings and causing entire civilizations to destroy themselves out of paranoia.
+
+The Guardians of the Universe had successfully imprisoned Parallax within the Central Power Battery on Oa.  Parallax lay dormant for billions of years, its existence covered up by the Guardians to prevent anyone from trying to free it.  Thus, it eventually came to be referred to as "the yellow impurity."  This was the reason power rings were useless against the color yellow: Parallax weakened their power over the corresponding spectrum.  Hence, only users who could master their fear could properly wield a power ring.  When the renegade Sinestro was imprisoned in the Power Battery himself, his yellow power ring tapped into Parallax and awakened it.  
+
+Parallax then had psychically reached into Jordan's ring from its prison when he was at his weakest, causing increasing self-doubt and even causing his hair to turn white prematurely. Parallax's control over Jordan spiked with Jordan's grief over the destruction of [[Coast City]], when, for the first time since acquiring the ring, Jordan was afraid--of what would happen tomorrow. Jordan's subsequent murderous activity was the result.  Hal's apparent killing of Sinestro was revealed as an illusion on Sinestro's part, created as the final stage of Jordan's susceptibility to break his will.  Once Jordan had destroyed the Central Power Battery, Parallax escaped its prison and fully grafted itself onto his soul.  With Parallax free, [[Kyle Rayner]]'s ring lacked the historical weakness against the yellow portion of the visible spectrum.  Rayner discovered the truth behind Parallax at the edge of the known universe, just as Parallax began a battle with the Spectre for the continued dominance of Hal's soul.
+
+The Spectre explains the entire story to Jordan: it drew in Jordan's soul in hopes of purging Parallax from Hal's body, and banishing it for all the fear it had created. Parallax briefly managed to take control of both Jordan and the Spectre, along with active Green Lanterns Guy Gardner, John Stewart and Kilowog, but after a fierce battle, Parallax is finally ejected from Jordan's soul and the other Green Lanterns are freed.  The Spectre then departed to find himself a new host, while Ganthet guided Jordan's soul back to his own body, which had been preserved by the remnants of the energies Jordan had used to reignite the Sun during ''[[Final Night]]''.
+
+With his soul and mind finally his own again, Jordan was resurrected and de-aged, again taking his place as a Green Lantern.  Discovering Sinestro's deception and defeating him, Jordan and Kyle gathered the other Green Lanterns of Earth, along with Kilowog.  They were able to rescue Ganthet, whom Parallax had possessed after his expulsion from Jordan's soul, and imprisoned the parasite back in the Central Power Battery on Oa.  Despite this re-introduction of the "yellow impurity", it is important to note that the power rings' weakness against yellow no longer applies, as experienced wielders are now able to directly recognize its source and overcome the inherent fear.
+
+===Green Lantern (Vol. 4)===
+Following up on the ''Green Lantern: Rebirth'' miniseries, DC Comics subsequently began a new ''Green Lantern'' (vol. 4) series starting with issue #1 (July 2005), with Hal Jordan once again the main character.  Trying to rebuild his life, Hal Jordan has moved to the nearly deserted Coast City, which is slowly being reconstructed.  He has been reinstated as a Captain in the United States Air Force, and works in the Test Pilot Program at [[Edwards Air Force Base]].  He also begins to develop a romantic attraction with his fellow pilot, the beautiful Jillian "Cowgirl" Pearlman.  
+
+In his new title, he faces revamped versions of his Silver Age foes [[Hector Hammond]], [[Shark (comics)|The Shark]] and [[Black Hand (comics)|Black Hand]].  He and [[Batman]] team up to fight a new version of the [[Tattooed Man]], at the end of which Batman finally comes to terms with Jordan's return as a hero and they begin to rebuild their past friendship.
+
+Hal also takes Kyle to Edwards Air Force Base shortly after his resurrection.  He bribes the guard, a family friend named Johnny, in order to take Kyle on a joyride with one of the base's jets.  Afterward, a close bond begins to form between the two, as Kyle finally learns how to truly fly.
+
+===''Infinite Crisis'' and ''52''===
+Hal helps with the decimation of the [[OMACs]] and [[Brother Eye]], rescuing Batman from Brother Eye at the last minute, reaffirming Batman's newly regained trust in the metahuman population. He also [[Battle of Metropolis|fights alongside the world's heroes against the Society]], defending [[Metropolis(comics)|Metropolis]].  Along with [[Guy Gardner (comics)|Guy Gardner]], Hal leads the Green Lantern Corps attack against [[Superboy-Prime]].
+
+Along with [[John Stewart (comics)|John Stewart]], Hal is involved in one of the first post-[[Freedom of Power Treaty]] confrontations.  After a battle with the [[Great Ten]] and [[Black Adam]], Stewart and Jordan are escorted to Russian airspace by the Rocket Reds.
+
+====One Year Later====
+{{main|One Year Later}}
+
+As part of DC's reimagining of the entire universe, as of ''Green Lantern'' vol. 4, #10, the book has skipped ahead one year, bringing drastic changes to Hal Jordan's life, as with every other hero in the DC Universe.  Over the "missing year", Hal shipped out as part of the [[United States Air Force]]'s first operational F-22 Raptor squadron, assigned to bomb terrorist training camps.  The details of this event are vague, with no reason given for the assignment.  Hal, along with fellow pilots Shane "Rocket-Man" Sellers and Jillian "Cowgirl" Pearlman, are shot down somewhere over the former Soviet Union where they were captured and held as [[prisoners of war]] for a month.  Hal is unable to escape as Green Lantern because he never carries his power ring with him when he flies.  Hal has repeatedly encountered the Russians and their [[Rocket Red]] patrols while chasing intergalactic criminals as Green Lantern.  Because of these encounters, Russia once issued a statement that they would not hesitate to use force against him if [[Checkmate (comics)|Checkmate]] failed to uphold the [[metahuman]] treaty legislation prohibiting metahumans from entering foreign air space.  Hal's defense is that as the Green Lantern of Earth, he is not acting as an American when he crosses international borders.  Among those threatening Hal are a new form of The [[Global Guardians]].
+
+Also in ''Green Lantern'' #10, while Hal is receiving a P.O.W. medal, an alien ship crashes to Earth and reveals to Hal an alien Green Lantern named Tomar-Tu, whom Hal had supposedly killed while under the control of [[Parallax (comics)|Parallax]].  In ''Green Lantern'' #11, Hal discovers that the Green Lanterns that he had supposedly killed as Parallax are all still alive, and he and [[Guy Gardner (comics)|Guy Gardner]] go to rescue them, only to be attacked by [[Hank Henshaw|Cyborg Superman]]. 
+
+After returning to Earth, Hal is then attacked in Russia by a series of bounty hunters (including brainwashed [[Global Guardians]] under the [[Faceless Hunter]]'s control) in an attempt by [[Amon Sur]], son of [[Abin Sur]], to reclaim his father's power ring. The attack results in the death of 23 people; in response, the [[Rocket Red|Rocket Red Brigade]] attack Hal. When they fight each other to a standstill, the [[Justice League of America]] and [[Alan Scott]] arrive at the scene and resolve the conflict. ("Green Lantern" vol. 4, #14 and #15).  After Hal rescues his fellow pilot Jillian "Cowgirl" Pearlman from her attacker, she recognizes the hero as her fellow pilot and friend.  As they are about to share a passionate kiss,  Hal is captured by Amon Sur, and forced to exhume Abin Sur's remains. John Stewart arrives to rescue Hal, leading to a confrontation with Amon Sur, who turns out to be the son of their predecessor, Abin Sur.  During the fight, Amon receives a ring from the [[Sinestro Corps]] and vanishes.  Hal brings Abin's body home and reinters him with a new tombstone. After Hal leaves, a yellow light appears in the sky; presumably Amon has arrived to visit his father's grave.
+
+Hal visits Jillian in her room at the base hospital, where she is being treated for injuries she has suffered.  Before he leaves, she tells Hal that they need to talk about his double life and their feelings for each other. 
+
+After a few days, Jillian recovers enough to leave the hospital, and joins Hal on a date at Pancho's, a bar outside Edwards Air Force Base.  At the same time, [[Star Sapphire (comics)|Star Sapphire]], still obsessed with making Hal her mate, possesses Carol Ferris again, knowing Carol's history as Hal's former love.  She attacks Hal at the bar, and during the fight, senses Hal's affection for Jillian.  Star Sapphire leaves Carol's body to possess Jillian.
+
+Carol joins Hal in an attempt to rescue Jillian from Star Sapphire, and the two manage to defeat it and free Jillian.  However, the Zamarons appear, demanding that Hal choose a mate. Thinking quickly, pretends to passionately kiss one of Zamarons, leading the gem to immediately possess her.  The Zamarons retreat to their world in order to free their sister, after which they take the Star Sapphire and forge it into a "sapphire" power ring. The next 2 page spread shows the Zamarons in a room with a green, a yellow, and a "sapphire" lantern.  Each lantern is displayed on one of three pedestals; a fourth stands empty.  This may have undetermined future implications.  Meanwhile, Hal visits Ferris Air and he finds out from Tom that Carol has divorced her husband Gil.
+
+Aside from his own monthly title, Jordan is also a character of focus in the new ''Justice League of America'' series as a charter member of the revamped JLA. He is also involved in the first plotline of the ''[[Brave and the Bold]]'' monthly series, teaming up first with [[Batman]] and later [[Supergirl]]. His relationship with Batman appears to have fully recovered from his turbulent history, as the two are very professional and respectful of each other. When teamed with the fledgling Supergirl, Hal is very impressed with her cleverness, although he finds her flirtatious behaviour somewhat unnerving.
+
+Hal eventually decides to relinquish his full time status with the League due to his other commitments. His sector partner John Stewart takes over as the League's Green Lantern.
+
+===Sinestro Corps War===
+{{main|Sinestro Corps War}}
+
+Hal and the rest of the Green Lantern Corps find themselves at war with [[Sinestro]] and his army, the [[Sinestro Corps]].  During the battle, Hal, along with [[Guy Gardner (comics)|Guy Gardner]], and [[John Stewart (comics)|John Stewart]] are being captured by Parallax to the Qwards. Hal attempts to flee Qward after being overwhelmed by Parallax. The Sinestro Corps begin to attack him until help arrives from the "Lost Lanterns". Their combined efforts hold off the Sinestro Corps before they're attacked by Parallax, who forces the Lanterns to confront their fears and kills [[Jack T. Chance]]. The remaining Lanterns flee underground and split into two teams. One team locates the missing Guy and John before being confronted by [[Lyssa Drak]], who holds the two Lanterns captive.  Hal manages to defeat Lyssa and free his friends, while the Lost Lanterns recover [[Ion (comics)|Ion]]. The earth-based Lantern then return home, only to find that New Earth, as the center of the [[Multiverse (DC Comics)|Multiverse]], is the Sinestro Corps' next target. 
+
+The Sinestro Corps, and the Manhunters, invade Earth. The Cyborg Superman and Superboy-Prime attack Superman, while Hal confronts Parallax just before the latter is about to kill Hal's family. Parallax absorbs Hal inside himself. Hal is able to use a painting made by Kyle's mother to help Kyle overcome his fears and expel Parallax. The Parallax's original form is then contained by Ganthet and Sayd within the Power Batteries of Hal, John, Guy, and Kyle. Ganthet and Sayd reveal that they're no longer Guardians. Ganthet gives Kyle a new Power ring and asks Kyle to become a Green Lantern again, which he agrees to. The four men then take their Lanterns and hearing the Sinestro Corps oath, recite the classic Green Lantern oath, and the issue ends with a shot of Sinestro and the other Sinestro Corps members with Hal saying: "Now let's go save the universe."
+
+[[Ganthet]] and [[Sayd]] depart, going elsewhere to create the new intergalactic police force. Hal returns to [[Coast City]] to find his family okay,  and he uses his power ring as a transmitter to warn the populace to flee, in order to prevent the population from coming to harm. Hal's brother and their family refuse to leave, asserting their belief in Hal and for their new home in Coast City. It comes to their attention that the citizens feel the same way, by setting up green lights in support of Hal and the Corps. Sinestro then attacks Hal and reveals that his plan all along was to make the Guardians approve the use of lethal force and make the universe fear the Green Lantern Corps.
+
+While Hal and Kyle are battling against the Sinestro Corps, Sinestro uses his Manhunters to drain Hal and Kyle’s power rings, forcing them to fight on the ground. After the Green Lantern Corps defeats the Cyborg Superman, the Manhunters immediately deactivate, with Hal able to use one of the robots' skulls to absorb the power from Sinestro's ring. With three of them powerless, Hal and Kyle immediately attack Sinestro, defeating and ultimately arresting the despotic Korugarian. 
+
+Later, Hal's family and friends relax over dinner and hear a news broadcast about the newly repopulated Coast City, which is now referred to as "The City Without Fear". Hal and his friends then travel to their next adventures.
+
+==Family==
+* '''Martin Harold Jordan''' is the father of Hal Jordan. When Hal was a child, his father gave his jacket before going to fly the jet on the airfield, when his engines malfunctioned Martin tells his boss he has to eject. His boss, Carl, orders him to keep the plane in the air. The jet explodes and crashes in front of Carl, Carol and Hal.
+* '''Jessica Elizabeth Jordan''' is the mother of Hal Jordan. When her husband dies in the crash, Jessica and their sons move to Coast City. Jessica tells her son Hal not to become a pilot. During in time, Jessica's died in the hospital with [[deathbed]], because her son Hal's broke her promise when he was eighteen. Before Jessica's death she refused to talk Hal until he quit the air force.
+* '''Jack Jordan''' is the older brother of Hal Jordan. He was a lawyer and would become the district attorney of the county in which Coast City was situated.
+* '''Jim Jordan''' is the younger brother of Hal Jordan. He was the most footloose of the three, but would emerge to be more prominent than Hal or Jack in the stories.
+* '''Lawrence 'Larry' Jordan''', [[Air Wave]], is the cousin of Hal Jordan.
+
+==Trivia==
+{{Trivia|date=July 2007}}
+* After helping the Corps defeat [[Krona]] and [[Nekron]], Hal Jordan is offered "The Crimson Mantle of Command, symbol of those who would become Corps Leader!" Jordan declines the honor, on the grounds that he is "no different than any other ring-slinger" who did "what any GL would have done given the chance!" Whether the rank and offer still stand remains to be seen.
+
+==Other versions==
+===Batman: The Dark Knight Strikes Again===
+Hal Jordan appeared in All Star Batman and Robin with a Prototype-Justice League made of Plastic Man, Superman and Wonder Woman talking to the batman when they were discussing the problem. In the [[Elseworlds]] storyline for the comic ''[[Batman: The Dark Knight Strikes Again]]'', it is revealed that Hal Jordan left Earth years previous, shunned by humanity, and decided to live on another planet.  In [[Batman]]'s words, "He used to need a lantern.  Now he is one."  He is an exemplar of sheer willpower, and aids Batman in thwarting [[Lex Luthor]], manifesting himself as a massive form that is actually able to hold Earth in his hands to shut down Luthor's defense satellites.
+
+===Bizarro World===
+In [[Action Comics]] #856, a [[Bizzaro]] version of Hal, called Yellow Lantern, featured. Yellow Lantern possessed a [[Sinestro Corps]] ring and used to inflict fear among [[Htrae]]'s inhabitants. He was teleported to Earth to participate in the invasion of the planet, and was later briefly seen being hit by a sledgehammer manifested by John Stewart.
+
+===Countdown: Arena, Earth-5===
+{{main|Countdown: Arena}}
+The '''Green Lantern of Earth-5''' is shown to be Hal Jordan of [[Captain Marvel (DC Comics)|Captain Marvel's]] world. He is apparently killed shortly after being introduced.
+
+===JLA: Age of Wonder===
+{{main|JLA: Age of Wonder}}
+Hal Jordan also stars in ''[[JLA: Age of Wonder]]'' as an army captain in [[Area 51]].  He works with Superman, who heads up a group of inventors which includes [[Thomas Edison]] and [[Nikola Tesla]].  Superman is asked to visit Area 51 where a crash landed alien wants to give Superman his power ring.  Superman refuses, instead suggesting Hal Jordan take the ring.
+
+===DC: The New Frontier===
+'''''[[DC: The New Frontier]]''''' stars Hal Jordan. He has been revealed to be the '''Green Lantern of Earth-21'''.
+
+
+
+===1001 Emerald Nights===
+Al-Jor-Dhan is a fisherman who becomes a [[sultan]] with the aid of a magic lamp in the [[Arabian Nights]] based Elseworld ''1001 Emerald Nights''.
+
+===Superman: Red Son===
+In ''[[Superman: Red Son]]'', Hal Jordan is featured as a former prisoner of war whose years in a P.O.W. camp forged the will that made him an ideal Green Lantern.  As part of the '''Green Lantern Marine Corps''', he aids the attempt overthrow Superman, but is defeated. He is the '''Green Lantern of Earth-30'''.
+
+===JLA: The Nail===
+In ''[[JLA: The Nail]]'', Hal Jordan leads the [[Justice League|Justice League of America]], and is its most powerful member, since Superman never existed.
+
+===JLA/Avengers===
+Hal Jordan is a main character in ''[[JLA/Avengers]]'', which featured a [[intercompany crossover|crossover]] between DC and Marvel Comics, joining his teammates in battle to restore reality even though he knows he will die when history was restored.  Despite the fact that both teams travel to both of their respective universes, this is one of the few comics featuring multiple universes that remains in (DC) continuity.
+
+===Green Lantern Evil's Might===
+In ''[[Green Lantern: Evil's Might]]'', Hal Jordan is a 19th Century police inspector engaged to Carol Ferris, an activist for womens' suffrage and the daughter of millionaire Ed Ferris. However, Carol breaks off their engagement when she feels that she's nothing but piece of property exchanging hands from her father to him. He is later killed by Alan Scott.
+
+==Other media==
+{{main|Green Lantern in other media}}
+*Hal Jordan made his first cartoon appearance in [[1967]] in an eponymously-titled segment of ''[[The Superman/Aquaman Hour of Adventure]]'' cartoon by [[Filmation]].  In it, he fought evil with the aid of a blue-skinned, pointed-eared sidekick [[Kairo (Superman/Aquaman Hour)|Kairo]], Hal's Venusian Helper. It is revealed that Hal is a member of the [[Justice League|JLA]].  In these cartoons, Hal Jordan was voiced by [[Gerald Mohr]].
+
+*Green Lantern was featured as a 'guest hero' in ''[[The All-New Super Friends Hour]]''. Unfortunately, his powers were consistently misrepresented, including the introduction of a "Lantern Jet" (it could be "materalized by his power ring"), which he used to fly -- ignoring the fact that the power ring granted him that ability. Also, whenever Green Lantern would use his ring to create something, such as a life raft or a double-bladed transport helicopter, the final product would often be shown with its appropriate colors, instead of the same green as the power beam.
+
+*Hal Jordan and his archnemesis Sinestro were also regulars in ''[[Challenge of the SuperFriends]]'' which aired [[1978 in television|1978]]-[[1979 in television|1979]]. One notable episode featured a re-telling of Hal's origin in which the dying Abin Sur passes on his ring. The character would continue brought back for the subsequent [[Super Friends: The Legendary Super Powers Show]] and [[The Super Powers Team: Galactic Guardians]] shows. [[Michael Rye]] voiced the character for all three shows.  
+
+*Around the same time, a two part mini-series of live-action films featuring The Justice League and their villains [[The Legion of Doom]] was produced under the title ''[[Legends of the Superheroes]]''.  It featured [[Howard Murphy]] as Hal Jordan.
+
+*As part of its promotional material for [[Zero Hour (comics)|Zero Hour]], DC Comics produced a video that was distributed to comics retailers.  It featured an unnamed actor portraying Jordan in his Parallax identity.
+
+*The ''[[Superman: The Animated Series]]'' episode "In Brightest Day," depicts a version of Green Lantern combining elements of both Hal Jordan and Kyle Rayner.  While physically resembling Jordan and possessing his ultra confident alpha-male personality, the character is called Kyle Rayner and works as an artist at ''The [[Daily Planet]]'' in Metropolis.  The episode shows Rayner receiving his ring, the dying Abin Sur and fighting renegade Green Lantern Sinestro in a power ring duel.  During a fight with Sinestro on an Air Force base, Kyle is smacked into a fighter jet bearing the name "Col. Hal Jordan." 
+
+[[Image:Animated-HalJordan.jpg|thumb|170px|Hal Jordan in ''Justice League Unlimited''.]]
+*The subsequent ''[[Justice League (TV series)|Justice League]]'' cartoon also included a Green Lantern that incorporated elements from Hal Jordan, this time into John Stewart.  In addition to Hal's military background, several Hal Jordan stories and villains were used for the cartoon's version of John Stewart, most notably Hal's girlfriend, [[Star Sapphire (comics)|Star Sapphire]]. Though the series was able to win fans over to John Stewart, there was some controversy over Jordan not being used as the primary Green Lantern.
+
+*In the ''[[Justice League Unlimited]]'' episode "[[The Once and Future Thing (Justice League Unlimited)#Part II: Time Warped|The Once and Future Thing, Part II: Time Warped]]" Hal Jordan appears when time becomes fluid and [[John Stewart (comics)|John Stewart]] is changed into Hal, or rather is replaced by Hal.  He introduces himself as "Hal Jordan. Another timeshift, I'm up to speed, carry on."  Later as the assembled heroes close in on the time-warping villain responsible, Hal reverts back to John. Hal was voiced by [[Adam Baldwin]] in this episode. Jordan is not seen again after this.
+
+[[Image:Greenlantern1.jpg|thumb|right|170ps|Hal Jordan in ''The Batman.'']]
+*In the fourth [[season finale]] of ''[[The Batman (TV series)|The Batman]]'', "[[The Joining, Part Two|The Joining]]", the Justice League was introduced.  Hal Jordan was included among its members, in a non-speaking cameo.  He and the other members of the League will play a role in the show's fifth season. He appears in the episode "Ring Toss" voiced by [[Dermot Mulroney]].
+
+[[Image:Duck dodgers Hal Jordan.jpg|thumb|170px|right|Hal Jordan in ''Duck Dodgers'']]
+*Hal Jordan also appeared in a [[2003 in television|2003]] episode of the ''[[Duck Dodgers (TV series)|Duck Dodgers]]'' animated series entitled ''The Green Loontern'', in which Duck Dodgers is mistakenly given a Green Lantern uniform by his dry cleaners.  Donning it, he meets the Corps and fights [[Sinestro]] before meeting Hal (voiced by [[Kevin Smith]]), who is wearing Dodgers' too-small uniform.
+
+*In episode "[[A Hero Sits Next Door]]" of comedy show ''[[Family Guy]]'', the 1970s Superfriends are pictured including a man in a green and black outfit with Hal Jordan's trademark hairstyle indicating he was the Green Lantern the artists based their Green Lantern on.
+
+*Hal Jordan is an unlockable character on ''[[Justice League Heroes]]''.
+
+*Hal Jordan will be one of the main characters featured in ''[[Justice League: The New Frontier]]''. He will be voiced by [[David Boreanaz]], while Carol Ferris will be voiced by [[Brooke Shields]] 
+
+*Hal Jordan will be the main character in [[Greg Berlanti]]'s upcoming live action [[Green Lantern]] movie.
+
+*The chorus of [[Donovan]]'s song, "Sunshine Superman" mentions Green Lantern in the line "Superman or Green Lantern ain't got nothin' on me."
+
+*[[24 (TV series)|24]] character [[Minor_characters_in_24#Hal_Gardner|Hal Gardner]] is named after Hal Jordan and [[Guy Gardner (comics)|Guy Gardner]].
+
+==Bibliography==
+===Ongoing Series===
+Hal Jordan [[first appearance|first appeared]] in ''[[Showcase (comics)|Showcase]]'' #22-24 (September 1959 – February 1960, DC Comics).  After that, he was given his own series. Over the years it has been renamed, canceled, and rebooted several times.  His “core” series have been:
+
+*''[[Green Lantern|Green Lantern Vol. II]]'' #1-75 ([[July 1960]] – [[March 1970]], DC Comics).  Renamed following issue #75.
+*''[[Green Lantern/Green Arrow]]'' #76-89 ([[April 1970]] – [[May 1972]], DC Comics).  Cancelled following issue #89.
+*''[[The Flash|Flash]]'' #217-246 ([[August 1972]] – [[January 1977]], DC Comics). Hal’s stories were a backup feature which stopped following his own title’s return.
+*''[[Green Lantern/Green Arrow]]'' #90-122 ([[August 1976]] – [[November 1979]], DC Comics).  Renamed following issue #122.
+*''[[Green Lantern|Green Lantern Vol. II]]'' #123-200 ([[December 1979]] – [[May 1986]], DC Comics).  Renamed following issue #200.
+*''[[Green Lantern Corps]]'' #201-224 ([[June 1986]] – [[May 1988]], DC Comics).  Cancelled following issue #224.
+*''[[Action Comics#Action Comics Weekly|Action Comics Weekly]]'' #601-635 (24 [[May 1988]] – 17 [[January 1989]], DC Comics).  Hal’s stories were one of several characters featured in the series.  Cancelled following issue #635.
+*''Green Lantern Special'' # 1 (1988). Tying in with the stories from ''Action Comics Weekly''.
+*''Green Lantern Special'' # 2 (1989). Concluding the story plots from ''Action Comics Weekly'', after the anthology series' cancellation.
+*''[[Green Lantern|Green Lantern Vol. III]]'' #1-50 ([[June 1990]] – [[March 1994]], DC Comics).  Following issue #50, the character [[Kyle Rayner]] took over this series.
+*''[[Spectre (comics)#Hal Jordan|The Spectre Vol. IV]]'' #1-27 ([[March 2001]] – [[May 2003]], DC Comics).  Hal Jordan's adventures as the Wrath of God.  Cancelled following issue #27.
+*''[[Green Lantern|Green Lantern Vol. IV]]'' #1-present ([[July 2005]] – present, DC Comics).  Currently written by [[Geoff Johns]] with various artists.
+
+===Team Series===
+Hal Jordan was a founding member of [[Justice League|the Justice League of America]], which first appeared in [[Brave and the Bold]] #28-30 ([[February 1960]] – [[July 1960]], DC Comics).
+
+*''[[Justice League|Justice League of America]]'' #1-200 ([[October 1960]] – [[March 1982]], DC Comics).  Hal was exiled to space by the Guardians following this and the League was disbanded by Aquaman later in ''[[Justice League|Justice League of America Annual]]'' #2 ([[November 1984]]).
+*''[[Justice League Europe|Justice League of Europe]]'' #39-61 ([[June 1992]] – [[February 1994]], DC Comics).  At the time of joining, Hal took leadership of this team, but left for “personal reasons” following the destruction of Coast City.
+*''[[Justice Society of America|JSA]]'' #19-20([[February 2001]] - [[March 2001]]), 60-62 ([[June 2004]] - [[August 2004]]), ''[[Justice Society of America|JSA|JSA: All Stars]]'' #1 ([[July 2003]]), 8 ([[February 2004]]). After becoming the Spectre, Hal aided The Justice Society of America on several different adventures.
+*''[[JLA]]'' #35 ([[November 1999]]), 115-120 ([[August 2005]] - [[January 2006]]). While he was The Spectre, Hal aided the JLA on one case. After becoming Green Lantern once again, Hal rejoined and aided the JLA on their final case before breaking up once more and attended the gathering to announce the official dissolving of the JLA.
+*''[[Justice League|Justice League of America]]'' Vol. 2 #1- ([[October 2006]] – , DC Comics).  Hal had been chosen by Superman, Wonder Woman, and (reluctantly) Batman to be a part of the new incarnation of the League.
+
+==References==
+* [[Les Daniels|Daniels, Les]] ''DC Comics: Sixty Years of the World’s Favorite Comic Book Heroes''. Boston, MA: Bulfinch, 1995. ISBN 0-8212-2076-4
+* [[Dennis O'Neil|O'Neil, Dennis]] "Introduction by Dennis O'Neil". ''Green Lantern/Green Arrow Volume One''. Ed. Robert Greenberger. New York, NY: DC Comics, 2000. ISBN 1-4012-0224-1
+* [[Dick Giordano|Giordano, Dick]] "Introduction by Dick Giordano". ''Green Lantern/Green Arrow: More Hard-Traveling Heroes''. Ed. Robert Greenberger. New York, NY: DC Comics, 1993. ISBN 1-56389-086-0
+* Lawrence, Christopher "Neal Adams". ''Wizard''. Sept. 2003.
+* [[Todd Casey|Casey, Todd]] "Green Mile". ''Wizard''. Nov. 2004.
+
+==External links==
+*[http://www.dccomics.com/sites/greenlantern/ Official Green Lantern (Hal Jordan) Website]
+* [http://www.monitorduty.com/mdarchives/2006/02/alan_kistlers_p_4.shtml Alan Kistler's profile on Green Lantern]
+* [http://forum.newsarama.com/showthread.php?t=98511 GEOFF JOHNS - AMON SUR, AND EVERYTHING GREEN LANTERN]
+*[http://www.dccomics.com/heroes_and_villains/?hv=origin_stories/green_lantern Green Lantern's (Hal Jordan's) origin @ dccomics.com]
+* [http://home.aol.com/MG4273/lantern.htm The Silver Age Green Lantern], a critical study
+* [http://glcorps.dcuguide.com/profile.php?name=greenlantern2 Bio at the Unofficial Green Lantern Corps Webpage]
+
+==See also==
+*[[Kristogar Velo]]
+
+{{Green Lantern}}
+
+{{DEFAULTSORT:Jordan, Hal}}
+[[Category:American comics characters]]
+[[Category:Fictional aviators]]
+[[Category:Fictional Americans]]
+[[Category:DC Comics superheroes]]
+[[Category:Green Lantern]]
+
+[[es:Linterna Verde]]
+[[fr:Hal Jordan]]
+[[it:Hal Jordan]]
+[[nl:Hal Jordan]]
+[[pt:Hal Jordan]]

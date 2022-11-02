@@ -1,0 +1,37 @@
+{{Infobox comics organization
+<!--Wikipedia:WikiProject Comics-->
+|name=Death Web
+|image=
+|imagesize=
+|caption=
+|publisher=[[Marvel Comics]]
+|debut=''Avengers West Coast'' #82 (May 1992)
+|creators=
+|base=
+|members=
+Antro<br>Arachne<br>Therak
+|cat=teams
+|subcat=Marvel Comics
+|hero=
+|villain=y
+|sortkey={{PAGENAME}}
+}}
+'''Death Web''' is a group of three [[Fictional character|fictional]] [[supervillain]]s appearing in [[comic book]]s published by American publisher [[Marvel Comics]]. 
+
+==Fictional history==
+The members of Death Web were granted super powers by the [[Commission on Superhuman Activities]] with the intent that they use their powers to serve the government.<ref>''Spider-Woman'' #2 (Dec. 1993)</ref> The team's individual members each obtained their unique powers through the scientific manipulation of chemicals extracted from exotic plants from the Amazon jungle.
+
+==Members==
+*'''Antro''': Hashi Noto, a male Japanese national with teleportation powers.
+*'''Arachne''': Dr. Sylvie Yacqua, A female Pacqui Indian with poison gauntlets and the ability to emit webs from her wrists.
+*'''Therak''': Theodore Davros, was transformed by experimentation into an enormous, powerful, spider-like creature with six arms and multiple eyes.
+
+==References==
+<div class="references-small">
+<references/>
+</div>
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix/deathwebspwm.htm|Death Web}}
+{{Spider-Woman}}
+{{Marvel-villain-stub}}

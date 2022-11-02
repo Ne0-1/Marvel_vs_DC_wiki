@@ -1,0 +1,59 @@
+'''Steeplejack''' is the name of two fictional characters in the [[Marvel Universe]].
+
+
+==Jake Mallard==
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Steeplejack I
+|real_name=Jake Mallard
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''Luke Cage, Power Man'' #18 (Apr 1974)
+|creators=[[Len Wein]] and [[George Tuska]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+Jack Mallard was the first criminal to go by the name Steeplejack.  He died fighting [[Luke Cage|Power Man]].
+<br clear ="all">
+
+==Maxwell Plumm==
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Steeplejack II
+|real_name=Maxwell Plumm
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Ms. Marvel]]'' #14 (Feb 1978)
+|creators=[[Chris Claremont]] and [[Carmine Infantino]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+Maxwell Plumm took the designs and outfit of the first Steeplejack.  He fought [[Ms. Marvel]] and lost.  He attended the final bash at the “Bar With No Name,” and was shot to death by the [[Scourge of the Underworld]].
+<br clear ="all">
+
+==Equipment==
+Steeplejack’s body suit offers protection from physical attacks.  His multipurpose acetylene gun could fire force blasts, energy blasts, a wire slipknot, and heat and light.
+
+* http://www.marvunapp.com/Appendix/steeplj1.htm
+* http://www.marvunapp.com/Appendix/steeplj2.htm
+
+
+{{Marvel-villain-stub}}
+
+[[Category:Marvel Comics supervillains]]

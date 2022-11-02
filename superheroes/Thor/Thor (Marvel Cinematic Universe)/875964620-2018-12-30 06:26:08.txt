@@ -1,0 +1,335 @@
+{{for|the 2011 film|Thor (film)}}
+{{Infobox character
+| color            = #AF181F
+| name          = Thor
+| series        = {{no italics|[[Marvel Cinematic Universe]]}}
+| image         = Chris Hemsworth as Thor.jpg
+| caption       = Thor, as portrayed by [[Chris Hemsworth]] in ''[[Thor: The Dark World]]'' (2013)
+| first         = ''[[Thor (film)|Thor]]'' (2011)
+| creator       = {{Plainlist|
+* '''Comic book character'''
+* [[Stan Lee]]
+* [[Larry Lieber]]
+* [[Jack Kirby]]
+* '''MCU character'''
+* [[Ashley Miller (screenwriter)|Ashley Miller]]
+* [[Zack Stentz]]
+* [[Don Payne (writer)|Don Payne]]
+* [[J. Michael Straczynski]]
+* [[Mark Protosevich]]
+}}
+| portrayer     = [[Chris Hemsworth]]
+| fullname      = Thor Odinson
+| nickname      = 
+| occupation    = {{Plainlist|
+* God of Thunder
+* Prince of Asgard
+* Strongest Avenger (disputed)
+}}
+| family        = {{Plainlist|
+* [[Odin (comics)|Odin]] (father, deceased)
+* [[Freya (comics)|Freya]] (mother, deceased)
+* [[Loki (Marvel Comics)|Loki]] (adopted brother, deceased)
+* [[Hela (comics)|Hela]] (older sister, deceased)
+}}
+| affiliation      = {{Plainlist|
+* [[Avengers (comics)|Avengers]]
+* [[Revengers]]
+}}
+| spouse        = 
+| significantother = 
+| species = Asgardian
+}}
+'''Thor Odinson''' is a [[character (arts)|character]] portrayed by [[Chris Hemsworth]] in the [[Marvel Cinematic Universe]] (MCU) [[film franchise]], based on the [[Marvel Comics]] [[Thor (Marvel Comics)|character of the same name]]. In the films, Thor is one of the most powerful of the Asgardians, an alien civilization with long ties to Earth, who are therefore considered by some on Earth (and by themselves) to be gods. Thor himself is titled the "God of Thunder". The Asgardians have advanced science that seems like magic to people of Earth, typified in Thor's case by his hammer, Mjolnir, with which he can summon [[lightning]] through most of the films. Thor in the MCU has borrowed a number of characteristics and story lines from across the fifty-plus year history of the character in Marvel Comics. However, unlike most other characters in the franchise, Thor has no superhero "alter ego", a characteristic that also differs from the original comic book version of Thor.<ref name="Bath">{{cite web|url=https://screenrant.com/things-wrong-thor-everyone-chooses-ignore/|title=20 Things Wrong With Thor Everyone Chooses To Ignore|first=Dave|last=Bath|publisher=''[[Screen Rant]]''|date=October 28, 2018}}</ref>
+
+{{As of|2018}}, the character is one of the central figures of the Marvel Cinematic Universe, having appeared in seven films of the series (including a brief cameo in ''[[Doctor Strange (2016 film)|Doctor Strange]]''). Although the first two ''Thor'' films have been among the less well-liked films in the MCU canon, ''Thor: Ragnarok'', with its substantial reinvention of the character, has been held up as one of the best Marvel films. Following its release, a reviewer from ''[[The Mary Sue]]'' has argued that Thor "has the best character arc of nearly every other MCU character, including costars [[Tony Stark (Marvel Cinematic Universe)|Tony Stark]] and [[Steve Rogers (Marvel Cinematic Universe)|Steve Rogers]]".<ref name="Gardner-2018">{{cite web|url=https://www.themarysue.com/thor-character-growth-part-one/|title=The Case for Thor Being Marvel’s Strongest Character, Part One: Thor|publisher=''[[The Mary Sue]]''|first=Kate|last=Gardner|date=July 13, 2018}}</ref>
+
+==Concept, creation, and characterization==
+Thor debuted as a Marvel Comics [[superhero]] in the [[science fiction]]/[[fantasy]] [[anthology]] title ''[[Journey into Mystery]]'' #83 ([[cover-date]] August 1962), created by editor-plotter [[Stan Lee]], scripter [[Larry Lieber]], and penciller-plotter [[Jack Kirby]].<ref>{{cite book|last = DeFalco|first = Tom|authorlink = Tom DeFalco|last2= Gilbert|first2= Laura, ed.|chapter= 1960s|title = Marvel Chronicle: A Year by Year History|publisher = [[Dorling Kindersley]]|year = 2008|location= London, United Kingdom|page = 88|isbn =978-0756641238}}</ref> Kirby said, "I created Thor at Marvel because I was forever enamored of legends, which is why I knew about Balder, Heimdall, and Odin. I tried to update Thor and put him into a superhero costume, but he was still Thor."<ref>Kirby in {{cite journal|last= Van Hise|first= James|title= Superheroes: The Language That Jack Kirby Wrote|journal= Comics Feature |issue= 34|pages= |publisher= [[New Media/Irjax]]|date= April 1985}}</ref> Lee and Kirby included Thor in ''[[The Avengers (comic book)|The Avengers]]'' #1 (Sept. 1963) as a founding member of the superhero team.<ref name="DeFalco94">DeFalco "1960s" in Gilbert (2008), p. 94.</ref> A live-action television adaptation of the comic book character first appeared in the 1988 [[television film]] ''[[The Incredible Hulk Returns]]''.<ref name="Goldman">{{cite web|url= http://www.ign.com/articles/2012/04/25/the-avengers-thors-tv-history|title= The Avengers: Thor's TV History|first= Eric|last= Goldman|date= April 25, 2012|publisher= [[IGN]]|archiveurl= https://www.webcitation.org/6HPNnGIBH?url=http://www.ign.com/articles/2012/04/25/the-avengers-thors-tv-history|archivedate= June 16, 2013|deadurl= no|accessdate= May 26, 2013|df= mdy-all}}</ref> Live-action film adaptations of the character were thereafter proposed, but did not come to fruition. In the mid-2000s, [[Kevin Feige]] realized that Marvel still owned the rights to the core members of the [[Avengers (comics)|Avengers]], which included Thor. Feige, a self-professed "fanboy", envisioned creating a shared universe just as creators Stan Lee and Jack Kirby had done with their comic books in the early 1960s.<ref name="BostonApril2012">{{cite web|date=April 25, 2012 |last=Russo |first=Tom |title=SUPER GROUP |url=http://www.boston.com/ae/movies/articles/2012/04/29/the_avengers_collects_all_your_favorite_marvel_characters_in_one_handy_wannabe_blockbustersuper_groupthe_avengers_assembles_all_your_favorite_marvel_characters_in_one_handy_wannabe_blockbuster/ |publisher=[[Boston.com]] |archiveurl=https://www.webcitation.org/6LK5iBg53?url=http://www.boston.com/ae/movies/articles/2012/04/29/the_avengers_collects_all_your_favorite_marvel_characters_in_one_handy_wannabe_blockbustersuper_groupthe_avengers_assembles_all_your_favorite_marvel_characters_in_one_handy_wannabe_blockbuster/?page=1 |archivedate=November 22, 2013 |deadurl=no  }}</ref>
+
+[[Mark Protosevich]], a fan of the ''Thor'' comic book, agreed to write the script in April 2006, and the project moved to [[Paramount Pictures]], after it acquired the rights from Sony.<ref name="Thor budget" /> In December 2007, Protosevich described his plans for it "to be like a [[superhero]] [[origin story]], but not one about a human gaining super powers, but of a god realizing his true potential. It's the story of an [[Old Testament]] god who becomes a [[New Testament]] god".<ref name="Mark P" /> Marvel Studios signed [[Matthew Vaughn]] to direct the film.<ref name="Fleming4" /> Vaughn then rewrote Protosevich's script in order to reduce the budget.<ref name="rewrite" /> Vaughn was later released, and in September 2008, [[Kenneth Branagh]] entered into negotiations to direct,<ref name="Fleming5" /> and by December 2008, Branagh confirmed that he had been hired. He described it as "a human story right in the center of a big epic scenario."<ref name="Branagh" /> In October 2008, [[Daniel Craig]] was offered the role, but ultimately turned it down, citing his commitments to the [[James Bond in film|''James Bond'' franchise]].<ref name="Craig" />
+
+In May 2009, Chris Hemsworth was in negotiations to portray the title role after a back-and-forth process in which the 25-year-old actor was refused early on, then given a second chance to read for the part. Hemsworth's brother, [[Liam Hemsworth|Liam]] also auditioned for the role, but was passed on by Marvel Studios head [[Kevin Feige]].<ref name="Hemsworth is Thor"/> Feige mentioned that the film would take place on both modern day Earth and Asgard but Thor's human host, Dr. Donald Blake, would not be included.<ref name="feigehemsworth" /> Hemsworth stated that he gained 20&nbsp;pounds for the role by eating non-stop and revealed that "It wasn't until ''Thor'' that I started lifting weights, it was all pretty new to me."<ref name="Shira">{{cite web |last=Shira |first=Dahvi |date=April 18, 2011 |title=Chris Hemsworth Gained 20&nbsp;Lbs. of Muscle for Thor |url=http://www.people.com/people/article/0,,20482931,00.html |work=[[People (magazine)|People]] |accessdate=May 11, 2011 |archiveurl=https://www.webcitation.org/5zva40nYC?url=http://www.people.com/people/article/0,,20482931,00.html |archivedate=July 4, 2011 |deadurl=no |df= }}</ref>
+
+===Characterization===
+Regarding his take on the character, Hemsworth said, "We just kept trying to humanize it all, and keep it very real. Look into all the research about the comic books that we could, but also bring it back to 'Who is this guy as a person, and what's his relationship with people in the individual scenes?{{Single double}}<ref name="Huver">{{cite web|url=http://www.superherohype.com/news/articles/101160-exclusive-chris-hemsworth-on-thor |title=Exclusive: Chris Hemsworth on Thor! |first=Scott |last=Huver |work=[[Superhero Hype!|SuperheroHype.com]] |date=May 14, 2010 |accessdate=May 14, 2010 |archiveurl=https://www.webcitation.org/5zxsJOvbb?url=http://www.superherohype.com/news/articles/101160-exclusive-chris-hemsworth-on-thor |archivedate=July 6, 2011 |deadurl=no |df= }}</ref> About approaching Thor's fighting style, he remarked, "First, we looked at the comic books and the posturing, the way [Thor] moves and fights, and a lot of his power seems to be drawn up through the ground. We talked about boxers, you know, [[Mike Tyson]], very low to the ground and big open chest and big shoulder swings and very sort of brutal but graceful at the same time, and then as we shot stuff things became easier."<ref name="Warmoth">{{cite news|first=Brian |last=Warmoth |url=http://splashpage.mtv.com/2010/08/23/chris-hemsworth-mike-tyson-thor/ |title=Chris Hemsworth Reveals Mike Tyson's Contribution To 'Thor' |publisher=[[MTV News]] |date=August 23, 2010 |accessdate=August 24, 2010 |archiveurl=https://www.webcitation.org/5zva4nvZT?url=http://splashpage.mtv.com/2010/08/23/chris-hemsworth-mike-tyson-thor/ |archivedate=July 4, 2011 |deadurl=no |df= }}</ref> [[Dakota Goyo]] portrays a young Thor in the first film.
+
+[[File:Chris Hemsworth 2010 Comic-Con Cropped.jpg|upright|thumb|right|Chris Hemsworth at the 2010 [[San Diego Comic-Con]].]]
+For ''The Avengers'', Hemsworth said that he was able to maintain the strength he built up for ''Thor'' by increasing his food intake, consisting of chicken breasts, fish, steak, and eggs every day. When asked exactly how much, Hemsworth said, "My body weight in protein pretty much!"<ref name="EOnline">{{cite news| title=Avengers Flick Update: Where's the Script?|last1=Malkin|first1=Marc|last2=Malec|first2=Brett |url=http://www.eonline.com/uberblog/marc_malkin/b216448_avengers_flick_update_wheres_script.html |publisher=[[E!]] |date=December 17, 2010 |accessdate=January 5, 2011 |archiveurl=https://www.webcitation.org/5zx6nTej1?url=http://www.eonline.com/uberblog/marc_malkin/b216448_avengers_flick_update_wheres_script.html |archivedate=July 5, 2011 |deadurl=no}}</ref> He remarked that Thor's motivation "is much more of a personal one, in the sense that it's his brother that is stirring things up. Whereas everyone else, it's some bad guy who they've gotta take down. It's a different approach for me, or for Thor. He's constantly having to battle the greater good and what he should do vs. it's his little brother there. . . I've been frustrated with my brothers at times, or family, but I'm the only one who is allowed to be angry at them. There's a bit of that."<ref name="EW4">{{cite web |last=Breznican |first=Anthony |date=September 29, 2011 |title= {{-'}}The Avengers' Dis-Assembled! Exclusive Cast Portraits Revealed |url=http://insidemovies.ew.com/2011/09/29/the-avengers-dis-assembled-exclusive-cast-portraits-revealed/ |work=[[Entertainment Weekly]] |accessdate=July 29, 2011 |archiveurl=https://www.webcitation.org/624KaS4rJ?url=http://insidemovies.ew.com/2011/09/29/the-avengers-dis-assembled-exclusive-cast-portraits-revealed/ |archivedate=July 29, 2011 |deadurl=no}}</ref>
+
+According to Hemsworth, in ''Thor: The Dark World'', "for Thor and Jane, there are some unanswered questions now, since obviously he didn't stop in and catch up with her in ''[[The Avengers (2012 film)|The Avengers]]''. Thor might have some explaining to do in this one. And with Loki, we get down to the major bones of our conflict with everything that's come from ''Thor'' to ''Avengers'' to now".<ref name="Hemsworth2">{{cite web|last=Horowitz |first=Josh |date=November 20, 2012 |title=Chris Hemsworth Marvels At 'Avengers' Success: 'We Pulled It Off!' |url=http://www.mtv.com/news/articles/1697704/chris-hemsworth-avengers-thanksgiving.jhtml |publisher=[[MTV News]] |accessdate=November 20, 2012 |archivedate=November 20, 2012 |archiveurl=https://www.webcitation.org/6CJvtg9fa?url=http://www.mtv.com/news/articles/1697704/chris-hemsworth-avengers-thanksgiving.jhtml |deadurl=no |df= }}</ref> Hemsworth added, "Thor's journey I think picks more so up from where we left the first one—About to take on the throne... and now coming to the realization of what responsibility comes with that. Also, Alan [Taylor] keeps talking about the dark side of that responsibility, and the secrets of being king or becoming sort of very political about what people need to know and what they want to know."<ref name="Hemsworth3">{{cite web|last=Keyes |first=Rob |date=August 6, 2013 |title='Thor: The Dark World' Set Interview With Chris Hemsworth |url=http://screenrant.com/thor-2-chris-hemsworth-set-interview/ |work=ScreenRant |accessdate=August 6, 2013 |archivedate=March 6, 2014 |archiveurl=https://www.webcitation.org/6NsIXX0O2?url=http://screenrant.com/thor-2-chris-hemsworth-set-interview/ |deadurl=no |df= }}</ref> Hemsworth especially enjoyed the role of Thor in this film as he was able to, "... break him down and find his human qualities and his vulnerable side."<ref name="TheMovieNetwork">{{cite web|url=http://www.themovienetwork.com/interview/interview-chris-hemsworth-thor-dark-world |title=Interview: Chris Hemsworth from 'Thor:The Dark World' |last=TheMovieNetwork |work=[[The Movie Network]] |date=February 20, 2014 |accessdate=April 8, 2015 |archiveurl=https://www.webcitation.org/6XdmHzhNU?url=http://www.themovienetwork.com/interview/interview-chris-hemsworth-thor-dark-world |archivedate=April 8, 2015 |deadurl=no |df= }}</ref>
+
+Hemsworth stated that ''Age of Ultron'' shows Thor as having remained on Earth since the events of ''The Dark World'', and has begun to feel at home here, therefore considering Ultron's threat a personal attack.<ref name="Hemsworth2-2015">{{cite web|url=http://www.ign.com/articles/2015/02/27/avengers-age-of-ultron-even-thor-cant-fight-ultron |title=Avengers: Age of Ultron Even Thor Can't Fight Ultron |last=Cornet |first=Roth |publisher=[[IGN]] |date=February 27, 2015 |accessdate=February 27, 2015 |archiveurl=https://www.webcitation.org/6Wf0r4zkL?url=http://www.ign.com/articles/2015/02/27/avengers-age-of-ultron-even-thor-cant-fight-ultron |archivedate=February 27, 2015 |deadurl=no |df=mdy }}</ref> Hemsworth stated that he had to work harder to bring new elements to the character to avoid repeating himself saying that it "gave us room to kind of make him a little more grounded and human and have him in some civilian clothes and mixing it up at a party".<ref name="BuzzFeed 2014">{{cite web|url=https://www.buzzfeed.com/adambvary/thor-captain-america-avengers-age-of-ultron-set-visit |title=What's At Stake For Thor, Captain America, And The "Avengers" Franchise |last=Vary |first=Adam |publisher=[[BuzzFeed]] |date=October 27, 2014 |accessdate=October 27, 2014 |archiveurl=https://www.webcitation.org/6TdunXWCr?url=http://www.buzzfeed.com/adambvary/thor-captain-america-avengers-age-of-ultron-set-visit |archivedate=October 27, 2014 |deadurl=no |df=mdy }}</ref> Hemsworth noted that Thor's motivations in this film were completely different, as it was the first MCU film where he did not play against Loki.<ref name="DigitalSpy 2015">{{cite web|url=http://www.digitalspy.com/movies/feature/a624992/25-things-we-learned-on-the-set-of-avengers-age-of-ultron.html |title=25 things we learned on the set of Avengers: Age of Ultron |last=Dibdin |first=Emma |publisher=[[DigitalSpy.com]] |date=January 31, 2015 |accessdate=January 31, 2015 |archiveurl=https://www.webcitation.org/6VzkHgGv2?url=http://www.digitalspy.com/movies/feature/a624992/25-things-we-learned-on-the-set-of-avengers-age-of-ultron.html |archivedate=January 31, 2015 |deadurl=no |df=mdy }}</ref>
+
+By the events of ''Thor: Ragnarok'', Thor has become a "lone [[gunslinger]]" searching for the [[Infinity Stones]].<ref name="Oct2014EventMarvel"/><ref name="ColliderSep2017Timeline">{{cite web |url=http://collider.com/thor-ragnarok-mcu-connection-explained/ |title=Here's How 'Thor: Ragnarok' Ties into the Larger MCU |last=Cook |first=Tommy |publisher=[[Collider (website)|Collider]] |date=September 7, 2017 |accessdate=September 7, 2017 |archiveurl=https://www.webcitation.org/6tIiP8vb9?url=http://collider.com/thor-ragnarok-mcu-connection-explained/ |archivedate=September 7, 2017 |deadurl=no |df=mdy-all }}</ref> Hemsworth had become "a bit bored" with the character by this time, and wanted to take some risks and experiment: the character has shorter hair in the film, wears a different outfit, his hammer Mjolnir is destroyed,<ref name="NewsAUSDCC">{{cite web |url=http://www.news.com.au/entertainment/movies/new-movies/chris-hemsworth-on-working-with-cate-blanchett-and-offset-shenanigans-on-thor-ragnarok/news-story/6722ba821a58a53f703d5203844c1b49 |title=Chris Hemsworth on working with Cate Blanchett and off-set 'shenanigans' on Thor: Ragnarok |last=Law |first=James |publisher=[[News.com.au]] |date=July 24, 2017 |accessdate=July 24, 2017 |archiveurl=https://www.webcitation.org/6sBdGA07M?url=http://www.news.com.au/entertainment/movies/new-movies/chris-hemsworth-on-working-with-cate-blanchett-and-offset-shenanigans-on-thor-ragnarok/news-story/6722ba821a58a53f703d5203844c1b49 |archivedate=July 24, 2017 |deadurl=no |df=mdy-all }}</ref> and he loses an eye. Director [[Taika Waititi]] added that "stripping" the character down like this allowed him to become a refugee at the end of the film.<ref name="ThorLoseEye">{{cite web|url=http://ew.com/movies/2017/11/04/thor-ragnarok-chris-hemsworth-infinity-war/|title=Chris Hemsworth says Thor will still be [Spoiler] in Avengers: Infinity War|last=Stack|first=Tim|work=[[Entertainment Weekly]]|date=November 4, 2017|accessdate=November 6, 2017|archiveurl=https://web.archive.org/web/20171104205811/http://ew.com/movies/2017/11/04/thor-ragnarok-chris-hemsworth-infinity-war/|archivedate=November 4, 2017|deadurl=no|df=mdy-all}}</ref> Waititi also wanted to use more of Hemsworth's comedic talents showcased in films like ''[[Vacation (2015 film)|Vacation]]'' (2015) and ''[[Ghostbusters (2016 film)|Ghostbusters]]'' (2016),<ref name="EWMar2017Plot">{{cite web |url=http://ew.com/movies/2017/03/09/thor-ragnarok-plot-reveal/ |title=Thor: Ragnarok: Why does Thor have short hair? Where's his hammer? The plot revealed! |last=Stack |first=Tim |work=[[Entertainment Weekly]] |date=March 9, 2017 |accessdate=March 9, 2017 |archiveurl=https://www.webcitation.org/6oq8Dxowa?url=http://ew.com/movies/2017/03/09/thor-ragnarok-plot-reveal/ |archivedate=March 9, 2017 |deadurl=no |df=}}</ref> and cited [[Kurt Russell]]'s portrayal of Jack Burton from ''[[Big Trouble in Little China]]'' (1986) as an influence on the character.<ref name="ColliderSequelSep2017">{{cite web |url=http://collider.com/thor-ragnarok-differences-from-previous-thor-movies/ |title='Thor: Ragnarok': Why (and How) the Sequel Pivots Away from the Previous 'Thor' Movies |last=Cook |first=Tommy |publisher=[[Collider (website)|Collider]] |date=September 7, 2017 |accessdate=September 7, 2017 |archiveurl=https://www.webcitation.org/6tIjVq5L6?url=http://collider.com/thor-ragnarok-differences-from-previous-thor-movies/ |archivedate=September 7, 2017 |deadurl=no |df=mdy-all }}</ref>  The events of ''Infinity War'' come right on the heels of ''Ragnarok'', finding Thor in a "very profound... very interesting place" with "real emotional motivation".<ref name="RussosApr2016">{{cite web|url=http://comicbook.com/2016/04/11/star-lord-and-thor-confirmed-for-avengers-infinity-war/|title=Russo Brothers Confirm Star-Lord And Thor in Avengers: Infinity War|last=Davis|first=Brandon|publisher=ComicBook.com|date=April 10, 2016|accessdate=April 10, 2016|archiveurl=https://www.webcitation.org/6ggCryJhN?url=http://comicbook.com/2016/04/11/star-lord-and-thor-confirmed-for-avengers-infinity-war/|archivedate=April 11, 2016|deadurl=no}}</ref> At the recommendation of Hemsworth, writers [[Christopher Markus and Stephen McFeely]] consulted ''Thor: Ragnarok'' director Taika Waititi and screenwriter [[Eric Pearson]] to help carry over the comedic and tragic elements of the re-toned Thor from that film.<ref name="WritersTHR">{{cite web|url=https://www.hollywoodreporter.com/heat-vision/avengers-infinity-war-changed-a-guardians-galaxy-scene-1106320|title='Avengers' Writers Tweaked 'Infinity War' for James Gunn|last=Couch|first=Aaron|work=[[The Hollywood Reporter]]|date=April 27, 2018|accessdate=May 1, 2018|archiveurl=https://www.webcitation.org/6z61Wcpmf?url=https://www.hollywoodreporter.com/heat-vision/avengers-infinity-war-changed-a-guardians-galaxy-scene-1106320|archivedate=May 1, 2018|deadurl=no}}</ref> Joe Russo said that Thor has "the driving hero's arc of the movie which stands in direct opposition to Thanos' argument" and would have been the main protagonist of the film had Thor killed Thanos.<ref name="WiredAug2018">{{cite web|url=https://www.wired.com/story/avengers-infinity-war-every-hero/|title=Everything You Need to Know About the Avengers: Infinity War Heroes|last=Watercutter|first=Angela|work=[[Wired (magazine)|Wired]]|date=August 14, 2018|accessdate=August 19, 2018|archiveurl=https://www.webcitation.org/71nYkwp2u?url=https://www.wired.com/story/avengers-infinity-war-every-hero/|archivedate=August 19, 2018|deadurl=no}}</ref>
+
+Thor is noted to have a number of character flaws, which occasionally drive events in the MCU. He is impulsive, leading to his invasion of the frost giants of Niflheim in the first film, which then leads to his banishment to Earth for much of that film. Thor's attack on the frost giants leads to Loki's discovery that he was born a frost giant and adopted by Odin, and Thor's banishment to Earth in part leads to Loki's effort to overthrow Asgard, culminating with Loki's falling from the Bifrost. It is noted, however, that from this experience, Thor "emerges a more humble warrior".<ref name="Gardner-2018"/> The events of ''Thor'' also lead to Loki ending up in the service of Thanos, for whom Loki invades Earth, precipitating the events of ''The Avengers''. Although Thor's arrogance has been tempered in his first film, he still impulsively attacks Steve Rogers when they first meet in ''The Avengers''.<ref name="Bath"/> Thor's character in ''Infinity War'' has been criticized as a step backwards from his portrayal in his previous appearance in ''Ragnarok''. Thor learns in ''Ragnarok'' that his power does not comes from his hammer, only to spend the bulk of ''Infinity War'' pursuing the creation of a new, more powerful hammer.<ref>{{cite web|url=https://www.themarysue.com/thors-arc-avengers-infinity-war/|title=Thor’s Arc Is Still the Best and Worst Thing About Infinity War|publisher=''[[The Mary Sue]]''|first=Kaila|last=Hale-Stern|date=August 3, 2018}}</ref> Analysis of the character from a feminist perspective has noted that Thor "might be a hotheaded braggart, but he never demeans women", a sharp contrast with the womanizing [[Tony Stark (Marvel Cinematic Universe)|Tony Stark]].<ref name="Gardner-2018"/>
+
+===Appearance and special effects===
+Thor's appearance has changed from each film to the next. For the first film, Visual Development Supervisor Charlie Wen focused on mixing elements from the comic books with Norse mythology in creating Thor's costume, keeping the six disk-shaped adornments on his upper body, but "trying to maintain the Norse side of things" as much as possible.<ref name="Strom">{{cite web|url=https://web.archive.org/web/20120405160102/https://marvel.com/news/story/15800/art_of_thor_charlie_wen|title=Art of Thor: Charlie Wen|first=Marc|last=Strom|publisher=Marvel.com|date=May 25, 2011}}</ref> The first design element that Wen attempted was Thor's hammer, Mjolnir, for which Wen created a number of possible alternatives, incorporating designs including "the traditional Thor hammer with the short handle as well as the Ultimates versions", from which the one Branagh chose "was the most traditional one".<ref name="Strom"/> For ''The Avengers'', Thor's costume was modified slightly to fit in better with other members of the team, and to make his movements and appearance in casual scenes more natural, with changes including enhancing the blue tones in the costume, and reducing the size of Thor's cape.<ref>{{cite web|url=https://marvel.com/news/story/19371/designing_the_avengers_thor|title=Designing The Avengers: Thor|first1=Christina|last1=Pham|first2=Marc|last2=Strom|publisher=Marvel.com|date=September 12, 2012}}</ref> Various efforts to depict Thor dressed in "street clothes" like people of Earth have been criticized as having him look like "an extra in Cameron Crowe's ''Singles''".<ref>{{cite web|url=https://www.vulture.com/2018/04/a-serious-critique-of-the-mcus-off-duty-fashion.html|title=A Serious Critique of the MCU's Street Style|publisher=[[Vulture.com]]|first=Arye|last=Dworken|date=April 23, 2018}}</ref> The most significant change to Thor's appearance occurs in ''Thor: Ragnorak'', where Thor's long hair is cut short, his hammer is destroyed, and he is dressed as a [[gladiator]] in a battle-tattered costume for his combat with Hulk. The changes were suggested by Hemsworth, who had tired of repeatedly playing the character the same way in previous appearances, and agreed to by director Taika Waititi.<ref>{{cite web|url=https://www.vanityfair.com/hollywood/2017/11/thor-ragnarok-chris-hemsworth-mark-ruffalo-interview-best-thor-movie|title=Thor: Ragnarok Proves Marvel Is Not Afraid to Learn from Its Mistakes|first=Joanna|last=Robinson|publisher=''Variety''|date=November 3, 2007}}</ref>
+
+==Marvel Cinematic Universe==
+===Feature films===
+{{main|Thor (film)|The Avengers (2012 film)|Thor: The Dark World|Avengers: Age of Ultron|Thor: Ragnarok|Avengers: Infinity War|Avengers: Endgame}}
+* Chris Hemsworth stars as the character in the Marvel Cinematic Universe, first appearing in ''Thor'' (2011),<ref>{{cite news |last=Finke |first=Nikke |title=Exclusive: Chris Hemsworth is Thor |url=http://www.deadlinehollywooddaily.com/exclusive-chris-hemsworth-is-thor/ |website=[[Deadline Hollywood]] |date=May 16, 2009 |accessdate=May 19, 2009 |archivedate=May 10, 2011 |archiveurl=https://www.webcitation.org/5yabdpEZ5 |deadurl=no}}</ref> and subsequently appearing in ''The Avengers'' (2012),<ref>{{cite web |url=http://www.deadline.com/2010/07/star-wattage-marvel-assembles-the-avengers-for-comic-con-panel |title=Marvel-ous Star Wattage: Actors Assemble For Comic-Con Panel Including ''The Avengers'', ''Captain America'', & ''Thor''|date=July 24, 2010 |website=Deadline Hollywood|accessdate=July 25, 2010 |archiveurl=https://www.webcitation.org/5zx6k1EnB |archivedate=July 5, 2011 |deadurl=no}}</ref> ''Thor: The Dark World'' (2013),<ref>{{cite web |last=Fleming |first=Mike |date=June 30, 2011 |title=Marvel And Disney Setting 'Thor 2' For Summer 2013; Chris Hemsworth's Back But Kenneth Branagh Won't Return |url=http://www.deadline.com/2011/06/marvel-and-disney-sets-thor-2-for-summer-2013-kenneth-branagh-wont-return/ |website=Deadline Hollywood|accessdate=July 1, 2011 |archiveurl=https://www.webcitation.org/5zxsm5vBY |archivedate=July 5, 2011 |deadurl=no}}</ref> ''[[Avengers: Age of Ultron]]'' (2015),<ref>{{cite web|url=http://www.eonline.com/news/456925/chris-hemsworth-talks-awkward-naked-movie-scenes-snow-white-sequel-with-kristen-stewart|title=Chris Hemsworth Talks 'Awkward' Naked Movie Scenes, ''Snow White'' Sequel With Kristen Stewart|last=Malec|first=Brett|last2=Malkin|first2=Marc|publisher=[[E!]]|date=September 9, 2013|accessdate=September 10, 2013|archiveurl= https://web.archive.org/web/20160820175951/http://www.eonline.com/news/456925/chris-hemsworth-talks-awkward-naked-movie-scenes-snow-white-sequel-with-kristen-stewart|archivedate=August 20, 2016|deadurl=no}}</ref> and ''Thor: Ragnarok'' (2017)<ref name="Oct2014EventMarvel">{{cite web|url=http://marvel.com/news/movies/23544/thor_brings_ragnarok_to_the_marvel_cinematic_universe_in_2017|title=Thor Brings Ragnarok to the Marvel Cinematic Universe in 2017|last=Strom|first=Marc|publisher=[[Marvel Comics|Marvel.com]]|date=October 28, 2014|accessdate=October 28, 2014|archiveurl=https://www.webcitation.org/6TfVbIRp5|archivedate=October 28, 2014|deadurl=no}}</ref> and ''[[Avengers: Infinity War]]'' (2018). Hemsworth cameos in the mid-credits scene of ''[[Doctor Strange (2016 film)|Doctor Strange]]'' (2016).<ref>{{cite web|url=http://www.ew.com/article/2016/11/05/doctor-strange-easter-eggs-spoilers|title=Doctor Strange revelations: Secrets and Easter eggs from the new Marvel movie|work=[[Entertainment Weekly]]|last=Breznican|first=Anthony|date=November 5, 2016|accessdate=November 5, 2016|archiveurl=https://www.webcitation.org/6lnrrtyte|archivedate=November 5, 2016|deadurl=no}}</ref>
+* Hemsworth will reprise the role in [[Avengers: Endgame]] (2019).<ref>{{cite web|url=http://collider.com/avengers-3-4-chris-hemsworth-reveals-marvel-movies-left-on-his-contract/|title=Chris Hemsworth Reveals the 3 Marvel Movies Left on His Contract|publisher=[[Collider.com]]|last=Chitwood|first=Adam|date=April 14, 2015|archiveurl= https://web.archive.org/web/20150927101252/http://collider.com/avengers-3-4-chris-hemsworth-reveals-marvel-movies-left-on-his-contract/|archivedate= September 27, 2015|deadurl= no}}</ref>
+
+==Fictional character biography==
+{{Plot|section|date=December 2018}}
+===Origins and first visit to Earth===
+Thor is the son of [[Odin (comics)|Odin]], king of [[Asgard (comics)|Asgard]]. As Thor prepares to ascend to the throne, Frost Giants attempt to retrieve an artifact captured by Odin in a war centuries before. Against Odin's order, Thor travels to Jotunheim to confront Frost Giant leader Laufey, accompanied by his brother [[Loki (comics)|Loki]], childhood friend [[Sif (comics)|Sif]] and the [[Warriors Three]]: [[Volstagg]], [[Fandral]], and [[Hogun]]. A battle ensues until Odin intervenes to save the Asgardians, destroying the fragile truce between the two races. For Thor's arrogance, Odin strips his son of his godly power and exiles him to Earth as a mortal, accompanied by his hammer [[Mjolnir (comics)|Mjolnir]], now protected by an enchantment that allows only the worthy to wield it.
+
+Thor lands in [[New Mexico]], meeting astrophysicist [[Jane Foster (comics)|Dr. Jane Foster]]. Thor discovers Mjolnir's location, but is unable to lift it, and is captured. With the help of  Dr. Erik Selvig, he is freed and resigns himself to exile on Earth as he develops a romance with Jane. Loki seizes the throne as Odin sleeps, and the Warriors Three find Thor, but the [[Destroyer (Thor)|Destroyer]] attacks and defeats them, prompting Thor to offer himself instead. Struck by the Destroyer and near death, Thor's sacrifice proves him worthy to wield Mjolnir. The hammer returns to him, restoring his powers and enabling him to defeat the Destroyer. Thor returns to Asgard and fights Loki before destroying the [[Bifröst Bridge]] to stop Loki's plans, stranding himself in Asgard. Odin awakens and prevents the brothers from falling into the abyss created in the wake of the bridge's destruction, but Loki apparently commits suicide by allowing himself to fall when Odin rejects his pleas for approval. Thor makes amends with Odin, admitting he is not ready to be king.
+
+===Joining the Avengers===
+Loki ends up on Earth, causing havoc until he is captured by [[Tony Stark (Marvel Cinematic Universe)|Tony Stark]] (Iron Man) and [[Steve Rogers (Marvel Cinematic Universe)|Steve Rogers]] (Captain America). Thor arrives and frees Loki, hoping to convince him to abandon his plan and return to Asgard. After a brief fight with Stark and Rogers, Thor agrees to take Loki to S.H.I.E.L.D.'s flying aircraft carrier, the [[Helicarrier]]. Agents possessed by Loki attack the Helicarrier, disabling one of its engines in flight and causing [[Bruce Banner (Marvel Cinematic Universe)|Bruce Banner]] to transform into the Hulk. Thor attempts to stop the Hulk's rampage, and is ejected from the airship as Loki escapes. Loki opens a wormhole over [[New York City]] to allow a [[Chitauri]] army to invade, and Thor and the other Avengers rally in defense of the city. Once the Chitauri are defeated, Thor returns Loki and a source of power called the Tesseract to Asgard.
+
+In Asgard, Thor and his fellow warriors, repel marauders on [[Vanaheim]], home of their comrade [[Hogun]]; it is the final battle in a war to pacify the [[Asgard (comics)#The Nine Worlds|Nine Realms]] following reconstruction of the Bifröst. The Asgardians learn that the Convergence, a rare alignment of the Nine Realms, is imminent; as the event approaches, portals linking the worlds appear at random. Heimdall alerts Thor that Jane Foster has moved beyond his near all-seeing vision, leading Thor to Earth. Jane inadvertently releases an unearthly force, and Thor returns with her to Asgard. Odin recognizes the force as a weapon known as the Aether, warning that it will kill Jane, and that its return heralds a catastrophic prophecy. The [[Elves (Marvel Comics)#Dark Elves|Dark Elf]] [[Malekith the Accursed|Malekith]] attacks Asgard, searching for Jane. Thor's mother [[Frigga (comics)|Frigga]] is killed protecting Jane, and Malekith is forced to flee. Despite Odin's orders not to leave Asgard, Thor reluctantly enlists the help of Loki, who knows of a secret portal to Svartalfheim, where they will use Jane to lure and confront Malekith, away from Asgard. In return, Thor promises Loki vengeance on Malekith for killing their mother.
+
+Loki tricks Malekith into drawing the Aether out of Jane, but Thor's attempt to destroy the exposed substance fails. Malekith merges with the Aether and leaves in his ship as Loki is fatally wounded. Thor promises to tell their father of his sacrifice. Thor and Jane return to London through another portal. Thor ultimately defeats Malekith in a battle in [[Greenwich]], and returns to Asgard to decline Odin's offer to take the throne, and to tell Odin of Loki's sacrifice. Jane and Thor reunite on Earth.
+
+Thor and the other Avengers search for Loki's scepter on Earth, culminating in a raid on a [[Hydra (comics)|Hydra]] facility in Sokovia. Stark and Banner discover an [[Artificial intelligence in fiction#Sentient AI|artificial intelligence]] within the scepter's gem, and secretly decide to use it to complete Stark's "[[Ultron]]" global defense program. The unexpectedly sentient Ultron attacks Thor and the Avengers at [[Stark Tower|their headquarters]] before escaping with the scepter. The Avengers track down and attack Ultron and but [[Wanda Maximoff]] subdues them with haunting visions. Thor departs to consult with Dr. Selvig on the meaning of the apocalyptic future he saw in his hallucination. Stark secretly uploads J.A.R.V.I.S.—still operational after hiding from Ultron inside the Internet—into a synthetic body captured from Ultron. Thor returns to help activate the body, explaining that the gem on its brow—one of the six [[Infinity Stones]], the most powerful objects in existence—was part of his vision. The Avengers return to Sokovia and defeat Ultron, and Thor returns to Asgard to learn more about the forces he suspects have manipulated recent events.
+
+===Destruction of Asgard and battle with Thanos===
+Two years after the battle of Sokovia,{{refn|name=Timeline|group=N|As depicted in the 2015 film ''[[Avengers: Age of Ultron]]''.<ref name="Oct2014EventMarvel"/>}} Thor has unsuccessfully sought the [[Infinity Stones]], and is imprisoned by the fire demon [[Surtur (Marvel Comics)|Surtur]] in [[Muspelheim]]. Surtur reveals that Odin is no longer on Asgard, and that the realm will soon be destroyed in the prophesied [[Ragnarök]], once Surtur unites his crown with the Eternal Flame that burns in Odin's vault. Thor defeats Surtur and claims his crown, believing he has prevented Ragnarök.
+
+Thor returns to Asgard to find Loki still alive and posing as Odin. Thor forces Loki to help him find their father, and with directions from [[Stephen Strange]] on Earth, they locate Odin in [[Norway]]. A dying Odin explains that his passing will allow his firstborn child, [[Hela (comics)|Hela]], to escape from a prison she was sealed in long ago. Hela appears, destroys Mjolnir, and when Thor and Loki attempt to flee through the Bifröst, she pursues them and forces them out into space. Thor crash-lands on the  garbage planet [[Sakaar]], and is captured by a slave trader named [[Valkyrie (Marvel Comics)|Scrapper 142]], and sold to serve as a gladiator for the planet's ruler, the [[Grandmaster (Marvel Comics)|Grandmaster]], with whom Loki has already become ingratiated. Thor is forced to compete in the Grandmaster's [[Marvel Super Hero Contest of Champions|Contest of Champions]], facing Hulk. Summoning lightning, Thor gets the upper hand, but the Grandmaster sabotages the fight to ensure Hulk's victory. Still enslaved, Thor attempts to convince Hulk and 142 to help him save Asgard, and escapes the palace to find the [[Quinjet]] that brought Hulk to Sakaar, where a recording of [[Natasha Romanoff]] makes Hulk transform back into Bruce Banner.
+
+Loki provides the means to steal one of the Grandmaster's ships, but attempts to betray his brother; Thor anticipates this and leaves Loki behind. Thor, Banner, and 142 escape through a wormhole to Asgard, where Hela's forces are attacking Heimdall and Asgard's citizens. Loki arrives to help, and Thor and 142 battle Hela's forces. Thor, facing Hela, loses an eye, and has a vision of Odin that helps him realize only Ragnarök can stop Hela. He has Loki place Surtur's crown in the Eternal Flame, and Surtur is reborn and destroys Asgard, seemingly killing Hela. Thor and the others escape with Asgard's remaining citizens aboard the Grandmaster's vessel brought by Loki. Thor, crowned king, decides to take his people to Earth, but they are intercepted by a large spacecraft carrying [[Thanos]] and his minions seeking to extract the [[Infinity Stones#Film|Space Stone]] from the [[Cosmic Cube|Tesseract]].
+
+Thor, Loki, and Hulk are unable to stop them as Thor is imprisoned while Thanos overpowers Hulk and kills Loki. Heimdall uses the Bifröst to send Hulk to Earth and is killed by Glaive. Thanos and his children depart with the Space Stone, using the Power Stone to obliterate the ship. The [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]] respond to a distress call from the Asgardian ship and recover Thor, who guesses that Thanos will be looking for the [[Infinity Stones#Film|Reality Stone]]. [[Rocket Raccoon]] and [[Groot]] accompany Thor to [[Nidavellir]] to retrieve a weapon capable of killing Thanos. They meet [[Eitri (comics)|Eitri]] at an abandoned Nidavellir, and the four create Stormbreaker, an axe that grants Thor the power of the Bifröst. Thanos invades Wakanda, and his army of Outriders are on the verge of overwhelming the Wakandan forces when Thor, Rocket and Groot arrive on Earth via the Bifröst and rally with the defenders. Thanos retrieves the last Infinity Stone and, though grievously wounded by Thor, is able to activate the Infinity Gauntlet and teleport away, leaving Thor in Wakanda as half the people in the universe are disintegrated.
+
+==Differences from the comic books==
+A major divergence from the comic books is the absence of Thor's comic book alter ego, Donald Blake.<ref name="Bath"/><ref name="Bacon">{{cite web|url=https://screenrant.com/marvel-movies-not-adapt-comics/|title=The MCU Isn't Pretending To Adapt Marvel Comics Stories Any More|first=Thomas|last=Bacon|publisher=''[[Screen Rant]]''|date=August 28, 2018}}</ref> In the comics, as in the MCU, Odin stripped Thor of his powers and sent him to Earth as punishment for Thor's arrogance and intemperance. However, in the comics, Odin puts Thor into the body of Donald Blake, a crippled human doctor, for the course of a long-running storyline, encompassing years of adventures during which Thor's alter ego is occasionally able to cause Thor to re-emerge to fight villainy. In the MCU, with no element of an alter ego, this banishment is resolved within the first film, over the course of days.<ref name="Bath"/> The lack of an alter ego also impact's Thor's relationships. In the comics, Thor's love interest, Jane Foster, is an assistant to Donald Blake. In the films, she has no prior connection to the character, and meets him due to her work as a physicist studying the type of phenomena his appearances generate. Whereas the comic book Jane Foster has a variety of story arcs, including actually usurping Thor as God of Thunder for a time, she only appears in two of the films, and her character is then disposed of through an off-screen breakup.<ref name="Bath"/> In the comic books, Valkyrie is another alter ego of Thor's, a product of his imagination created during a period of insanity.<ref name="Bath"/> In the MCU, Valkyrie's appearance in ''Thor: Ragnorak'' was as a separate real character who interacts with other characters.
+
+==Reception==
+Thor, as a character, was initially less well-received than other Avengers characters, and it has been stated that "before ''Ragnarok'', Thor was an ill-defined if likable meathead of a character, used primarily for punching and occasionally fish-out-of-water jokes made at his expense",<ref name="Moran">{{cite web|url=https://screenrant.com/thor-ragnarok-saved-franchise/|title=Ragnarok Truly Did Save The Thor Franchise|publisher=''ScreenRant''|first=Sarah|last=Moran|date=September 1, 2018}}</ref> and that films featuring the character were "the studio's least fun franchise".<ref>{{cite web|url=https://www.vox.com/culture/2017/10/26/16537186/thor-ragnarok-review|title=Thor: Ragnarok finally makes Thor a hero worth rooting for|publisher=Vox.com|first=Alex|last=Abad-Santosalex|date=November 2, 2017}}</ref> In particular, ''The Dark World'' was criticized for adding "absolutely zero development or growth for its main character", resulting in "little enthusiasm for Thor from either audiences or Marvel".<ref name="Moran"/> ''Thor: Ragnarok'', however, was much better received, to the extent that it has widely been described as saving the franchise.<ref>{{cite web|url=https://www.comicbookmovie.com/thor/thor_ragnarok/mind-blowing-new-thor-ragnarok-concept-art-reveals-alternate-designs-for-surtur-valkyrie-and-more-a155620|title=Mind-Blowing New THOR: RAGNAROK Concept Art Reveals Alternate Designs For Surtur, Valkyrie, And More|publisher=ComicBookMovie|first=Josh|last=Wilding|date=November 22, 2017|quote=''Thor: Ragnarok'' is an amazing movie and there's no denying that Taika Waitit has saved the franchise and opened the door to a whole new wave of stories revolving around the God of Thunder.}}</ref><ref name="Moran"/>
+
+===Accolades===
+{| class="wikitable" style="width:99%;"
+|-
+!Year !! Award !! Category !! Nominee !! Result !! {{abbr|Ref.|Reference}}
+|-
+|rowspan="7"| 2011
+|[[2011 Teen Choice Awards|Teen Choice Awards]]
+|Choice Movie Breakout: Male
+|Chris Hemsworth
+|{{nom}}
+|style="text-align:center;"|<ref name="Ng">{{cite web|last=Ng |first=Philiana |date=July 19, 2011 |title=Teen Choice Awards 2011: 'Pretty Little Liars,' Rebecca Black Added to List of Nominees |url=http://www.hollywoodreporter.com/news/teen-choice-awards-2011-pretty-212996 |work=[[The Hollywood Reporter]] |archiveurl=https://www.webcitation.org/60UVrjVi4?url=http://www.hollywoodreporter.com/news/teen-choice-awards-2011-pretty-212996 |archivedate=July 27, 2011 |accessdate=July 27, 2011 |deadurl=yes |df= }}</ref>
+|-
+|rowspan="6" |[[2011 Scream Awards|Scream Awards]]
+|The Ultimate Scream
+|''Thor''
+|{{nom}}
+|style="text-align:center;" rowspan="6" |<ref name="ScreamAwards">{{cite web|title=SCREAM 2011 |url=http://www.spike.com/events/scream-awards-2011/ |work=[[Spike TV]] |accessdate=September 7, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110923173857/http://www.spike.com/events/scream-awards-2011 |archivedate=September 23, 2011 |df= }}</ref>
+|-
+|Best Fantasy Movie
+|''Thor''
+|{{nom}}
+|-
+|Best Superhero
+|Chris Hemsworth as Thor
+|{{nom}}
+|-
+|Breakout Performance—Male
+|Chris Hemsworth
+|{{nom}}
+|-
+|Best F/X
+|''Thor''
+|{{nom}}
+|-
+|Best Comic Book Movie
+|''Thor''
+|{{nom}}
+|-
+|rowspan="8"|2012
+|rowspan="2"|[[38th People's Choice Awards|People's Choice Awards]]
+|Favorite Action Movie
+|''Thor''
+|{{nom}}
+|style="text-align:center;" rowspan="2" |<ref name="ChoiceAwards">{{cite web|title=People's Choice Awards 2012 Nominees |url=http://www.peopleschoice.com/pca/awards/nominees/index.jsp?year=2012 |work=[[People's Choice Awards]] |accessdate=November 9, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20120109013135/http://www.peopleschoice.com/pca/awards/nominees/index.jsp?year=2012 |archivedate=January 9, 2012 |df= }}</ref>
+|-
+|Favorite Movie Superhero
+|Chris Hemsworth
+|{{nom}}
+|-
+|rowspan="2"| [[Empire Awards]]
+| [[Empire Award for Best Sci-Fi/Fantasy|Best Sci-Fi/Fantasy]]
+| ''Thor''
+|{{won}}
+| rowspan="2" style="text-align:center;"|<ref name="EmpireAwards">{{cite web|date=March 5, 2012 |last=O'Hara |first=Helen |title=The Awards Nominations Are Here! |url=http://www.empireonline.com/news/story.asp?NID=33322 |work=[[Empire (film magazine)|Empire]] |archiveurl=https://www.webcitation.org/65xl2pdmB?url=http://www.empireonline.com/news/story.asp?NID=33322 |archivedate=March 6, 2012 |accessdate=March 6, 2012 |deadurl=yes |df= }}</ref>
+|-
+| The Art of 3D Presented by RealD
+| ''Thor''
+|{{nom}}
+|-
+| [[2012 MTV Movie Awards|MTV Movie Awards]]
+| [[MTV Movie Award for Best Hero|Best Hero]]
+| Thor
+| {{nom}}
+| style="text-align: center;" |<ref name="MTVMA">{{cite web|title=Best Hero Nominees |url=http://www.mtv.com/ontv/movieawards/2012/best-hero/ |work=[[MTV]] |archiveurl=https://www.webcitation.org/68CSRqZAE?url=http://www.mtv.com/ontv/movieawards/2012/best-hero/ |archivedate=June 5, 2012 |accessdate=June 5, 2012 |deadurl=yes |df= }}</ref>
+|-
+|rowspan="3"| [[38th Saturn Awards|Saturn Awards]]
+| [[Saturn Award for Best Fantasy Film|Best Fantasy Film]]
+| ''Thor''
+|{{nom}}
+| rowspan="3" style="text-align:center;"|<ref name="AccoSaturn">{{cite web|url=http://www.saturnawards.org/nominations.html |title=Nominations for the 38th Annual Saturn Awards |publisher=[[Academy of Science Fiction, Fantasy & Horror Films]] |work=[[Saturn Award]] |date=February 29, 2012 |accessdate=February 29, 2012 |archiveurl=https://www.webcitation.org/65olbBrXC?url=http://www.saturnawards.org/nominations.html |archivedate=February 29, 2012 |deadurl=yes |df= }}</ref>
+|-
+| Best Production Design
+| [[Bo Welch]]
+|{{nom}}
+|-
+| [[Saturn Award for Best Costume|Best Costume]]
+| Alexandra Byrne
+|{{won}}
+|-
+| rowspan="10" |2014
+|[[IGN]] Best of 2013
+|Best Comic Book Adaptation Movie
+|''Thor: The Dark World''
+|{{nom}}
+|style="text-align:center;"|<ref name="IGN Awards">{{cite web|last= |first= |date= |url=http://www.ign.com/wikis/best-of-2013/Best_Comic_Book_Adaptation_Movie |title=Best Comic Book Adaptation Movie |publisher=[[IGN]] |accessdate=December 23, 2013 |archiveurl=https://www.webcitation.org/6M5B9INxW?url=http://www.ign.com/wikis/best-of-2013/Best_Comic_Book_Adaptation_Movie |archivedate=December 23, 2013 |deadurl=no |df= }}</ref>
+|-
+|[[40th People's Choice Awards|People's Choice Awards]]
+|Favorite Year-End Movie
+|''Thor: The Dark World''
+|{{nom}}
+|style="text-align:center;"|<ref name="People's Choice Awards 2014">{{cite web |last=Hayner |first=Chris E. |date=January 8, 2014 |title=People's Choice Awards 2014 - Full winners list |url=http://blog.zap2it.com/frominsidethebox/2014/01/peoples-choice-awards-2014---full-winners-list.html |publisher=[[Zap2It]] |accessdate=January 11, 2014 |archiveurl=https://www.webcitation.org/6NsKsgRRv?url=http://blog.zap2it.com/frominsidethebox/2014/01/peoples-choice-awards-2014---full-winners-list.html |archivedate=March 6, 2014 |deadurl=yes |df=mdy-all }}</ref>
+|-
+| rowspan="3" |[[40th Saturn Awards|Saturn Awards]]
+|Best Comic-To-Film Motion Picture
+|''Thor: The Dark World''
+|{{nom}}
+| rowspan="3;" style="text-align:center;"|<ref name="SaturnAwards 2014">{{cite web|last=Johns |first=Nikara |date=February 25, 2014 |title='Gravity,' 'The Hobbit: The Desolation of Smaug' Lead Saturn Awards Noms |url=https://variety.com/2014/film/news/gravity-the-hobbit-the-desolation-of-smaug-lead-saturn-awards-noms-1201120744/ |work=[[Variety (magazine)|Variety]] |accessdate=February 28, 2014 |archiveurl=https://www.webcitation.org/6Nj6ieckF?url=http://variety.com/2014/film/news/gravity-the-hobbit-the-desolation-of-smaug-lead-saturn-awards-noms-1201120744/ |archivedate=February 28, 2014 |deadurl=no |df= }}</ref>
+|-
+|[[Saturn Award for Best Costume|Best Costume]]
+|Wendy Partridge
+|{{nom}}
+|-
+|[[Saturn Award for Best Make-up|Best Make-Up]]
+|Karen Cohen / David White / Elizabeth Yianni-Georgiou
+|{{nom}}
+|-
+| rowspan="2" |[[2014 MTV Movie Awards|MTV Movie Awards]]
+|[[2014 MTV Movie Awards#Best Shirtless Performance|Best Shirtless Performance]]
+|[[Chris Hemsworth]]
+|{{nom}}
+| rowspan="2;" style="text-align:center;"|<ref name="MTVMovieAwards 2014">{{cite web|last= |first= |date=March 6, 2014 |title=2014 MTV Movie Awards: Full Nominations List |url=http://www.mtv.com/news/articles/1723587/2014-mtv-movie-awards-nominations.jhtml |publisher=[[MTV News]] |accessdate=March 6, 2014 |archiveurl=https://www.webcitation.org/6NsQ9YtjR?url=http://www.mtv.com/news/articles/1723587/2014-mtv-movie-awards-nominations.jhtml |archivedate=March 6, 2014 |deadurl=no |df= }}</ref>
+|-
+|[[MTV Movie Award for Best Hero|Best Hero]]
+|Chris Hemsworth
+|{{nom}}
+|-
+|[[Golden Trailer Awards]]
+|Best Action TV Spot
+|''Thor: The Dark World''
+|{{nom}}
+|style="text-align:center;"|<ref name="GoldenTrailerAwards 2014">{{cite web|last= |first= |date=May 7, 2014 |title=The 15th Annual Golden Trailer Award Nominees |url=http://www.goldentrailer.com/awards.gta15.php |publisher=[[Golden Trailer Awards]] |accessdate=June 11, 2014 |archiveurl=https://www.webcitation.org/6QzgKOaRn?url=http://www.goldentrailer.com/awards.gta15.php |archivedate=July 11, 2014 |deadurl=yes |df= }}</ref>
+|-
+| rowspan="2" |[[2014 Teen Choice Awards|Teen Choice Awards]]
+|[[Teen Choice Award for Choice Movie – Sci-Fi/Fantasy|Choice Movie: Sci-Fi/Fantasy]]
+|''Thor: The Dark World''
+|{{nom}}
+| rowspan="2;" style="text-align:center;"|<ref name="TeenChoiceAwards 2014">{{cite web|last= |first= |date=June 18, 2014 |title=Teen Choice Awards 2014 Nominees Revealed! |url=https://movies.yahoo.com/news/teen-choice-awards-2014-nominees-revealed-163400995.html |publisher=[[Yahoo! Movies]] |accessdate=June 18, 2014 |archiveurl=https://www.webcitation.org/6QPCDgNRE?url=https://movies.yahoo.com/news/teen-choice-awards-2014-nominees-revealed-163400995.html |archivedate=June 17, 2014 |deadurl=no |df= }}</ref>
+|-
+|[[Teen Choice Award for Choice Movie Actor – Sci-Fi/Fantasy|Choice Movie Actor: Sci-Fi/Fantasy]]
+|Chris Hemsworth
+|{{nom}}
+|-
+| rowspan="12" |2018
+| rowspan="2" | [[Rotten Tomatoes|Golden Tomato Awards]]
+| Best Wide Release 2017
+| ''Thor: Ragnarok''
+| {{draw|10th Place}}
+| rowspan="2" style="text-align:center;" |<ref>{{cite web|title=Golden Tomato Awards&nbsp;– Best of 2017|url=https://editorial.rottentomatoes.com/golden-tomato-awards-2017/ |publisher=[[Rotten Tomatoes]]|date=January 3, 2017|accessdate=January 13, 2017}}</ref>
+|-
+| Best Comic Book/Graphic Novel Movie 2017
+| ''Thor: Ragnarok''
+| {{draw|3rd Place}}
+|-
+| rowspan="2"| [[23rd Critics' Choice Awards|Critics' Choice Awards]]
+| [[Critics' Choice Movie Award for Best Action Movie|Best Action Movie]]
+| ''Thor: Ragnarok''
+| {{nom}}
+| rowspan="2" style="text-align:center;"|<ref name="CriticsChoice">{{cite web|url=http://ew.com/awards/2017/12/06/2018-critics-choice-awards-nominations/|title=The Shape of Water leads Critics' Choice Awards nominations|last=Nolfi|first=Joey|work=[[Entertainment Weekly]]|date=December 6, 2017|accessdate=December 6, 2017|df=mdy-all}}</ref>
+|-
+| [[Critics' Choice Movie Award for Best Actor in a Comedy|Best Actor in a Comedy]]
+| Chris Hemsworth
+| {{nom}}
+|-
+| rowspan="2" |[[23rd Empire Awards|Empire Awards]]
+| [[Empire Award for Best Film|Best Film]]
+| ''Thor: Ragnarok''
+| {{nom}}
+| style="text-align:center;" rowspan="2" |<ref>{{cite web|url=https://www.empireonline.com/movies/news/star-wars-last-jedi-thor-ragnarok-lead-empire-awards-2018-nominations/|title=Star Wars The Last Jedi and Thor Ragnarok Lead Empire Awards 2018 Nominations|last=Travis|first=Ben|work=[[Empire (film magazine)|Empire]]|date=January 18, 2018|accessdate=March 19, 2018|archiveurl=https://www.webcitation.org/6y1LEtPjR?url=https://www.empireonline.com/movies/news/star-wars-last-jedi-thor-ragnarok-lead-empire-awards-2018-nominations/|archivedate=March 18, 2018|deadurl=no|df=mdy-all}}</ref>
+|-
+| [[Empire Award for Best Sci-Fi/Fantasy|Best Sci-Fi/Fantasy]]
+| ''Thor: Ragnarok''
+| {{nom}}
+|-
+| [[2018 MTV Movie & TV Awards|MTV Movie & TV Awards]]
+| [[MTV Movie Award for Best Fight|Best Fight]]
+| Chris Hemsworth vs. [[Mark Ruffalo]]
+| {{nom}}
+| <ref>{{cite web|url=https://www.hollywoodreporter.com/lists/mtv-movie-tv-awards-2018-nominations-complete-list-1108100 |title=MTV Movie & TV Awards: 'Black Panther,' 'Stranger Things' Top Nominations |last=Nordyke |first=Kimberly |work=[[The Hollywood Reporter]] |date=May 3, 2018 |accessdate=May 3, 2018 |deadurl=no |archiveurl=https://web.archive.org/web/20180503235147/https://www.hollywoodreporter.com/lists/mtv-movie-tv-awards-2018-nominations-complete-list-1108100 |archivedate=May 3, 2018 |df=}}</ref>
+|-
+| [[44th Saturn Awards|Saturn Awards]]
+| [[Saturn Award for Best Comic-to-Film Motion Picture|Best Comic-to-Motion Picture Release]]
+| ''Thor: Ragnarok''
+| {{nom}}
+| <ref>{{cite web|url=https://variety.com/2018/film/news/saturn-awards-nominations-2018-black-panther-walking-dead-1202727752/|title='Black Panther,' 'Walking Dead' Rule Saturn Awards Nominations|last=McNary|first=Dave|work=Variety|date=March 15, 2018|accessdate=March 15, 2018|archiveurl=https://www.webcitation.org/6xwc1azco?url=http://variety.com/2018/film/news/saturn-awards-nominations-2018-black-panther-walking-dead-1202727752/|archivedate=March 15, 2018|deadurl=no|df=mdy-all}}</ref>
+|-
+| [[Hugo Award]]
+| [[Hugo Award for Best Dramatic Presentation#Long Form|Best Dramatic Presentation, Long Form]]
+| ''Thor: Ragnarok'' ([[Eric Pearson]], [[Craig Kyle]], [[Christopher Yost]], [[Taika Waititi]])
+| {{nom}}
+| style="text-align:center;"|<ref>{{Cite web|url=http://www.thehugoawards.org/hugo-history/2018-hugo-awards/|title=2018 Hugo Awards|publisher=[[Hugo Award]]|accessdate=April 2, 2018|archiveurl=https://www.webcitation.org/query?url=http%3A%2F%2Fwww.thehugoawards.org%2Fhugo-history%2F2018-hugo-awards%2F&date=2018-04-02|archivedate=April 2, 2018|deadurl=no}}</ref>
+|-
+| rowspan="2" | [[2018 Teen Choice Awards|Teen Choice Awards]]
+| [[Teen Choice Award for Choice Movie – Sci-Fi/Fantasy|Choice Sci-Fi Movie]]
+| ''Thor: Ragnarok''
+| {{nom}}
+| rowspan="2" style="text-align:center;" |<ref>{{cite web|url=https://www.hollywoodreporter.com/lists/teen-choice-awards-2018-full-list-winners-1134169|title=Teen Choice Awards: Winners List|work=[[The Hollywood Reporter]]|date=August 12, 2018|accessdate=August 12, 2018|deadurl=no|archiveurl=https://web.archive.org/web/20180813030438/https://www.hollywoodreporter.com/lists/teen-choice-awards-2018-full-list-winners-1134169|archivedate=August 13, 2018|df=mdy-all}}</ref>
+|-
+| [[Teen Choice Award for Choice Movie Actor – Sci-Fi/Fantasy|Choice Sci-Fi Movie Actor]]
+| Chris Hemsworth
+| {{won}}
+
+|}
+
+==See also==
+*[[Thor in other media]]
+
+==Notes==
+{{reflist|group=N}}
+
+==References==
+{{Reflist|refs =
+<ref name="Thor budget">{{cite news|first=Pamela |last=McClintock |url=http://www.variety.com/article/VR1117942193 |title=Marvel Making Deals for Title Wave |work=Variety|date=April 27, 2006 |accessdate=March 1, 2008 |deadurl=bot: unknown |archiveurl=https://www.webcitation.org/5yMj0t8bu?url=http://www.variety.com/article/VR1117942193 |archivedate=May 1, 2011 |df= }}.</ref>
+
+<ref name="Mark P">{{cite news|last=Gire |first=Dann |url=http://www.dailyherald.com/story/?id=101019 |title=''I am Legend'' writer credits comics, horror films and pop culture |work=[[Daily Herald (Arlington Heights)|Daily Herald]] |date=December 23, 2007 |accessdate=March 2, 2008 |archiveurl=https://www.webcitation.org/5hKdYFyZv?url=http://www.dailyherald.com/story/?id=101019 |archivedate=June 6, 2009 |deadurl=no |df= }}</ref>
+
+<ref name="Fleming4">{{cite news|first=Michael |last=Fleming |url=http://www.variety.com/article/VR1117970012.html?categoryid=13&cs=1 |title=Matthew Vaughn to direct 'Thor' |work=Variety |date=August 9, 2007 |accessdate=May 28, 2009 |archiveurl=https://www.webcitation.org/5zxs6qEBY?url=http://www.variety.com/article/VR1117970012.html?categoryid=13 |archivedate=July 6, 2011 |deadurl=no |df= }}</ref>
+
+<ref name="rewrite">{{cite news|author=Vaughn, Matthew |title=My Week: Matthew Vaughn |work=[[The Guardian]] |date=October 7, 2007 |url=http://film.guardian.co.uk/news/story/0,,2185548,00.html |accessdate=October 8, 2007 |location=London |authorlink=Matthew Vaughn }}. [https://www.webcitation.org/5yMi1UY2j?url=http://www.guardian.co.uk/media/2007/oct/07/film.filmnews WebCitation archive].</ref>
+
+<ref name="Fleming5">{{cite news|first=Michael |last=Fleming |title=Branagh in talks to direct ''Thor'' |work=Variety|date=September 28, 2008 |url=http://www.variety.com/article/VR1117993032.html?categoryid=13&cs=1 |accessdate=September 29, 2008 |archiveurl=https://www.webcitation.org/5zxs9bFYL?url=http://www.variety.com/article/VR1117993032.html?categoryid=13 |archivedate=July 6, 2011 |deadurl=no |df= }}</ref>
+
+<ref name="Branagh">{{cite news|first=Josh |last=Horowitz |url=http://splashpage.mtv.com/2008/12/13/exclusive-kenneth-branagh-breaks-silence-on-thor-says-casting-talk-is-premature/ |title=EXCLUSIVE: Kenneth Branagh Breaks Silence On ‘Thor,’ Says Casting Talk Is Premature |publisher=MTV.com |date=December 13, 2008 |accessdate=December 13, 2008 |archiveurl=https://www.webcitation.org/5hKdYIOx8?url=http://splashpage.mtv.com/2008/12/13/exclusive-kenneth-branagh-breaks-silence-on-thor-says-casting-talk-is-premature/ |archivedate=June 6, 2009 |deadurl=no |df= }}</ref>
+
+<ref name="Craig">{{cite web|url=http://www.slashfilm.com/daniel-craig-turns-down-thor/ |title=Daniel Craig Turns Down Thor |last=Sciretta |first=Peter |publisher=[[/Film]] |date=October 21, 2008 |accessdate=May 7, 2015 |archiveurl=https://www.webcitation.org/6YLwzTEpO?url=http://www.slashfilm.com/daniel-craig-turns-down-thor/ |archivedate=May 7, 2015 |deadurl=no |df= }}</ref>
+
+<ref name="Hemsworth is Thor">{{cite news|author=Finke, Nikke |url=http://www.deadlinehollywooddaily.com/exclusive-chris-hemsworth-is-thor/ |title=Exclusive: Chris Hemsworth is Thor |website=[[Deadline Hollywood]] |date=May 16, 2009 |accessdate=May 19, 2009 |authorlink=Nikki Finke |archiveurl=https://www.webcitation.org/5yabdpEZ5?url=http://www.deadline.com/2009/05/exclusive-chris-hemsworth-is-thor/ |archivedate=May 11, 2011 |deadurl=no |df= }}</ref>
+
+<ref name="feigehemsworth">{{cite news|first=Alex |last=Billington |url=http://www.firstshowing.net/2009/06/07/profile-on-marvel-studios-with-big-updates-from-kevin-feige/ |title=Profile on Marvel Studios with Big Updates from Kevin Feige |publisher=Firstshowing.net |date=June 7, 2009 |accessdate=January 27, 2010 |archiveurl=https://www.webcitation.org/5zxsDMSuN?url=http://www.firstshowing.net/2009/06/07/profile-on-marvel-studios-with-big-updates-from-kevin-feige/ |archivedate=July 6, 2011 |deadurl=no |df= }}</ref>
+}}
+
+{{Thor}}
+{{Marvel Cinematic Universe}}
+{{portal bar|Marvel Cinematic Universe}}
+
+[[Category:Fictional characters introduced in 2011]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Superhero film characters]]
+[[Category:Thor (film series)]]

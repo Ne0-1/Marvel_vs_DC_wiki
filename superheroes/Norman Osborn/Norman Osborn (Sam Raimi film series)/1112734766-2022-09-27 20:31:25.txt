@@ -1,0 +1,336 @@
+{{Short description|Sam Raimi's Spider-Man film series and Marvel Cinematic Universe character}}
+{{Use American English|date=July 2022}}
+{{Use list-defined references|date=July 2022}}
+{{Use mdy dates|date=July 2022}}
+{{Good article}}
+{{Infobox character
+| color       = #003F2D
+| name        = Norman Osborn
+| franchise   = [[Sam Raimi]]'s ''[[Spider-Man (2002 film series)|Spider-Man]]'' and<br /> [[Marvel Cinematic Universe]]
+| image       = Green Goblin Spider-Man (2002).png
+| caption     = Norman Osborn as the Green Goblin in ''[[Spider-Man (2002 film)|Spider-Man]]'' (2002)
+| first       = ''[[Spider-Man (2002 film)|Spider-Man]]'' (2002)
+| last        = ''[[Spider-Man: No Way Home]]'' (2021)
+| based_on    = {{Based on|[[Norman Osborn]] /<br />[[Green Goblin]]|[[Stan Lee]]|[[Steve Ditko]]}}
+| adapted_by  = [[David Koepp]]
+| portrayer   = [[Willem Dafoe]]
+| alias       = Green Goblin
+| species     = Human [[mutate]]
+| nationality = American
+| affiliation = [[Oscorp (Sam Raimi film series)|Oscorp Industries]]
+| children    = [[Harry Osborn (Sam Raimi film series)|Harry Osborn]] (son)
+| occupation  = Scientist
+| title       = Doctor
+| weapon      = {{Plainlist|
+* Pumpkin bombs
+* Razor bats
+* Suit and glider
+}}
+}}
+
+'''Norman Osborn''' is a [[fictional character]] portrayed by [[Willem Dafoe]] in [[Sam Raimi]]'s [[Spider-Man (2002 film series)|''Spider-Man'' trilogy]] and later integrated into the [[Marvel Cinematic Universe]] (MCU) [[media franchise]]–based on the [[Marvel Comics]] character [[Norman Osborn|of the same name]]–also known by his [[Dissociative identity disorder|alternate identity]], the '''Green Goblin'''. Osborn is introduced in ''[[Spider-Man (2002 film)|Spider-Man]]'' (2002) as a wealthy industrialist who tests an unstable performance-enhancing serum on himself, developing [[superhuman strength]] and a crazed alternate personality. [[Green Goblin|The Goblin]], equipped with a glider and pumpkin bombs, engages in fights with the vigilante [[Peter Parker (Sam Raimi film series)|Spider-Man]], but ultimately dies with Osborn by being impaled by the glider.
+
+Returning in ''[[Spider-Man: No Way Home]]'' (2021) due to a spell rupturing the [[Multiverse (Marvel Cinematic Universe)|multiverse]], Osborn abandons his Goblin mask in an alternate reality to seek refuge in [[F.E.A.S.T.]], encountering that universe's [[Peter Parker (Marvel Cinematic Universe)|Peter Parker]]. He works together with Parker in curing the other universe-displaced visitors, including his colleague [[Otto Octavius (film character)|Otto Octavius]], before his mind is taken over by the Goblin, who kills Parker's aunt [[May Parker (Marvel Cinematic Universe)|May]]. After a duel with Parker on the [[Statue of Liberty]], Osborn is cured of the Goblin identity and is returned to his universe.
+
+A hallucination of Osborn appears in ''[[Spider-Man 2]]'' (2004) and ''[[Spider-Man 3]]'' (2007), haunting his son [[Harry Osborn (Sam Raimi film series)|Harry]]. Dafoe's portrayal has been praised by critics and audiences, being considered one of the most iconic villains in superhero films. Dafoe and Spider-Man actor [[Tobey Maguire]] hold the ''[[Guinness World Record]]'' for "the longest career as a live-action Marvel character."
+
+== Concept and creation ==
+The [[Green Goblin]] was originally  created by writer [[Stan Lee]] and artist [[Steve Ditko]], first appearing in ''[[The Amazing Spider-Man]]'' #14 (July 1964) as a character without a human identity unlike other [[Spider-Man]] villains,<ref name="TASM14" /> but the issue had suggested his identity would be revealed in the future; the Goblin revealed himself as [[Norman Osborn]] at the end of ''The Amazing Spider-Man'' #39 (June 1966), the first of a two-part story arc.<ref name="TASM39–40" /> The Goblin became one of Spider-Man's most popular enemies during the 1960s and was eventually [[kill off|killed off]] in the second part of "[[The Night Gwen Stacy Died]]" storyline (July 1973). The character resurfaces in ''[[The Clone Saga]]'' and has been [[Green Goblin in other media|adapted into other media]] separate from comics.
+
+While rewriting ''[[Spider-Man (2002 film)|Spider-Man]]'' (2002) from [[James Cameron]]'s original "[[scriptment]]", [[David Koepp]] added the Green Goblin as well as the character [[Doctor Octopus]] as a secondary antagonist.<ref name="Confidential" /> Director [[Sam Raimi]] felt the Green Goblin and the surrogate father-son theme between Norman Osborn and Peter Parker in the then-recent [[Ultimate Marvel]] comics was much more interesting than adding "a third complex [[origin story]]" to the film, so Doctor Octopus was removed by [[Scott Rosenberg]] (who was hired to rewrite Koepp's material) and eventually became the antagonist of ''[[Spider-Man 2]]'' (2004).<ref name="WeavingTheWeb" /><ref name="VarietySnaresScribe" />
+
+After being cast, [[Willem Dafoe]] concentrated on Osborn due to his belief that the Goblin was an aspect of Osborn and already made by external things like his costume and the film's special effects. Dafoe explained that Osborn was "a very complex character on the page", and that he could relate to him due to "[his] ambition and his desire for perfection and how that perverts so much of his relationship to people".<ref name="DafoeConcentration" /> During promotion for ''Spider-Man'', Dafoe came up for an idea to reintroduce Osborn via a hallucination of him haunting his son [[Harry Osborn (Sam Raimi film series)|Harry]], which he compared to [[Ghost (Hamlet)|the ghost]] of [[Hamlet]]'s father; he played the hallucination in ''Spider-Man 2'' and ''[[Spider-Man 3]]'' (2007).<ref name="DafoeHallucination" />
+
+=== ''Spider-Man: No Way Home'' ===
+{{Quote box|width=33%|align=right|quote={{Plainlist|
+* "The Goblin has to have been given a second chance and he was still doing what he was doing in the first movie [2002's ''[[Spider-Man (2002 film)|Spider-Man]]''], but in a darker way that now relates to our [[Peter Parker (Marvel Cinematic Universe)|Peter Parker]]." – [[Chris McKenna (writer)|Chris McKenna]] on Dafoe's Goblin in ''[[Spider-Man: No Way Home]]'' (2021)<ref name="GoblinPromoted" />
+* "Once it was collectively decided that we were going to take this swing, we had to commit and we had to do what was right for the story." – [[Erik Sommers]] on integrating past ''Spider-Man'' film characters<ref name="McKennaSommersDec2021THR" />}}
+|source=– ''No Way Home'' writers McKenna and Sommers
+}}
+
+[[Chris McKenna (writer)|Chris McKenna]] and [[Erik Sommers]] began exploring the idea of the [[Multiverse (Marvel Cinematic Universe)|multiverse]] and potentially revisiting characters from past ''Spider-Man'' films while writing the [[Marvel Cinematic Universe]] (MCU) film ''[[Spider-Man: No Way Home]]'' (2021). The duo ultimately decided to fully integrate the characters into the film and worked hard to prevent ''No Way Home'' from being "fan service" by using the returning characters to progress [[Peter Parker (Marvel Cinematic Universe)|Peter Parker]]'s (portrayed by [[Tom Holland]]) story.<ref name="McKennaSommersDec2021THR" /><ref name="McKennaSommersDec2021Variety" /> Osborn / Goblin was originally not the main villain of the film despite appearing as an antagonist, but was later realized that, after the film lost "other characters", McKenna and Sommers "had to" have him as the villain and rewrote the script to give him a second chance to replicate his actions in ''Spider-Man'', but in a darker way related to Holland's Spider-Man.<ref name="GoblinPromoted" /> Goblin would have fought alongside [[Otto Octavius (film character)|Otto Octavius / Doctor Octopus]] (portrayed by [[Alfred Molina]]) against Spider-Man in a scene on the [[Alexander Hamilton Bridge]]; Goblin's introduction was moved into a climactic explosion with his pumpkin bombs, not engaging with Octavius or Spider-Man—but does encounter them.<ref name="NWHVFXBreakdown" />
+
+Dafoe felt that the Green Goblin had advanced from his original portrayal and that Osborn and the Goblin had "a few more tricks up [their] sleeves" in ''No Way Home''.<ref name="ColliderNWHDesign" /> Dafoe was [[De-aging in film|digitally de-aged]] in order to replicate his 2002 likeness.<ref name="VFXVillains" /> To prevent his appearance in the film from leaking, Dafoe was required to wear cloaks around set with Holland learning of his involvement in the film by meeting him for the first time after accidentally bumping into him.<ref name="VillainsSetSecrecy" /> Green Goblin was confirmed to be in the film in the official teaser released in August 2021,<ref name="GoblinTrailer" /> with Dafoe confirmed in the official trailer released in November.<ref name="NWHConfirmation" />
+
+=== Casting ===
+[[File:Willem Dafoe Cannes.jpg|thumb|[[Willem Dafoe]] was contacted by [[Sam Raimi]] while he was filming in Spain, where Raimi described ''Spider-Man''{{'s}} story to him.]]
+After [[John Malkovich]] turned down the opportunity to take the role,<ref name="Malkovich" /> Dafoe was cast as Osborn / Goblin in November 2000;<ref name="DafoeIsGoblin" /> [[Kevin Spacey]] would have portrayed the Goblin in Cameron's unproduced ''Spider-Man'' film.<ref name="Spacey" />
+
+Raimi contacted Dafoe while the latter was filming in Spain and described the film's story to him in "such incredible psychological detail", talking about the relationships without the [[Peter Parker (Sam Raimi film series)|Spider-Man]] (portrayed by [[Tobey Maguire]])–Goblin story. Dafoe realized that Raimi was "not cynical about this story", deeply loving the characters and feeling "an obligation as a Spider-Man fan to present these characters truthfully".<ref name="DafoeRaimiTalk" /> Dafoe was initially hesitant to reprise the role, but was more open when producer [[Amy Pascal]] and director [[Jon Watts]] [[Pitch (filmmaking)|pitched]] ''No Way Home'' to him before he had received a script; he described this as "the same, but different".<ref name="DafoeVillainsPanel" /><ref name="ColliderNWHDesign" /> A rematch between Osborn and Maguire's Spider-Man was considered during the filming of ''No Way Home'', but was ultimately cut by the film's release.<ref name="NWHRematchCut" />
+
+== Characterization and themes ==
+[[File:Willem Dafoe as Norman Osborn.png|thumb|Willem Dafoe as Norman Osborn and Green Goblin in ''Spider-Man'', during the film's "mirror scene"]]
+Dafoe particularly enjoys the "mirror scene" depicting Osborn's conversation with the Goblin identity after murdering the [[Oscorp (Sam Raimi film series)|Oscorp]] board of directors; before filming the scene with Dafoe, Raimi gave him a copy of ''[[Jekyll and Hyde]]'' to prepare for the scene, which filmed in one take multiple times before Raimi split it. Dafoe further differentiated the two identities by wearing dental prosthetics providing Osborn's straight teeth, and using his natural crooked teeth when portraying the Goblin.<ref name="DafoeEnjoyment" /><ref name="DafoeGQ" />
+
+Norman Osborn is portrayed as a workaholic scientist–businessman with a complicated relationship with his son Harry, being a career-focused man who prioritizes science, business, and success and is quite disappointed with Harry. The Green Goblin is subsequently created through Osborn's exposure to gas, being portrayed as a violent, sadistic, and unhinged<ref name="DafoeEnjoyment" /> psychopath that believes his powers place him above normal people, attempting to recruit Spider-Man into joining him.
+
+The Goblin was introduced in early ''Spider-Man'' comics as an [[Dissociative identity disorder|alternate identity]] separate from Osborn, which was adapted to the films; however, later comics would depict the Goblin as a costumed [[Pseudonym|alias]] used by Osborn to commit his villainous deeds.<ref name="DafoeEnjoyment" />
+
+=== Thematic analysis ===
+''[[Gizmodo]]''{{'s}} James Whitbrook contrasts Maguire's Peter Parker / Spider-Man with Osborn / Goblin and [[James Franco]]'s Harry Osborn in the way they choose to exercise their power in the film series, as he notes Parker, Osborn, and Harry appear to hold some form of power. While Parker learns [[With great power comes great responsibility|the responsibility with his powers]], Osborn gives into fear of losing his position within Oscorp, choosing to pursue an alternate power in the Goblin, attacking his former colleagues and the people he cares about, namely Harry and Parker, while descending further into madness and insanity.<ref name="WhitbrookGizmodoAnalysis" /> Adam Rosenberg from ''[[Mashable]]'' opined that Dafoe "owned every single one of his scenes" as he "charted Osborn's experimental serum-fueled descent into madness", and that the actor's voice sounded similar to what a reader would hear in their head when reading a comic book villain's speech bubbles.<ref name="RosenbergMashableAnalysis" />
+
+The Goblin was felt by Oliver Vandervoort of ''Game Rant'' as "a bit more sinister" in ''No Way Home'' compared to his original portrayal, with the character being "a little darker and a little more dangerous" in the film.<ref name="VandervoortGRAnalysis" /> Praising the decision to have the character maskless in ''No Way Home'', James Troughton at ''[[The Gamer]]'' called Dafoe's facial expressions "viscerally unsettling", going from a "lost old man desperate for help" to an unhinged killer "as easy as slipping on a pair of gloves", crediting this as giving a slasher edge to a superhero film.<ref name="TroughtonGamerAnalysis" /> Writing for ''[[Screen Rant]]'', Jake Gleason credits ''No Way Home'' with revealing Osborn as the "most tragic character" in the ''Spider-Man'' films by showing his kindness in interactions with Holland's Parker, [[May Parker (Marvel Cinematic Universe)|May Parker]], and Octavius as himself. Osborn's reactions to the Goblin's crimes are cited by Gleason as "proof that he is not evil" despite being an "imperfect" father to Harry and letting his "arrogant ambitions spiral out of control".<ref name="GleasonSRAnalysis" />
+
+== Design ==
+{{Multiple image|perrow = 1|total_width = 300
+| image1            = OriginalGreenGoblin.jpg
+| width1            = <!-- displayed width of image; overridden by "width" above -->
+| image2            = Spider-Man No Way Home - Green Goblin Redesigns.jpg
+| width2            = <!-- displayed width of image; overridden by "width" above -->
+| footer            = Top: The original Goblin [[animatronic]] headgear, created by [[Amalgamated Dynamics]] for ''Spider-Man''<br />
+Bottom: The redesigned Goblin suits, as seen in ''Spider-Man: No Way Home''
+}}
+
+[[Amalgamated Dynamics]] created the original Goblin [[animatronic]] headgear for ''Spider-Man''. The suit was originally designed much more faithfully to the comics, allowed for a full range of emotions to be expressed by the wearer, was scrapped after the concept was deemed "too creepy" by studio executives and due to technical difficulties and time constraints.<ref name="OriginalDesignTHR" /><ref name="OriginalDesignSR" /><ref name="BehindTheScenes" /> Dafoe insisted on wearing the new, uncomfortable costume as he felt that a [[Stunt performer|stuntman]] would not convey the character's necessary body language. The 580-piece suit took half an hour to put on.<ref name="Hughes" /> Costume designer [[James Acheson]] said that Dafoe told him that he wanted the costume to be flexible enough for him to do splits, further explaining that Dafoe was a yogi and "probably the most flexible actor [Acheson] ever worked with". When they started designing the costume, there was only a puppet of the design and they "picked out the major points where [they] would be hooking wires up to a harness under the costume", which became the basis from which they could lift him from his back or hips as well as do "several different things on wires".<ref name="AchesonDafoeFlexible" /> Acheson also experimented with a potential helmet-like design for the suit, which was then scrapped.<ref name="Hughes" />
+
+In ''No Way Home'', the character obtains upgrades to his costume which make him more closely resemble his comic book counterpart.<ref name="ColliderNWHDesign" /> Goblin first appears wearing his 2002 costume before it is destroyed by Osborn. The upgraded costume is depicted with a purple undersuit beneath the green armor with the Goblin wearing goggles and having blades affixed to his armor. ''Screen Rant''{{'s}} Dan Zinski described the suit as tattered and noted the goal of the MCU's costume designs is "to find some middle ground" between the comic book version and the "more realistic".<ref name="SRNWHDesign" />
+
+== Fictional character biography ==
+Dr. Norman Osborn is a scientist and the founder of [[Oscorp (Sam Raimi film series)|Oscorp Industries]], doubling as CEO for the company. He is the father of [[Harry Osborn (Sam Raimi film series)|Harry Osborn]], with whom he has a strained relationship. Fellow scientist [[Otto Octavius (film character)|Otto Octavius]]'s work was funded by Osborn via Oscorp, but he was considered greedy and misguided by Octavius.{{refn|group=N|name=NWHRetcons|As [[Retroactive continuity|retroactively established]] in ''[[Spider-Man: No Way Home]]'' (2021).}} During a school field trip, Osborn is introduced to Harry's best friend [[Peter Parker (Sam Raimi film series)|Peter Parker]], whose intelligence impresses him.{{efn|name=SM1|As depicted in ''[[Spider-Man (2002 film)|Spider-Man]]'' (2002).}}
+
+=== Becoming the Green Goblin ===
+{{Further|Spider-Man (2002 film) {{!}} ''Spider-Man''}}
+After meeting Parker, Osborn returns to Oscorp and hears Dr. [[Mendel Stromm]] reveal to military officials overseeing a super-soldier serum project that some test subjects have gone insane; Osborn is threatened with a tight deadline and decides to experiment on himself. An alternate, crazed personality–the "Green Goblin"–of Osborn is developed by the process, who kills Stromm and the military officials and Quest Aerospace scientists present at the super-soldier test. However, Quest expands and assumes control of Oscorp, requesting Osborn to step down as CEO. During a festival in [[Times Square]], the Goblin kills the Oscorp board of directors, encountering Spider-Man in the festival. The Goblin leads his next attack at the ''[[Daily Bugle]]'' editor-in-chief [[J. Jonah Jameson (film character)|J. Jonah Jameson]] for who takes pictures of Spider-Man. Spider-Man appears at the ''Bugle'', but is kidnapped by the Goblin, who offers him a partnership and belittles his choice to become a hero, warning that the city will eventually turn against him. The Goblin baits Spider-Man to a burning apartment, asking if he accepted his offer, but Spider-Man refuses to partner with him.
+
+After [[Thanksgiving]] dinner with Parker, his [[aunt May]], Harry, and his girlfriend [[Mary Jane Watson (Sam Raimi film series)|Mary Jane Watson]], Osborn deduces Parker is Spider-Man,{{efn|After deducing Parker's dual identity, Osborn is transported to the [[Marvel Cinematic Universe]] (MCU) due to the events of the MCU film ''[[Spider-Man: No Way Home]]'' (2021).<ref name="MCUTransport" />}} prompting the Goblin to attack and hospitalize May, and kidnap Watson. The Goblin makes Spider-Man choose whether to save Watson or a [[Roosevelt Island Tramway]] car full of children, but he saves both. The Goblin lands in an abandoned building and brutally beats Spider-Man, but is counterattacked. The Goblin thinks to fool Parker by unmasking himself as Osborn, with Osborn stating that Parker was like a son to him while the Goblin attempts to impale Parker with the glider. The latter dodges, causing the glider to fatally stab Osborn, who tells Parker not to tell Harry about the Goblin's actions as he dies.
+
+=== Harry's hallucinations ===
+{{Further|Spider-Man 2 {{!}} ''Spider-Man 2'' |Spider-Man 3 {{!}} ''Spider-Man 3''}}
+At Osborn's funeral, Harry mourns the loss, vowing vengeance on Spider-Man after witnessing him bring Osborn's body dead;{{efn|name=SM1}} Octavius also attends his funeral. Following his death, Osborn's identity as the Green Goblin and death are widely reported on.{{refn|group=N|name=NWHRetcons}} Two years later, Harry discovers Parker's identity as Spider-Man and is haunted by a hallucination of Osborn demanding to be avenged, but the hallucination's mirror is broken by Harry, who discovers a hidden lair containing Goblin's arsenal. Harry becomes the "New Goblin" a year later, with Osborn re-appearing to remind Harry to avenge him and to go after Parker's heart. Harry eventually learns the truth about Osborn's death and gives up his vendetta against Spider-Man, sacrificing himself to save Parker.
+
+=== Entering an alternate reality ===
+{{Further|Spider-Man: No Way Home {{!}} ''Spider-Man: No Way Home''}}
+<!-- "Parker" refers to Peter-Two. "Peter-One" refers to the Parker in the MCU. -->
+After deducing Spider-Man's identity,{{efn|name=SM1}} Osborn is transported to an alternate reality, where the Goblin encounters the reality's [[Peter Parker (Marvel Cinematic Universe)|Peter Parker]] (later nicknamed "Peter-One") and Octavius at the [[Alexander Hamilton Bridge]]. Osborn retakes control and breaks the Goblin's mask in an alley, seeking refuge in [[F.E.A.S.T.]] after seeing an ad for Spider-Man there. Osborn meets the alternate [[May Parker (Marvel Cinematic Universe)|May Parker]], who calls in Peter-One; Osborn realizes that Peter-One is not his Parker, but goes with him to the [[New York Sanctum]] to its undercroft. Osborn reunites with Octavius, but learns from [[Flint Marko (Sam Raimi film series)|Flint Marko]] that they both died during their final fight with Spider-Man. Osborn works with Peter-One to cure him, Octavius, Marko, [[Curt Connors (The Amazing Spider-Man film series)|Curt Connors]], and [[Max Dillon (The Amazing Spider-Man film series)|Max Dillon]].
+
+After Peter-One cures Octavius, the Goblin retakes control of Osborn's mind and turns on Peter-One, engaging in a duel with him across [[Happy Hogan (Marvel Cinematic Universe)|Happy Hogan]]'s apartment. In the lobby, the Goblin summons his glider and throws pumpkin bombs, causing the apartment to explode. The glider fatally strikes May before he escapes. After Marko, Dillon, and Connors are cured with the help of Octavius, the Goblin attacks and destroys a contained spell–which had previously caused him, Octavius, and the latters to transport from their universes–from its original caster [[Stephen Strange (Marvel Cinematic Universe)|Doctor Strange]]; the destruction causes the barriers between universes to break, prompting Strange to try to seal them. An enraged Peter-One nearly kills the Goblin but is stopped by an older version of Osborn's Parker (nicknamed "Peter-Two"), whom the Goblin stabs. Peter-One injects the Goblin with a cure Parker developed, restoring him to a remorseful Norman Osborn. Afterwards, Strange casts a spell to make the alternate reality forget Peter-One's existence, causing Osborn, Parker, Octavius, and Marko to return to their universe.
+
+== In other media ==
+* Norman Osborn / Green Goblin appears in the video game adaptation of the first film, ''[[Spider-Man (2002 video game)|Spider-Man]]'' (2002), with Dafoe reprising his role from the film.<ref name="CBRGame" /><ref name="GRGame" />
+* The video game ''[[Spider-Man: Friend or Foe]]'' (2007) explores an alternate timeline where the ''Spider-Man'' film villains survived their deaths–including Osborn / Goblin (voiced by [[Roger L. Jackson]]), who becomes [[Playable character|playable]] in the game.
+
+== Reception and legacy ==
+[[File:Willem Dafoe Cannes 2019.jpg|thumb|Dafoe's portrayal of the character in ''Spider-Man'' and ''No Way Home'' has been widely praised by critics and audiences, considered one of the most iconic villains in superhero films.]]
+Dafoe's performance has been praised by critics and audiences, with Dafoe himself calling the role one of his favorite parts to play, having particularly enjoyed portraying the unhinged character due to his dual personalities and his balance between a dramatic and comedic performance.<ref name="DafoeGQ" /> Dafoe's ''No Way Home'' co-stars Holland, [[Jamie Foxx]], and [[Andrew Garfield]] praised his performance as well as his cackle;<ref name="NWHSpecialFeatures" /> Foxx had also called his Green Goblin performance "terrifying" and "personal".<ref name="DafoeVillainsPanel" /> Holland and his [[Spider-Man (2017 film series)|MCU ''Spider-Man'' films]] co-star [[Jacob Batalon]] called Goblin "a landmark villain", praising Dafoe's ability "to bring a difficult character to life" and particularly the mirror scene, before filming ''No Way Home'';<ref name="HollandBatalon" /> Holland had believed the Goblin "[was] difficult to pull off in live-action" in August 2019, a year before his praises with Batalon.<ref name="HollandDifficult" />
+
+A ''[[New York Daily News]]'' reviewer felt Dafoe put the "scare in archvillain", and [[Peter Bradshaw]] of ''[[The Guardian]]'' deemed him "strong support";<ref name="NYDailyNews" /><ref name="BradshawGuardian" /> Conversely, critic [[A. O. Scott]] of ''[[The New York Times]]'' wrote that Dafoe's performance was "uninspired and secondhand".<ref name="ScottNYTimes" /> While reviewing the films in April 2007, ''[[IGN]]''{{'s}} Richard George commented that Green Goblin's armor, particularly the helmet, was "almost comically bad... Not only is it not frightening, it prohibits expression".<ref name="GeorgeIGN" /> Steven Scaife at ''[[Vice (magazine)|Vice]]'' wrote that Dafoe's Goblin "represents everything that’s fun about superhero villains, as well as everything that’s great about Raimi's campy films", also commending Dafoe's voice and body language, which helped overcome the bulky Green Goblin costume that he compared to that of a ''[[Power Rangers]]'' villain.<ref name="ScaifeVice" /> Dafoe's Goblin is acclaimed as one of the greatest superhero film villains, with ''[[Vulture (website)|Vulture]]'' ranking the character 19th on the top 25 superhero film villains in 2018,<ref name="VultureRanking" /> while ''[[Collider (website)|Collider]]'' ranked him the 5th greatest Spider-Man film villain in 2020.<ref name="ColliderRanking" />
+
+''The Lantern''{{'s}} Brett Price wrote that Dafoe was "on another level" in ''No Way Home'' and not having his mask made him even more intimidating than he was in the 2002 film.<ref name="PriceLanternNWH" /> [[Peter Travers]] of ''[[Good Morning America]]'' and Jade King at ''The Gamer'' praised Dafoe and Molina, with King asserting that the two "stole the show as Green Goblin and Doc Ock" and described the depictions as brilliant.<ref name="TraversGMANWH" /><ref name="KingGamerNWH" /> Amelia Emberwing of ''[[IGN]]'' praised the performances of Dafoe, Molina, and Foxx in ''No Way Home'',<ref name="EmberwingIGNNWH" /> while ''Vulture''{{'s}} Bilge Ebiri said Dafoe "once again gets to have some modest fun with his character's divided self".<ref name="EbiriVultureNWH" />
+
+=== Legacy ===
+After Spider-Man had joined the MCU and [[Sony Pictures]] partnered with [[Marvel Studios]] to co-produce ''Spider-Man'' films, Pascal spoke in August 2016<!-- Interview conducted in August 2016, published in April 2017 --> of an attempt to differentiate the new Spider-Man films from previous ones, citing the Goblin's exclusion, "I mean, I don't know how many more times we can do – at least for now – I don't know how many more times we can do the Green Goblin. I've certainly tried to do it fifty".<ref name="PascalAvoid" /> Similarly, Marvel Studios president [[Kevin Feige]] reflected that the MCU ''Spider-Man'' films chose to not reuse ''Spider-Man'' characters or elements, outside of the major ones, that were already adapted in previous Sony films, saying "it never occurred to us to do a new Goblin story, or to do an Oscorp story, or to do Doc Ock, or anyone that had been done before".<ref name="FeigeAvoid" />
+
+Osborn's line "you know, I'm something of a scientist myself", which became an [[internet meme]] in the years preceding the release of ''No Way Home'', was reprised during the film.<ref name="ScientistMyselfNWH" /> ''Screen Rant''{{'s}} Dustin Brewer claimed the "sparing" use of Goblin in ''Spider-Man'' influenced the usage of villains in later superhero films such as the [[Joker (The Dark Knight)|Joker]] in ''[[The Dark Knight (film)|The Dark Knight]]'' (2008), furthering that this approach enables villains to "come and go more sporadically, giving them the ability to cause maximum mayhem every time they come on screen".<ref name="GoblinInfluence" />
+
+=== Accolades ===
+{{See also|List of accolades received by the 2002–2007 Spider-Man film series {{!}} List of accolades received by the 2002–2007 ''Spider-Man'' film series|List of accolades received by Spider-Man: No Way Home {{!}} List of accolades received by ''Spider-Man: No Way Home''}}
+Dafoe has received several nominations, mostly in a "Best Villain" category, for his portrayal of Norman Osborn / Green Goblin; Dafoe's only win was a [[Critics' Choice Super Awards|Critics' Choice Super Award]] in 2022 for his ''No Way Home'' performance. Separate from their film accolades, Dafoe and Maguire hold the ''[[Guinness World Record]]'' for "the longest career as a live-action Marvel character."<ref name="GWRLongestCareer" />
+{| class="wikitable plainrowheaders sortable"
+|-
+! scope="col" | Year
+! scope="col" | Film
+! scope="col" | Award
+! scope="col" | Category
+! scope="col" | Recipient(s)
+! scope="col" | Result
+! scope="col" class="unsortable" | {{Abbr|Ref(s)|Reference(s)}}
+|-
+| rowspan="2" | 2003
+| rowspan="2" | ''[[Spider-Man (2002 film)|Spider-Man]]''
+| rowspan="2" | [[MTV Movie Awards]]
+| [[MTV Movie Award for Best Villain|Best Villain]]
+| [[Willem Dafoe]]
+| {{Nom}}
+| style="text-align:center;" rowspan="2" | <ref name="2003MTVAwards" />
+|-
+| Best Fight
+| Willem Dafoe{{efn|Shared with [[Tobey Maguire]].}}
+| {{Nom}}
+|-
+| rowspan="3" | 2022
+| rowspan="3" | ''[[Spider-Man: No Way Home]]''
+| [[Seattle Film Critics Society]]
+| Villain of the Year
+| rowspan="3" | Willem Dafoe
+| {{nom}}
+| <ref name="SeattleFCSAward" />
+|-
+| [[Critics' Choice Super Awards]]
+| Best Villain in a Movie
+| {{won}}
+| <ref name="CriticsCSAAward" />
+|-
+| [[MTV Movie & TV Awards]]
+| Best Villain
+| {{nom}}
+| <ref name="2022MTVAwards" />
+|}
+
+== Notes ==
+{{Notelist}}
+{{Reflist|group=N}}
+
+== References ==
+{{Reflist|refs=
+
+<ref name="TASM14">{{Cite comic |writer=[[Stan Lee]] |artist=[[Steve Ditko]] |title=[[The Amazing Spider-Man]] |issue=14 |story=The Grotesque Adventure of the Green Goblin! |date=July 1964}}</ref>
+
+<ref name="TASM39–40">{{Cite comic |writer=[[Stan Lee]] |artist=[[John Romita Sr.]] |title=[[The Amazing Spider-Man]] |issue=39–40 |story=How Green Was My Goblin" – "Spidey Saves the Day! Featuring: The End of the Green Goblin |date=June–July 1966}}</ref>
+
+<ref name="Confidential">{{Cite book |last=Gross |first=Edward |title=Spider-Man Confidential |date=May 2002 |publisher=[[Hyperion (publisher)|Hyperion]] |isbn=0-7868-8722-2 |pages=208–209}}</ref>
+
+<ref name="WeavingTheWeb">{{Cite AV media |title=Subtitled Factoids: Weaving the Web |type=DVD |publisher=Sony |year=2002}}</ref>
+
+<ref name="VarietySnaresScribe">{{Cite web |last=Brodesser |first=Claude |date=June 16, 2000 |title=''Spider-Man'' snares scribe |url=https://variety.com/2000/film/news/inside-moves-203-1117782713/ |url-status=live |archive-url=https://web.archive.org/web/20220420035902/https://variety.com/2000/film/news/inside-moves-203-1117782713/ |archive-date=April 20, 2022 |access-date=January 22, 2007 |website=[[Variety (magazine)|Variety]]}}</ref>
+
+<ref name="Malkovich">{{Cite web |last=Chau |first=Thomas |date=November 6, 2000 |title=Malkovich Says No To Spidey |url=http://www.scifi.com/scifiwire/art-main.html?2000-11/06/10.00.film |url-status=live |archive-url=https://web.archive.org/web/20071012144659/http://scifi.com/scifiwire/art-main.html?2000-11%2F06%2F10.00.film |archive-date=October 12, 2007 |access-date=January 23, 2007 |website=[[Syfy Wire]]}}</ref>
+
+<ref name="Spacey">{{Cite web |last=Chapman |first=Tom |date=May 3, 2022 |title=''Spider-Man''{{'s}} Green Goblin is still the best on-screen supervillain 20 years on |url=https://www.radiotimes.com/movies/spider-man-20-anniversary-green-goblin/ |url-status=live |archive-url=https://web.archive.org/web/20220503135056/https://www.radiotimes.com/movies/spider-man-20-anniversary-green-goblin/ |archive-date=May 3, 2022 |access-date=May 5, 2022 |website=[[Radio Times]]}}</ref>
+
+<ref name="DafoeIsGoblin">{{Cite web |last=KGB |date=November 17, 2000 |title=More ''Spider-Man'' Casting News: Dafoe Is Green Goblin |url=http://movies.ign.com/articles/034/034471p1.html |archive-url=https://web.archive.org/web/20071018202909/http://movies.ign.com/articles/034/034471p1.html |archive-date=October 18, 2007 |access-date=January 23, 2007 |website=[[IGN]]}}</ref>
+
+<ref name="DafoeRaimiTalk">{{Cite web |last=Hottram |first=James |date=May 9, 2002 |title=Willem Dafoe |url=https://www.bbc.co.uk/films/2002/05/09/willem_dafoe_spiderman_interview.shtml |url-status=live |archive-url=https://web.archive.org/web/20220420041555/https://www.bbc.co.uk/films/2002/05/09/willem_dafoe_spiderman_interview.shtml |archive-date=April 20, 2022 |access-date=April 20, 2022 |website=[[BBC]]}}</ref>
+
+<ref name="DafoeConcentration">{{Cite web |last=Rentilly |first=J. |date=June 8, 2002 |title=Webbed Feat |url=https://www.theguardian.com/film/interview/interviewpages/0,6737,729240,00.html |url-status=live |archive-url=https://web.archive.org/web/20220328233506/https://www.theguardian.com/film/interview/interviewpages/0,6737,729240,00.html |archive-date=March 28, 2022 |access-date=April 20, 2022 |website=[[The Guardian]]}}</ref>
+
+<ref name="DafoeHallucination">{{Cite web |last=Otto |first=Jeff |date=June 25, 2004 |title=Spidey 2 Talk |url=http://uk.movies.ign.com/articles/527/527428p1.html |url-status=live |archive-url=https://web.archive.org/web/20120518000453/http://uk.movies.ign.com/articles/527/527428p1.html |archive-date=May 18, 2012 |access-date=April 30, 2007 |website=[[IGN]]}}</ref>
+
+<ref name="Hughes">{{Cite book |last=David Hughes |title=Comic Book Movies |publisher=[[Virgin Books]] |year=2003 |isbn=0-7535-0767-6 |location=London |pages=235–241}}</ref>
+
+<ref name="DafoeGQ">{{Cite AV media |url=https://www.youtube.com/watch?v=jiMguaZQREUt=202s |title=''Willem Dafoe Breaks Down His Most Iconic Characters {{!}} GQ'' |date=February 15, 2019 |type=video |language=en |access-date=April 17, 2022 |via=[[YouTube]]}}</ref>
+
+<ref name="DafoeEnjoyment">{{Cite web |last=Holmes |first=Adam |date=February 19, 2019 |title=Willem Dafoe Really Loved Playing The Green Goblin In ''Spider-Man'' |url=https://www.cinemablend.com/news/2467144/willem-dafoe-really-loved-playing-the-green-goblin-in-spider-man |url-status=live |archive-url=https://web.archive.org/web/20200620044024/https://www.cinemablend.com/news/2467144/willem-dafoe-really-loved-playing-the-green-goblin-in-spider-man |archive-date=June 20, 2020 |access-date=August 25, 2020 |website=[[CinemaBlend]]}}</ref>
+
+<ref name="OriginalDesignTHR">{{Cite web |last=Parker |first=Ryan |date=July 8, 2017 |title=''Spider-Man'': Willem Dafoe's Original Green Goblin Mask Was Amazing |url=https://www.hollywoodreporter.com/heat-vision/spider-man-willem-dafoes-original-green-goblin-mask-was-amazing-1019532 |url-status=live |archive-url=https://web.archive.org/web/20181004190007/https://www.hollywoodreporter.com/heat-vision/spider-man-willem-dafoes-original-green-goblin-mask-was-amazing-1019532 |archive-date=October 4, 2018 |access-date=October 4, 2018 |website=[[The Hollywood Reporter]]}}</ref>
+
+<ref name="OriginalDesignSR">{{Cite web |last=Lammers |first=Timothy |date=July 9, 2017 |title=''Spider-Man''{{'s}} Green Goblin Mask Was Originally Far More Comic Accurate |url=https://screenrant.com/raimi-spider-man-green-goblin-accurate-mask-dafoe/ |url-status=live |archive-url=https://web.archive.org/web/20181004185734/https://screenrant.com/raimi-spider-man-green-goblin-accurate-mask-dafoe/ |archive-date=October 4, 2018 |access-date=October 4, 2018 |website=[[Screen Rant]]}}</ref>
+
+<ref name="BehindTheScenes">{{Cite web |last=Hutchinson |first=Sam |date=June 1, 2020 |title=Spider-Sense: 10 Behind-The-Scenes Details Of Sam Raimi Trilogy Fans Never Knew |url=https://screenrant.com/spider-man-sam-raimi-tobey-maguire-trilogy-trivia/ |url-status=live |archive-url=https://web.archive.org/web/20200618102014/https://screenrant.com/spider-man-sam-raimi-tobey-maguire-trilogy-trivia/ |archive-date=June 18, 2020 |access-date=August 25, 2020 |website=[[Screen Rant]] |language=en-US}}</ref>
+
+<ref name="AchesonDafoeFlexible">{{Cite web |last=Dretzka |first=Gary |date=May 3, 2002 |title=Dafoe's Role as Green Goblin Isn't the Stretch It Might Seem |url=https://www.latimes.com/archives/la-xpm-2002-may-03-et-dretzka3-story.html |url-status=live |archive-url=https://web.archive.org/web/20210825094426/https://www.latimes.com/archives/la-xpm-2002-may-03-et-dretzka3-story.html |archive-date=August 25, 2021 |access-date=April 26, 2022 |website=[[Los Angeles Times]]}}</ref>
+
+<ref name="McKennaSommersDec2021Variety">{{Cite web |last=Vary |first=Adam B. |date=December 29, 2021 |title=''Spider-Man: No Way Home'' Screenwriters Explain All Those Surprises and Spoilers: 'This Wasn't Just Fan Service' |url=https://variety.com/2021/film/news/spider-man-no-way-home-spoilers-tobey-maguire-andrew-garfield-aunt-may-1235144617/ |url-status=live |archive-url=https://web.archive.org/web/20211230174523/https://variety.com/2021/film/news/spider-man-no-way-home-spoilers-tobey-maguire-andrew-garfield-aunt-may-1235144617/ |archive-date=December 30, 2021 |access-date=December 30, 2021 |website=[[Variety (magazine)|Variety]]}}</ref>
+
+<ref name="McKennaSommersDec2021THR">{{Cite web |last=Couch |first=Aaron |date=December 29, 2021 |title=How ''Spider-Man: No Way Home'' Was "Shaped" by Its Secret Stars |url=https://www.hollywoodreporter.com/movies/movie-features/spider-man-no-way-home-andrew-garfield-tobey-maguire-1235068153/ |url-status=live |archive-url=https://web.archive.org/web/20211230001218/https://www.hollywoodreporter.com/movies/movie-features/spider-man-no-way-home-andrew-garfield-tobey-maguire-1235068153/ |archive-date=December 29, 2021 |access-date=December 29, 2021 |website=[[The Hollywood Reporter]]}}</ref>
+
+<ref name="GoblinPromoted">{{Cite AV media |url=https://www.youtube.com/watch?v=JlYOSYSr5ZA |title=''Screenwriters Chris McKenna and Erik Sommers on surprises of'' Spider-Man: No Way Home |date=January 21, 2022 |last=Gold Derby |author-link=Gold Derby |access-date=April 8, 2022 |via=[[YouTube]]}}</ref>
+
+<ref name="NWHVFXBreakdown">{{Cite AV media |url=https://www.youtube.com/watch?v=DdhLBZpIq2c |title=''How'' Spider-Man: No Way Home ''Visual Effects Were Made {{!}} Vanity Fair'' |date=March 18, 2022 |last=''[[Vanity Fair (magazine)|Vanity Fair]]'' |type=video |language=en |access-date=April 21, 2022 |via=[[YouTube]]}}</ref>
+
+<ref name="DafoeVillainsPanel">{{Cite AV media |url=https://www.youtube.com/watch?V=oKzWmAehB0c |title=Spider-Man: No Way Home ''- Villains Panel'' |date=December 5, 2021 |type=video |language=en |access-date=April 19, 2022 |via=[[YouTube]] and [[CCXP]]}}</ref>
+
+<ref name="NWHRematchCut">{{Cite web |last=Miller |first=David |date=March 13, 2022 |title=''No Way Home''{{'s}} Cut Tobey Maguire & Green Goblin Rematch Is Disappointing |url=https://screenrant.com/no-way-home-maguire-green-goblin-fight-cut-bad/ |url-status=live |archive-url=https://web.archive.org/web/20220313174831/https://screenrant.com/no-way-home-maguire-green-goblin-fight-cut-bad/ |archive-date=March 13, 2022 |access-date=May 24, 2022 |website=[[Screen Rant]]}}</ref>
+
+<ref name="ColliderNWHDesign">{{Cite web |last=Sternberg |first=Sabrina |date=December 5, 2021 |title=''Spider-Man: No Way Home'': New Footage Gives Closer Look at Willem Dafoe's New Green Goblin Suit |url=https://collider.com/spider-man-no-way-home-green-goblin-suit-willem-dafoe/ |url-status=live |archive-url=https://web.archive.org/web/20211206092032/https://collider.com/spider-man-no-way-home-green-goblin-suit-willem-dafoe/ |archive-date=December 6, 2021 |access-date=December 6, 2021 |website=[[Collider (website)|Collider]]}}</ref>
+
+<ref name="SRNWHDesign">{{Cite web |last=Zinski |first=Dan |date=December 20, 2021 |title=''No Way Home'' Concept Art Shows Hidden Details Of New Green Goblin Costume |url=https://screenrant.com/spiderman-no-way-home-green-goblin-concept-art/ |url-status=live |archive-url=https://web.archive.org/web/20211220225709/https://screenrant.com/spiderman-no-way-home-green-goblin-concept-art/ |archive-date=December 20, 2021 |access-date=April 23, 2022 |website=[[Screen Rant]]}}</ref>
+
+<ref name="VFXVillains">{{Cite web |last=Giardina |first=Carolyn |date=January 7, 2022 |title=How ''Spider-Man: No Way Home'' VFX Team Brought Back Villains From the Multiverse |url=https://www.hollywoodreporter.com/movies/movie-features/spider-man-no-way-home-vfx-villains-reunion-1235069915/ |url-status=live |archive-url=https://web.archive.org/web/20220109052643/https://www.hollywoodreporter.com/movies/movie-features/spider-man-no-way-home-vfx-villains-reunion-1235069915/ |archive-date=January 9, 2022 |access-date=January 9, 2022 |website=[[The Hollywood Reporter]]}}</ref>
+
+<ref name="VillainsSetSecrecy">{{Cite web |last=Oddo |first=Marco Vito |date=November 23, 2021 |title=Tom Holland Reveals How ''No Way Home'' Kept the Returning Villains a Secret |url=https://collider.com/spider-man-no-way-home-villains-secret-explained-tom-holland/ |url-status=live |archive-url=https://web.archive.org/web/20211124033954/https://collider.com/spider-man-no-way-home-villains-secret-explained-tom-holland/ |archive-date=November 24, 2021 |access-date=November 30, 2021 |website=[[Collider (website)|Collider]]}}</ref>
+
+<ref name="GoblinTrailer">{{Cite web |last=Donnelly |first=Matt |date=August 23, 2021 |title=''Spider-Man: No Way Home'' Trailer Officially Drops, Multiverse Villains Descend on Tom Holland |url=https://variety.com/2021/film/news/spider-man-no-way-home-trailer-leak-official-1234968950/ |url-status=live |archive-url=https://web.archive.org/web/20210824020848/https://variety.com/2021/film/news/spider-man-no-way-home-trailer-leak-official-1234968950/ |archive-date=August 23, 2021 |access-date=August 23, 2021 |website=[[Variety (magazine)|Variety]]}}</ref>
+
+<ref name="NWHConfirmation">{{Cite magazine |last=Coggan |first=Devan |date=November 16, 2021 |title=New ''Spider-Man: No Way Home'' trailer swings headfirst into the multiverse |url=https://ew.com/movies/spider-man-no-way-home-new-trailer/ |url-status=live |archive-url=https://web.archive.org/web/20211117024812/https://ew.com/movies/spider-man-no-way-home-new-trailer/ |archive-date=November 17, 2021 |access-date=November 16, 2021 |magazine=[[Entertainment Weekly]]}}</ref>
+
+<ref name="MCUTransport">{{Cite web |last=Hammond |first=Pete |date=December 13, 2021 |title=''Spider-Man: No Way Home'' Review: The Most Exciting, Surprising And Emotional Spidey Of Them All |url=https://deadline.com/2021/12/spider-man-no-way-home-review-1234890632/ |url-status=live |archive-url=https://web.archive.org/web/20211214084636/https://deadline.com/2021/12/spider-man-no-way-home-review-1234890632/ |archive-date=December 14, 2021 |access-date=December 14, 2021 |website=[[Deadline Hollywood]]}}</ref>
+
+<ref name="WhitbrookGizmodoAnalysis">{{Cite web |last=Whitbrook |first=James |date=August 2, 2020 |title=Sam Raimi's ''Spider-Man'' is a Cautionary Tale About the Power Men Wield |url=https://www.gizmodo.co.uk/2020/08/sam-raimis-spider-man-is-a-cautionary-tale-about-the-power-men-wield/ |url-status=live |archive-url=https://web.archive.org/web/20200805081353/https://www.gizmodo.co.uk/2020/08/sam-raimis-spider-man-is-a-cautionary-tale-about-the-power-men-wield/ |archive-date=August 5, 2020 |access-date=August 25, 2020 |website=[[Gizmodo]]}}</ref>
+
+<ref name="RosenbergMashableAnalysis">{{Cite web |last=Rosenberg |first=Adam |date=December 19, 2021 |title=Willem Dafoe is and always was the best ''Spider-Man'' movie villain |url=https://mashable.com/article/spider-man-no-way-home-willem-dafoe-best-villain |url-status=live |archive-url=https://web.archive.org/web/20211219203341/https://mashable.com/article/spider-man-no-way-home-willem-dafoe-best-villain |archive-date=December 19, 2021 |access-date=May 10, 2022 |website=[[Mashable]]}}</ref>
+
+<ref name="VandervoortGRAnalysis">{{Cite web |last=Vandervoort |first=Oliver |date=December 24, 2021 |title=''Spider-Man: No Way Home'' Proves That Green Goblin Remains Spidey's Ultimate Nemesis |url=https://gamerant.com/spiderman-no-way-home-proves-green-goblin-ultimate-nemesis/ |url-status=live |archive-url=https://web.archive.org/web/20211225004913/https://gamerant.com/spiderman-no-way-home-proves-green-goblin-ultimate-nemesis/ |archive-date=December 25, 2021 |access-date=April 29, 2022 |website=Game Rant}}</ref>
+
+<ref name="TroughtonGamerAnalysis">{{Cite web |last=Troughton |first=James |date=December 20, 2021 |title=''Spider-Man: No Way Home'' Puts Dafoe's Goblin Back On Top |url=https://www.thegamer.com/spider-man-no-way-home-green-goblin-willem-dafoe |url-status=live |archive-url=https://web.archive.org/web/20211220150837/https://www.thegamer.com/spider-man-no-way-home-green-goblin-willem-dafoe |archive-date=December 20, 2021 |access-date=April 29, 2022 |website=[[The Gamer]]}}</ref>
+
+<ref name="GleasonSRAnalysis">{{Cite web |last=Gleason |first=Jake |date=January 2, 2022 |title=''No Way Home''{{'s}} Green Goblin Is A Villain (But Norman Osborn Isn't) |url=https://screenrant.com/spiderman-no-way-home-green-goblin-villain-not-norman-osborn/ |url-status=live |archive-url=https://web.archive.org/web/20220102135029/https://screenrant.com/spiderman-no-way-home-green-goblin-villain-not-norman-osborn/ |archive-date=January 2, 2022 |access-date=April 7, 2022 |website=[[Screen Rant]]}}</ref>
+
+<ref name="CBRGame">{{Cite web |last=Stone |first=Sam |date=May 1, 2019 |title=''Spider-Man'': Why the 2002 Video Game Is A Secret Marvel Masterpiece |url=https://www.cbr.com/spider-man-2002-video-game/ |url-status=live |archive-url=https://web.archive.org/web/20201029183502/https://www.cbr.com/spider-man-2002-video-game/ |archive-date=October 29, 2020 |access-date=April 19, 2022 |website=[[Comic Book Resources]] |quote=While it wasn't Spider-Man's first 3D game, this tie-in to director Sam Raimi's first ''Spider-Man'' film starring Tobey Maguire expanded the world of Raimi's trilogy significantly. It also firmly built on the foundation for all future 3D titles starring Spider-Man and featured Maguire and Willem Dafoe reprising their roles from the movie.}}</ref>
+
+<ref name="GRGame">{{Cite web |last=West |first=Josh |date=February 19, 2022 |title=10 best Spider-Man games of all-time, ranked |url=https://www.gamesradar.com/best-spiderman-games/ |url-status=live |archive-url=https://web.archive.org/web/20220219174638/https://www.gamesradar.com/best-spiderman-games/ |archive-date=February 19, 2022 |access-date=April 19, 2022 |website=[[GamesRadar+]] |quote=...''Spider-Man: The Movie'' was a surprisingly good time. You get Tobey Maguire and Willem Dafoe reprising their roles as Spider-Man and Green Goblin, ...}}</ref>
+
+<ref name="NYDailyNews">{{Cite web |last=Mathews |first=Jack |date=May 3, 2002 |title=What A Wondrous Web They Weave |url=http://www.nydailynews.com/archives/nydn-features/wondrous-web-weave-article-1.479105 |url-status=live |archive-url=https://web.archive.org/web/20180412082020/http://www.nydailynews.com/archives/nydn-features/wondrous-web-weave-article-1.479105 |archive-date=April 10, 2018 |access-date=April 10, 2018 |website=[[New York Daily News]]}}</ref>
+
+<ref name="BradshawGuardian">{{Cite web |last=Bradhsaw |first=Peter |date=June 14, 2002 |title=''Spider-Man'' |url=https://www.theguardian.com/film/2002/jun/14/1 |url-status=live |archive-url=https://web.archive.org/web/20181210071949/https://www.theguardian.com/film/2002/jun/14/1 |archive-date=December 10, 2018 |access-date=April 11, 2018 |website=[[The Guardian]]}}</ref>
+
+<ref name="ScottNYTimes">{{Cite web |last=Scott |first=A. O. |author-link=A. O. Scott |date=May 3, 2002 |title=Muscles Ripple, Webs Unfurl, Hormones Race |url=https://www.nytimes.com/2002/05/03/movies/film-review-muscles-ripple-webs-unfurl-hormones-race.html |url-status=live |archive-url=https://web.archive.org/web/20180412003051/https://www.nytimes.com/2002/05/03/movies/film-review-muscles-ripple-webs-unfurl-hormones-race.html |archive-date=April 12, 2018 |access-date=April 11, 2018 |website=[[The New York Times]]}}</ref>
+
+<ref name="GeorgeIGN">{{Cite web |last=George |first=Richard |date=April 19, 2007 |title=Spider-Man in Film: Volume One |url=http://uk.comics.ign.com/articles/782/782199p3.html |url-status=live |archive-url=https://web.archive.org/web/20071017233239/http://uk.comics.ign.com/articles/782/782199p3.html |archive-date=October 17, 2007 |access-date=April 27, 2007 |website=[[IGN]]}}</ref>
+
+<ref name="VultureRanking">{{Cite web |last=Riesman |first=Abraham |date=December 20, 2018 |title=The 25 Best Movie Supervillains, Ranked |url=https://www.vulture.com/article/the-25-best-movie-supervillains-ranked.html |url-status=live |archive-url=https://web.archive.org/web/20200414115737/https://www.vulture.com/article/the-25-best-movie-supervillains-ranked.html |archive-date=April 14, 2020 |access-date=August 26, 2020 |website=[[Vulture (website)|Vulture]]}}</ref>
+
+<ref name="ColliderRanking">{{Cite web |last=Reimann |first=Tom |date=June 29, 2020 |title=Spider-Man's Movie Villains, Ranked According to Bodacity |url=https://collider.com/spider-man-movie-villains-ranked/ |url-status=live |archive-url=https://web.archive.org/web/20200715222737/https://collider.com/spider-man-movie-villains-ranked/ |archive-date=July 15, 2020 |access-date=August 26, 2020 |website=[[Collider (website)|Collider]]}}</ref>
+
+<ref name="ScaifeVice">{{Cite web |last=Scaife |first=Steven |date=December 4, 2017 |title=Willem Dafoe's Green Goblin Was the Best Superhero Villain, Actually |url=https://www.vice.com/en_uk/article/vbzmkx/spider-man-willem-dafoe-green-goblin-essay |url-status=live |archive-url=https://web.archive.org/web/20200514190955/https://www.vice.com/en_uk/article/vbzmkx/spider-man-willem-dafoe-green-goblin-essay |archive-date=May 14, 2020 |access-date=August 25, 2020 |website=[[Vice (magazine)|Variety]]}}</ref>
+
+<ref name="HollandBatalon">{{Cite web |last=Perrine |first=Aaron |date=August 7, 2020 |title=''Spider-Man: Far From Home'' Star Tom Holland Looks Back on Willem Dafoe's Green Goblin |url=https://comicbook.com/movies/news/spider-man-far-from-home-tom-holland-willem-dafoe-green-goblin/ |url-status=live |archive-url=https://web.archive.org/web/20200810065937/https://comicbook.com/movies/news/spider-man-far-from-home-tom-holland-willem-dafoe-green-goblin/ |archive-date=August 10, 2020 |access-date=August 25, 2020 |website=[[ComicBook.com]]}}</ref>
+
+<ref name="HollandDifficult">{{Cite web |last=Lovett |first=Jamie |date=August 26, 2019 |title=''Spider-Man'' Star Tom Holland Believes Green Goblin Is Difficult to Pull Off in Live-Action |url=https://comicbook.com/marvel/news/spider-man-tom-holland-green-goblin-live-action-movie/ |url-status=live |archive-url=https://web.archive.org/web/20201107225624/https://comicbook.com/marvel/news/spider-man-tom-holland-green-goblin-live-action-movie/ |archive-date=November 7, 2020 |access-date=May 24, 2022 |website=[[ComicBook.com]]}}</ref>
+
+<ref name="PriceLanternNWH">{{Cite web |last=Price |first=Brett |date=December 26, 2021 |title=Movie Review: ''Spider-Man: No Way Home'' Showcases A Genuine Understanding Of What It Means To Be the 'Friendly Neighborhood Spider-Man' |url=https://www.thelantern.com/2021/12/movie-review-spider-man-no-way-home-showcases-genuine-understanding-of-what-it-means-to-be-the-friendly-neighborhood-spider-man/ |url-status=live |archive-url=https://web.archive.org/web/20211226234444/https://www.thelantern.com/2021/12/movie-review-spider-man-no-way-home-showcases-genuine-understanding-of-what-it-means-to-be-the-friendly-neighborhood-spider-man/ |archive-date=December 26, 2021 |access-date=May 17, 2022 |website=The Lantern}}</ref>
+
+<ref name="TraversGMANWH">{{Cite web |last=Travers |first=Peter |author-link=Peter Travers |date=December 17, 2021 |title=''Spider-Man: No Way Home'' review: Tom Holland is better than ever in this thrill-a-minute whirlwind |url=https://www.goodmorningamerica.com/culture/story/spider-man-home-review-tom-holland-thrill-minute-8179134/ |url-status=dead<!--|archive-url=https://web.archive.org/web/20220517212926/https://www.goodmorningamerica.com/culture/story/spider-man-home-review-tom-holland-thrill-minute-8179134/ |archive-date=May 17, 2022--> |access-date=May 17, 2022 |website=[[Good Morning America]] |quote=It's delicious to see Molina and Dafoe back in the mischief business, that is until Peter decides these titans of terror may really be good at heart.}}</ref>
+
+<ref name="KingGamerNWH">{{Cite web |last=King |first=Jade |date=December 20, 2021 |title=''Spider-Man: No Way Home'' Is The MCU At Its Absolute Worst |url=https://www.thegamer.com/spider-man-no-way-home-mcu-worst-film-crossover/ |url-status=live |archive-url=https://web.archive.org/web/20211220200120/https://www.thegamer.com/spider-man-no-way-home-mcu-worst-film-crossover/ |archive-date=December 20, 2021 |access-date=May 17, 2022 |website=[[The Gamer]]}}</ref>
+
+<ref name="EmberwingIGNNWH">{{Cite web |last=Emberwing |first=Amelia |date=December 14, 2021 |title=''Spider-Man: No Way Home'' Review |url=https://www.ign.com/articles/spider-man-no-way-home-review |url-status=live |archive-url=https://web.archive.org/web/20211214080609/https://www.ign.com/articles/spider-man-no-way-home-review |archive-date=December 14, 2021 |access-date=December 14, 2021 |website=[[IGN]]}}</ref>
+
+<ref name="EbiriVultureNWH">{{Cite web |last=Ebiri |first=Bilge |date=December 17, 2021 |title=''Spider-Man: No Way Home'' Is Aggressively Mediocre |url=https://www.vulture.com/article/movie-review-marvels-spider-man-no-way-home.html |url-status=live |archive-url=https://web.archive.org/web/20211220023857/https://www.vulture.com/article/movie-review-marvels-spider-man-no-way-home.html |archive-date=December 20, 2021 |access-date=December 22, 2021 |website=[[Vulture (website)|Vulture]]}}</ref>
+
+<ref name="PascalAvoid">{{Cite web |last=Agar |first=Chris |date=April 3, 2017 |title=Why Marvel Is Avoiding Reusing ''Spider-Man'' Villains |url=https://screenrant.com/spider-man-homecoming-villains-vulture-goblin/ |url-status=live |archive-url=https://web.archive.org/web/20220420042434/https://screenrant.com/spider-man-homecoming-villains-vulture-goblin/ |archive-date=April 20, 2022 |access-date=April 18, 2022 |website=[[Screen Rant]]}}</ref>
+
+<ref name="FeigeAvoid">{{Cite web |last=Fink |first=Richard |date=January 1, 2022 |title=Kevin Feige On Why MCU Avoided Green Goblin & Doc Ock Before ''No Way Home'' |url=https://screenrant.com/spiderman-green-goblin-doc-ock-mcu-avoid-why/ |url-status=live |archive-url=https://web.archive.org/web/20220420042706/https://screenrant.com/spiderman-green-goblin-doc-ock-mcu-avoid-why/ |archive-date=April 20, 2022 |access-date=April 18, 2022 |website=[[Screen Rant]]}}</ref>
+
+<ref name="NWHSpecialFeatures">{{Cite AV media |url=https://www.youtube.com/watch?v=KeVowfKHx10 |title=Spider-Man: No Way Home ''Special Features – Willem Dafoe'' |date=April 15, 2022 |type=video |language=en |access-date=April 15, 2022 |via=[[YouTube]]}}</ref>
+
+<ref name="GoblinInfluence">{{Cite web |last=Brewer |first=Dustin |date=May 7, 2022 |title=10 Trends In Superhero Movies That ''Spider-Man'' (2002) Started |url=https://screenrant.com/spider-man-superhero-movie-influences-trends-other-genre/ |url-status=live |archive-url=https://web.archive.org/web/20220507204909/https://screenrant.com/spider-man-superhero-movie-influences-trends-other-genre/ |archive-date=May 7, 2022 |access-date=May 10, 2022 |website=[[Screen Rant]]}}</ref>
+
+<ref name="ScientistMyselfNWH">{{Cite web |last=Russell |first=Bradley |date=December 15, 2021 |title=''Spider-Man: No Way Home'' Easter eggs: the 25 biggest Marvel references |url=https://www.gamesradar.com/spider-man-no-way-home-easter-eggs-references-cameos/ |archive-url=https://web.archive.org/web/20211217160210/https://www.gamesradar.com/spider-man-no-way-home-easter-eggs-references-cameos/ |archive-date=December 17, 2021 |access-date=December 17, 2021 |website=[[GamesRadar+]]}}</ref>
+
+<ref name="GWRLongestCareer">{{Cite web |last=Ridgely |first=Charlie |date=January 27, 2022 |title=Tobey Maguire and Willem Dafoe Break ''Guinness World Record'' With ''Spider-Man: No Way Home'' |url=https://comicbook.com/marvel/news/spider-man-no-way-home-tobey-maguire-willem-dafoe-guinness-world-record/ |url-status=live |archive-url=https://web.archive.org/web/20220128041445/https://comicbook.com/marvel/news/spider-man-no-way-home-tobey-maguire-willem-dafoe-guinness-world-record/ |archive-date=January 28, 2022 |access-date=April 29, 2022 |website=[[ComicBook.com]]}}</ref>
+
+<!-- ACCOLADES -->
+
+<ref name="2003MTVAwards">{{Cite web |title=2003 MTV Movie Awards |url=http://www.mtv.com/ontv/movieawards/2003/ |url-status=live |archive-url=https://web.archive.org/web/20080421195306/http://www.mtv.com/ontv/movieawards/2003/ |archive-date=April 21, 2008 |access-date=June 23, 2011 |website=[[MTV]]}}</ref>
+
+<ref name="SeattleFCSAward">{{Cite web |date=January 10, 2022 |title=''The Power of the Dog'' Leads the 2021 Seattle Film Critics Society Nominations |url=https://seattlefilmcritics.com/2022/01/10/the-power-of-the-dog-leads-the-2021-seattle-film-critics-society-nominations/ |url-status=live |archive-url=https://archive.today/20220112212055/https://seattlefilmcritics.com/2022/01/10/the-power-of-the-dog-leads-the-2021-seattle-film-critics-society-nominations/ |archive-date=January 12, 2022 |access-date=January 12, 2022 |website=[[Seattle Film Critics Society]]}}</ref>
+
+<ref name="CriticsCSAAward">{{Cite web |last=Davis |first=Clayton |date=February 22, 2022 |title=Critics Choice Super Awards: ''Spider-Man,'' ''Justice League'' Among Film Nominees; ''Evil,'' ''Midnight Mass'' Lead TV |url=https://variety.com/2022/awards/news/critics-choice-super-awards-spider-man-1235187084/ |url-status=live |archive-url=https://web.archive.org/web/20220420043328/https://variety.com/2022/awards/news/critics-choice-super-awards-spider-man-1235187084/ |archive-date=April 20, 2022 |access-date=February 23, 2022 |website=[[Variety (magazine)|Variety]]}}</ref>
+
+<ref name="2022MTVAwards">{{Cite web |last=Shanfeld |first=Ethan |date=June 5, 2022 |title=MTV Movie and TV Awards Full Winners List: Zendaya, Tom Holland Win Top Honors |url=https://variety.com/2022/film/news/mtv-movie-tv-awards-2022-winners-list-1235285214/ |url-status=live |archive-url=https://web.archive.org/web/20220606064441/https://variety.com/2022/film/news/mtv-movie-tv-awards-2022-winners-list-1235285214/ |archive-date=June 6, 2022 |access-date=June 5, 2022 |website=[[Variety (magazine)|Variety]]}}</ref>
+
+}}
+
+== External links ==
+* {{Marveldatabase|Norman Osborn (Earth-96283)|Norman Osborn (''Spider-Man'')}}
+* {{Marveldatabase|Norman Osborn (Earth-TRN925)|Norman Osborn (''Spider-Man: No Way Home'')}}
+* [https://marvelcinematicuniverse.fandom.com/wiki/Green_Goblin Norman Osborn] at the Marvel Cinematic Universe Wiki
+
+{{Marvel Cinematic Universe|selected=Cast}}
+{{Spider-Man characters}}
+{{Green Goblin}}
+{{Spider-Man films}}
+
+{{DEFAULTSORT:Osborn, Norman}}
+[[Category:Action film villains]]
+[[Category:Characters created by David Koepp]]
+[[Category:Experimental medical treatments in fiction]]
+[[Category:Fictional business executives]]
+[[Category:Fictional characters from New York City]]
+[[Category:Fictional characters with dissociative identity disorder]]
+[[Category:Fictional engineers]]
+[[Category:Fictional goblins]]
+[[Category:Fictional kidnappers]]
+[[Category:Fictional mass murderers]]
+[[Category:Fictional scientists]]
+[[Category:Fictional socialites]]
+[[Category:Fictional terrorists]]
+[[Category:Film and television memes]]
+[[Category:Film characters introduced in 2002]]
+[[Category:Film supervillains]]
+[[Category:Green Goblin]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Spider-Man (2002 film series)]]
+[[Category:Spider-Man film characters]]
+[[Category:Video game bosses]]

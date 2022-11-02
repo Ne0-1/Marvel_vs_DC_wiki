@@ -1,0 +1,48 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Ironlad.jpg|250px]]
+|caption=Iron Lad.<br>Art by [[Jim Cheung]].
+|comic_color=background:#ff8080
+|character_name=Iron Lad
+|real_name=Nathaniel Richards
+|publisher=[[Marvel Comics]]
+|debut=''Young Avengers'' #1 ([[April 2005]])
+|creators=[[Allan Heinberg]]<br>[[Jim Cheung]]<br>Based on [[Kang the Conqueror]], created by [[Stan Lee]] and [[Jack Kirby]]
+|alliance_color=background:#ffc0c0
+|alliances=[[Young Avengers]]
+|aliases=[[Kang the Conqueror]]
+|powers=Possessed neurokinetic armor which would respond to his thoughts and allow him to fly, create magnetic fields, change the appearance of the armor (whether holographically or physically is unknown), and hack into all known present day computer systems as well as others
+|}}
+
+'''Iron Lad''' ('''Nathaniel Richards''') is a [[fictional character]], a [[superhero]] in the [[Marvel Comics]] [[Marvel Universe|universe]].  He first appeared in ''Young Avengers'' #1 (April, [[2005]]).  The issue was scripted by [[Allan Heinberg]] and drawn by [[Jim Cheung]].
+
+He is an adolescent version of [[Kang the Conqueror]], armed with a bio-metal suit that responds to mental commands. 
+
+Note that Nathaniel Richards is named after [[Nathaniel Richards]], the father of [[Reed Richards]].
+==Fictional character biography==
+Iron Lad was rescued by his adult self moments before an event important in shaping the [[villain]]'s life: his long-term [[hospitalization]] by [[Bullying|bullies]].  Horrified at the life of [[evil]] his future self described, he took the [[time travel]] technology that he is given and transports himself to the past, hoping to avoid his sinister destiny. 
+
+Upon finding the [[Avengers (comics)|Avengers]] disbanded, he downloaded the remnants of the then-destroyed [[Vision (Marvel Comics)|Vision]]'s operating system into his armor.  This revealed a failsafe plan created by the android to reform the Avengers should they disband or fall in action.  Through this plan, the young Kang assembled his new team, the [[Young Avengers]], with the sole purpose of defeating his future self and reshaping his own future.  He modeled his armor after the Avenger [[Iron Man]], calling himself Iron Lad.
+
+Kang came looking for Iron Lad, wanting to return his younger self to his proper place in the timestream.  He battled the teen heroes and was seemingly gaining the upper hand when Iron Lad, with tears in his eyes, ran [[Hawkeye (Kate Bishop)|Hawkeye]]'s sword through Kang's chest.  This killed Kang, but the ramifications caused several changes to the timeline, including all the Avengers being dead.  Iron Lad realized that the only way to restore everything was to go back in time and become Kang.  The Young Avengers had to wipe his mind before he went back, but before they did he asked them to forgive him for the actions he would commit in the future.
+
+===Future===
+
+In the ''Young Avengers Special'', the teenaged Kang was seen watching the Young Avengers through a viewing screen. In a chat with fans, Heinberg revealed that the young Kang would be back, but not as Iron Lad. Heinberg also said there would be a [[Love triangle|triangle]] between him, [[Cassandra Lang|Cassie]], and the new Vision. [http://www.avengersforever.org/chat/transcripts/Heinberg.htm]
+
+==The Vision==
+When Iron Lad had earlier removed his armor to stop the older Kang from tracking him, the Vision's operating system caused the armor to become a [[Vision (Marvel Comics)#Modern Age|sentient being]] for the first time.  This younger Vision is based on the brain patterns of Iron Lad (as opposed to the original Vision's, which was based on [[Wonder Man]]'s).
+
+==Powers==
+Nathaniel's Iron Lad armor is composed of neuro-kinetic bio-metal, and he could alter its appearance and shape with his thoughts. The armor enabled Iron Lad to have superhuman strength and allows him to fly. It also enabled him to fire blasts of various kinds of energy, and even time-travel. Nathaniel's psychic link with his armor enabled him to mentally control the Iron Lad armor from a distance.
+
+==Popular culture references==
+*Iron Lad's attraction to Stature and identity as a younger version of Kang the Conqueror is referenced in the [[mc chris]] song "Nrrrd Grrrl": "Wanna conquer her like Kang, When you kiss like Cassie Lang."<ref>Ward, Chris.  "Nrrrd Grrrl."  Lyrics.  ''mc chris is dead.''  mc chris LLC, 2008.</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Marvel Comics superheroes]]
+
+[[it:Iron Lad]]
+[[pt:Rapaz de Ferro]]
+[[tl:Iron Lad]]

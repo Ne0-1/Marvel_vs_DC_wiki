@@ -1,0 +1,29 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=<!-- Deleted image removed: [[Image:Children Sangre.jpg|100px]] -->
+|caption=Sangre, art by [[Chris Bachalo]].
+|comic_color=background:#ff8080 
+|character_name=Sangre
+|real_name=
+|publisher=[[Marvel Comics]] 
+|debut=''[[X-Men]]'' #188 (Sept 2006)
+|creators=[[Mike Carey (British writer)|Mike Carey]]<br>[[Chris Bachalo]]
+|alliance_color=background:#c0c0ff
+|alliances=[[Children of the Vault (comics)|The Children of the Vault]]
+|aliases=
+|powers=Production of bubble-like substances that he uses to suffocate his victims, also has an aquatic body which is not easily harmed.
+|}} 
+
+'''Sangre''' is a [[super villain]] in the [[Marvel Comics Universe]], most notably as a member of the [[Children of the Vault (comics)|Children of the Vault]].
+
+==Fictional character biography==
+As leader of the Children of the Vault, Sangre is a ruthless man that has the ability to produce bubbles that surround his enemy's head, leading to eventual suffocation (obviously an application of aquakinetic ability).  While he normally works in the background, he is an intelligent leader and well-respected by his teammates.  He takes his work very seriously, and is most concerned with the survival of his race.  After [[Serafina]] revealed herself to the [[X-Men]], Sangre decided to launch an attack on the group.  When the mutants fought back, they foiled the plan to destroy the Xavier Institute, and [[Mystique (comics)|Mystique]] shot Sangre with thermite bullets, which evaporated the water in his body when they exploded, killing him.
+
+==Notes==
+* ''Sangre'' is [[Spanish language|Spanish]] for "Blood."
+
+==Bibliography==
+* ''X-Men'' #188-193
+<br>
+
+{{Marvel-villain-stub}}
+[[Category:Marvel Comics supervillains]]

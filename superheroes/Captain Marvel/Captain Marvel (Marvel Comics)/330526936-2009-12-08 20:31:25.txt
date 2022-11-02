@@ -1,0 +1,205 @@
+{{otheruses4|the Marvel Comics characters|the DC Comics character|Captain Marvel (DC Comics)}}
+{{Infobox comics set and title
+<!--Wikipedia:WikiProject Comics-->
+<!--Character section-->
+|code_name  = Captain Marvel
+|noimage    = yes
+|publisher  = [[Marvel Comics]]
+|debut      = ''Marvel Super-Heroes'' #12
+|debutmo    = December
+|debutyr    = 1967
+|debutyr1   = 1982
+|debutyr2   = <!-- Genis did not originally appeare as "Captain Marvel" -->
+|debutyr3   = 2003
+|debutyr4   = <!-- Danvers aquired the name but didn't debut with it -->
+|debutyr5   = 2007
+|creators   = [[Stan Lee]]<br />[[Gene Colan]]
+|characters = '''[[Captain Marvel (Mar-Vell)|Mar-Vell]]'''<br />[[Monica Rambeau]]<br />[[Genis-Vell]]<br />[[Phyla-Vell]]<br />[[Carol Danvers]]<br /> [[Captain Marvel (Khn'nr)|Khn'nr]]<br />[[Noh-Varr]]
+|seealso    = 
+
+<!--Series section--> 
+|title               = Captain Marvel
+|cvr_image           = Captain Marvel v1 1.jpg
+|cvr_caption         = ''Marvel's Space-Born Superhero! Captain Marvel'' #1 (May, 1968).<ref name="split"/><br>Featuring the Mar-Vell version of the character. Art by [[Gene Colan]].
+|schedule            = '''(vol 1)'''<br>Monthly (1-19) and<br>Bi-monthly (20-62)<br>'''(vol 2-5)'''<br>Monthly
+|format              = '''(vol 1, 3-4)'''<br>[[Ongoing series]]<br>'''(vol 2 & 5)'''<br>[[Limited series]]<br>[[One-shot (comics)|One-shot]] issues were also published in 1989 and 1994
+|limited             = Y
+|ongoing             = Y
+|1shot               = y
+|Superhero           = y
+|pub_series          = Marvel Comics
+|date                = '''(vol 1)'''<br>May [[1968 in comics|1968]]<ref name="split">The first 6 issues were published under the indecia ''Marvel's Space-Born Superhero! Captain Marvel''</ref> — May [[1979 in comics|1979]]<br>'''(1-shots)'''<br>[[1989 in comics|1989]] and [[1994 in comics|1994]]<br>'''(vol 2)'''<br>December [[1995 in comics|1995]] — May [[1996 in comics|1996]]<br>'''(vol 3)'''<br>January [[2000 in comics|2000]] — October [[2002 in comics|2002]]<br>'''(vol 4)'''<br>November 2002 — September [[2004 in comics|2004]]<br>'''(vol 5)'''<br>January — June [[2008 in comics|2008]]
+|1stishyr            = 1968
+|1stishyr1           = 1995
+|1stishyr2           = 2000
+|1stishyr3           = 2002
+|1stishyr4           = 2008
+|issues              = '''(vol 1)'''<br>62<br>'''(vol 2)'''<br>6<br>'''(vol 3)'''<br>35<br>'''(vol 4)'''<br>25<br>'''(vol 5)'''<br>5
+|main_char_team      = '''(vol 1)'''<br>Mar-Vell<br>'''(1-shots)'''<br>Monica Rambeau<br>'''(vol 2-4)'''<br>Genis-Vell<br>'''(vol 5)'''<br>Khn'nr
+|writers             = 
+|artists             = 
+|pencillers          = 
+|inkers              = 
+|letterers           = 
+|colorists           = 
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = 
+|TPB                 = 
+|ISBN                = 
+|nonUS               = 
+|cat                 = super
+|subcat              = Marvel Comics
+|altcat              = 
+|hero                = y
+|villain             = 
+|sortkey             = Captain Marvel
+|sort_title          = Captain Marvel
+}}
+'''Captain Marvel''' is the name of several [[fictional]] [[superhero]]es appearing in [[comic book]]s published by [[Marvel Comics]]. Most of these versions exist in Marvel's main [[shared universe]], known as the [[Marvel Universe]].
+
+== Publication history ==
+
+Following a trial in which [[DC Comics]] sued [[Fawcett Comics]] for breach of [[copyright]], the latter stopped publishing [[Captain Marvel (DC Comics)|Captain Marvel]].<ref>[http://goodcomics.blogspot.com/2005/06/comic-book-urban-legends-revealed-2.html Comic Book Urban Legends Revealed #2], Comics Should Be Good, June 9, 2005</ref> In the late sixties Marvel gained the [[trademark]] "Captain Marvel" with their first series, forcing DC to call their Captain Marvel comic book ''[[Shazam!]]'', but to retain the trademark Marvel had to publish a ''Captain Marvel'' title every year or two since leading to a number of [[ongoing series]], [[limited series]] and [[one-shot (comics)|one-shots]] featuring a range of characters using the Captain Marvel alias.<ref>[http://goodcomics.comicbookresources.com/2005/08/18/comic-book-urban-legends-revealed-12/ Comic Book Urban Legends Revealed #12], Comics Should Be Good, [[Comic Book Resources]], August 18, 2005</ref>
+
+=== Mar-Vell ===
+{{main|Mar-Vell}}
+
+The first Captain Marvel was created by [[Stan Lee]] and [[Gene Colan]] in ''[[Marvel Super-Heroes (comics)|Marvel Super-Heroes]]'' #12 (Dec. 1967). This character is an [[Extraterrestrial life|alien]] military officer, '''Captain Mar-Vell''' of the [[Kree]] Imperial Militia, who is sent to observe the planet [[Earth]]. Mar-Vell eventually wearies of his superiors' malign intent and allies himself with Earth as the Kree Empire brands him a traitor.  From then on, Mar-Vell fights to protect Earth from all threats.
+
+He would later be revamped by [[Roy Thomas]] and [[Gil Kane]].  Having been exiled to the Negative Zone by the Supreme Intelligence, the only way Mar-Vell can temporarily escape is to exchange atoms with [[Rick Jones (comics)|Rick Jones]] by means of special wristbands called Nega-Bands.  He is also given superpowers and his Kree military uniform is replaced with a form fitting costume. 
+
+With the title's sales still flagging, Marvel allowed [[Jim Starlin]] to conceptually revamp the character, although his appearance was little changed.  Mar-Vell is freed from the Negative Zone and becomes a cosmic champion, the "Protector of the Universe" appointed by the cosmic entity [[Eon (comics)|Eon]].  Together, Mar-Vell and Rick continue to battle against evil, most notably battling the Death-worshipping [[Thanos]]. Mar-Vell became a close ally of the [[Titan (Marvel Comics)|Titans]], and one of their number, [[Elysius]], became his lover.
+
+However, his career was cut short when he developed inoperable cancer, the result of an earlier exposure to toxic [[nerve gas]] during a battle with [[Nitro (comics)|Nitro]]. He died from this cancer on Titan in the presence of the Marvel Universe's superhero community, as chronicled in Marvel's first large-format [[graphic novel]], ''The Death of Captain Marvel''.
+
+===Hulkling, Young Avenger and son of Mar-Vell ===
+{{main|Hulkling}}
+
+In a flashback shown in the [[Young Avengers]] series, Captain Mar-Vell was captured together with [[Quicksilver (comics)|Quicksilver]] and the [[Scarlet Witch]] by the Super-Skrull. However, the Skrull emperor's daughter, princess [[Anelle]] fell in love with him and together they conspired to overthrow the emperor and bring an end to the Kree-Skrull war.
+
+They freed the Super-Skrull, whom the emperor had imprisoned for supposedly planning a coup.  The Super-Skrull posed as Mar-Vell to allow him to escape. Princess Anelle was later killed when Galactus devoured her homeworld, but not before giving birth to the half-Kree/half-Skrull boy who would later be known as Teddy Altman, a.k.a. [[Hulkling]].
+
+=== Monica Rambeau ===
+[[Image:Captain Marvel special 1.jpg|150px|left|thumb|Art by [[Doc Bright]].]]
+{{main|Monica Rambeau}}
+The second Captain Marvel is '''Monica Rambeau''', a [[United States Coast Guard|Coast Guard]] lieutenant from [[New Orleans]] who possesses the power to transform herself into any form of [[energy]].  Her powers were briefly altered so that she can not transform to energy, but instead can generate a personal force field. Sometime later, the Stranger returned her energy transformation abilities. She is a member of the [[Avengers (comics)|Avengers]], at one point serves as their leader.  She uses the name '''Photon''' for quite some time, until Genis-Vell adopts the same name. Genis-Vell and Monica discuss this and Monica decides on the name '''Pulsar'''.
+
+Rambeau later joins H.A.T.E. (the Highest Anti-Terrorism Effort) in the new series titled ''[[Nextwave|NEXTWAVE]]''. In this series created by [[Warren Ellis]] and [[Stuart Immonen]], H.A.T.E. (a subsidiary of the Beyond Corporation©) forms a team to fight the Bizarre Weapons of Mass Destruction. Members include Monica Rambeau, a man known only as [[The Captain (comics)|"The Captain"]],  [[Tabitha Smith|Boom Boom]], [[Machine Man|Aaron Stack]], and [[Elsa Bloodstone]].  Brian Bendis has claimed that NEXTWAVE is not part of the main Marvel continuity due to its comedic nature.  However, members of NEXTWAVE, including Monica Rambeau and Machine Man, have appeared in other comics wearing their NEXTWAVE costumes and appear to be holding true to the personality revamps given to them by Warren Ellis.
+
+=== Genis-Vell ===
+{{main|Genis-Vell}}
+The third Captain Marvel is [[Genis-Vell]], the genetically-engineered son of Mar-Vell and his lover Elysius, created from the late Mar-Vell's cell samples and artificially aged to physical, if not emotional, maturity.  Genis, like his father, wears the Nega-Bands, possesses Cosmic Awareness and is, for a time, bonded with [[Rick Jones (comics)|Rick Jones]]. Although the pair do not get along at first, they eventually become good friends.  However, Genis goes insane and threatens to destroy the universe.
+
+After dying and resurrecting himself - with the secret aid of [[Baron Helmut Zemo]] - Genis-Vell joins the [[Thunderbolts (comics)|Thunderbolts]] under the name '''Photon'''. However, in accelerating his resurrection, Zemo links Genis to the ends of time, causing a degenerative effect on the universe.  To prevent the inevitable destruction of all existence, Zemo scatters pieces of Genis-Vell's body through time and the [[Darkforce]] Dimension.
+
+=== Phyla-Vell ===
+[[Image:Phyla-Vell.png|125px|thumb|Art by Paul Azaceta.]]
+{{main|Phyla-Vell}}
+The fourth Captain Marvel is '''Phyla-Vell''', Genis-Vell's younger sister.  Her name is a [[taxonomy|taxonomical]] pun on the part of [[Peter David]], who created the character.  Phyla is created when Genis, an only child, recreates the universe and, in doing so, creates various anomalies which result in his mother being restored to life and his sister coming into existence. She is last seen romancing [[Moondragon]].
+
+Phyla-Vell appears in the ''[[Annihilation (comics)|Annihilation]]'' event, fighting alongside [[Nova (comics)|Nova]]'s [[United Front (comics)|United Front]] in an effort to stop the destructive armies of [[Annihilus]]. She becomes the new [[Quasar (comics)|Quasar]] after the original one is killed by Annihilus.<ref>[http://www.newsarama.com/NYCC/2007/Marvel/cup_o_joe.html NYCC '07 - JOE QUESADA's CUP 'O JOE PANEL], [[Newsarama]]</ref>
+
+Phyla has superhuman strength. She can fire energy blasts, fly, and act like an "energy sponge", absorbing any energy attacks directed at her and returning them as energy blasts. Phyla also has cosmic awareness and is a proficient fighter.
+
+=== Khn'nr ===
+{{main|Khn'nr}}
+The fifth Captain Marvel is '''Khn'nr''', a Skrull sleeper agent who is bound with Mar-Vell's DNA to lock itself into Mar-Vell's form and given technological replicas of the Kree Nega-Bands. However, his mental conditioning was botched, causing Khn'nr's personality to be erased leaving the Mar-Vell persona dominant. Though part of the [[Secret Invasion]], this Marvel decides to fight against the invading Skrulls. As of now, he is apparently dead.
+
+=== Noh-Varr ===
+{{main|Noh-Varr}}
+As part of the [[Dark Reign (comics)|Dark Reign]] storyline '''Noh-Varr''' joined the new team the [[Dark Avengers]] using the alias Captain Marvel.<ref>''[[Dark Avengers]]'' #1 (March 2009)</ref>
+
+== Other versions ==
+=== Ultimate Captain Marvel ===
+{{main|Mahr Vehl}}
+The [[Ultimate Marvel]] miniseries ''[[Ultimate Secret]]'' introduces a renegade Kree who has been surgically altered to look human and sent to earth by his people to observe its destruction by the entity [[Galactus|Gah Lak Tus]], but defects to help the humans. He wears a specially designed combat suit that is activated by his wristwatch. The Kree technology in the suit gives Mahr Vehl increased strength and allows him to fly, create energy shields, turn invisible, view different fields of the light spectrum, and fire energy blasts through the totalkannon located on his lower arm.
+
+His real name is Pluskommander (literal translation of +Commander) Geheneris Halason Mahr Vehl; a reference to both Mar-Vell and Genis-Vell. As with the [[Marvel Universe]] character of [[Mar-Vell]], he assumes the identity of Dr. Philip Lawson, a scientist working on the space program. He dated the Ultimate version of [[Carol Danvers]].  The name 'Captain Marvel' arises as a mispronunciation by General Nick Fury and Carol Danvers.  Only the [[Falcon (comics)|Falcon]] and [[Thor (Marvel Comics)|Thor]] have bothered to learn how to pronounce his name correctly.
+
+=== Ruins ===
+{{main|Ruins (comics)}}
+In the two-issue [[Warren Ellis]] mini-series ''[[Ruins (comics)|Ruins]]'' (1995), Captain Marvel is one of the many [[Kree]] prisoners, in a Kree [[reservation]] in [[Nevada]].  The reservation was placed deliberately on top of a former nuclear test site. As a result of this the majority of the Kree are suffering from various forms of [[cancer]]s and [[tumour]]s including Mar-Vell  who is the Kree's spokesperson. Mar-vell gives an interview to [[Daily Bugle]] reporter Phil Sheldon regarding the failed Kree invasion of Earth. Mar-vell recounts how his ship was made vulnerable to a nuclear strike when their cloaking and  shielding was affected by cosmic [[radiation]] from a deceased [[Silver Surfer]].
+
+=== Fantastic Four: The End ===
+{{main|Fantastic Four: The End}}
+In the limited series, ''Fantastic Four: The End'', the superheroine formerly known as [[Kismet (Marvel Comics)|Kismet]] (now under the name of Ayesha) has apparently taken over the Captain Marvel mantle in the not-too-distant future.<ref>''[[Fantastic Four: The End]]'' #1 (Jan. 2007)</ref>
+
+===Marvel Zombies===
+{{main|Marvel Zombies}}
+In the mini-series, Marvel Zombies, Captain Marvel is seen sitting with Vulture and Hercules (both infected) waiting for Iron Man.  He is later killed by the Silver Surfer.
+
+===Amalgam Comics===
+{{main|Captain Marvel (Amalgam Comics)}}
+In two issues of JL-X and JL-X: Unleashed, Captain Marvel combines with [[Captain Marvel (DC Comics)|Captain Marvel]] to become yet another Captain Marvel, sporting the [[DC Comics]] lightning bolt uniform design but with the original green and white colors of the Marvel version.
+
+== Bibliography ==
+<!--These sections are for series that starred the character; Wolverine doesn't get all of his X-Men appearances in his bibliography.  Go to www.chronologyproject.com for lists of appearances; that's beyond the scope of Wikipedia.-->
+
+=== Mar-Vell ===
+* ''[[Marvel Super-Heroes (comics)|Marvel Super-Heroes]]'' (1967) #12-13
+* ''Captain Marvel'' (vol. 1) (1968) #1-62
+* ''Giant-Size Captain Marvel'' (1975) #1 (reprint book)
+* ''Marvel Spotlight'' (1979) #1-4, #8
+* ''Marvel Graphic Novel'' (1982) #1 (later reprinted in standard comic book format as ''The Death of Captain Marvel'')
+* ''The Life of Captain Marvel'' (1985) #1-5 (reprint series)
+* ''Silver Surfer'' (1992) #63
+* ''Untold Legend of Captain Marvel'' (1997) #1-3
+* ''Marvel - Shadows & Light'' (1997) #1
+* ''Captain Marvel'' (2008) #1-4
+
+=== Monica Rambeau ===
+* ''Giant size Special Captain Marvel'' (1989) #1 (also referred to as ''Captain Marvel Special'')
+* ''Captain Marvel: Speaking Without Concern'' (1994) #1 (also referred to as ''Captain Marvel Special'' 2)
+* ''Nextwave: Agents of H.A.T.E.'' (2006) #5 (appears as Captain Marvel in flashback)
+
+=== Genis-Vell ===
+* ''Secret Defenders'' (April, 1994) #14
+* ''Cosmic Powers'' (1994) #3-6
+* ''Captain Marvel'' (vol. 2) (1995) #1-6
+* ''Captain Marvel'' (vol. 3) (2000) #0-35
+* ''The Order'' (2002) #5-6
+* ''Captain Marvel'' (vol. 4) (2002) #1-25
+* ''The New Thunderbolts'' (2004-2006) #1-18
+* ''Thunderbolts'' (2006) #100 (death confirmed)
+
+===Khn'nr===
+* ''Civil War: The Return'' (2007) #1
+* ''Captain Marvel'' (vol. 5) (2008) #1-5
+* ''Secret Invasion:Who Do You Trust #1'' (2008)
+* ''Secret Invasion'' 1-8 (2008)
+
+== Notes ==
+{{Reflist}}
+
+== References ==
+{{refbegin}}
+*{{comicbookdb|type=character|id=2936|title=Captain Marvel (Mar-Vell)}}
+*{{comicbookdb|type=character|id=3253|title=Captain Marvel (Monica Rambeau)}}
+*{{comicbookdb|type=character|id=2928|title=Captain Marvel (Genis-Vell)}}
+*[http://www.marvunapp.com/Appendix2/phylacaptainmarvel.htm Captain Marvel (Phyla-Vell)] at the Appendix to the Handbook of the Marvel Universe
+*{{comicbookdb|type=character|id=4760|title=Captain Marvel (Phyla-Vell)}}
+*{{comicbookdb|type=character|id=22075|title=Captain Marvel (Khn'nr)}}
+*{{comicbookdb|type=character|id=29223|title=Captain Marvel (Noh-Varr)}}
+{{refend}}
+
+== External links ==
+* [http://marvel.com/universe/Captain_Marvel_%28disambiguation%29 Captain Marvel (disambiguation)] at the Marvel Universe
+* [[MarvelDatabase:Captain Marvel|Captain Marvel]] at the Marvel Database Project
+* [http://www.geocities.com/mailittomarvell/ Captain Marvel Appearances in Publication Order]
+* [http://www.captainmarvelculture.com Captain Marvel Culture] A history of the many Captain Marvels
+
+<!--Categories-->
+[[Category:Extraterrestrial superheroes]]
+[[Category:Fictional captains|Marvel, Captain]]
+[[Category:Marvel Comics aliens]]
+[[Category:Titan in fiction]]
+[[Category:Characters created by Stan Lee]]
+
+[[es:Capitán Marvel (Marvel)]]
+[[fr:Captain Marvel (Marvel)]]
+[[it:Capitan Marvel (Marvel Comics)]]
+[[hu:Mar-Vell]]
+[[pt:Capitão Marvel (Marvel Comics)]]
+[[fi:Kapteeni Ihme]]

@@ -1,0 +1,52 @@
+{{Infobox superhero <!--Wikipedia:WikiProject Comics-->
+|character_name=Captain Midlands
+|image=[[Image:CaptainMidlands.png|250px]]
+|caption= Captain Midlands, art by [[Manuel Garcia (artist)|Manuel Garcia]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Pete Wisdom|Wisdom]]'' #1<br>(January 2007)
+|creators=[[Paul Cornell]] (writer)<br>[[Trevor Hairsine]] (artist)
+|alter_ego = Sid Ridley
+|full_name =
+|species   = Enhanced human
+|homeworld = <!-- optional -->
+|alliances=[[MI-13 (Marvel Comics)|MI-13]]<br>[[British Army]]
+|partners  = <!-- optional -->
+|supports  = <!-- optional -->
+|aliases   =  <!-- optional: actual identities the character uses, not nicknames -->
+|powers= Physical attributes enhanced to peak of human potential<br>Expert [[martial artist]] and hand-to-hand combatant<br>All terrain acrobatics<br>Master [[Military tactics|tactician]] and field commander<br>[[Captain America's shield|Circular shield with anti-magic gloss]]
+|}}
+
+'''Captain Midlands''', real name '''"Rambling" Sid Ridley'''<ref name="Wisdom#1">{{Comic book reference | Writer = [[Paul Cornell]] | Penciller = [[Trevor Hairsine]] | Inker = [[Paul Neary]], [[Trevor Hairsine]] | Story = The Rudiments of Wisdom. Part 1: The Day The Fairies Came Out | Title = [[Pete Wisdom|Wisdom]] | Issue = 1 | Date = January 2007 | Publisher = [[Marvel Comics]] | }}</ref>, is a [[fictional character|fictional]] [[comic book]] character within [[Marvel Comics]]' [[shared universe]] the [[Marvel Universe]]. Captain Midlands was created by writer [[Paul Cornell]] and first penciled by [[Trevor Hairsine]] and first appeared in ''[[Pete Wisdom|Wisdom]]'' #1 (January 2007).
+
+Captain Midlands is a [[patriotic]] [[United Kingdom|British]] [[war veteran]] and a right-wing analogue of [[Captain America]]. An eighty year old superhero, Captain Midlands is often portrayed as a [[Irritable Male Syndrome|grumpy old git]]. His real name, "Rambling" Sid Ridley, is is a combination of [[Kenneth Williams]]' ''[[Round the Horne]]'' character ‘Rambling Sid Rumpo’ and [[Arnold Ridley]] who played [[Private Godfrey]] in the [[sitcom]] [[Dad's Army]]<ref name="W1C">{{cite web|title=Wisdom Issue One Commentary. By Paul Cornell |url=http://fractalmatter.com/main/?p=475 |publisher=fractalmatter.com |date=1 December 2006|accessdate=2008-06-03|quote=‘Rambling Sid Rumpo’ was Kenneth Williams’ folk singer character in the radio show Round the Horne, a man very much out of his time, and Arnold Ridley was the very old soldier Private Godfrey in the sitcom Dad’s Army.}}</ref>
+
+==Fictional character biography==
+As part of the [[1940's]] British [[Captain America|Super-Soldier program]]<ref name="CBR">{{cite web|title=Paul Cornell Shares His "Wisdom". By Dave Richards|url=http://www.comicbookresources.com/?page=article&id=8481|publisher=[[Comic Book Resources]]|date=1 November 2006|accessdate=2008-05-19|quote=There's Captain Midlands, the survivor of Britain's 1940s Super Soldier program, who is an eighty year old man with a body of a superhero. He has got the opinions and a personality of an eighty year old man but the abilities and strength of Captain America. He's a bit of a tragic figure in many ways.}}</ref>, Sid Ridley is transformed into a "perfect" specimen of human development and conditioning then sent off to be part of the British Army's war effort.
+
+After serving as '''Captain Midlands''' in [[World War II]] , Ridley somehow ended up in [[British Intelligence]] and eventually [[MI-13 (Marvel Comics)|MI-13]]<ref name="Wisdom#1"/>. Ridley also suggested that he had "[[Pregnancy|knocked a girl up]]" and married her before she died in 1963.<ref name="Wisdom#3">{{Comic book reference | Writer = [[Paul Cornell]] | Penciller = [[Manuel Garcia]] | Inker = [[Mark Farmer]] | Story = The Rudiments of Wisdom. Part 3: Enter With Drag On | Title = [[Pete Wisdom|Wisdom]] | Issue = 3 | Date = April 2007 | Publisher = [[Marvel Comics]] | }}</ref> 
+
+Captain Midlands served alongside other British heroes, including [[Captain Britain]] and [[Pete Wisdom]] in MI-13, fighting supernatural threats such as [[fairies]]<ref name="Wisdom#1"/>, [[Y Ddraig Goch]]<ref name="Wisdom#3"/>, alternate reality [[Jack the Ripper]]s and [[Martians]]. He was also reported to be fighting the [[Secret Invasion|Skrull invasion]] of Britain.<ref name="CB&MI13#1">{{Comic book reference | Writer = [[Paul Cornell]] | Penciller = [[Leonard Kirk]] | Inker = [[Jesse Delperdang]] | Story = The Guns Of Avalon | Title = [[Captain Britain and MI: 13]] | Issue = 1 | Date = July 2008 | Publisher = [[Marvel Comics]] | }}</ref>
+
+When MI:13 refocused itself against a supernatural pandemic, Captain Midlands - while carrying out routine crimefighting - identified a demonic incursion in Birmingham and called it in to the agency. He was captured and imprisoned in a [[council estate]] basement, being tempted to give his soul for an unknown desire. He was freed by and joined Pete Wisdom's strike team. <ref>''Captain Britain and MI:13'' #6</ref>
+
+==Abilities and equipment==
+Captain Midlands has no superhuman powers, although as a result of the [[1940's]] British Super-Soldier program Sid Ridley was transformed into a "perfect" specimen of human development and conditioning. Captain Midlands' strength, endurance, agility, speed, reflexes, and durability are at the highest limits of natural human potential, and despite being an eighty year old man he still has a body of a superhero.<ref name="CBR"/>
+
+Captain Midlands wears full [[Disruptive Pattern Material|DPM]] military fatigues and helmet with a cowl mask (similar to the WWII [[Ultimate Captain America]] outfit) and wields a golden [[Captain America's shield|circular shield]] in the design of the traditional [[British Lion|lion symbol of Britain]] and coated in an Anti-Magic nanominium gloss.<ref name="Wisdom#1"/>
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{refbegin}}
+*{{comicbookdb|type=character|id=14780|title=Captain Midlands}}
+{{refend}}
+
+==External links==
+*[http://en.marveldatabase.com/Sid_Ridley_(Earth-616) Sid Ridley (Earth-616) - marveldatabase.com]
+
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Fictional soldiers]]
+[[Category:Fictional World War II veterans]]

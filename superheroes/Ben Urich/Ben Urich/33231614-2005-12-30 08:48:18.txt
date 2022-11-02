@@ -1,0 +1,40 @@
+{{Supersupportingbox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:BenUrich.png]]
+|caption='''Ben Urich''', by Alex Maleev
+|comic_color=background:#ff8080
+|character_name=Ben Urich
+|publisher=[[Marvel Comics]]
+|debut=''Daredevil'' #153
+|creators=[[Frank Miller]]
+|full_name=Ben Urich
+|status=Active
+|supports=[[Daredevil]], [[Spider-Man]]
+|relatives= [[Green Goblin#Phil Urich|Phil Urich]] (nephew)
+|}}
+
+'''Ben Urich''' is a [[fictional character]] existing in [[Marvel Comics]]' [[Marvel Universe]], usually appearing in [[comic book]]s featuring [[Daredevil]] and [[Spider-Man]].  
+
+He is a top reporter for the [[Daily Bugle]].  Urich uncovered the [[secret identity]] of Daredevil but didn't publish his story revealing it because he did not want to end Daredevil's career as a hero.  He also frequently works with Peter Parker on stories for the Bugle and he later admitted that he figured out Peter's secret identity as well. 
+
+Ben Urich was also responsible for outing Norman Osborn as the [[Green Goblin]], although after his presumed death in a book that he wrote. When Norman returned from the dead (or rather, Europe) he was able to discredit Urich and the book, going through great effort to clear his name.
+
+During the period where Daredevil's identity was exposed in print, Ben refused to confirm it to [[J. Jonah Jameson]] on the principle of protecting his sources and his status at work suffered for it.  However, Jameson was able to move beyond that argument when he assigned Ben to the new supplement, ''[[The Pulse (comics)|The Pulse]]''.
+
+Ben Urich turned out to be right when he originally exposed the Green Goblin, as [[Daily Bugle]] research would show, and ultimately be proven when the Green Goblin was unmasked before a public and sent to jail. Although the Green Goblin is currently at large again.
+
+Recently, Ben has been approached by the [[Kingpin (comics)|Kingpin]] to act as journalist covering the Kingpin brokering a deal with the [[FBI]] for release and reinstatement of his wealth, in exchange for proof that Daredevil is in fact Matt Murdock. 
+
+==Appearances in other media==
+*Ben Urich appeared in the 2003 Daredevil feature film, played by [[Joe Pantoliano]].
+
+*The novel ''[[The Intuitionist]]'' by [[Colson Whitehead]] included an investigative reporter named Ben Urich whose fingers were broken by thugs, just as [[The Kingpin]] threatened during the "[[Daredevil: Born Again|Born Again]]" storyline.
+
+*In [[Ultimate Marvel]] Continuity, Ben Urich is a top reporter at the Daily Bugle who works with Peter Parker. He wrote a series of articles that took down Kingpin and got a book deal off the thing. He also submitted incrimnating evidence on the Kingpin to court and Kingpin had to leave the country.
+
+
+[[Category:Daredevil supporting characters|Urich, Ben]]
+[[Category:Fictional reporters|Urich, Ben]]
+[[Category:Spider-Man supporting characters|Urich, Ben]]
+
+
+{{Marvel-Comics-stub}}

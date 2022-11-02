@@ -1,0 +1,28 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Black_hand.jpg|225px]]
+|caption=
+|comic_color=background:#8080ff
+|character_name=Black Hand
+|real_name=William Hand
+|publisher=[[DC Comics]]
+|debut=''Green Lantern vol. 2'' #29 (June 1964)
+|creators=[[John Broome (writer)|John Broome]],</br> [[Gil Kane]]
+|alliance_color=background:#c0c0ff
+|status=Active
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}}
+
+'''Black Hand''' (real name '''William Hand''') is a [[DC Comics]] [[supervillain]] and a recurring foe to [[Hal Jordan|Green Lantern]]. He first appeared in ''Green Lantern v2'' # 29 (June 1964) and was created by [[John Broome (writer)|John Broome]] and [[Gil Kane]].
+
+An inventive genius, with a penchant for speaking in hoary old clichés, Hand's most noteworthy invention is a device that can absorb the residue of Green Lantern power ring energy from any object that it has touched.  Black Hand can then use this energy much the same way that Green Lantern does.  In addition to Green Lantern Hal Jordan, Black Hand has also done battle with the second Flash, Barry Allen.
+
+== External links ==
+* [http://glcorps.dcuguide.com/book2.php The Book of OA]
+* Pic[http://www.earth2comics.com/images/products/26/26859.jpg]
+
+
+[[Category:Green Lantern villains]]

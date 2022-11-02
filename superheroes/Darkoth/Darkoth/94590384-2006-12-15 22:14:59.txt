@@ -1,0 +1,52 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:darkoth.jpg|200px]]
+|caption=
+|publisher=[[Marvel Comics]]
+|debut=''[[Fantastic Four]]'' series 1 #142, (January 1974)
+|creators=[[Gerry Conway]] (writer)</br>[[Rich Buckler]] (artist)
+|character_name=Darkoth
+|real_name = Desmond Pitt
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances = [[NASA]]<br>[[United States Air Force]]
+|aliases = <!-- optional: actual identities the character uses, not nicknames -->
+|supports=<!--optional-->
+|powers = Superhuman strength,<br>Flight,<br>Density control
+}}
+
+'''Darkoth''' (aka '''Darkoth the Death Demon''') is a [[fictional character]], [[supervillain]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]]. His first appearance was in ''[[Fantastic Four]]'' series 1 #142, (January 1974), and he was created by [[Gerry Conway]] and [[Rich Buckler]].
+
+==Fictional character biography==
+Major Desmond Pitt of the United States Air Force, was from the (fictional) city of St. Louis, [[Montana]]. He had a degree in [[aeronautical engineering]] and was a friend of, then test pilot, [[Thing (comics)|Ben Grimm]]. 
+
+Later, Pitt discovered that agents of [[Doctor Doom]], had infiltrated a solar shuttle project he was assigned to. Pitt passed himself off as a willing accomplice in order to discover the extent of their infiltration into [[NASA]]. He was so convincing that Doom himself took an interest. 
+However, due to the recent death of his wife, Pitt made an error of judgment, and was discovered to be a double agent. Doom's operatives had Desmond denounced as a traitor, and kidnapped.
+
+Doom made an example of Desmond by using genetic surgery and mutagenic compounds to radically alter his body until he resembled a legendary [[Latveria|Latverian]] mountain demon and codenamed him ''Darkoth the Death Demon''. Doom wiped his memories, and implanted the hypnotic suggestion that Darkoth was really a demon that had been rescued from the Netherworld. Darkoth was then enhanced by [[Diablo (comics)|Diablo]] and fought both Doom and the Thing. Upon his memory's returned he became Doom's nemesis, and the Thing's ally.
+
+Later, Darkoth was killed in a battle with [[Thor (Marvel Comics)|Thor]], and ended up in [[Belasco]]'s Realm, the dimension known as Otherplace. There he fought Belasco's servant [[S'ym]] for possession of the [[Soulsword]]. Darkoth killed S'ym and took control over the Soulsword, thereby becoming the embodiment of Otherplace, which he transformed into a realm of peace.
+
+==Powers==
+*As Darkoth, Pitt had superhuman strength, a demonic appearance, the ability to fly and alter his density. He was also able to fire energy blasts.
+*Due to Diablo mutating him he gained the ability to fly, and become intangible.  	 
+*After his resurrection in Otherplace he gained the ability to shapeshift.
+
+==Brief bibliography==
+*''Excalibur'', volume 1; #38-39
+*''Fantastic Four'', volume 1; #142-144, 193-194
+*''Thor'', volume 1; #325
+
+==External links==
+*[http://rapsheet.co.uk/RapSheetMain/Character.asp?UniqueId=659 Rapsheet: Darkoth profile]
+*[http://www.immortalthor.net/bio-darkoth.html Darkoth at ImmortalThor.net]
+*[http://www.marvunapp.com/Appendix3/darkoth.htm Darkoth at marvunapp.com]
+
+[[Category:Fantastic Four villains]]
+[[Category:Fictional cyborgs]]
+[[Category:Marvel Comics mutates]]
+[[Category:Black supervillains]]
+[[Category:Fictional African-Americans]]
+
+[[fi:Darkoth]]
+{{-}}
+{{Marvel-villain-stub}}

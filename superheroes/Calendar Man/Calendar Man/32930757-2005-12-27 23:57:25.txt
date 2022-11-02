@@ -1,0 +1,34 @@
+{{Superherobox|
+image=[[Image:Calendarman.jpg|230px]]
+|caption=Calendar Man<br>[[Tim Sale]], artist.
+|comic_color=background:#8080ff
+|character_name=Calendar Man
+|real_name=Julian Day
+|publisher=[[DC Comics]]
+|debut=''[[Detective Comics]]'' #259 (September 1958)
+|creators=[[Bill Finger]]
+|alliance_color=background:#c0c0ff
+|status=Unknown
+|alliances=None
+|previous_alliances= [[Two-Face]], The Misfits
+|aliases=
+|relatives=
+|powers= None
+|}}
+
+Calendar Man (real name: '''Julian Gregory Day''') is a [[DC Comics]] supervillain. His main enemy is [[Batman]]. He first appeared in ''[[Detective Comics]] #259'' (September 1958). He was created by [[Bill Finger]].
+
+Calendar Man is fascinated by dates and calendars and usually always revolves his crimes around what day of the week it is or in the case of the day having a special anniversary he will plan his crime around that day. He also wears different costumes which correspond to the crime of the day that he is commiting though he does have a main costume which has various numbers (meant to represent days sprouting from the shoulders).
+
+Because his crimes are generally petty in nature, he is notorious amongst both heroes and villains alike for being something of a joke as nobody really takes him seriously (including the fans themselves and Calendar Man has long been criticised for it). Consequently, his post-[[Crisis on Infinite Earths|Crisis]] appearances have been few and far between.
+
+He is probably best known for his appearance in ''[[Batman: The Long Halloween]]'', where he was a [[Hannibal Lecter]] like figure, offering insight in Batman's search for [[Holiday (comics)|Holiday]], a serial killer who used the holidays as his M.O. Like Lecter in ''[[Silence of the Lambs]]'', Calendar Man knew who the killer was and kept this information to himself, choosing instead to taunt the heroes with cryptic clues. He returns in that story's sequel, ''[[Batman: Dark Victory|Dark Victory]]''. In both stories, he is bitter that these newer, murderous rogues have appropriated his M.O., and is fearful that he is being forgotten.
+
+He is also known for teaming up with [[Catman (comics)|Catman]] and [[Killer Moth]] as part of ''The Misfits'', a group of third rate villains trying to prove themselves ([[Batman: Shadow of the Bat]] issues 7 - 9 made in 1992/93). He was among the [[Arkham Asylum]] inmates freed by [[Bane (comics)|Bane]] in ''[[Knightfall]]'', but he was easily recaptured by [[Power Girl]] shortly after his escape.
+
+In recent years comic book writers have tried to make Calendar Man much more of a greater threat to Batman as told in the third issue of the 80 Page giant Batman Special Editions (July 2000) titled ''All the Deadly Days''. In this story, he gains a new high tech costume (red suit with a gold mask), and moves up to more gradiose crimes.
+
+A female variation of the character named [[Calendar Girl (Batman: The Animated Series)|Calendar Girl]] appears in ''[[The New Batman Adventures]]''. She wore a mask and planned her crimes around the [[Season|Four Seasons]], with a different costume corresponding to each season.
+
+
+[[Category:Batman villains]]

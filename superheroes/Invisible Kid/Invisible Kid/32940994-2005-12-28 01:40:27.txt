@@ -1,0 +1,34 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:invisiblekidmodern.jpg]]
+|caption=
+|comic_color=background:#8080ff
+|character_name=Invisible Kid
+|real_name=Lyle Norg
+|publisher=DC Comics
+|debut=Action Comics #267
+|creators=
+|alliance_color=background:#ffc0c0
+|status=Active
+|alliances=Legion of Super-Heroes
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=Invisibility
+|}}
+'''Invisible Kid''' is the name used by two [[fictional character]]s in the future of the [[DC Comics]] [[DC Universe|universe]], both of whom were members of the [[Legion of Super-Heroes]] with the [[superhuman]] ability to become [[invisibility|invisible]].
+
+The first Invisible Kid was Lyle Norg, an early member of the Legion who gained his powers from a chemical serum he invented.  He was killed by the monster called [[Validus]].  He first appeared in ''[[Action Comics]]'' #267, and was a permanent member of the Legion Espionage Squad. His scientific aptitude meant he got along well with the super-intelligent [[Brainiac 5]]. 
+
+The second Invisible Kid was Jacques Foccart, a native of Earth who duplicated the original Kid's powers to save Earth from [[Computo]], who had taken over the mind of his sister.  He first appeared in ''Legion of Super-Heroes Annual'' #1. He later served as President of Earth. His younger sister Danielle was also a Legionnaire, with the ability to communicate with computers. With deliberate irony, she adopted the name "Computo".
+
+Following the [[Zero Hour (comics)|Zero Hour]] Legion reboot, Lyle Norg is still alive and serving with the Legion. Jaques Foccart is a schoolfriend of his, who was forced by a rival student to drink Norg's serum, which had been calibrated only for Norg's physiology, as a test to see if it was safe for her. Although he was believed killed, he was saved by EarthGov's Intelligence Division. The serum grants him the ability to render him undetectable by any means, though this ability causes him severe pain to use. He currently works for EarthGov's Intelligence Division. ''[[The DC Comics Encyclopedia]]'' confirmed he is in a relationship with [[Chemical King|Condo Arlik]].
+
+The 2005 Legion reboot begins with Lyle joining the team. In this version he is exceedingly nervous and prone to making bad decisions under pressure. His father is a senior officer in the Science Police, something he attempted to conceal from the Legion.
+
+
+[[Category:Fictional scientists]]
+[[Category:Legion of Super-Heroes members]]
+[[Category:LGBT comic book characters]]
+
+
+{{DC-Comics-stub}}

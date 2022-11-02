@@ -1,0 +1,42 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Agentx06.jpg|250px]]
+|caption=Agent X, by Alvin Lee of [[UDON]]
+|comic_color=background:#ff8080
+|character_name=Agent X
+|real_name=Nijo
+|publisher=[[Marvel Comics]]
+|debut=(as Nijo) ''Deadpool'' (ongoing) #65 (May, 2002)<br/>(as Alex Hayden/Agent X) ''Agent X'' #1 (September, 2002)
+|creators=[[Gail Simone]]<br/>[[Alvin Lee (comics)|Alvin Lee]]
+|alliance_color=background:#cccccc
+|status=Active
+|alliances=[[Agency X]]
+|previous_alliances=
+|aliases=Alex Hayden
+|relatives=[[Deadpool (comics)|Deadpool]], [[Black Swan (comics)|Black Swan]] (mind donors)
+|powers=Regenerative [[healing factor]]<br>Superhuman endurance, stamina, and agility<br>Expert marksman<br>Subconscious telepathic blocking
+|}} '''Agent X''' is a [[fictional character|fictional]] [[mutant (fictional)|mutant]] [[mercenary]] whose adventures have been published by [[Marvel Comics]].  He first appeared in ''Agent X'' #1 (Sept 2002), by [[Gail Simone]] and [[UDON]]. That series, a pseudo-[[spinoff]] of ''[[Deadpool (comics)|Deadpool]]'', continued the cynical, slapstick, and highly-polished action which had characterized its parent series. Indeed, a central feature of ''Agent X'' was the question of the title character's identity, sometimes implied to be Deadpool himself.
+
+==Publication history==
+''Agent X'' was born out of Marvel Comics' long-
+running ''[[Deadpool (comics)|Deadpool]]'' series, whose sales had slumped to cancellation point, with experiments including the "miniseries within a series" ''Deadpool: Agent of Weapon X'' and ''Deadpool: Funeral for a Freak'', where the main series' numbering was demoted to secondary status below the "miniseries" numbering, having failed to stymie the leak.  The decision was then taken to run a "final arc" to close the series, then restart it from #1 with an X in the title in an attempt to more closely identify it with their popular [[X-Men]] franchise (as part of the same effort, ''Cable'' was changed to ''[[Soldier X]]'' to poor reviews). Online humourist [[Gail Simone]] was chosen to write both ''Deadpool'''s final arc and the new series, with the [[UDON]] studio, who had recently revamped the [[Taskmaster]] in a well-received miniseries, to supply the art.
+
+Unlike ''[[Soldier X]]'', Simone chose to replace Deadpool with a similar protagonist, while including ambiguous hints as to the nature of his relationship with Deadpool. However, while her and UDON's issues of both ''Deadpool'' and ''Agent X'' were well-received critically and increased sales, behind-the-scenes they clashed with editor Andrew Lis, who had joined the team as editor with ''Agent X'' #1, who frequently insisted on often-minor changes (one particularly infamous example quoted involved demand to "make the walls dirtier"  [http://www.comicbookresources.com/columns/index.cgi?column=litg&article=1430]). Eventually, this caused Simone and UDON to leave the book after issue 7, with the protagonist's true identity still unrevealed.
+
+The book's sales then suffered badly under a series of fill-ins, which received mixed critical reviews, and it was eventually cancelled with #12. However, shortly after this announcement, Marvel decided to launch a ''[[Cable & Deadpool]]'' book, and, with Lis having been moved away from the editorial staff in the meantime, Simone and UDON agreed to do a three-issue arc tying up the loose ends and restoring Deadpool for use in the new book, which was published after a month's hiatus as ''Agent X'' #13-15.
+
+==House of M==
+An asian male wearing yellow goggles and a belt forming an X around his chest is shown under the sapiens resistance group in House of M issue 4. Its highly possible that this is Nijo since Deadpool's existence was eliminated through his dimensional jump shortly before House of M, preventing him from receiving his trademark X-scars.
+
+==External Links==
+*[http://www.marvel.com/universe/Agent_X Agent X on the Marvel Universe Character Bio Wiki]
+
+
+[[Category:Marvel Comics titles]]
+[[Category:2002 introductions]]
+[[Category:Fictional Americans in Marvel Comics]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Fictional mercenaries]]
+[[Category:Marvel Comics mutants]]
+[[Category:Fictional characters with the power of accelerated healing]]
+
+[[it:Agente X]]

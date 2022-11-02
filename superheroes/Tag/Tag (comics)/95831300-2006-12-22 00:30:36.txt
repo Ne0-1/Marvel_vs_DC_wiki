@@ -1,0 +1,39 @@
+{{Superherobox| <!--Part of Wikipedia:WikiProject Comics-->
+image=[[Image:Tag (comics).png|250px]]
+|caption=Tag, by [[Clayton Henry]]
+|comic_color=background:#ff8080
+|character_name=Tag
+|real_name=Brian Cruz
+|species=[[mutant (fictional)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''New Mutants'' (volume 2) #7
+|creators=[[Nunzio DeFilippis]]<br>[[Christina Weir]]<br>[[Carlo Barberi]]
+|alliance_color=background:#ffc0c0
+|status=Deceased
+|alliances=
+|previous_alliances=[[X-Mansion|Xavier Institute]], [[Hellions]] squad
+|aliases=
+|relatives=
+|powers=Can "tag" a person, forcing others to run away from the subject or flock to them.
+|}}
+'''Tag''' is a [[fictional character]], a [[Puerto Rico| Puerto Rican]] [[mutant (fictional)|mutant]] in the [[Marvel Universe]], one of the student body in the [[X-Mansion|Xavier Institute]], and a member of the [[Hellions]] squad therein. His real name is Brian Cruz, and he first appeared in ''New Mutants'' (volume 2) #7.
+
+After most of the world's mutants lost their powers in "House of M", headmistress [[Emma Frost]] decided it would be best if non-powered students left the school.  While some left early, Tag stuck around the mansion as long as possible.  After he and several other mutants (including [[Dryad (comics)|Dryad]] and [[Network (comics)|Network]]) said goodbye to their friends, they climbed on a bus out of Xavier's.  Unfortunately the bus was destroyed by a missile launched by [[William Stryker|William Stryker's]] Purifiers.  Tag and the others that were in the bus were killed.
+
+==Powers==
+
+Tag could "tag" other people, originally causing them to emit a psionic signal compelling others to run away from the tagged subject.  In the ''Hellions'' mini-series he further developed his abilities to cause people to flock to a tagged individual as well. His powers were removed during the 2005 miniseries "House of M", in which Brian and several other mutants were turned into "baseline" humans.
+
+==Bibliography==
+*''Hellions'' #1-4
+*''New Mutants'' vol. 2 #10, 
+*''New X-Men: Academy X'' #2, 13-19
+*''New X-Men: Academy X Yearbook''
+*''New X-Men'' vol. 2 #20
+
+{{Marvel-Comics-stub}}
+
+[[Category:X-Men supporting characters]]
+[[Category:Fictional Puerto Ricans]]
+[[Category:Hispanic superheroes]]
+[[Category:Marvel Comics mutants]]

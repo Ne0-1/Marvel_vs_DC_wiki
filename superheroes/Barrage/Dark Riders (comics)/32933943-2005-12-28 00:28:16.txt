@@ -1,0 +1,27 @@
+{{Superteambox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|team_name=Dark Riders
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Factor]]'' Vol. 1 #65 (April 1991)
+|creators=[[Chris Claremont]]<br>[[Jim Lee]]<br>[[Whilce Portacio]]
+|status=Inactive
+|base=Various
+|alliance_color=background:#c0c0ff
+|current_members=None
+|former_members=[[Apocalypse (comics)|Apocalypse]]<br>[[Stryfe]]<br>[[Genesis (comics)|Genesis]]<br>Gauntlet<br>Dirt Nap<br>Foxbat<br>Lifeforce<br>Spyne<br>Hurricane<br>Tusk & the Underlings<br>Psynapse<br>Barrage<br>Hard Drive<br>Deadbolt
+|}} 
+
+The '''Dark Riders''', and also known as the '''Riders of the Storm''' are a team of [[comic book]] [[supervillain]]s composed of [[mutant (fictional)|mutants]] and [[Inhumans]], in [[Marvel Comics]]' [[Marvel Universe|universe]], who are devoted to the philosophy of [[survival of the fittest]]. They were created by [[Chris Claremont]], [[Jim Lee]], and [[Whilce Portacio]]; in ''[[X-Factor]]'' Vol. 1 #65 (April 1991).
+
+  
+==External links==
+* [http://www.uncannyxmen.net/db/pov/showquestion.asp?faq=5&fldAuto=36 DARK RIDERS / RIDERS OF THE STORM] - An indepth profile of this team, at [http://www.uncannyxmen.net/ UXN]
+
+
+[[Category:Marvel Comics supervillain teams]]
+[[Category:X-Men villains]]
+
+
+{{Marvel-Comics-stub}}

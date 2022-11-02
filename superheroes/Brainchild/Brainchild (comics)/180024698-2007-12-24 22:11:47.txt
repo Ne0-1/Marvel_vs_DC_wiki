@@ -1,0 +1,34 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Brainchild
+|real_name=Unrevealed
+|species=[[Savage Land Mutates|Savage Land Mutate]]
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Men]]'' #62 (Nov 1969)
+|creators=[[Roy Thomas]] and [[Neal Adams]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Savage Land Mutates]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=Superhuman intelligence
+|}} 
+
+'''Brainchild''' is a fictional character in the [[Marvel Universe]].
+
+==Fictional character biography==
+Brainchild was once a [[Savage Land Races#Swamp Men|Swamp Man]] of the [[Savage Land]], a tropical preserve hidden in Antarctica.  He became one of the [[Savage Land Mutates]], changed by [[Magneto (comics)|Magneto]] to give him unusually high intelligence, although he at least formerly only had the emotional level of a child.  Brainchild was one of Magneto's first Savage Land Mutates, and has been involved in all the Mutates' subsequent activities.
+
+==Powers and abilities==
+Brainchild’s superhuman intelligence and computer-like mind enable him to make scientific and mathematical calculations with the speed and accuracy of a highly advanced computer.
+
+==External links==
+*[http://www.marvunapp.com/Appendix4/brainchildslm.htm His profile in the Appendix to the Handbook of the Marvel Universe]
+*http://en.marveldatabase.com/Brainchild_%28Earth-616%29
+
+
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics supervillains]]

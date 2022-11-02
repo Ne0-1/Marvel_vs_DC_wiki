@@ -1,0 +1,28 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image= 
+|caption=
+|comic_color=background:#ff8080
+|character_name=Doctor Faustus
+|real_name=Johann Fennhoff
+|publisher=[[Marvel Comics]]
+|debut=''Captain America'' (v1) #107 (2004)
+|creators=[[Stan Lee]]<br>[[Jack Kirby]]
+|alliance_color=background:#c0c0ff
+|status=Active
+|alliances=[[Red Skull]]
+|previous_alliances=
+|aliases=Doctor Faustus, Master of Mens' Minds
+|relatives=Anna (mother)
+|powers=Expert in psychological warfare
+|}}
+
+'''Doctor Faustus''' is a [[Marvel Comics]] [[super-villain]] who has proclaimed himself the "Master of Mens' Minds," and is known for the use of psychological methods of combat.  An [[Austrian]] by birth, he is most commonly associated with [[Captain America]], first appearing in issue #107 of his first series, where he attempted to drive Captain America insane.  His plots typically involve manipulating his foes into positions where they will, essentially, kill themselves.
+
+Notable events in his history as a Captain America foe include his being responsible for the creation of the villain known as the [[Grand Director]], his involvement with the villain and future [[Thunderbolt (comics)|Thunderbolt]] [[Moonstone (comics)|Moonstone]], and the seeming death of [[S.H.I.E.L.D.]] Agent [[Sharon Carter]] in the course of one of his schemes (Carter was later revealed to have survived).  As with most of Captain America's enemies, he has at times been allied with the [[Red Skull]].  
+
+He was presumed dead for a number of years, but most recent appeared in ''[[Captain America]]'' (v5) #22, now living undercover as a [[S.H.I.E.L.D.]] psychologist, and in the employ of the [[Red Skull]].  Faustus is tasked with manipulating [[Sharon Carter]], and claims responsibility for Carter's increasing romantic attachment to Captain America.
+
+[[Category:S.H.I.E.L.D.|Faustus]]
+[[Category:Captain America villains|Faustus]]
+
+{{Marvel-Comics-stub}}

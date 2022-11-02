@@ -1,0 +1,250 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=Galactus.PNG
+|imagesize=
+|converted=y
+|caption=Galactus on the [[variant cover]] of ''[[Skaar|Son of Hulk]]'' #14 (Oct. 2009).<br>Art by [[Mitch Breitweiser]].
+|character_name=Galactus
+|publisher=[[Marvel Comics]]
+|debut=''[[Fantastic Four]]'' #48 (March 1966)
+|creators=[[Stan Lee]]<br>[[Jack Kirby]]
+|alter_ego=Galan
+|species=
+|homeworld='''Galan''': Taa<br> '''Galactus''': [[Cosmic egg#Influences on science fiction|Cosmic Egg]]
+|alliances=[[Herald of Galactus|Heralds of Galactus]]<br>[[God Squad (comics)|God Squad]]
+|aliases=Ashta,<ref name="stormbreaker1"/> Ravager of Worlds, Devourer of Worlds, The Creator
+|supports=<!--optional-->
+|powers=Possessor of the [[Power Cosmic]]
+|cat     =cosmic entities
+|subcat  =Marvel Comics
+|sortkey =Galactus
+}}
+
+'''Galactus''' is a [[fictional]] [[character (arts)|character]] appearing in [[comic book]]s and other [[publications]] published by [[Marvel Comics]]. Created by writer-editor [[Stan Lee]] and artist and co-plotter [[Jack Kirby]], the character [[first appearance|debuted]] in ''[[Fantastic Four]]'' #48 (March 1966), the first of a three-issue story later known as "[[The Galactus Trilogy]]".<ref>Thomas, Roy, ''Stan Lee's Amazing Marvel Universe'' (Sterling Publishing, New York, 2006), "Moment 29: The Galactus Trilogy", pp. 112-115. ISBN 1-4027-4225-8; ISBN 978-1-4027-4225-5</ref><ref name=kirbycollector1>{{Cite journal
+  | last = Hatfield
+  | first = Charles
+  | author-link =
+  | title = The Galactus Trilogy: An Appreciation
+  | journal = The Collected Jack Kirby Collector
+  | volume = 1
+  | pages = 211
+  |date=February 2004
+  | postscript = <!--None-->}}</ref>
+
+Debuting in the [[Silver Age of Comic Books]], Galactus has appeared in over four decades of Marvel continuity, also starring in a [[one-shot (comics)|one-shot]] publication ''Super-Villain Classics: Galactus the Origin'' #1 (May 1983),<ref>Reprinted as ''Origin of Galactus'' #1 (Feb. 1996)</ref> and the [[limited series]] ''Galactus the Devourer'' (Sept. 1999 - March 2000). The character has been featured in other Marvel-endorsed products and merchandise such as [[Arcade game|arcade]] and [[video game]]s, [[animated]] [[television series]], [[action figures]], [[trading cards]], and a film, ''[[Fantastic Four: Rise of the Silver Surfer]]''.
+
+In 2009, Galactus was ranked as number five on the [[pop culture]] site [[IGN.com]]'s list of 100 top comic-book [[antagonists]].<ref>[http://comics.ign.com/top-100-villains/5.html "Top 100 Comic Book Villains of All Time: 5. Galactus"], [[IGN.com]], 2009, n.d. [http://www.webcitation.org/5v9dKKzvX WebCitation archive].</ref>
+
+==Publication history==
+===Origin===
+{{Main|The Galactus Trilogy}}
+In 1966, nearly five years after having launched [[Marvel Comics]]' flagship [[superhero]] title, ''Fantastic Four'', creators [[Stan Lee]] and [[Jack Kirby]] collaborated on an antagonist designed to break from the archetypal mold of [[supervillain]]s of the time, and be instead a being of god-like stature and power.<ref name=kirbycollector1>Hatfield, Charles. "The Galactus Trilogy: An Appreciation", ''The Collected Jack Kirby Collector'', February 2004, p. 211</ref> As Lee recalled in 1993,
+{{bquote|Galactus was simply another in a long line of super-villains whom we loved creating. having dreamed up [many] powerful baddies ... we felt the only way to top ourselves was to come up with an evil-doer who had almost godlike powers. Therefore, the natural choice was sort of of demi-god, but now what would we do with him. We didn't want to use the tired old cliche about him wanting to conquer the world. ...  That was when inspiration struck. Why not have him not be a really evil person? After all, a demi-god would be beyond mere good and evil. ... [What] he'd require is the life force and energy from living planets!"<ref>Lee, Stan. "Introduction" (second page, unnumbered) 1993, ''Marvel Masterworks: The Fantastic Four Vol. 5''<!--as spelled in copyright indicia--> (Marvel Publishing : second edition, second printing, 2007) ISBN 978-0-7851-1184-9</ref>}}
+<!--Wiki MOS is to use blockquotes for quotes four lines or longer-->
+Kirby described his Biblical inspirations for Galactus and an accompanying character, an angelic herald Lee dubbed the [[Silver Surfer]]:
+{{bquote|My inspirations were the fact that I had to make sales. And I had to come up with characters that were no longer stereotypes. ...I had to get something new. And ... for some reason, I went to the Bible. And I came up with Galactus. And there I was in front of this tremendous figure, who I knew very well, because I always felt him, and I certainly couldn't treat him the same way that I would any ordinary mortal ... and of course the Silver Surfer is the fallen angel. ...[T]hey were figures that have never been used before in comics. They were above mythic figures, and of course, they were the first gods.<ref>{{cite video
+  | people = Viola, Ken
+  | title = The Masters of Comic Book Art]
+  | medium = VHS
+  | publisher = Viola, Ken
+  | location = USA
+  |date= 1987 }}</ref>}}
+
+Kirby further explained, "Galactus in actuality is a sort of god. He is beyond reproach, beyond anyone's opinion. In a way he is kind of a Zeus, who fathered Hercules. He is his own legend, and of course, he and the Silver Surfer are sort of modern legends, and they are designed that way."<ref>Christensen, William A., and Mark Seifert. [http://www.reocities.com/brenni_au/JackKirby.html "The King"], ''[[Wizard (magazine)|Wizard]]'' #36, August 1994, via Brenni_Au/JackKirby (fan site). [http://web.archive.org/web/20101007232709/http://www.reocities.com/brenni_au/JackKirby.html Archive.org archive].</ref>
+
+Writer [[Mike Conroy (writer)|Mike Conroy]] expanded on Lee and Kirby's explanation, stating, "In five short years from the launch of the ''Fantastic Four'', the Lee/Kirby duo...had introduced a whole host of alien races or their representatives...there were the [[Skrull]]s, the [[Watcher (comics)|Watcher]] and the [[Stranger (comics)|Stranger]], all of whom Lee and Kirby used in the foundations of the universe they were constructing, one where all things were possible but only if they did not flout the 'natural laws' of this cosmology. In the nascent Marvel Universe, characters acted consistently, whatever comic they were appearing in. Their actions reverberated through every title. It was pure soap opera but on a cosmic scale, and Galactus epitomized its epic sweep."<ref>Conroy, Mike. ''500 Comicbook Villains'', Collins & Brown, 2004.</ref>
+
+All this led to the introduction of Galactus in ''Fantastic Four'' #48-50 (March–May 1966), which fans began calling "The Galactus Trilogy".<ref>{{Citation |last=Fein |first=Eric |title=The Creation of the Fantastic Four |publisher=The Rosen Publishing Group |year=2006 |pages=48}}</ref><ref>[[Roy Thomas|Thomas, Roy]]. ''Stan Lee's Amazing Marvel Universe'' ([[Sterling Publishing]] : New York City, 2006), p. 113. ISBN-10 1-4027-4225-8; ISBN-13 978-1-4027-4225-5</ref><ref>[[Stan Lee|Lee, Stan]], in Thomas, ''Stan Lee's Amazing Marvel Universe'', audio commentary #37</ref> It culminated in ''Fantastic Four'' #50 (May 1966), which featured the Silver Surfer interceding on behalf of humankind against Galactus. Subsequently, Galactus relegates the Surfer to earth by erecting an impenetrable barrier, leading to several guest appearances by the Silver Surfer in ''Fantastic Four''. This signaled the departure of Galactus from the story following the trilogy, as Kirby had not intended for Galactus to reappear in order to preserve the character's tremendous presence.<ref name=kirbycollector2>{{Cite journal
+  | last = Alexander
+  | first = Mark
+  | author-link =
+  | title = ''Galactus, Pillager of the Planets! Kirby's First Demi-god''
+  | journal = ''The Collected Jack Kirby Collector''
+  | volume = 5
+  | pages = 196
+  | date = April 12, 2006
+  | postscript = <!--None-->
+  }}</ref> Popularity among fans, however, prompted Lee to petition Kirby for Galactus' reappearance,<ref name=kirbycollector2 /> and the character eventually became a mainstay in the Marvel Universe.
+[[File:FantasticFour49.jpg|thumb|right|''Fantastic Four'' #49 (April 1966), featuring Galactus. Cover art by [[Jack Kirby]] & [[Joe Sinnott]].]]
+
+===1960s===
+Galactus returned for a [[cameo appearance|cameo]] in ''[[Thor (Marvel Comics)|Thor]]'' #134 (Nov. 1966), although the plot-line was left unresolved as Kirby put the character on hiatus.<ref name="kirbycollector2"/> Galactus reappeared in a [[Flashback (narrative)|flashback]] cameo in ''[[Daredevil (Marvel Comics)|Daredevil]]'' #37 (Feb. 1968) and then featured heavily in ''Fantastic Four'' #72-77 (March - Aug. 1968) at the request of Lee.<ref name="kirbycollector2"/> After a flashback appearance in ''Silver Surfer'' #1 (Aug. 1968), the character returned to Earth in ''Thor'' #160-162 (Jan.- March 1969), which resolved the plot-line from issue #134, and issue #162 began the transition to Galactus' origin story, but the character made an unexplained departure from the storyline. Galactus' origin was finally revealed in ''Thor '' #168-169 (Sept.-Oct. 1969).
+
+===1970s & 1980s===
+The character made appearances in ''Fantastic Four'' #120-123 (March–June 1972) and ''Thor'' #225-228 (July-Oct. 1974) - the storylines introduced two new [[Herald of Galactus|Heralds of Galactus]] - and ''Fantastic Four'' #172-175 (July-Oct. 1976) and #206-213 (May-Dec. 1979).
+
+Writer [[Mark Gruenwald]], pencillers [[John Byrne]] and [[Ron Wilson (comics)|Ron Wilson]], and inkers [[Jack Abel]] and [[Vince Colletta]] collaborated to produce an in-depth, 23-page origin story titled "Galactus", which appeared in ''Super-Villain Classics: Galactus the Origin'' #1 (May 1983). While mostly identical to the previous origin, the story featured additions, edits, and deletions, and was later reprinted as ''Origin of Galactus'' #1 (Feb. 1996). Certain details regarding the character's transformation into Galactus are altered. Most specifically, rather than journeying into a dying star, the character enters [[Cosmic egg|the core of the collapsing universe]] prior to the "[[Big Bang]]".
+
+The character guest-starred in ''[[Rom (comics)|Rom]]'' #26-27 (Jan.-Feb. 1982), being one of many Marvel characters that appeared to help bring credibility to the [[Parker Brothers]]-owned toy turned superhero. Galactus featured heavily in two related storylines in ''Fantastic Four'' #242-244 (May–July 1982) and #257 (Aug. 1983), which showcased the arrival of another Herald and examined Galactus' relationship with the other members of the cosmic hierarchy. The consequences of the storyline in ''Fantastic Four'' #242-244 (May–July 1982) were examined in ''[[Fantastic Four]]'' #262 (Jan. 1984) which attracted controversy. During the conclusion of the story, the character [[Eternity (Marvel Comics)|Eternity]], the living sentience of the Marvel Universe, appears to validate the existence of Galactus, which [[Howard University]] Professor of Literature Marc Singer criticized, stating writer-artist [[John Byrne]] used the character as a means to "justify planetary-scale genocide."<ref>Singer, Marc. [http://www.whiterose.org/howlingcurmudgeons/archives/005911.html "Byrne's Fantastic Four, or Optimism"] Howling Curmudgeons (fan site), May 18, 2004. [http://www.webcitation.org/5v9XIKXrX WebCitation archive].</ref>
+
+Writer-penciler [[John Byrne]] and inker [[Terry Austin (comics)|Terry Austin]] produced "The Last Galactus Story" as a serial in the [[anthology]] comics-magazine ''[[Epic Illustrated]]'' #26-34 (Oct. 1984 - Feb. 1986). Nine of a scheduled 10 installments appeared. Each ran six pages, except part eight, which ran 12. The magazine was canceled with issue #34, leaving the last chapter unpublished and the story unfinished. Byrne later revealed on his website that the conclusion would have seen a dying Galactus releasing his power, causing a new [[big bang]] and transforming his herald [[Nova (Frankie Raye)|Nova]] into the Galactus of the next universe.<ref name="byrnerobotics.com">[[John Byrne|Byrne, John]], [http://www.byrnerobotics.com/FAQ/listing.asp?ID=3&T1=Questions+about+Aborted+Storylines#57 "Exception to the rule #1: 'The Last Galactus Story'"], "Frequently Asked Questions - Questions about Aborted Storylines", Byrne Robotics, February 15, 2005. [http://www.webcitation.org/5v9bY5sSQ WebCitation archive].</ref>
+[[File:Galan-galactus.jpg|thumb|right|Galan of Taa and the Sentience of the [previous] Universe in the [[Cosmic egg]]]]
+Galactus played a pivotal role in the [[limited series]] ''[[Secret Wars]]'' #1-12 (May 1984 - April 1985), and became a recurring character in the third volume of the ''Silver Surfer'', commencing with issue #1 (July 1987).
+
+===1990s===
+Galactus featured prominently in the limited series ''[[The Infinity Gauntlet|Infinity Gauntlet]]'' #1-6 (July-Dec. 1991) and ''[[Infinity War]]'' #1-6 (June-Nov. 1992). Storylines in ''Silver Surfer'' vol. 3, #81-82 (June–July 1993) and the limited series ''Cosmic Powers'' #1 - 6 (March - Aug. 1994) also revealed Galactus once experimented and created the entity [[Tyrant (comics)|Tyrant]], who briefly returned and opposed his former master.
+
+The character starred in the six-issue ''Galactus the Devourer'' (Sept. 1999 - March 2000), written by Louise Simonson and illustrated by John Buscema, which climaxed with Galactus' death. Simonson had originally conceived of the [[story arc]] to take place in third volume of the ''Silver Surfer'', but the title was canceled due to dwindling sales. Simonson instead proposed a separate limited series, and at the time was initially doubtful that Marvel would approve what she believed to be a "radical" idea concerning "why the very existence of the universe depends on the health and well-being of Galactus."<ref>[http://marvelite.prohosting.com/surfer/galactus/interview1.html "Questions & Answers With Writer Louise Simonson: Part 1: In The Beginning..."], Galactus: The Devourer (fan site), n.d. Retrieved 2008-04-14. [http://www.webcitation.org/5v9bxLffx WebCitation archive].</ref>
+
+===2000s===
+The consequences of Galactus' death are explored in ''Fantastic Four'' Annual 2001 and ''Fantastic Four'' #46-49 (Oct. 2001 - Jan. 2002), as it is revealed that his energies kept a greater [[Abraxas (comics)|universal threat]] in check, and he is revived by [[Franklin Richards|Franklin]] and [[Valeria Richards]].
+
+Galactus features prominently in the first six issues of the series ''[[Thanos]]'' (Dec. 2003 - May 2004), written by [[Jim Starlin]]. The story is noteworthy due to a running theme of highly critical evaluation of the [[Social Darwinism|standard]] [[Divine right of kings|justifications]] for the character. The story reveals that Galactus never sleeps due to an aching conscience, and centers on his quest to find permanent non-sentient sources of energy, as he attempts to reassemble the [[Infinity Gems]] for this purpose. However, the even greater predator ''Hunger'' hijacks the attempt. At the end Thanos engages in a verbal exchange with Galactus, with the former stating that actively searching for non-harmfull alternate ways to feed his appetite was "the right thing to do", and defends the need for a "[[social contract]]" with the rest of the universe. Issues #7-12, written by Keith Giffen also retroactively introduce the first herald, the Fallen One.
+
+After appearing in the limited series ''Stormbreaker: The Saga of Beta Ray Bill'' #1-6 (March-Aug. 2005), Galactus was featured as a central character in the "[[Annihilation (comics)|Annihilation]]" storyline, appearing in the limited series ''[[Annihilation (comics)#Annihilation: Silver Surfer|Annihilation: Silver Surfer]]'' #1-4 (June-Sept. 2006), ''Annihilation'' #1-6 (Oct. 2006 - March 2007), and the [[epilogue]], ''[[Annihilation (comics)#Annihilation: Heralds of Galactus|Annihilation: Heralds of Galactus]]'' #1-2 (Feb.–April 2007). The second issue of the epilogue established that Galactus had quelled a rebellion among the "Proemial Gods", former caretakers of the early universe who wished to restructure it in their image. Additionally, in a separate story within the same book, a former herald of Galactus, [[Firelord]], stated that Galactus' "serves cosmic consonance".
+
+Galactus' origin is re-examined in ''Fantastic Four'' #520-523 (Jan.-April 2005), as the character is temporarily reverted to the mortal Galan; [[Mister Fantastic|Reed Richards]] appeals to Galan's humanity and convinces him to evade the "Galactus essence", but the plan ultimately fails, and Galan is reconstituted as Galactus once more.
+
+During a guest appearance in ''Fantastic Four'' #545-546 (June–July 2007), Galactus seeks to devour the fellow cosmic function [[Eon (comics)|Epoch]], and was opposed by the quartet along with the entity's then appointed "protector of the Universe" [[Gravity (comics)|Gravity]]. Following this, the character's feeding on a planet served as a backdrop in ''[[Nova (comics)|Nova]]'' vol. 4, #13-15 (May–July 2008), an appearance in which Galactus had no dialogue across all three issues, with the Silver Surfer instead acting as his mouthpiece. Writer [[Andy Lanning]] stated that he and co-writer [[Dan Abnett]] were "treating Galactus like a force of nature; an inevitable, planetary catastrophe that there is no reasoning with, no bargaining with and no escaping."<ref>Rogers,Vaneta. [http://forum.newsarama.com/showthread.php?t=153225 "Galactus, and Surfer and Skrulls - Oh My! Abnett & Lanning on Nova"], ''[[Newsarama]]'', April 10, 2008 [http://www.webcitation.org/5v9cJPcN1 WebCitation archive].</ref>
+
+The character also appeared in the limited series ''Beta Ray Bill: Godhunter'' #1-3 (June 2009 - Aug. 2009), a sequel to ''Stormbreaker: The Saga of Beta Ray Bill'' # 1-6 (March-Aug. 2005).
+
+Galactus and the Silver Surfer would also appear as antagonists in [[Skaar]]: Son of Hulk,<ref>''Skaar: Son of Hulk'' #9-11</ref> and later as protagonists in the limited series ''[[The Thanos Imperative]]'' (June-Nov. 2010) as well as featuring as members of the "[[God Squad (comics)|God Squad]]" within the [[Chaos War (comics)|Chaos War]] event miniseries.<ref>''Chaos War'' #2-5 (Dec.-March 2010)</ref>
+
+==Fictional character biography==
+{{In-universe|date=April 2010}}
+
+Galactus was originally an explorer called Galan from a planet called "Taa" in a universe which existed before the [[Big Bang]]. When the impending cataclysm gradually killed all life in his universe, including almost all of his own people, he and other survivors sought to escape the decay of their world. They left Taa via a space vessel, but it was eventually engulfed in the cataclysm that ended the old universe and spawned a new one. Galan, however, did not die, but was transformed through a bonding with the Sentience of the Universe, and [[gestate]]d for billions of years, emerging - partially due to the inactivity of a [[Watcher (comics)|Watcher]] - into the new universe as Galactus.<ref>''Super-Villain Classics: Galactus the Origin'' #1 (May 1983)</ref>
+
+In modern Earth times, the [[cosmic entity]] [[Uatu]] the Watcher, having met and established a relationship with [[superhero]] team the [[Fantastic Four]], warns leader [[Mister Fantastic]] of the coming of Galactus, who must consume the energies of entire worlds to survive. Uatu tries to hide Earth from the [[Herald of Galactus]], the [[Silver Surfer]], by placing a huge [[asteroid belt]] around the planet, but the ruse fails. The Surfer arrives on the top of the Fantastic Four's headquarters, the [[Baxter Building]], and alerts Galactus.
+
+The Fantastic Four battle the Surfer until  the arrival of Galactus, who ignores the pleas of the Watcher and the combined attacks of the Fantastic Four members the [[Johnny Storm|Human Torch]] and the [[Thing (comics)|Thing]], and begins to assemble a device to facilitate in the consumption of Earth's energies. Galactus is aided by his [[cyborg]] servant, the [[Punisher (Galactus)|Punisher]]. The Watcher, however, sends the Torch to Galactus' ship to retrieve the [[Ultimate Nullifier]], the one weapon that can destroy Galactus. When confronted by Mister Fantastic - wielding the Nullifier - and a rebellious Silver Surfer, who has been touched by the humanity of [[Alicia Masters]] (the Thing's girlfriend), Galactus retreats. The entity retrieves the Nullifier and banishes the Surfer to Earth, stating he may never leave.<ref>''Fantastic Four'' #48-50 (March–May 1966)</ref><ref>{{Cite web |first=Brian |last=Cronin |url=http://goodcomics.comicbookresources.com/2010/02/19/a-year-of-cool-comics-day-50/ |title=A Year of Cool Comics – Day 50 |work=[[Comic Book Resources]]|date=February 19, 2010|accessdate=September 29, 2010}}. [http://www.webcitation.org/5v9dyZ1wf WebCitation archive].</ref>
+
+Galactus eventually returned seeking his former Herald, who had taken refuge in a [[microscopic]] universe. Mister Fantastic, the Torch and the Thing pursue the Surfer, and after several encounters with the villain [[Psycho-Man]], ensure the Surfer makes contact with his former master. The Surfer, however, is unrepentant and chooses to remain on Earth.<ref>''Fantastic Four'' #72-77 (March-Aug. 1968)</ref> The Thunder God [[Thor (Marvel Comics)|Thor]] encounters Galactus when the entity comes into conflict with [[Ego the Living Planet]];<ref>''Thor'' #160-162 (Jan.-March 1969)</ref> and eventually discovers Galactus' origin.
+
+Galactus reappears when the entity sends the [[Air-Walker]] (eventually revealed to be an [[Android (robot)|android]] copy of the original<ref>''Thor'' #306 (April 1981)</ref>) to Earth to re-enlist the Silver Surfer as his Herald. The Fantastic Four and the Surfer defeat the Air-Walker, but to appease Galactus, Mr. Fantastic reprograms the entity's ship to journey to the [[Negative Zone]], where there will apparently be abundance of uninhabited worlds to consume.<ref>''Fantastic Four'' #120-123 (March–June 1972)</ref> Thor and [[Olympian (comics)|Olympian]] ally [[Hercules (Marvel Comics)|Hercules]] encounter Galactus when his third Herald, [[Firelord (comics)|Firelord]], travels to Earth seeking to be free of his master. The Herald is freed when Thor presents Galactus with the armor of the [[Asgardian (comics)|Asgardian]] [[Destroyer (Thor)|Destroyer]] to animate and use as a Herald.<ref>''Thor'' #225-226 (July-Aug. 1974)</ref>
+
+The character returns to battle the [[High Evolutionary]] over Earth's twin, [[Counter-Earth (comics)|Counter-Earth]] with the encounter ending with Galactus being transformed into harmless energy after attempting to devour the planet [[Poppup]].<ref>''Fantastic Four'' #172-175 (July-Oct. 1976)</ref> Galactus eventually reintegrates into his normal form, and is sought out by the Fantastic Four, who seek a way to stop a new cosmic threat, the [[Sphinx (Marvel Comics)|Sphinx]]. Mister Fantastic states that if Galactus will stop the Sphinx, he is free to attempt to attack Earth once again. Galactus agrees, but under the condition the Fantastic Four first help find and humble a fourth Herald. The heroes are successful, and the newly empowered [[Terrax]] leads his new master to Earth. Galactus locates the Sphinx in [[Egypt]] and defeats the villain, then decides to retreat when Mister Fantastic threatens to use a [[fake|faux]] Ultimate Nullifier, apparently built with the aid of the Watcher from technology on Galactus' ship.<ref>''Fantastic Four'' #206-213 (May-Dec. 1979)</ref>
+
+Galactus is tricked by the [[Galadorian]] spaceknight [[Rom (comics)|Rom]] into attempting to devour the "Black Nebula", the home of the [[Extraterrestrial life|alien]] [[Dire Wraiths]], but is repelled by the magic "Wraith Sun";<ref>''Rom'' #26-27 (Jan.-Feb. 1984)</ref> and although weakened, pursues a rebellious Terrax to Earth and strips his Herald of all power. Drained of energy, Galactus is saved by the combined efforts of the Fantastic Four and [[Avengers (comics)|Avengers]], and acquires a new Herald, [[Nova (Frankie Raye)|Nova]].<ref>''Fantastic Four'' #242-244 (May–July 1982)</ref> Galactus also destroys the [[Skrull]] homeworld and discusses with fellow cosmic entity [[Death (Marvel Comics)|Death]] his role in the universe.<ref>''Fantastic Four'' #257 (Aug. 1983)</ref> When Mister Fantastic is captured and placed on trial by a united group of alien races, all of whom have been annihilated as a result of Galactus' hunger, the entity Eternity intervenes. Eternity allows all present to momentarily become one with the universe, thereby allowing them to understand that Galactus is a vital part of cosmic order, despite the continued loss of entire races.<ref name="ff262"/>
+
+After an encounter with many of Earth's superheroes and supervillains and the entity the [[Beyonder (comics)|Beyonder]],<ref>''Secret Wars'' #1-12 (May 1984 - April 1985)</ref> Galactus aids the cosmic hierarchy in a war against the [[Eternal (comics)|Eternal]] [[Thanos]].<ref>''Infinity Gauntlet'' #1 - 6 (July - Dec. 1991)</ref> The entity has several recurring encounters with former Herald the Silver Surfer, who has escaped from Earth. Galactus grants the Surfer clemency, who also aids his former master against the [[Elders of the Universe]]<ref>''Silver Surfer'' vol. 3, #1-10 (July 1987 - April 1988)</ref> and the schemes of the entity the [[In-Betweener]].<ref>''Silver Surfer'' vol. 3, #16-17 (Oct.-Nov. 1988)</ref>
+
+When Galactus learns that Nova, once human, is plagued by conscience at causing the deaths of millions of alien beings, the entity creates a new Herald, the bloodthirsty [[Morg]].<ref>''Silver Surfer'' vol. 3, #70 (Sept. 1992)</ref> The Silver Surfer also learns of the existence of the being called [[Tyrant (comics)|Tyrant]], who is revealed to be a former creation of Galactus. Tyrant, however, was flawed and lusted for power, eventually battling his creator. Stripped of almost all power, Tyrant was banished to the edge of the universe.<ref>''Silver Surfer'' vol. 3, #81 - 82 (June - July 1993)</ref> A newly empowered Tyrant eventually returns, and despite capturing the Surfer; Morg and several other allies is thwarted by the [[Eternal (comics)|Eternal]] [[Thanos]],<ref>''Cosmic Powers'' #1-6 (March-Aug. 1994)</ref> and finally destroyed when Morg uses the Ultimate Nullifier.<ref>''Silver Surfer'' vol. 3, #109 (Oct. 1995)</ref>
+
+Galactus eventually decides, with the aid of new Herald [[Red Shift (comics)|Red Shift]], to only devour the energies of living beings which eventually bring the entity into conflict with Earth's heroes. During a final confrontation near the homeworld of the alien [[Shi'ar]], the Silver Surfer turns Galactus' own siphoning-machines on him, and a starving Galactus "dies", with his "remains" taking the form of a star.<ref>''Galactus the Devourer'' #1 - 6 (Sept. 1999 - March 2000)</ref> Galactus' death, however, allows the entity [[Abraxas (comics)|Abraxas]] - the metaphysical embodiment of destruction and the antithesis of cosmic entity [[Eternity (comics)|Eternity]] - to emerge from his imprisonment.<ref>''Fantastic Four'' Annual 2001</ref> Without Galactus to keep the entity in check, Abraxas wreaks havoc across thousands of [[Parallel universe (fiction)|alternate universe]]s, killing every incarnation of Galactus he encounters. Abraxas also manipulates the Fantastic Four, tricking them into reassembling the [[Ultimate Nullifier]], which Abraxas confiscates. Abraxas, however, is thwarted when the children of Reed Richards, [[Franklin Richards]] and [[Valeria Richards|Valeria Von Doom]], use their powers to restore Galactus (although the act of reviving Galactus permanently burns out the children's powers). Galactus reclaims the Nullifier, which is used by Mister Fantastic to reset reality, preventing Abraxas' initial escape and mass destruction.<ref>''Fantastic Four'' #46-49 (Oct. 2001 - Jan. 2002)</ref>
+
+Galactus attempts to rid himself of his hunger by using the [[Infinity Gems]], but is accidentally tricked into releasing an entity called the "Hunger" into the universe. The creature, however, is defeated with the aid of Thanos.<ref>''Thanos'' #1-6 (Dec. 2003 - May 2004)</ref> When Thanos travels to the edge of the universe, the character discovers a prison called the [[Kyln (comics)|Kyln]] that, in addition to housing former soldier [[Star-Lord]], holds the [[Fallen One]]: the first, "prototype" Herald of Galactus. Once freed, the savage Herald attempts to kill Galactus, although the entity simply teleports his creation back to Thanos, who defeats and subsequently enslaves the Fallen One.<ref>''Thanos'' #7 - 12 (May - Sep. 2004)</ref>
+
+The Fantastic Four also learn more about Galactus' origin during a brief period in which the Human Torch becomes a Herald.<ref>''Fantastic Four'' #520 - 523 (Jan. - April 2005)</ref> Galactus consumes the home world of the alien hero [[Beta Ray Bill]] and reveals a new Herald: [[Stardust (comics)|Stardust]].<ref>''Stormbreaker: The Saga of Beta Ray Bill'' #1 - 6 (March - Aug. 2005)</ref>
+
+Galactus becomes integral to the plans of the villain [[Annihilus]], who instigates a war against the universe. Annihilus' initial attack, a devastating assault called the [[Annihilation Wave]], destroys the Kyln and frees the ancient beings [[Aegis (Lady of All Sorrows)|Aegis]] and Tenebrous. The pair - together with fellow inmate Antiphon - are revealed to be "Proemial Gods" that existed at the dawn of the universe.  After a faction of the Gods led by Diableri of Chaos attempted to remake the universe in their image, [[civil war]] ensued. Galactus became involved in the struggle, slew Diableri, and imprisoned the remaining two rebel Gods in the Kyln, along with the neutral ''Antiphon the Overseer''. Intent on vengeance, Aegis and Tenebrous find and defeat the Silver Surfer and Galactus, delivering them to Annihilus.
+
+After destroying the Air-Walker robot and killing Morg, Annihilus and Thanos bind Galactus, intent on using the entity's energies to destroy the universe. Galactus, however, is freed by [[Drax the Destroyer]], and after teleporting Drax to safety, unleashes a blast that destroys more than three [[star system]]s and the majority of Annihilus' forces. The Surfer draws Aegis and Tenebrous into the barrier between the universe and the [[Negative Zone]], which destroys them.<ref>''Annihilation: Silver Surfer'' #1 - 4 (June - Sep. 2006); ''Annihilation'' #1 - 6 (Oct. 2006 - March 2007); ''Annihilation: Heralds of Galactus'' #1 - 2 (April - May 2007)</ref>
+
+Galactus and his herald Stardust once again come into conflict with Beta Ray Bill when Bill seeks vengeance against Galactus for consuming the second homeworld of his species, the Korbinites.<ref>''Beta Ray Bill: Godhunter'' #1 - 3 (June 2009 - Aug. 2009)</ref>
+
+==Powers and abilities==
+[[File:Galactuspov.PNG|185px|thumb|right|Galactus, as perceived by alien races. Panel from ''Fantastic Four'' #262 (Jan. 1984). Art by [[John Byrne]].]]<!--Both pencils and inks per UHMCC-->
+Galactus was created by the union between the "Sentience of the [previous] Universe" and Galan,<ref name="svc">''Super-Villain Classics'' #1 (May 1983)</ref> and was described by the Human Torch (as a [[Human_Torch#Getting_a_real_job|temporary herald]], he possessed a heightened perception of reality) as "the physical, metamorphosed embodiment of a [[cosmos]]."<ref name="fantastic522">''Fantastic Four'' #522 (March 2005)</ref> Galactus considers himself a higher being than all non-abstracts, maintaining his existence by devouring planets that have the potential for supporting life. This has resulted in the elimination of entire [[extraterrestrial life|extraterrestrial]] civilizations on numerous worlds.<ref>''Thanos'' #6 (May 2004)</ref>
+
+Galactus wields the [[Power Cosmic]] and can employ it to produce nearly any effect he desires, including the molecular restructuring and [[nuclear transmutation|transmutation]] of matter,<ref name="Silver Surfer #1 Aug. 1968">''Silver Surfer'' #1 (Aug. 1968)</ref><ref>''Fantastic Four'' #211 (Oct. 1979)</ref><ref>''Silver Surfer'' vol. 3 #70 (Aug. 1992)</ref> the [[teleportation]] of objects &mdash; even an entire galaxy<ref name="rom" /> &mdash; across [[space]] <ref>''Fantastic Four'' #257 (Aug. 1981)</ref> or [[time]],<ref>''Fantastic Four'' #213 (December 1979)</ref> size-alteration,<ref name="rom">''Rom'' #27 (Feb. 1982)</ref> the projection of energy with indeterminable destructive force,<ref>''Annihilation'' #6 (March 2007)</ref> the erection of nearly impenetrable [[force field (science fiction)|force fields]],<ref name="Silver Surfer #1 Aug. 1968"/> the creation of [[Parallel universe (fiction)|interdimensional]]<ref>''Thanos'' #3 (Feb. 2004)</ref> and intra-dimensional [[Portal (fiction)|portals]],<ref>''Thanos'' #12 (Sept. 2004)</ref> [[telepathy]],<ref>''Fantastic Four'' #242 (May 1982)</ref> [[psychokinesis|telekinesis]],<ref>''Fantastic Four'' #49 (April 1966)</ref> [[pyrokinesis]],<ref>''Nova'' vol. 4 #13 (July 2008)</ref> and a form of [[List of comic book superpowers#Cross-dimensional awareness|cosmic awareness]].<ref name="secretwars9">''Secret Wars'' #9 (Jan. 1985)</ref>
+
+Galactus is also capable of creating sentient life,<ref>''Cosmic Powers Unlimited'' #2 (Sept. 1995)</ref>  resurrecting the dead,<ref>''Silver Surfer'' vol. 3, #76 (Jan. 1993)</ref><ref name="Godhunter3">''Beta Ray Bill: Godhunter'' #3 (Aug. 2009)</ref> manipulating mortal souls,<ref>''Silver Surfer'' vol. 3, #49 (May 1991)</ref> memories, and emotions,<ref name="surfer130">''Silver Surfer'' vol. 3 #130 (Aug. 1997)</ref> and restoring dead planets and populations in every detail.<ref name="surfer130"/>
+
+As a living force of nature set to correct the imbalances between the conceptual entities [[Eternity (comics)|Eternity]] and [[Death (Marvel Comics)|Death]],<ref>''Silver Surfer'' vol. 3, #18 (Dec. 1988)</ref>  Galactus' true form cannot be perceived by most beings;<ref>''Fantastic Four'' #521 (Feb. 2005)</ref> each species perceives Galactus in a form they can associate with or comprehend, either in a form similar to that of their own species or as a deity of their own religion.<ref name=stormbreaker1>''Stormbreaker: The Saga of Beta Ray Bill'' #1 (March 2005)</ref><ref name="ff262">''Fantastic Four'' #262 (Jan. 1984)</ref> Galactus has also appeared as a humanoid star when addressing fellow members of the cosmic hierarchy.<ref>''Silver Surfer'' vol. 3, #10 (April 1988), ''Infinity Gauntlet'' #5 (Nov. 1991), and ''Super-Villain Classics'' #1 (May 1983)</ref>  As Galactus must continuously feed to sustain himself, his power levels are inconsistent throughout any given period. Due to this inherent hunger, Earth's heroes have been able to achieve various degrees of success in repelling, or defeating, a starving, weakened Galactus. At this diminished state Galactus has shown susceptibility to the ''Images of [[Ikonn]]'' spell, which forces him to recall all of the beings he has destroyed as a result of his feeding.<ref>''Fantastic Four'' #243 (June 1982)</ref>  Galactus also wears armor to help regulate his internal energies.
+
+The oldest living entity in the universe and, in fact, the first,<ref name="Godhunter3"/> Galactus employs advanced science capable of creating the [[Ultimate Nullifier]]<ref>''Fantastic Four'' #48-50 (March–May 1966),</ref> and the immense ship Taa II.<ref>''Fantastic Four'' #210 (Sept. 1979)</ref> Reed Richards speculated that Taa II — the [[Möbius strip]]-shaped, solar system-sized home of Galactus — could be the greatest source of energy in the universe.<ref name="secretwars9"/>
+
+Galactus has appointed a number of beings to act as his [[Herald of Galactus|Herald]], with each bestowed with a small fraction of the [[Power Cosmic]].
+
+==Other versions==
+Several versions of Galactus exists across alternate universes.
+
+===Cancerverse===
+In the limited series ''[[The Thanos Imperative]]'', an alternate version of Galactus, called the Galactus Engine, dwarfed the mainstream universe Galactus.<ref>''The Thanos Imperative'' #5 (Sept. 2010)</ref>
+
+===''Earth X''===
+In the limited series ''[[Earth X]]'', Galactus is one of the three essential entities in the universe keeping the cosmic entities the [[Celestial (comics)|Celestials]] in check. By destroying planets - actually "eggs" of the Celestials - Galactus prevents the Celestials from overpopulating the universe. [[Franklin Richards]] eventually adopts the identity of Galactus.<ref>''Earth X'' #0 (March 1999); #0.5 (Jan. 2000); #1-10 (April 1999 - Jan. 2000); #11 - 12 (March - April 2000); #13 (June 2000)</ref>
+
+===Exiles===
+An [[Parallel universe (fiction)|alternate universe]] version of Galactus appears in the title ''[[Exiles (Marvel Comics)|Exiles]]'', and restores rather than destroys worlds.<ref>''Exiles''  #86 - 87 (Oct. - Nov. 2006)</ref>
+
+===Heroes Reborn===
+Galactus features in the second volume of ''[[Fantastic Four]]'', appearing in the pocket universe created by Franklin Richards (after the events of the ''[[Onslaught (comics)|Onslaught]]'' saga). This version of the character has several heralds simultaneously and all are worshiped by the [[Inhumans]].<ref>''Fantastic Four'' vol. 2, #9-13 (July - Nov. 1997)</ref>
+
+===Manga Universe===
+The title ''New Mangaverse'' depicts Galactus appears as a gigantic, planet-sized life-form, complete with a single massive eye and tentacles to drain the life from planets. It is covered in various life-forms (referred to as "Galactus Spores") which aid its digestive process.<ref>''New Mangaverse'' vol. 2, #1-5 (March–July 2006)</ref>
+
+===Marvel Zombies===
+The limited series ''[[Marvel Zombies]]'' focuses on the Earth-2149 universe, which is infected by a virus that turns sentient beings into flesh-eating [[zombie]]s. The Silver Surfer is caught and devoured by "zombified" versions of Earth's heroes, who eat the Silver Surfer, and use advanced technology, to wound and eventually defeat Galactus. The zombies gain a portion of the power cosmic as they devour Galactus.<ref>''Marvel Zombies'' #1-5 (Feb. - June 2006)</ref>
+
+===MC2===
+The [[Marvel Comics 2|MC2]] imprint title ''[[Last Planet Standing]]'' features a future version of Galactus with a new herald called [[Dominas]].<ref>''Last Planet Standing'' #1-2 (June–July 2006); #3-4 (Aug. 2006); #5 (Sept. 2006)</ref>
+
+===Ultimate Galactus===
+{{Main|Ultimate Galactus Trilogy}}
+Under the [[Ultimate Marvel]] imprint three limited series, ''Ultimate Nightmare''; ''Ultimate Secret'' and ''Ultimate Extinction'' were published, dealing with the introduction and eventual threat of the entity '''Gah Lak Tus'''. First mentioned by the [[robot]] [[Vision (Marvel Comics)#Ultimate Vision|Ultimate Vision]], Gah Lak Tus is revealed to be a [[collective intelligence|group mind]] of city-sized robotic drones that attack worlds via envoys similar to the Silver Surfer, followed by a [[flesh eating virus]].<ref>''Ultimate Nightmare'' #1-5 (Oct. 2004 - Feb. 2005); ''Ultimate Secret'' #1-2 (May–June 2005); #3 (Aug. 2005); #4 (Dec. 2005); ''Ultimate Extinction'' #1-5 (March–July 2006)</ref>
+
+===Galacta, Daughter of Galactus===
+{{Main|Galacta}}
+'''Galacta''', a female character, spawned as an anomalous energy field within Galactus' structure, was created by writer [[Adam Warren]] and penciller [[Hector Sevilla Lujan]] in the story "Galacta (or: The World-Eater's daughter)" in ''Marvel Assistant-Sized Spectacular'' #2 (June 2009)<ref>[http://www.maelmill-insi.de/UHBMCC/marvel10.htm#S865 ''Marvel Assistant-Sized Spectacular'' (2009)] at The Unofficial Handbook of Marvel Comics Creators</ref><ref>{{Cite web|first=Shaun |last=Manning |url=http://www.comicbookresources.com/?page=article&id=20783 |title=Marvel Assistants Assemble! |publisher=[[Comic Book Resources]] |date=April 13, 2009 |accessdate=May 19, 2010 }}</ref>  and subsequently appeared in the four-issue, [[digital comics]] [[limited series|miniseries]] on [[Marvel Digital Comics Unlimited]], ''Galacta: Daughter of Galactus'' #0-3 (Jan.-April 2010).<ref>[http://www.maelmill-insi.de/UHBMCC/digcom5.htm#S3520 ''Galacta: Daughter of Galactus'' (2010)] at The Unofficial Handbook of Marvel Comics Creators</ref><ref name=galactadigital>{{Cite web|first=Lucas |last=Siegel |url=http://www.newsarama.com/comics/070920-GalactaToDigital.html |title=Exclusive: Marvel Feeds GALACTA Digital Comics |publisher=[[Newsarama]] |date=July 20, 2009 |accessdate=May 19, 2010 }}</ref> Manifested as a normal-sized, young adult human female on Earth, her chosen home, she suffers from similar hunger pangs as her parent, but is plagued by her conscience and solely devours alien invaders.
+
+===DC Crossovers===
+Galactus has appeared in three [[DC Comics]] crossover stories; ''[[Darkseid]]/Galactus: The Hunger'', ''[[Superman]]/Fantastic Four: The Infinite Destruction'', and ''[[JLA/Avengers]]''. In ''The Hunger'', Galactus attempts to consume [[Apokolips]], home of the evil [[New Gods]], but ceases his efforts when he realises that the planet is lifeless.<ref>''Darkseid/Galactus: The Hunger'' #1</ref> In ''The Infinite Destruction'', the [[Hank Henshaw|Cyborg Superman]]- having learned about Galactus during a previous fight with the Silver Surfer<ref>''Green Lantern/Silver Surfer: Unholy Alliances'' #1</ref>- creates false evidence that Galactus was involved in the destruction of [[Krypton (comics)|Krypton]] to trick Superman into travelling to the Marvel Universe so that he can become Galactus's Herald, but the plan fails when Galactus chooses Superman instead, only for Superman's will to allow his true personality to take control even after his memories have been wiped. Galactus plays a key role in ''JLA/Avengers'' when the powerful [[Krona]] comes to the Marvel Universe seeking answers about the creation of the universe, [[Grandmaster (Marvel Comics)|Grandmaster]] attempting to prevent Krona from destroying the Marvel Universe by revealing the existence of Galactus- a being who has lived through the Big Bang- and playing Krona in a game for the information,<ref>''Avengers/JLA'' #2</ref> only for Krona to cheat and nearly kill the Grandmaster and Galactus<ref>''JLA/Avengers'' #3</ref> before the [[Justice League]] and the [[Avengers (comics)|Avengers]] stop him.<ref>''Avengers/JLA'' #4</ref>
+
+==In other media==
+{{Prose|section|date=December 2010}}
+===Television===
+{{Unreferenced section|date=April 2010}}
+* Galactus appears in the 1967 ''[[Fantastic Four (1967 TV series)|The Fantastic Four]]'' episode "Galactus" voiced by [[Ted Cassidy]].
+* Galactus appears in the 1994 version of ''[[Fantastic Four (1994 TV series)|The Fantastic Four]]'', voiced by [[Tony Jay]]. He debuted in the two-part episode "Silver Surfer and the Coming of Galactus", and appears in "To Battle the Living Planet", and "When Calls Galactus",
+* Galactus appeared regularly in the animated series ''[[Silver Surfer (TV series)|Silver Surfer]]'', voiced by [[James Blendick]].
+*In the children's animated series ''[[The Super Hero Squad Show]]'', Galactus, voiced by [[George Takei]], appears in the episodes "Last Exit Before Doomsday", and "This Al Dente Earth".
+
+===Film===
+[[Image:Galactus Cloud.jpg|thumb|Galactus as the character appears in ''[[Fantastic Four: Rise of the Silver Surfer]]'' (2007).]]
+*  Galactus appears in the 2007 film ''[[Fantastic Four: Rise of the Silver Surfer]]'', the story of which was based upon the character's debut and his Ultimate incarnation.<ref>{{Cite news| author = Ben Morse and Brian Warmoth | title = 2007 Preview: Fantastic Four: Rise of the Silver Surfer | publisher = Wizard | date = 2007-01-15 | url = http://www.wizarduniverse.com/movies/fantasticfour2/003014399.cfm | accessdate = 2007-06-27|archiveurl = http://web.archive.org/web/20070607142925/http%3A//www.wizarduniverse.com/movies/fantasticfour2/003014399.cfm |archivedate = June 7, 2007|deadurl=yes}}</ref> The official novelization of the film names the character as "the Gah Lak Tus". [[20th Century Fox]]'s rationale for having the character as a cloud was to keep him discreet.<ref name=vfx/> [[Visual effects]] studio [[Weta Digital]] convinced Fox to add physical hints of the comic book incarnation, such as a shadow and the fiery mass within the cloud resembling Galactus' signature helmet.<ref name=vfx>{{Cite news| author = Thomas J. McLean  | title = Fantastic 4: Weta Gives Rise to the Silver Surfer | publisher = VFXWorld | date = 2007-06-21 | url = http://www.vfxworld.com/?atype=articles&id=3325&page=3 | accessdate=2007-06-27}}</ref> Director [[Tim Story (film director)|Tim Story]] has said he made Galactus a cloud so that the future ''Silver Surfer'' [[Spin-off (media)|spin-off]] film would have a chance to be unique and introduce the character as he normally appears.<ref>{{cite video | people = [[Tim Story]] | title= [[Fantastic Four: Rise of the Silver Surfer]] audio commentary | format = DVD | publisher = [[20th Century Fox]] | date= 2007}}</ref> [[J. Michael Straczynski]], the spinoff's writer, confirmed Galactus is in his script, saying, "You don't want to sort of blow out something that big and massive for one quick shot in the first movie."<ref>{{Cite news| author = Chris Carle | title = SDCC 07: JMS Sheds Light on Silver Surfer Movie | publisher = [[IGN]] | date = 2007-07-27 | url = http://movies.ign.com/articles/808/808908p1.html | accessdate=2007-10-07}}</ref>
+
+===Video games===
+{{unreferenced | section |date=December 2010}}
+* Galactus appears in the 1990 ''[[Silver Surfer (video game)|Silver Surfer]]'' [[Nintendo Entertainment System|NES]] game.
+* Galactus appears in ''[[Marvel: Ultimate Alliance]]'' voiced by [[Gregg Berger]].
+* Galactus appears in the PSP and PS2 versions of ''[[Spider-Man: Web of Shadows]]''. He appears as an assist character who will step on the enemies.
+* Galactus appears in the 2009 game ''[[Marvel Super Hero Squad (video game)|Marvel Super Hero Squad]]'' as an unvoiced minor character in a Silver Surfer [[cutscene]]. It is also the name of a stage in the Versus Mode, with it taking place on a platform residing on the planet eater's hand.
+* Galactus appears in the ''[[Marvel Super Hero Squad: The Infinity Gauntlet]]'' video game, voiced by [[George Takei]].
+* He makes a minor appearance in [[LittleBigPlanet]]'s Marvel level pack in the first level.
+
+===Toys===
+* [[Marvel Toys|Toy Biz]] released a figure of Galactus in 1995 as part of their ''Fantastic Four'' line.
+* Toy Biz also released a figure as part of their Silver Surfer line, larger than the average figures in the line, but not to scale like the Fantastic Four figure.
+* In 2005, Toy Biz also produced Galactus as the first "build-a-figure" in the [[Marvel Legends]] line-up.
+* Galactus has appeared twice in the Heroclix CMG.
+* Galactus appears in the [[VS System|Vs System TCG]].
+* Hasbro released a Galactus action figure as part of their [[Marvel Universe (toyline)|Marvel Universe]]: Masterworks line. The figure stands 19" tall, almost five times the height of the conventional figures.
+
+==Footnotes==
+{{Reflist|2}}
+
+==References==
+{{Refbegin}}
+* [http://www.maelmill-insi.de/UHBMCC/SELGD.HTM#G3 Galactus] at the Unofficial Handbook of Marvel Comics Creators
+* [http://www.marveldirectory.com/individuals/g/galactus.htm Galactus] at the Marvel Directory
+{{Refend}}
+
+==External links==
+* {{IMDb character|0036475|Galactus}}
+* [http://web.archive.org/web/20071223091054/www.lowfierce.com/galactus/origin.html The Origin of Galactus], by Pat Jankiewicz (cached page by The Wayback Machine)<!-- DEAR WIKIPEDIA MODERATORS: PLEASE CHANGE THE LINK TO JANKIEWICZ'S ARTICLE. THANK YOU. -->
+* [http://marvelite.prohosting.com/surfer/galactus/index.html Galactus: The Web Page], by James Pedrick
+
+{{Marvel Cosmic}}
+{{Fantastic Four}}
+{{Silver Surfer}}
+
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics characters introduced in 1966]]
+[[Category:Marvel Comics cosmic entities]]
+[[Category:Silver Surfer]]
+
+[[ca:Galactus]]
+[[de:Galactus]]
+[[es:Galactus]]
+[[fr:Galactus]]
+[[it:Galactus]]
+[[nl:Galactus]]
+[[ja:ギャラクタス]]
+[[pt:Galactus]]
+[[ru:Галактус]]
+[[fi:Galactus]]
+[[sv:Galactus]]
+[[tl:Galactus]]

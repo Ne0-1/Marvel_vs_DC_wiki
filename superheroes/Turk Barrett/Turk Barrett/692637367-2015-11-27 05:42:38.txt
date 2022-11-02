@@ -1,0 +1,74 @@
+{{Infobox comics character
+| character_name = Turk Barrett
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        =
+| publisher      =
+| debut          = ''[[Daredevil (Marvel Comics)|Daredevil]]'' (vol. 1) #69 (October 1970)
+| creators       = [[Gary Friedrich]]<br>[[Roy Thomas]]<br>[[Gene Colan]]
+| alter_ego      =
+| full_name      =
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = <!-- optional -->
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = [[Mauler (comics)|M.A.U.L.E.R.]], [[Stilt-Man]]
+| powers         =
+| cat            =
+| subcat         =
+| hero           =
+| villain        =
+| sortkey        = Turk Barrett
+| addcharcat#    =
+}}
+'''Turk Barrett''' is a [[fictional character]] that appears in comic books published by [[Marvel Comics]].
+
+Turk has had many run-ins with [[Daredevil (Marvel Comics)|Daredevil]] where his inept schemes are usually played as [[comic relief]].<ref name="comicbookdb1"/>
+
+==Publication history==
+{{expand section|date=August 2015}}
+
+Turk Barrett first appears in ''[[Daredevil (Marvel Comics)|Daredevil]]'' (vol. 1) #69 (October 1970) and was created by writers [[Gary Friedrich]] and [[Roy Thomas]] and artist [[Gene Colan]].<ref name="comicbookdb1">{{cite web|url=http://www.comicbookdb.com/character.php?ID=8652 |title=Turk Barrett |publisher=Comic Book DB |date= |accessdate=2010-06-08}}</ref><ref>{{cite web|url=http://www.marvunapp.com/Appendix/turkbarretdd.htm |title=Turk (Daredevil character) |publisher=Marvunapp.com |date= |accessdate=2010-06-08}}</ref>
+
+==Fictional character biography==
+{{expand section|date=May 2015}}
+Turk Barrett was a small-time crook operating in Hell's Kitchen. [[Roscoe Sweeney]] once sent Turk Barrett to pay Jack Murdock to throw a boxing match.<ref>''Daredevil: Battlin' Jack Murdock'' #1</ref> Barrett was associated with a street gang called the Thunderbolts.{{issue|date=May 2015}}
+
+Barrett worked for [[Eric Slaughter]].{{issue|date=May 2015}} Barrett once stole the Mauler armor to confront Daredevil. Barrett, however, is defeated in seconds.<ref>''Daredevil'' #176 (Nov. 1981)</ref> Turk later stole the [[Stilt-Man|Stilt-Man armor]]. He offered his services to the [[Kingpin (comics)|Kingpin]] but was declined. The Kingpin contended that he did not employ "idiots". The original creator of the Stilt-Man armor, Wilbur Day, contacted Daredevil with knowledge of how to defeat Barrett.<ref>''Daredevil'' #179</ref>
+
+Turk has spent quite a bit of time at Josie's Bar in New York City. His primary associate is "Grotto" who often reluctantly participates in Turk's schemes. Turk once mugged a "Santa" at Christmas and intended to use the Yuletide attire to swindel charitable donations from others. In this instance when he was confronted by a disoriented Matt Murdock, Turk stabbed Murdock seriously, almost fatally, wounding him.{{issue|date=March 2015}}
+
+==Other versions==
+In the ''[[House of M]]'' reality, Turk was a member of [[Diamondback (comics)|Willis Stryker]]'s gang. After Stryker was defeated, Turk willingly followed [[Luke Cage]] when he took control of the group.<ref>''House of M: Avengers'' #1</ref>
+
+==In other media==
+
+===Television===
+* Turk Barrett appears in ''[[Daredevil (TV series)|Marvel's Daredevil]]'' series on Netflix, portrayed by Rob Morgan.<ref>{{cite web| first= Marc |last= Strom|title='Marvel's Daredevil' For Netflix Reveals 6 Supporting Cast Members|url=http://marvel.com/news/tv/24243/marvels_daredevil_for_netflix_reveals_6_supporting_cast_members|website=Marvel.com|publisher=Marvel|accessdate=12 April 2015|date=11 Mar 2015|quote=[...]Rob Morgan (“Person of Interest,” “Believe”) will play Turk Barrett, a smalltime criminal in Hell’s Kitchen[...]}}</ref> In this series, Barrett is a mob enforcer and arms seller who has a love of semi-automatic pistols and takes personal pleasure in criminal activities. In the episode "World on Fire," [[Kingpin (comics)|Wilson Fisk]] pays Turk Barrett to reveal to Vladimir Ranskahov that his brother Anatoly was killed by Fisk. At the end of season 1 during the episode "Daredevil," Barrett is among those who are arrested by the FBI for his association with Wilson Fisk's empire.
+
+===Film===
+* Turk Barrett appears in the TV film ''[[The Trial of the Incredible Hulk]]'', played by [[Mark Acheson]].
+
+* Turk was mentioned in the Director's cut of ''[[Daredevil (film)|Daredevil]]'' by the character Dante Jackson (played by [[Coolio]]).
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://marvel.wikia.com/Turk_Barrett_%28Earth-616%29 Turk Barrett] at Marvel Wiki
+* [http://www.comicvine.com/turk/4005-9039/ Turk Barrett] at Comic Vine
+* {{Marvunapp|http://www.marvunapp.com/Appendix/turkbarretdd.htm|Turk Barrett}}
+
+{{Daredevil}}
+
+[[Category:Characters created by Gary Friedrich]]
+[[Category:Characters created by Gene Colan]]
+[[Category:Characters created by Roy Thomas]]
+[[Category:Comics characters introduced in 1970]]
+[[Category:Fictional African-American people]]
+[[Category:Fictional criminals]]
+[[Category:Marvel Comics characters]]
+
+
+{{Marvel-char-stub}}

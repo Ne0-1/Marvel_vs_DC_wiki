@@ -1,0 +1,70 @@
+{{Plot|article|date=January 2008}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image = Bulleteer 4.jpg
+|imagesize = 250
+|converted = y
+|caption = "Seven Soldiers: The Bulleteer #4"<br> art by [[Yanick Paquette]]
+|character_name = Bulleteer
+|real_name = Alix Harrower
+|publisher=[[DC Comics]] 
+|debut = Seven Soldiers: The Bulleteer #1, (November 2005)
+|creators = [[Grant Morrison]] (writer)<br>[[Yanick Paquette]] (artist)
+|Base of operations = 
+|species   = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances = [[Seven Soldiers of Victory]]<br/>[[Justice League]]
+|partners  = <!-- optional -->
+|supports  = <!-- optional -->
+|aliases   =  <!-- optional: actual identities the character uses, not nicknames -->
+|powers = superhuman strength, indestructible skin
+|cat = super
+|subcat = DC Comics
+|hero = y
+|sortkey = Bulleteer
+}}
+
+'''Bulleteer''' is a [[fictional character]] and [[DC Comics]] [[superheroine]], a member of the [[Seven Soldiers of Victory]]. She debuted in Seven Soldiers: The Bulleteer #1 (November 2005), and was created by [[Grant Morrison]] and [[Yanick Paquette]]. The character is based in part on the [[Fawcett Comics]] character [[Bulletman and Bulletgirl|Bulletgirl]].<ref name="dc-ency">{{Citation  | last = Wallace | first = Dan | author-link = | contribution = Bulleteer | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 63  | publisher = [[Dorling Kindersley]]  | place = London  | year = 2008 | ISBN = 0-7566-4119-5}}</ref>
+
+==Fictional character biography==
+While all 27-year-old Alix Harrower wanted was a relatively normal life, her husband Lance hoped for bigger things.  A research scientist, he had developed a thin metal skin that could bond with [[collagen]], turning tissue indestructibly hard.  When this "smartskin" is applied to a living being, such as Lance's initial test subject, a mouse named "Metal Mickey,", the subject becomes endowed with superhuman strength.  Though the potential military applications were obvious, Lance dreamed of using it on himself, modeling a superhero career after the WWII superheroes [[Bulletman and Bulletgirl]].  He wanted to be famous, to rub elbows with people like [[Green Lantern]], and most importantly, to use smartskin to keep himself and his wife eternally young.  Unfortunately, after he tested it on himself, he began to suffocate.  When he touched Alix, the smartskin bonded to her.  Rushed to the hospital, she was saved thanks to medics gaining access to bare skin covered by her wedding ring.  Lance was not wearing his, and so died of [[asphyxiation]].<ref name="dc-ency"/>
+
+Alix spiraled into [[depression (mood)|depression]] as her new appearance forced her to quit her job teaching autistic children.  Another emotional blow came at the discovery that her deceased husband's superhero dreams stemmed from a fixation on superhero-based [[pornography]].  Distraught, Alix attempted suicide.  While trying to find a structure hard enough to kill her on impact, she came across a train wreck, and saved the people still inside.  After those she saved called her a superhero, she decided to live up to the name, taking the alias Lance had hoped to use for himself: the Bulleteer.
+
+In ''Bulleteer'' #2, it is revealed that Alix was going to be the seventh member of Greg Saunders' ill-fated new [[Seven Soldiers of Victory]], but got cold feet and thus escaped the massacre.  She meets Agent Helligan from ''Shining Knight #3'' and helps her interrogate Ramon Solomano, alias "the Iron Hand" (an old enemy of Saunders from his days as the costumed hero [[Vigilante (comics)|Vigilante]]), for information on the [[Nebula Man]] and the deaths of the six other soldiers as seen in ''Seven Soldiers of Victory'' #0.
+
+In ''Bulleteer'' #3, Alix works as a bodyguard to a mermaid movie star at a convention for C-list superheroes, interacts with various secondary Soldiers characters, including the original Bulletgirl, and eventually survives an assassination attempt by the apparently undead [[Alias the Spider|Spyder]]. Upon her return home, Alix is crushed with a [[Women in refrigerators|refrigerator]] by the indestructible Sally Sonic, who was posing as her boarder.
+
+In ''Bulleteer'' #4, Sally Sonic beats Alix while ranting about her ruined life. Flashbacks reveal Sally's backstory as a 1940s superheroine who is unaging and stuck in the body of a teenager. Sally fell into the seedy underworld of superhuman sex work and drug abuse, and eventually goaded Alix' husband into the experiment that killed him and transformed Alix. Alix refuses to let Sally take her grief out on her and manages to knock Sally out with a car engine, despite a broken arm. Afterwards, a ghostly Greg Saunders approaches Alix and attempts to recruit her to 'save the world'. Though she is not even sure that Saunders is real, she rejects him and the entire superhero role.
+
+In ''Seven Soldiers'' #1, Alix tries to drive Sally to the hospital when the Sheeda launch the invasion on Manhattan. Sally wakes up and tries to kill Alix yet again, until the car collides with the fallen [[Sheeda]] queen, Gloriana Tenebrae, and bursts into flames. Alix survives, but Sally and Gloriana don't.
+
+It is revealed that Alix was '''The Spear that Was Never Thrown''', the ultimate downfall of the Sheeda race. This Spear was thrown by [[Aurakles]], the very first superhero from 42,000 years ago, and Alix's ancestor. Aurakles appeared as an imprisoned demi-god in the pages of [[Mister Miracle (Shilo Norman)|Mister Miracle]].
+
+===Further appereances ===
+Alix appeared in ''Infinite Crisis #7'' as one of the heroes fighting against the rampaging villains in Metropolis and was later seen in the two-page line up of the heroes of the DCU. She appears to be flying, suggesting she has acquired the original Bulletman's helmet.
+
+She appears in ''[[52 (comic book)|52]]'' #24, as a member of an interim [[Justice League|JLA]], also featuring [[Firestorm (comics)|Firestorm]], [[Firehawk (comics)|Firehawk]], [[Super-Chief]], and [[Ambush Bug]]. This goes badly, as their first major villain, [[Skeets]], kills Super-Chief and many innocent civillains. She then reappeared during ''[[World War III (DC Comics)|World War III]]''. That and her appearance in ''52'' issue #50 both involve her efforts as part of a multi-hero, worldwide attempt to take down the insane [[Black Adam]].
+
+She is later seen in ''[[Final Crisis]]'' #5, as part of a resistance group of heroes battling Darkseid's forces.
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{refbegin}}
+*{{gcdb|type=character|search=Bulleteer|title=Bulleteer}}
+*{{comicbookdb|type=character|id=1717|title=Bulleteer}}
+{{refend}}
+
+==External links==
+*[http://www.barbelith.com/faq/index.php/The_Bulleteer Bulleteer annotations] at [[Barbelith]]
+
+[[Category:2006 comics characters debuts]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics titles]]
+[[Category:Fictional bodyguards]]
+[[Category:Fictional cyborgs]]
+
+[[tl:Bulleteer]]

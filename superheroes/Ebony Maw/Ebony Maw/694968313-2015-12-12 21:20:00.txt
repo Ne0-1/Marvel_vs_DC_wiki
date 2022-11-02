@@ -1,0 +1,58 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Ebony Maw
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[The New Avengers (comics)|New Avengers]]'' vol. 3 #8
+| creators       = [[Jonathan Hickman]]<br>[[Jerome Opeña]]
+| alter_ego      = 
+| full_name      = 
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = [[Black Order (comics)|Black Order]]
+| powers         = Genius-Level Intellect, Master manipulator who can control minds through his Speech.
+| cat            = super
+| subcat         = Marvel Comics
+| hero           = 
+| villain        = y
+| sortkey        = Proxima Midnight
+| addcharcat#    = 
+|}}
+'''Ebony Maw''' is a fictional supervillain appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Ebony Maw first appears in ''[[The New Avengers (comics)|New Avengers]]'' vol. 3 #8 and was created by [[Jonathan Hickman]] and [[Jerome Opeña]].
+
+==Fictional character biography==
+Ebony Maw was a member of [[Thanos]]' [[Black Order (comics)|Black Order]]. He is not a fighter, but a dangerous thinker of the Black Order. When Thanos targeted [[Earth]] as the next planet he would raze during the ''[[Infinity (comic book)|Infinity]]'' storyline, Ebony Maw was dispatched to deal with [[Doctor Strange]].<ref>''New Avengers'' Vol. 3 #8</ref>
+
+Ebony Maw used his abilities to gain control over Doctor Strange and forced him to summon [[Shuma-Gorath]].<ref>''Mighty Avengers'' Vol. 2 #2</ref> Then Ebony Maw used his abilities to have Doctor Strange serve as a double-agent for him when he reunited with the [[Illuminati (comics)|Illuminati]]. When the Illuminati headed to numerous locations around the world to find Thanos' son [[Thane (comics)|Thane]], Doctor Strange found the boy in a hidden [[Inhumans|Inhuman]] city of Orollan (which is located in [[Greenland]]). Ebony remained in the location and forced Doctor Strange to forget about the discovery and to leave where he is now freed from Maw's control.<ref>''New Avengers'' Vol. 3 #10</ref>
+
+When [[Black Bolt]] detonated a Terrigen Bomb which unleashed the Terrigen Mists upon the entire face of Earth, Thanos' son Thane underwent Terrigenesis. The manifestation of his powers annihilated the entire town.<ref>''Infinity'' #4</ref> Posing as an ally following the incident, Ebony Maw offered Thane a suit to control his powers, but also captured him in a containment field followed by Ebony Maw alerting Thanos to the location of his son.<ref>''Infinity'' #5</ref> When the [[Avengers (comics)|Avengers]] arrived in Orollan in order to defeat Thanos, Ebony Maw tested Thane by freeing him. Thane could escape or could fight Thanos and become what he had avoided his entire life. Thane agreed and embraced his true nature as the son of Thanos by fighting his father. Using the power of his right hand, Thane trapped Thanos and his ally [[Proxima Midnight]] in an amber construct which left them in a state of "living death." Upon the defeat of Thanos, Ebony Maw started disciplining Thane into becoming something greater than Thanos and greater than any one would.<ref>''Infinity'' #6</ref>
+
+==Powers and abilities==
+Ebony Maw has genius-level intellect. He mostly demonstrates his intelligence with his highly skilled abilities of manipulation being described as a "black tongue that spreads mischief and evil wherever he goes." He also uses technology that specializes in teleportation and force field generation.
+
+==In other media==
+===Television===
+* Ebony Maw appears in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' episode "New Frontier," voiced by [[René Auberjonois]].
+* Ebony Maw appears in the ''[[Guardians of the Galaxy (TV series)|Guardians of the Galaxy]]'' episode "Undercover Angle," voiced by [[James Urbaniak]].
+
+===Video games===
+* Ebony Maw appears in ''[[Marvel: Avengers Alliance]]''.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Ebony_Maw_%28Earth-616%29 Ebony Maw] at Marvel Wiki
+* [http://www.comicvine.com/ebony-maw/4005-90606/ Ebony Maw] at Comic Vine
+* {{comicbookdb|type=character|id=71612|title=Ebony Maw}}
+
+{{Thanos}}
+
+[[Category:Characters created by Jonathan Hickman]]
+[[Category:Comics characters introduced in 2013]]
+[[Category:Marvel Comics supervillains]]

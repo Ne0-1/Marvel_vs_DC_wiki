@@ -1,0 +1,35 @@
+{{Superherobox|
+image=[[Image:Gavel (comics).jpg|150px]]
+|caption=Gavel. Art by John Camilee.
+|comic_color=background:#GGGGGG
+|character_name=Gavel
+|real_name=unknown
+|publisher=[[Marvel Comics]]
+|debut=''Venom: Sinner Takes All'' #1 (1996) 
+|creators=[[Dan Slott]]<br> John Camilee
+|alliance_color=background:#cccccc
+|status=active
+|alliances=[[The Jury (comics)|The Jury]]
+|previous_alliances=
+|aliases=
+|relatives=Unknown
+|powers=
+|}}
+
+
+'''Gavel''' is a minor fictional character in the [[Marvel comics]] universe.
+
+==Fictional character biography==
+Gavel was a a masked mystery man who served as the judge for all of [[The Jury (comics)|The Jury]]'s trials which were usually little more than a farce before they executed their prisoners. Little is known about Gavel and it was revealed by Jury member [[Ramshot]] that he and the other members do not know his real identity or even if he was ever a real judge. How he came to work with the Jury is a mystery but presumably the Gavel was tied to whatever party was financing the Jury after they parted ways with [[General Orwell Taylor]]. In the Jury's court [[Olivia Lentz]] served as prosecutor while former Jury member [[Screech (comics)|Screech]] served as defense attorney.
+
+Gavel is never on site with the Jury. He is always seen on a monitor whose image is transmitted via a secret location.
+
+It was mentioned in Thunderbolts #23 that the Jury had lost their funding and no longer worked with Gavel.
+
+==References==
+*Venom: Sinner Takes All #1-4
+
+[[Category:Fictional judges]]
+[[Category:Marvel Comics characters]]
+
+[[tl:Gavel (komiks)]]

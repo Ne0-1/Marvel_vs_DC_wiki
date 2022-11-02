@@ -1,0 +1,88 @@
+:''For the [[Transformers]] character see [[Gearhead (Transformers)]].''
+'''Gearhead''' is the name of 2 [[DC Comics]] supervillains.
+
+==Fictional character biographies==
+===Unrevealed===
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| character_name = Gearhead
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[DC Comics]]
+| debut          = ''[[Steel (John Henry Irons)|Steel]]'' #14 (April 1995)
+| creators       = 
+| alter_ego      = 
+| full_name      =
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = <!-- optional -->
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = 
+| cat            = super
+| subcat         = DC Comics
+| villain        = y
+| sortkey        = Gearhead
+}}
+The first Gearhead appeared as a henchman of the [[supervillain]] called [[White Rabbit (DC Comics)|White Rabbit]].
+{{-}}
+
+===Nathan Finch===
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| character_name = Gearhead
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[DC Comics]]
+| debut          = ''[[Detective Comics]]'' #712 (August 1997)
+| creators       = [[Chuck Dixon]], [[Graham Nolan]], [[Bob McLeod (comics)|Bob McLeod]]
+| alter_ego      = 
+| full_name      = Nathan Finch
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = <!-- optional -->
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = Metal Head
+| powers         = 
+| cat            = super
+| subcat         = DC Comics
+| villain        = y
+| sortkey        = Gearhead
+}}
+The second Gearhead is '''Nathan Finch''', a former engineer at General Robotics. While he was kidnapping and holding his boss' daughter for ransom, Gloria Osteen he runs afoul of [[Batman]] who rescues her. Unfortunately, he wasn't able to save Nathan from falling to an icy death. Nathan Finch's body was discovered by two down-and-out people who take him to an unnamed underworld doctor. It turned out that Nathan wasn't dead and the doctor wanted his knowledge of cybernetics. Due to ravages of frostbite, the doctor removed his arms and legs and replaced them with cybernetic arms and legs. Nathan becomes Gearhead and develops his own cybernetic arsenal of removable body parts as well as a goal to exterminate Batman, whom he refers to as the "vermin".
+
+He played a part in the ''[[Robin (comics)|Robin]]'' section of the ''[[No Man's Land (comics)|No Man's Land]]'' crossover, in which he is one of a number of villains competing for control of [[Gotham City]]'s sewers. Without the use of his cybernetic arms and legs, he is forced into partnership with the thuggish [[Tommy Mangles]], who carries around Finch's torso. The duo are iced by [[Mr. Freeze]], a fate particularly frightening for Gearhead, given his origin.
+
+He put in an appearance in the comic mini-series ''[[Rush City (comics)|Rush City]]'', where he is physically attached to his car.
+
+In ''[[Infinite Crisis]]'', Gearhead became a member of the [[Secret Society of Super Villains]].
+
+==In other media==
+===Television===
+[[Image:GearHead.jpg|thumb|right|200px|Gearhead in The Batman]]
+* Gearhead first appeared in the ''[[The Batman (TV series)|The Batman]]'' episode "RPM" voiced by [[Will Friedle]]. In this version, Gearhead (Nathan Finch) is a criminal car racer, who operates with advanced forms of [[nanotechnology]]. He appears to be a [[cyborg]], as the Batman says, "He doesn't control nanotechnology; he ''is'' nanotechnology". His right arm has cords of some kind of nanotechnological virus which infects the vehicle and alters it into a yellow-coloured, more hi-tech form with advanced features. His fingertips can extend to form claws when he is engaged in combat. His right arm bears certain shells of the nanotechnological virus, which he can fire at other vehicles and control them remotely. Also, he has a robotic right eye that can automatically guide and maneuver his vehicle through traffic and other obstructions for him. Gearhead first shows up in yellow race car during a charity race that Bruce Wayne (the Batman) is also competing in. Gearhead wins the race and steals all the charity money and rides off, leaving all the contestants baffled. Soon after, he ends up getting chased by the Batman in his [[Batmobile]]. However, Gearhead appears to be too fast for the Batman, and later the batman eventually loses control of the Batmobile and falls off a cliff. He manages to jump in time, but has the Batmobile destroyed. Later, at the [[Batcave]], Wayne builds a new Batmobile with upgraded parts from other prototypes in his possession, from the Wayne Industries and even from the nanotechnological shell that he recovered from a vehicle that Gearhead was earlier controlling. With a bigger and better vehicle, the Batman, along with the [[Batgirl]], outraces Gearhead and defeats him. When he tries to steal the new Batmobile by injecting his cords into it, he is electrocuted, as the Batman tells that he reversed the effects of the virus so that it can't infect his vehicle. Gearhead is then sent to jail.
+
+===Toys===
+* Two action figures of Gearhead were made for the ''The Batman'' toyline. One for ''EXP'' line, and one for the ''Shadowtek'' line. However, Mattel renamed him "Metal Head" due to legal reasons.
+
+===Miscellaneous===
+* Gearhead appears in ''[[The Batman (TV series)|The Batman Strikes!]]''. In issue #36, it is revealed he used to be Nathan Finch, a big celebrity in underground racing. A car accident severely crippled him, making him lose the use of his arms and legs, and destroyed his career. Finch, lusting for power and glory, gained cybernetic parts and nanotechnology from an unknown benefactor, becoming Gearhead, and wreaked havoc in Gotham City. Gearhead later makes a cameo alongside many rogues in [[Arkham Asylum]] in issue #39 who take revenge against recently-imprisoned [[Black Mask (comics)|Black Mask]].
+
+==See also==
+* [[List of Batman Family enemies]]
+
+==External links==
+* {{comicbookdb|type=character|id=7693|title=Gearhead (Nathan Finch)}}
+[[Category:Characters created by Chuck Dixon]]
+[[Category:Comics characters introduced in 1995]]
+[[Category:Comics characters introduced in 1997]]
+[[Category:Fictional cyborgs]]
+[[Category:Fictional drivers]]
+[[Category:Fictional racing drivers]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:Fictional criminals]]
+[[Category:Fictional engineers]]
+[[sv:Gearhead]]
+[[tl:Gearhead]]

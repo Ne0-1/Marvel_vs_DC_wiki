@@ -1,0 +1,36 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[image:Sungirl-marvel.jpg]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Sun Girl
+|real_name=Mary Mitchell
+|publisher=[[Marvel Comics]]
+|debut=''Sun Girl'' #1 (August 1948)
+|creators=
+|alliance_color=background:#cccccc
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}}
+
+'''Sun Girl (Mary Mitchell)''' is a fictional character in the [[Marvel Comics]] Universe.  She first appeared in ''Sun Girl'' #1 (August 1948).
+
+==History==
+A personal secretary for the [[Jim Hammond|original Human Torch]] in [[World War II]], Mary Mitchell fell in love with him and became his partner as well as his sidekick, after [[Toro (comics)|Toro]] left to tend to his ailing foster mother.
+She fought alongside the Torch until Toro returned and replaced her.
+
+==Bibliography==
+*''Captain America Comics'' #69
+*''Human Torch Comics'' #32-35
+*''Marvel Mystery Comics'' #88-89
+*''Official Handbook of the Marvel Universe: Golden Age''
+*''Saga of the Original Human Torch #3-4
+*''Sun Girl'' #1-3
+
+[[Category:Marvel Golden Age characters]]
+[[Category:Golden Age superheroes]]
+
+{{Marvel-Comics-stub}}

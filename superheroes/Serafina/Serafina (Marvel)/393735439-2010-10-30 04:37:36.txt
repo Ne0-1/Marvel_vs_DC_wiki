@@ -1,0 +1,40 @@
+{{for|the given name|Serafina (given name)}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=[[Image:Children Serafina.jpg|150px]]
+|caption=Serafina, art by [[Chris Bachalo]].
+|comic_color=background:#ff8080 
+|character_name=Serafina
+|real_name=
+|publisher=[[Marvel Comics]] 
+|debut=''[[X-Men]]'' #188 (Sept. 2006)
+|creators=[[Mike Carey (British writer)|Mike Carey]]<br>[[Chris Bachalo]]
+|alliance_color=background:#c0c0ff
+|alliances=[[Children of the Vault (comics)|The Children of the Vault]]
+|aliases=
+|powers=[[Psychometry (paranormal)|Psychometry]], cyberpathy, disruption of human senses and artificial sensory equipment, as well as limited mind-control.
+|}} 
+
+'''Serafina''' is a [[supervillain]] in the [[Marvel Comics Universe]], most notably as a member of the [[Children of the Vault (comics)|Children of the Vault]].
+
+==Fictional character biography==
+A young woman with a wide array of superhuman abilities (her displays of power can be attributed to having an affinity for machines), Serafina is a valuable member of the Children of the Vault.  She joined [[Sangre (comics)|Sangre]] in the search for [[Sabretooth (comics)|Sabretooth]], but soon mind-controlled [[Northstar (comics)|Northstar]] and [[Aurora (comics)|Aurora]] into attacking the [[X-Men]].  When things weren't going her way, she sent her partner [[Perro (comics)|Perro]] back to the others and entered the mansion herself, where she confronted [[Cannonball (comics)|Cannonball]].  
+
+Using [[Lady Mastermind]]'s illusion abilities, Serafina created a world in which she was married to Cannonball, and took the name "Sarah."  Cannonball eventually caught on to the unrealism of the world, and Serafina was confronted by [[Wolverine (comics)|Wolverine]].  She easily disposed of him by turning his [[adamantium]] skeleton against him, poisoning him.  She then defeated Cannonball and left to return with her teammates.  
+
+The Children were upset that the X-Men had been made aware of their presence, but decide to launch an all-out attack on the superheroes.  The X-Men took the fight to them, but they were soon subdued, but fought back, foiling the Children's plans to destroy the Xavier Institute.  In the battle, Serafina was able to easily manipulate and defeat [[Karima Shapandar]] and Sabretooth, who had nano-sentinels in his blood, through her technopathic powers.  However, Cannonball tried to reach through to her based on the illusion the two shared, but when she confirmed for him that she had absolutely no true feelings for him, he grabbed her, and blasted around the ship, driving her into its hull at full force, and left her seemingly lifeless body behind.
+
+However, she is very much alive, leading a team of the Children to recapture an escaped member of their people in Mumbai, who just happened to end up in the company of several members of the X-Men, including Rogue.
+
+==Powers and abilities==
+Serafina is the most clearly mechanically-enhanced of the Children of the Vault. She can extend an array of wires from bio-plugs on her arms, chest, and spine in order to interface with machinery. Once plugged in, she is able to copy any and all information from computer hard drives into her own mind, and can also edit and delete this information as she chooses. Even without directly connecting to machinery, Serafina can hack into transmission feeds from a distance to "see" through security cameras, and emit a "blackout" field that prevents electromagnetic transmissions from traveling in her range, selectively or generally. Her human senses are masterfully enhanced as well. She can differentiate between psionic illusions and reality on sight. Serafina is also able to detect genetic and bio-chemical data down to the molecular level. This makes her an extraordinary tracker, capable not only of tracing a target's path but also identifying any person or object they might have touched and recognizing subtle shifts in their body chemistry or metabolism, such as changes in adrenaline levels or pulse rate. She can also manipulate bio-molecular ingredients to some degree. On her own, she can plant subliminal thoughts in people's minds in proximity, placing an idea in their head. When mechanically enhanced, however, Serafina capacity for influence and illusion increases dramatically. When a human being is hooked up to any kind of technology for her to interface with, she can project her consciousness through the machine and into the person's neuro-chemical pathways, effectively simulating a psychic link. She can then interact with someone's astral form with her own psychic self, modifying her "appearance" and their environment as she chooses. Plugging directing into someone's thoughts gives her considerable persuasive abilities, allowing her to plant powerful and controlling directives into their minds. By plugging into Lady Mastermind, she was also able to access and manipulate Regan's telepathic illusion power as she saw fit, while the woman herself remained in a coma.
+
+==Notes==
+* Serafina's abilities are closely related to [[Phantazia]]'s.
+
+==Bibliography==
+* ''X-Men'' #188–193
+
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics telepaths]]
+[[Category:Fictional technopaths]]
+[[Category:Characters created by Mike Carey]]

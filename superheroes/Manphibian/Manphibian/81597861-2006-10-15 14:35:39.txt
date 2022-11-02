@@ -1,0 +1,33 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[image:manphibian.jpg|250px]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Manphibian
+|real_name=
+|publisher=[[Marvel Comics]]
+|debut=''Legion of Monsters'' #1
+|creators=
+|alliance_color=background:#cccccc
+|status=
+|alliances=[[S.H.I.E.L.D.]], [[Howling Commandos]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}}
+
+'''Manphibian''' is a fictional character from the [[Marvel Universe]] who first appeared in ''Legion of Monsters'' #1.
+
+==History==
+'''Manphibian''' is an [[extraterrestrial]] creature that arrived on [[Earth]] over 1000 years ago.  It was revived in [[1975]] and was later revealed to be captured by [[S.H.I.E.L.D.]]  It was then placed in the [[Nick Fury's Howling Commandos|Howling Commandos]] Monster Force.
+
+==Bibliography==
+*''Legion of Monsters'' #1
+*''Marvel Handbook: 1970s''
+*''Nick Fury's Howling Commandos'' #1-6
+*''Nick Fury’s Howling Commandos: Director's Cut''
+
+{{Marvel-Comics-stub}}
+[[Category:S.H.I.E.L.D.]]
+[[Category:Marvel Comics supporting characters]]
+[[Category:Fictional extraterrestrials]]

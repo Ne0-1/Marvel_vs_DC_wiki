@@ -1,0 +1,43 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Ecover12.gif|200px]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Uni-Mind
+|real_name=not applicable
+|publisher=[[Marvel Comics]]
+|debut=''The Eternals'' vol. 1 #12 (Jun 1977)
+|creators=[[Jack Kirby]]
+|alliance_color=background:#cccccc
+|status=
+|alliances=[[Eternals (comics)|Eternals]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}}
+The '''Uni-Mind''' is a fictional composite being in the [[Marvel Universe]].  The Uni-Mind and the Eternals were the creation of [[Jack Kirby]].
+
+==Fictional character biography==
+Normally the Uni-Mind is a mental gestalt entity and collective intelligence of at least seven [[Eternals (comics)|Eternals]], but Uni-Minds have also been comprised of Eternals, Humans, [[Deviant (comics)|Deviants]] and Brethren.  The Uni-Mind possesses all the powers, knowledge and combined intellect of those who are part of it, and all the participants share each other's knowledge and can gain new insights and perceptions.  The Eternals often use it as a means to address problems or decisions that are deemed too difficult for them to solve as individuals.
+
+The Uni-Mind is also a vastly powerful entity which can project mighty energy bolts against enemies.  The Uni-Mind resembles a gigantic human brain and levitates itself above the ground.
+
+The Eternals first performed the Uni-Mind ceremony at the time of the Great Cataclysm that sank [[Atlantis (Marvel Comics)|Atlantis]].  It is not known how long a Uni-Mind can be held together, but there is one which left earth following Zuras' death,<ref>''Avengers'' #248</ref> and apparently still exists. It comprises most of the Eternals' population, though [[Ajak]], and possibly others, have left its joining. [[Zuras]] was the first Eternal to form a Uni-Mind, after they attained cosmic powers, and used it to determine if he or [[Mentor (Marvel Comics)|A'lars]] should become [[Prime Eternal]]. Since then, the Prime Eternal alone has the power to summon the Ritual, and produce the Blue Flame through which the Eternals fly, their forms physically becoming the Uni-Mind. Varua of the [[Young Gods (comics)|Young Gods]] is also able to create a joining with her fellow Young Gods which is similar to the Uni-Mind.
+
+==Bibliography==
+*''Avengers'' vol. 1 #247-248, 339, 370-371
+*''Eternals'' vol. 1 #12-14
+*''Eternals'' vol. 2 #12
+*''Thor'' vol. 1 #291, 300
+*''What If?'' vol. 1 #25
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.immortalthor.net/bio-unimind.html Uni-Mind at ImmortalThor.net]
+
+[[Category:Marvel Comics cosmic entities]]
+[[Category:Marvel Comics Eternals]]
+
+{{Marvel-Comics-stub}}

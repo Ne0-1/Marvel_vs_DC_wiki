@@ -1,0 +1,49 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=<!-- Unsourced image removed: [[Image:SUPERADAPTOID(COMICS).JPG|160px]] -->
+|caption='''Super-Adaptoid'''
+|comic_color=background:#ff8080
+|character_name=Super-Adaptoid
+|real_name=None
+|publisher=[[Marvel Comics]]
+|debut=Tales of Suspense #82 (as the Adaptoid), Tales of Suspense #84 (as the Super-Adaptoid)
+|creators=[[Stan Lee]]<br>[[Gene Colan]]<br>[[Jack Kirby]]
+|alliance_color=background:#c0c0ff
+|status=Inactive
+|alliances=[[Advanced Idea Mechanics|AIM]]
+|previous_alliances=[[Heavy Metal (Marvel Comics)|Heavy Metal]], [[New Enforcers]]
+|aliases=
+|relatives=
+|powers= Ability to mimic the powers of superpowered beings
+|}}
+
+The '''Super-Adaptoid''' is a [[fictional character]], an [[android]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]].  It has fought the [[Avengers (comics)|Avengers]], particularly [[Captain America]], on several occasions. Its first appearance was in ''Tales of Suspense'' #82 as the "Adaptoid" and ''Tales of Suspense'' #84 as the "Super-Adaptoid".
+
+==Character biography==
+The Super-Adaptoid is an artificially intelligent android. Its level of intelligence has varied during its different appearances, sometimes being primitive and sometimes being fairly advanced and sapient. It has battled the Avengers and the X-Men. 
+
+The Super-Adaptoid was built by [[Advanced Idea Mechanics|AIM]], a former branch of the super-terrorist group [[HYDRA]]. It has the ability to mimic the powers of up to eight superpowered individuals. This power was originally made possible by the use of a fragment of a [[Cosmic Cube]], embedded within the android's body.
+However, this Cosmic Cube fragment was removed by [[Kubik]] at the conclusion of the story arc entitled [[Heavy Metal (Marvel Comics)|Heavy Metal]]; how the Super-Adaptoid currently manages to take on the superhuman abilities of others is unknown.
+
+The Super-Adaptoid, at its most intelligent, became the leader of [[Heavy Metal (Marvel Comics)|Heavy Metal]], a team of androids whose membership included the [[Awesome Android]], a [[Kree]] Sentry, the [[Dragon Man]], [[TESS-One]], and, briefly, the heroic android [[Machine Man]].  Trying to understand the nature of human existence (as explained by [[Captain America]] while they were locked in final combat), it "committed suicide" in an attempt to 'understand' Death, and subsequently reappeared with substantially less intelligence (perhaps due to the aforementioned removal of its Cosmic Cube portion).  In this form it joined the [[New Enforcers]], a criminal cartel affiliated with the [[Foreigner (comics)|Foreigner]].
+
+An android with similar capabilities has appeared in one of the issues of ''Spider-Man 2099''.
+
+{{spoiler}}
+A New Adaptoid appeared in [[New Avengers (comic)|''New Avengers Annual'']] #1. This time it was [[Black Widow (Marvel Comics)#Yelena Belova|Yelena Belova]]. Belova had suffered dibilitating and disfiguring injuries after her last encounter with the Avengers in the [[Savage Land]]. [[Hydra (comics)|Hydra]] recruited her with the prospect of revenge and after hiring the services of A.I.M. transferred her mind into a new Adaptoid body. 
+
+She was brought to a standstill by [[Tony Stark]] who utilised every one of his previous Iron-Man armours simultaneously and defeated outright after her absorption of [[Sentry (Robert Reynolds)|the Sentry's]] powers also unleashed the Void. She was killed by Hydra (using a remote device) rather than let her reveal intelligence to the Avengers.
+
+This body appeared as Belova had originally until it began to absorb powers, at which time it changed as the original did, though now yellow in colour.
+
+==Powers and abilities==
+The Super-Adaptoid is an artificial construct capable of mimicking the powers and skills of superhumanly powerful individuals, including specific equipment and clothing, which it generates out of its own mass.  It can precisely mimic the physical appearance of a single individual whose powers it has stored; however, if it uses the powers of two or more individuals at the same time, its appearance alters to a mixture of the costumes and/or weaponry of the mimicked beings, and its skin, clothing and equipment alter to shades of Kelly green.  It has artificial intelligence that seems to vary from appearance to appearance.
+
+==External links==
+* [http://www.comics-db.com/comic-book/1040205-Tales_Of_Suspense.html Tales of Suspense #82 at The Big Comic Database]
+*[http://marvel.com/universe/Super-Adaptoid Super-Adaptoid on the Marvel Universe Character Bio Wiki]
+
+[[Category:Marvel Comics robots]]
+[[Category:Avengers villains]]
+[[Category:Fictional robots]]
+
+[[pt:Super-Adaptóide]]

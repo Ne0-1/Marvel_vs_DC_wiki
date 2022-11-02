@@ -1,0 +1,61 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:AvengersAnnual-9.jpg|250px]]
+|caption=''Arsenal'' on the cover of ''[[Avengers (comics)|Avengers]]'' Annual #9 (1979).<br>Art by [[Don Newton]].
+|comic_color=background:#ff8080
+|character_name=Arsenal
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Iron Man]]'' #114 (Sept. 1978)
+|creators=[[Bill Mantlo]] and [[Keith Giffen]]
+|alliance_color=background:#c0c0ff
+|alliances=
+|partners="Mother"
+|aliases=
+|powers=Superhuman strength<br>Durability<br>Air Jets<br>Laser Cannon<br>Advanced Sensors
+|}}
+
+'''Arsenal''' is a [[fictional character]] that appears in [[comic books]] published by [[Marvel Comics]]. The character first appears in ''[[Iron Man]]'' #114 (Sep. 1978) and was created by [[Bill Mantlo]] and [[Keith Giffen]].
+
+==Publication history==
+Arsenal first appeared in a two-part storyline in ''[[Iron Man]]'' #114 (Sept. 1978) and ''[[Avengers (comics)|Avengers]]'' Annual #9 (1979). The character made a final appearance in ''[[Hulk (comics)|Hulk]]'' #282 (April 1983). The Arsenal "Alpha" unit appeared in ''Iron Man'' vol. 3, #84-85 (Aug. 2004).
+
+==Fictional character biography==
+In the final days of [[World War II]], a group of Allied scientists led by [[Howard Stark]] developed "Project Tomorrow" and the creation of a robot called Arsenal; a [[prototype]] fighting unit to be deployed in the event of an [[Axis powers|Axis]] victory. The robot was also guided by an early computer program called "Mistress". When the Allies won the war, Arsenal was placed in storage. The robot was activated for a military demonstration during a worsening [[Cold War]], but was never used.
+
+In the present day, the [[Avengers (comics)|Avengers]] are battling the [[Unicorn (comics)|Unicorn]] underneath [[Avengers Mansion]], when Arsenal suddenly appears and attacks them. However, [[Iron Man]] successfully drives Arsenal off.<ref>''Iron Man'' #114 (Sep. 1978)</ref>
+
+The Avengers learn the origin of the robot from their government liaison, [[Henry Peter Gyrich]]. Arsenal reappears and captures Avengers [[Hawkeye (comics)|Hawkeye]] and the [[Beast (comics)|Beast]] and stuns [[Henry Pym|Yellowjacket]] with an electric shock. Yellowjacket, however, recovers and alerts the other Avengers, advising them that Project Tomorrow is directly beneath the mansion.
+
+Guided by '''Mistress''' (who erroneously believes the Allies lost World War II), Arsenal defeats several Avengers, until confronted by [[Thor (Marvel Comics)|Thor]] and the [[Scarlet Witch]]. On the verge of defeat, Arsenal apparently self-destructs while Iron Man confronts Mistress, who was programmed with the brain patterns of [[Maria Stark|his deceased mother]]. Once Iron Man unmasks and explains that the Allies won the war, and that Mistress is simply modelled on his dead mother, the computer program wipes its own memory.<ref>''Avengers'' Annual #9 (1979)</ref>
+
+Arsenal actually faked its own destruction, and when [[She-Hulk]] and the [[Hulk (comics)|Hulk]] visit Avengers mansion it attacks [[Edwin Jarvis]], the Avengers' butler. Arsenal then incapacitates She-Hulk, and in a rage the Hulk pummels Arsenal until it is destroyed.<ref>''Hulk'' #282 (April 1983)</ref>
+
+Iron Man eventually learns that only a "Beta" unit had been destroyed, and that an "Alpha" unit remained deactivated beneath Avengers Mansion. [[Homeland Security]] ask him to shut it down without informing the other Avengers due to the security risk it poses. Iron Man tracks the unit, but is unaware that the Avengers have followed him. The unit is activated when transmission codes are radioed to Iron Man, which results in a battle between the new Arsenal and the Avengers. Iron Man then realises that Arsenal was activated by interference with its signal, which was set to "[[inert]]". Iron Man occupies Arsenal while [[Ms. Marvel|Warbird]] stops the source of the interference, causing Arsenal to deactivate. The unit is then dismantled.<ref>''Iron Man'' vol. 2, #84 - 85 (2004)</ref>
+
+Arsenal, fully reassembled and under control, is later used as a test for a group of Avengers recruits, under the pretext that it is out of control.<ref>''[[Avengers Academy]]'' #2 (2010)</ref>
+
+==Other versions==
+===Ultimate Marvel===
+Several of the [[Ultimate Marvel]] Arsenal robots are shown and revealed to be created by [[Howard Stark Sr.]] for that continuity of Project Tomorrow in ''[[Ultimate Comics: Armor Wars]]''.<ref> ''Ultimate Comics: Armor Wars'' #3</ref>
+
+==Powers and abilities==
+Both Arsenal units possess amplified strength and durability. The Beta unit also possesses air jets and inertia darts; can radiate an electro-stun field and project a high-intensity laser beam from its eyes. The Alpha unit possesses a flame-thrower, multiple gun systems and a toxic gas dispenser.
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/arsenal.htm|Arsenal}}
+* [http://en.marveldatabase.com/Arsenal_%28Robot%29_%28Earth-616%29 Marveldatabse.com entry]
+* [http://www.marvel.com/universe/Arsenal_%28Robot%29 Marvel.com entry]
+
+{{Iron Man}}
+
+[[Category:Characters created by Keith Giffen]]
+[[Category:Comics characters introduced in 1978]]
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics supervillains]]
+
+[[fr:Arsenal (Marvel Comics)]]
+[[tl:Arsenal (Marvel Comics)]]

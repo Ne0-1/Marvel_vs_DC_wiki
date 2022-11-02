@@ -1,0 +1,27 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=[[image:airstrike-comics.jpg|200px]]
+|caption=Bukharin as [[Airstrike (comics)|Airstrike]]
+|comic_color=background:#ff8080 
+|character_name=Airstrike
+|real_name=Dmitri Bukharin
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Iron Man]]'' #109 (Apr 1978)
+|creators=[[Bill Mantlo]] and [[Carmine Infantino]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Soviet Super-Soldiers]], [[Supreme Soviets|Supreme Soviets/People's Protectorate]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''Dmitri Bukharin''' is a fictional character in the [[Marvel Universe]].
+
+Dmitri was born in [[Kuibyshev]], Russia.  He became the fifth [[Crimson Dynamo]] when KGB stripped the previous Crimson Dynamo of his armor and gave it to Dmitri. Dmitri joined the [[Soviet Super-Soldiers]], but was expelled when his teammates learned of his loyalty to the government that had betrayed them. He later joined the [[Supreme Soviets]], a group of superhumans who were loyal to the Soviet government; the group became the People's Protectorate after the USSR dissolved. 
+
+Colonel-General Valentin Shatalov used his rank to obtain the Crimson Dynamo from Dmitri Bukharin for his own use. When the government confiscated his armor, Dmitri designed a new suit of armor and adopted the codename Airstrike.
+
+
+{{Marvel-comics-stub}}

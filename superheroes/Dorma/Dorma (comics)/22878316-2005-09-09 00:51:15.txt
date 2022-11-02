@@ -1,0 +1,27 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=:#ff8080
+|character_name=Lady Dorma
+|real_name=Dorma
+|publisher=[[Marvel Comics]]
+|debut=
+|creators=
+|alliance_color=background:#cccccc
+|status=Dead
+|alliances= 
+|previous_alliances=[[Atlantis]]; [[Namor the Sub-Mariner]] 
+|aliases=
+|relatives= Sub-Mariner (fiance)
+|powers=Fully amphibious physignogmy suited for high water pressure;
+Super strength, high speed swimming. 
+|}}
+'''Lady Dorma''' is a fictional character in [[Marvel Comics]]' [[Marvel Universe]].
+
+A native of the undersea kingdom of [[Atlantis]], Dorma was [[Namor the Sub-Mariner]]'s closest confidante and lover in many of his  appearances in the late [[1960s]] and early [[1970s]].
+
+She was engaged to be married to the Sub-Mariner when she was kidnapped and murdered by [[Llyra]], who assumed her identity and tricked Namor into marrying her instead (''Sub-Mariner'' #37 [[May]], [[1971]]).
+
+{{Marvel-Comics-stub}}
+
+[[Category:Homo mermanus]]

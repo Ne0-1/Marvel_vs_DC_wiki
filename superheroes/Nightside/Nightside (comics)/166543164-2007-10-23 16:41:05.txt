@@ -1,0 +1,35 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Nightside
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Men]]'' #107 (Oct 1977)
+|creators=[[Chris Claremont]] and [[Dave Cockrum]]
+|alliance_color=background:#c0c0ff
+|status=Active duty
+|alliances=[[Imperial Guard (comics)|Imperial Guard]], [[Lilandra]]
+|previous_alliances=
+|aliases=Nightshade
+|relatives=
+|powers=Natural [[Darkforce]] dimension interface grants a wide range of darkness-based abilities.
+|}} 
+
+'''Nightside''' is a fictional character in the [[Marvel Universe]].
+
+==Fictional character biography==
+Nightside is a long-time member of the [[Shi'ar]] [[Imperial Guard (comics)|Imperial Guard]].  She possesses various abilities stemming from the [[Darkforce]] dimension, most notably the power to generate absolute darkness in an unspecified radius, and the ability to displace individuals into the Darkforce dimension, subjecting to a metaphysical sense of cold and fear, much like the power of [[Cloak and Dagger (comics)| Cloak]]. Her powers are apparently a natural attribute of her race. Though she wields her abilities with great skill, her greatest fear is that she will someday be consumed by them.
+
+Like [[Oracle (Marvel Comics)|Oracle]], she was injured by [[Vulcan (Marvel Comics)|Vulcan]]. Unlike several of her fellow Guardsman, Nightside survived and was seen soon after battling the [[X-Men]] and the [[Starjammers]].
+
+==External links==
+*http://www.marvunapp.com/Appendix4/nightsideimpguard.htm
+
+
+{{Marvel-comics-stub}}
+
+[[Category:Extraterrestrial superheroes]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics superheroes]]

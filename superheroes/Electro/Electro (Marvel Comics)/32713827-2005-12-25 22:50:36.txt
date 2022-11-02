@@ -1,0 +1,67 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:electrofinch.png|225px]]
+|caption=Electro. <br>Art by David Finch.
+|comic_color=background:#ff8080
+|character_name=Electro
+|real_name=Maxwell Dillon
+|publisher=[[Marvel Comics]]
+|debut=''[[Amazing Spider-Man]]'' #9 (February, [[1964]])
+|creators=[[Stan Lee]]<br>[[Steve Ditko]]
+|alliance_color=background:#c0c0ff
+|status=Inactive
+|alliances=
+|previous_alliances=[[Sinister Six]], [[Frightful Four]]
+|aliases=
+|relatives=
+|powers=The ability to emit [[electricity]] from his body as a means of attack and transportation on conductive materials.
+|}}
+
+'''Electro''' (Maxwell Dillon) is a [[fictional character]], a [[comic book]] [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]] and an enemy of [[Spider-Man]] (not to be confused with the similarly named [[Elektra (comics)]], also from the Marvel Universe).  He was created by [[Stan Lee]] and [[Steve Ditko]] in ''[[Amazing Spider-Man]]'' #9 (February, [[1964]]).
+
+==Character history==
+[[Image:Spectac135.png|150px|Cover to ''Spectacular Spider-Man'' #135. Art by Sal Buscema.|thumb|left]]
+Max Dillon was born to Jonathan and Anita Dillon. Jonathan Dillon was an [[accountant]], though he had trouble keeping a job. Because of this, Max and his family moved around a lot when he was young and he was unable to make friends. His father, who bore a terrible temper and blamed his wife and child for his problems, abandoned his family when Max was only eight years old. Anita started to become very overprotective towards Max, believing he was all she had left. Later in life, Max told his mother that he wished to become an electrical [[engineer]]. Anita, not wanting him to be angry if he failed, convinced him that he was not intelligent enough, and Max reluctantly took a job as a lineman for the [[electric company]].
+
+One day while repairing a power line, a freak [[lightning]] accident at an electrical facility resulted in a mutagenic change in his nervous system. This change transformed him into a living, electrical [[capacitor]]. With this newfound power, Max Dillon took the name of Electro and turned to a life of [[crime]], with his first victim being [[J. Jonah Jameson]]. Electro broke into the [[Daily Bugle]] and stole from Jameson's safe right in front of him. Jameson accused Spider-Man of being the alternate identity of Electro, so Spider-Man sought out to prove him wrong.
+
+Spider-Man and Electro began to fight, but Spider-Man was nearly killed when he touched the surging supervillain. Spider-Man, realizing that Electro was not very bright, decided to instead outsmart him, and used a [[fire hose]] to short-circuit Electro. Enraged by this humiliating defeat, Electro has fought Spider-Man countless times, as well as fighting against other heroes such as [[Daredevil]] and the [[Fantastic Four]].  In ''[[Marvel Knights Spider-Man]]'' #2, Electro was revealed to be [[bisexuality|bisexual]] (or at least [[bi-curious]]).  It should be noted that Electro never actually says as such, only that prison brought out a new side of him while visiting a shape-shifting prostitute.  Super-villains are often imprisoned alongside opposite sexes which may mean that he was referring to some bizarre villain like [[Lady Deathstrike]].  However, this is unlikely.
+
+Electro was recently hired by [[Brainchild]] to free [[Sauron (comics)|Karl Lykos]] from The Raft, a maximum-maximum security prison for super villians. After causing a riot, Electro tried to run away with his girlfriend, but was caught by the [[Avengers (comics)|Avengers]]]].
+
+==Powers and abilities==
+Electro can generate massive quantities of [[electricity]], supposedly up to one million [[volts]] of electricity, and when his body is charged with immense levels of electricity he becomes superhumanly strong as well, being able to lift over 450 pounds. He can also glide over power lines by using the electricity contained therein for propulsion, and has on occasion been shown to actually ride on lightning bolts.
+
+He is extremely powerful, but like the [[Rhino (comics)|Rhino]], is usually outwitted by [[Spider-Man]], so despite his great power, Electro is not the most threatening villain.
+
+==Ultimate Electro==
+In the [[Ultimate Marvel]] universe, Electro has been reimagined. His arguably cheesy mainstream origin was changed, so that his powers are now a product of bioengineering. In this continuity, he is one of [[the Kingpin]]'s henchmen. He has an interesting pattern of burn scars on his face, possibly from whatever gave him his power. He later became part of the [[Ultimate Six]].
+
+*As a sidenote, when the Kingpin and Electro first appeared in [[Ultimate Spider-Man]], Kingpin falsely called Electro "[[Elektra (comics)|Elektra]]". This was an in-joke, referring to the fact that the Greek ninja of very similar name was the Kingpin's right hand in mainstream Marvel.
+
+==Other Media==
+Electro made an appearance in the famous Sixties Spider-Man cartoon. 
+
+In the [[1990's]] Spider-Man cartoon, Electro made an appearance in season five, but in this version, he was Rheinholt Kragov, instead of Max Dillon.  During the course of the episode arc in which he appears, it is revealed that Kragov is the Red Skull's son, a fact which has no basis in comic-book canon but is intriguing nonetheless.
+
+In MTV's [[Spider-Man: The New Animated Series]] in [[2003]], Max Dillon was a College friend of Peter Parker who was always bullied by some fraternity boys of which he was pledging. After being humiliated at their party, Max goes out into the rain and his struck by a bolt of lightning. Here he becomes Electro and plans his revenge on the man who bullied him, Doug Reisman. He kills Doug and is later defeated by Spider-Man. He returned several episodes later. He attempted to make Sally, a girl he fell in love with at the party, go through a similar transformation. Spider-Man once again defeated him, this time throwing him into the ocean, which seemed to destroy him for good.
+
+==Video Games==
+*Electro is the main antagonist on ''Spider-Man 2: Enter Electro''. He steals a machine known as the Bio-Nexus device and becomes Hyper-Electro but is defeated when Spider-Man tricks him into zapping himself. He is sent to jail afterwards. In this game, he became an "Ultimate Electro" in the last stage, though this has nothing to do with the one in the ultimate marvel universe series.
+
+*Electro is also a boss in the Ultimate Spider-Man video game. Venom battles him, smashing neon signs to prevent him from recharging.
+
+*In the 1991 "Spider-Man vs. The Kingpin" video game for the Sega Genesis/MegaDrive, Electro is the boss of the third stage, which is a power station.
+
+*Electro also appears in the ''Spider-Man'' arcade game, and ''Spider-Man: Return of the Sinister Six''.
+
+[[Category:Avengers villains]]
+[[Category:Daredevil villains]]
+[[Category:Defenders members]]
+[[Category:Frightful Four members]]
+[[Category:LGBT comic book characters]]
+[[Category:Sinister Six members]]
+[[Category:Spider-Man villains]]
+[[Category:Fictional elementals]]
+
+[[cs:Electro]]
+[[pt:Electro (HQ)]]

@@ -1,0 +1,130 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->   
+|image=[[image:warm11.jpg|250px]]   
+|caption=Cover to '''War Machine #11'''.   
+|character_name=War Machine   
+|publisher=[[Marvel Comics]]   
+|debut=''Iron Man'' #118 (January, [[1979]])   
+|creators=[[David Michelinie]]<br>[[Bob Layton]]    
+|real_name=James Rupert Rhodes   
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances = <!-- optional -->
+|alliances= [[Sentinel Squad O*N*E|Sentinel Squad (Office of National Emergency)]]<br>[[The Crew (comics)|The Crew]]<br>[[West Coast Avengers]]<br>[[Force Works]]<br>[[Defenders (comics)|Secret Defenders]]<br>[[Stark Enterprises]]<br>[[Worldwatch]]<br>[[United States Marine Corps]]   
+|aliases=Iron Man   
+|supports=<!--optional--> 
+|powers=None, Power suit grants:<br>
+*Superhuman strength
+*Flight
+*Energy blasts
+*Variety of offensive and defensive weapons
+*Remote drones
+ |}}   
+    
+'''War Machine''' is a [[fictional character]], a [[Marvel Comics]] [[superhero]]. War Machine's abilities came from an advanced suit of armor, designed using technology from Stark Industries, and later from an [[extraterrestrial life|alien]]-built suit. He is well-known as the accomplice of [[Iron Man]].   
+   
+==Origins==   
+[[Image:Iron170.jpg|150px|left|Jim Rhodes becomes Iron Man. Cover to '''Invincible Iron Man #170'''. Art by Luke McDonnell.|thumb]]   
+'''James Rupert Rhodes''' first met billionaire industrialist [[Iron Man|Tony Stark]] while flying combat missions in [[Vietnam]]. Rhodes' helicopter had been shot down by [[Viet Cong]] rocket fire, and while trying to get the aircraft airborne again, he encountered Stark, who had just escaped from the prison camp of the Vietnamese warlord Wong Chu in a bulky prototype suit of [[powered armor]]. At that moment the Viet Cong attacked, and Stark, in his suit, helped to drive them off. Together, Rhodes and Stark made their way to a nearby enemy base where they stole another helicopter, flying it back to the American lines.    
+  
+After the end of the [[Vietnam War]], Stark, who had secretly become the superhero named [[Iron Man]], offered Rhodes a job as his personal pilot, and Rhodes soon became one of Stark's closest associates and confidants as well as Stark Industries' chief aviation officer. As a result, he had numerous adventures with his employer where his daring and skills were valuable assets.   
+   
+When Stark lost his company to [[Obadiah Stane]] and relapsed into [[alcoholism]], Rhodes took over the armor and role of Iron Man in Stark's stead. However, he began to experience headaches while using the armor, and over time, his behavior began to grow more erratic and aggressive, prone to violent solutions to given problems. Rhodes's manic mental state was later revealed to be the result of his using armors whose cerebral interfaces were calibrated for Stark's brain, leaving any other long-term user disoriented and confused. When Stark was on the road to recovery, he helped Rhodes maintain the armor, but Rhodes became increasingly [[paranoia|paranoid]], believing that Stark meant to retake the armor.   
+    
+Rhodes went on a rampage, and Stark was forced to don a crude, prototype suit of armor much like his original suit to stop him. Rhodes came to his senses and the two fought together for a time until Rhodes was injured by [[Obadiah Stane]] and Stark took the new armour.   
+  
+===Birth of the War Machine===   
+Stark also subsequently designed a heavier-armed version of the Iron Man suit, the "Variable Threat Response Battle Suit" to battle the Masters of Silence, and it became known as the War Machine armor. Rhodes used the War Machine armor as Iron Man when Stark faked his own death while recovering from a life-threatening illness. When the ruse was revealed, it damaged the friendship between the two men, and they went their separate ways.    
+ 
+ [[Image:War Machine (Eidolon Warwear).png|War Machine, in the Eidolon Warwear. Art by Fred Haynes|200px|left|thumb]]   
+  
+Rhodes, however, continued to use the War Machine armor in a solo superhero career, and it eventually was replaced by a symbiotic alien suit, known as the Eidolon Warwear. When Stark died during a battle with [[Kang the Conqueror]], Rhodes rejoined Stark Enterprises (which was bought by Fujikawa Industries) to protect his old friend's legacy. To prevent Stark's armor technology from being misused, he used the abilities of his alien armor to erase all trace of Stark's designs from the Fujikawa systems, but the armor was destroyed in the process. Rhodes gave up his superhero career and started his own salvage company. 
+
+Later, [[comic book death|perhaps unsurprisingly]], Stark once more returned from the dead, forming a new company, Stark Solutions and taking up the Iron Man identity once more. The two men were reconciled and Rhodes and Stark teamed up again to stop a new villain (also calling himself War Machine) who was wearing what looked like a version of the old War Machine armor, including a heavily-gunned exo-suit, but was in fact not based on Stark technology. 
+
+[[Image:WMSentinelTrainer.png|thumb|War Machine, in his Sentinel-derived armour as C.O. and instructor of Sentinel Squad O*N*E. Art by [[Aaron Lopresti]].]]
+
+Rhodes later became one of the main characters in the comic series ''[[The Crew (comics)|The Crew]].'' In the series first issue, his sister, Jeanette, died and he was declared bankrupt, while avenging her murder he becomes one of the driving forces that brings the team together.  
+
+Jim Rhodes is now the [[commanding officer]] and head combat instructor for [[Sentinels (comics)#Sentinel Squad O*N*E|Sentinel Squad O*N*E]], and a key member of the Office of National Emergency (O*N*E). In that role, he wears an armour derived from the Sentinel technology, and painted in the same colour scheme as the larger Sentinels.
+
+==U.S. War Machine==
+
+In the non-[[canon (fiction)|canon]] [[Marvel MAX]] miniseries ''U.S. War Machine'', Rhodes is fired by Stark after War Machine kills two hostage takers on national TV, one in cold-blood. After his dismissal, Rhodes is attacked by former War Machine pilot Parnell Jacobs in an attempt to recover the War Machine armor. The two are picked up by [[Nick Fury]] and taken to the [[Helicarrier]]. It is revealed that Jacobs had sold his stolen War Machine to [[HYDRA]] for money when he learned his wife was pregnant. [[S.H.I.E.L.D.]] was able to recover the armor and was in the process of reverse engineering the Stark technology. [[Nick Fury]] planned to field a squad of War Machines commanded by Rhodes.
+
+==Armor Equipment and Abilities==
+===War Machine Armor===
+
+* Repulsors: Laser-guided particle beam emission units mounted in the palm of each hand.
+* Unibeam: Multi-band light and force beam emitter. Can be adjusted for a variety of effects such as search light, heat beams, tractor beam, lasers, image inducers, ultraviolet light, and electromagnetic pulse. While not present in the original model, it was added for Rhodes.
+* Pulse Bolt Generators: Plasma discharges that build in intensity as they travel through the atmosphere, picking up static and ambient energy.
+* Force Shield: A focused photon emitter on the back of his left wrist that shapes into a shield.
+* Gatling Gun: Shoulder-mounted and using an [[electronic firing]] system. This is a state of the art gatling machine gun firing [[caseless ammunition]]. It can be loaded with a wide array of various bullet types including stun and armor-piercing.  Default loadout is 1800 rounds of [[Depleted Uranium]] bullets.
+* Double-barreled cannon.  Wrist-mounted, fires various ammo types.  Ammo is user-selectable and is fed from belt circling the upper wrist.  
+* Flamethrower.  Largely ineffective while in-flight.
+* Laser Blade.
+* Micro-Rocket Launcher.  Holds a variety of up to eight rockets, including High Explosive, Concussion, Smoke, Flare, and Sub-Nuke.
+* Particle Beam Discharger.
+* Forcefield-based stealth technology (which Rhodey referred to as the "Romulan Cloaking Device")
+* Self-contained breathing system.
+* Increased the wearer's strength to roughly 90 tons.
+
+===Eidolon Warwear===
+* Drone Remotes:  The Warwear can "unskin" or "morph" remote drones.  Drones are capable of the following functions:
+** Discharge various types of energy and concussive force.
+** Act as sensors and as infiltrators of various electronic/computer systems.
+** Create defensive energy shields virtually instantaneously.
+** Follow basic instructions and carry out minor tasks (in the last issue of War Machine, Rhodey instructs a drone to carry his luggage to his then-girlfriend Rae while he completed one last mission).
+
+* Left Arm Cannon: Fires destructive blasts of energy.
+* Because the armor was hidden in a tattoo-like "body stigmata" known as a "mandala" on Jim's chest, which he only had to touch to be instantly clad in the armor, he never had to waste precious moments putting the armor on (which prevented at least one civilian from being crushed by a car in one of the early Eidolon stories).
+* Could instantly adapt to the rigors of space by hardening, polarizing the visor and recycling air.
+* The right arm (at least) was able to morph into a blade weapon, which Rhodey once used to decapitate a [[S.H.I.E.L.D.]] [[mandroid]] while leaving its pilot unscathed.
+* The warwear morphed into a "full battle mode" in the last issue of War Machine, but what notable enhancements or abilities were gained from this mode were not explained. It enabled Rhodes to easily defeat several S.H.I.E.L.D. mandroids in short order.
+* The warwear increased the strength of whoever it was bonded to by an undetermined amount (probably only while deployed, though); at least enough to effortlessly catch a full-size sedan thrown by a supervillain.
+
+===U.S. War Machine===
+* Gatling Gun:  This shoulder mounted Gatling gun is presumed to be a M201. 
+* Gauntlet Guns: Twin barreled wrist mounted machine guns. The gauntlet guns are presumed to use 9mm Luger/Parabellum rounds.
+* Micro-Rocket Launchers: Miniature shoulder mounted rocket launchers.
+* Long Barrel Machine Guns: A shoulder mounted long barrel machine gun presumed to use .22 LR rounds.
+
+==Ultimate War Machine==
+[[Image:Ultimate War Machine.jpg|thumb|Ultimate War Machine on the cover of ''[[Ultimate Iron Man]]'' #4. Art by [[Andy Kubert]].]]
+Ultimate War Machine made his first appearance in the Ultimate Marvel continuity in Ultimate Iron Man #3 where he is a prep school student, and the frequent victim of [[bullying]] from a number of peers at his school for his African American ethnicity. He finds an unlikely friend in a young [[Iron Man#Ultimate Iron Man|Tony Stark]] who is seemingly indestructible and defends him against the bullies, to his dismay.
+
+Stark allows a teenage James Rhodes (affectionately nicknamed "Rhodey"), a chance to wear some of the armour he and his father have innovated and this is where James Rhodes has his first experience as a superpowered War Machine. Later, he is seen making another armor titled 'War Machine' and is going to trade with Stark's 'Iron Man' armor when both are fully developed. Also, the two form a close bond throughout the remainder of the [[limited series]] representing their youth.
+
+At the beginning of the Carnage story arc of ''[[Ultimate Spider-Man]]'', Dr. [[Curt Conners]] receives a letter from Stark Enterprises about his projects funding. The letter is signed by Jim Rhodes, so it can be assumed that Jim Rhodes lives through the ''Ultimate Iron Man'' series.
+
+Within [[The Ultimates]], Tony gives a black version of his outfit to [[Black Widow (comics)|Black Widow]] that is vaguely reminiscent of the traditional War Machine outfit.
+
+There was also a War Machine armour in the movie [[Ultimate Avengers 2]] worn by Tony Stark himself. It is said to have a lot firepower but handle poorly (Ultimate Avengers 2 is not canon to the Ultimate Marvel continuity).
+
+==MC2==
+In the [[MC2]] alternate future, Rhodes gained superhuman powers after exposing himself to experimental microscopic robots. While Tony Stark had intended to test them on himself, Rhodes did not feel it would be right for Stark to unnecessarily risk his life. Although now-blessed with exponentially-increasing invulnerability and an impressive array of energy-based attacks, the nanites slowly corrupt Rhodes' mind, eventually destroying his personality and leaving him as little more than a very powerful, humanoid robot. He eventually works as a personal bodyguard for Tony Stark, and although he adopts a super hero uniform (vaguely reminiscent of [[Superman]], though with a different color scheme and no chest insignia) neither he nor Stark bother to come up with a moniker for him. [[Spider-Girl]] refers to him as "Fred" for most of her series, for simple lack of anything else to call him.
+
+==Appearances in other media==
+===Television===
+[[Image:The Hands Of The Mandarin, Part One - Iron Man & War Machine.jpg|left|thumb|[[Iron Man]] and War Machine in a [[1995]] episode of the Iron Man animated series.]]
+
+*War Machine has appeared in the [[Iron Man (TV)|Iron Man]] animated series, as well as guest starred in the [[Spider-Man: The Animated Series|Spider-Man]], [[The Incredible Hulk (1996 TV series)|Hulk]], and [[X-Men (animated series)|X-Men]] [[animated series]] played by [[James L. Avery, Sr.|James Avery]] in Season 1 and [[Dorian Harewood]] in Season 2.
+
+===Video games===
+{{wikibooks|Fighting Game Moves/Capcom/War Machine}}
+*War Machine is a playable character in [[Capcom]]'s [[Marvel vs. Capcom series|''Marvel vs. Capcom'' series]]. In ''[[Marvel vs. Capcom: Clash of Super Heroes|Marvel vs. Capcom]]'', he was originally a [[palette swap]] of Iron Man as depicted in ''[[Marvel Super Heroes (arcade game)|Marvel Super Heroes]]'' with an additional Super, and also a hidden character known as "''Mega-Armor''" War Machine, which couldn't block, but was never stunned by any hits, and switched the beam and Missile weapons of Iron Man and War Machine around (For example, when kneeling, Iron Man could fire a missile from a shoulder-mounted gun, while the Mega-armored War Machine fired a short beam). In ''[[Marvel vs. Capcom 2: New Age of Heroes|Marvel vs. Capcom 2]]'', he had the switched weapons of his Mega-Armored form to further differentiate him from Iron Man. The two were also voiced by different [[seiyuu|voice actors]]; Iron Man's voice is calm and collected, while War Machine's voice is more gung-ho.
+
+*War Machine is an alternate costume for Iron Man in the games ''[[X-Men Legends II: Rise of Apocalypse]]'' and ''[[Marvel: Ultimate Alliance]]''. In the former, it is his "[[Age of Apocalypse]]" costume, which, when worn alongside three other party members who are in their AoA appearances, will grant a special bonus to all the characters. In the latter, if it is worn along with three other member's "Alternate Identity" costumes, it grants a special bonus to all characters.
+
+===Films===
+*In the animated Marvel film ''[[Ultimate Avengers 2]]'', Tony Stark's Iron Man armor is damaged, so he replaces it with the War Machine armor. Jarvis disapproves of the choice, as the War Machine armor is slow and cumbersome by Iron Man standards, but its durability and heavy firepower prove useful.
+
+*Actor [[Terrence Howard]] has been officially announced to have won the role of James Rhodes in the upcoming [[Iron Man (film)|2008 Iron Man film]][http://forum.newsarama.com/showthread.php?t=87090].
+
+==External links==
+*[[MarvelDatabase:James Rhodes|MDP: War Machine (James Rhodes)]] - Marvel Database Project
+
+[[Category:Black superheroes]]
+[[Category:Fictional African-Americans]]
+[[Category:Spin-off comic book superheroes]]
+[[Category:Marvel Comics characters who can fly]]
+[[Category:Iron Man supporting characters]]

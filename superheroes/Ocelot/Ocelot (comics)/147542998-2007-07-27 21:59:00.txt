@@ -1,0 +1,28 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Ocelot
+|real_name= unrevealed
+|species=[[Mutant (Marvel comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''X-Statix #1''
+|creators=
+|alliance_color=background:#ffc0c0
+|status= 
+|alliances=
+|previous_alliances=[[O-Force]]
+|aliases=
+|relatives=
+|powers= Superhuman agility
+|}}
+'''Ocelot''' is a [[fictional character]], a [[Mutant (Marvel comics)|mutant]] in the [[Marvel Comics]] Universe. His first appearance was in X-Statix #1.
+
+==Fictional character biography==
+Ocelot is a member of America's newest mutant superhero team, called [[O-Force]]. Like all potential recruits, Ocelot had to compete in a live [[television program]], hosted by [[Solomon O'Sullivan]], to win a place on the O-Force team. It's unknown if Ocelot lost/kept his mutant powers after the [[Decimation (comics)|M-Day]].
+
+==Powers and abilities==
+He has a very hairy appearance and he has above average agility.
+
+[[Category:Marvel Comics supporting characters]]
+[[Category:Marvel Comics mutants]]

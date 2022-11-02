@@ -1,0 +1,33 @@
+{{In-universe | subject = a [[Wikipedia:WikiProject Comics|comics]] | described_object = a '''character''' | category = [[Category:Comics articles that need to differentiate between fact and fiction]] }}
+'''Prometheus''' is a fictional character in the [[Marvel Universe]].
+
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Prometheus
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=<br> '''Incredible Hulk #368'''
+|creators=[[Peter David]]<br>
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Pantheon (Marvel Comics)|Pantheon]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=immortality, tracker
+|}} 
+
+Prometheus is a member of the super hero family the [[Pantheon (Marvel Comics)|Pantheon]]. Prometheus was born with a deformed face that looks horribly burned. Prometheus drives a very high tech vehicle created by the Pantheon engineers called the Argo. Prometheus debuted trying to kidnap Bruce Banner the [[Hulk (comics)|Hulk]]'s alter-ego. 
+
+Prometheus is an excellent tracker even over interstellar distances. Prometheus is a smoker. When [[Agamemnon (Pantheon)|Agamemnon]] turned rogue and unleashed his cyborgs the Endless Knights upon the Pantheon the Hulk entrusted Prometheus with the safety of his wife [[Betty Ross Banner]].
+
+Prometheus arguably had the least developed personality out of all the Pantheon members. 
+
+{{marvel-comics-stub}}
+
+[[Category:Marvel Comics supporting characters]]
+[[Category:Marvel Comics immortals]]
+[[Category:Pantheon]]

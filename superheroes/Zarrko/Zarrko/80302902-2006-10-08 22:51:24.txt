@@ -1,0 +1,30 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Journey_into_Mystery_101.jpg|220px|'''Zarrko'''. Art by Jack Kirby (1964).]]
+|caption='''Zarrko'''
+|comic_color=background:#ff8080
+|character_name=
+|real_name=Zarrko
+|alliances=
+|previous_alliances=[[Hyperstorm]]
+|publisher=[[Marvel Comics]]
+|debut=[[Journey Into Mystery]] #86 (November 1962)
+|creators=[[Stan Lee]]<br>[[Jack Kirby]]
+|alliance_color=background:#c0c0ff
+|status=Unknown
+|aliases=Boris, The Tomorrow Man
+|relatives=
+|powers=Super-genius, Controls an arsenal of advanced futuristic weaponry
+|}}
+
+'''Zarrko, the Tomorrow Man''' is a [[Marvel Comics]] [[supervillain]], most commonly associated with [[Thor (Marvel Comics)|Thor]].
+
+The character was created by [[Stan Lee]] and [[Jack Kirby]] in ''[[Journey into Mystery]]'' #86 (November, [[1962]]). Zarrko is an evil [[scientist]] from the future, who built a [[Time travel|time machine]] to escape from his peaceful 23rd century and visit more primitive periods, like USA in the [[1960s]], where nuclear weapons could be stolen easily.
+
+{{spoiler}}
+In one of the last story arcs of Thor vs Zarrko, Zarrko's plot was revealed to be a plan to save humanity. In his future, [[Thor (Marvel Comics)|Thor]], had separated from his human self, Jake Olson, and lost his ability to understand humanity. Because of this, Thor became more and more oppressive and imposing, and believed that ruling humanity was the only just thing to do. Zarrko knew that in his future, Thor would become a tyrant, so he had to travel back in time and stop him before the Odin Force made him invicibile and near-omnipotent.
+When the Governments of Earth launched a massive assault on Asgard, Zarrko was seen trying to escape with his [[Time travel|time machine]], only to be stopped by Thialfi.
+Zarrko's attempted [[time travel]] was instrumental for Thor to create for himself a new future in which he would never be the tyrant he would have been without his human self.
+
+{{Marvel-villain-stub}}
+
+[[Category:Thor villains]]

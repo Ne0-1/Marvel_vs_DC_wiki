@@ -1,0 +1,37 @@
+{{Superherobox| <!--Part of Wikipedia:WikiProject Comics-->
+image=[[Image:Uncanny X-Men 437 Page 5.jpg|250px]]
+|caption=Jebediah "Jeb" Guthrie; art by Salvador Larroca & Danny Miki
+|comic_color=background:#ff8080
+|character_name=Jebediah "Jeb" Guthrie
+|real_name=Jebediah "Jeb" Guthrie
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''Rom'' Annual #3 (1984)
+|creators=
+|alliance_color=background:#ffc0c0
+|alliances=
+|aliases=
+|powers=[[List of comic book superpowers#Energy blasts|Semi-Electrical Optic-Discharge]]
+|}}
+'''Jebediah "Jeb" Guthrie''' is a [[fictional character]], a [[comic book]] [[Mutant (Marvel Comics)|mutant]] from the [[Marvel Comics]] [[Marvel Universe|universe]]. The character first appeared in ''[[Rom the Spaceknight|Rom Annual]]'' #3.<ref name=debut>''Rom Annual'' #3</ref> Jeb was a mutant who had the ability to shoot out electrical discharge.
+
+==Fictional character biography==
+Jeb is one more mutant of the Guthrie family, like Sam ([[Cannonball (comics)|Cannonball]]), Paige ([[Husk (comics)|Husk]]), Jay ([[Icarus (comics)|Icarus]]), and Melody ([[Aero (comics)|Aero]]). Jeb's mutant power was to project focused electrical fire as beams from his eyes.
+
+[[Image:Uncanny X-Men 437 Page 4.jpg|thumb|left|200px|Jeb while using his powers, Art by Salvador Larroca & Danny Miki]]
+
+Jeb's powers manifested while he deliberately taunted a boy from a rival family (Abe Cabot; the whole story arc ("She Lies With Angels") was a parody of ''[[Romeo and Juliet]]'').<ref name=shelies>''Uncanny X-Men'' #437-441</ref> Jeb's father Thomas died when Jeb was very young. He develops what is commonly called '[[black lung]]' due to working in the local coal mines. Jeb has not joined any of the X-teams but has already had to deal with fallout from their problems. His house has been severely damaged by an attack from the [[Phalanx (comics)|Phalanx]] when they came to take his sister Paige. She survives this attack.{{issue|date=July 2013}} Jay, not in his right mind, is killed by the anti-mutant forces of the insane [[William Stryker]].{{issue|date=July 2013}} The Guthries have to deal with anti-mutant prejudice in their hometown, because of the large amount of mutants in their family.<ref name=shelies/>
+
+After the events of [[Decimation (comics)|M-Day]], Jeb has lost his powers.{{issue|date=July 2013}} In the wake of M-day [[Beast (comics)|Hank McCoy]] and [[Dark Beast]] visited the Guthrie's mother in hopes of getting a genetic sample because of the amount of mutants she produced. While Hank tried to convince Lucinda for her cooperation, [[Dark Beast]] persuaded Jeb's brother Lewis into trying a vial of an untested formula that could have returned him his powers. Instead the shot renders him sick.<ref>''New X-Men'' #42</ref> Hank McCoy is able to save Lewis's life.{{issue|date=August 2014}}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Guthrie, Jebediah}}
+[[Category:Comics characters introduced in 1984]]
+[[Category:Fictional characters from Kentucky]]
+[[Category:Marvel Comics characters]]
+[[Category:Marvel Comics mutants]]
+
+
+{{Marvel-char-stub}}

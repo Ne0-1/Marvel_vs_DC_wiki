@@ -1,0 +1,63 @@
+{{update}}
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name = The Emerald Empress
+| publisher = [[DC Comics]]
+| debut = '''(Sarya)'''<br> ''[[Adventure Comics]]'' #352 (January 1967)<br> '''(Kesh)'''<br> ''Legionnaires'' #2
+| creators = '''(Sarya)'''<br> [[Jim Shooter]]<br> [[Curt Swan]]
+| alter_ego = - Sarya<br />- Cera Kesh<br />- Unknown, called simply 'Empress'
+| full_name =
+| species = <!-- optional -->
+| homeworld = '''(Sarya)'''<br> Venegar
+| alliances = [[Fatal Five]]
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports= 
+| powers = '''(Sarya, Kesh)'''<br> Controlled the Emerald Eye of Ekron<br />'''(Unknown)'''<br> None, trained killer
+}}
+The '''Emerald Empress''' is a [[fictional character]], a [[DC Comics]] [[supervillain]] that is an enemy of the [[Legion of Super-Heroes]] and a member of the [[Fatal Five]]. She was created by [[Jim Shooter]] and [[Curt Swan]], and first appeared in ''[[Adventure Comics]]'' #352 (January 1967). 
+
+==Fictional character biography==
+=== Sarya ===
+'''Sarya''' of the planet Venegar (referred to simply as 'the Empress') was recruited by [[Superboy]] and the Legion to combat the menace of the [[Sun-Eater]]. Once the Sun-Eater was defeated, she joined the Fatal Five with [[Tharok]], [[Validus]], [[Mano (comics)|Mano]] and the [[Persuader (comics)|Persuader]].
+
+The Empress had no innate [[superhero|super-powers]]; rather, she employed a powerful mystical item called the '''Emerald Eye of Ekron''', an approximately 2' diameter sphere that obeyed her mental commands. The Eye could fly and emit blasts of energy, and allowed the Empress to fly as well as survive in space. The Eye's residual energy also gave her, on at least one occasion, super-strength. It caused her to grow to gigantic stature during one battle. The Eye could also reform itself if shattered.
+
+The Eye is an item of immense power; it defeated [[Superboy]] directly more than once, though it seemed to have more trouble with [[Mon-El]], perhaps because he was immune to Green [[Kryptonite]] and its blasts may have contained elements of it. Despite this, for unknown reasons, the Eye does not like green Kryptonite, and being exposed to a chunk of it has made the eye flee on more than one occasion (leaving the Empress behind temporarily).
+
+The Emerald Empress died when Legionnaire [[Sensor Girl]] used her powers of illusion to mask Sarya's presence from the Eye of Ekron. As the Empress' body quickly withered and decomposed, she expressed relief to be free from the Eye's control, indicating both that their [[symbiote|symbiotic]] relationship was unwilling and that the Empress was far older than she appeared<ref>''Legion of Super-Heroes'' (3rd series) #58</ref>.
+
+=== Cera Kesh ===
+
+Cera Kesh first appeared as the Emerald Empress in ''Legionnaires'' #2. Her affections spurned by Legion member [[Sun Boy|Inferno]] (who mocked her weight when she auditioned for the Legion), Kesh fell under the Emerald Eye's influence and turned to a life of crime with the other members of the Fatal Five. At the same time, [[Leland McCauley]] found a ''second'' Emerald Eye with which he hoped to turn his girlfriend into the new Emerald Empress. Instead, Cera killed her and gained the power of both Eyes.
+
+=== Empress ===
+
+After the [[Zero Hour (comics)|Zero Hour]] event and the subsequent [[Reboot (continuity)|reboot]] of the Legion's [[continuity (fiction)|continuity]], a character simply called the 'Empress' appeared, unconnected to the Eye of Ekron (which appeared separately later). Although she had no powers, she was as dangerous as the rest of the Fatal Five, being a sadistic murderess who had taught herself how to kill any known lifeform.
+
+The Eye was discovered by Legionnaire [[Kinetix]], but later fell under the control of (or controlled) [[Shrinking Violet]]. With the Legion's help, Violet managed to break the Eye's hold on her, but not before she had sent half the team into the past. 
+
+Eventually, the Eye came into the hands of the Empress. The Empress seemed to have broken the Eye's will, leaving her unequivocally in control.
+
+[[Image:Starfire and emerald eye.gif|left|thumb|Starfire wielding the Emerald Eye in 52]]
+The Emerald Eye also appeared in ''[[L.E.G.I.O.N.]]'', where it was controlled by, or controlled, the L.E.G.I.O.N.naires [[Garryn Bek]] and [[Marij'n Bek]]. Under its influence, the two would kill innocent people.
+
+=== 52 ===
+In the present, the Emerald Eye has appeared in the pages of [[52 (comic book)|''52'']], in the possession of [[Lobo (DC Comics)|Lobo]], and in [[Brave and the Bold|''The Brave and The Bold'']] back in the hands of the Emerald Empress.
+
+Lobo, unable or unwilling to use its powers, kept the item in a small chest under his supervision. When Starfire used the Eye to save the population of sector 3500 from a swarm of strange creatures, Lobo revealed that he knew something more on the origins of the Eye. An ''Emerald Head of Ekron'' also existed and was searching for its lost [[eyeball]]. Ekron is apparently a member of the [[Green Lantern Corps]], but has been driven insane by the destruction of the space sector under his protection by [[Lady Styx]]. The Emerald Eye itself is later revealed as a precursor of the technology that later led to the [[Power Ring (weapon)|power ring]] worn by all [[Green Lantern]]s, with less functionality but nevertheless a formidable weapon.
+
+==Other media==
+* The Emerald Empress has appeared in an episode of ''[[Justice League Unlimited]]'' with the other Fatal Five against the Legion. She was voiced by [[Joanne Whalley]]. <ref>''Justice League Unlimited'' episode "Far From Home"</ref>
+
+* She is the leader of the Fatal Five in the ''[[Legion of Super Heroes (TV series)|Legion of Super Heroes]]'' animated series, voiced by [[Jennifer Hale]] in season 1 and [[Tara Strong]] from then on. Some clues to this version's relationship with the Emerald Eye can be observed in the first season finale "Sundown": She had been separated from it for some time during her imprisonment, and she hugged it when it was returned to her. She suffered no physical effects when Shrinking Violet damaged its circuitry from within, once the Fatal Five betrayed the Legion, or when [[Matter-Eater Lad]] took a bite out of it.
+
+== References ==
+{{reflist}}
+==External links==
+*[http://www.mykey3000.com/cosmicteams/obscure/e.htm Emerald Eye] at Cosmic Teams Obscure Characters Index
+
+[[Category:Extraterrestrial supervillains]]
+[[Category:DC Comics supervillains]]
+
+[[tl:Emerald Empress]]

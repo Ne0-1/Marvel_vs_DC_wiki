@@ -1,0 +1,25 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Headlok
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=West Coast Avengers #10 (Jul, 1986)
+|creators=[[Steve Englehart]] and [[Al Milgrom]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=Mind Control
+|}} 
+
+'''Headlok''' is a fictional character in the [[Marvel Universe]].  Very little is known about this mysterious menace.  He found the [[Griffin (comics)|Griffin]] roaming the [[Adirondack Mountains]], and used his mental powers to enslave the Griffin.  Headlok tricked the [[Avengers (comics)|West Coast Avengers]] into fighting the Griffin, using the distraction to try to take over their minds.  The Avenger [[Tigra]] was able to calm the Griffin's rage, and the Avengers were able to defeat Headlok.
+
+
+{{Marvel-villain-stub}}
+
+[[Category:Avengers villains]]

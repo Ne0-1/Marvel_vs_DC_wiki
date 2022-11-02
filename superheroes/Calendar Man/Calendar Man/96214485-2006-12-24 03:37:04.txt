@@ -1,0 +1,36 @@
+{{Superherobox|
+image=[[Image:Calendarman.jpg|230px]]
+|caption=Calendar Man<br>[[Tim Sale]], artist.
+|comic_color=background:#8080ff
+|character_name=Calendar Man
+|real_name=Julian Day
+|publisher=[[DC Comics]]
+|debut=''[[Detective Comics]]'' #259 (September 1958)
+|creators=[[Bill Finger]]
+|alliance_color=background:#c0c0ff
+|alliances=The Misfits
+|aliases=
+|powers=
+|}}
+
+'''Calendar Man''' (real name: '''Julian Gregory Day''') is a [[DC Comics]] supervillain. His main enemy is [[Batman]]. He first appeared in ''[[Detective Comics]] #259'' (September 1958). He was created by [[Bill Finger]].
+
+==History==
+Calendar Man is fascinated by dates and calendars – even his real name is a pun on the [[Julian day|Julian]] and [[Gregorian calendar]]s. His crimes always have a relationship to the date that they are committed. The theme may be related to what day of the week it is or to a holiday or to a special anniversary on that date; he will plan his crime around that day. He often wears different costumes which correspond to the significance of the date, though he does have a main costume which has various numbers (meant to represent days on a calendar) sprouting from the shoulders.
+
+Because his crimes are generally petty and often ridiculous in nature, he is notorious amongst both heroes and villains alike for being something of a joke. No one really takes him seriously, including the fans themselves. [[IGN]] went so far as to call him the worst Batman villain of all time, noting that his "name, appearance and modus operandi... command no respect." [http://comics.ign.com/articles/622/622304p1.html]
+Consequently, his post-[[Crisis on Infinite Earths|Crisis]] appearances have been few and far between. He was once recruited by [[Killer Moth]] to form the villain team known as "The Misfits".
+
+His best-known latter day appearance is in the mini-series ''[[Batman: The Long Halloween]]'', where he was portrayed as a [[Hannibal Lecter]]-like figure, offering insight in Batman's search for [[Holiday (comics)|Holiday]], a serial killer who used the holidays as his [[M.O.]] Like Lecter in ''[[The Silence of the Lambs (novel)|The Silence of the Lambs]]'', Calendar Man knew who the killer was and kept this information to himself, choosing instead to taunt the heroes with cryptic clues. He returned in that story's sequel, ''[[Batman: Dark Victory]]''. In both stories, he was bitter that the new murderous rogues had taken the attention from him; Day feared that he was being forgotten.
+
+Calendar Man is also known for teaming up with [[Catman (comics)|Catman]] and [[Killer Moth]] as part of ''The Misfits'', a group of third-rate villains trying to prove themselves, in ''[[Batman: Shadow of the Bat]]'' #7-9 (1992-1993). Also, he was among the [[Arkham Asylum]] inmates freed by [[Bane (comics)|Bane]] in "[[Knightfall]]", but he was easily recaptured by [[Power Girl]] shortly after his escape.
+
+In recent years, comic book writers have tried to make Calendar Man a greater threat to Batman as told in a story in the third issue of the ''80 Page Giant Batman Special Edition'' (July 2000) entitled "All the Deadly Days". In this story, Day gained a new high-tech costume, and moved up to more grandiose crimes.
+
+==References in other media==
+
+* A female variation of the character named [[Calendar Girl (Batman: The Animated Series)|Calendar Girl]] appears in ''[[The New Batman Adventures]]''. She wore a mask and planned her crimes around the [[Season|Four Seasons]], with a different costume corresponding to each season.
+
+* Recent episodes of the Cartoon Network animated program ''[[The Venture Bros.]]'' feature an incarcerated super-villain named "Mr. Monday" who appears to be a satire of Calendar Man. He does not seem to have any special powers, but is preoccupied with the eponymous day of the week, asking if all crimes can be postponed until Monday.
+
+[[Category:Batman villains]]

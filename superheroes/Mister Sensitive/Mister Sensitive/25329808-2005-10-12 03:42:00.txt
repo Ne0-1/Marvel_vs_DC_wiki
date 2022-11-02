@@ -1,0 +1,28 @@
+{{Superherobox| <!--Part of Wikipedia:WikiProject Comics-->
+image=[[Image:xforce117.jpg|225px]]
+|caption=Cover to ''X-Force'' #117<br>Mike Allred, artist
+|comic_color=background:#ff8080
+|character_name=The Orphan
+|real_name=Guy Smith
+|publisher=[[Marvel Comics]]
+|debut=''X-Force'' #117
+|creators=[[Peter Milligan]]<br>[[Mike Allred]]
+|alliance_color=background:#ffc0c0
+|status=unknown
+|alliances=
+|previous_alliances=[[X-Force]], [[X-Statix]]
+|aliases=Mister Sensitive
+|relatives=Parents
+|powers=heightened senses, superhuman speed, levitation
+|}}
+
+'''The Orphan''' was a comicbook character in the [[X-Statix]] series. He was  a suicidal mutant with purple skin and two [[antenna]]e protruding from his forehead, who possessed heightened senses, superhuman speed, and the ability to [[levitation|levitate]].  If exposed to too much external stimuli, he senses will overload and will have a siezure.
+
+He served as the leader of the team for some time before being replaced by the [[Anarchist (comics)|Anarchist]].
+
+He was also romantically involved with [[X-Force]] member [[U-Go Girl]] before she was killed in their last mission as X-Force.  He had a bout with his sanity after the incident, taking on the super-powerful [[Arnie Lunt]] alone, and then letting him on to the X-Statix team.  Lunt was then assinated by [[Lacuna]] at Guy's request.  Shortly after, he quit the team, and was suspected of being a criminal when an extra dimentional being stole many of [[Professor X]]'s [[armor]] suits and called itself "Bad Guy".  He returned to the time after Bad Guy's defeat and became fully romantically involved with [[Venus Dee Milo]]. He was killed in Issue 26 of [[X-Statix]] along with the rest of the team in what was going to be their retirement mission.
+
+{{Marvel-Comics-stub}}
+
+[[Category:X-Statix members]]
+[[Category:Marvel Comics mutants]]

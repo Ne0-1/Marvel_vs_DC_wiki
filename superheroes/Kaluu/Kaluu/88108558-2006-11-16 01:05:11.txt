@@ -1,0 +1,25 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Kaluu
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Strange Tales]]'' #147 (Aug 1966)
+|creators=[[Stan Lee]], [[Jack Kirby]] and [[Don Heck]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''Kaluu''' is a fictional character in the [[Marvel Universe]].  He is a powerful mystic, born over five hundred years ago in the land of [[Kamar-Taj]]. in the [[Himalayan Mountains]] in the land now known as [[Tibet]].  He and the [[Ancient One]] became fellow students of the mystic arts.
+
+Eventually, the two mystics became enemies. The Ancient One took [[Doctor Strange]] as his disciple and successor in the 20th century, and he and Kaluu became enemies as well.  
+
+
+{{Marvel-comics-stub}}

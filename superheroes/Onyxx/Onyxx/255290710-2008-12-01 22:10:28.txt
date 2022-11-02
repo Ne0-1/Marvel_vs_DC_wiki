@@ -1,0 +1,48 @@
+{{inuniverse}}
+{{Plot|date=October 2007}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:Onyxx.jpg|250px]]
+|caption=
+|character_name=Onyxx
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Men]]'' vol. 2 #171
+|creators=[[Peter Milligan]] (writer)<br>[[Salvador Larroca]] (artist)
+|alter_ego = 
+|full_name = Sidney Green
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances=[[X-Mansion|Xavier Institute]]<br/>[[The 198]]
+|partners = <!-- optional -->
+|aliases = <!-- optional: actual identities the character uses, not nicknames -->
+|supports =<!--optional-->
+|powers=Superhuman strength and durability
+|}}
+
+'''Onyxx''' ('''Sidney Green''') is a [[fictional]] [[Mutant (Marvel comics)|mutant]] published by [[Marvel Comics]]. He first appeared in ''[[X-Men]]'' vol. 2 #171, and was created by [[Peter Milligan]] and [[Salvador Larroca]].
+
+==Fictional character biography==
+Onyxx was passed from various foster homes and orphanages, unable to find acceptance because of his crude behavior<ref name="files">198 Files</ref> and chronic [[bedwetting]].  However, the latter was cured when young Sidney mutated into the huge rock-like form he now possesses, much to his delight.  
+
+Onyxx became a student at the Xavier Institute, assigned to [[Gambit (comics)|Gambit's]] training squad. Onyxx had a romantic interest in a new student at the Institute by the name of Foxx. It was later revealed that Foxx was actually a long time adversary of the [[X-Men]], [[Mystique (comics)|Mystique]]. She infiltrated the school to destabilize the relationship between Gambit and her foster daughter [[Rogue (comics)|Rogue]]. After having revealed herself to the X-Men, Onyxx attacked Mystique for not returning his affection. Mystique escaped and, with the help of an accomplice, injured Onyxx.
+
+Sidney retained his powers post [[Decimation (comics)|M-Day]] and continued residing at the school. Onyxx was critically injured by [[William Stryker|Reverend Stryker]] during his attack on the institute; Onyxx barely survived. Onyxx was later captured alongside his fellow students in [[Otherplace|Limbo]].  
+
+He currently resides at the Xavier Institute in its new location, [[San Francisco]].
+
+==Powers and abilities==
+Onyxx has a craggy [[granite]] body which gives him superhuman strength and greater resistance to physical injury. He has also been seen to have a second pair of eyes, but it is unknown if these serve any special purpose.
+
+==Bibliography==   
+*''X-Men'' #171-174 by Peter Milligan   
+*''X-Men: The 198 Files'' by Eric J. Moreels, Marc-Oliver Frisch, and Brian E. Wilkinson
+*''New X-Men''
+
+==References==
+{{Reflist}}
+
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]]
+
+[[pt:Onyxx]]

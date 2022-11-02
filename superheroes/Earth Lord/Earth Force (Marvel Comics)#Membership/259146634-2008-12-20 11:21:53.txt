@@ -1,0 +1,44 @@
+{{Infobox comics organization
+<!--Wikipedia:WikiProject Comics-->
+|name=Earth Force
+|image=
+|imagesize=
+|caption=
+|publisher=[[Marvel Comics]] 
+|debut=''[[Thor (Marvel Comics)|Thor]]'' #395 (Sept 1988)
+|creators=[[Tom DeFalco]] and [[Ron Frenz]]
+|status=
+|base=
+|members=Earth Lord<br>Skyhawk<br>Wind Warrior
+|cat=teams
+|subcat=Marvel Comics
+|hero=y
+|villain=
+|sortkey={{PAGENAME}}
+}} 
+'''Earth Force''' is a fictional [[superhuman]] team within the [[Marvel Comics]] [[Marvel Universe|universe]] which first appeared in ''[[Thor (Marvel Comics)|Thor]]'' (1st series) #395. The team consists of three humans granted elemental powers by [[Seth (Marvel Comics)|Seth]]. 
+
+==Fictional team history==
+The death god [[Seth (Marvel Comics)|Seth]] took three hospitalized people from [[New York City]] to his own "dimension of death", Kyle Brock; a [[policeman]] who had been hospitalized when he was shot by [[criminal]]s, Winston Manchester; a businessman working who had been hospitalized from overwork, and Pamela Shaw; a businesswoman who had been hospitalized when she had attempted suicide after her baby had died and her husband had left her. While there, Seth healed them, and gave them elemental superhuman powers, calling them '''Earth Lord''', '''Skyhawk''' and '''Wind Warrior'''. 
+
+Employed by Seth these three humans, now known collectively as '''Earth Force''', worked as pawns for vengeance until [[Thor (Marvel Comics)|Thor]] exposes Seth's evil nature to them. Their first mission, killing the Asgardian known as [[Hogun]] fails.
+
+After the superhuman [[Civil War (comics)|Civil War]], Skyhawk was identified as a registered superhero, working as part of the [[Fifty State Initiative]] on the unnamed stationed team of [[Washington]] state. It's unknown if Earth Lord and Wind Warrior are also on this team. This Skyhawk is revealed to be a Skrull in disguise, however.<ref>''Avengers: The Initiative'' #19</ref>
+
+==Membership==
+*[[Earth Lord]] - Kyle Brock
+*[[Skyhawk]] - Winston Manchester
+*[[Wind Warrior]] - Pamela Shaw
+
+==External links==
+* http://www.marvel.com/universe/Earth_Force
+
+{{Initiative}}
+
+
+[[Category:Fictional characters from New York City]]
+[[Category:Marvel Comics superhero teams]]
+[[Category:Mythology in comics]]
+
+
+{{Marvel-Comics-stub}}

@@ -1,0 +1,46 @@
+{{Infobox superhero <!--Wikipedia:WikiProject Comics-->
+|character_name =Gorilla Girl
+|image =[[Image:Gorila girl.jpg|250px]]
+| caption =Gorilla Girl.<br>Art by [[Steve Uy.]].
+|publisher = [[Marvel Comics]]
+|debut     = ''[[Marvel Team-Up]]'' #91<br>(March 1980)
+|creators  = [[Steven Grant]]<br>[[Pat Broderick]]
+|alter_ego = Fahnbullah Eddy
+|full_name =
+|species   = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances =[[Fifty State Initiative|Initiative]]
+|partners  = <!-- optional -->
+|supports  = <!-- optional -->
+|aliases   =  Gorilla Woman
+|powers    = [[Shapeshift]]s into a super-strong, highly agile [[gorilla]]
+}}
+
+'''Fahnbullah Eddy''', also known as '''Gorilla Girl''', is a [[fictional character|fictional]] [[comic book]] character within [[Marvel Comics]]' [[shared universe]] the [[Marvel Universe]]. She first appeared in ''[[Marvel Team-Up]]'' #91 (March 1980), and was created by [[Steven Grant]] and [[Pat Broderick]].
+
+==Fictional character biography==
+Fahnbullah Eddy worked at a carnival as a member of the '''Freaks''', a group of [[circus freaks]] that included [[Muck Monster]] and [[Six (comics)|Six]]. When she and the Freaks fell under the control of the sorcerer [[Moondark]], they were forced to battle [[Spider-Man]]. Gorilla Girl and the Freaks were later seen in a fight against the criminals [[Hammer and Anvil (comics)|Hammer and Anvil]].<ref>''Marvel Tales'' #256</ref>
+
+After the events of the [[Civil War (comics)|Civil War]], Gorilla Girl was captured by the [[Thunderbolts (comics)|Thunderbolts]]. During her capture, she threw [[Robbie Baldwin|Penance]] down three flights of stairs, after which Penance beat her severely.<ref>''Thunderbolts: Desperate Measures''</ref>. She later [[Superhuman Registration Act|registered]] with the [[Avengers: The Initiative|Initiative]] and joined [[Camp Hammond]] along with [[Annex (comics)|Annex]], [[Prodigy (comics)#Prodigy (Ritchie Gilmore)|Prodigy]] and others.<ref>''Avengers: The Initiative'' #13</ref>
+
+==Powers and abilities==
+Fahnbullah Eddy is able to shapeshift into a super-strong, highly agile [[gorilla]].
+
+==References==
+{{reflist}}
+
+==External links==
+{{refbegin}}
+*{{comicbookdb|type=character|id=17865|title=Gorilla Girl}}
+{{refend}}
+*[http://www.marvunapp.com/Appendix/freaksmtu.htm#gorilla Marvel Universe Appendix: Gorilla Girl]
+*[http://en.marveldatabase.com/Fahnbullah_Eddy_(Earth-616) Marvel Database: Fahnbullah Eddy]
+
+
+{{Marvel-Comics-stub}}
+
+[[Category:Fictional African-Americans]]
+[[Category:Fictional shapeshifters]]
+[[Category:Marvel Comics superheroes]]
+
+[[tl:Gorilla Girl]]

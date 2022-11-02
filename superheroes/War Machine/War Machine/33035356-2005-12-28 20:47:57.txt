@@ -1,0 +1,60 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=[[image:warm11.jpg|250px]]
+|caption=Cover to '''War Machine #11'''.
+|comic_color=background:#ff8080
+|character_name=War Machine
+|real_name=James Rupert Rhodes
+|publisher=[[Marvel Comics]]
+|debut=''Iron Man'' #118 (January, [[1979]])
+|creators=[[David Michelinie]]<br>[[Bob Layton]] 
+|alliance_color=background:#ffc0c0
+|status=Inactive
+|alliances= Iron Man
+|previous_alliances=[[West Coast Avengers]]<br>[[Force Works]]<br>[[Defenders (comics)|Secret Defenders]]
+|aliases=Iron Man
+|relatives=Jeanett Rhodes (sister, deceased), Joshua Rhodes (uncle)
+|powers=None. Abilities derive from the [[powered armor]] he wears.
+|}}
+
+'''War Machine''' is a [[superhero]] in the [[Marvel Universe]].  War Machine's abilities came from an advanced suit of armor, designed using technology from Stark Industries, and later from an [[extraterrestrial life|alien]]-built suit.
+
+==Character History==
+===Origins===
+'''James Rupert Rhodes''' first met billionaire industrialist [[Iron Man|Tony Stark]] while flying combat missions in [[Vietnam]]. Rhodes' helicopter had been shot down by [[Viet Cong]] rocket fire, and while trying to get the aircraft airborne again, he encountered Stark, who had just escaped from the prison camp of the Vietnamese warlord Wong Chu in a bulky prototype suit of [[powered armor]]. At that moment the Viet Cong attacked, and Stark, in his suit, helped to drive them off. Together, Rhodes and Stark made their way to a nearby enemy base where they stole another helicopter, flying it back to the American lines.  
+
+[[Image:Iron170.jpg|123px|left|Jim Rhodes becomes Iron Man. Cover to '''Iron Man #170'''. Art by Luke McDonnell.|thumb]]
+After the end of the [[Vietnam War]], Stark, who had secretly become the superhero named [[Iron Man]], offered Rhodes a job as his personal pilot, and Rhodes soon became one of Stark's closest associates and confidants as well as Stark Industries' chief aviation officer.  As a result, he had numerous adventures with his employer where his daring and skills were valuable assets.
+
+When Stark lost his company to Obadiah Stane and relapsed into [[alcoholism]], Rhodes took over the armor and role of Iron Man in Stark's stead. However, he began to experience headaches while using the armor, and over time, his behavior began to grow more erratic and aggressive, prone to violent solutions to given problems. Rhodes's manic mental state was later revealed to be the result of his using armors whose cerebral interfaces were calibrated for Stark's brain, leaving any other long-term user disoriented and confused. When Stark was on the road to recovery, he helped Rhodes maintain the armor, but Rhodes became increasingly [[paranoia|paranoid]], believing that Stark meant to retake the armor.
+[[image:iron192.jpg|115px|left|Jim Rhodes (right) battles Tony Stark (left). Cover to '''Iron Man #192'''. Art by Luke McDonnell.|thumb]]
+
+===Birth of the War Machine===
+
+Rhodes went on a rampage, and Stark was forced to don a crude, prototype suit of armor he was designing as the next generation Iron Man armor to stop his friend. Rhodes gave up the Iron Man identity, and Stark went on to complete the next generation armor, defeat Stane and regain his company. Stark also subsequently designed a heavier-armed version of the Iron Man suit, the "Variable Threat Reponse Battle Suit" to battle the Masters of Silence, and it became known as the War Machine armor. Rhodes used the War Machine armor as Iron Man when Stark faked his own death while recovering from a life-threatening illness. When Stark revealed his ruse, it damaged the friendship between the two men, and they went their separate ways. 
+
+[[Image:War Machine (Eidolon Warwear).png|War Machine, in the Eidolon Warwear. Art by Fred Haynes|200px|right|thumb]]
+
+Rhodes, however, continued to use the War Machine armor in a solo superhero career, and it eventually was replaced by a symbiotic alien suit, known as the Eidolon Warwear. When Stark died during a battle with [[Kang the Conqueror]], Rhodes rejoined Stark Enterprises (which was bought by Fujikawa Industries) to protect his old friend's legacy. To prevent Stark's armor technology from being misused, he used the abilities of his alien armor to erase all trace of Stark's designs from the Fujikawa systems, but the armor was destroyed in the process. Rhodes gave up his superhero career and started his own salvage company.
+
+[[Image:The Crew 1.jpg|Cover to '''The Crew #1'''. Art by J.H. Williams.|125px|left|thumb]]
+
+Later, perhaps unsurprisingly, Stark once more returned from the dead, forming a new company, Stark Solutions and taking up the Iron Man identity once more. The two men were reconciled and Rhodes and Stark teamed up again to stop a new villain (also calling himself War Machine) who was wearing what looked like a version of the old War Machine armor, including a heavily-gunned exo-suit, but was in fact not based on Stark technology. 
+
+Most recently, Rhodes has appeared as one of the main characters in the comic series ''The Crew.'' In the series first issue, his sister, Jeanett, died.
+
+==Powers and abilities==
+Among the armor's abilities, many of which were shared by that of the various Iron Man armors, were flight, the ability to project [[solar energy]] and "repulsor beams", vast superhuman strength and endurance. He also has many conventional weapons mounted on his armor, such as a chain gun, rocket pods, and his ultimate weapon, 8 low-radiation mini-nukes.
+
+==Appearances in other Media==
+[[Image:The Hands Of The Mandarin, Part One - Iron Man & War Machine.jpg|thumb|right|[[Iron Man]] and War Machine in a [[1995]] episode of the Iron Man animated series.]]
+
+War Machine has appeared in the [[Iron Man (TV)|Iron Man]] animated series, as well as guest starred in the [[Spider-Man: The Animated Series|Spider-Man]], [[Hulk (comics)|Hulk]], and [[X-Men (animated series)|X-Men]] [[animated series]].
+{{wikibooks|Fighting Game Moves/Capcom/War Machine}}
+In ''Marvel vs. Capcom'', he was originally mostly a [[palette swap]] of Iron Man from ''Marvel Super Heroes'' and ''Marvel Super Heroes vs. Street Fighter'' with an additional Super, and also as a hidden character known as "''Mega-Armor''" War Machine, which couldn't block, but was never stunned by any hits, and switched the beam and Missile weapons of Iron Man and War Machine around (For example, when kneeling, Iron Man could fire a missile from a shoulder-mounted gun, while War Machine fired a short beam).  In ''[[Marvel vs. Capcom 2]]'',  He had the switched beams and missiles of his Mega-Armored form, and was one of the few characters, if not the only one, in the game capable of inflicting (horrendous) block damage on [[Iceman (comics)|Iceman]] with his missiles.  
+
+In the [[Ultimates]], Black Widow has received a suit of armor from Tony as a wedding present. It is entirely black, and resembles War Machine. As well as this, a group of the Ultimate Reserves uses modified Iron Man suits, with additional weaponry. They are called the 'Rocketmen'.
+
+[[Category:Black superheroes]]
+[[Category:Defenders members]]
+[[Category:West Coast Avengers members]]
+[[Category:Spin-off Heroes]]

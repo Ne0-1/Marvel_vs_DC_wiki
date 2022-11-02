@@ -1,0 +1,36 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = 
+| caption =  
+| character_name =Tyrak
+| publisher =[[Marvel Comics]]
+| debut=''[[Avengers (comics)|Avengers]]'' #154<br> (December 1976)
+| creators = [[Gerry Conway]] (writer)<br> [[George Pérez]] (artist)
+| real_name = Tyrak
+| alliances = Servant of [[Attuma]]
+| species = ''[[Homo mermanus]]''
+| homeworld = [[Atlantis (Marvel Comics)|Atlantis]]
+| alliances = <!--optional-->
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports= <!--optional-->
+| powers =
+|}}
+
+'''Tyrak''' is a fictional character in the [[Marvel Universe]].
+
+==Fictional character biography==
+He is an [[Homo mermanus|Atlantean]] warrior, serving in the army of the conqueror [[Attuma]]. He has served in a number of missions for Attuma, and has fought the [[Avengers (comics)|Avengers]] on more than one occasion.{{Issue|date=February 2010}}
+
+==Powers and abilities==
+He rivals Attuma's strength and is able to enhance it further by increasing his height to a maximum of {{convert|40|ft|m}}.
+
+==External links==
+{{Marvunapp|http://www.marvunapp.com/Appendix2/tyrakatlan.htm|Tyrak}}
+
+
+[[Category:Characters created by George Pérez]]
+[[Category:Characters created by Gerry Conway]]
+[[Category:Fictional mermen and mermaids]]
+[[Category:Fictional secret agents and spies]]
+[[Category:Marvel Comics Atlanteans]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics supervillains]]

@@ -1,0 +1,40 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8180
+|character_name=Lady Lotus
+|real_name=
+|publisher=[[Marvel Comics]]
+|debut=''[[Invaders (comics)|Invaders]]'' <!-- only denote volume number after first --> #37 (February 1979).
+|creators=[[Don Glut]], [[Rick Hoberg]], [[Chic Stone]] and [[Alan Kupperberg]]
+|alliance_color=background:#c0c0ff
+|alliances=[[Super-Axis]]
+|aliases=
+|powers=
+|}}
+
+'''Lady Lotus''' is a [[fictional character]] from [[Marvel Comics]]. She first appeared in ''[[Invaders (comics)|Invaders]]'' <!-- only denote volume number after first --> #37 (February 1979).
+
+==Fictional character biography==
+Lady Lotus was a [[Imperial Japan|Japanese]] agent during [[World War II]] who possessed strong [[psychic]] powers, including [[telepathy]], [[clairvoyance]], illusion, [[precognition]], and a form of hypnotic [[mind control]]. She posed as a shopkeeper in [[Chinatown]], [[New York]], where she used her powers to gather up several anti-American agents (including [[U-Man]]) to form a group called the [[Super-Axis]]. She also mind-controlled the [[Human Torch (Golden Age)|Human Torch]] into briefly joining forces with them, but he soon regained his senses and turned against her, disrupting her concentration and thus freeing her mind-slaves.
+
+It was implied that the villain [[U-Man]] raped her to get revenge for his enslavement, and that their daughter is [[Nia Noble]], but these things have not been confirmed.
+
+Lady Lotus makes her return once again to antagonize the new [[Captain America]], who as part of the [[Young Allies (Marvel Comics)|Young Allies]] (as [[Bucky]]) was brainwashed for a time by the villainess during World War II. Lady Lotus it seems is now after some form of cosmic power and it's up to Cap and the surviving members of the Young Allies to stop her.
+
+==Powers and abilities==
+Lady Lotus was a telepath, clairvoyant, illusionist, and precog. She possessed the ability to hypnotize others from miles away, forcing them to obey her will.
+
+==External links==
+* [http://www.marvunapp.com/Appendix3/ladylotusinvaders.htm Lady Lotus at Marvel Appendix]
+
+{{Marvel-villain-stub}}
+{{Invaders}}
+
+{{DEFAULTSORT:Lotus, Lady}}
+[[Category:Fictional characters with precognition]]
+[[Category:Fictional secret agents and spies]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics telepaths]]
+[[Category:Comics characters introduced in 1979]]
+[[Category:Female supervillains]]

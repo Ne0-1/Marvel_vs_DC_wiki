@@ -1,0 +1,44 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=
+| converted=
+|caption=
+|comic_color=
+|character_name=Troll
+|real_name=Gunna Sijurvald
+|publisher=[[Marvel Comics]]
+|debut=''[[Thunderbolts (comics)|Thunderbolts]]'' #145 (August 2010)
+|creators=[[Jeff Parker (comics)|Jeff Parker]]<br>[[Kevin Walker (comics)|Kevin Walker]]
+|alliance_color=background:#c0c0ff
+|alliances=[[Thunderbolts (comics)|Thunderbolts]]
+|aliases=
+|powers=Super Strength
+|}}
+
+'''Troll''' ('''Gunna Sijurvald''') is a [[fictional character]] that appears in [[comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+The character first appeared in ''[[Thunderbolts (comics)|Thunderbolts]]'' #145 (August 2010) and was created by writer [[Jeff Parker (comics)|Jeff Parker]] and artist [[Kevin Walker (comics)|Kevin Walker]]
+
+She has appeared as a regular character in ''Thunderbolts'' since issue #157, and has remained with the team since the title transitioned into ''Dark Avengers'' beginning with issue #175.
+
+==Fictional character biography==
+Troll is the offspring of an [[Asgard (comics)|Asgardian]] mother and [[Troll]] father.<ref name=tbo146>''Thunderbolts'' #146</ref> She was originally held prisoner in [[Asgard (comics)|Asgard]], until the [[Siege (comics)|Siege of Asgard]] destroyed her jail cell.<ref name=tbo146 /> Apprehended by the Thunderbolts, Troll was placed in a cell on [[The Raft (comics)|The Raft]] despite protests by [[Valkyrie (Marvel Comics)|Valkyrie]] that she should be returned to Asgard.<ref name=tbo146 /> [[Thor (Marvel Comics)|Thor]] also visited Troll in her jail cell to offer her a place at Asgard, but she rejected his offer telling him that she was not Asgardian.<ref>''Thunderbolts'' #150</ref>
+
+Recently, Troll was recruited to join their Beta team of the Thunderbolts nicknamed 'The Underbolts'.<ref>''Thunderbolts'' #156</ref>
+
+==Powers==
+Troll has been shown to have superhuman strength, displayed by bending the metal bars on her jail cell and wielding a battle-axe that mortal men find impossible to lift.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://marvel.wikia.com/Gunna_Sijurvald_%28Earth-616%29 Troll] at Marvel Wiki
+
+[[Category:Comics characters introduced in 2010]]
+[[Category:Marvel Comics Asgardians]]
+[[Category:Norse mythology in popular culture]]
+[[Category:Works based on European myths and legends]]
+
+
+{{Marvel-char-stub}}

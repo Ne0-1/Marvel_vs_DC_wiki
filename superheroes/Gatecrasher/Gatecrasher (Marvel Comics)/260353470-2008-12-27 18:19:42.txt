@@ -1,0 +1,51 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Gatecrasher
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=(U.K.): ''[[Captain Britain]] Vol. 2 #3'' (Mar 1985)<br>(U.S.): ''[[Excalibur (comics)|Excalibur]] Special Edition'' #1 (1987)</ref>
+|creators=[[Jamie Delano]] and [[Alan Davis]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Technet (comics)|Technet]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''Gatecrasher''' is a fictional character in the [[Marvel Universe]].
+
+==Fictional character biography==
+Gatecrasher is a bounty hunter, and the leader of the [[Technet (comics)|Technet]]. She is a tall, massive blue-skinned female.
+
+Gatecrasher was hired with the Technet by [[Sat-Yr-9|Opul Lyn Sat-Yr-Nin]] to capture the extra-dimensional fascist [[Kaptain Briton]].  Gatecrasher and the Technet mistakenly captured [[Earth-616]]'s [[Captain Britain]] instead, but then helped him escape.<ref>''Captain Britain'' Vol. 2 #3; reprinted in the U.S. in ''Captain Britain'' Trade Paperback</ref> Gatecrasher was later sent to 14th century Earth, and tricked by an enemy into ingesting lethal parasites. She was saved from death by Captain Britain and [[Meggan]].<ref>''Captain Britain'' Vol. 2 #12; reprinted in the U.S. in ''Captain Britain'' Trade Paperback</ref>
+
+Later, Gatecrasher and her Technet were sent by [[Saturnyne]] to capture [[Rachel Summers]], the Phoenix. The mercenaries encountered the group of heroes who would become known as [[Excalibur (comics)|Excalibur]] after their confrontation with the Technet.<ref>''Excalibur Special Edition'' #1</ref> Gatecrasher then established a new base in Brighton, England for the Technet.  She was hired by Nigel Frobisher, acting on behalf of a woman appearing to be [[Courtney Ross]], to rescue [[Jamie Braddock]] from the African despot Doctor Crocodile.<ref>''Excalibur'' #12-13, 15</ref>
+
+==Powers and abilities==
+Gatecrasher is an alien that is endowed with superhuman strength, stamina, and durability due to her size and build.  She has the ability of telepathy, the limits of which have not been established.  Gatecrasher has also demonstrated skills in biogenic nucleotronic splicing.
+
+Gatecrasher usually wears wrist-blasters that fire an unknown form of energy.  Her main mode of transportation is teleportation.
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin}}
+*{{comicbookdb|type=character|id=11340|title=Gatecrasher}}
+{{refend}}
+
+[[Category:Extraterrestrial supervillains]]
+[[Category:Fictional bounty hunters]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics characters who can teleport]]
+[[Category:Marvel Comics telepaths]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel UK characters]]
+
+[[tl:Gatecrasher (Marvel Comics)]]

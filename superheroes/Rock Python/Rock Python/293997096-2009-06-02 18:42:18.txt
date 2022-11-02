@@ -1,0 +1,47 @@
+{{for|the snake|Python sebae}}
+
+{{Superherobox|
+image=[[Image:RockPythonSS1.jpg]]
+|caption=Rock Python, art by unknown.
+|comic_color=background:#ff8080
+|character_name=Rock Python
+|real_name=M'Gula
+|species=[[Mutant (Marvel Comics)|Human Mutant]] or Mutate
+|publisher=[[Marvel Comics]]
+|debut=''Captain America'' #341 (May 1988)
+|creators=[[Mark Gruenwald]] and [[Kieron Dwyer]]
+|alliance_color=background:#ffc0c0
+|alliances=[[Serpent Society]]
+|aliases=Michael Gula
+|powers=Rock-hard skin, uses egg-shaped bombs which ensnare his enemies with steel ribbons or poisons them.
+|}}
+
+'''Rock Python''' ('''M'Gula''') is a fictional [[super villain]] in the [[Marvel Comics Universe]], and is a member of the [[Serpent Society]].  He first appeared in ''Captain America'' vol. 1 #341 in May 1988.
+
+==Fictional character biography==
+M'Gula was born in Viceroy, Rudyarda, South Africa. As Rock Python he first joined the Serpent Society when the villainous [[Viper (Madame Hydra)|Viper]] invaded, and battled [[Nomad (comics)|Nomad]].<ref>''Captain America'' #342</ref> After she abandoned them, he took a test to prove his worthiness of being in the Society; he tried to steal [[Falcon (comics)|Falcon]]'s uniform, but would up battling Falcon and [[Battlestar (comics)|Battlestar]] instead.<ref>''Captain America'' #355</ref> He also later battled the [[X-Men]]'s [[Rogue (comics)|Rogue]], [[Havok (comics)|Havok]], and [[Colossus (comics)|Colossus]] with the rest of the Serpent Society, but quickly surrendered when he realized his opponents were much more powerful than him. <ref>''X-Men Annual'' #13</ref> He battled [[Captain America]] later.<ref>''Captain America'' #381-382</ref> His greatest accomplishment was nearly killing [[Captain America]] after he, [[Anaconda (comics)|Anaconda]], and [[Puff Adder (comics)|Puff Adder]] were attacked.  He dropped him from a rooftop, but was ordered by [[King Cobra (comics)|King Cobra]] to flee as to not have their base revealed.<ref>''Captain America'' #385-387</ref>  He continues to serve with the Society.
+[[Image:RockPythonSS.jpg|thumb|150px|left|Rock Python.]]
+Subsequently, M'Gula has also appeared with the Serpent Society as they battled [[Jack Flag]], but was defeated by [[Force Works]].<ref>''Captain America'' #434-437</ref> He was next seen with the organization as they captured Diamondback and Captain America, who they planned to ransome off.  The pair soon escaped, and in the ensuing battle, Rock Python was defeated.<ref>''Captain America'' vol. 4 #30-31</ref>
+
+He appeared in ''[[Spider-Man: Brand New Day|Brand New Day]]'' as one of the villains in the bar.<ref>''Amazing Spider-Man'' #562-563</ref>
+
+
+==Powers and abilities==
+Rock Python has skin, muscle, and bones that are rock-hard, much like a rock python [[snake]]. He is impervious to high caliber arms fire, powerful explosions, intense heat, and deadly impacts. He carries little gimmick "snake eggs" which, upon impact, release various substances such as smoke bombs, acids, plastic explosives, and "snake wrap": explosive-launched inch wide, razor-sharp steel alloy metallic ribbons designed to ensnare opponents like bolas and immobilize them, and are approximately {{convert|25|ft|m}} in length.
+
+==Bibliography==
+*''Captain America'' vol. 1 #341-343, 355, 365, 367, 380-382, 385-387, 411, 414, 434-437
+*''Captain America'' vol. 3 #30-31
+*''Uncanny X-Men Annual'' #13
+
+==References==
+{{reflist}}
+
+==External links==
+*http://www.marvel.com/universe/Rock_Python
+*http://www.marvunapp.com/Appendix4/rockpythonss.htm
+
+[[Category:Fictional criminals]]
+[[Category:Marvel Comics supervillains]]
+
+[[fr:Python des roches]]

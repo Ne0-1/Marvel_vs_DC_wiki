@@ -1,0 +1,37 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Force
+|real_name=Clayton Wilson
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Namor the Sub-Mariner|Sub-Mariner]]'' (Vol. 1) #67 (Nov 1973)
+|creators=[[Steve Gerber]] and [[Don Heck]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=Taylor, Carl Walker
+|relatives=
+|powers=
+|}} 
+
+'''Force''' is a fictional character in the [[Marvel Universe]].  
+
+==Fictional character biography==
+Clayton Wilson was a graduate student at [[Empire State University]] working as a research assistant to a scientist (Damon Walters) who had developed a prototype device for creating a protective force field.  Wilson stole the prototype and made a battle-suit that incorporated the generator, and dubbed himself Force.
+
+He first attacked [[Namor the Sub-Mariner]] when the Prince came to speak to Walters to acquire his force field technology.  Namor defeated him and Force was unable to prevent him from gaining help from Walters.
+
+Force was later employed by [[Justin Hammer]] to work as a mercenary, in exchange for providing improvements to his battle-suit.  Force attacked Anthony Stark's yacht, but Stark (as [[Iron Man]]) was able to defeat Force's men.  Force escaped with the yacht, and several prisoners including [[Bethany Cabe]].  Iron Man was able to track Force down and defeat him, freeing the prisoners.
+
+Eventually, Force grew tired and disgusted with harming other people, and told Hammer so.  Hammer tampered with Force's armor that would prevent him from communicating, and electrocute him if he tried to remove the armor.  Force sought help from Iron Man, who freed him from the battle-suit.  Stark insisted that Wilson turn himself into the police, and Wilson agreed.  Justin Hammer sent the [[MACH-IV (Marvel Comics)|Beetle]], [[Blacklash]], and [[Blizzard (Donnie Gill)|Blizzard II]] to kill Wilson.  Iron Man, [[War Machine|Jim Rhodes]], and Force fought the three mercenaries off.  Stark told the authorities that Wilson had been killed in the fight, so that Hammer would no longer pursue him; meanwhile, Stark set Wilson up with a new identity and employment with a subsidiary of Stark Industries.
+
+==Equipment==
+Force's armor allows him to project a force field and force blasts, and to control energy fields.
+
+
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics supporting characters]]

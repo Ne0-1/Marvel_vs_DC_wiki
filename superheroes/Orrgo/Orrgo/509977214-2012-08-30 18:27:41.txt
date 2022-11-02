@@ -1,0 +1,44 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=<!-- Deleted image removed: [[image:orrgo.jpg|200px]] -->
+|caption=
+|comic_color=background:#ff8080
+|character_name=Orrgo
+|real_name=
+|publisher=[[Marvel Comics]]
+|debut=''Strange Tales'' vol. 1 #90. (Nov 1961)
+|creators=
+|alliance_color=background:#cccccc
+|alliances=[[S.H.I.E.L.D.]]<br>[[Nick Fury's Howling Commandos|Howling Commandos]]
+|aliases=
+|powers=great mental powers
+|}}
+
+'''Orrgo''' is a fictional character from the [[Marvel Universe]] who first appeared in ''Strange Tales'' vol. 1 #90.
+
+==Fictional character biography==
+'''Orrgo''' is an [[Extraterrestrial life in popular culture|extraterrestrial]] "space god", who arrived on Earth and has tried to conquer it many times in the past.  He was recently summoned by the [[Headsmen]] and controlled by the God from Beyond statue.  Through unknown means, Orrgo was captured by [[S.H.I.E.L.D.]] and recently placed in the [[Nick Fury's Howling Commandos|Howling Commandos]] Monster Force.
+
+In ''Strange Tales'' vol. 3 #1, the being known as [[Khlog]] (currently the [[Golden Gator]]), posed as Orrgo.
+
+==Powers and abilities==
+Orrgo has great mental powers.
+
+==Notes==
+*[[Adam Able]]’s home planet was called '''Orrgo''' in ''Journey into Mystery'' vol. 1 #82.
+
+==Bibliography==
+*''Defenders'' vol. 2 #5, 9-10
+*''Marvel Monsters''
+*''Nick Fury's Howling Commandos'' #1-6
+*''Strange Tales'' vol. 1 #90
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix/orrgopre.htm}}
+
+[[Category:Fictional extraterrestrial characters]]
+[[Category:Marvel Comics characters]]
+
+
+{{Marvel-char-stub}}
+
+[[fr:Orrgo]]

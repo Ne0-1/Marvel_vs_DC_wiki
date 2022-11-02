@@ -1,0 +1,41 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Uxm246.png|225px]]
+|caption=Cover to ''Uncanny X-Men'' #246. Art by [[Marc Silvestri]].
+|comic_color=background:#ff8080
+|character_name=Master Mold
+|real_name=Inapplicable
+|publisher=[[Marvel Comics]]
+|debut=''Uncanny X-Men'' #14 (November 1965)
+|creators=[[Stan Lee]]<br>[[Jack Kirby]]
+|alliance_color=background:#c0c0ff
+|status=active
+|alliances=[[Sentinels (comics)|Sentinels]]
+|previous_alliances=
+|aliases=
+|relatives=Bolivar Trask (creator)
+|powers=mechanical strength, speed, reflexes, and durability, incorporate metal into itself, concussive blasters, plasma discharges, mutant scanners, boot rockets 
+|}}
+
+'''Master Mold''' is a [[fictional character]], a [[robot]] [[supervillain]] in the [[Marvel Universe]].  Since his primary purpose was to act as a portable [[Sentinels (comics)|Sentinel]]-creating factory, and the Sentinel robots were primarily used to hunt [[mutants]], Master Mold has almost exclusively appeared in the [[X-Men]] and related, mutant-themed, comic books.
+
+==Master Mold in comics==
+[[Image:Uxm016.PNG|Cover to ''Uncanny X-Men'' #16. Art by Jack Kirby.|left|thumb]]
+
+Master Mold was created by [[Bolivar Trask|Dr. Bolivar Trask]] during the original run of X-Men comics, in the 1960s, out of fear of a race of superhuman mutants that could dominate the whole world and enslave normal human beings.  Trask made Master Mold, a super-computer, in the shape of a giant Sentinel robot, that would control and facilitate the construction of the [[Sentinels (comics)|Sentinels]] (mechanical warriors that are programmed to hunt and capture all superhuman mutants). 
+
+Dr. Bolivar Trask also equipped Master Mold with powerful weaponry and the ability to speak; Master Mold was also mobile so that it could defend itself from mutant attackers or so that it could be relocated easily if Trask had to find a new headquarters. The original Master Mold was eventually destroyed, but several others were later built by other people who wanted to manufacture Sentinels. In the late 1980s, one of the present-day Sentinels was merged with the advanced Sentinel from the future, [[Nimrod (comics)|Nimrod]], to form the being called [[Bastion (comics)|Bastion]], which acted like an almost-human Master Mold during the late 1990s and early 2000s.
+
+==Appearances in other media==
+===''X-Men'' animated series===
+[[Image:Master Mold.JPG|left|thumb]]Master Mold also served an important role during the first season of the mid-1990s [[X-Men (animated series)|''X-Men'' animated series]].  In one episode, the X-Men [[Gambit (comics)|Gambit]], [[Storm (comics)|Storm]], and [[Jubilee (comics)|Jubilee]] are kidnapped by Sentinels, sent by Trask and [[Henry Gyrich]], while vacationing on the fictional island of [[Genosha]].  There, the three X-Men, along with several other mutants, are enslaved by Trask and Gyrich who are harnessing the mutants' powers to create a massive [[dam]] in Genosha whose [[water-power]] will be used to run Trask's newly-created Master Mold.
+
+The X-Men eventually escape Genosha and destroy most of the Sentinels by Storm's flooding the dam.  Later on in the season, they learn that Trask has lost control of Master Mold, who is now stationed in [[Washington, D.C.]]  Master Mold has [[Senator Kelly]], and dozens of other important world leaders, kidnapped and demands that Trask replace their brains with computers that can be controlled by Master Mold.  Master Mold rationalizes that his created purpose to protect ordinary humans from mutants is irrational, since mutants themselves are humans, so he tells Trask that he and his Sentinels are the only things that could protect humanity from itself.  The X-Men help rescue Trask and Kelly from Master Mold, and at the end of the season's last episode, [[Professor X|Professor Xavier]], with the help of [[Magneto (comics)|Magneto]], flies the X-Men's jet full of explosives into Master Mold's torso.
+
+Master Mold and all Sentinels are believed to be destroyed at this point, but they resurface in season four.  It is revealed that several Sentinels, and Master Mold's head and intelligence, had survived Xavier's attack.  Master Mold was commissioning Sentinels to steal top-secret, indestructible lightweight plastics in order to create a new body for himself.  He also had Sentinels kidnap his creators, Trask and Gyrich, whom he felt had betrayed him, as well as Xavier, whom he blamed from having destroyed his body. The X-Men eventually freed them and the [[Moroh (comics)|Morph]] destroyed Master Mold's head once and for all.
+
+===Computer and video games===
+Although Sentinels appear in many [[computer and video games]], Master Mold appears in only a few.  He appears in the background of the Sentinel processing plant combat area of the [[video game]] ''[[X-Men: Children of the Atom (video game)|X-Men: Children of the Atom]]'', although he does not interact with any of the combatants.  In 2004's ''[[X-Men: Legends]]'', Master Mold, actually a giant Sentinel piloted by anti-mutant extremist General Kincaid, was the final [[boss (video games)|boss]] of the game.
+
+
+[[Category:Marvel Comics robots]]
+[[Category:X-Men villains]]

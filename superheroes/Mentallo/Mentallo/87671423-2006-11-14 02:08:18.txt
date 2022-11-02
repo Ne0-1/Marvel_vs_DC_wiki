@@ -1,0 +1,53 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image= [[Image:Mentallo.gif|152pxl]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Mentallo
+|real_name=Marvin Flumm
+|species=[[mutant (fictional)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=[[Strange Tales]] #141 (February, [[1966]])
+|creators=[[Stan Lee]]<br>[[Jack Kirby]]
+|alliance_color=background:#c0c0ff
+|status=Active
+|alliances=None
+|previous_alliances=[[S.H.I.E.L.D.]], [[HYDRA]], [[Fixer (comics)|Fixer]], The [[Resistants (comics)|Resistants]], Inner Circle of the [[New Enforcers]], The Chain Gang.
+|aliases=Think Tank
+|relatives=
+|powers=Telepathy, mental probes that function as a [[radar]]-sense.
+|}}
+
+'''Mentallo''' is a [[fictional character]], a [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]].
+
+== Character History ==
+
+Mentallo's true identity is '''Marvin Flumm''', a [[mutant (fictional)|mutant]] telepath of moderate ability who was recruited by the original [[S.H.I.E.L.D.]] as a candidate for their ESP Division. Having been fired for cause after attempting a covert takeover of that organization, he has since operated as both a freelance criminal and a high-ranking agent of S.H.I.E.L.D.'s enemy [[HYDRA]]. Flumm is usually depicted as using technology to increase his power. He once had a longterm partnership with the [[Fixer (comics)|Fixer]]. This partnership effectively ended when the Fixer was invited to join the [[Thunderbolts (comics)|Thunderbolts]].
+
+Under the name ''Think Tank'', Flumm was a member of the [[Resistants (comics)|Resistants]], originally an incarnation of the [[Brotherhood of Evil Mutants]]. The Resistants opposed the [[Registration Acts (comics)|Mutant Registration Act]]. 
+
+His most recent major role in the [[Marvel Comics]] Universe was using his telepathy as part of a conspiracy to break out of prison and acquire a device that would allow his employer to control all the supervillains who ever worked for [[Justin Hammer]]. Controlling the body of the villain [[Headlok]], while Mentallo himself remained in prison, he freed several prisoners who came to be informally known as the ''Chain Gang''. [[Hawkeye (comics)|Hawkeye]] was included in the breakout, and led to the plan failing, following it up by forming a new team of [[Thunderbolts (comics)|Thunderbolts]]. He is one of the 198 mutants who retained their powers after the Decimation.
+
+==Powers and abilities==
+Mentallo is a [[mutant (fiction)|mutant]] with limited telepathic abilities, allowing him to read minds, control the bodies and minds of other humans, communicate telepathically and create illusions. He often uses scientific means (often provided by the Fixer) to enhance his telepathic abilities. 
+He usually wears a special helmet to protect him against telepathic feedback, background noise and other telepaths. 
+Mentallo also has the ability to send out mental probes to identify the shape and size of objects in his near vicinity, effectively creating some type of radar-sense. He can even locate invisible and intangible objects this way.
+
+As the Resistance member Think Tank, he used a small tread-propelled vehicle in which he sat, with his upper body and head still exposed. This tank unit was armed with a wide range of weapons - machine guns, grappler arms etc. - which Mentallo directly controlled with his telepathic ability and a special interface helmet..
+
+==Trivia==
+* "Mentallo" was also the [[stage name]] of 1920 huckster Paul Destine, who later became the [[Sub-Mariner]] nemesis [[Destiny (Paul Destine)|Destiny]]
+* The partnership between Mentallo and the Fixer inspired the name of Texan [[industrial music]]ians [[Mentallo and the Fixer]].
+
+==See also==
+*[[List of S.H.I.E.L.D. members]]
+
+
+[[Category:Brotherhood of Mutants members]]
+[[Category:The 198 Files]]
+[[Category:Marvel Comics mutants]]
+[[Category:X-Men villains]]
+[[Category:Fictional telepaths]]
+[[Category:S.H.I.E.L.D.]]
+
+
+{{Marvel-villain-stub}}

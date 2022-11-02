@@ -1,0 +1,61 @@
+{{otheruses|de Groot}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[image:Gotg_2.jpg|250px]]
+|caption=Groot with [[Rocket Raccoon]].<br>Art by [[Clint Langley]].
+|comic_color=background:#ff8080
+|character_name=Groot
+|real_name=Groot
+|species=''Flora colossus''
+|publisher=[[Marvel Comics]]
+|debut=''[[Tales to Astonish]] (vol. 1)'' #13 (Nov 1960)
+|creators=[[Stan Lee]]<br>[[Jack Kirby]]<br>[[Dick Ayers]]
+|alliance_color=background:#cccccc
+|alliances=[[Guardians of the Galaxy (2008 team)]]<br>[[Nick Fury's Howling Commandos|S.H.I.E.L.D. Paranormal Containment Unit]]
+|aliases=Monarch of Planet X
+|powers=Can absorb wood to feed, to rebuild himself, and to enhance his strength. He can also control trees and has resistant to fire.<br>Genius Level Intellect<ref name="GotG17">''Guardians of the Galaxy'' vol. 2 #17</ref>
+|}}
+
+'''Groot''' (also known as the '''Monarch of Planet X''') is a [[fictional character]], an extraterrestrial in the {{Marvel Universe}} and member of the [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]].
+
+==Publication history==
+Groot first appeared in ''[[Tales to Astonish]]'' vol. 1 #13 (November 1960), and was created by [[Stan Lee]], [[Jack Kirby]], and [[Dick Ayers]].
+
+==Fictional character biography==
+''Groot'' is an [[Extraterrestrial life in popular culture|extraterrestrial]] plant monster who initially came to [[Earth]] seeking humans to capture and study.  However he was seemingly destroyed by termites by [[Leslie Evans]].  
+
+[[Xemnu]] made a duplicate of Groot that was used to fight the [[Incredible Hulk]], however the Hulk destroyed him.<ref>''Incredible Hulk Annual'' #5</ref>
+
+Through unknown means, he was later captured by [[S.H.I.E.L.D.]] and assigned to their Paranormal Containment Unit, nicknamed the [[Nick Fury's Howling Commandos|Howling Commandos]].
+
+Groot played a part in [[Annihilation: Conquest]], at which time he may be the last remaining member of his race. Groot seemingly died buying his team some time to escape the battle. However, he survived as a sprig offshoot. In time, he regenerated his body from the twig, growing back to full size, and participated in an assault on the Babel Spire. When the original  plan of laying explosives in the Spire failed, Groot was forced to sprout inside the Spire, growing to colossal size and filling a large portion of the building. Mantis was able to remix his sap in a way as to make it extremely flammable, and again Groot sacrificed his life for his friends, igniting himself, the resulting fire destroying the Babel Spire. A cutting of Groot was kept by [[Rocket Raccoon]], though, and he was able to regrow. He then joined the new [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]] (or as Groot would have it "Groot and Branches"), and began regrowing under the care of Mantis.<ref>''Guardians of the Galaxy'' vol. 2 #1</ref><ref>[http://forum.newsarama.com/showthread.php?t=156983 Greeting the Guardians: Rocket Raccoon, Groot], [[Newsarama]], May 14, 2008</ref>
+
+==Powers and abilities==
+Groot can absorb wood to feed, to rebuild himself (which also requires water) and to enhance his strength. He can also control trees, using them to attack others. Groot also appears to be resistant to fire. He is able to Sprout, massively increasing his mass but also severely inhibiting his movement. 
+
+Groot has also been seemingly killed on three occasions, each time regrowing from a sprig.
+
+[[Maximus (comics)|Maximus the Mad]], [[Black Bolt]]'s brother asserted that whenever Groot is saying his trademark "I am Groot!" he has actually been saying any number of things, ranging from the mundane to theories of Quasi-Dimensional super-positional engineering and that it is the hardened nature of Groot's larynx (typical to his species) that causes people who are oblivious to the subtle nuances of his speech to misinterpret him as merely repeating his name.  It has yet to be determined whether Maximus' claim is true or merely another manifestation of his madness, though Groot did genuinely seem to be assisting Maximus with a complicated feat of engineering.<ref name="GotG17"/>
+
+==Bibliography==
+*''Tales to Astonish (vol. 1)'' #13
+*''Marvel Monsters: Monsters on the Prowl''
+*''Nick Fury's Howling Commandos'' #1-6
+*''Annihilation Conquest: Starlord'' #1-4
+*''Guardians of the Galaxy (vol. 2)'' #1-
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{comicbookdb|type=character|id=11400|title=Groot}}
+* [http://www.marvunapp.com/Appendix/groottta.htm Groot at the Marvel Universe Appendix]
+
+
+[[Category:Fictional extraterrestrial characters]]
+[[Category:Marvel Comics characters]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Characters created by Dick Ayers]]
+
+
+[[fr:Groot]]

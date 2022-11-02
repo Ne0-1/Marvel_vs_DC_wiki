@@ -1,0 +1,44 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:Edwin Cord1.jpg|225]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Edwin Cord
+|real_name=Edwin Cord
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Iron Man]]'' #125 (May 1988)
+|creators=[[David Michelinie]], [[Bob Layton]], and [[John Romita Junior]]
+|alliance_color=background:#c0c0ff
+|alliances=
+|aliases=
+|powers=
+|}}
+
+'''Edwin Cord''' is a fictional character in the [[Marvel Comics]] universe. He is created by [[David Michelinie]], [[Bob Layton]], and [[John Romita, Jr.]] in Iron Man #125 (May 1988).
+
+==Fictional character biography==
+Head of the Cord Conglomerate, Edwin Cord is a well-connected, if frustrated, businessman. From his palatial estate on the East Coast, he plotted to bring down Stark and his companies on a regular basis.
+
+In issue, he hired The Raiders to take on Iron Man. He returned in #226 with his Raiders in an attempt to destroy the newly formed SE. Later, Cord used Project Firepower to go after Tony, ruin his business, and kill Iron Man. Then, Cord reached out from prison to get revenge. With the help of a man on the inside, Cord sent a hit team to kill people at SE. As in prior instances, he was defeated.{{Issue|date=January 2011}}
+
+Edwin was responsible for the funding of the [[Raiders (comics)|Raiders]] and the creation of the heavily armored [[Firepower (comics)|Firepower]], both in plots to destroy Iron Man. This arc became known as [[Armor Wars]]. He is often associated with Drexel Cord (an unspecified relation, maybe that of a father) and his sister Janice.{{Issue|date=January 2011}}
+
+Edwin Cord would later go on to finance [[U.S. Agent]] and the [[The Jury (comics)|Jury]] in a failed attempt to apprehend the [[Thunderbolts (comics)|Thunderbolts]].{{Issue|date=January 2011}}
+
+== External links==
+* {http://www.ironmanarmory.com/bios.html#ecord|Edwin Cord}
+* {http://www.ironmanarmory.com/bios.html#cord|Janice Cord}
+
+==References==
+* ''[[Daredevil (Marvel Comics)|Daredevil]]'' #167
+* ''[[Iron Man]]'' #145-146, 226, 229-231
+* ''Thunderbolts'' #23, 28
+
+{{Iron Man}}
+[[Category:Marvel Comics characters]]
+[[Category:Fictional business executives]]
+[[Category:Comics characters introduced in 1988]]
+[[Category:Marvel Comics supervillains]]
+{{DEFAULTSORT:Cord, Edwin}}
+
+{{Marvel-villain-stub}}

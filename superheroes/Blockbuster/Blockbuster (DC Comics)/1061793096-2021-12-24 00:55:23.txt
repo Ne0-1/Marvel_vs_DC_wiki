@@ -1,0 +1,153 @@
+{{About|the [[DC Comics]] supervillain|the [[Marvel Comics]] supervillain|Blockbuster (Marauder)}}
+'''Blockbuster''' is the name of four fictional supervillain characters and a criminal organization appearing in [[American comic book]]s published by [[DC Comics]].<ref>{{cite book |last1=Greenberger |first1=Robert |title=The Essential Batman Encyclopedia |date=2008 |publisher=Del Rey |isbn=9780345501066 |pages=57–58}}</ref> The first one was primarily a foe of [[Batman]] and Robin, while the second was the archenemy to [[Dick Grayson|Nightwing]]. The latest version first appeared in the pages of the series ''[[52 (comics)|52]]'' wherein he is directed into battle against [[Lex Luthor]]'s [[Infinity, Inc.|team of superheroes]].
+
+==Publication history==
+The Mark Desmond version of Blockbuster first appeared in ''[[Detective Comics]]'' #345 and was created by [[Gardner Fox]] and [[Carmine Infantino]].<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=48}}</ref>
+
+The Roland Desmond version of Blockbuster first appeared in ''[[Starman (comics)|Starman]]'' #9 and was created by [[Roger Stern]] and [[Tom Lyle]].
+
+==Fictional character biography==
+===Mark Desmond===
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=Blockbuster (Comics) (Mark Desmond).jpg
+|imagesize=174
+|converted=y
+|caption={{Descript-inner-art |Who's Who: The Definitive Directory of the DC Universe|1|#3|May 1985|art = [[Michael T. Gilbert]]|pub=DC}}
+|character_name=Blockbuster
+|alter_ego=Mark Desmond
+|publisher=[[DC Comics]]
+|debut=''[[Detective Comics]]'' #345 (November [[1965 in comics|1965]])
+|creators=[[Gardner Fox]] (writer)<br/>[[Carmine Infantino]] (artist)
+|alliances=[[Secret Society of Super Villains]]<br/>[[Suicide Squad]] 
+|aliases=
+|powers=Superhuman strength, stamina, and endurance<br>High-level resistance to injury
+|cat=super
+|subcat=DC Comics
+|villain=y
+|sortkey=Blockbuster (comics)
+}}
+The first Blockbuster was '''Mark Desmond''', a [[chemist]] who desired to increase his physical strength. Experimenting on himself, he succeeded in making himself stronger and taller, but as a side-effect of the process he also became almost mindlessly aggressive.<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=34}}</ref> The mentally debilitated Desmond was cared for by his brother Roland, a local criminal, who kept their mother from discovering what Mark had done to himself.<ref name="dc-ency1">{{Cite book | last=Greenberger | first=Robert | contribution=Blockbuster I | editor-last=Dougall | editor-first=Alastair | title=The DC Comics Encyclopedia | page=56 | publisher=[[Dorling Kindersley]] | location=[[London]] | year=2008 | isbn=978-0-7566-4119-1}}</ref>
+
+Roland manipulated his brother into committing crimes on his behalf until they came into conflict with [[Batman]] and [[Dick Grayson|Robin]]. Bruce Wayne had once rescued a young Desmond from drowning, and he discovered that he could calm the enraged adult Desmond by removing his cowl and showing his face.<ref>{{cite book |last1=Eury |first1=Michael |last2=Kronenberg |first2=Michael |title=The Batcave Companion |date=2009 |publisher=TwoMorrows Publishing |isbn=978-1893905788 |page=220}}</ref> Desmond later found himself clashing with Batman on various occasions. He joined the [[Secret Society of Super Villains]] briefly for a battle with the [[Justice League]]. Later, [[Amanda Waller]] recruited Desmond for her revived [[Suicide Squad]]. He was killed fighting [[Darkseid]]'s creation, [[Brimstone (DC Comics)|Brimstone]].<ref>{{Cite comic | Writer = [[John Ostrander|Ostrander, John]] | Penciller = [[John Byrne (comics)|Byrne, John]] | Inker = [[Karl Kesel|Kesel, Karl]] | Story = Send For... the Suicide Squad! | Title = [[Legends (comics)|Legends]] | Volume = | Issue = #3 | Date = January 1987 | Publisher = [[DC Comics]] | Page = 14 | Panel = | ID = }}</ref>
+
+In Pre-Crisis, Blockbuster absorbed energies from the Alfred Memorial which gave him some powers and was once substituted for the super-strong [[undead]] villain [[Solomon Grundy (character)|Solomon Grundy]] from Earth-2 due to a machine that was substituting people from both Earths. Green Lantern caused him to fight Solomon Grundy, leading to them both briefly getting the fight knocked out of each other.
+
+In ''[[The New 52]]'' (a reboot DC's continuity launched in 2011), Mark Desmond is a patient of Dr. Phayne's. He lives on the estate and at night he undergoes procedures to enhance his intelligence. He is exposed to small amounts of a green compound intravenously. An accident is caused by a new patient believing he is in pain and the cascade of green liquid overdoses Desmond and creates an explosion. The overdose exposes a super-strong man calling himself Blockbuster. He rampages from the building in pain and knocks an attacking Hawkman unconscious.<ref>''The Savage Hawkman'' #18</ref> Blockbuster was later mind-controlled by Necromancer to help her steal an artifact from a Washington D.C. museum, which brought the attention of [[Hawk and Dove]]. They teamed up with Batman and [[Damian Wayne|Robin]] to stop Blockbuster and Necromancer.<ref>''Hawk and Dove'' vol. 5 #6</ref> Mark Desmond later appears as a member of the Secret Society of Super Villains upon having been recruited by [[Outsider (comics)|Outsider]]. When [[Catwoman]] breaks out of Arkham Asylum, Mark Desmond and [[Signalman (comics)|Signalman]] confronted Catwoman on a rooftop, which ended with Catwoman being knocked out.<ref>''Justice League of America'' vol. 3 #3</ref>
+
+===Roland Desmond===
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name=Blockbuster
+|image=Blockbuster (Roland Desmond).jpg
+|converted=y
+|caption={{Descript-inner-art|Underworld Unleashed: Patterns of Fear|1|#1|November 1995|art = [[Rick Burchett]]|pub=DC}}
+|alter_ego=Roland Desmond
+|publisher=[[DC Comics]]
+|debut=''[[Starman (comics)|Starman]]'' #9 (April [[1989 in comics|1989]])
+|creators=[[Roger Stern]] (writer)<br/>[[Tom Lyle]] (artist)
+|alliances=[[Secret Society of Super Villains|Underground Society]]<br/>[[Black Lantern Corps]]
+|aliases=
+|powers=Superhuman strength, stamina, and endurance<br>High-level resistance to injury<br>[[Genius]]-level intellect
+}}
+'''Roland Desmond''' became the second Blockbuster after a severe illness forced him to be treated with experimental steroids. Like his brother Mark, Roland became a child-minded super-strong monster. He ran wild in the Southwest, but [[Batman]] and [[Starman (comics)|Starman]] (Will Payton) brought his rampage to an end.<ref>''Starman'' #10 (May 1989)</ref><ref name="dc-ency2">{{Cite book| last=Wallace | first=Dan | contribution=Blockbuster II | editor-last=Dougall | editor-first=Alastair | title=The DC Comics Encyclopedia | page=55 | publisher=Dorling Kindersley | location=London | year=2008 | isbn=978-0-7566-4119-1}}</ref>
+
+Desmond became obsessed with elevating himself greatly above his debilitated intellect. A pact with the demon [[Neron (DC Comics)|Neron]] granted him a genius-level intellect and Desmond embarked once more on a career of crime and destruction. He began his revived criminal career by causing chaos in the town of Manchester, although his schemes were foiled by the speedster, [[Bart Allen|Impulse]].
+
+Desmond then moved to his mother's hometown of [[Blüdhaven]]. He forced the crime lord Angel Marin out of power and took over the city's criminal rackets. Roland's plan was to build a criminal empire in Blüdhaven that would eventually enable him to extend his dominion over [[Gotham City|Gotham]], [[Star City (comics)|Star City]], [[Metropolis (comics)|Metropolis]], and [[New York City|New York]]'s underworlds. For that purpose, he bought the corrupt elements of the city's police department, most notably Police Chief Redhorn and Inspector [[Torque (DC Comics)|Dudley "Deadly" Soames]].
+
+Despite his swift and vicious consolidation of power, Blockbuster's hold on Blüdhaven's organized crime was nevertheless weakened by the intervention of the city's new protector, [[Nightwing]] ([[Dick Grayson]], the former [[Robin (comics)|Robin]]), who, with [[Barbara Gordon|Oracle]]'s help, foiled Desmond's plans at every turn. Oracle often removes money from Blockbuster's accounts and he has a man working to stop and find Oracle, named Vogel.<ref>''Nightwing'' vol. 2 #44 (June 2000)</ref>
+
+Desmond's primary goal became the elimination of the young vigilante.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year By Year: A Visual Chronicle |date=2019 |publisher=DK Publishing |isbn=978-1-4654-8578-6 |page=258}}</ref> He placed a contract on Nightwing's life, employing the services of several assassins, including [[Lady Vic]], Stallion, Brutale, the [[Trigger Twins]], and [[Shrike (comics)#Boone|Shrike]].
+
+As a further result of his initial transformation, Desmond later developed [[albinism]] and a heart defect. He was restored to (comparative) health by a heart transplant from one of the talking apes of [[Gorilla City]], and was consolidating his control over Blüdhaven and contemplating a takeover of [[Gotham City]], when he was killed by the new [[Tarantula (DC Comics)#Catalina Flores|Tarantula]], Catalina Flores.<ref>[[DCDatabase:Nightwing Vol 2 93|''Nightwing'' vol. 2 #93]] (July 2004)</ref>
+
+As part of the ''[[Blackest Night]]'' event, Roland's corpse is reanimated by a [[Power ring (DC Comics)#Black|black power ring]] and recruited to the [[Black Lantern Corps]] in ''Blackest Night: Batman'' #1 (October 2009).
+
+In the ''[[DC Rebirth]]'' reboot, Blockbuster appears, asking Nightwing to help with a job.<ref>''Nightwing'' vol. 4 #22</ref>
+
+===Blockbuster III===
+[[Lex Luthor]] created a new Blockbuster in the pages of the miniseries event, ''[[52 (comics)|52]]'', to serve as an opponent of his manufactured hero team, [[Infinity, Inc.]]
+
+Little is revealed about this Blockbuster, save for the fact that Luthor possesses some measure of control over his actions and level of strength. Luthor also comments that he is stronger than either of the previous two Blockbusters. This brute's cognitive abilities and appearance are very similar to the original. Blockbuster, with controlled interference from Lex Luthor, kills the superhero [[List of minor DC Comics characters#Trajectory|Trajectory]].
+
+===Martian Manhunter's disguise===
+A Blockbuster appears among the villains exiled to an alien world in ''[[Salvation Run]]''. In issue #3, it is revealed to be a disguised [[Martian Manhunter]].
+
+===Female Blockbuster===
+A newer, female Blockbuster appears in the swamps of Louisiana and fights [[Mon-El]].<ref>''Superman'' #689 (August 2009)</ref>
+
+===The Blockbuster's Gang===
+The Blockbuster's Gang first appears in ''[[Nightwing]]'' vol. 2 #2. This gang was one of the most powerful mobs in [[Blüdhaven]], made up of corrupt police officers and supervillains. The organization leader is Roland Desmond. Current Members: Thrilldevil, Giz, Mouse and Mateo Flores. Former Members: [[Brutale (DC Comics)|Brutale]], the [[Electrocutioner#Lester Buchinsky|Electrocutioner]] III, [[Torque (DC Comics)|Torque]], [[Lady Vic]], the [[Shrike (identity)#Boone|Shrike]] IV, the Stallion, the [[Tarantula (DC Comics)#Catalina Flores|Tarantula]] II, the [[Trigger Twins#Tom and Tad trigger|Trigger Twins]] and Cicso Blane.
+
+==Powers and abilities==
+All Blockbusters have superhuman strength, stamina, and endurance. They also have a high degree of resistance to physical and energy attacks. In a straight fight, typically their greatest weakness is their comparatively slower speed, making it relatively easy to evade opposing attacks, although this is of limited use if confronting Blockbuster inside buildings.
+
+After selling his soul to Neron, Roland Desmond gained genius-level intelligence.
+
+==Alternative versions==
+===''Batman/Aliens''===
+The Roland Desmond version of Blockbuster is mentioned as using a construction company as a [[Trojan horse]]. However, the owner and multiple workers are killed by an [[Alien (creature in Alien franchise)|Alien]] they unearth from a bioweapons lab at a construction site.
+
+===DC Animated Universe comics===
+The Roland Desmond version of Blockbuster appears in ''[[Adventures in the DC Universe]]'' #1 and ''DC Comics Presents: Wonder Woman Adventures'' #1.
+
+===''Batman: Arkham''===
+In ''Batman: Arkham Knight-Genesis'', a prequel comic to ''[[Batman: Arkham Knight]]'', the Mark Desmond version of Blockbuster and [[Catman (comics)|Catman]] brutally beat [[Jason Todd]], the second [[Robin (comics)|Robin]], while dressed in Batman costumes as part of the [[Joker (character)|Joker]]'s brainwashing of Todd. Todd fought back, but was reluctant to kill them. [[Harley Quinn]] encouraged him, shooting Blockbuster in the chest to prove her point.
+
+===''Just Imagine...''===
+In [[Stan Lee]]'s ''[[Just Imagine...]]'' series, Blockbuster is reimagined as '''Brock Smith''', a death row inmate notorious for a series of mass murders committed with his bare hands, who is rescued by the series' mysterious villain Dominic Darrk and re-empowered with extra super-strength (and a purple carapace) as part of a villainous [[Doom Patrol]]. He is defeated and de-powered by Batman and Wonder Woman (who crack his purple facade with Wonder Woman's staff), and dies after running over a live electrical cable.
+
+==In other media==
+===Television===
+* The Mark Desmond incarnation of Blockbuster appears in the ''[[Justice League Unlimited]]'' animated series, voiced by [[Dee Bradley Baker]]. In the episode "Kid Stuff", he, the [[Cheetah (character)|Cheetah]], [[Copperhead (DC Comics)|Copperhead]], and [[KGBeast]] fight [[John Stewart (comics)|Green Lantern]], [[Wonder Woman]], [[Batman]], and [[Superman]] until [[Mordred (comics)|Mordred]] uses an ancient amulet to transport all of the world's adults to another dimension. In "I Am Legion", Blockbuster became a member of [[Gorilla Grodd]]'s [[Secret Society of Super Villains|Secret Society]]. Prior to and during the episode "Alive!", [[Lex Luthor]] takes command of the Secret Society, but Grodd mounts a mutiny. Blockbuster sides with the latter, but is frozen by [[Killer Frost]] and killed off-screen in an explosion caused by [[Darkseid]].
+* A variation of Mark Desmond appears in ''[[The Batman (TV series)|The Batman]]'' animated series episode "Meltdown", voiced by [[Kevin Michael Richardson]]. This version is an African-American scientist working for [[Wayne Enterprises]] who is in charge of enforcing [[Clayface|Ethan Bennett]]'s parole.
+* The Mark Desmond incarnation of Blockbuster appears in the ''[[Batman: The Brave and the Bold]]'' animated series, with Desmond voiced by [[James Arnold Taylor]] and Blockbuster voiced by Kevin Michael Richardson. This version of Desmond is an evil prodigy who stole chemicals from [[S.T.A.R. Labs]] and created a serum to increase his strength. In the teaser for the episode "Death Race to Oblivion!", he robs a museum and is almost foiled by Batman, but Desmond drinks the serum and transforms into Blockbuster. He subdues Batman, but [[Captain Marvel (DC Comics)|Captain Marvel]] intervenes and defeats Blockbuster. In "Night of the Batmen", Blockbuster assists [[Bane (DC Comics)|Bane]], [[Killer Croc]], and [[Solomon Grundy (character)|Solomon Grundy]] in stealing a statue, only to be thwarted by Captain Marvel dressed as Batman.
+[[Image:Blockbusteranimated.jpg|right|200px|thumb|Blockbuster as seen in ''[[Young Justice (TV series)|Young Justice]]''.]]
+* The Mark Desmond incarnation of Blockbuster appears in the ''[[Young Justice (TV series)|Young Justice]]'' animated series, with Desmond voiced by [[René Auberjonois]] while sound effects were used for Blockbuster's vocal effects. This version of Blockbuster was purposefully redesigned as the series creators felt the original version was too similar to [[Marvel Comics]] character, the [[Hulk]].<ref>{{Cite web | url=http://phillybee.deviantart.com/art/Blockbuster-Turn-188081365?q=boost%3Apopular+Blockbuster&qo=5 | title=Blockbuster Turn by *Phillybee | work=Deviant Art | access-date=December 29, 2010 | archive-url=https://web.archive.org/web/20110709015901/http://phillybee.deviantart.com/art/Blockbuster-Turn-188081365?q=boost:popular+Blockbuster&qo=5 | archive-date=July 9, 2011 | url-status=dead }}</ref> As such, Desmond's transformation involves his Blockbuster form ripping through his human skin. Introduced in the episode "Independence Day", Desmond is a senior member of [[Project Cadmus]] who answers directly to their [[board of directors]], the [[Secret Society of Super Villains#In other media|Light]]. He uses the Blockbuster serum to fight the [[List of Young Justice characters#"The Team"|Team]], but his lack of intelligence as Blockbuster leads to his defeat before the [[Justice League]] take him away. In "Terrors", Blockbuster became an inmate at [[Belle Reve (DC Comics)|Belle Reve]] prison, serves as muscle for [[Icicle (comics)|Icicle Sr.]], and attempts to take part in a mass breakout before he is defeated by an undercover [[Superboy (Kon-El)|Superboy]]. In "Usual Suspects", Blockbuster joins Lex Luthor, [[Queen Bee (comics)|Queen Bee]], [[Sportsmaster]], and Bane in meeting Superboy, [[Miss Martian]], and [[Artemis Crock|Artemis]]. In the ensuing fight, Superboy defeats Blockbuster once more.
+* Blockbuster is mentioned in the ''[[Arrow (TV series)|Arrow]]'' season seven episode "Star City Slayer".
+
+===Film===
+* Blockbuster was reportedly featured in [[David S. Goyer]]'s unproduced screenplay for a [[Green Arrow]] film project entitled ''[[Green Arrow in other media#Escape from Super Max|Escape from Super Max]]''. In the script, Blockbuster appeared as an inmate of the titular Super Max Penitentiary for Metahumans.<ref name="SuperMax">{{cite web|url=http://latinoreview.com/news/supermax-green-arrow-story-details-villains-inmates-gallery-4673|title=Supermax: Green Arrow Story Details + Villains/Inmates Gallery|last=Mayimbe|first=El|work=LatinoReview.com|date=May 19, 2008|access-date=April 2, 2019|archive-url=https://web.archive.org/web/20081013133359/http://latinoreview.com/news/supermax-green-arrow-story-details-villains-inmates-gallery-4673|archive-date=October 13, 2008|url-status=dead|df=mdy-all}}</ref>
+* An unnamed, [[Multiverse (DC Comics)|alternate universe]] version of Blockbuster appears in the animated film ''[[Justice League: Gods and Monsters]]'', with vocal effects provided by [[Marcelo Tubert]]. He and a group of terrorists fight their universe's [[Justice League]] before [[Man-Bat|Batman]] kills him.
+* The Roland Desmond incarnation of Blockbuster makes a minor appearance in the animated film ''[[Batman: Bad Blood]]'', voiced by [[John DiMaggio]].<ref>{{cite web|url=http://www.comicbookresources.com/article/exclusive-nightwings-romantic-life-takes-a-hit-in-batman-bad-blood-clip|title=Exclusive: Nightwing's Romantic Life Takes a Hit in "Batman: Bad Blood" Clip|last=Gerding|first=Stephen|work=Comic Book Resources|date=January 13, 2016|access-date=January 14, 2016}}</ref>
+* The Mark Desmond incarnation of Blockbuster appears in the animated film ''[[Scooby-Doo! & Batman: The Brave and the Bold]]'', with vocal effects provided by [[Fred Tatasciore]]. He and [[Bane (DC Comics)|Bane]] join forces to ambush Mystery Incorporated, but [[Shaggy Rogers]] and [[Scooby-Doo (character)|Scooby-Doo]] distract the villains to help their friends escape. 
+* The Roland Desmond incarnation of Blockbuster appears in the animated film ''[[Suicide Squad: Hell to Pay]]'', with vocal effects provided by [[Dave Fennoy]]. This version is one of [[Professor Zoom]]'s henchmen, having joined him in exchange for "having his own island". Blockbuster is later killed by [[Killer Frost]].
+
+===Video games===
+* The Mark Desmond incarnation of Blockbuster appears as a [[boss (video game)|boss]] in ''[[Young Justice: Legacy]]'', voiced by [[Mark Rolston]].
+* The Roland Desmond incarnation of Blockbuster appears in ''[[Batman: The Telltale Series]]'', voiced by [[Steve Blum]]. This version has blue skin and is a member of the Children of Arkham, a group of terrorists who seek to purge [[Gotham City]] of its corruption. Additionally, he serves as second-in-command to the [[Penguin (character)|Penguin]], who in turn answers to the group's leader, [[Vicki Vale|Lady Arkham]]. While the Children of Arkham raid the Skyline Club, Batman arrives to stop them. Following the Dark Knight's discussion with Penguin, the latter escapes while Blockbuster fights the former until he is defeated. Blockbuster survives to join the Children of Arkham attack a mayoral debate, bringing Vicki Vale out to host the event and defeating several [[Gotham City Police Department|GCPD]] officers when they attempt to stop the terrorists. Batman arrives to defeat them once more, subduing Blockbuster with an EMP mine before arresting him and the other Children of Arkham members present while the Penguin escapes once again. Blockbuster is remanded to [[Arkham Asylum]], where he recovers and makes minor appearances throughout the rest of the series.
+
+==See also==
+* [[List of Batman Family adversaries]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.dcuguide.com/chronology.php?name=blockbuster The Unofficial Blockbuster Chronology]
+
+{{Batman characters}}
+{{Justice League characters}}
+{{Robin}}
+{{Starman}}
+{{Steel}}
+{{Young Justice}}
+{{Gardner Fox}}
+
+{{DEFAULTSORT:Blockbuster (Comics)}}
+[[Category:Comics characters introduced in 1965]]
+[[Category:Comics characters introduced in 1989]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:Fictional businesspeople]]
+[[Category:Fictional characters who have made pacts with devils]]
+[[Category:Fictional chemists]]
+[[Category:Fictional gangsters]]
+[[Category:Fictional mad scientists]]
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics supervillains]]
+[[Category:Fictional murderers]]
+[[Category:Characters created by Carmine Infantino]]
+[[Category:Fictional scientists]]
+[[Category:Fictional characters with albinism]]
+[[Category:Characters created by Gardner Fox]]
+[[Category:Characters created by Roger Stern]]
+[[Category:Suicide Squad members]]

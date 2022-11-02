@@ -1,0 +1,55 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Proxima Midnight
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[Marvel Comics]]
+| debut          = [[The New Avengers (comics)|New Avengers]]'' Vol. 3 #8
+| first_series   = 
+| first_episode  = 
+| first_comic    = 
+| creators       = [[Jonathan Hickman]]
+| voiced_by      = 
+| based_on       = 
+| alter_ego      = 
+| full_name      = 
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = Black Order<br>[[Cabal (comics)|Cabal]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = Superhuman strength, speed, durability, and endurance<br>Master hand to hand combatant
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = 
+| sortkey        = {{PAGENAME}}
+| addcharcat#    = 
+|}}
+
+'''Proxima Midnight''' is a fictional character from [[Marvel Comics]].
+
+==Fictional character biography==
+Proxima Midnight is one of the Black Order, who serve [[Thanos]].
+
+Promixa Midnight and the rest of The Black Order (which also consisted of [[Corvus Glaive]], Black Dwarf, Ebony Maw, and Supergiant) arrive on Earth and appeared at the different parts of the Earth to confront the [[Illuminati (comics)|Illuminati]]. Proxima arrived at [[Atlantis (Marvel Comics)|Atlantis]].<ref>''New Avengers'' Vol. 3 #8</ref> [[Namor]]'s kingdom was destroyed by Proxima Midnight during [[Thanos]]'s invasion.<ref>''New Avengers'' Vol. 3 #9</ref>
+
+As the Avengers have left Earth to fight the Builders, Thanos has come to tear the Illuminati apart. Proxima Midnight desires to destroy the city, so she  and her troops jump out of Thanos' ship and land in New York. She stands up in a crater and commands her host to hunt and kill. [[Monica Rambeau|Spectrum]] hears the explosions and goes to help out. Her [[Blade (comics)|mysterious guest]] says he cannot be seen in America, and needs her help for a mysterious mission, but she is adamant... he is in a costume shop, and if he wants her help, he'll put on a costume and come help her. At the impact point, Proxima Midnight is leading her people when [[Luke Cage]], [[The Superior Spider-Man|Superior Spider-Man]] ([[Doctor Octopus]]' mind in [[Spider-Man|Peter Parker]]'s body), and [[Monica Rambeau|Spectrum]] all show up at the same time. They are suddenly joined by Spectrum's mystery man who is wearing a "[[Blade (comics)|Spider Hero]]" costume.<ref>''Mighty Avengers'' Vol. 2 #1</ref> The [[The Mighty Avengers|Mighty Avengers]] continue to battle the forces of Proxima Midnight. Spectrum is seriously injured. Bystanders help the Avengers get back in the fight. Thanos appears in hologram form berating Proxima Midnight for her failure to destroy the city.<ref>''Mighty Avengers'' Vol. 2 #2</ref>
+
+The event ended with the defeat of Thanos's forces and the capture of Thanos and his generals Proxima Midnight and Corvus Glaive, all three of whom were imprisoned in amber in "a state of living death" by Thanos's son Thane.<ref>''Infinity'' #6</ref> They joined the [[Black Swan (comics)|Black Swan]] and [[Terrax|Terrax the Enlightened]] as Illuminati prisoners.{{issue|date=July 2014}} They were later freed by [[Namor]] and formed the new [[Cabal (comics)|Cabal]].<ref>''New Avengers'' Vol. 3 #23</ref>
+
+==Powers and abilities==
+Proxima Midnight has superhuman strength, speed, durability, and endurance. She's also a master hand to hand combatant.
+
+==In other media==
+===Video games===
+* Proxima Midnight appears in ''[[Marvel: Avengers Alliance]]''. She appears in Spec-Ops #13 which is based on the ''Infinity'' storyline.
+
+==References==
+{{reflist}}
+
+[[Category:Marvel Comics supervillains]]
+
+{{Marvel-villain-stub}}

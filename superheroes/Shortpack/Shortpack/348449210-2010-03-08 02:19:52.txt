@@ -1,0 +1,33 @@
+{{Unreferenced|date=December 2009}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = [[File:Shortpack - mystique 03.png]]
+| caption = Shortpack
+| comic_color = background:#ff8080
+| character_name = Shortpack
+| publisher = [[Marvel Comics]]
+| debut =  ''Mystique #3''
+| creators = [[Brian K. Vaughan]]<BR>[[Jorge Lucas]]
+| alliance_color = background:#cccccc
+| alter_ego = classified 
+| species= [[Mutant (Marvel comics)|Human Mutant]]
+| alliances = 
+| previous_alliances =  [[Prudence (comics)|Prudence]]<BR>[[Mystique (comics)|Mystique]]
+| aliases = 
+| powers = Short-range telepathy and small size
+}}
+
+'''Shortpack''' is a [[fictional character]], a [[telepath]]ic [[Mutant (Marvel comics)|mutant]] in the [[Marvel Comics]] [[Marvel Universe|Universe]]. His first appearance was in ''Mystique #3'', created by [[Brian K. Vaughan]] and [[Jorge Lucas]].
+
+==Biography==
+Shortpack's mutation also came with a severe price: his body began shrinking at puberty. If not for the meditative exercises he learned from [[Professor X]], he likely would have shrunk to a microscopic size. Unfortunately for him, he cannot control his power to grow and shrink further, and so he remains about 8&nbsp;inches tall. Shortpack was recruited by Professor Charles Xavier to be a field handler for the clandestine operatives in his employ. Shortpack's first agent was [[Prudence Leighton]] (Agent 16), who was seemingly killed by the arms dealer [[Prudence Leighton|Steinbeck]]. 
+
+The next agent to be assigned to him was the former mutant terrorist/freedom fighter, [[Mystique (comics)|Mystique]], but when the two met in [[Cuba]] for the first time, Shortpack did not know about her terrorist background. After handling Mystique on a few missions, Shortpack was contacted by the Quiet Man, who offered him a way to exact vengeance on Steinbeck for killing Prudence. He tried to get [[Fantomex]] to kill Steinbeck for him, but was refused, though Fantomex brought him to what he thought was Steinbeck's lair. Instead, Shortpack found that his target was his benefactor — the Quiet Man was Prudence's mind in Steinbeck's body, and the exchange had driven her mad. S/he captured Shortpack and used him as bait for Mystique, who had replaced her. Shortpack was eventually rescued by Mystique and presumably still works for Xavier. It is unknown if Shortpack lost or retained his mutant powers after the [[Decimation (comics)|M-Day]].
+
+==Powers and abilities==
+Shortpack possesses short-range [[telepathy]]. Additionally, he is very small, about 8&nbsp;inches tall.
+
+[[Category:Marvel Comics characters]]
+[[Category:Fictional secret agents and spies]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics telepaths]]
+[[Category:Fictional characters with dwarfism]]

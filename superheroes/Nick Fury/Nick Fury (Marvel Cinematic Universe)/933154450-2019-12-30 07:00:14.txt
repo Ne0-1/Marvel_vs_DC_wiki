@@ -1,0 +1,154 @@
+{{Use mdy dates|date=April 2019}}
+{{short description| character in the Marvel Cinematic Universe}}
+{{Infobox character
+| color              = #AF181F
+| name               = Nick Fury
+| franchise          = [[Marvel Cinematic Universe]]
+| image              = 
+| image_upright      = 
+| caption            = 
+| first_major        = 
+| first_date         = 
+| creator            = {{Plainlist|
+* [[Stan Lee]]
+* [[Jack Kirby]]
+}}
+| adapted_by         = {{Plainlist|
+* [[Mark Fergus and Hawk Ostby|Mark Fergus<br />Hawk Ostby]]
+* [[Art Marcum and Matt Holloway|Art Marcum<br />Matt Holloway]]
+}}
+| portrayer          = [[Samuel L. Jackson]]
+| full_name          = Nicholas "Nick" Joseph Fury
+| title              = {{Plainlist|
+* [[Colonel]] ([[United States Army|U.S. Army]])
+* Director of [[S.H.I.E.L.D.]]
+}}
+| occupation         = {{Plainlist|
+* [[List of S.H.I.E.L.D. members|Agent]] of [[S.H.I.E.L.D.]]
+* [[Central Intelligence Agency|CIA]] agent
+* [[Organizational founder|Founder]] of the [[Avengers (comics)|Avengers]]
+}}
+| family             = 
+| spouse             = 
+| children           = 
+| affiliation        = {{Plainlist|
+* [[Avengers (comics)|Avengers]]
+* [[Central Intelligence Agency]]
+* [[Maria Hill]]
+* [[S.H.I.E.L.D.]]
+* [[Skrulls]]
+* [[United States Army]]
+}}
+| nationality        = American
+| series             = 
+| alt                = 
+| first              = {{Plainlist|
+* ''[[Iron Man (2008 film)|Iron Man]]'' (2008)
+* ''[[Captain Marvel (film)|Captain Marvel]]'' (2019) {{small|([[Chronology|chronologically]])}}
+}}
+| last               = 
+| based_on           = {{Plainlist|
+* [[Nick Fury]]
+* [[Ultimate Nick Fury]] {{small|(likeness)}}
+}}
+| voice              = 
+| origin             = 
+| home               = 
+}}
+'''Nicholas J. Fury''' is a [[character (arts)|fictional character]] portrayed by [[Samuel L. Jackson]] in the [[Marvel Cinematic Universe]] (MCU) [[film franchise]], based on the [[Marvel Comics]] character [[Nick Fury|of the same name]].
+
+{{As of|2020}}, Fury has appeared in eleven MCU films.
+
+==Concept, creation, and characterization==
+Fury originally appeared in [[American comic book]]s published by [[Marvel Comics]]. Created by writer/artist [[Jack Kirby]] and writer [[Stan Lee]], Fury [[first appeared]] in ''[[Sgt. Fury and his Howling Commandos]]'' #1 (May 1963), a [[World War II]] [[war comics|combat series]] that portrayed the cigar-chomping Fury as leader of an elite [[U.S. Army]] unit. A popular character over a number of decades, in 2011, Fury was ranked 33rd in [[IGN]]'s Top 100 Comic Book Heroes,<ref>{{cite web|url= http://www.ign.com/top/comic-book-heroes/33|title= Nick Fury – #33 Top Comic Book Heroes|publisher= IGN|archiveurl= https://www.webcitation.org/6Ec64ySqU?url=http://www.ign.com/top/comic-book-heroes/33|archivedate= February 22, 2013|url-status= live|accessdate= May 29, 2012}}</ref> and 32nd in their list of "The Top 50 Avengers".<ref>{{cite web |date= April 30, 2012|title= The Top 50 Avengers |url= http://www.ign.com/top/avengers/32|publisher= IGN|archiveurl= https://web.archive.org/web/20151117074539/http://www.ign.com/top/avengers/32|archivedate= November 17, 2015|url-status= live |accessdate= July 28, 2015}}</ref> He has sometimes been considered an antihero.
+
+According to the audio commentary of ''[[Fantastic Four: Rise of the Silver Surfer]]'', director [[Tim Story]] said the script originally contained Nick Fury, but the role eventually became that of General Hager (played by [[Andre Braugher]]), as having Fury would have forced [[20th Century Fox|Fox]] to purchase the rights to that character.<ref>Story, Tim; ''Fantastic Four: Rise of the Silver Surfer'' - Audio Commentary</ref>
+
+<!-- File:Samuel L Jackson as Nick Fury.jpg|thumb|170px|Samuel L Jackson as Nick Fury in ''[[Iron Man (2008 film)|Iron Man]]''.]] -->
+
+* [[Samuel L. Jackson]] initially signed a nine-film contract with Marvel to portray Nick Fury in the [[Marvel Cinematic Universe]].<ref>{{cite web|url=http://www.ign.com/articles/2014/01/24/samuel-l-jackson-says-his-marvel-contract-is-almost-up |title=Samuel L. Jackson Says His Marvel Contract is Almost Up|publisher=IGN.com |date= |accessdate=2014-02-12}}</ref> Jackson has also confirmed that, while 2019's ''[[Captain Marvel (film)|Captain Marvel]]'' marked the end of his nine-film contract with Marvel, he will continue to portray Fury in future films.<ref>{{cite web|url=https://www.hollywoodreporter.com/features/how-samuel-l-jackson-became-hollywoods-bankable-star-1174613|title=120 Movies, $13 Billion in Box Office: How Samuel L. Jackson Became Hollywood's Most Bankable Star|publisher=[[The Hollywood Reporter]]|last=Abramovitch|first=Seth|date=January 9, 2019|accessdate=January 20, 2019}}</ref>
+** Fury first appears in the [[post-credits scene]] of ''[[Iron Man (2008 film)|Iron Man]]'', meeting [[Iron Man in film#Marvel Cinematic Universe|Tony Stark]] at his Malibu home to discuss the Avengers Initiative.
+** In ''[[Iron Man 2]]'', Fury sends in [[Natasha Romanoff (Marvel Cinematic Universe)|Natasha Romanoff]] to pose as an assistant to and assess Stark to see if he is worth recruiting for the Initiative and helps Stark deal with his palladium illness and Ivan Vanko and at the end of the film hires him as a consultant for the Avengers Initiative.
+** Fury makes a cameo in the post-credits scene of ''[[Thor (film)|Thor]]'', enlisting [[Erik Selvig]] to study the Tesseract.
+** At the end of ''[[Captain America: The First Avenger]]'', Fury informs [[Captain America in film#Marvel Cinematic Universe|Steve Rogers]]: "You've been asleep, Cap, for almost seventy years." He later appears in the post-credits scene to propose a mission to Rogers which leads into ''[[The Avengers (2012 film)|The Avengers]]''.
+** In ''The Avengers'', Fury brings the titular team together when [[Loki (comics)|Loki]] arrives on Earth to take the Tessaract in order to lead the [[Chitauri]] invasion.
+** In ''[[Captain America: The Winter Soldier]]'',<ref name="TheWinterSoldier">{{cite web |date=2012-06-06 |first=Jeff |last=Sneider |title=Russo brothers tapped for 'Captain America 2': Disney and Marvel in final negotiations with 'Community' producers to helm pic |url=http://www.variety.com/article/VR1118055101?refCatId=13 |work=[[Variety (magazine)|Variety]] |accessdate=2012-07-03 |archiveurl=https://www.webcitation.org/69D0LgrF6 |archivedate=2012-07-16 |url-status=live}}</ref> an attempt is made on Fury's life by [[Hydra (comics)|Hydra]], which is revealed to have taken over S.H.I.E.L.D. Once Hydra's plan to control the world is foiled, Fury fakes his death and heads to Eastern Europe to hunt down the remaining Hydra cells.
+** In ''[[Avengers: Age of Ultron]]'', Fury shows up on [[Hawkeye (Clint Barton)|Clint Barton]]'s farm to help and motivate the Avengers formulate a plan to stop [[Ultron]] from destroying humanity. He and other former agents of S.H.I.E.L.D. use a helicarrier to help the Avengers in the final battle against Ultron. He also appears at the end of the film, helping the Avengers get their new headquarters up and running.
+** In the post-credit scene of ''[[Avengers: Infinity War]]'', Fury and Maria Hill discuss the Avengers' battle against [[Thanos]]'s forces in Wakanda, and Tony Stark's current status when they begin to disintegrate with half of the universe. Before fading away completely, Fury uses a special device to send a distress call to [[Carol Danvers|Captain Marvel]].
+** A younger version of Fury appears with both eyes in ''[[Captain Marvel (film)|Captain Marvel]]'', which is set in the 1990s. Towards the end of the film, Fury loses sight in his left eye after being scratched by the Flerken/cat Goose, and is inspired to create the Avengers Initiative by Danvers' example, naming the protocol after her old callsign.<ref>{{cite web |url=https://www.denofgeek.com/us/movies/marvel/279392/captain-marvel-goose-the-cat-history |title=Captain Marvel: The History of Goose the Cat |first=Della |last=Harrington |website=Den of Geek! |publisher=[[Dennis Publishing]] |date=February 28, 2019 |accessdate=March 6, 2019}}</ref> Jackson was digitally de-aged to fit into the timeframe of the film.<ref>http://www.cbr.com/marvel-studios-panel-sdcc-2017/</ref>
+** Fury appears at the end of ''[[Avengers: Endgame]]'' during the funeral for Stark, having been revived by [[Bruce Banner (Marvel Cinematic Universe)|Bruce Banner]] using the Infinity Stones.<ref>{{cite web|url=https://screenrant.com/spider-man-far-home-meet-fury-endgame/|title=Far From Home Explains Why Nick Fury & Spider-Man Didn't Meet in Endgame|last=Hood|first=Cooper|website=[[Screen Rant]]|date=June 3, 2019 |accessdate=June 25, 2019|archiveurl=https://web.archive.org/web/20190608001617/https://screenrant.com/spider-man-far-home-meet-fury-endgame/|archivedate=June 8, 2019}}</ref>
+** Fury appears again in ''[[Spider-Man: Far From Home]]''.<ref name="HWRbank">{{cite web|url=https://www.hollywoodreporter.com/features/how-samuel-l-jackson-became-hollywoods-bankable-star-1174613|title=120 Movies, $13 Billion in Box Office: How Samuel L. Jackson Became Hollywood's Most Bankable Star|last=Abramovitch|first=Seth|publisher=[[The Hollywood Reporter]]|date=January 9, 2019|accessdate=January 20, 2019|archiveurl=https://web.archive.org/web/20190510121204/https://www.hollywoodreporter.com/features/how-samuel-l-jackson-became-hollywoods-bankable-star-1174613|archivedate=May 10, 2019}}</ref> He recruits Peter Parker, who is on vacation in Europe, to battle the [[Elementals (Marvel Comics)|Elementals]] alongside [[Mysterio]]. However the post-credits scene reveal him as Talos with Soren revealed to have been posing as Fury and Hill the entire time, as they were hired by Fury who is taking vacation in space.
+
+==Fictional character biography==
+In 1995, [[Kree]] Empire's capital planet of Hala, [[Starforce]] member [[Carol Danvers|Vers]] crash-lands in Los Angeles, drawing [[S.H.I.E.L.D.]] agents Nick Fury and [[Phil Coulson]] to investigate. In an ensuing Skrull attack, Fury kills a Skrull impersonating Coulson. Skrull commander [[Talos (comics)|Talos]], disguised as Fury's boss Keller, orders Fury to work with Vers and keep tabs on her. Vers, escaping capture by the Skrull, uses memories they have extracted to bring Fury to the [[Project Pegasus]] installation at a [[U.S. Air Force]] base. They discover Vers was a pilot presumed to have died in 1989 while testing an experimental jet engine designed by Dr. [[Captain Marvel (Mar-Vell)|Wendy Lawson]], whom Vers recognizes as a woman from her nightmares. After Fury informs S.H.I.E.L.D. of their location, a team led by Talos disguised as Keller arrives. Fury discovers Talos's ruse and helps Vers escape in a cargo jet with Lawson's stowaway cat Goose. They fly to [[Louisiana]] to meet former pilot Maria Rambeau, the last person to see Vers and Lawson alive. Later, Danvers, Talos, Fury, and Rambeau locate Lawson's cloaked laboratory orbiting Earth, where Lawson hid several Skrulls, including Talos's family, and the [[Cosmic Cube|Tesseract]], the power source of Lawson's engine. Danvers is captured by Starforce, and in the subsequent battle, Fury retrieves Goose, who is revealed to be an alien [[Flerken]]. Goose swallows the Tesseract and scratches Fury, blinding his left eye. Danvers departs to help the Skrulls find a new homeworld, leaving Fury a modified [[pager]] to contact her in an emergency. Meanwhile, Fury drafts an initiative to locate heroes like Danvers, naming it after her Air Force [[Aviator call sign|call sign]], "Avenger".
+
+{{quote|Fury eventually became the Deputy Chief of S.H.I.E.L.D.'s Bogota station, and it was there that he proved his leadership mettle. When Colombian rebels took several political officers hostages at the country's embassy, including Pierce's daughter, Fury came up with a plan to get the hostages out. Pierce nixed the idea, preferring to negotiate with the rebels, but Fury ignored those orders and implemented his plan anyway.Fortunately, all the hostages were freed, and despite being disobeyed, Pierce was impressed with how Fury handled the crisis and promoted him to Director of S.H.I.E.L.D. when he stepped down to take a spot on the World Security Council.<ref>https://www.cinemablend.com/news/2456051/captain-marvel-what-we-know-so-far-about-nick-furys-past</ref>}}
+
+Over a decade later, after [[Tony Stark (Marvel Cinematic Universe)|Tony Stark]] reveals himself to be the hero known as Iron Man, Fury visits Stark in his home and recruits him into the Avengers initiative. Similarly, after [[Steve Rogers (Marvel Cinematic Universe)|Steve Rogers]] is recovered from decades of being frozen, Fury oversees the waking of Rogers, and his reintroduction to society. Following [[Thor (Marvel Cinematic Universe)|Thor]]'s brief banishment from Asgard to Earth, Fury also enlists [[Erik Selvig]] to study the Tesseract. Fury is present when Loki attacks a S.H.I.E.L.D. facility to steal the Tesseract and take control of Clint Barton. Fury calls in Natasha Romanoff and arranges the bringing together of Stark, Rogers, and [[Bruce Banner (Marvel Cinematic Universe)|Bruce Banner]] to fight the threat Loki and his invading Chitauri army pose to New York City. Some time later, an attempt is made on Fury's life by [[Hydra (comics)|Hydra]], which is revealed to have taken over S.H.I.E.L.D. Once Hydra's plan to control the world is foiled, Fury fakes his death and heads to Eastern Europe to hunt down the remaining Hydra cells. After Tony Stark creates the program Ultron, which turns out to be villainous and forces the Avengers into hiding, Fury shows up on Clint Barton's farm to help and motivate the Avengers formulate a plan to stop Ultron from destroying humanity. He and other former agents of S.H.I.E.L.D. use a helicarrier to help the Avengers in the final battle against Ultron, and later helps the Avengers get their new headquarters up and running.
+
+After Thanos succeeds in obtaining the Infinity Stones and snaps to destroy half of life in the universe, Fury and Maria Hill are seen discussing the Avengers' battle against [[Thanos]]'s forces in Wakanda, and Tony Stark's current status, when both begin to disintegrate. Before fading away completely, Fury uses a special device to send a distress call to [[Carol Danvers|Captain Marvel]]. When the Avengers reassemble the Infinity Stones and undo the snap five years later, Fury is brought back, and attends the funeral of Tony Stark, who had sacrificed himself to save the universe. Eight months later, Fury and Hill investigate an unnatural storm in Mexico, and later encounter the Earth [[Elementals (Marvel Comics)|Elemental]]. A super-powered man, [[Mysterio|Quentin Beck]], arrives to fight the creature. Fury later meets with Peter Parker and gives him Tony Stark's glasses, which were meant for Stark's successor. The glasses are equipped with the [[artificial intelligence]] E.D.I.T.H., which has access to all databases of [[Stark Industries]], and commands a large [[Space weapon|orbital weapons supply]]. Parker rejects Fury's call to arms, opting to rejoin his class, but Fury covertly redirects the school trip's itinerary to [[Prague]], where the Fire Elemental is projected to strike. In a post-credits scene, the [[Skrull]]s [[Talos (comics)|Talos]] and Soren are revealed to have been masquerading as Fury and Hill the whole time, as directed by the real Fury, who commands a Skrull spaceship.
+
+==Reception==
+
+===Accolades===
+{{Anchor|Awards|Accolades}}
+{| class="wikitable sortable" style="width: 100%;"
+|-
+! Year
+! Award
+! Category
+! Work
+! Result
+! scope="col" class="unsortable"| Ref.
+|-
+| [[41st Saturn Awards|2014]]
+| [[Saturn Award]]
+| [[Saturn Award for Best Supporting Actor|Best Supporting Actor]]
+| ''[[Captain America: The Winter Soldier]]''
+| {{nom}}
+|
+|-
+| [[2019 Teen Choice Awards|2019]]
+| [[Teen Choice Awards]]
+| Choice Action Movie Actor
+| ''[[Captain Marvel (film)|Captain Marvel]]''
+| {{nom}}
+|
+|-
+|}
+
+==See also==
+* [[Outline of the Marvel Cinematic Universe]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://marvelcinematicuniverse.fandom.com/wiki/Nick_Fury Nick Fury] at Marvel Cinematic Universe Wiki
+* {{Marveldatabase|Nicholas Fury (Earth-199999)|Marvel Cinematic Universe War Machine}}
+* [https://www.marvel.com/characters/nick-fury At Marvel.com]
+
+{{Nick Fury}}
+{{Marvel Cinematic Universe}}
+
+{{DISPLAYTITLE:Nick Fury (Marvel Cinematic Universe)}}
+{{Draft categories|
+[[Category:African-American superheroes]]
+[[Category:Black characters in films]]
+[[Category:Fictional CIA agents]]
+[[Category:Fictional Central Intelligence Agency personnel]]
+[[Category:Fictional United States Army personnel]]
+[[Category:Fictional characters introduced in 2008]]
+[[Category:Fictional colonels]]
+[[Category:Fictional soldiers]]
+[[Category:Fictional spymasters]]
+[[Category:Fictional victims of genocide]]
+[[Category:Fictional vigilantes]]
+[[Category:Male characters in film]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Nick Fury in other media]]
+[[Category:S.H.I.E.L.D. agents]]
+[[Category:Superhero film characters]]
+}}
+
+[[Category:Marvel Cinematic Universe drafts]]

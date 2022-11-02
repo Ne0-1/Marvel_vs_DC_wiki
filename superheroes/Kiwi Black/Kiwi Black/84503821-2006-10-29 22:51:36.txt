@@ -1,0 +1,39 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Kiwi Black
+|real_name=unknown
+|species=[[mutant (fictional)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''Uncanny X-Men'' #429
+|creators=
+|alliance_color=background:#cccccc
+|status=[[Decimation (comics)|Depowered]]
+|alliances=[[Neyaphem]]
+|previous_alliances=
+|aliases=
+|relatives=[[Azazel (Marvel Comics)|Azazel]] (father), [[Nightcrawler]], [[Abyss (comics)|Abyss]] (half-brothers)
+|powers=Focuses energy through his body.
+|}}
+'''Kiwi Black''' is a fictional [[mutant (fictional)|mutant]] character in the [[Marvel Comics]] Universe. His first appearance was in ''Uncanny X-Men #429''.
+
+==History==
+He was a mutant bred by [[Azazel (Marvel Comics)|Azazel]] to help him transport his army to [[Earth]] from the hellish dimension they had been trapped in. Kiwi rejected his father’s influence, and allied himself with the [[X-Men]] in order to eliminate Azazel’s army.
+Kiwi Black lost his mutant powers after the [[Decimation (comics)|M-Day]] (powerloss confirmed in ''New Avengers #18'').
+
+==Notes==
+*Kiwi Black is the son of Azazel and the half-brother of [[Nightcrawler (comics)|Nightcrawler]] and [[Abyss (comics)|Abyss]].
+
+==Powers==
+Focuses energy through his body, increasing the potency of his attacks, increased strength, enhanced muscle mass.
+
+==Bibliography==
+*''Uncanny X-Men'' #429-434
+
+
+{{Marvel-Comics-stub}}
+
+[[Category:X-Men supporting characters]]
+[[Category:Fictional Māori]]
+[[Category:Marvel Comics mutants]]

@@ -1,0 +1,51 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Uxm252.jpg|200px]] -->
+|caption='''Donald Pierce''', center, from Uncanny X-men 252. <br>Art by Jim Lee. 
+|comic_color=background:#ff8080
+|character_name=Donald Pierce
+|real_name=
+|publisher=[[Marvel Comics]]
+|debut=''Uncanny X-Men'' #132 (Apr 1980)
+|creators=[[Chris Claremont]] and [[John Byrne]]
+|alliance_color=background:#c0c0ff
+|alliances=Reavers, Lady Deathstrike, Hellfire Club
+|aliases= White King
+|powers=Superhuman strength,<br>Mechanical genius
+|}}
+
+'''Donald Pierce''' is a [[comic book]] [[supervillain]] in the [[Marvel Comics]] universe. The character first appeared in ''Uncanny [[X-Men]]'' #132. He was created by [[Chris Claremont]] and [[John Byrne]]. Donald Pierce is a [[cyborg]].
+
+==Character Biography==
+
+Donald Pierce first appeared as a high ranking member of the [[Hellfire Club (comics)|Hellfire Club]] inner circle, where he held the position of White Bishop, during that organization’s first direct encounter with the X-Men. During this conflict, he battled [[Wolverine (comics)|Wolverine]], [[Nightcrawler (comics)|Nightcrawler]], and [[Colossus (comics)|Colossus]], and when Wolverine nearly severed his arm it was discovered that he was a cyborg. The Hellfire Club inner circle was eventually defeated and Donald Pierce’s whereabouts were unknown for several years.
+
+Later, he resurfaced with [[Lady Deathstrike]] and three cybernetically-resurrected mercenaries (Cole, Macon, and Reese) who had been fatally wounded by Wolverine during that first Hellfire club skirmish. All five characters were consumed by their desire for revenge against the X-Men and Wolverine in particular. To that end Pierce created an army of cyborgs out of low-life thugs and a few mercenaries. He named his army “The [[Reavers (comics)|Reavers]].”
+
+After rescuing the kidnapped banker Tyger Tiger from the Reavers, the X-Men expelled the cyborgs from their Australian outback headquarters, and appropriated the base for themselves (though Pierce was not present during this encounter, and was not yet revealed as the Reavers’ creator). The Reavers set out to defeat the X-Men, mounting a return to their old headquarters, this time with Pierce and Deathstrike present, but after the X-Men had escaped through the [[Siege Perilous (comics)|Siege Perilous]], they managed to capture only Wolverine, whom they tortured and [[Crucifixion|crucified]]. Wolverine subsequently escaped with Jubilee. At one point Pierce created two super intelligent sentient androids ([[Elsie-Dee]] and [[Albert (comics)|Albert]]) to kill Wolverine but they developed ethics and turned on Pierce and abandoned the Reavers. 
+
+A few years later a member of the Upstarts, [[Trevor Fitzroy]], sent reprogrammed Sentinels to destroy the Reavers, as they were a threat to mutants and Pierce (as the former White King) was worth a lot of points in the deadly game the Upstarts played. Only Lady Deathstrike and Cylla escaped and it appeared that Pierce had been destroyed. The other Reavers were completely annihilated. Despite his seeming demise, he later resurfaced and troubled the X-Men once more. He recently started an anti-mutant hate group and enlisted several members. He revealed a plot to take militant terrorist actions against mutants and was thwarted by the X-Men. He was beaten by Wolverine in hand-to-hand combat even though he is several times stronger than Logan. It was revealed that ''very'' little (if any) of Pierce’s human tissue remains, which explains how he was able to survive the massacre in Australia with only his head and portions of his upper torso intact.
+
+Pierce recently tried to take over [[Sebastian Shaw (comics)|Sebastian Shaw]]’s new Hellfire Club, launching an attack and slashing Shaw’s chest. Though Shaw was left critically injured and later needed to be hospitalized, he was able to punch off Pierce’s head. Whether or not Pierce could survive such an attack, his fate remains uncertain.
+
+==Powers and abilities==
+{{unreferenced|date=September 2006}}
+Donald Pierce is a cyborg with superhuman strength. His reflexes and agility are also inhumanly fast. These attributes are derived from his artificial body. His body has great resistance to damage and even if it is destroyed, as long as his head is intact he will probably survive. There is nothing left of his original human body except the head, and how much of the head is even original is unknown. It is unknown if he still has his original brain or if he uploaded his memories, intelligence, and thought [[Engram (neuropsychology)|engrams]] into a cyborg computer brain.
+
+Aside from his physical advantages, Donald Pierce is a genius in robotics, cybernetics, and electronics. In these fields he has developed technology that exceeds that of conventional science by approximately two centuries. He also has vast financial resources (a requirement for membership in the Hellfire club).
+
+==Alternate Versions==
+
+* In the '''[[Age of Apocalypse]]''', Pierce was the leader of the Reavers, a band of human assassins enhanced by Apocalypse's techno-organic virus. Thanks to the virus, Pierce had regenerative abilities and the power to assimilate both organic and non-organic material to mutate himself. Pierce infiltrated the territory of the Human High Council in an attempt to destroy the Council fleet and later attempted to kill [[Gateway (comics)|Gateway]], an ally of the HHC. After the fleet was assembled for an attack on [[Apocalypse (comics)|Apocalypse]]'s empire, Pierce infected [[Carol Danvers]] with the remains of the Reaver Vultura to aid him in the destruction of the fleet. During his attack he also used Brian Braddock, who was under Apocalypse's mind control, to kill Emma Frost, though he resisted Pierce's orders, for which Pierce killed him. In the end, Pierce was killed by [[Wolverine (comics)|Weapon X]].
+
+* In the '''[[House of M]]''', Donald Pierce was a member of the Human Liberation Front, one of the many human resistance groups labeled as terrorists by the [[House of M]]. Alongside Seiji Ashida, the father of [[Surge (comics)|Surge]], he was part of the HLF's base in Tokyo, which had targeted Project Genesis, a plan of [[Sunfire|Emperor Sunfire]] to forcefully mutate baseline humans.
+
+* Donald Pierce has not appeared in the Ultimate Universe yet; however, fans have noted the numerous similarities between Pierce and [[Deadpool (comics)#Ultimate Deadpool|Ultimate Deadpool]].  In this incarnation, Deadpool is a mutant-hating cyborg who leads the Reavers, kidnapping Spider-Man and the X-Men to hunt for sport on Krakoa Island.
+
+==Trivia==
+
+Pierce’s name and appearance were initially modeled by John Byrne upon [[Donald Sutherland]]. The last name comes from Sutherland's character from the [[1970]] movie [[MASH (film)|''M*A*S*H'']], [[Hawkeye Pierce]].{{fact}}
+
+[[Category:X-Men villains|Pierce, Donald]]
+[[Category:Fictional cyborgs|Pierce, Donald]]
+[[Category:Fictional millionaires|Pierce, Donald]]
+[[Category:Hellfire Club members|Pierce, Donald]]

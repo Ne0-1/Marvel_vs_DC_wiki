@@ -1,0 +1,135 @@
+{{Infobox film
+| name           = Batman and Robin
+| image          = Batman&RobinSerialDVDCover.jpg
+| caption        = DVD cover art
+| director       = [[Spencer Gordon Bennet]]
+| producer       = [[Sam Katzman]]
+| writer         = [[George H. Plympton]]<br />[[Joseph F. Poland]]<br />Royal K. Cole
+| based on       = {{Based on|Characters|{{nowrap|[[Bob Kane]]}}<br />[[Bill Finger]]}}
+| starring       = [[Robert Lowery (actor)|Robert Lowery]]<br />[[Johnny Duncan (actor)|Johnny Duncan]]<br />[[Poni Adams|Jane Adams]]<br />[[Lyle Talbot]]<br />[[Ralph Graves]]<br />[[Don C. Harvey]]<br />[[William Fawcett (actor)|William Fawcett]]<br />Leonard Penn
+| music          = [[Mischa Bakaleinikoff]]
+| cinematography = Ira H. Morgan
+| editing        = Dwight Caldwell<br />[[Earl Turner (film editor)|Earl Turner]]
+| distributor    = [[Columbia Pictures]]
+| released       = {{Film date|1949|5|26|United States}}
+| runtime        = 15 chapters (263 minutes)
+| country        = <!-- See guidelines for "Country" at http://en.wikipedia.org/wiki/Template:Infobox_film -->
+| language       = English
+| budget         =
+}}
+'''''Batman and Robin''''' is a 15-chapter [[Serial film|serial]] released in 1949 by [[Columbia Pictures]]. [[Robert Lowery (actor)|Robert Lowery]] played [[Batman]], while [[Johnny Duncan (actor)|Johnny Duncan]] played [[Robin (comics)|Robin]]. Supporting players included [[Poni Adams|Jane Adams]] as [[Vicki Vale]] and veteran character actor [[Lyle Talbot]] as [[James Gordon (comics)|Commissioner Gordon]].
+
+==Plot==
+The Dynamic Duo face off against the Wizard, a hooded villain with an electrical device which controls cars and a desire to set challenges for the Dynamic Duo, whose identity remains a mystery throughout until the end.
+
+==Cast==
+* [[Robert Lowery (actor)|Robert Lowery]] as [[Batman]]/[[Bruce Wayne]]
+* [[Johnny Duncan (actor)|Johnny Duncan]] as [[Robin (comics)|Robin]]/[[Dick Grayson]]
+* [[Poni Adams|Jane Adams]] as [[Vicki Vale]]
+* [[Lyle Talbot]] as [[James Gordon (comics)|Commissioner Jim Gordon]]
+* [[Ralph Graves]] as Winslow Harrison
+* [[Don C. Harvey]] as Nolan, a [[henchman]]
+* [[William Fawcett (actor)|William Fawcett]] as Professor Hammil
+* [[Leonard Penn]] as Carter, Hammil's valet and [[Wizard (DC Comics)|The Wizard]]
+* [[Rick Vallin]] as Barry Brown, a radio announcer
+* [[Michael Whalen]] as Dunne, a private investigator
+* Greg McClure as Evans, a henchman
+* [[House Peters, Jr.]] as Earl, a henchman
+* Jim Diehl as Jason, a henchman
+* [[Rusty Wescoatt]] as Ives, a henchman
+* Eric Wilton as [[Alfred Pennyworth]] {{Small|(uncredited)}}
+* uncredited as Jimmie Vale, Vicki's brother and henchman
+
+==Production==
+[[File:Talbotgordon.JPG|thumb|left|Screen capture.]]
+"As usual on a Katzman production," note Harmon and Glut, "the low budget showed everywhere in money-saving shortcuts, and inadequacies." The Batman costume had a poorly fitting cowl and the Robin costume added pink tights to cover the "hairy-legs" of both the actor and stuntman. The [[Batmobile]] is again excluded, but instead of a limousine, as in the first serial, the duo drive around in a [[Mercury Eight|1949 Mercury]].<ref name="GMS">{{cite book
+| last = Harmon
+| first = Jim
+| coauthors= [[Donald F. Glut]]
+| authorlink = Jim Harmon
+| title = The Great Movie Serials: Their Sound and Fury
+| origyear = 1973
+| publisher = Routledge
+| isbn = 9780713000979
+| pages = 240–242
+| chapter = 10. The Long-Underwear Boys "You've Met Me, Now Meet My Fist!"
+}}</ref>
+
+Several mistakes and failures of logic occur in the serial. One example of this is that the film shows the [[Bat-Signal]] working in broad daylight. Another occurs when, despite the fact that the heroes' [[utility belt]]s had been replaced by normal belts with no pockets or pouches for this serial, in order to escape from a vault, Batman pulls the nozzle and hose of an [[Oxy-fuel welding and cutting|oxy-acetylene torch]] from his belt to cut through a steel door (the tanks for the torch are not shown); to compound this mistake, it is a full-sized oxy-acetylene torch that would have been impossible to carry unseen on his person. Harmon and Glut suggest that this was probably scripted to be a miniaturised 3-inch torch, as used in the comics, but the film-makers improvised in following the directions for a "blowtorch".<ref name="GMS" />
+
+==Release==
+===Home media===
+The serial was released on [[DVD]] in 2005, timed to coincide with the theatrical release of ''[[Batman Begins]]''.
+
+==Chapter titles==
+# ''Batman Takes Over''
+# ''Tunnel of Terror''
+# ''Robin's Wild Ride''
+# ''Batman Trapped''
+# ''Robin Rescues Batman''
+# ''Target - Robin!''
+# ''The Fatal Blast''
+# ''Robin Meets the Wizard''
+# ''The Wizard Strikes Back''
+# ''Batman's Last Chance''
+# ''Robin's Ruse''
+# ''Robin Rides the Wind''
+# ''The Wizard's Challenge''
+# ''Batman vs. Wizard''
+# ''Batman Victorious''
+<sub>Source:</sub><ref>{{cite book
+| last = Cline
+| first = William C.
+| title = In the Nick of Time
+| origyear = 1984
+| publisher = McFarland & Company, Inc.
+| isbn = 078640471X
+| pages = 249
+| chapter = Filmography
+}}</ref>
+
+==See also==
+*[[List of film serials]]
+*[[List of film serials by studio]]
+*[[List of films based on English-language comics]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb title|0041162|Batman and Robin}}
+* {{Allmovie title|143325|Batman and Robin}}
+
+{{s-start}}
+{{succession box 
+| title=[[Columbia Pictures|Columbia]] [[Serial (film)|Serial]]
+| before=''[[Bruce Gentry]]'' (1949)
+| years='''''Batman and Robin'' (1949)'''
+| after=''[[Adventures of Sir Galahad]]'' (1949)}}
+{{end}}
+
+{{Batman in popular media}}
+{{DC Comics films}}
+{{Columbia serials}}
+
+<!--[[WP:FILMCAT]]-->
+
+<!--Year categories-->
+
+{{DEFAULTSORT:Batman And Robin (Serial)}}
+[[Category:1949 films]]
+<!--Primary grouping categories-->
+[[Category:Batman films]]
+<!--Genre categories-->
+[[Category:Sequel films]]
+<!--Company categories-->
+[[Category:Columbia Pictures film serials]]
+<!--Additional categories-->
+[[Category:Films directed by Spencer Gordon Bennet]]
+
+[[ca:New Adventures of Batman and Robin, the boy-wonder]]
+[[de:Batman and Robin (1949)]]
+[[fr:Batman et Robin (serial)]]
+[[it:Batman and Robin (serial)]]
+[[nl:Batman and Robin (filmserie)]]
+[[pt:Batman & Robin (1949)]]

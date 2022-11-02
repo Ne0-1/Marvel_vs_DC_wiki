@@ -1,0 +1,33 @@
+{{Superherobox| 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Commander Kraken
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Sub-Mariner]] #27'' (Jul 1970)
+|creators=[[Roy Thomas]] and [[Sal Buscema]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[HYDRA]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}}
+ 
+'''Commander Kraken''' is a fictional character in the [[Marvel Universe]].
+
+==Fictional character biography==
+Commander Kraken was a self-styled modern-day [[pirate]] who first encountered and fought [[Namor|Namor the Sub-Mariner]].  He later underwent plastic surgery which drastically altered his appearance, sold his services to [[HYDRA]] and became their Naval Action Division Leader.  He fought Namor and [[Iron Man]] but lost against them.
+
+Later, Commander Kraken was invited to a meeting organized by Gary Gilbert, who wanted to discuss counter-measures against the threat by the [[Scourge of the Underworld]] at the "Bar With No Name". Kraken attended and was shot dead along with all the other criminals present by the Scourge himself, who had infiltrated the meeting as the bartender.
+
+==Abilities and Equipment==
+Commander Kraken had a hook on his left hand that was capable of emitting an electrical shock, but HYDRA later replaced this with a functional bionic hand.  His left leg was also bionic, and allowed him to fly.  His electro-sword was capable of firing electricity and could reflect force and energy attacks.
+
+Commander Kraken also used squid-shaped submarines with tentacles.
+
+[[Category:Fictional pirates]]
+[[Category:Marvel Comics supervillains]]

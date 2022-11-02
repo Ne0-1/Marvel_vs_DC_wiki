@@ -1,0 +1,99 @@
+{{for|other comics characters called Impulse|Impulse (comics)}}
+{{Infobox comics set and title
+<!--Wikipedia:WikiProject Comics-->
+<!--Character section-->
+|code_name           = Impulses
+|image               = <!-- filename format only -->
+|imagesize           = <!-- default 250 -->
+|caption             = 
+|alt                 = 
+|publisher           = [[DC Comics]]
+|debut               = ''[[Legion of Super-Heroes]]'' (vol. 4) 13
+|debutmo             = October
+|debutyr             = 1990
+|debutyr1            = 1994
+|creators            = 
+|characters          = [[Kent Shakespeare]]<br />[[Bart Allen ]]<br />[[Kid Flash (Iris West)|Iris West]]
+|seealso             = [[Flash (comics)|Flash]]<br />[[Kid Flash]]
+
+<!--Series section--> 
+|title               = Impulse
+|cvr_image           = <!-- filename format only -->
+|cvr_caption         = 
+|cvr_alt             = 
+|schedule            = Monthly
+|format              = 
+|ongoing             = Y
+|Superhero           = y
+|pub_series          = 
+|date                = 
+|1stishhead          = 
+|1stishyr            = 1995
+|1stishmo            = April
+|endishyr            = 2002
+|endishmo            = October
+|issues              = 90, 2 annual
+|main_char_team      = [[Bart Allen]]
+|writers             = 
+|artists             = 
+|pencillers          = 
+|inkers              = 
+|letterers           = 
+|colorists           = 
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = 
+|TPB                 = 
+|ISBN                = 
+|nonUS               = 
+|cat                 = super
+|subcat              = DC Comics
+|hero                = y
+|villain             = 
+|sortkey             = Impulse
+|sort_title          = Impulse
+|addcharcat#         = 
+|addpubcat#          = 
+}}
+'''Impulse''' is an identity shared by three [[comic book]] [[superhero]]es published by [[DC Comics]].
+
+==Publication history==
+[[Kent Shakespeare]] was the first DC Comics superhero known as Impulse, he debuted in ''[[Legion of Super-Heroes]]'' vol. 4 #12 (October 1990). [[Bart Allen]] is the second DC Comics superhero known as Impulse, he debuted in  ''[[Flash (comic book)|Flash]]'' vol. 2 #92 (June 1994). [[Kid Flash (Iris West)|Iris West]] is the third superhero known as Impulse, she debuted in ''Flash'' vol.2 #225 (October 2005)
+
+==Fictional character biography==
+
+===Kent Shakespeare===
+{{main|Kent Shakespeare}}
+Richard Kent Shakespeare was revealed to have used the codename in a flashback sequence in ''Legion of Super-Heroes'' vol. 4 #53.<ref>''Legion of Super-Heroes'' (vol. 2) Annual #3 (1984)</ref><ref>''Legion of Super-Heroes'' (vol. 4) #53 (January 1994)</ref>
+
+===Bart Allen===
+{{main|Bart Allen}}
+Suffering from a [[hypermetabolism|hyper-accelerated metabolism]], Bart Allen was aging at a faster rate than that of any human being thus causing him to appear the physical age of twelve when he was chronologically, and mentally only two years old. To prevent him from developing mental health problems, he was raised in a [[virtual reality]] machine which created a simulated world that kept pace with his own scale of time. When it became clear that this method was not helping, his grandmother, Iris Allen, took him back in time to the present where The Flash, [[Wally West]], tricked Bart into a race around the world. By forcing Bart into an extreme burst of speed, Wally managed to shock his hyper-metabolism back to normal.<ref>''[[The Flash (comic book)|Flash]]'' (vol. 2) #92 (July 1994)</ref> Because he had spent the majority of his childhood in a simulated world, Bart had no concept of danger and was prone to leaping before he looked. The youth proved to be more trouble than Wally could handle, and he was pawned off onto retired superhero speedster [[Max Mercury]], who moved Bart to [[Manchester, Alabama|Manchester]], [[Alabama]]. In ''Impulse'' #50, it was revealed that [[Batman]] actually named Bart "Impulse" as a warning, not a compliment.
+
+===Iris West===
+{{main|Kid Flash (Iris West)}}
+Iris West recently discovered that she and her brother were sharing access to the Speed Force, and decided to end that symbiotic relationship, taking all the power into herself. [[Jesse Chambers]], guided by the late [[Johnny Quick]], uses her ''Speed formula'' to save Iris' life. Iris embraces her new role, choosing to take up the mantle of [[Bart Allen|Impulse]], which Bart used before he joined the [[Teen Titans]] as Kid Flash.<ref>''[[Flash: Rebirth]]'' #5 (January 2010)</ref>
+
+==In other media==
+The Bart Allen version of Impulse is depicted in the live action series ''[[Smallville (TV series)|Smallville]]'' (played by [[Kyle Gallner]]) as well as the animated series ''[[Young Justice (TV series)|Young Justice]]'' (voiced by [[Jason Marsden]]).
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{comicbookdb|type=character|id=76|title=Impulse (Kent Shakespeare)}}
+*{{comicbookdb|type=character|id=54|title=Impulse (Bart Allen)}}
+*{{comicbookdb|type=character|id=37293|title=Impulse (Iris West)}}
+*{{gcdb series|id=5239|title=''Impulse''}}
+*{{comicbookdb|type=title|id=780|title=''Impulse''}}
+*{{Dmoz|Arts/Comics/Titles/F/Flash/Impulse|Impulse}}
+
+{{Flash}}
+
+{{DEFAULTSORT:Impulse (Dc Comics)}}
+<!--Categories-->
+[[Category:DC Comics titles]]
+[[Category:DC Comics superheroes]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:1995 comics debuts]]

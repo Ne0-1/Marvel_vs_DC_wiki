@@ -1,0 +1,70 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=[[Image:Chemistro.jpg|231px]]
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Chemistro I
+|real_name=Curtis Carr
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Luke Cage|Luke Cage, Hero For Hire]]'' #12 (Aug 1973)
+|creators=[[Steve Englehart]] and [[George Tuska]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives= Calvin Carr (brother)
+|powers=Chemistro's alchemy gun, as well as his wrist blasters, is capable of transmuting any material into any other form of matter. The devices are cybernetically linked to the user, enabling him to work any transformation he can imagine. The transformed material usually turns to dust after exposure to heat.
+|}} 
+
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Chemistro II
+|real_name=Arch Morton
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Power Man]]'' #37 (Nov 1976)
+|creators=[[Marv Wolfman]] and [[Ron Wilson (comics)|Ron Wilson]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Chemistro III
+|real_name=Calvin Carr
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Power Man and Iron Fist]]'' #94 (June 1983)
+|creators=[[Kurt Busiek]] and [[Ernie Chan]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=Curtis Carr (brother)
+|powers=
+|}} 
+
+Three people have taken the moniker '''Chemistro''' in the [[fictional character|fictional]] [[Marvel Comics]] [[Marvel Universe|universe]]. 
+
+The first, Curtis Carr, made his first appearance in [[Luke Cage|Luke Cage: Hero for Hire]] #12. While working as a chemist for Mainstream Motors, he created an "alchemy gun" capable of changing matter from one form to another by an unknown process (wood to glass, etc.). Horace Claymore, the company's president, was impressed until Curtis voiced his intent to keep the device. Claymore argued that since the gun was made on company time, it belonged to Mainstream. When Claymore fired him, Curtis adopted the persona of Chemistro to gain revenge and to extort his former employers.  
+
+In combat with [[Luke Cage]], Chemistro accidentally fired his alchemy gun at his own foot, turning it to steel, though the unstable nature of the transmutation soon caused it to crumble to dust, leaving him crippled.  He was turned over to the police, and in prison was beaten by his cellmate Arch Morton into revealing the means by which the alchemy gun worked.  
+
+Upon leaving prison, Morton replicated the alchemy gun, but it exploded in his hand, enabling him to transmute substances via touch.  He was ultimately apprehended, thanks in large part to the help of the original Chemistro.  
+
+More recently, Calvin Carr, Curtis' younger brother, took the name, and embarked on a criminal career that was foiled by Curtis' intervention on at least one occasion.
+
+{{Marvel-villain-stub}}
+[[Category:Marvel Comics supervillains]]
+[[Category:Black supervillains]]

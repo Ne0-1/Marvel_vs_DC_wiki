@@ -1,0 +1,23 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name = Nemesis Kid
+| publisher = [[DC Comics]]
+| debut = ''[[Adventure Comics]]'' #346 (July [[1966]])
+| creators = [[Jim Shooter]]
+| alter_ego = Hart Druiter
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = [[Legion of Super-Villains]]
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports= 
+| powers = Spontaneously develops powers to defeat a single opponent
+}}
+'''Nemesis Kid''' is the alias of '''Hart Druiter''', a [[comic book]] [[supervillain]] in the [[DC Comics]] [[DC Universe|universe]].  He lives in the [[future]] and is an enemy of the [[Legion of Super-Heroes]].  Created by [[Jim Shooter]], Nemesis Kid first appeared in ''[[Adventure Comics]]'' #346 (July [[1966]]).
+
+Nemesis Kid possessed the [[superhuman]] ability to spontaneously develop the powers appropriate to defeat any one opponent for the duration of the battle, though against more than one opponent his powers would either work against only one target, allow him to escape the situation, or fail to work at all.  In his first appearance, he infiltrated the Legion of Super-Heroes on behalf of the alien [[Khund]]s.  When his deception was revealed, he tried to frame [[Karate Kid (comics)|Karate Kid]] as the traitor; when that failed, he fled.
+
+He later became a founding member of the [[Legion of Super-Villains]].  When the Legion of Super-Villains invaded the [[planet]] [[Orando]] under his leadership, Nemesis Kid defeated Karate Kid in single combat and killed him.  Karate Kid's widow, [[Princess Projectra]], attacked Nemesis Kid using her power to generate [[illusion]]s. Once he had adapted an immunity to her illusions, Projectra attacked him, beating him unconscious, whereupon she broke his neck, killing him.
+
+[[Category:Legion of Super-Heroes villains]]

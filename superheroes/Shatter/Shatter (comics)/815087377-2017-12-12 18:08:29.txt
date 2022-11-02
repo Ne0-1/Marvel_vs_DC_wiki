@@ -1,0 +1,40 @@
+{{About|the Marvel Comics mutant|the First Comics digital comic|Shatter (digital comic)}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Shatter
+|real_name=
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''Morlocks'' #1 (June 2002)
+|creators=[[Geoff Johns]] and [[Shawn Martinbrough]]
+|alliances=[[Morlocks (comics)|Morlocks]]
+|aliases=
+|powers=Ability to crystallize liquids into solids,<br>Crystal body,<br>Accelerated [[healing factor]]
+}}
+'''Shatter''' is a fictional [[Mutant (Marvel Comics)|mutant]] character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Shatter first appeared in ''Morlocks #1'' and was created by [[Geoff Johns]] and [[Shawn Martinbrough]].
+
+==Fictional character biography==
+Shatter, a teenager living at home with his father, attempted suicide in response to his mutation activating. He attempted to shoot himself in the head, not realizing his mutated body made him virtually invulnerable, and the bullet left a massive, cracked depression on the side of his head, without doing any mortal damage. Shatter ran away from home, and at some point joined up with the [[Postman (comics)|Postman]]'s [[Morlocks (comics)|Morlocks]].{{issue|date=December 2012}} Sometime later, a mutant-hunting [[Sentinels (comics)|Sentinel]] robot blasted Shatter, blowing off his right arm.{{issue|date=December 2012}} 
+
+In the wake of [[Decimation (comics)|M-Day]]—an event in which a [[mentally ill]] [[Scarlet Witch]] depowered over 90% of the mutant population, Shatter was one of the many who lost his powers.<ref>Revealed in ''New Avengers'' #18</ref> The energies of his powers were detected in The Collective.{{issue|date=December 2012}}
+
+==Powers and abilities==
+Shatter's entire body is composed of a blue-black, diamond-hard, crystalline substance, which renders him invulnerable to most conventional attacks. He can regenerate lost limbs, and possesses the ability to crystallize any liquid substance he comes into contact with, such as water, oil, and presumably blood. Shatter’s main weapon is a wooden baseball bat, which he wields with great skill. He is also extremely intelligent.
+
+==In other media==
+* Shatter appears in the ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]'' episode "X-Calibre". He appears as a passenger aboard a ship under attack from Spiral and her Reavers. While he still has his crystalline form, his powers here differ where he can shatter objects when he is in contact with them.
+* Shatter appears in the [[live-action]] TV-series ''[[The Gifted (TV series)|The Gifted]]'' where he is played by [[Jermaine Rivers]].<ref name="Rivers">{{cite web|url=https://www.newsarama.com/g00/36387-macguyver-co-star-joins-fx-s-x-men-show-the-gifted-as-geoff-johns-created-shatter.html|title=MACGYVER Co-Star Joins Fox's X-MEN Show THE GIFTED As Geoff Johns-Created SHATTER|last=Arrant|first=Chris|publisher=[[Newsarama]]|date=September 14, 2017|accessdate=September 15, 2017|archiveurl=http://www.webcitation.org/6tUP5HN4o|archivedate=September 15, 2017|deadurl=no}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix/shattermorlockschi.htm|Shatter}}
+
+[[Category:Characters created by Geoff Johns]]
+[[Category:Comics characters introduced in 2002]]
+[[Category:Marvel Comics mutants]]

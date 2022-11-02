@@ -1,0 +1,63 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = [[Image:Ganthet.png|250px]]
+| caption = 
+| character_name = Ganthet
+| publisher = [[DC Comics]]
+| debut = ''Green Lantern: Ganthet's Tale'' (1992)
+| creators = [[Larry Niven]] (story)<br>[[John Byrne]] (script and art)
+| alter_ego = 
+| full_name =
+| species = Oan
+| homeworld = [[Oa]], <br>formerly [[Maltus (comics)|Maltus]]
+| alliances = [[Guardians of the Universe]]
+| partners = <!-- optional -->
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = Cosmic Energy Manipulation<br>Immortality<br>[[Telepathy]]<br>[[Telekinesis]]
+}}
+'''Ganthet''' is a [[fictional character]] in the [[DC Comics]] universe.  He first appeared in the 1992 [[graphic novel]] ''Green Lantern: Ganthet's Tale'' (ISBN 1-56389-026-7), by [[Larry Niven]] and [[John Byrne]].
+
+==Background==
+Ganthet is one of the [[Guardians of the Universe]]. However, where most of the Guardians are very stern 'by-the-book' characters, Ganthet has a personality that is more human-like, including displays of empathy and concern for an individual, instead of only thinking of the [[Green Lantern Corps]]. In various DC crossover [[limited series]], Ganthet is shown as being part of the Quintessence, a group of near-omnipotent beings who oversee the results of what happens on Earth.
+
+Although he has been portrayed as looking alike to the other Guardians, Ganthet is often distinguished by tying his hair into a long ponytail, as the other male Guardians have shorter, unkempt hair.
+
+==Ganthet's Tale==<!-- This section is linked from [[Larry Niven]] -->
+The graphic novel tells the story of [[Hal Jordan]]'s first encounters with Ganthet.  Jordan is asked to help Ganthet battle a renegade Guardian, Dawlakispokpok (or Dawly, for short) who is attempting to use a [[Time travel|time machine]] to change history. In the early era of the planet [[Oa]], a scientist named [[Krona (comics)|Krona]] attempted to use a time-machine to see the beginning of time. In using his time-machine, Krona somehow 'bled' the universe of a billion years of life. Dawly is going to use his own time machine to thrust Krona to the end of time, preventing him from following through on his plan. In battling Dawly, however, it turns out that Dawly is responsible for the mishap that caused the universe to be 'born old'. When Dawly's family is brought before the Guardians, Ganthet shields Jordan's mind, allowing him to retain his memory of one of the biggest secrets of the Guardians.
+
+==Emerald Twilight==
+{{main|Emerald Twilight}}
+After the destruction of [[Coast City]] (in the "[[Reign of the Supermen]]" storyline), the subsequent insanity of Hal Jordan, and the destruction of the Main Power Battery, the Guardians decide to focus all of their remaining power into Ganthet. As such, he becomes the last Guardian. Ganthet creates a new Green Lantern ring from Jordan's ring (which was crushed by the former Green Lantern after murdering [[Sinestro]]) and goes to Earth. He appears before [[Kyle Rayner]], hastily hands him the ring, muttering "You shall have to do".
+
+It is later revealed that Ganthet first went to [[Guy Gardner (comics)|Guy Gardner]] but Gardner turned him down. During Rayner's first few months as [[Green Lantern]], Ganthet is less than satisfied with Rayner and attempts to take back the ring. Rayner eventually earns the respect of Ganthet by facing [[Parallax (comics)|Parallax]] without his ring.
+
+==Ion and the new Guardians==
+When Rayner briefly becomes the godlike [[Ion (comics)|Ion]], he possesses more power than Hal Jordan did as Parallax. Realizing that he can not continue as Ion without losing his humanity, Kyle travels to the recently restored Oa to recharge the Central Power Battery. By doing so, he creates a new set of Guardians, this time as small children (both male and female), with the intent that Ganthet will look after them and teach them how to be better Guardians than their predecessors.
+
+Following the return of Hal Jordan, all the Guardians are aged to adulthood and are just as cold and manipulative as before.  The only change is that there are now female Guardians as well as male.  Ganthet, of course still retains a sense of individuality amongst the Guardians, believing that they should retain their emotions.
+
+During the Sinestro Corps War he and a female Guardian named [[Sayd]] are banished from the council for embracing emotions, along to have discovered that they have romantic feelings to each other.
+
+Just as Parallax (now back in his monster form) attacks the Lanterns for freeing Kyle Rayner, Ganthet and Sayd, arrive and draw Parallax into four separate lanterns (Hal, Kyle, John, and Guy's, respectively). As Ganthet explains, he and Sayd were kicked out of the Guardians of the Universe. Ganthet's final act as Guardian is to make Kyle a new power ring. He asks if Kyle is willing to downgrade himself to a normal Green Lantern, which Kyle quickly accepts. The four men then take their lanterns and hearing the Sinestro Corps oath, recite the Classic Green Lantern Oath, and depart to confront Sinestro's Corps.
+
+Ganthet and Sayd also explain to the four about the emotional energy spectrum created at the start of the universe that is separated into seven colors: green ([[Will (philosophy)|willpower]]), yellow ([[fear]]), violet ([[love]]), red ([[Rage (emotion)|rage]]), indigo ([[compassion]]), orange ([[greed]]), and blue ([[hope]]), each representing different forms of emotion, with green being the most center balanced of the energies. The further at one end an energy color is, the more wild its power is to control, leading to the energy corrupting its user. Ganthet also reveals that in the coming future, each color will have its own forces like the Lantern Corps, and these forces will fight against the others in a battle across the universe that will lead into the event known as "The Blackest Night", the worst of the hidden prophecies of the Book of Oa.
+
+At the end of the Sinestro Corps War, Ganthet and Sayd are currently living on an unknown planet, where they harness the blue energy of hope and make plans to create another intergalactic police force in order to aid the Guardians and the Green Lantern Corps of their upcoming battle against "The Blackest Night" by creating blue power rings and batteries.
+
+==Other Media==
+Ganthet alongside the other Guardians of the Universe appears in the ''[[Duck Dodgers (TV series)|Duck Dodgers]]'' episode "The Green Loontern" voiced by [[John Stephenson (actor)|John Stephenson]].
+
+He also appears in the background of the Green Lantern Corps. stage in ''[[Mortal Kombat vs. DC Universe]]''.<ref>http://mortalkombatwarehouse.com/mkvsdc/greenlantern/render.jpg</ref>
+
+==References==
+{{Reflist}}<!--added above categories/infobox footers by script-assisted edit-->
+{{Green Lantern}}
+
+[[Category:DC Comics aliens]]
+[[Category:DC Comics cosmic entities]]
+[[Category:DC Comics immortals]]
+[[Category:DC Comics characters]]
+[[Category:DC Comics superheroes]]
+[[Category:Extraterrestrial superheroes]]
+
+[[es:Ganthet]]

@@ -1,0 +1,80 @@
+{{Refimprove|date=April 2013}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image =[[Image:Morganedgedcu0.jpg|200px]]
+|caption =Evil clone of Morgan Edge, artist [[Jack Kirby]].
+|character_name =Morgan Edge
+|publisher =[[DC Comics]]
+|debut =''[[Superman's Pal, Jimmy Olsen]]'' #133, (October 1970)
+|creators =[[Jack Kirby]] (writer & artist)
+|real_name = Morgan Edge
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances = [[Intergang]]<br>[[Galaxy Communications (comics)|Galaxy Communications]]<br>[[Superman Revenge Squad]]
+|aliases = <!-- optional: actual identities the character uses, not nicknames -->
+|supports= <!-- optional -->
+|}}
+'''Morgan Edge''' is a [[fictional character]], a [[DC Comics]] [[supervillain]], leader of the mob known as [[Intergang]] and one of [[Superman]]'s enemies.
+
+==Publication history==
+Morgan Edge first appeared in ''[[Superman's Pal, Jimmy Olsen]]'' #133 and was created by [[Jack Kirby]]. Kirby based his physical appearance on actor [[Kevin McCarthy (actor)|Kevin McCarthy]], while his personality was inspired by television executive [[James T. Aubrey]].<ref name="back91">{{cite journal|last=Wells|first=John |title=Bullies and Blowhards of the DC Bronze Age |journal=[[Back Issue!]]|issue=91|pages=15-16 |publisher=[[TwoMorrows Publishing]]| date=September 2016|location=Raleigh, North Carolina}}</ref> According to Kirby's production assistant [[Mark Evanier]], Kirby "wanted to explore the theme of [[organized crime]] gaining a foothold in corporate America - particularly a giant media conglomerate. Given the shady background of [[Kinney National Company|the company]] that acquired [[Warner Bros.]] and [[DC Comics|DC]], it was something of an inside joke."<ref name="back91"/> However, under prodding from editorial staff who preferred Edge to be an ongoing supporting character rather than a villain who would ultimately have to be brought to justice (and thus written out of the series), the "Morgan Edge" connected to [[Intergang]] was revealed to be an imposter.<ref name="back91"/>
+
+==Fictional character biography==
+===Pre-Crisis===
+In his original incarnation, Edge was the president of the Galaxy Broadcasting System (owners of television station WGBS), the media corporation which eventually bought the ''[[Daily Planet]]''. Edge was in many ways a [[stereotype]] of a ruthless [[capitalism|capitalist]], intervening in the ''Planet''{{'}}s homey atmosphere and challenging the authority of the somewhat older [[Perry White]], but he was a decent man who had moments of good-heartedness and maintained reasonably friendly relationships with most of his employees, including [[Clark Kent]]. Following the takeover of the ''Planet'', Edge transferred Kent to the news division, making him a traveling correspondent and later anchorman on WGBS. This move added several TV co-workers to the ''Superman'' supporting cast, including fretful producer Josh Coyle, sports broadcaster [[Steve Lombard]],<ref name="superman264">{{Cite comic | writer = Cary Bates | penciller = Curt Swan | inker = Murphy Anderson | story = Secret of the Phantom Quarterback! | title = '''Superman''' | volume = 1 | issue = 264 | date = '''June 1973''' | publisher = '''DC Comics''' | location =  | page =  | panel =  | id = }}</ref> weather forecaster Oscar Asherman, and co-anchor [[Lana Lang]] (who had been one of Clark's childhood friends in [[Smallville (comics)|Smallville]]).
+
+As one of the wealthiest men in [[Metropolis (comics)|Metropolis]], Edge was a major political figure in the city and frequently encountered [[Superman]], the subject of many of his network's news stories, whom he, like most others, failed to realize was also Clark Kent. Although rarely integral to a plotline, Edge was a supporting character in many Superman stories.
+
+For a while it appeared that Edge was connected to the [[Apokolips]]-sponsored crime organisation [[Intergang]], but this was revealed to be a clone created by the 'Evil Factory', a genetics laboratory working for Darkseid. For example, this clone attempted to have [[Jimmy Olsen]], the [[Guardian (DC Comics)|Guardian]] and, incidentally, a random ''Daily Planet'' employee named Goody Rickels, a [[Don Rickles]] lookalike, murdered as part of a cover-up.<ref>''Superman's Pal, Jimmy Olsen'' #139 (August 1971)</ref>
+
+In a back-up story in Action Comics #468 (February 1977), it was revealed that Morgan Edge's birth name was Morris Edelstein. After he won his first TV station in a game of poker, he changed his name to Morgan Edge and kept the details of his past closely guarded.
+
+===Post-Crisis===
+When DC [[continuity (fiction)|continuity]] was rebooted after the [[Crisis on Infinite Earths]], Edge remained president of WGBS, but his ties to the ''Planet'' and friendship with Superman were [[retcon]]ned away, and he was genuinely connected to Intergang. He was eventually exposed by the ''Daily Planet'', in articles by Clark Kent and [[Cat Grant]], who was working for WGBS undercover. Edge was imprisoned, but even managed to cause trouble there by publishing his [[autobiography]] ''On the Edge'', which dumped upon his father as well as Cat Grant, revealing that she slept her way into a scoop. After his release from jail, Morgan Edge returned as sponsor of the [[Superman Revenge Squad]]. Prior to his imprisonment, one of his actions generated much fan anger, in which Edge sadistically and gleefully ran over a [[raccoon]] on the road, prompting one fan to write in saying "[[Lex Luthor]] treats people like animals, but even he does not run them over intentionally".
+
+Recently, Morgan Edge has resurfaced as a powerful media pundit, with the show ''Edge of Reason'', where he gives off anti-Kryptonian spin for [[Sam Lane (comics)|General Lane]]. He is also seen in a "flash-forward" panel in ''Adventure Comics'' #1, making a mysterious deal with [[Despero]].
+
+===The New 52===
+In ''[[The New 52]]'' (a reboot of the DC Comics universe), Morgan Edge appears as a powerful and self-centered media mogul and the new owner of the ''Daily Planet'', he is seen as the sponsor of the [[Challengers of the Unknown]] program before they all leave due to his ruthless business strategy. This version is depicted as an [[African American]].<ref>''Superman'' vol. 3 #1 (Oct. 2011)</ref>
+
+Edge's multiple media holdings become a benefit to Superman as Lois Lane, now director of Edge's Metropolis news station, has said building's security cameras "hacked" to provide vital intelligence on a rampaging villain.<ref>''Superman'' vol. 3 #2 (Dec. 2011)</ref>
+
+Prior to ''[[DC Rebirth]]'', in the last issue of the 2011 Justice League series, it is mentioned that [[Lex Luthor]] had bought the Daily Planet from him.<ref>Justice League Vol. 2 #52</ref>
+
+==In other media==
+
+===Television===
+* In the ''[[Super Friends]]'' [[animated series]], his company the Galaxy Broadcasting Company, and its mother conglomerate Galaxy Communications are both referenced in the series, although he never actually appeared in the show.
+* In ''[[Lois & Clark: The New Adventures of Superman]]'', a character similar to Morgan Edge, named Bill Church, Jr. (portrayed by [[Bruce Campbell]]), appeared as the head of the "Intergang" crime organization. His father Bill Church, Sr. was played by [[Peter Boyle]]. Like Morgan Edge, Bill Church, Jr. owned a TV station, which was called "Multiworld Communications" instead of the comics' "Galaxy Communications".
+* Morgan Edge has appeared in ''[[Justice League (TV series)|Justice League]]'' episode "Secret Society" Pt. 1 voiced by an uncredited [[Brian George]]. Edge is portrayed as a billionaire collector of unique oddities, but one who has no moral qualms against collecting sentient beings as if they were property, as he does with [[Clayface]]. [[Gorilla Grodd]] and his [[Secret Society of Super Villains|Secret Society]] broke into his mansion to free Clayface from his prison. He attempted to flee on a boat while disguised as a chef, but [[Killer Frost]] froze the water and Morgan's alligator shoes gave away his identity to the Secret Society. Gorilla Grodd had him lead them to where Clayface was stored. As the other Secret Society members enter the room, Killer Frost (off screen) entraps Morgan Edge in ice, presumably freezing him to death.
+* Morgan Edge is a recurring villain in ''[[Smallville]]'' initially played by [[Rutger Hauer]] in the first appearance, and later by [[Patrick Bergin]]. He has appeared as a Metropolis crime lord, and old friend of [[Lionel Luthor]]. In the episode "Exile", Clark Kent stole the money from a bank while one of Edge's gangs were in the middle of a heist. Edge approached Clark in his apartment and offered him a job. At first Clark turned him down, but after Lana found him, he decided he could use the money to disappear and meets Edge to accept his offer. Edge asked him to break into Lionel's LuthorCorp office and steal a package from a titanium reinforced safe. Clark later learned that the item he stole was the blood sample taken by Helen Bryce. [[Jonathan and Martha Kent|Jonathan Kent]] destroyed it immediately. Edge came to Smallville and demanded the package. Clark told him that he didn't have it, but Edge took Jonathan and [[Jonathan and Martha Kent|Martha Kent]] hostage to force Clark to give it to him. Clark used a piece of green meteor rock to cut his arm and give him a new sample. Edge returned the blood to Lionel and told him that he could provide him with the source. Lionel was very interested because he did not know the source. Edge's thugs brought Clark to Metropolis in the back of a truck for the hand off, but Clark used his heat vision to create an explosion, which destroyed the truck. Lionel believed that Edge set him up to be killed. Edge fell into the water after being shot by Lionel's security, where he was presumed dead. Morgan survived, however, and was found by [[Lex Luthor]]. This time, Edge had received plastic surgery in order to hide from Lionel. Edge ultimately confesses, on tape, to the murder of Lionel's parents, but ultimately conspires with Lionel to break Lex's fragile psyche and discredit his testimony. Lex eventually tracks down Edge, also shooting him, but he manages to escape. In one last attempt, Edge attempts to kill Lex using his car, but is shot several times and killed before he has a chance to do so.
+* Morgan Edge is a recurring character in the third season of ''[[Supergirl (TV series)|Supergirl]]'', portrayed by [[Adrian Pasdar]].<ref>{{cite web|url=http://tvline.com/2017/07/22/supergirl-season-3-spoilers-adrian-pasdar-yael-grobglas-cast/|title=Supergirl Season 3 Adds Adrian Pasdar, Yael Grobglas and Alias' Carl Lumbly|first1=Andy|last1=Swift|first2=Andy|last2=Swift|date=22 July 2017|publisher=}}</ref> Edge has led a successful restoration of [[National City (DC Comics)|National City]] following the [[Daxam|Daxamite]] invasion. He also wants to tear down the city's waterfront slum and replace it with high rise buildings, and he secretly employs the tech-mercenary [[Bloodsport (comics)|Bloodsport]] to destroy the area with a cloaked submarine. The attack is stopped by Supergirl, although there is no evidence proving Edge's involvement. Edge also tries to buy Catco out from under Cat Grant (who has become White House Press Secretary) to silence his critics. However, [[Lena Luthor]] buys the company before Edge does.<ref>http://ew.com/recap/supergirl-season-3-premiere/</ref> Later a company of his poisons kids in swimming pools making the doctors think it's lead poisoning. Edge says it is a result of Lena's solution to get rid of the Daximites.
+
+===Film===
+* In ''[[Superman IV: The Quest for Peace]]'', a similar media mogul takes over the ''[[Daily Planet]]'' where David Warfield (played by [[Sam Wanamaker]]) is based on Morgan Edge.{{citation needed|date=July 2016}}
+* WGBS News can be seen in ''[[Man of Steel (film)|Man of Steel]]''.<ref>{{cite web|url=http://movies.cosmicbooknews.com/content/man-steel-wgbs-news-easter-egg-image|title=Man of Steel WGBS News Easter Egg Image|publisher=Cosmic Book News}}</ref>
+
+==See also==
+* [[List of Superman enemies]]
+
+==References==
+<references/>
+
+==External links==
+* [http://www.supermanhomepage.com/comics/who/who-intro.php?topic=edge-morgan Superman Homepage: Morgan Edge]
+* [http://www.dcuguide.com/chronology.php?name=morganedgeprec DCU Guide: Morgan Edge Pre-Crisis chronology]
+* [http://www.dcuguide.com/chronology.php?name=morganedgeclone DCU Guide: Morgan Edge Clone Pre-Crisis chronology]
+* [http://www.dcuguide.com/chronology.php?name=morganedge DCU Guide: Morgan Edge Post-Crisis chronology]
+{{Clear}}
+
+{{Superman characters}}
+
+{{DEFAULTSORT:Edge, Morgan}}
+[[Category:DC Comics supervillains]]
+[[Category:Fictional businesspeople]]
+[[Category:Comics characters introduced in 1970]]
+[[Category:Smallville characters]]
+[[Category:Fictional gangsters]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Fictional clones]]
+
+[[de:Nebenfiguren im Superman-Universum#Morgan Edge]]

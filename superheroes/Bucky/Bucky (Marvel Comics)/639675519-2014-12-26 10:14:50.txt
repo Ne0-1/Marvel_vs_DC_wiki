@@ -1,0 +1,313 @@
+{{About|the superhero}}
+{{In-universe|date=May 2010}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:Bucky.PNG|250px]]
+|caption=Bucky in World War II. Cover detail, ''Captain America 65th Anniversary Special'' (May 2006). Art by [[Eric Wight]].
+|real_name=James Buchanan Barnes
+|publisher=[[Marvel Comics]]
+|debut='''As Bucky''':<br />''[[Captain America|Captain America Comics]]'' #1 (March 1941)<br />'''As Winter Soldier''':<br />''[[Captain America]]'' #1<br />(Jan. 2005)<br />'''As [[Captain America]]''':<br />''Captain America'' #34 <br />(Jan. 2008)
+|creators='''Bucky:'''<br />[[Joe Simon]]<br>[[Jack Kirby]]<br />'''Winter Soldier:'''<br />[[Ed Brubaker]]<br />[[Steve Epting]]
+|alliance_color=background:#ffc0c0
+|alliances=[[Invaders (comics)|Invaders]]<br/>[[Young Allies (Marvel Comics)|Young Allies]]<br/>[[Kid Commandos]]<br/>[[Avengers (comics)|Avengers]]<br>Department X<br>[[Legion of the Unliving]]
+|partners=[[Captain America]]<br>[[Black Widow (Natalia Romanova)|Black Widow]]<br>[[Falcon (comics)|Falcon]]
+|aliases=Winter Soldier<br>[[Captain America (set index)|Captain America]]
+|powers= Master hand to hand combatant and martial artist<br>Gifted advance scout<br>Use of military weapons and throwing knives<br>'''As Winter Soldier''':<br>Expert assassin and spy<br>Via cybernetic left arm:<br>Superhuman strength<br>Enhanced reaction time<br>Energy projection<br>EMP discharger<br>Holographic projector<br>'''As Captain America''':<br>Use of Vibranium alloy shield and shock absorbing costume<br>Carries conventional weapons
+|}}
+
+'''Bucky''' is the name of several [[Character (arts)|fictional characters]] that were masked [[superhero]]es in the [[Marvel Comics]] [[Marvel universe|universe]]. The original one, '''James Buchanan "Bucky" Barnes''', was created by [[Joe Simon]] and [[Jack Kirby]] as a [[sidekick]] character in ''[[Captain America|Captain America Comics]]'' #1 ([[cover-date]]d March 1941), published by [[Timely Comics]] (Marvel's 1940s predecessor).<ref name="milestone">The 1995 ''Marvel Milestone Edition: Captain America'' archival reprint has no [[cover date]] or number, and its postal [[Indicia (publishing)|indicia]] says, "Originally published ... as Captain America #000". Timely's first comic, ''[[Marvel Mystery Comics|Marvel Comics]]'' #1, likewise had no number on its cover, and was released with two different cover dates.</ref> Decades later, the original Bucky was [[comic book death|brought back from supposed death]] as the '''Winter Soldier''', and even as [[Captain America]] when [[Captain America|Steve Rogers]] was presumed to be dead. [[Sebastian Stan]] portrays Bucky in the feature film ''[[Captain America: The First Avenger]]'' (2011) and the Winter Soldier in ''[[Captain America: The Winter Soldier]]'' (2014).
+
+==Publication history==
+When [[Joe Simon]] created his initial sketch of [[Captain America]] for Marvel Comics precursor [[Timely Comics]] in 1940, he included a young sidekick. "The boy companion was simply named Bucky, after my friend Bucky Pierson, a star on our high school basketball team," Simon said in his autobiography.<ref name=joesimonp50>Simon, Joe, with Jim Simon. ''The Comic Book Makers'' (Crestwood/II, 1990), p. 50. ISBN 1-887591-35-4. Reissued (Vanguard Productions, 2003) ISBN 1-887591-35-4</ref> Following the character's debut in ''Captain America Comics'' #1 (March 1941), Bucky Barnes appeared alongside the title star in virtually every story in that publication and other Timely series, and was additionally part of the all-kid team the [[Young Allies]]. In the post-war era, with the popularity of superheroes fading, Bucky appeared alongside team-leader Captain America in the two published adventures of Timely/Marvel's first superhero group, the [[All-Winners Squad]], in the unhyphenated ''[[All Winners Comics]]'' #19 & 21 (Fall-Winter 1946; there was no issue #20). After Bucky was shot and seriously wounded in a 1948 ''Captain America'' story, he was succeeded by Captain America's girlfriend Betsy Ross, who became the superhero [[Golden Girl]]. ''Captain America Comics'' ended with #75 (Feb. 1950), by which time the series had been titled ''Captain America's Weird Tales'' for two issues, with the finale a horror/suspense anthology issue with no superheroes.
+
+Captain America and Bucky were both briefly revived, along with fellow Timely stars the [[Human Torch (android)|Human Torch]] and the [[Namor|Sub-Mariner]], in the omnibus ''Young Men'' #24 (Dec. 1953), published by Marvel's 1950s iteration [[Atlas Comics (1950s)|Atlas Comics]]. Bucky appeared alongside "Captain America, Commie Smasher!",<!--note: This is a cover nickname on all his 1950s comics, and presented in all caps like "Daredevil, The Man Without Fear". And in any case, "Commie," short for "Communist," a proper noun, is always capped--> as the hero was cover-billed, in stories published during the next year in ''Young Men'' and ''Men's Adventures'', as well as in three issues of ''Captain America'' that continued the old numbering. Sales were poor, however, and the series was discontinued with ''Captain America'' #78 (Sept. 1954).
+
+[[Retroactive continuity]], beginning with ''[[Avengers (comics)|The Avengers]]'' #4 (March 1964), established that the original Captain America and Bucky went missing near the end of World War II and were secretly replaced by then-[[U.S. President]] [[Harry S. Truman]] by successor heroes using those identities.
+
+Bucky appeared in very occasional [[Flashback (narrative)|flashback]]s from the 1960s on, and co-starred with Captain America in flashback World War II adventures in ''[[Tales of Suspense]]'' #63-71 (March-Nov. 1965). His apparent death was depicted in flashback in ''The Avengers'' #56 (Sept. 1968).
+
+In 2005, series writer [[Ed Brubaker]] returned Bucky from his seeming death near the end of World War II. He additionally revealed that Barnes's official status as Captain America's sidekick was a cover-up, and that Barnes began as a 16-year-old operative trained to do things regular soldiers and the twenty-something Captain America normally would not do, such as conduct covert assassinations.
+
+Bucky's death had been notable as one of the few [[comic book death]]s that remained unreversed. An [[aphorism]] among comic book fans, known as the Bucky Clause, was that in comics, "No one stays dead except Bucky, [[Jason Todd]] and [[Uncle Ben]]".<ref>Archive of Jonathan V. Last (2007-03-13). [http://web.archive.org/web/20070930190328/www.opinionjournal.com/la/?id=110009780 "Captain America, RIP"], ''[[The Wall Street Journal]]'', March 13, 2007. Retrieved November 10, 2010. [http://www.opinionjournal.com/la/?id=110009780 Original page]</ref> However, all three were brought back to life in their respective universes in 2006, although Uncle Ben turned out to be an alternate Ben from another reality.
+
+Bucky's death has also been used to explain why the Marvel Universe has virtually no young sidekicks, as no responsible hero wants to endanger a minor in similar fashion. Stan Lee also disliked the plot device of kid sidekicks, saying in the 1970s that "One of my many pet peeves has always been the young teenage sidekick of the average superhero".<ref>Lee, Stan, ''Origins of Marvel Comics'' ([[Simon and Schuster]], 1974; Marvel Entertainment Group, 1997 reissue, ISBN 0-7851-0551-4), p. 17</ref> [[Roger Stern]] and [[John Byrne (comics)|John Byrne]] had also considered bringing Bucky back, before deciding against it.<ref>[http://byrnerobotics.com/FAQ/listing.asp?ID=2&T1=Questions+about+Comic+Book+Projects#16 Byrne Robotics: "Frequently Asked Questions]: Questions about Comic Book Projects: "Captain America: Did JB ever consider bringing Bucky back?"</ref> However, in 1990, co-creator Jack Kirby, when asked if he had ever heard talk of resurrecting Bucky, answered: "Speaking completely for myself, I wouldn't mind bringing Bucky in; he represents teenagers, and there are always teenagers; he's a universal character".<ref>''Marvel Age'' #95 (Dec. 1990): "Birth of a Legend: Jack Kirby Talks about Captain America"</ref>
+
+A climactic scene of Bucky's return involves Captain America using the reality-altering Cosmic Cube to restore the Winter Soldier's memories. Writer Ed Brubaker, in an interview, said he intended no loophole, and that Captain America did not "will" the Winter Soldier to have Bucky's memories.<ref>[http://www.newsarama.com/forums/showthread.php?s=b58bf0b3f4ac23ca6c67b76bfc0cf995&threadid=58008 ''Newsarama'' (Feb. 2, 2006): "Spoiler Sport: Ed Brubaker on the Winter Soldier", by Matt Brady]
+{{cquote|'''''Newsarama''''': But playing devil’s advocate—asking the Cosmic Cube to help you is very "monkey's paw" at best ... the Winter Soldier could have been, in reality, someone named Comrade Pitor Nikoli, created just to demoralize Cap, but with him wishing it to be so with the Cube, couldn't Cap just have willed the Winter Soldier to be Bucky, and so he was?}}
+
+{{cquote|'''''Brubaker''''': That wasn't how I looked at it. Look at what he said—"Remember who you are". He didn't say, "Become who I think you are". Or, "Be Bucky". It was very straightforward. Which is more the tragedy, since Bucky immediately has this immense guilt for everything he did as the Winter Soldier.}}</ref>
+
+As Captain America, he appeared as a regular character in the 2010-2013 ''Avengers'' series, from issue #1 (July 2010) through issue #7 (January 2011), and in issue #12.1 (June 2011). After the events of ''[[Fear Itself (comics)|Fear Itself]]'', Bucky returned to the role of Winter Soldier, this time as a [[S.H.I.E.L.D.]] agent in an eponymous series that lasted 19 issues. The first 14 issues were written by Brubaker, with the last story arc written by [[Jason Latour]]. Since January 2014, Bucky has been part of the cast of [[James Robinson (comics)|James Robinson]]'s ''[[All-New Invaders]].'' On July 10, 2014, it was announced that Bucky would again have his own series, entitled ''Bucky Barnes: The Winter Soldier''. The series is written by Ales Kot with art by Marco Rudy, and began in October 2014.{{citation needed|date=July 2014}}
+
+==Fictional character biography==
+
+===Origin and World War II===
+James Buchanan Barnes (named after [[James Buchanan]], the 15th [[President of the United States]]), was born in [[Shelbyville, Indiana]] in 1925.<ref>''Captain America'' v.5 #50</ref> He is an orphan, the son of a soldier killed in training at U.S. Army Camp Lehigh in Virginia just before the United States' entry into [[World War II]]. As a result, he is unofficially adopted by the camp as a mascot. Nicknamed "Bucky", he takes to wearing a uniform and becoming savvy with the ins and outs of military life, even though he is a teenager. It was at Lehigh that he meets and befriends Private Steven Rogers, who by all appearances is the clumsiest soldier in the camp. This was at the same time that reports of the then-mysterious [[Captain America]] begin to appear in news magazines, and Barnes eagerly devours the accounts of this new hero.
+
+In 1940, Bucky accidentally walked in on Steve Rogers changing into his uniform, thus discovering his friend was Captain America and insisted that he join him. He underwent extensive training and was assigned to be Captain America's partner. The military justified putting a 15-year-old in harm's way by using him as a symbol to rally the youth of America (as revealed in ''Captain America'' vol. 5, #12, Dec 2005). They fight the [[Red Skull]] together, and Captain America accepts Bucky as his partner.<ref>''Adventures of Captain America'' #3-4</ref> Together, Captain America and Bucky fight [[Nazism|Nazis]] both at home and abroad, as a duo and as part of the superhero team known as the [[Invaders (comics)|Invaders]], fighting [[Master Man (Marvel Comics)|Master Man]] in their first mission.<ref>''Giant-Size Invaders'' #1</ref> Barnes also teams up with the sidekicks of other heroes in a group called the [[Young Allies]]. Additionally, Bucky was [[retconned]] in 1976 as the organizer of the [[flashback (literary technique)|flashback]] [[World War II]] super-team the [[Liberty Legion]], set between the formations of the [[Invaders (comics)|Invaders]] and the post-war [[All-Winners Squad]]. He was also briefly one of the [[Kid Commandos]] at this time. Bucky served as an advance scout for Captain America and the Invaders, often being assigned tasks that none of the heroes could be seen doing.
+
+In the closing days of World War II in 1945, Captain America and Bucky tried to stop the villainous [[Baron Zemo]] from destroying an experimental [[unmanned aerial vehicle|drone plane]]. Zemo launches the plane with an armed explosive device on it, with Rogers and Barnes in hot pursuit. They reach the plane just before it takes off. Bucky unsuccessfully tries to defuse the bomb, and it explodes in mid-air before reaching its intended target. He will be believed to have been killed in action, as Rogers is hurled into the freezing waters of the [[Atlantic Ocean|North Atlantic]].<ref>depicted in ''Avengers'' #56</ref> Rogers' body, preserved in [[suspended animation]] in a block of ice, is found decades later by [[Avengers (comics)|The Avengers]] while searching the Arctic for the Sub-Mariner.<ref>''The Avengers'' #4 (March 1964)</ref>
+
+It was only in modern times that Captain America would learn that Bucky had a sister, Rebecca, whom he met at a veterans Christmas celebration.<ref>''Marvel Holiday Special'' Vol. 1 1991</ref> Bucky also had one notable post-mortem appearance when the [[Grandmaster (Marvel Comics)|Grandmaster]] challenged the West and East Coast [[Avengers (comics)|Avengers]] for the destruction of the universe, apparently resurrecting [[Legion of the Unliving|long-dead friends and foes]] for them to fight. Captain America battled Bucky, whom he defeated, and the apparitions disappeared.<ref>''Avengers West Coast'' #2; ''Avengers Annual'' #16</ref>
+
+===Winter Soldier===<!-- This section is linked from [[Captain America]] -->
+[[Image:CAPA011 covcol.jpg|Bucky as Winter Soldier. Promotional art for ''Captain America'' vol. 5, #11 (Nov. 2005), by [[Steve Epting]].|thumb]]
+After the plane explodes, General Vasily Karpov and the crew of a Russian patrol submarine find Bucky's cold-preserved body missing one arm. Bucky is revived in Moscow, but suffers brain damage with [[amnesia]] as a result of the explosion. Scientists attach a [[bionic arm]], upgrading it as technology improves.
+
+Programmed to be a Soviet assassin for Department X – under the code name the '''Winter Soldier''' ({{lang-ru|Зимний Солдат}}, [[Romanization of Russian|translit.]] ''Zimnij Soldát'') – he is sent on covert [[wetwork]]s missions and becomes increasingly ruthless and efficient as he kills in the name of the state. While a Soviet agent, he also has a brief relationship with the Black Widow. The Winter Soldier is kept in a cryogenic stasis when not on missions, and as a result has aged only a few years to a young adult since the closing days of World War II. In 1968, the Winter Soldier was sent to kill Professor Zhang Chin, whom he had met over 20 years earlier. He was thwarted by an intangible being called the Man with No Face, though he was able to escape.<ref>''Captain America'' (v.5) #45. Marvel Comics.</ref> On assignment in the [[United States]] in the 1970s, he suffers a breakdown and goes missing for days after [[assassination|assassinating]] his target.<ref>''Captain America'' (v.5) #11. Marvel Comics.</ref> The Winter Soldier also aided in [[Wolverine (character)|Wolverine]]'s escape from the Weapon X laboratory and later murdered [[Itsu (comics)|Itsu]], Wolverine's wife, seemingly killing their unborn son [[Daken]], who survived the attack after being cut from his mother's womb.<ref>''Wolverine'' (v.3) #40. Marvel Comics.</ref>
+
+In the present day, the Winter Soldier seemingly kills the [[Red Skull]] and Jack Monroe (Nomad) under orders from former Soviet general [[Aleksander Lukin]] (Karpov's former protégé). Winter Soldier launches a terrorist attack on [[Philadelphia, Pennsylvania]], killing hundreds, and charges the [[Cosmic Cube]] which Lukin sent him to retrieve. He kidnaps [[Sharon Carter]], an agent of the international espionage agency [[S.H.I.E.L.D.]] and a former lover of Steve Rogers (Captain America). Upon her rescue, Carter tells Captain America that Winter Soldier looked like Bucky. S.H.I.E.L.D. chief [[Nick Fury]] confirms the Winter Soldier's existence, but cannot ascertain his identity.<ref>''Captain America'' (v.5) #1-6. Marvel Comics.</ref>
+
+Captain America tracks down and confronts the Winter Soldier. Regaining his memories, Bucky becomes overwhelmed by guilt over his past actions, crushing the Cosmic Cube and teleporting away.<ref>''Captain America'' (v.5) #14. Marvel Comics.</ref>
+
+He reappears shortly afterward in [[London, England]], where he helps Captain America fend off a terrorist attack. He asks Nick Fury for employment and new equipment following the loss of his bionic arm.<ref>''Captain America'' (v.5) #18-21. Marvel Comics.</ref> Following the events of the superhuman [[Civil War (comic book)|Civil War]], Winter Soldier helps Fury plan the escape of an arrested Steve Rogers. Before the plan can be implemented, however, Rogers is assassinated.<ref>''Captain America'' #25. Marvel Comics.</ref> Considering registration architect [[Iron Man|Tony Stark]] (Iron Man) as ultimately responsible, Winter Soldier plans to kill Stark in revenge. Deducing that Stark will oversee the appointment of a new Captain America, Winter Soldier steals Captain America's shield from S.H.I.E.L.D. agent [[Black Widow (Natalia Romanova)|Black Widow]] so that it cannot be handed down.<ref>''Captain America'' (v.5) #27. Marvel Comics.</ref> Ultimately, he heads to Kronas's headquarters, where Lukin reveals he is the Red Skull and has the evil psychiatrist [[Doctor Faustus (comics)|Dr. Faustus]] attempt unsuccessfully to brainwash the Winter Soldier.<ref>''Captain America'' (v.5) #31. Marvel Comics.</ref>
+
+===The new Captain America===
+[[Image:Cap 34.jpg|thumb|left|Bucky as Captain America. Art by [[Alex Ross]]]]
+{{See also|The Death of Captain America}}
+After escaping from Faustus and being captured by [[S.H.I.E.L.D.]], Barnes learns from Executive Director [[Iron Man|Tony Stark]] that Steve Rogers had left Stark a letter asking Stark to watch over Barnes and that the Captain America mantle should continue.<ref>''Captain America'' #30 (Sept. 2007)</ref> Stark suggests that Barnes become the new Captain America. Barnes agrees to become the new Captain America only if Stark guarantees him complete autonomy.<ref>''Captain America'' #33 (Dec. 2007)</ref> As this arrangement is illegal under the [[Superhuman Registration Act]], Stark keeps his support of the new Captain America secret. Barnes's new Captain America costume is laced with adamantium, and carries a pistol and a combat knife.<ref>''Captain America'' vol. 5, #34 (March 2008)</ref> Barnes' first major adventure as the new Captain America has him, Falcon, Carter and S.H.I.E.L.D. fighting against the original Red Skull and Dr. Faustus who have revived the [[William Burnside (comics)|1950s Captain America]] in a plot to secure one of their pawns attaining the U.S. presidency. Barnes and his allies succeed in aborting the Skull's plans, and Barnes saves the Democratic and Republican presidential candidates from assassination, winning public applause. The adventure ends with Barnes accepting himself and addressing himself now as "'''[[Captain America]]'''".<ref>''Captain America'' (Vol 5) #35-42</ref> He also begins a friendship with Black Widow.<ref>''Captain America 42''</ref>
+
+A still-teenaged Barnes is transported from 1941 and appears in the 2008 ''Avengers/Invaders'' miniseries alongside his fellow Invaders when a [[time travel]] incident takes them from a [[World War II]] battlefield to the present-day [[Marvel Universe]], where they encounter both the [[The Mighty Avengers|Mighty Avengers]] and [[The New Avengers (comics)|New Avengers]]. At the conclusion of ''Avengers/Invaders'' #4, while attempting to break out of the S.H.I.E.L.D. helicarrier, which he believes to be a German base, Barnes encounters his future self dressed as Captain America.<ref>''Avengers/Invaders'' #4</ref> During this meeting, the future Barnes attempts to change his history by telling his past self to abandon the plane that he was seemingly killed trying to disarm, without ever telling his younger self his true identity.<ref>''Avengers/Invaders'' #5</ref> Barnes decides to let his life turn out the way it should after witnessing the devastating risks involved in changing history.<ref>''Avengers/Invaders'' #12</ref>
+
+During the "[[Secret Invasion]]" storyline, after most of the other heroes have fallen as the [[Secret Invasion|Skrull invasion of Earth]] continues, Captain America is seen watching [[Thor (Marvel Comics)|Thor]] defend a group of civilians in [[Central Park]].<ref>''Secret Invasion'' #4</ref> Later, after a brief confrontation with Thor, he joins the other group of heroes (the [[The Mighty Avengers|Mighty Avengers]], the [[The New Avengers (comics)|New Avengers]], the [[Initiative (comics)|Initiative]], the [[Thunderbolts (comics)|Thunderbolts]], [[Nick Fury]] and his [[Secret Warriors]], [[Young Avengers]], and the [[Hood (comics)|Hood's]] group) in battle against an army of Super-Skrulls led by Queen [[Veranke]] herself.<ref>''Secret Invasion'' #6</ref>
+
+Following the "Secret Invasion" storyline, Captain America discovers that the remains of Jim Hammond, the [[Human Torch (android)|original Human Torch]], has been recovered and studied by the [[United Nations]]. The body was stolen by Professor Zhang Chin who used the Torch to create a virus to exterminate half the Earth's population. Teaming up with Namor, they stop Chin and make sure that Hammond receives a proper burial.<ref>''Captain America'' #43-48</ref>
+
+In the aftermath of "Secret Invasion", Captain America joins the [[New Avengers (comics)|New Avengers]] and offers his home as a base of operations. He later participates in the search for [[Luke Cage]] and [[Jessica Jones]]' child, Danielle.<ref>''New Avengers'' #48</ref> He was considered a possible team leader but turned it down because he did not have the proper team experience.<ref>''New Avengers'' #51</ref>
+
+In the ''[[Captain America: Reborn]]'' storyline, Barnes finds out from Sharon that she did not really kill Steve Rogers. As explained by [[Arnim Zola|Doctor Zola]] to [[Norman Osborn]], Rogers was trapped in a fixed position of time and space. But since Sharon ruined the machine that was supposed to bring him back, Steve was reliving his own past. Barnes and Black Widow attempt to steal the device from [[H.A.M.M.E.R.]] but are captured. Osborn sends the Black Widow back to Sharon with an ultimatum: either she turns herself in, as Osborn had implicated her as Rogers' second shooter, or he'll kill Barnes. Barnes was then sent into the custody of the [[Thunderbolts (comics)|Thunderbolts]] who told him that he'll be inducted into their group once Rogers is brought back. However, Barnes is secretly freed by [[Ant-Man (Eric O'Grady)|Ant-Man]] and then rescued by the [[Falcon (comics)|Falcon]].<ref>''Captain America: Reborn #1-3</ref> Barnes then teams up with [[Hawkeye (comics)|Clint Barton]], [[Black Widow (Natalia Romanova)|Natasha Romanoff]], the Falcon, [[Hank Pym]], and the [[Vision (Marvel Comics)|Vision]] to save Sharon. The group intercepts the Red Skull's ship beside the [[Lincoln Memorial]] and attacks. The Red Skull has already taken over Steve's body, and Barnes attacks him. The two battle while Hank saves Sharon and the others battle [[Crossbones (comics)|Crossbones]] and a squad of [[MODOK|M.O.D.O.K.S.]]. [[Sin (Marvel Comics)|Sin]] shoots Barnes in the shoulders, giving the Skull the opportunity to take Captain America's shield. He pins Barnes to the ground and cuts off his cybernetic arm with the shield. However, inside Steve's body, Steve prepares to kill the Red Skull to keep him from doing any more evil in his body. The Skull's consciousness leaves Steve's body and returns to his robotic body. Hank and Sharon manage to cause the Skull's body to enlarge in size, and after Steve (taking control of his own body) leads an attack, Vision uses the Skull's ship's weapons to destroy the Skull.{{Issue|date=July 2010}}
+
+Leading up to the "[[Siege (comics)|Siege]]" storyline, Bucky Barnes is shown still as Captain America talking with Steve Rogers in a dark body suit and standing next to him.<ref>''Dark Avengers Annual'' #. Marvel Comics.</ref> But Rogers is back in costume and seen alongside Barnes still in his own Captain America costume. The two are helping restore Tony Stark's mind by using the shield as a conduit for Thor's lightning.<ref>''Invincible Iron Man'' #21. Marvel Comics.</ref> In the second issue, Barnes is alongside Steve's team of heroes. Barnes (still in his Captain America suit) pulls Rogers aside just before they are about to leave for [[Asgard (comics)|Asgard]]. Barnes tells Rogers that they should "skip the argument" and insists that Rogers use Captain America's shield. Rogers takes the shield, and Barnes is shown with a large gun in his hands, ready for the fight ahead.<ref>''Siege'' #2</ref><ref>{{cite web |first=Dave |last=Richards |url=http://www.comicbookresources.com/?page=article&id=24874 |title=STORMING HEAVEN: "Siege" #2 |publisher=[[Comic Book Resources]] News |date=February 17, 2010 |accessdate=September 26, 2010 }}</ref> In the following issue, Barnes is shown fighting alongside Rogers with both wearing their respective Captain America uniforms in Asgard.<ref>''Siege'' #3. Marvel Comics.</ref> After the events of ''Siege'', Rogers returns the shield to Barnes and retires his uniform, leaving Barnes as the only Captain America.<ref>''Captain America: Who Will Wield The Shield'' #1. Marvel Comics.</ref>
+
+Barnes is a member of the main Avengers team formed in the aftermath of the "[[Siege (comics)|Siege]]" storyline.<ref>[http://www.comicbookresources.com/?page=article&id=24658 "New Avengers Creative Team Announced"], [[Comic Book Resources]], February 1, 2010</ref> Barnes is then put on trial for the crimes he committed as the Winter Soldier.<ref>''Captain America'' Vol. 1 #611. Marvel Comics.</ref> He is found not guilty in an American court, but Russian officials took him away, having convicted him of crimes against the state and claiming that he had gone rogue and killed two civilians. But as Sharon Carter and Black Widow discover, Barnes' victims were connected to Russia's Department X's Red Room division.<ref>''Captain America'' Vol 1 #615-617</ref> He escaped imprisonment with help from Black Widow and returned to the USA, however it was decided he was too tainted by events to be allowed to continue as Captain America.<ref>''Captain America'' #619. Marvel Comics.</ref>
+
+===Fear Itself and return as Winter Soldier===
+During the ''[[Fear Itself (comics)|Fear Itself]]'' storyline, Barnes takes up the Captain America identity again, but is [[Comic book death|apparently killed]] in battle with [[Sin (Marvel Comics)|Sin]] (in her [[Skadi]] form).<ref>''Fear Itself'' #3</ref> He survives after being injected with a dose of the Infinity Formula. With the world believing him dead he returned to his former identity of Winter Soldier to perform special jobs behind the scenes relating to his earlier days as the Winter Soldier. Only Rogers, Nick Fury, and Black Widow know the truth of his "death."<ref>''Fear Itself'' #7.1</ref><ref>''Winter Soldier'' #1</ref> Bucky and Natasha then pursue sleeper agents trained by Bucky during his Winter Soldier days,{{issue|date=June 2014}} awakened recently by an unknown ex-[[KGB]] agent, who turns out to be Ivan Kragoff, the [[Red Ghost]] and former prime minister of Latveria [[Lucia von Bardas]].{{issue|date=June 2014}}
+
+During ''[[Original Sin (comics)|Original Sin]]'', Bucky initially participates in the investigation into the death of [[Uatu]] the [[Watcher (comics)|Watcher]], travelling into deep space with [[Moon Knight]] and [[Gamora]] to follow up a lead.<ref>''Original Sin'' #2</ref> After the [[Orb (comics)|Orb]] uses one of the Watcher's eyes to force the heroes in its vicinity to witness their deepest secrets, he returns to Earth after destroying the shuttle to strand his teammates, brutally attacking Nick Fury (actually a Life Model Decoy) as he proclaims that there will be "No more secrets".<ref>''Original Sin'' #3</ref> Following the revelation that Nick Fury has been secretly protecting Earth from various alien threats for years using more brutal methods than the heroes would have condoned,<ref>''Original Sin'' #5</ref> as well as the revelation that he killed the Watcher in self-defense and used the Watcher's eye to find the identity of his attacker when Uatu refused to break his oath and reveal that information himself, Fury now acts as the Watcher's replacement while Bucky takes over Fury's role as Earth's more ruthless guardian.<ref>''Original Sin'' #8</ref>
+
+==Powers and abilities==
+Having trained under Steve Rogers (the original Captain America in World War II) and others in the time leading up to World War II, "Bucky" Barnes is a master of hand-to-hand combat and martial arts, as well as being skilled in the use of military weapons such as firearms and grenades. He also used throwing knives on occasion and was a gifted advance scout. His time as the covert Soviet agent known as the Winter Soldier helped to further hone his skills, making him the equal to his predecessor in combat skills and an expert assassin and spy. He is also fluent in many languages, including English, Spanish, Portuguese, German, Russian, Latin, and Japanese.{{Issue|date=April 2009}} He can understand French.<ref>''Captain America'' vol. 5, #43</ref>
+
+Winter Soldier's left arm is a cybernetic prosthetic with superhuman strength and enhanced reaction time. The arm can function when not in contact with Barnes and can discharge bolts of electrical energy from its palm. The arm can discharge an EMP causing electronics to either shutdown or become useless. The use of Barnes' EMP is shown when Barnes uses it to shutdown a Nick Fury [[Life Model Decoy|LMD]] and when he attempts to use it on Iron Man. The arm has a holographic function to disguise it as a flesh and blood arm.
+
+As Captain America, he possesses the original, indestructible, vibranium alloy shield used by his predecessor, as well as a [[Kevlar]]/[[Nomex]] blend, shock-absorbing costume. He often carries several conventional weapons such as knives, guns - mostly a Colt 1911-A1 .45 and a [[Luger P08 pistol|P08 Luger]]{{Citation needed|date=June 2011}} - and grenades.
+
+==Other characters called Bucky==
+
+===Fred Davis - Late-World War II and post-war Bucky===
+Fearing that the deaths of Captain America and Bucky, if revealed, would be a blow to morale, President [[Harry S. Truman|Truman]] asked William Naslund, the hero known as the [[Spirit of '76 (Marvel Comics)|Spirit of '76]] (a member of the [[Crusaders (Marvel Comics)|Crusaders]]), to assume the identity of Captain America. Assisting him was '''Fred Davis''', a former bat-boy for the [[New York Yankees]], who had posed as Bucky in 1942. The new Captain America and Bucky finished the rest of the war and continued to fight crime with the [[All-Winners Squad]]. Naslund was killed in 1946 fighting the [[Android (robot)|android]] [[Adam II]], and Captain America's identity passed to [[Jeffrey Mace|Jeff Mace]], the [[Patriot (comics)|Patriot]].<ref>''What If'' #4 (Aug. 1977)</ref>
+
+Davis assisted Mace until 1948, when he was shot and wounded, forcing him to retire and leaving him with a permanent limp. In 1951, Davis joined the [[V-Battalion]], a secret organization that hunted [[war crimes|war criminals]], and eventually became one of its leaders on the Penance Council. He served the V-Battalion in both a leadership role in the Penance Council, and as an engineer.<ref>''Captain America Comics'' #66, 1948; ''Citizen V and the V-Battalion'' #1-#4, 2001</ref> Later in his life, he was killed by a Russian sleeper agent, who wanted to send a message to the true Bucky.<ref>''Winter Soldier'' #6, 2012</ref>
+
+===Jack Monroe - 1950s Bucky===
+{{Main|Nomad (comics)#Jack Monroe}}
+In 1953, an orphan named '''Jack Monroe''', who idolized Captain America and Bucky, discovered that his history teacher also had a similar passion, to the extent of undergoing plastic surgery to make him look like Steve Rogers and assuming his name as well. In addition, [[Grand Director|"Rogers"]] had discovered, in some old Nazi files stored in a warehouse in [[Germany]], the lost formula for the Super-Soldier serum that had given Captain America his abilities. The two used the serum and began to fight [[Communism|Communists]] as Captain America and Bucky.<ref>''Young Men'' #24 (Dec. 1953)</ref>
+
+Unfortunately, "Rogers" and Monroe were unaware of the stabilizing "Vita-Ray" process used on the original Captain America. As a result, despite their bodies being enhanced to peak human efficiency, they slowly grew [[paranoia|paranoid]] and dangerously insane. By the middle of 1954 they were irrationally attacking anyone they perceived to be a Communist. In 1955 the [[Federal Bureau of Investigation]] managed to hunt them down and placed them in suspended animation. The 1950s Captain America and Bucky would be revived years later after the return of Steve Rogers, going on another rampage, and would be defeated by the man they had modeled themselves after.<ref>''Captain America'' #153 (Sept. 1972)</ref>
+
+Monroe was eventually cured of his insanity and took up the superhero identity of [[Nomad (comics)|Nomad]], an identity that Rogers himself had once taken in the 1970s (when he discarded Cap's mantle as a consequence of the Marvel-version of the [[Watergate Scandal]], engineered by the [[Secret Empire]]), even teaming up with the original Captain America on a number of occasions. At one point during his solo career, Monroe was injured severely enough to need to be placed in stasis once again. He was revived and [[brainwashing|brainwashed]] by [[Henry Peter Gyrich]] (who was in turn being manipulated by [[Baron Strucker]]). Monroe was then forced to become the new [[Scourge of the Underworld]] and sent to kill the reformed supervillain team known as the [[Thunderbolts (comics)|Thunderbolts]]. Monroe eventually broke free of the conditioning, helped the Thunderbolts to defeat Gyrich, and then disappeared.<ref>''Thunderbolts'' #35-#50, (1999–2001)</ref>
+
+Monroe was last seen reassuming his original Nomad costume. At this time, he had checked in on his former ward he called Bucky, who had since been adopted. Monroe was starting to have delusions again, and started hallucinating; his sanity was again destabilizing, as it had when he first became Bucky. In the same story, Jack Monroe was shot by the Winter Soldier (James Buchanan Barnes, the original Bucky) and dumped in the trunk of a car.<ref>''Captain America'' vol. 5, #3 (April 2005)</ref>
+
+====Powers and abilities====
+Monroe had augmented strength and reflexes superior to that of any Olympic athlete. Monroe has extensive experience in hand-to-hand combat, having received personal tutoring by Captain America. He is also an expert marksman.
+
+===Rick Jones===
+{{Main|Rick Jones (comics)}}
+Soon after awakening in the modern age, Steve Rogers met perennial Marvel sidekick '''Rick Jones'''. A little demented from his time spent encased in ice, Rogers would refer to Rick as Bucky whom he greatly resembled. Jones also donned the Bucky costume in an attempt to make himself Captain America's partner. However, Rogers was still wracked with guilt over the original Bucky's death, and refused to make this a permanent arrangement although Jones was insistent that Rogers should finally put the tragedy behind him. While Jones' time in this identity is short lived and the task of measuring up to the original Bucky was daunting, he profits from it with invaluable training from Rogers.
+
+====Powers and abilities====
+During his position as Bucky, Jones received training in combat gymnastics along with hand-to-hand combat by Captain America.
+
+===Lemar Hoskins===
+{{Main|Battlestar (comics)}}
+As the [[U.S. Agent|Super-Patriot]], John Walker teamed up with a group known as the Bold Urban Commandos (BUCkies) as a backup team, who were sometimes used in staged attacks on the Super-Patriot during his public demonstrations.<ref>''Captain America'' #323</ref>  Walker's main partner was African-American '''Lemar Hoskins''', who was allowed to continue to serve as Walker's partner when Walker became Captain America,<ref>''Captain America'' #334</ref> while the other Buckies, disgruntled after being left out by the [[Commission on Superhuman Activities]], became [[Left-Winger (comics)|Left-Winger]] and [[Right-Winger (comics)|Right-Winger]]. Hoskins used the name and costume of "Bucky" until he realized the racist connotations of the alias when applied to him (Prior to the [[American Civil War]], a male slave was often referred to as a "buck"). He then assumed the name "Battlestar".<ref>''Captain America'' #341</ref>
+
+====Powers and abilitites====
+Hoskins had superhuman strength, endurance, durability and resilience as a result of the experimental mutagenic process conducted on him by Karl Malus on behalf of the Power Broker. His agility and reflexes are of the order of a superior Olympic athlete. Hoskins is also highly trained in gymnastics and acrobatics. He is an exceptional hand-to-hand combatant, and received rigorous training in unarmed combat from the [[Commission on Superhuman Activities]].
+
+===Rikki Barnes===
+{{Main|Rikki Barnes}}
+[[Rikki Barnes]], who was from [[Counter-Earth (comics)|the alternate Earth]] created by [[Franklin Richards]] in the wake of the [[Onslaught (comics)|Onslaught]] incident. Rikki Barnes is still a member of the [[Young Allies]] on Counter-Earth.
+
+In the wake of the ''Onslaught Reborn'' series, another Rikki Barnes (from an alternate Heroes Reborn universe where the Avengers and Fantastic Four never left) has been transported to the mainstream Earth.<ref>''Onslaught Reborn'' #5</ref> She sought to make contact with the new Captain America (Bucky Barnes) by contacting [[Patriot (comics)|Patriot]], befriended the Patriot in the process.<ref>''Captain America vol. 5'' #600</ref> In a new miniseries she is assuming the Nomad identity.<ref>''Nomad: Girl Without A World'' #1</ref>
+
+====Powers and abilities====
+Barnes is a natural athlete who was trained by SHIELD and Captain America. She is a gifted fighter, marksman and acrobat with the familiarity with technological devices of a SHIELD agent. As Bucky she wore a bulletproof costume modeled after the original Bucky. She also made use of a vibranium-photonic energy shield along with vibranium soled boots that allowed her to run up walls, move silently, leap greater distances and land from great heights. She also wielded a pistol.
+
+===Julia Winters===
+Other persons who have used the Bucky alias include an unnamed baby that Nomad looked after for a period (after which she was adopted and given the name '''Julia Winters'''<ref>''Captain America'' vol. 5, #7 (July 2005)</ref>).
+
+==Other versions==
+In the [[DC Comics]]/[[Marvel Comics]] [[one-shot (comics)|one-shot]] [[intercompany crossover]] ''Batman/Captain America'' (Dec. 1996), written and drawn by [[John Byrne (comics)|John Byrne]] and set during [[World War II]], Bucky briefly takes Dick Grayson/[[Robin (comics)|Robin's]] place as [[Batman|Batman's]] sidekick, while Robin becomes Captain America's sidekick. In this [[Parallel universe (fiction)|alternate reality]] (set in one of DC Comics' numerous "[[Elseworlds]]" continuities), Bucky dies (off-page) as he had done in numerous ''Avengers'' and ''Captain America'' recollections.
+
+In the alternate reality of the five-issue ''[[Bullet Points (comics)|Bullet Points]]'' miniseries (Jan.-May 2005), James Barnes never teams up with Steve Rogers as the Super-Soldier program was never activated. However, Rogers volunteers for the 'Iron Man' program and as such, saves Barnes and several fellow soldiers from an advancing tank during the battle of Guadalcanal. Unfortunately he is not swift enough to save Barnes from severe damage to his legs.
+
+James Buchanan Barnes is one of the United States government agents (alongside [[Mimic (comics)|Mimic]] and [[Nuke (Marvel Comics)|Nuke]]) sent to Genosha to kill Magneto and as many of his followers as possible. Nuke and Mimic served as a distraction while Agent Barnes sneaked into Magneto's headquarters;<ref>''Civil War: House of M'' #3</ref> and though he fatally stabs Professor Xavier, Bucky was killed by Magneto.<ref>''Civil War: House of M'' #4</ref>
+
+In the second issue of the crossover miniseries ''[[Marvel Zombies vs. The Army of Darkness]]'', a zombified Winter Soldier appears and attempts to devour [[Dazzler]]. This version of the Winter Soldier is ultimately killed by [[Ash Williams]], who shoots his head off with his "[[shotgun|boomstick]]", even having shot off his bionic arm.
+
+The [[parallel universe (fiction)|alternate reality]] [[Ultimate Marvel]] version of Bucky is an adult sidekick of [[Ultimate Captain America|Captain America]]. This version is Steve Rogers' childhood friend who accompanies him on his missions as an [[War photography|Army press photographer]].<ref>''Ultimates #1''</ref> Surviving the war and believing Rogers had died during his last mission, Bucky eventually marries Gail Richards (Rogers' fiance) and has a large extended family. During which, Bucky is diagnosed as having [[lung cancer]] from [[chain smoking]] back in the War. Barnes and Gail both live to see Rogers' revival in the 21st century and renew their friendship with him. After America was taken by [[Liberators (comics)|the Liberators]], Bucky is captured at a cemetery with Steve and remains unseen.<ref>''Ultimates 2 #9''</ref> However, both he and Gail are seen being taken into S.H.I.E.L.D. protective custody after Captain America discovers that the [[Red Skull]] is his illegitimate son.<ref>''Ultimate Comics: Avengers #2''</ref>
+
+In the [[parallel universe (fiction)|alternate reality]] [[Marvel MAX]] series ''[[War Machine#U.S. War Machine|U.S. War Machine]]'', Bucky was serving in the present as [[Captain America]], as the Captain had died in his stead in World War II. Bucky was accompanied here by two assistants, [[Hawkeye (comics)|Hawkeye]] and [[Falcon (comics)|Falcon]], neither wearing a costume and both addressed by their real names.
+
+In the 2005 ''[[What If (comics)|What If?]]'' event, the Captain America story, set during the American Civil War, featured Steve Rogers' commanding officer, Colonel Buck Barnes, whom the men called "Bucky". His mercenary tendencies led to Rogers' desertion, and when he later intervened in Rogers' transformation into Captain America, his face was destroyed, turning him into an undead being known as the White Skull.
+
+In ''Ruins'', which is set in a dystopian alternate future, Bucky is taken into custody alongside Victor Creed and others for several heinous crimes, including cannibalism.{{Issue|date=April 2009}}
+
+An alternate-universe Bucky appears in the 2011 miniseries ''Captain America Corps''.<ref>{{cite web|url=http://comics.ign.com/articles/117/1175095p1.html |title=''Captain America Corps'' #1 Exclusive Preview|date= June 9, 2011 | first=Joey| last= Esposito|publisher=[[IGN.com]]}}</ref>
+
+A new Bucky named Steve Wilson-Bradley appears in an alternate timeline seen in ''[[Avengers: The Children's Crusade]]''. This Bucky is the son of [[Elijah Bradley]] and Samantha Wilson (the daughter of the [[Falcon (comics)|Falcon]]).<ref>''Avengers: The Children's Crusade - Young Avengers'' #1.</ref>
+
+==In other media==
+{{multiple image
+ | align     = right
+ | direction = vertical
+ | header    =
+ | header_align = left/right/center
+ | header_background =
+ | footer    =
+ | footer_background =
+ | width     =
+ | image1    = Sebastian Stan as Bucky Barnes.jpg
+ | width1    = 200
+ | caption1  = [[Sebastian Stan]] as Bucky in the 2011 film ''[[Captain America: The First Avenger]]''.
+ | alt1      = 
+ | image2    = Sebastian Stan as Winter Soldier.jpg
+ | width2    = 200
+ | caption2  = Stan as the Winter Soldier in the 2014 film ''[[Captain America: The Winter Soldier]]''.
+ | alt2      = 
+}}
+
+===Television===
+* Bucky appears in Captain America's portion of ''[[The Marvel Super Heroes]]'', voiced by [[Carl Banas]].
+* Bucky/Winter Soldier appears in ''[[The Avengers: Earth's Mightiest Heroes]]'', with Bucky voiced by [[Scott Menville]] and Winter Soldier voiced by [[Jon Curry]]. In the show, Bucky assisted Captain America during World War II. He and Captain America snuck in to a HYDRA base, where they battled creatures from other realms. Bucky and Captain America later go after The Red Skull, and climb on to his rocket ship. Bucky's leg got caught in a bar, but when Captain America tried to help him, Bucky kicked him off, stating that "The World needs Cap more than it needs Bucky Barnes". Bucky was presumed dead for decades (even for a while after Captain America was unfrozen by The Avengers). However, the mysterious Winter Soldier later turned out to be Bucky (who may have survived due to Captain America's contact with the Cosmic Cube). 
+* Bucky appears in ''[[The Super Hero Squad Show]]'' episode "World War Witch", voiced by [[Rod Keller (actor)|Rod Keller]]. 
+* Bucky appears as a cameo in a flashback in ''[[Ultimate Spider-Man (TV Series)|Ultimate Spider-Man]]'' episode "S.H.I.E.L.D. Academy".
+* The Winter Soldier appears in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]''<ref>{{cite web|title=The Black order, Winter Soldier, Ant-Man and more to feature in the second season of Avengers Assemble|url=http://www.dailymarvelite.com/animation/avengers-assemble-season-2-future|work=The Fandom Post |archivedate=September 29, 2014 |accessdate=September 29, 2014 |deadurl=no}}</ref> episode "Ghosts of the Past",<ref name="The Futon Critic">{{cite web|url=http://www.thefutoncritic.com/showatch/marvels-avengers-assemble/listings/|title=Shows A-Z - Marvel's Avengers Assemble|publisher=The Futon Critic|accessdate=October 6, 2014}}</ref> voiced by [[Bob Bergen]]. He infiltrates Avengers Tower and abducts Red Skull from his prison, intending to take revenge.
+
+===Film===
+* The Ultimate Marvel version of Bucky appears in the animated [[direct-to-video]] film ''[[Ultimate Avengers]]'', voiced by [[James Arnold Taylor]].
+* [[Sebastian Stan]] portrays James "Bucky" Barnes in the 2011 film ''[[Captain America: The First Avenger]]''.<ref name="StanTheFirstAvenger">{{cite web|title=Sebastian Stan is Captain America's Bucky!|url=http://www.comingsoon.net/news/movienews.php?id=64744/|publisher=ComingSoon}}</ref>
+* Stan reprises the role in the 2014 film ''[[Captain America: The Winter Soldier]]'', this time using the alias of the Winter Soldier.<ref name="StanTheWinterSoldier">{{cite web |url=http://www.variety.com/article/VR1118056643 |title=Mackie mulls Falcon in 'Captain America' |first=Marc |last=Graser |publisher=Variety |date=2012-07-16| accessdate=2012-07-16| deadurl=}}</ref>
+* Stan will be reprising his role in 2016's ''[[Captain America: Civil War]]''.<ref>{{cite web|url=http://deadline.com/2014/10/sebastian-stan-captain-america-winter-soldier-the-martian-ricki-and-the-flash-859737/|title=Sebastian Stan Joins ‘The Martian’ And ‘Ricki And The Flash’|last=Fleming, Jr.|first=Mike|publisher=[[Deadline.com]]|date=October 24, 2014|accessdate=October 30, 2014|archiveurl=http://www.webcitation.org/6TiZX54r4|archivedate=October 30, 2014|deadurl=no}}</ref><ref>{{cite web|url=http://marvel.com/news/movies/23545/marvel_pits_captain_america_iron_man_in_a_cinematic_civil_war|title=Marvel Pits Captain America & Iron Man in a Cinematic Civil War |last=Strom|first=Marc|publisher=[[Marvel Comics|Marvel.com]]|date=October 28, 2014|accessdate=October 28, 2014|archiveurl=http://www.webcitation.org/6TfVID4bd|archivedate=October 28, 2014|deadurl=no}}</ref><ref>{{cite web|url=http://deadline.com/2014/11/daniel-bruhl-captain-america-robert-downey-jr-chris-evans-1201284648/|title=Daniel Bruhl To Play Villain In 'Captain America: Civil War'|last=fleming, Jr|first=Mike|publisher=Deadline|date=November 14, 2014}}</ref>
+* Stan stated in an interview with Newsarama that he has signed a 9 picture deal for Marvel Studios.<ref>{{cite web|last=McLauchlin |first=Jim|title=CAPTAIN AMERICA: THE WINTER SOLDIER's SEBASTIAN STAN & His 9 Picture Deal |url=http://www.newsarama.com/20568-captain-america-the-winter-soldier-s-sebastian-stan-his-9-picture-deal.html|publisher=Newsarama|accessdate = 2014-03-13}}</ref>
+
+===Video games===
+* Winter Soldier appears in ''[[Marvel: Ultimate Alliance]]'', voiced by [[Crispin Freeman]].
+* Winter Soldier appears in the [[Wii]], [[PS2]] and [[PSP]] versions of ''[[Marvel: Ultimate Alliance 2]]''.
+* Bucky and Winter Soldier appear in ''[[Marvel Super Hero Squad: The Infinity Gauntlet]]'', again voiced by Rod Keller.
+* Bucky appears in ''[[Captain America: Super Soldier]]'', voiced by Sebastian Stan.
+* Bucky's Captain America suit is an unlockable costume in ''[[Captain America: Sentinel of Liberty]]''.
+* Bucky's Captain America attire is an available skin for Captain America (Steve Rogers) in ''[[Ultimate Marvel vs Capcom 3]]''.
+* Bucky Cap is a playable character in ''[[Marvel Super Hero Squad Online]]''.
+* Winter Soldier appears as [[Downloadable content|DLC]] in ''[[Lego Marvel Super Heroes]]'', voiced by [[James Arnold Taylor]].{{citation needed|date=November 2013}}
+* Winter Soldier has appeared in the [[Facebook]] game ''[[Marvel: Avengers Alliance]]'',<ref>http://www.mtv.com/news/articles/1723787/marvel-avengers-alliance-captain-america-winter-soldier-guardians-of-the-galaxy.jhtml</ref> in Spec Ops 17, "Ghosts of the Past", loosely based on ''Captain America: The Winter Soldier''.{{citation needed|date=April 2014}}
+* Winter Soldier appears as a sidekick character in ''[[Disney Infinity: Marvel Super Heroes]]''.<ref>http://www.insidethemagic.net/2014/04/disney-infinity-marvel-super-heroes-revealed-with-avengers-characters-play-set-in-disney-interactive-game-sequel/</ref>
+
+==Collected editions==
+* as Captain America
+{| class="wikitable"
+|-
+! Title !! Material collected !! ISBN
+|-
+| ''The Death of Captain America, Vol. 1: The Death of the Dream''
+| ''Captain America'' vol. 5, #25-30
+| {{ISBNT|0-7851-2423-3}}
+|-
+| ''The Death of Captain America, Vol. 2: The Burden of Dreams''
+| ''Captain America'' vol. 5, #31-36
+| {{ISBNT|0-7851-2424-1}}
+|-
+| ''The Death of Captain America, Vol. 3: The Man Who Bought America''
+| ''Captain America'' vol. 5, #37-42
+| {{ISBNT|0-7851-2971-5}}
+|-
+| ''Captain America: The Man with No Face''
+| ''Captain America'' vol. 5, #43-48
+| {{ISBNT|0-7851-3163-9}}
+|-
+| ''Captain America: Road to Reborn'' (HC)
+| ''Captain America'' #600-601; vol. 5, #49-50
+| {{ISBNT|0-7851-4174-X}}
+|-
+| ''Captain America: Reborn'' (HC)
+| ''Captain America: Reborn'' #1-6
+| {{ISBNT|0-7851-3998-2}}
+|-
+| ''Captain America: Two Americas''
+| ''Captain America'' #602-605; ''Who Will Wield the Shield?''
+| {{ISBNT|0-7851-4510-9}}
+|-
+| ''Captain America: No Escape''
+| ''Captain America'' #606-610
+| {{ISBNT|0-7851-4512-5}}
+|-
+| ''Captain America: The Trial of Captain America
+| ''Captain America'' #611-615 and #615.1, and material from Captain America 70TH ANNIVERSARY MAGAZINE
+| {{ISBNT|0-7851-5119-2}}
+|-
+| ''Captain America: Prisoner of War
+| ''Captain America'' #616-619
+| {{ISBNT|0785151214}}
+|}
+
+* As Winter Soldier
+{| class="wikitable"
+|-
+! Title !! Material collected !! ISBN
+|-
+| Winter Soldier Vol. 1: The Longest Winter 
+| ''Fear Itself'' #7.1: Captain America, &  ''Winter Soldier'' #1-5
+| {{ISBNT|0-7851-4440-4}}
+|-
+| Winter Soldier Vol. 2: Broken Arrow 
+| ''Winter Soldier'' #6-9
+| {{ISBNT|0-7851-4405-6}}
+|-
+| Winter Soldier Vol. 3: Black Widow Hunt 
+| ''Winter Soldier'' #10-14
+| {{ISBNT|0-7851-6728-5}}
+|-
+| Winter Soldier Vol. 4: The Electric Ghost
+| ''Winter Soldier'' #15-19
+| {{ISBNT|978-0785183983}} 
+|}
+
+==Reception==
+[[IGN]] listed Bucky Barnes as the 53rd greatest comic book hero of all time stating that after Robin, Bucky is easily the most iconic superhero sidekick of the Golden Age and describing him as one of the central players in the Marvel Universe since his role of being Captain America.<ref>{{cite web | url=http://www.ign.com/top/comic-book-heroes/53 | title=Bucky Barnes is number 53 | publisher=[[IGN]] | accessdate=May 17, 2011}}</ref>
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://marvel.com/universe/Winter_Soldier Bucky] at Marvel.com
+* [http://www.newsarama.com/Marvel/CAp/BuckyBarnes.htm ''Newsarama'': "Bucky Barnes, Badass"]
+* [http://www.newsarama.com/marvelnew/CapAmerica/Cap06.htm ''Newsarama'': "Did He, or Didn't He? Ed Brubaker on ''Captain America'' #6"]
+* [http://www.newsarama.com/forums/showthread.php?s=b58bf0b3f4ac23ca6c67b76bfc0cf995&threadid=58008 ''Newsarama'': "SPOILER SPORT: Ed Brubaker on the Winter Soldier"] and ''Captain America'' #14
+* [http://forum.newsarama.com/showthread.php?t=93450 ''Newsarama'': Ed Brubaker interview]
+
+{{Captain America}}
+{{Black Widow}}
+{{New Avengers}}
+{{Invaders}}
+{{GoldenAge}}
+
+[[Category:Captain America]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Joe Simon]]
+[[Category:Comic book sidekicks]]
+[[Category:Comics characters introduced in 1941]]
+[[Category:Fictional amputees]]
+[[Category:Fictional assassins]]
+[[Category:Fictional characters from Indiana]]
+[[Category:Fictional child soldiers]]
+[[Category:Fictional cyborgs]]
+[[Category:Fictional soldiers]]
+[[Category:Fictional special forces personnel]]
+[[Category:Fictional World War II veterans]]
+[[Category:Golden Age superheroes]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Timely Comics characters]]
+[[Category:United States-themed superheroes]]

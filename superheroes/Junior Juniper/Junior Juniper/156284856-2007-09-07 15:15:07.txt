@@ -1,0 +1,33 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:juniorjuniper.jpg|200px]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Junior Juniper
+|real_name=Jonathan Juniper
+|publisher=[[Marvel Comics]]
+|debut=''Sgt. Fury and the Howling Commandos'' vol. 1 #1
+|creators=
+|alliance_color=background:#cccccc
+|status=
+|alliances=
+|previous_alliances=[[Howling Commandos]]
+|aliases=
+|relatives=
+|powers=
+|}}
+
+'''Jonathan "Junior" Juniper''' is a [[fictional character]] in the [[Marvel Comics]] Universe. His first appearance was in ''Sgt. Fury and the Howling Commandos vol. 1 #1''.
+
+==Fictional character biography==
+'''Jonathon "Junior" Juniper''' was a founding member of the original [[Howling Commandos]] and fought alongside the team during [[World War II]].  He was the youngest on the team as he was still attending an unnamed [[Ivy League]] college before he enlisted in the [[United States Air Force|Air Force]].  Juniper was later transferred from the Air Force to the Commandos because he had flown [[B-17 Flying Fortress]] in bombing raids as a tail gunner.  He was the grand-uncle of [[S.H.I.E.L.D.]] agent [[Roger Juniper]].  In ''Sgt. Fury and his Howling Commandos'' #1 he was killed.
+
+==Bibliography==
+*Sgt. Fury and his Howling Commandos #1-4 (death), 24, 44
+
+{{DEFAULTSORT:Juniper}}
+[[Category:Fictional World War II veterans]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supporting characters]]
+[[Category:Fictional soldiers]]
+
+{{marvel-comics-stub}}

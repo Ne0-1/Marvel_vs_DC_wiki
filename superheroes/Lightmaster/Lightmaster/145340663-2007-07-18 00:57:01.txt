@@ -1,0 +1,40 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:PPSM3Cover.jpg|250px|]]
+|caption=Cover to ''[[Spectacular Spider-Man]]'' #3<br>Art by [[Sal Buscema]]
+|comic_color=background:#ff8080
+|character_name=Lightmaster
+|real_name=Dr. Edward Lansky
+|publisher=[[Marvel Comics]]
+|debut=''[[Spectacular Spider-Man|Peter Parker, the Spectacular Spider-Man]]'' #3 (February 1977)
+|creators=[[Jim Shooter]] and [[Sal Buscema]]
+|alliance_color=background:#cccccc
+|alliances=One World Church
+|aliases=
+|powers=Power suit grants:<br>,<br>[[List of comic book superpowers#Light manipulation|Light manipulation]]|,<br>Flight,<br>Construct generation}}
+
+'''Lightmaster''' (real name Dr. '''Edward Lansky''') is a [[fictional character]], a [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]].
+
+==Fictional character biography==
+Edward Lansky was born in [[New York City]]. He was a physics professor and vice-chancellor of [[Empire State University]] who turned to crime as a way to prevent budget cuts for higher education that would have negatively affected the university.  As the Lightmaster, Lansky employed [[Kraven the Hunter]] and [[Tarantula (Marvel Comics)|The Tarantula]] to help him kidnap several officials of the city of New York.  The three were defeated by [[Spider-Man]], who foiled the plot.
+
+However, while attempting to short-circuit Lightmaster's body suit, Spider-Man inadvertently caused him to become a being of unstable energy, dependent on constant exposure to light just to survive.  In a further battle with Spider-Man, Lightmaster causes a [[power outage|blackout]] in New York City, causing his own unstable body to dissipate into what he called a "light dimension."  Lightmaster escaped from this dimension twice, first by harnessing the powers of the mutant [[Dazzler]], and then those of [[Quasar (comics)|Quasar]]'s [[Quasar (comics)#Quantum Bands|quantum bands]].  On this latter occasion, Lightmaster succeeded in returning himself to a normal physical existence.
+
+In a recent fight with [[Cable (comics)|Cable]], he had been hired by the "One World Church" to distribute the Façade Virus, which the OWC intended to use to turn everyone blue and thus eliminate racial divides. Cable subverted his control and instead turned everyone pink for two days, before publicly disabling the virus.
+
+In [[She-Hulk]] II#17 back to earth, Lightmaster was present at the Bar With No Name in New York when lawyer Mallory Book confronted the present villains because nobody wanted to hire her anymore since her affair with [[Awesome Andy]]. [[Two-Gun Kid]] beat everyone up when Bartoc treated Mallory badly.
+
+==Powers and abilities==
+Originally, Lansky required a unique [[power armor]] suit which utilized "gravity-pump circuitry" to allow him to manipulate light.  With it, he could fly, emit blinding flashes of light, create semi-solid constructs (similar to those a [[Green Lantern]] might make with their [[Green Lantern#Powers and abilities|Power Ring]]), or create ''ersatz'' [[Brass knuckle]]s to increase the power of his punches.  The suit could absorb fairly large amount of electrical energy without damaging the wearer, but a sufficient amount could (and indeed did) cause the circuitry to overload and convert the wearer into "living energy."
+
+==External links==
+*[http://spiderfan.org/characters/lightmaster.html Spiderfan.org bio of Lightmaster] (does not include his ''[[Cable & Deadpool]] appearance).
+*http://www.marvunapp.com/Appendix4/lightmastersm.htm
+
+
+{{Marvel-villain-stub}}
+
+[[Category:American comics characters]]
+[[Category:Fictional characters from New York City]]
+[[Category:Marvel Comics supervillains]]
+
+[[fr:Lightmaster]]

@@ -1,0 +1,33 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:Starr.jpg|200px]]
+|character_name=Starr the Slayer
+|real_name=Starr
+|publisher=[[Marvel Comics]]
+|debut=''[[Chamber of Darkness]]'' #4 (April, [[1970]])
+|creators=[[Roy Thomas]]<br>[[Barry Windsor-Smith]]
+|alliance_color=background:#ffc0c0
+|status=Unknown
+|alliances=Unknown
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}}
+'''Starr the Slayer''' is a [[fictional character]], the adventurer king of Zardath.
+__FORCETOC__
+
+==Chamber of Darkness==
+The initial version of Starr was a [[barbarian]] king, defending his kingdom. A 20th century writer, Len Carson, dreamed of Starr's adventures - Starr later met and killed Carson. 
+
+It is unclear whether or not Starr was intended to be part of the [[Marvel Universe]].
+
+==newuniversal==
+{{future comic}}
+[[Warren Ellis]] has stated that a new version of Starr will appear in the upcoming [[newuniversal]] series. Preview art released in advance of the first issue has included design sketches for a barbarian character named as ''The Slayer'' - this appears to be the new version of Starr.
+
+==External links==
+* [http://www.marvunapp.com/Appendix3/starrslayer.htm marvunapp.com Appendix - profile for Starr the Slayer (the 'Chamber of Darkness' version)]
+*[http://www.comicbookresources.com/news/newsitem.cgi?id=7950 Warren Ellis "newuniversal" interview - with design sketches for ''The Slayer'']
+
+
+{{Marvel-Comics-stub}}

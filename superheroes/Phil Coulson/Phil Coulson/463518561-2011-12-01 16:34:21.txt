@@ -1,0 +1,99 @@
+{{superherobox
+|image = [[File:Clark Gregg as Phil Coulson.jpg]]
+|caption = [[Clark Gregg]] as Agent Phil Coulson in ''[[Thor (film)|Thor]]''
+|character_name =Phil Coulson
+|publisher =[[Marvel Comics]]
+|debut =''[[Iron Man (film)|Iron Man]]'' (May 2, [[2008 in film|2008]])
+|last = 
+|creators =[[Mark Fergus and Hawk Ostby|Mark Fergus<br />Hawk Ostby]]<br />Art Marcum<br />Matt Holloway<br />[[John August]]
+|alter_ego =
+|Base of operations = 
+|alliances = [[S.H.I.E.L.D.]]
+|aliases =
+|supports= <!--Please limit this parameter to the namesakes or main characters of the works in which Phil Coulson has appeared-->{{Unbulleted list|[[Iron Man]]|[[Thor (Marvel Comics)|Thor]]|[[Spider-Man]]}}
+|powers=
+|portrayed by = [[Clark Gregg]]
+|}}
+'''Phil Coulson''' is a [[Character (arts)|fictional character]] in the [[Marvel Cinematic Universe]], which [[Fictional crossover|crosses over]] several [[Marvel Studios]] [[superhero film]]s. Coulson first appeared as a member of the fictional agency [[S.H.I.E.L.D.]] in [[Jon Favreau]]'s 2008 film ''[[Iron Man (film)|Iron Man]]'', where he was portrayed by American actor [[Clark Gregg]]. Gregg then signed a multi-film deal with Marvel Studios and reprised the role in Favreau's 2010 film ''[[Iron Man 2]]'' and [[Kenneth Branagh]]'s 2011 film ''[[Thor (film)|Thor]]''. Gregg is also reported to star as Coulson in [[Joss Whedon]]'s 2012 film ''[[The Avengers (2012 film)|The Avengers]]'' and be the subject of a series of [[short film]]s and "[[digital comics|digicomics]]". Gregg will voice the character in the upcoming [[cartoon series]] ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'', where he is undercover as [[Spider-Man|Peter Parker]]'s school principal.
+
+==Appearances==
+===Film===
+====''Iron Man''====
+{{Main|Iron Man (film)}}
+Agent Coulson attends the press conference [[Iron Man|Tony Stark]] ([[Robert Downey, Jr.]]) holds after returning from captivity in [[Afghanistan]]. Coulson talks to Stark's assistant, [[Pepper Potts]] ([[Gwyneth Paltrow]]), and introduces himself as a government agent of the [[S.H.I.E.L.D.|Strategic Homeland Intervention, Enforcement, and Logistics Division]].  He tells her that he needs to discuss the [[Iron Man's armor|circumstances]] of Stark's escape, and they schedule an appointment. He is present when Tony announces that [[Stark Industries]] will cease production of weapons.
+
+Coulson later meets Stark at the [[Walt Disney Concert Hall]], trying again to discuss the escape with him. However, Stark is distracted by Christina Everhart, and leaves to end the [[Mandarin (comics)|Ten Rings]]' terrorism of [[Ho Yinsen|Gulmira]], [[War in Afghanistan (2001-present)|Afghanistan]].
+
+Later on, Coulson arrives to his appointment with Pepper Potts, where she informs him of [[Iron Monger|Obadiah Stane]]'s ([[Jeff Bridges]]) armor. He and several other agents accompany her to the building housing Stark's arc reactor, where they find that Stane's armor is already active. Coulson manages to escape alive.
+
+As a running gag, when Coulson attempts to speak with either Potts or Stark, he always says the agency's full name, only for them to comment on how the organization needs a shorter name. At the end, Coulson presents Stark with a [[cover story]] involving [[Happy Hogan|Stark's bodyguard]] ([[Jon Favreau]]) and yacht.  When Pepper goes to say the agency's full name, Coulson interrupts her, saying they should be just called "S.H.I.E.L.D."  Coulson attends the press conference where Stark fumbles through the cover story before revealing his true identity as Iron Man.
+
+====''Iron Man 2''====
+{{Main|Iron Man 2}}
+After Tony loses his armor to [[War Machine|James Rhodes]] ([[Don Cheadle]]), S.H.I.E.L.D Director [[Nick Fury]] ([[Samuel L. Jackson]]) places Tony on house arrest to sober up and find a replacement for [[palladium]] in his arc reactor. Coulson is one of the agents, briefly along with [[Black Widow (Natalia Romanova)|Natasha Romanoff]] ([[Scarlett Johannson]]), assigned to supervise Stark. Coulson threatens to [[Taser|tase]] Stark and watch ''[[Supernanny]]'' if he doesn't cooperate.<ref name="WNBC" /> He presents Tony with the work of [[Howard Stark]] ([[John Slattery]]), who was Tony's father and a S.H.I.E.L.D founder. Before he departs, Coulson assists Tony by drawing his attention to [[Captain America's shield]], which Tony uses as a shim for a machine and manages to synthesize a [[vibranium|new element]] with [[ununoctium|atomic number 118]].
+
+In a [[post-credits scene]], Coulson observes an impact crater in the [[New Mexico]] desert. He calls Fury and says, "We've found it." The final shot shows a hammer lying in the crater.
+
+====''Thor''====
+{{Main|Thor (film)}}
+{{Quote box
+ |quote = "Agent Coulson was one of the guys who wasn't really in the comic books, and he [had] a very kind of small role in ''Iron Man''. And I was just very lucky that they chose to expand that character and chosen to put him more into the universe of it. It's really a blast!... I get to do some exciting things in some of the new stuff."
+ |source = — Gregg on the character's expansion in ''[[Thor (film)|Thor]]''<ref>{{cite web|url=http://splashpage.mtv.com/2010/04/28/iron-man-2-thor-clark-gregg/|title=Clark Gregg's 'Iron Man 2' S.H.I.E.L.D. Agent Will 'Do Some Exciting Things' In 'Thor' |author=Blair Marnell|publisher=[[MTV News]]|date=2010-04-28| accessdate=2011-08-03}}</ref>
+ |width = 30em
+ |bgcolor = #c6dbf7
+ |align = right
+}}
+In ''Thor'', S.H.I.E.L.D. appears to investigate the discovery of the [[Thor (comics)|titular character]]'s [[Mjolnir (comics)|hammer]] on Earth. Coulson interrogates Thor ([[Chris Hemsworth]]) after the depowered Asgardian attacks a S.H.I.E.L.D. facility that has been erected around the recently-discovered hammer, commenting that Thor has effortlessly defeated some of his best men and asking where Thor received his training. S.H.I.E.L.D. confiscates [[Jane Foster (comics)|Jane Foster]]'s ([[Natalie Portman]]) research about the dimensional anomaly that brought Thor to Earth (later revealed as [[Bifröst]]), but when Thor's powers are restored Agent Coulson agrees to return Jane's research to her and Thor assures Coulson that they will be allies in the defense of Earth's innocent inhabitants. Coulson appears alongside S.H.I.E.L.D. agents [[Jasper Sitwell]] (Maximiliano Hernández), [[Hawkeye (comics)|Clint Barton]] ([[Jeremy Renner]]), Cale (Patrick O'Brien Demsey), Garrett (Dale Godboldo), and Director Nick Fury.
+
+====''The Avengers''====
+{{Main|The Avengers (2012 film)}}
+Gregg will reprise his role as Coulson in ''The Avengers''.<ref>{{cite web |url=http://www.deadline.com/2010/07/star-wattage-marvel-assembles-the-avengers-for-comic-con-panel |title=MARVEL-OUS STAR WATTAGE: Actors Assemble For Comic-Con Panel Including 'The Avengers', 'Captain America', & 'Thor' |date=2010-07-24 |publisher=[[Deadline.com]] |accessdate=2011-08-03| archiveurl = http://www.webcitation.org/5zx6k1EnB | archivedate = 2011-07-05| deadurl=no}}</ref> Gregg stated in August 2011 that he had been getting himself into "fighting shape" for the film.<ref name="shorts">{{cite web|title=Marvel One-Shots: Expanding the Cinematic Universe |url=http://marvel.com/news/story/16398/marvel_one-shots_expanding_the_cinematic_universe |last=Strom|first=Marc|publisher=[[Marvel Comics|Marvel.com]] |date=2011-08-02|accessdate=2011-08-03}}</ref> Coulson will be "responsible for shepherding" the film's superheroes together.<ref name="WNBC">{{cite news |last=Alt |first=Eric |date=2011-09-02 |title=Clark Gregg: Marvel Movies' Man of Mystery |url=http://www.nbcnewyork.com/blogs/popcornbiz/Clark-Gregg--129073283.html |publisher=[[WNBC]] |accessdate=2011-09-02}}</ref> Director [[Joss Whedon]] is known for "killing off beloved characters", but Gregg has stated that Whedon confirmed Coulson will survive the events of the film.<ref name="CraveOnline">{{Cite web|url=http://www.craveonline.com/film/articles/173736-clark-gregg-on-the-avengers-marvel-one-shots-iron-man-3-and-more|title=Clark Gregg on 'The Avengers,' 'Marvel One-Shots,' 'Iron Man 3' and More!|last=Bibbiani|first=William|publisher=[[CraveOnline]]|date=2011-09-05|accessdate=2011-09-07}}</ref>
+
+====''Iron Man 3''====
+{{Main|Iron Man 2#Sequel}}
+Gregg is reportedly in talks to reprise the role in ''Iron Man 3''.<ref name=CraveOnline />
+
+===Short films===
+{{Main|Marvel One Shots}}
+In August 2011, Marvel announced that Coulson would be the subject of a couple of [[direct-to-video]] [[short film]]s called "Marvel One-Shots". The "Marvel One-Shots" both star Clark Gregg as Agent Coulson, offering up two self-contained stories about the day in the life of a S.H.I.E.L.D. agent. Gregg stated of the short films, "Some [would be] the connective tissue between the movies [of the [[Marvel Cinematic Universe]]] and others are behind-the-scenes in the day of a S.H.I.E.L.D. agent... In one of them there's a daily crisis [in which] a S.H.I.E.L.D. agent deals with the World Security Council and one of our super heroes." The first short film, entitled ''Marvel One-Shot: The Consultant'', was released on the ''Thor'' [[Blu-ray]] and [[Blu-ray 3D]] on September 13, 2011, and will take place after the plots of ''Iron Man 2'', ''Thor'', and ''The Incredible Hulk'', but before the upcoming film ''The Avengers''. The second film, titled ''Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer...'', which will take place after Coulson leaves Tony Stark's lab during ''Iron Man 2'', and before he arrives solo at the crater site in ''Thor'', will be released  on the Blu-ray of ''[[Captain America: The First Avenger]]''.
+
+====''The Consultant''====
+Coulson walks into a restaurant where Agent Sitwell is eating breakfast, and informs him that the World Security Council wishes [[Abomination (comics)|Emil Blonsky]] ([[Tim Roth]]) released from prison to join the [[The Avengers (2012 film)|Avenger Initiative]]. As they see him as a war hero, and blame his fight in [[New York City]] with [[Hulk (comics)|Bruce Banner]] ([[Edward Norton]]) on Banner himself. They order S.H.I.E.L.D. to send an agent to ask [[Thunderbolt Ross|General Thaddeus "Thunderbolt" Ross]] ([[William Hurt]]) to release Blonsky into their custody. The two agents decide to send a patsy to sabotage the meeting, so Ross will refuse to release Blonsky. At Sitwell's urging, Coulson reluctantly sends the consultant: [[Iron Man|Tony Stark]] ([[Robert Downey, Jr.]]). As partially depicted in the post-credits scene of ''[[The Incredible Hulk (film)|The Incredible Hulk]]'', a disgraced Ross sits drinking in a bar, when he is approached by Stark, who ends up annoying Ross so much that Ross tries to have him removed from the bar. In reply, Stark buys the bar, and schedules it for demolition. The next day at the restaurant, Sitwell arrives to Coulson eating breakfast. Coulson informs him that their plan worked, and that Blonsky will remain in prison.<ref>{{Cite web|url=http://lytherus.com/2011/09/01/the-consultant-marvels-first-between-movie-avengers-short-leaked-online|title=The Consultant Marvels First Between-Movie Avengers Short Leaked Online Watch It Now!|last=Krah|first=Jackie|publisher=Lytherus|date=2011-09-01|accessdate=2011-09-17}}</ref>
+
+====''A Funny Thing Happened On The Way To Thor's Hammer''====
+Coulson is on his way to Albuquerque, New Mexico when he stops to refill on gas. As he heads inside the gas station to pay, he decides to get some snacks, and makes his way to the back of the station to decide what he wants. Two robbers enter the station without noticing Coulson, and demand the money from the register. When the robbers ask who's car is outside, Coulson reveals himself and surrenders his keys. As he is about to surrender his pistol, Coulson distracts both robbers and quickly takes both of them down. He then nonchalantly pays for his snacks, and leaves the station.
+
+===Television===
+{{main|Ultimate Spider-Man (TV series)}}
+It was confirmed at the 2011 [[San Diego Comic-Con International]] that Gregg will return to voice Coulson in the upcoming [[cartoon series]] ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'', where he will appear as both a S.H.I.E.L.D. agent and [[Spider-Man|Peter Parker]]'s ([[Drake Bell]]) school principal.<ref>{{cite web|last=Harris|first=Jeffrey|url=http://www.toonzone.net/news/articles/38211/sdcc2011--new-details-and-voice-cast-of-ultimate-spider-man-revealed|title=http://www.toonzone.net/news/articles/38211/sdcc2011--new-details-and-voice-cast-of-ultimate-spider-man-revealed|title=SDCC2011: New Details and Voice Cast of "Ultimate Spider-Man" Revealed|accessdate=2011-08-03|publisher=Toon Zone}}</ref><ref>{{cite web|last=Collura|first=Scott|title=Comic-Con: Ultimate Spider-Man Toon and Avengers Season 2|url=http://tv.ign.com/articles/118/1183858p1.html|accessdate=2011-08-03|publisher=[[IGN]]}}</ref> The [[Fictional crossover|crossover]] is considered strange due to the fact that the ''Spider-Man'' films are owned by [[Sony Pictures Entertainment]], which has thus far prevented the character from appearing in the Marvel Cinematic Universe. Clark Gregg described his casting:<ref name="WNBC" />
+{{quote|They're doing, as I'm told, this groundbreaking animation with "Ultimate Spider-Man" and some young superheroes hiding out in a high school in New York City and they need a watcher. They need a [[Wiktionary:diva|diva]] wrangler, and that would be ''Principal'' Coulson. And it's been so fun - I was like, "Yeah, sure - I don't want anyone else being Coulson. That's me!"  And I went down there and I've been doing it for a couple of months and the scripts are so funny. I've really had a blast.<ref name="WNBC" />}}
+
+===Comics===
+In 2010, Agent Coulson appeared in two Marvel "[[digital comics|digicomics]]": ''Iron Man 2-Phil Coulson: Agent of S.H.I.E.L.D.'' #1 and ''Amazing Spider-Man Digital'' #13.<ref>{{Cite web|url=http://marvel.com/news/story/12277/exclusive_digicomics_iron_man_2-_phil_coulson|title=Exclusive Digicomics: Iron Man 2- Phil Coulson|publisher=[[Marvel Comics|Marvel.com]]|date=2011-04-28|accessdate=2011-08-03}}</ref>
+
+==Characterization==
+[[File:11.30.10ClarkGreggByLuigiNovi.jpg|thumb|upright|[[Clark Gregg]] ''(pictured)'' views Coulson as "''the'' S.H.I.E.L.D. agent".<ref name="shorts" />]]
+In the films of the Marvel Cinematic Universe, Agent Coulson is generally depicted as a supporting character of the protagonists and used to represent S.H.I.E.L.D.'s presence in the plots of the films, to the point that Clark Gregg has described Coulson as "''the'' S.H.I.E.L.D. agent". However, in the "Marvel One-Shots", Coulson is given "a chance to stand in his own spotlight for once", when the character is put in a position where there is an imminent threat and no superheroes around. The decision to give more focus to Coulson was "a natural" for "Marvel One-Shot" co-producer Brad Winderbaum:<ref name="shorts" />
+{{quote|First and foremost it was an opportunity to work with Clark Gregg. The guy elevates everything he takes part in and we knew that if he was into it, we couldn't pass up the opportunity to tell some stand-alone Coulson stories with him. Also, in the case of ''The Consultant'', we wanted to paint a picture of S.H.I.E.L.D. pulling the strings and being responsible for some of the events we've seen in the films. What better character to represent this idea than Agent Coulson, the first S.H.I.E.L.D. agent we were introduced to in the first ''Iron Man'' film. {{sic}}<ref name="shorts" />}}
+Gregg has stated, "I think of Agent Coulson, after all these years, as a guy with a full life. I think every day he's somewhere doing something for S.H.I.E.L.D., and yet I don't always know what that is... There's always a different twist. In this one he gets to show more of his wisecracking wit, and in this one he's a little bit more of a badass."<ref name="shorts" /> Despite Coulson being called "the most recognizable face in the Marvel Comics movie universe", he is depicted as an "[[everyman]]" in a universe full of superheroes–"the glue that binds" the characters together. In ''Thor'', Coulson complains that Tony Stark "never tells [him] anything." In an interview with [[WNBC]], Gregg explained his portrayal of the character as "just a guy grumbling about his job":<ref name="WNBC" />
+{{quote|He's the guy who's tasked - a very disciplined guy in my opinion who possesses secrets that would turn your hair white - but at the same time he's tasked with handling these kind of diva superheroes, you know? "Oh, really, Asgard? Dude, just get in the car."<ref name="WNBC" />}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb character|0037737|Agent Phil Coulson}}
+
+{{DEFAULTSORT:Coulson, Phil}}
+{{Marvel Cinematic Universe}}
+{{S.H.I.E.L.D.}}
+	
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Marvel Comics characters]]
+[[Category:Film characters]]
+[[Category:Fictional secret agents and spies]]
+[[Category:Fictional characters introduced in 2008]]
+
+[[it:Phil Coulson]]
+[[ja:フィル・コールソン]]
+[[ru:Фил Колсон]]

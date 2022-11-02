@@ -1,0 +1,538 @@
+{{Redirect|Captain America (Marvel Cinematic Universe)|the film in the Marvel Cinematic Universe|Captain America: The First Avenger}}
+{{Infobox character
+| color              = #AF181F
+| name               = Steve Rogers
+| franchise          = [[Marvel Cinematic Universe]]
+| image              = Steve Rogers & Captain America MCU.jpg
+| caption            = Steve Rogers / Captain America, as portrayed by [[Chris Evans (actor)|Chris Evans]] in ({{abbr|L|Left}}-{{abbr|R|Right}}) ''[[Captain America: The First Avenger]]'' (2011) and ''[[Avengers: Age of Ultron]]'' (2015)
+| first              = ''[[Captain America: The First Avenger|Captain America:<br /> The First Avenger]]'' (2011)
+| last               = ''[[Avengers: Endgame]]'' (2019)
+| creator            = {{Plainlist|
+* [[Joe Simon]]
+* [[Jack Kirby]]
+}}
+| based_on = [[Captain America]]
+| spouse             = [[Peggy Carter]]
+| adapted_by         = [[Christopher Markus and Stephen McFeely|Christopher Markus<br />Stephen McFeely]]
+| portrayer          = [[Chris Evans (actor)|Chris Evans]]
+| full_name          = Steven Grant Rogers
+| title              = {{Plainlist|
+* [[Captain (armed forces)|Captain]] ([[United States Army|U.S. Army]])
+* [[List of S.H.I.E.L.D. members|Agent]] of [[S.H.I.E.L.D.]]
+}}
+| alias              = Captain America
+| occupation         = {{Plainlist|
+* [[Team leader|Leader]] of the [[Avengers (comics)|Avengers]]
+* [[United States]] [[soldier]]
+* [[Grief counseling|Grief counselor]]
+}}
+| affiliation        = {{Plainlist|
+* [[Avengers (comics)|Avengers]]
+* [[Howling Commandos]]
+* [[S.H.I.E.L.D.]]
+* [[S.T.R.I.K.E.]]
+* Strategic Scientific Reserve
+* [[United States Army]]
+}}
+| nationality        = American
+}}
+
+'''Steve Rogers''' is a [[character (arts)|fictional character]] portrayed by [[Chris Evans (actor)|Chris Evans]] in the [[Marvel Cinematic Universe]] (MCU) [[film franchise]]—based on the [[Marvel Comics]] [[Captain America|character of the same name]]—commonly known by his [[alter ego]], '''Captain America'''. In the films, Steve Rogers is a World War II-era U.S. Army soldier who was given enhanced physical and mental capabilities with a "super-soldier" serum developed by the military, and who was later frozen in ice for 70 years.
+
+{{As of|2019}}, the character is one of the central figures of the Marvel Cinematic Universe, having played a major role in seven films of the series, and having a brief cameo in four.
+
+==Concept, creation, and characterization==
+Captain America was first conceived as a comic book character in 1940,<ref name=joesimonp50 /> as a direct response to the military actions of [[Nazi Germany]], prior to the United States entering [[World War II]].<ref name="Wright 36" /> The initial introduction of the character included the concepts of a soldier named Steve Rogers being given a serum bestowing enhanced strength and agility, wearing a patriotic red, white and blue uniform, [[Captain America's shield|carrying a shield]], and having as a sidekick a teenaged Bucky Barnes. In the 1960s, Marvel decided to test bringing the character back as part of the Avengers, with the premise that the character had been frozen for the two decades since the war, and was "haunted by past memories, and trying to adapt to 1960s society".<ref name="Wright" /> Live-action performances of the character in television and film serials began within a few years after its creation, with a [[Captain America (1990 film)|1990 feature film]] coming as a critical and financial failure.<ref name="ew92" />
+
+In the mid-2000s, [[Kevin Feige]] realized that Marvel still owned the rights to the core members of the [[Avengers (comics)|Avengers]], which included Captain America. Feige, a self-professed "fanboy", envisioned creating a shared universe just as creators [[Stan Lee]] and [[Jack Kirby]] had done with their comic books in the early 1960s.<ref name="BostonApril2012" /> In 2005, Marvel received a $525 million investment from [[Merrill Lynch]], allowing them to independently produce ten films, including ''Captain America''. [[Paramount Pictures]] agreed to distribute the film.<ref name="Development3" /><ref name="Development5" /><ref name="Development6" />
+
+Originally, the film would stand alone; producer Kevin Feige said "about half" the movie would be set during World War II before moving into the modern day.<ref name="IGN.com 2007" /> Producer [[Avi Arad]] said, "The biggest opportunity with Captain America is as a man 'out of time', coming back today, looking at our world through the eyes of someone who thought the perfect world was small-town United States. Sixty years go by, and who are we today? Are we better?" He cited the [[Back to the Future (franchise)#Films|''Back to the Future'' trilogy]] as an influence, and claimed he had "someone in mind to be the star, and definitely someone in mind to be the director".<ref name="Development7" /> In February 2006, Arad hoped to have a summer 2008 theatrical release date.<ref name="Development8" /> In April 2006, [[David Self]] was hired to write the script.<ref name="Self" /> [[Joe Johnston]] met with Marvel to discuss directing the film, and signed on in November 2008,<ref name=Johnston /> hiring [[Christopher Markus and Stephen McFeely]] to rewrite.<ref name="MarkusMcFreely" />
+
+''[[Variety (magazine)|Variety]]'' reported in March 2010 that Chris Evans was cast as Captain America and Hugo Weaving as the Red Skull;<ref name="EvansWeavingConfirmed" /> [[Ryan Phillippe]] and [[John Krasinski]] were also considered for the role of Captain America.<ref name="PhillippeKrasinski" /> Evans, who previously worked with Marvel as the [[Human Torch]] in the [[Fantastic Four in film|''Fantastic Four'' film series]], initially declined the part three times before signing a six-picture deal with Marvel,<ref name="EW" /> saying, "I think Marvel is doing a lot of good things right now, and it's a fun character.&nbsp;... I think the story of Steve Rogers is great. He's a great guy. Even if it [were] just a script about anybody, I would probably want to do it. So it wasn't necessarily about the comic itself."<ref name="ScreenRant1" /> In April, it was reported that [[Joss Whedon]] would rewrite the script as part of his negotiation to write and direct ''[[The Avengers (2012 film)|The Avengers]]''. Whedon said in August, "I just got to make some character connections. The structure of the thing was really tight and I loved it, but there were a couple of opportunities to find his voice a little bit —and some of the other characters' — and make the connections so that you understood exactly why he wanted to be who he wanted to be. And progressing through the script to flesh it out a little bit".<ref name="PrePro6" />
+{{quote box|width=33%|align=right|quote="Casting Captain America was super hard. I started to think, “Are we not going to be able to find Captain America, and if we can’t, what are we going to do with [[The Avengers (2012 film)|''Avengers'']]? Is the whole thing going to fall apart?” And, then, finally opening ourselves up to [[Chris Evans (actor)|Chris Evans]], who we had initially sort of just looked past because he was [[Human Torch#Film|Johnny Storm]] in a [[Fantastic Four in film#Tim Story films|Fantastic Four franchise]]. Then, bringing him in and showing him the artwork, showing him what was happening in this movie, and he took a weekend to decide."|source=—[[Kevin Feige]], President of Production for Marvel Studios, on casting Chris Evans as Captain America.<ref name="FeigeInterviewVanityFair"/>}}
+
+===Characterization===
+[[File:Chris Evans SDCC 2010 2.jpg|thumb|right|Chris Evans promoting the film ''Captain America: The First Avenger'' at the 2010 [[w:San Diego Comic-Con International|San Diego Comic-Con International]].]]
+In the MCU series, Steve Rogers begins as a frail, sickly young man who is enhanced to the peak of human ability by an experimental serum in order to aid the United States [[World War II|war effort]].<ref name="Graser" /> Regarding the extent of the character's abilities Evans remarked, "He would crush the [[Olympic Games|Olympics]]. Any Olympic sport he's gonna dominate. He can jump higher, run faster, lift stronger weight, but he can be injured. He could roll an ankle and be out for the season. He's not perfect, he's not untouchable. So a lot of the effects, if I'm going to punch someone they're not going to put them on a cable and fly them back 50&nbsp;feet, but he's going to go down, probably not getting back up, which I think humanizes it. It makes it something that, again, I think everyone can relate to a little bit more, which I really like."<ref name="Superherohype1" />
+
+In ''The Avengers'', Evans said that Rogers is much darker: "It's just about him trying to come to terms with the modern world. You've got to imagine, it's enough of a shock to accept the fact that you're in a completely different time, but everybody you know is dead. Everybody you cared about. . . He was a soldier, obviously, everybody he went to battle with, all of his brothers in arms, they're all dead. He's just lonely. I think in the beginning it's a fish-out-of-water scene, and it's tough. It's a tough pill for him to swallow. Then comes trying to find a balance with the modern world".<ref name="EW4" /> Regarding the dynamic between Rogers and [[Tony Stark (Marvel Cinematic Universe)|Tony Stark]]'s ([[Robert Downey Jr.]]), Evans said, "I think there's certainly a dichotomy—this kind of friction between myself and Tony Stark, they're polar opposites. One guy is flash and spotlight and smooth, and the other guy is selfless and in the shadows and kind of quiet and they have to get along. They explore that, and it's pretty fun."<ref name="MTVNews10" /> A key moment in ''The Avengers'' occurs when Stark, who has been dismissive of Rogers at earlier points in the film, defers to Rogers as leader of the newly formed team to defend New York against a large-scale attack.<ref name="McLevy" /> Describing his character's continuing adjustment to the modern world in ''The Winter Soldier'', Evans said, "It's not so much about his shock with [technology]... It's more about the societal differences. He's gone from the '40s to today; he comes from a world where people were a little more trusting, the threats not as deep. Now, it's harder to tell who's right and wrong. Actions you take to protect people from threats could compromise liberties and privacy. That's tough for Steve to swallow."<ref name="SlashFilm" />
+
+In his next appearance, in ''Age of Ultron'', Rogers is the leader of the Avengers.<ref name="MTV3" /><ref name="DigitalSpy" /> Evans stated that since the fall of [[S.H.I.E.L.D.]] in ''[[Captain America: The Winter Soldier]]'', Rogers has been left to depend on his Avenger teammates without the structure of military life and is now "looking to understand where he belongs, not just as a soldier, as Captain America, but as Steve Rogers, as a person."<ref name="BuzzFeed" /> In ''Civil War'', Rogers becomes the leader of a faction of [[The Avengers (Marvel Cinematic Universe team)|Avengers]] against regulation.<ref name="VarietyAug2015" /><ref name="FandangoMarch2016" />  Director Anthony Russo described Captain America's character arc in the film as taking him "from the most ra-ra company man" to someone who is "a somewhat willing propagandist" to "an insurgent" at the end of the film.<ref name="RussosEmpire" /> Unlike the comics' Civil War, the film was never going to kill Rogers, as the directors thought that was "an easy ending ... The more difficult and more interesting place to leave a family fight is: can these important relationships ever be repaired? Is this family broken permanently?"<ref name="Empire12Secrets" />
+
+Joe Russo said after the events of ''[[Captain America: Civil War]]'' (2016), Rogers struggles with the conflict between his responsibility to himself and his responsibility to others. In ''Infinity War'', the character therefore embodies the "spirit" of his comic alternate identity [[Nomad (comics)|Nomad]] in the film.<ref name="NotNomad" /> An early draft of the film experimented with Rogers first appearing in the film saving [[Vision (Marvel Cinematic Universe)|Vision]] from [[Corvus Glaive (Marvel Cinematic Universe)|Corvus Glaive]]'s attack in [[Wakanda]]. Markus and McFeely said they were called "insane" for waiting that long to introduce Rogers into the film and ultimately conceded it was "not [a] satisfying" approach.<ref name="RogersLateEntry" />
+
+In ''Avengers: Endgame'', Christopher Markus described Rogers as someone who is "moving toward some sort of enlightened self-interest." Both he and McFeely knew he was going to get "the dance" he promised [[Peggy Carter]] in ''[[Captain America: The First Avenger]]'' (2011), with McFeely saying, "He's postponed a life in order to fulfill his duty. That's why I didn't think we were ever going to kill him. Because that’s not the arc. The arc is, I finally get to put my shield down because I've earned that."<ref name="NYMarkusMcFeely">{{Cite web |url=https://www.nytimes.com/2019/04/29/movies/avengers-endgame-questions-and-answers.html |title='Avengers: Endgame': The Screenwriters Answer Every Question You Might Have |last=Itzkoff |first=Dave |date=April 29, 2019 |work=[[The New York Times]] |access-date=May 15, 2019 |archive-url=https://web.archive.org/web/20190514173025/https://www.nytimes.com/2019/04/29/movies/avengers-endgame-questions-and-answers.html |archive-date=May 14, 2019 |url-status=live}}</ref> Although Rogers is mentioned in ''[[Spider-Man: Far From Home]]'' as being among the heroes who died fighting Thanos, it has been noted that the civilian population of the MCU would not be aware of Rogers' true fate.<ref name="SN-7-3-19">{{cite web|url=https://screenrant.com/spiderman-far-home-kill-captain-america/|title=No, Spider-Man: Far From Home Didn't Just Kill An Avenger|first=Thomas|last=Bacon|website=[[Screen Rant]]|date=July 3, 2019}}</ref>
+
+===Appearance and special effects===
+
+Costume designer Anna B. Sheppard stated the Captain America's uniform in ''Captain America: The First Avenger'' was partly based on that of [[paratroopers]] of the era, explaining, "I think that the challenge of this costume was that it had to look 40s, that's why certain elements like using leather for the straps and belt, metal buckles and not having too tight a fit were important. Forget spandex!"<ref>{{cite web|url=http://clothesonfilm.com/captain-america-qa-with-costume-designer-anna-sheppard/21536/|title=Captain America: Q&A with Costume Designer Anna B. Sheppard|publisher=Clothes of Film|last=Laverty|first=Christopher|date=July 29, 2011|accessdate=November 16, 2016|archive-url=https://web.archive.org/web/20161029155615/http://clothesonfilm.com/captain-america-qa-with-costume-designer-anna-sheppard/21536/|archive-date=2016-10-29|url-status=live}}</ref> Visual Development Supervisor Ryan Meinerding elaborated, "The straps that come off his chest are very similar to the [[All-purpose Lightweight Individual Carrying Equipment|ALICE]] webbing that was used in [[Vietnam War|Vietnam]]. Using the straps as the stripes across his torso then seemed like an elegant design solution. In the end, the main design aspects of this suit are meant to be about making it appear soldier-like, functional and tough."<ref>{{cite web|url=http://www.cbr.com/exclusive-the-art-of-captain-america-with-ryan-meinerding/|title=Exclusive: The "Art of Captain America" with Ryan Meinerding|website=[[Comic Book Resources]]|last=Campbell|first=Josie|date=July 14, 2011|accessdate=November 16, 2016|archive-url=https://web.archive.org/web/20161117065116/http://www.cbr.com/exclusive-the-art-of-captain-america-with-ryan-meinerding/|archive-date=2016-11-17|url-status=live}}</ref>
+
+For ''The Winter Soldier'', Evans trained in [[parkour]], [[Brazilian jiu-jitsu]], [[karate]], [[boxing]], [[kickboxing]], and [[gymnastics]], as the Russo brothers believed that bringing Rogers into the modern day also meant that he had studied and mastered modern fighting styles and techniques. The filmmakers also looked to make the character's shield, which has traditionally been used for defense, a more offensive weapon.<ref name="StitchKingdom" /> For ''Age of Ultron'', Evans said that he was able to maintain the strength he built up for ''The Winter Soldier'' by working out up to an hour a day.<ref name="Evans3" /> Evans felt he did not want to take a step back from the skills shown in ''The Winter Soldier'', making sure Rogers' fighting style advanced, showing "a consistent display of strength" and having Rogers utilizing his environment.<ref name="Fandango" /> Evans' training regimen to get in shape for the role included weight lifting, which consisted of "the classic bodyweight and bodybuilding stuff", gymnastics and [[plyometrics]], while staying away from cardio-based exercises, along with a high-protein diet.<ref name="EvansBodyBuilding" /> His costume in the film received "subtle changes to all the details and cut" as well as its color, becoming a combination of the stealth suit from ''Winter Soldier'' and the ''Avengers: Age of Ultron'' suit.<ref name="StitchKingdom2" /> Prior to the release of ''Infinity War'', Rogers was criticized for his civilian attire throughout the series to that point, described as being "like a Kohl's mannequin, or a Wii avatar: bereft of patterns, graphics, imagery or anything you couldn't color in with one singular crayon".<ref>{{cite web|url=https://www.vulture.com/2018/04/a-serious-critique-of-the-mcus-off-duty-fashion.html|title=A Serious Critique of the MCU's Street Style|publisher=[[Vulture.com]]|first=Arye|last=Dworken|date=April 23, 2018|access-date=2018-12-20|archive-url=https://web.archive.org/web/20181220230630/https://www.vulture.com/2018/04/a-serious-critique-of-the-mcus-off-duty-fashion.html|archive-date=2018-12-20|url-status=live}}</ref>
+
+In ''Infinity War'', Rogers receives new vibranium gauntlets from Shuri to replace his traditional shield.<ref name="EWBTS" /> At the end of ''Endgame'', [[Patrick Gorman (American actor)|Patrick Gorman]] plays an elderly Steve Rogers.<ref name="PatrickGorman">{{Cite news |url=https://www.express.co.uk/entertainment/films/1134680/Avengers-Endgame-Captain-America-old-man-body-double-time-travel-actor |title=Avengers Endgame: Captain America 'old man' body double teased twist LONG before release |first= Shaun |last=Kitchener |work=[[Daily Express]] |location=UK |date=May 31, 2019 |access-date=June 15, 2019 |archive-date=May 31, 2019 |archive-url=https://web.archive.org/web/20190531185928/https://www.express.co.uk/entertainment/films/1134680/Avengers-Endgame-Captain-America-old-man-body-double-time-travel-actor |url-status=live}}</ref>
+
+==Marvel Cinematic Universe==
+===Appearances in feature films===
+{{Main|Captain America: The First Avenger|The Avengers (2012 film)|Captain America: The Winter Soldier|Avengers: Age of Ultron|Ant-Man (film)|Captain America: Civil War|Spider-Man: Homecoming|Avengers: Infinity War|Captain Marvel (film)|Avengers: Endgame}}
+
+[[Chris Evans (actor)|Chris Evans]] portrays Steve Rogers in the [[Marvel Cinematic Universe]] films ''Captain America: The First Avenger'' (2011),<ref>{{cite web |last=Graser |first=Marc |url=http://www.variety.com/article/VR1118016757 |title=Chris Evans to play 'Captain America' |work=[[Variety (magazine)|Variety]] |date=March 22, 2010 |accessdate=March 23, 2010 |archiveurl=https://www.webcitation.org/5yDf8FlJ2?url=http://www.variety.com/article/VR1118016757.html?categoryid=13&cs=1 |archivedate=April 25, 2011 |url-status=live |df=mdy-all }}</ref> ''The Avengers'' (2012), ''Captain America: The Winter Soldier'' (2014),<ref>{{cite web |date=June 6, 2012 |first=Jeff |last=Sneider |title=Russo brothers tapped for ''Captain America 2'': Disney and Marvel in final negotiations with ''Community'' producers to helm pic |url=http://www.variety.com/article/VR1118055101 |work=Variety |accessdate=July 3, 2012 |archiveurl=https://www.webcitation.org/69D0LgrF6?url=http://www.variety.com/article/VR1118055101?refCatId=13 |archivedate=July 16, 2012 |url-status=live |df=mdy-all }}</ref> ''Avengers: Age of Ultron'' (2015),<ref>{{cite web|url=http://www.deadline.com/2013/08/chris-evans-to-helm-130-train-before-reprising-captain-america-in-avengers-2/ |title=Chris Evans To Helm ''1:30 Train'' Before Reprising Captain America In ''Avengers 2'' |first=Mike |last=Flemming, Jr. |website=[[Deadline Hollywood]] |date=August 1, 2013 |archiveurl=https://www.webcitation.org/6IfngyrhB?url=http://www.deadline.com/2013/08/chris-evans-to-helm-130-train-before-reprising-captain-america-in-avengers-2/ |archivedate=August 6, 2013 |url-status=live |df=mdy }}</ref> ''Captain America: Civil War'' (2016),<ref>{{cite web|last=Kroll |first=Justin |date=January 21, 2014 |title=''Captain America 3'' Takes Shape at Marvel (Exclusive) |url=https://variety.com/2014/film/news/anthony-joe-russo-captain-america-3-1201073078/ |work=Variety |archiveurl=https://www.webcitation.org/6MyFpKgrN?url=http://variety.com/2014/film/news/anthony-joe-russo-captain-america-3-1201073078/ |archivedate=January 28, 2014 |accessdate=January 21, 2014 |url-status=live |df=mdy }}</ref> ''Spider-Man: Homecoming'' (2017),<ref>{{cite web|url=http://www.cbsnews.com/news/spider-man-homecoming-trailer-captain-america/|title=New "Spider-Man: Homecoming" trailer teases Iron Man, Captain America|last=Ehrbar|first=Ned|publisher=[[CBS News]]|date=March 28, 2017|accessdate=March 28, 2017|archiveurl=https://www.webcitation.org/6pIy3Rmjh?url=http://www.cbsnews.com/news/spider-man-homecoming-trailer-captain-america/|archivedate=March 28, 2017|url-status=live}}</ref> ''Avengers: Infinity War'' (2018), ''Captain Marvel'' (2019),<ref>{{cite web |url=https://www.theverge.com/2019/3/7/18255336/captain-marvel-post-credits-scene-avengers-endgame-flerken-alien-cat-goose-tesseract |title=One of Captain Marvel's post-credits scenes is great news for Avengers: Endgame |last=Robinson |first=Tasha |work=[[The Verge]] |publisher=[[Vox Media]] |date=March 7, 2019 |accessdate=March 8, 2019 }}</ref> and ''Avengers: Endgame'' (2019).<ref>{{cite web|url=http://collider.com/avengers-3-4-chris-hemsworth-reveals-marvel-movies-left-on-his-contract/|title=Chris Hemsworth Reveals the 3 Marvel Movies Left on His Contract|publisher=[[Collider.com]]|last=Chitwood|first=Adam|date=April 14, 2015|archiveurl= https://web.archive.org/web/20150927101252/http://collider.com/avengers-3-4-chris-hemsworth-reveals-marvel-movies-left-on-his-contract/|archivedate= September 27, 2015|url-status=live}}</ref> <!--DO NOT ADD THOR THE DARK WORLD HERE! IT NOTED FURTHER DOWN THE ARTICLE AS IT IS A CAP REFERENCE, SINCE IT IS LOKI DISGUISED AS CAP. THANK YOU!--> In addition Evans makes an uncredited cameo appearance in ''[[Ant-Man (film)|Ant-Man]]'' (2015).<ref>{{cite web|url=http://www.irishexaminer.com/breakingnews/entertainment/ant-man-post-credit-scenes-revealed--spoilers-in-here-685499.html |title=''Ant-Man'' post credit scenes revealed - spoilers in here! |work=[[Irish Examiner]] |date=July 8, 2015 |accessdate=July 17, 2015 |archiveurl=https://www.webcitation.org/6a58Im7gv?url=http://www.irishexaminer.com/breakingnews/entertainment/ant-man-post-credit-scenes-revealed--spoilers-in-here-685499.html |archivedate=July 17, 2015 |url-status=live|df=mdy }}</ref> Evans confirmed that he intended to retire from the role after the fourth Avengers film, leading to speculation that the character would die over the course of the final film;<ref>{{cite magazine|url=https://variety.com/2018/film/news/chris-evans-not-playing-captain-america-after-avengers-4-1202734285/|title=Chris Evans Is Probably Done Playing Captain America After ‘Avengers 4’|first=Tara|last=Bitran|magazine=[[Variety (magazine)|Variety]]|date=March 22, 2018|access-date=2018-06-18|archive-url=https://web.archive.org/web/20180615062549/https://variety.com/2018/film/news/chris-evans-not-playing-captain-america-after-avengers-4-1202734285/|archive-date=2018-06-15|url-status=live}}</ref> in the finale of ''Endgame'', Rogers uses a time machine to go back and live out a full life with Peggy Carter, with his elder self subsequently appearing in the present to pass on his shield to Sam Wilson.{{citation needed|date=July 2019}} Theater actor Leander Deeny was the [[body double]] in some shots in the first film for Steve Rogers' pre-transformation physique.<ref name="Deeny1">{{cite news|url=http://www.hollywood.com/news/Exclusive_Interview_With_Hayley_Atwell/7818578 |work=Hollywood.com |title=Exclusive Interview With Hayley Atwell |first=Thomas |last=Leupp |date=July 19, 2011 |accessdate=June 5, 2012 |archivedate=June 5, 2012 |archiveurl=https://www.webcitation.org/68CGfKbRd?url=http://www.hollywood.com/news/Exclusive_Interview_With_Hayley_Atwell/7818578 |url-status=live |df=mdy }}</ref><ref name="Deeny2">{{cite web|title=Uncovered: 'Captain America's' Skinny Steve Rogers — Leander Deeny |url=http://thewrap.com/movies/article/meet-captain-americas-skinny-steve-rogers-leander-deeny-29756 |publisher=[[TheWrap.com]] |first=Brent |last=Lang |date=August 5, 2011 |accessdate=June 5, 2012 |archivedate=June 5, 2012 |archiveurl=https://www.webcitation.org/68CIJ7jqr?url=http://thewrap.com/movies/article/meet-captain-americas-skinny-steve-rogers-leander-deeny-29756 |url-status=live |df=mdy }}</ref>
+
+===References from other films===
+* In the 2008 film ''[[Iron Man (2008 film)|Iron Man]]'', a replica of Captain America's shield can be seen in Tony Stark's workshop when [[Edwin Jarvis#Film|JARVIS]] is removing his [[Iron Man's armor|armor]] and [[Pepper Potts]] ([[Gwyneth Paltrow]]) spots him.<ref name=shield>{{cite news|url= http://www.scifi.com/scifiwire/index.php?category=0&id=54651|title= Captain America, Thor Details Leaked|last=Lee|first=Patrick|date= May 22, 2008|work= [[Syfy|Sci Fi Wire]]|accessdate= July 23, 2008|archiveurl=https://web.archive.org/web/20080705042721/http://www.scifi.com/scifiwire/index.php?category=0&id=54651|archivedate= July 5, 2008}}</ref>
+* In the 2008 film ''[[The Incredible Hulk (film)|The Incredible Hulk]]'', [[Thunderbolt Ross|General Ross]] ([[William Hurt]]) mentions to [[Abomination (comics)|Emil Blonsky]] ([[Tim Roth]]) that there was a [[World War II]] program that created a [[supersoldier]] serum. The supersoldier serum is shown as well as Dr. Reinstein referenced as its inventor (in the comics, Dr. Reinstein was a pseudonym for Dr. Erskine to avoid Nazi persecution). [[Bruce Banner (Marvel Cinematic Universe)|Bruce Banner]] ([[Edward Norton]]) was involved in an experiment combining the serum with gamma radiation, which resulted in his transformation into the [[Hulk]]. Blonsky is then injected with the serum in order to take on the Hulk, the subsequent combination of the serum and Banner's blood transforming Blonsky into the Abomination.<ref>{{cite web|url=http://movies.ign.com/articles/880/880361p2.html |title=Exclusive: ''Hulk'' Director Speaks |last=Moro |first=Eric |date=June 9, 2008 |website=IGN |archiveurl=https://web.archive.org/web/20121105053810/http://www.ign.com/articles/2008/06/09/exclusive-hulk-director-speaks?page=2 |archivedate=November 5, 2012 |url-status=live |accessdate=July 13, 2008 |df=mdy }}</ref><ref>{{cite news|url=http://www.superherohype.com/features/articles/96357-the-incredible-hulk-smashes-new-york-comic-con |last=Douglas |first=Edward |title=The Incredible Hulk Smashes New York Comic-Con |publisher=[[CraveOnline|Superhero Hype!]] |date=April 20, 2008 |archiveurl=https://www.webcitation.org/6HPKNWXEe?url=http://www.superherohype.com/features/articles/96357-the-incredible-hulk-smashes-new-york-comic-con |archivedate=June 16, 2013 |url-status=live |accessdate=April 21, 2008 |df=mdy }}</ref> In the film's deleted opening, Bruce Banner goes to the Arctic to commit suicide but transforms into the Hulk, smashing a glacier. A buried human figure and shield are visible, who are meant to be Rogers and his shield.<ref>{{cite news |last=Carroll |first=Larry |title=''Hulk'' Producer Talks Sequels, Avengers And Frozen Captain America |publisher=[[MTV]] |date=October 23, 2008 |url=http://splashpage.mtv.com/2008/10/23/hulk-producer-talks-sequels-avengers-and-frozen-captain-america/ |archiveurl=https://www.webcitation.org/6HPKjHv3U?url=http://splashpage.mtv.com/2008/10/23/hulk-producer-talks-sequels-avengers-and-frozen-captain-america/ |archivedate=2013-06-16 |url-status=dead |accessdate=October 24, 2008}}</ref>
+* In the 2010 film ''[[Iron Man 2]]'', [[S.H.I.E.L.D.]] agent [[Phil Coulson]] ([[Clark Gregg]]) discovers an incomplete replica of Captain America's shield inside a box. When he asks Tony Stark if he knows what it is, Tony tells him that it's "just what I need" and places the shield underneath his particle collider to level it. There is also a Captain America comic book (which made an appearance in ''Captain America: The First Avenger'') in Howard Stark's crate delivered to Tony from Nick Fury.
+*In the 2013 film ''[[Thor: The Dark World]]'', Chris Evans makes an uncredited cameo appearance<ref>{{cite web |url= http://comicbook.com/blog/2013/10/23/thor-the-dark-world-features-an-avengers-cameo/|title= ''Thor: The Dark World'' Features An Avengers Cameo|first= Scott|last= Johnson|date= October 23, 2013|publisher= ComicBook.com|archiveurl= https://web.archive.org/web/20140421190714/http://comicbook.com/blog/2013/10/23/thor-the-dark-world-features-an-avengers-cameo/|archivedate= April 21, 2014|url-status=live}}</ref> as [[Loki (Marvel Cinematic Universe)|Loki]] masquerading as Captain America.
+
+===Other media===
+The 2013 [[Marvel One-Shot]] short film ''[[Agent Carter (film)|Agent Carter]]'' features the exploits of [[Peggy Carter]] ([[Hayley Atwell]]) one year after the events of ''Captain America: The First Avenger'', and features a flashback of Carter's final communication with Steve Rogers ([[Chris Evans (actor)|Chris Evans]]).<ref>{{cite web|url=http://insidemovies.ew.com/2013/07/11/marvel-one-shot-agent-carter-first-look/|title=''Marvel One-Shot: Agent Carter'' -- First Look at poster and three photos from the new short!|last=Breznican|first=Anthony|work=[[Entertainment Weekly]]|date=July 11, 2013|accessdate=July 11, 2013|archiveurl= https://web.archive.org/web/20130819012618/http://insidemovies.ew.com/2013/07/11/marvel-one-shot-agent-carter-first-look/|archivedate= August 19, 2013|url-status=live}}</ref> The scene was also shown in the first episode of ''[[Agent Carter (TV series)|Agent Carter]]''.
+
+==Fictional character biography==
+
+===Origin and World War II era activity===
+Steven Grant Rogers was born in [[Brooklyn, New York]] on July 4, 1918. At the outset of [[World War II]], he tries to [[enlist]] but is repeatedly rejected due to several health problems. In 1943, while attending an exhibition with his friend, Sgt. [[Bucky Barnes|James "Bucky" Barnes]], Rogers makes another attempt to enlist. Dr. [[Abraham Erskine]] overhears Rogers speaking with Barnes, and approves his enlistment. He is recruited into the Strategic Scientific Reserve as part of a "[[Supersoldier|super-soldier]]" experiment under Erskine, Col. [[Chester Phillips]], and British agent [[Peggy Carter]]. The night before the treatment, Erskine reveals to Rogers that Nazi officer [[Red Skull|Johann Schmidt]] underwent an imperfect version of the procedure and suffered permanent side-effects.
+
+Erskine subjects Rogers to the treatment, injecting him with a special serum and dousing him with "vita-rays". After Rogers emerges taller and more muscular, an undercover assassin kills Erskine and flees. Rogers pursues and captures the assassin, who commits suicide with a [[cyanide]] capsule. With Erskine dead and the formula lost, U.S. Senator Brandt has Rogers tour the nation in a colorful costume as "Captain America" to promote [[War Bond|war bonds]]. In 1943, while on tour in [[Italian Campaign (World War II)|Italy]], Rogers learns that the 107th – Barnes' unit – was [[Missing in action|MIA]] in a battle against Schmidt's forces. Refusing to believe that Barnes is dead, Rogers has Carter and engineer [[Howard Stark]] fly him behind enemy lines to mount a solo rescue attempt. Rogers infiltrates the fortress of Schmidt's Nazi division [[Hydra (comics)|Hydra]], freeing Barnes and 400 other prisoners. Rogers confronts Schmidt, who reveals himself to be "the Red Skull" and escapes.
+
+Rogers recruits Barnes and several others to form a team to attack other known Hydra bases. Stark outfits Rogers with advanced equipment, most notably a [[Captain America's shield|circular shield]] made of [[vibranium]], a rare, nearly indestructible metal. The team later captures Hydra member Dr. [[Arnim Zola]] on a train, but Barnes falls from the train to his presumed death. Using information extracted from Zola, Rogers leads an attack on the final Hydra stronghold to stop Schmidt from using [[Weapon of mass destruction|weapons of mass destruction]] on major American cities. Rogers climbs aboard Schmidt's aircraft as it takes off, but during the subsequent fight the Tesseract's container is damaged. Schmidt physically handles the Tesseract, causing him to dissolve in a bright light. The Tesseract burns through the plane and is lost in the ocean. Seeing no way to land the plane without the risk of detonating its weapons, Rogers crashes it in the Arctic. Stark later recovers the Tesseract from the ocean floor but is unable to locate Rogers or the aircraft, presuming him dead.
+
+===Adjusting to the modern era===
+Rogers awakens in a 1940s-style hospital room. Deducing from an [[Anachronism|anachronistic]] radio broadcast that something is wrong, he flees outside and finds himself in present-day [[Times Square]], where [[S.H.I.E.L.D.]] director [[Nick Fury]] informs him that he has been "asleep" for nearly 70 years. In a [[post-credits scene]], Fury approaches Rogers and proposes a mission with worldwide ramifications.
+
+When the [[Asgard (comics)|Asgardian]] [[Loki (Marvel Cinematic Universe)|Loki]] arrives and begins menacing Earth, seizing the Tesseract from a S.H.I.E.L.D. facility, Fury activates the Avengers Initiative and approaches Rogers with an assignment to retrieve the Tesseract. In [[Stuttgart]], Rogers and Loki fight briefly until Tony Stark appears in his [[Iron Man's armor in other media#Film|Iron Man armor]], resulting in Loki's surrender. While Loki is being escorted to S.H.I.E.L.D., [[Thor (Marvel Cinematic Universe)|Thor]] arrives and frees him, hoping to convince him to abandon his plan and return to Asgard. After a confrontation with Stark and Rogers, Thor agrees to take Loki to S.H.I.E.L.D.'s flying aircraft carrier, the [[Helicarrier]].
+
+The Avengers become divided, both over how to approach Loki and the revelation that S.H.I.E.L.D. plans to harness the Tesseract to develop weapons. Agents possessed by Loki attack the Helicarrier, disabling one of its engines in flight, which Stark and Rogers must work to restart. Loki escapes, and Stark and Rogers realize that for Loki, simply defeating them will not be enough; he needs to overpower them publicly to validate himself as ruler of Earth. Loki uses the Tesseract to open a wormhole in [[New York City]] above [[Stark Tower]] to allow the Chitauri fleet in space to invade. Rogers leads the others in defending the city.
+
+===Fighting the Winter Soldier===
+Two years later, Rogers works for S.H.I.E.L.D. in [[Washington, D.C.]], under Director Fury, while adjusting to contemporary society. Rogers and Agent [[Natasha Romanoff (Marvel Cinematic Universe)|Natasha Romanoff]] are sent with S.H.I.E.L.D.'s [[counter-terrorism]] [[S.T.R.I.K.E.]] team, led by Agent [[Crossbones (comics)|<!--FIRST NAME IS NEVER MENTIONED IN THE FILM!-->Rumlow]], to free hostages aboard a S.H.I.E.L.D. vessel that has been hijacked by a group lead by [[Batroc the Leaper|Georges Batroc]]. Mid-mission, Rogers discovers Romanoff has her own agenda: to extract data from the ship's computers for Fury. Rogers returns to the [[Triskelion (comics)|Triskelion]], S.H.I.E.L.D.'s headquarters, to confront Fury and is briefed about Project Insight: three [[Helicarrier]]s linked to spy satellites, designed to preemptively eliminate threats against America. Unable to decrypt the data recovered by Romanoff, Fury becomes suspicious about Insight and asks senior S.H.I.E.L.D. official [[Alexander Pierce]] to delay the project.<ref name="CA:TWS">{{cite film|title=[[Captain America: The Winter Soldier]]|date=2014|medium=motion picture|location=United States|publisher=[[Marvel Studios]]}}</ref>
+
+Fury, ambushed by assailants led by the [[Bucky Barnes#Winter Soldier|Winter Soldier]], escapes and warns Rogers that S.H.I.E.L.D. is compromised. Fury is gunned down by the Winter Soldier, but hands Rogers a [[USB flash drive|flash drive]] containing data from the ship. Pierce summons Rogers to the Triskelion, however when Rogers withholds Fury's information, Pierce brands him a fugitive. Hunted by S.T.R.I.K.E., Rogers meets with Romanoff. Using data in the flash drive they discover a secret S.H.I.E.L.D. bunker in New Jersey, where they activate a supercomputer containing the preserved consciousness of [[Arnim Zola]]. Zola reveals that ever since S.H.I.E.L.D. was founded after [[World War II]], [[Hydra (comics)|Hydra]] has secretly operated within its ranks. A S.H.I.E.L.D. missile destroys the bunker, and the pair realize that Pierce is Hydra's leader within S.H.I.E.L.D.<ref name="CA:TWS" />
+
+Rogers and Romanoff enlist the help of former [[United States Air Force Pararescue|USAF pararescueman]] [[Falcon (comics)|Sam Wilson]], whom Rogers befriended, and acquire his powered "Falcon" [[Wingsuit flying|wingpack]]. Deducing that S.H.I.E.L.D. agent [[Jasper Sitwell]] is a Hydra [[Mole (espionage)|mole]], they force him to divulge Hydra's plan to use satellite-guided guns to eliminate individuals identified by an algorithm as a threat to Hydra. They are ambushed by the Winter Soldier, whom Rogers recognizes as [[Bucky Barnes]], his friend who was captured and experimented upon during WWII. S.H.I.E.L.D. operative [[Maria Hill]] manages to extract the trio to a safehouse where Fury, who had faked his death, is waiting with plans to sabotage the Helicarriers by replacing their controller chips. After the World Security Council members arrive for the Helicarriers' launch, Rogers exposes Hydra's plot. Rogers and Wilson storm two Helicarriers and replace the controller chips, but the Winter Soldier destroys Wilson's suit and fights Rogers on the third. Rogers fends him off and replaces the final chip, allowing Hill have the vessels destroy each other. Rogers refuses to fight the Winter Soldier in an attempt to reach his friend, but as the ship collides with the Triskelion, Rogers is thrown into the [[Potomac River]]. The Winter Soldier rescues the unconscious Rogers before disappearing into the woods. Rogers and Wilson decide to find the Winter Soldier.<ref name="CA:TWS" />
+
+===Sokovia and its aftermath===
+In the [[Eastern Europe]]an country of Sokovia, the Avengers raid a Hydra facility to recover Loki's scepter, which Stark and Banner use to complete Stark's "[[Ultron]]" global defense program. Ultron becomes sentient and attacks the Avengers at their headquarters. Ultron is ultimately defeated in Sokovia.
+
+Approximately one year later, the Avengers stop [[Crossbones (comics)|Brock Rumlow]] from stealing a biological weapon from a lab in [[Lagos]], but an explosion damages a nearby building, killing several [[Wakanda]]n humanitarian workers. [[United States Secretary of State|U.S. Secretary of State]] [[Thunderbolt Ross|Thaddeus Ross]] informs the Avengers that the [[United Nations]] (UN) is preparing to pass the [[Registration acts (comics)#Marvel Cinematic Universe|Sokovia Accords]], which will establish a UN panel to oversee and control the team. The Avengers are divided: Stark supports oversight because of his role in Ultron's creation and Sokovia's devastation, while Rogers has more faith in his own judgment than that of a government. [[Helmut Zemo]] tracks down and kills Barnes' old Hydra handler, stealing a book containing the trigger words that activate Barnes' brainwashing. Barnes is framed for the killing of King [[T'Chaka]] of Wakanda, and T'Chaka's son [[Black Panther (comics)|T'Challa]], the Black Panther, vows vengeance. Rogers decides to try to bring in Barnes himself. Rogers and Wilson track Barnes to [[Bucharest]] and attempt to protect him from T'Challa and the authorities, but are apprehended.
+
+Impersonating a psychiatrist sent to interview Barnes, Zemo sends Barnes on a rampage to cover his own escape. Rogers stops Barnes and sneaks him away. When Barnes regains his senses, he explains that Zemo is the real Vienna bomber and wanted the location of the Siberian Hydra base, where other brainwashed "Winter Soldiers" are kept in [[Suspended animation|cryogenic stasis]]. Rogers and Wilson go rogue, and recruit Maximoff, [[Hawkeye (Clint Barton)|Clint Barton]], and [[Ant-Man (Scott Lang)|Scott Lang]] to their cause. Stark assembles a team to capture the renegades, and they fight at [[Leipzig/Halle Airport]], until Romanoff allows Rogers and Barnes to escape. The rest of Rogers' team is captured.
+
+Stark, learning that Barnes was framed by Zemo, convinces Wilson to give him Rogers' destination, and goes to the Siberian Hydra facility. He strikes a truce with Rogers and Barnes, but Zemo has left footage that reveals that an automobile Barnes had intercepted in 1991 contained Stark's parents, whom Barnes subsequently killed. Enraged that Rogers kept this from him, Stark turns on them. After an intense fight, Rogers disables Stark's Iron Man armor and departs with Barnes, leaving his shield behind. Rogers breaks his allies out of the Raft, and heads to Wakanda with Barnes, where Barnes chooses to return to cryogenic sleep until a cure for his brainwashing is found.
+
+=== Fighting Thanos ===
+When [[Black Order (comics)|minions]] of the mad Titan [[Thanos]] ambush Wanda Maximoff and Vision in Scotland, Rogers, Romanoff, and Wilson rescue them and take them to Rhodes at the Avengers' headquarters. Rogers suggests that they travel to Wakanda to remove the [[Infinity Stones#Film|Mind Stone]] in Vision's forehead to keep Thanos from retrieving it while keeping Vision's personality intact. Thanos' army of Outriders invade Wakanda, and Rogers and the Avengers mount a defense alongside King T'Challa and the Wakandan armies. Thanos defeats the Avengers, including Rogers, and retrieves the Mind Stone from Vision, destroying him. Thanos activates the Stones and Steve watches as people begin disintegrating, including Barnes and Wilson.
+
+Assessing the worldwide casualties, and discovering that Thanos has destroyed half of all living things, the Avengers and new allies [[Nebula (comics)|Nebula]], [[Rocket Raccoon|Rocket]], and [[Carol Danvers|Captain Marvel]] detect a similar burst of energy on a distant planet. Steve leads the team in an assault against Thanos and discover that Thanos, satisfied that his work is done, has destroyed the Stones. In anger, Thor beheads Thanos and the defeated team returns to Earth.
+
+=== Avenging the Fallen ===
+Five years later, Rogers splits his time between leading a support group for grieving survivors and helping the surviving heroes maintain peace around the world. Scott Lang, who was presumed dead, returns and explains that he has been trapped in the quantum realm. A plan develops to use the quantum realm to travel in time and recover the Stones from the past, so that they can be used to restore the people that Thanos destroyed. Stark and Rogers conclude their nearly decade-long feud, reestablishing their trust in one another with Stark returning his shield. Rogers teams with Stark, Banner, and Lang and they travel to the Battle of New York in 2012 to retrieve the three Stones present there. They succeed in securing the Time Stone and Loki's scepter containing the Mind Stone, with Rogers having to fight his past self to facilitate this. However, Loki escapes with the Tesseract housing the Space Stone, necessitating a trip further back in time to 1970 so that Stark can recover it from the S.H.I.E.L.D. base in New Jersey, while Rogers finds Pym particles at the same base for their trip back to 2023. While hiding in an office in the S.H.I.E.L.D. base, Rogers sees Peggy Carter through a window. All the retrieval teams return to the present, save for Romanoff, and all six Stones are used by Hulk to restore the lost. However, immediately after that a 2014 version of Thanos, who has discovered their plan, emerges from the quantum tunnel and attacks the Avengers HQ.
+
+During a final battle, Rogers proves worthy to wield Thor's hammer [[Mjolnir (comics)|Mjolnir]] against Thanos. After Thanos gains the upper hand, Rogers, bruised and battered with his shield in tatters, stands up alone to face the Titan. However, the restored heroes arrive in time to aid Rogers, and he rallies them by saying, "Avengers Assemble," and leads them during their final stand against Thanos and his army. Stark uses the Infinity Stones to disintegrate Thanos and his army, but the intense energy of the Stones kills him in the process. After attending Stark's funeral, Rogers takes the task of returning the Infinity Stones and Thor's hammer to their proper times. However, instead of returning to the present, he chooses to remain in the past with Peggy Carter, and live the full life he'd always wanted. In the present, an elderly Rogers visits Sam Wilson and passes his shield to him.
+
+Months later, as Earth continues to resolve the effects of the snap, Rogers is mentioned among the names of those who died fighting Thanos.<ref name="SN-7-3-19"/>
+
+==Differences from the comic books==
+The origin story of Captain America faithfully follows that of the comic books, particularly [[Ultimate Marvel]] for certain elements like growing up in Brooklyn and Bucky being a childhood best friend rather than being met later, but diverges from there. Rogers is also a founding Avenger, unlike in the comics where he is a later addition to the roster and the formed Avengers are the ones who thaw him out of the ice.<ref name="Bacon">{{cite web|url=https://screenrant.com/marvel-movies-not-adapt-comics/|title=The MCU Isn't Pretending To Adapt Marvel Comics Stories Any More|first=Thomas|last=Bacon|website=[[Screen Rant]]|date=August 28, 2018|access-date=2018-12-07|archive-url=https://web.archive.org/web/20181215224509/https://screenrant.com/marvel-movies-not-adapt-comics/|archive-date=2018-12-15|url-status=live}}</ref> In the comic books, Steve Rogers is murdered at the event of the ''Civil War'' storyline, leading to Bucky Barnes becoming the next Captain America. In the MCU Rogers survives ''Civil War'',<ref>{{cite web|url=https://www.cinemablend.com/news/2462827/how-marvel-should-handle-captain-america-after-avengers-4|title=How Marvel Should Handle Captain America After Avengers 4|first=Matt|last=Wood|publisher=cinemablend|date=December 5, 2018|access-date=2018-12-07|archive-url=https://web.archive.org/web/20181206114117/https://www.cinemablend.com/news/2462827/how-marvel-should-handle-captain-america-after-avengers-4|archive-date=2018-12-06|url-status=live}}</ref> eventually passing the mantle of Captain America to Sam Wilson in ''Avengers: Endgame''.<ref>{{cite web|url=https://www.thewrap.com/avengers-endgame-captain-america-chris-evans-anthony-mackie/|title='Avengers: Endgame' – Let's Talk About the Future of Captain America and Sam Wilson|first1=Trey|last1=Williams|first2=Ross A.|last2=Lincoln|work=The Wrap|date=April 26, 2019|access-date=April 27, 2019}}</ref> In the comics, Wilson became Captain America in 2014.<ref>''Captain America'' (vol.7) #25. Marvel Comics.</ref>
+
+==Reception==
+Evans' portrayal of the character has been positively received by fans and critics. Roger Moore of the ''[[Orlando Sentinel]]'' positively reviewed Evans' performance as Steve Rogers, writing that Evans "brings a proper earnestness to the character".<ref name="Critical2">{{cite web |last=Moore |first=Roger |date=July 20, 2011 |title=Movie Review: Captain America, the First Avenger |url=http://blogs.orlandosentinel.com/entertainment_movies_blog/2011/07/movie-review-captain-america-the-first-avenger.html |work=[[Orlando Sentinel]] |archiveurl=https://www.webcitation.org/60K8HEZCZ?url=http://blogs.orlandosentinel.com/entertainment_movies_blog/2011/07/movie-review-captain-america-the-first-avenger.html# |archivedate=July 20, 2011 |accessdate=July 20, 2011 |url-status=dead |df=mdy-all }}</ref> [[Roger Ebert]] described the character as "a hero we care about and who has some dimension".<ref name="Ebert">{{cite web|last=Ebert |first=Roger |authorlink=Roger Ebert |date=July 20, 2011 |title=Captain America |url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20110720/REVIEWS/110729997/1001/reviews |work=[[Chicago Sun-Times]] |archiveurl=https://web.archive.org/web/20111011142110/http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=%2F20110720%2FREVIEWS%2F110729997%2F1001%2Freviews |archivedate=October 11, 2011 |accessdate=July 21, 2011 |url-status=live |df=mdy }}</ref> Likewise, in his review of ''[[Avengers: Endgame]]'', [[Joe Morgenstern]] of ''[[The Wall Street Journal]]'' lauded both actor and character, calling "Chris Evans’s effortlessly likable Steve Rogers/Captain America, the team’s natural leader."<ref name="MorgensternEndgame">{{cite journal|url=https://www.wsj.com/articles/avengers-endgame-review-a-marvelous-wrap-11556124677|title=‘Avengers: Endgame’ Review: A Marvelous Wrap|last=Morgenstern|first=Joe|journal=[[The Wall Street Journal]]|date=April 25, 2019|accessdate=June 3, 2019|archiveurl=http://www.webcitation.org/78rjAMsPj|archivedate=June 3, 2019|url-status=live}}</ref>
+
+Peter DeBruge, writing for ''[[Variety (magazine)|Variety]]'', had a more critical take, finding that "as Marvel heroes go, Captain America must be the most vanilla of the lot", and that because of his quick healing and fighting abilities, "there's never the slightest concern that the Nazis might get the better of him".<ref name="Critical6">{{cite news|last=Debruge |first=Peter |date=July 20, 2011 |title=Captain America: The First Avenger |url=http://www.variety.com/review/VE1117945677 |work=[[Variety (magazine)|Variety]] |accessdate=July 20, 2011 |archiveurl=https://web.archive.org/web/20111220154508/http://www.variety.com/review/VE1117945677?refcatid=31 |archivedate=December 20, 2011 |url-status=live |df=mdy }}</ref>
+
+In 2015, [[Empire (film magazine)|''Empire'']] named Rogers (as Captain America) the 46th greatest film character of all time.<ref>{{cite web|author=Team Empire|title=The 100 Greatest Movie Characters|url=https://www.empireonline.com/movies/features/100-greatest-movie-characters/|date=29 Jun 2015|website=Empire|publisher=Bauer Consumer Media Ltd|accessdate=12 May 2018|archive-url=https://web.archive.org/web/20160101035743/https://www.empireonline.com/movies/features/100-greatest-movie-characters/|archive-date=2016-01-01|url-status=live}}</ref> [[Watchmojo.com]] ranked Evans' portrayal of the character #1 on their "Top 10 Movie Superhero Portrayals"<ref>https://www.watchmojo.com/video/id/16131</ref>
+
+In a December 2017 interview with [[Vanity Fair (magazine)|''Vanity Fair'']], [[Marvel Studios]] president [[Kevin Feige]] called Evans "a great actor" albeit "a reluctant star" and his portrayal of Captain America was on par with [[Christopher Reeve]]'s [[Superman (Salkind films)|Superman]] performance "as just like 'these are the characters'" from the comic books.<ref name="FeigeInterviewVanityFair">{{cite journal|url=https://www.vanityfair.com/hollywood/2017/12/marvel-kevin-feige-interview|title=An Extended Conversation with Kevin Feige|last=Robinson|first=Joanna|journal=[[Vanity Fair (magazine)|Vanity Fair]]|date=December 6, 2017|accessdate=June 27, 2019|archivedate=December 6, 2017|url-status=live}}</ref>
+
+===Accolades===
+{{Anchor|Awards|Accolades}}
+{| class="wikitable sortable"
+|-
+! Year
+! Film
+! Award
+! Category
+! Result
+! scope="col" class="unsortable"| {{Abbr|Ref(s)|Reference(s)}}
+|-
+| rowspan="4"| 2011
+| rowspan="7"| ''[[Captain America: The First Avenger]]''
+| [[2011 Teen Choice Awards|Teen Choice Awards]]
+| Choice Summer Movie Star: Male
+| {{nom}}
+| style="text-align: center;"|<ref name="2011TeenChoice" />
+|-
+| rowspan="3"| [[2011 Scream Awards|Scream Awards]]
+| Best Science Fiction Actor
+| {{nom}}
+| rowspan="3" style="text-align: center;"|<ref name="2011ScreamAwards" />
+|-
+| Best Superhero
+| {{won}}
+|-
+| Fight Scene of the Year {{small|(with [[Hugo Weaving]])}}
+| {{nom}}
+|-
+| rowspan="4"| 2012
+| [[38th People's Choice Awards|People's Choice Awards]]
+| Favorite Movie Superhero
+| {{nom}}
+| style="text-align: center;"|<ref name="2012PeoplesChoice" />
+|-
+| [[2012 MTV Movie Awards|MTV Movie Awards]]
+| [[MTV Movie Award for Best Hero|Best Hero]]
+| {{nom}}
+| style="text-align:center;"|<ref name="2012MTVAwards" />
+|-
+| [[38th Saturn Awards|Saturn Awards]]
+| [[Saturn Award for Best Actor|Best Actor]]
+| {{nom}}
+| style="text-align: center;"|<ref name="2012SaturnAwards" />
+|-
+| rowspan="4"| ''[[The Avengers (2012 film)|The Avengers]]''
+| [[2012 Teen Choice Awards|Teen Choice Awards]]
+| Choice Movie: Male Scene Stealer: Male
+| {{nom}}
+| style="text-align: center;"|<ref name="2012TeenChoice" />
+|-
+| rowspan="3"| 2013
+| rowspan="2"| [[39th People's Choice Awards|People's Choice Awards]]
+| Favorite Action Movie Star
+| {{nom}}
+| rowspan="2" style="text-align: center;"|<ref name="2013PeoplesChoice" />
+|-
+| Favorite Movie Superhero
+| {{nom}}
+|-
+| [[2013 MTV Movie Awards|MTV Movie Awards]]
+| [[MTV Movie Award for Best Fight|Best Fight]] {{small|(with cast)}}
+| {{won}}
+| style="text-align:center;"|<ref name="2013MTVAwards" />
+|-
+| rowspan="4"| 2014
+| rowspan="10"| ''[[Captain America: The Winter Soldier]]''
+| rowspan="3"| [[2014 Teen Choice Awards|Teen Choice Awards]]
+| [[Teen Choice Award for Choice Movie Actor – Sci-Fi/Fantasy|Choice Movie Actor: Sci-Fi/Fantasy]]
+| {{nom}}
+| rowspan="3" style="text-align:center;"|<ref name="2014TeenChoice" />
+|-
+| Choice Movie: Chemistry {{small|(with [[Anthony Mackie]])}}
+| {{nom}}
+|-
+| Choice Movie: Liplock {{small|(with [[Scarlett Johansson]])}}
+| {{nom}}
+|-
+| [[2014 Young Hollywood Awards|Young Hollywood Awards]]
+| Super Superhero
+| {{nom}}
+| style="text-align:center;"|<ref name="2014YoungHollywood" />
+|-
+| rowspan="7"| 2015
+| [[20th Critics' Choice Awards|Critics' Choice Awards]]
+| [[Critics' Choice Movie Award for Best Actor in an Action Movie|Best Actor in an Action Movie]]
+| {{nom}}
+| style="text-align:center;"|<ref name="20thCriticsChoice" />
+|-
+| rowspan="2"| [[41st People's Choice Awards|People's Choice Awards]]
+| Favorite Movie Duo {{small|(with [[Scarlett Johansson]])}}
+| {{nom}}
+| rowspan="2" style="text-align:center;"|<ref name="2015PeoplesChoice" />
+|-
+| Favorite Action Movie Actor
+| {{won}}
+|-
+| [[41st Saturn Awards|Saturn Awards]]
+| [[Saturn Award for Best Actor|Best Actor]]
+| {{nom}}
+| style="text-align:center;"|<ref name="2015SaturnAwards" />
+|-
+| rowspan="2"| [[2015 MTV Movie Awards|MTV Movie Awards]]
+| [[MTV Movie Award for Best Fight|Best Fight]] {{small|(with [[Sebastian Stan]])}}
+| {{nom}}
+| rowspan="2" style="text-align:center;"|<ref name="2015MTVAwards" />
+|-
+| [[MTV Movie Award for Best Kiss|Best Kiss]] {{small|(with [[Scarlett Johansson]])}}
+| {{nom}}
+|-
+| rowspan="3"| ''[[Avengers: Age of Ultron]]''
+| [[2015 Teen Choice Awards|Teen Choice Awards]]
+| [[Teen Choice Award for Choice Movie Scene Stealer|Choice Movie Scene Stealer]]
+| {{won}}
+| style="text-align:center;"|<ref name="2015TeenChoice" />
+|-
+| rowspan="6"| 2016
+| [[2016 Kids' Choice Awards|Kids' Choice Awards]]
+| Favorite Movie Actor
+| {{nom}}
+| style="text-align:center;"|<ref name="2016KidsChoice" />
+|-
+| [[2016 MTV Movie Awards|MTV Movie Awards]]
+| [[MTV Movie Award for Best Hero|Best Hero]]
+| {{nom}}
+| style="text-align:center;"|<ref name="2016MTVAwards" />
+|-
+| rowspan="10"| ''[[Captain America: Civil War]]''
+| rowspan="3"| [[2016 Teen Choice Awards|Teen Choice Awards]]
+| [[Teen Choice Award for Choice Movie Actor – Sci-Fi/Fantasy|Choice Movie Actor: Sci-Fi/Fantasy]]
+| {{won}}
+| style="text-align:center;"|<ref name="2016TeenChoice1" />
+|-
+| Choice Movie: Chemistry {{small|(with cast)}}
+| {{nom}}
+| rowspan="2" style="text-align:center;"|<ref name="2016TeenChoice2" />
+|-
+| Choice Movie: Liplock {{small|(with [[Emily VanCamp]])}}
+| {{nom}}
+|-
+| [[22nd Critics' Choice Awards|Critics' Choice Awards]]
+| [[Critics' Choice Movie Award for Best Actor in an Action Movie|Best Actor in an Action Movie]]
+| {{nom}}
+| style="text-align:center;"|<ref name="22ndCriticsChoice" />
+|-
+| rowspan="6"| 2017
+| [[43rd People's Choice Awards|People's Choice Awards]]
+| Favorite Action Movie Actor
+| {{nom}}
+| style="text-align:center;"|<ref name="2017PeoplesChoice" />
+|-
+| rowspan="4"| [[2017 Kids' Choice Awards|Kids' Choice Awards]]
+| Favorite Movie Actor
+| {{nom}}
+| rowspan="4" style="text-align:center;"|<ref name="2017KidsChoice" />
+|-
+| Favorite Butt-Kicker
+| {{won}}
+|-
+| Favorite Frenemies {{small|(with [[Robert Downey Jr.]])}}
+| {{nom}}
+|-
+| #Squad {{small|(with cast)}}
+| {{nom}}
+|-
+| [[43rd Saturn Awards|Saturn Awards]]
+| [[Saturn Award for Best Actor|Best Actor]]
+| {{nom}}
+| style="text-align:center;"|<ref name="2017SaturnAwards" />
+|-
+| 2018
+| rowspan="3"| ''[[Avengers: Infinity War]]''
+| [[2018 Teen Choice Awards|Teen Choice Awards]]
+| Choice Action Movie Actor
+| {{nom}}
+| style="text-align:center;"|<ref name="2018TeenChoice" />
+|-
+| rowspan="6"| 2019
+| rowspan="2"| [[2019 Kids' Choice Awards|Kids' Choice Awards]]
+| Favorite Movie Actor
+| {{nom}}
+| rowspan="2" style="text-align:center;"|<ref name="2019KidsChoice" />
+|-
+| Favorite Superhero
+| {{nom}}
+|-
+| rowspan="4"| ''[[Avengers: Endgame]]''
+| [[2019 MTV Movie & TV Awards|MTV Movie & TV Awards]]
+| [[MTV Movie Award for Best Fight|Best Fight]] {{small|(with [[Josh Brolin]])}}
+| {{nom}}
+| style="text-align:center;"|<ref name="2019MTVAwards" />
+|-
+| [[2019 Teen Choice Awards|Teen Choice Awards]]
+| Choice Action Movie Actor
+| {{nom}}
+| style="text-align:center;"|<ref name="2019TeenChoice" />
+|-
+| [[45th Saturn Awards|Saturn Awards]]
+| [[Saturn Award for Best Actor|Best Actor]]
+| {{nom}}
+| style="text-align:center;"|<ref name="2019SaturnAwards" />
+|-
+| [[45th People's Choice Awards|People's Choice Awards]]
+| Action Movie Star of 2019
+| {{nom}}
+| style="text-align:center;"|<ref name="2019PeoplesChoice" />
+|}
+
+==See also==
+* [[Captain America in other media]]
+
+==References==
+{{Reflist|refs=
+
+<!-- Concept, creation, and characterization -->
+
+<ref name=joesimonp50>{{Cite book |last= Simon|first= Joe|author2=Simon, Jim|title= The Comic Book Makers|publisher= Crestwood/II|year= 1990|page= 50|isbn= 978-1-887591-35-5}} Reissued by Vanguard Productions in 2003.</ref>
+
+<ref name="Wright 36">{{Cite book |last= Wright| first= Bradford W.|title=Comic Book Nation: The Transformation of Youth Culture in America | publisher= [[Johns Hopkins University Press]]|year= 2001|location= Baltimore, Maryland|isbn= 978-0-8018-7450-5|page= 36}}</ref>
+
+<ref name="Wright">{{Cite book |last= Wright| first= Bradford W.|title=Comic Book Nation: The Transformation of Youth Culture in America | publisher= [[Johns Hopkins University Press]]|year= 2001|location= Baltimore, Maryland|isbn= 978-0-8018-7450-5|page= 215}}</ref>
+
+<ref name="ew92">[[Frank Lovece|Lovece, Frank]]. [http://www.ew.com/ew/article/0,,20286021,00.html ''Captain America'' (1992)] (review), ''[[Entertainment Weekly]]'', 31 July 1992. [https://www.webcitation.org/603YilXtp?url=http://www.ew.com/ew/article/0%2C%2C20286021%2C00.html WebCitation archive].</ref>
+
+<ref name="BostonApril2012">{{cite web|date=April 25, 2012 |last=Russo |first=Tom |title=SUPER GROUP |url=http://www.boston.com/ae/movies/articles/2012/04/29/the_avengers_collects_all_your_favorite_marvel_characters_in_one_handy_wannabe_blockbustersuper_groupthe_avengers_assembles_all_your_favorite_marvel_characters_in_one_handy_wannabe_blockbuster/ |publisher=[[Boston.com]] |archiveurl=https://www.webcitation.org/6LK5iBg53?url=http://www.boston.com/ae/movies/articles/2012/04/29/the_avengers_collects_all_your_favorite_marvel_characters_in_one_handy_wannabe_blockbustersuper_groupthe_avengers_assembles_all_your_favorite_marvel_characters_in_one_handy_wannabe_blockbuster/?page=1 |archivedate=November 22, 2013 |url-status=live  }}</ref>
+
+<ref name="Development3">{{cite news|first=Michael |last=Fleming |url=https://variety.com/2000/film/news/artisan-deal-a-real-marvel-1117781709/ |title=Artisan deal a real Marvel |work=[[Variety (magazine)|Variety]] |date=May 16, 2000 |accessdate=March 2, 2008 |archiveurl=https://web.archive.org/web/20110606045111/http://www.variety.com/article/VR1117781709?refCatId=18 |archivedate=June 6, 2011 |url-status=live |df=mdy }}</ref>
+
+<ref name="Development5">Archive of {{cite news|first1=Ben |last1=Fritz |first2=Dana |last2=Harris |title=Paramount pacts for Marvel pix |url=https://variety.com/2005/film/markets-festivals/paramount-pacts-for-marvel-pix-1117921812/ |work=[[Variety (magazine)|Variety]] |date=April 27, 2005 |accessdate=March 2, 2008 |archiveurl=https://web.archive.org/web/20110606045410/http://www.variety.com/article/VR1117921812?refCatId=13 |archivedate=June 6, 2011 |url-status=live |df=mdy }}</ref>
+
+<ref name="Development6">{{cite news|first=Pamela |last=McClintock |url=https://variety.com/2005/film/features/500-mil-pic-fund-feeds-warner-bros-1117924871/ |title=$500 mil pic fund feeds Warner Bros. |work=[[Variety (magazine)|Variety]] |date=June 21, 2005 |accessdate=March 2, 2008 |archiveurl=https://web.archive.org/web/20110629111416/http://www.variety.com/article/VR1117924871?refCatId=13 |archivedate=June 29, 2011 |url-status=live |df=mdy }}</ref>
+
+<ref name="IGN.com 2007">{{cite web|url=http://uk.movies.ign.com/articles/796/796582p1.html |title=Captain America is Coming |website=IGN |date=June 14, 2007 |accessdate=October 7, 2008 |archiveurl=https://www.webcitation.org/5zx6mO5Xb?url=http://uk.movies.ign.com/articles/796/796582p1.html |archivedate=July 5, 2011 |url-status=live |df=mdy }}</ref>
+
+<ref name="Development7">{{cite news|first=Larry |last=Carroll |title=Future Shocks: What's ahead for Avi Arad and his Marvel empire |url=http://www.mtv.com/shared/movies/interviews/a/arad_avi_062005 |publisher=MTV |date=June 2005 |accessdate=March 2, 2008 |archiveurl=https://www.webcitation.org/5zx6nDrCP?url=http://www.mtv.com/shared/movies/interviews/a/arad_avi_062005 |archivedate=July 5, 2011 |url-status=live |df=mdy }}</ref>
+
+<ref name="Development8">{{cite news |first=Steven |last=Zeitchick |url=http://www.variety.com/article/VR1117938775.html |title=Marvel stock soars on rev outlook |work=[[Variety (magazine)|Variety]] |date=February 23, 2006 |accessdate=March 2, 2008 |archiveurl=https://www.webcitation.org/5zx6nxeuD?url=http://www.variety.com/article/VR1117938775.html?categoryid=1056&cs=1# |archivedate=July 5, 2011 |url-status=live |df=mdy-all }}</ref>
+
+<ref name="Self">{{cite news|date=April 27, 2006 |first=Pamela |last=McClintock |title=Marvel Making Deals for Title Wave |url=http://www.variety.com/article/VR1117942193 |work=[[Variety (magazine)|Variety]] |accessdate=March 1, 2008 |archivedate=May 1, 2011 |archiveurl=https://www.webcitation.org/5yMj0t8bu?url=http://www.variety.com/article/VR1117942193 |url-status=dead |df=mdy }}</ref>
+
+<ref name=Johnston>{{cite news|first=Borys |last=Kit |title='Captain America' recruits director |work=[[The Hollywood Reporter]] |date=November 9, 2008 |url=http://www.hollywoodreporter.com/news/captain-america-recruits-director-122606 |accessdate=November 10, 2008 |archiveurl=https://www.webcitation.org/5zsl3VRxw?url=http://www.hollywoodreporter.com/news/captain-america-recruits-director-122606 |archivedate=July 2, 2011 |url-status=live |df=mdy }}</ref>
+
+<ref name="MarkusMcFreely">{{cite news|first1=Borys |last1=Kit |first2=Jay A. |last2=Fernandez |title='Captain America' enlists two scribes |url=http://www.hollywoodreporter.com/news/captain-america-enlists-two-scribes-123195 |work=[[The Hollywood Reporter]] |date=November 18, 2008 |accessdate=November 19, 2008 |archiveurl=https://www.webcitation.org/5zxs4qFXf?url=http://www.hollywoodreporter.com/news/captain-america-enlists-two-scribes-123195 |archivedate=July 6, 2011 |url-status=live |df=mdy }}. (First paragraph; subscription required for full story.)</ref>
+
+<ref name="EvansWeavingConfirmed">{{cite web|url=http://www.variety.com/article/VR1118016757.html |title=Chris Evans to play 'Captain America' |first=Marc |last=Graser |work=[[Variety (magazine)|Variety]] |date=March 22, 2010 |accessdate=March 23, 2010 |archiveurl=https://web.archive.org/web/20101218000746/http://www.variety.com/article/VR1118016757?refCatId=13 |archivedate=December 18, 2010 |url-status=live |df=mdy }}</ref>
+
+<ref name="PhillippeKrasinski">{{cite web|url=http://www.mtv.com/news/1633983/exclusive-ryan-phillippe-confirms-captain-america-audition/ |title=Exclusive: Ryan Phillippe Confirms ‘Captain America’ Audition |last=Ditzian |first=Eric |publisher=[[MTV]] |date=March 15, 2010 |accessdate=September 10, 2014 |archiveurl=https://www.webcitation.org/6SUUmDe9r?url=http://www.mtv.com/news/1633983/exclusive-ryan-phillippe-confirms-captain-america-audition/ |archivedate=September 10, 2014 |url-status=live |df=mdy }}</ref>
+
+<ref name="PrePro6">{{cite web|url=http://www.earthsmightiest.com/fansites/captainamerica/news/?a=7535 |title=Joss Whedon Discusses His Contributions to The First Avenger: Captain America |first=Ed |last=Gross |publisher=Earth's Mightiest |date=August 17, 2010 |accessdate=August 18, 2010 |archiveurl=https://web.archive.org/web/20100819012451/http://www.earthsmightiest.com/fansites/captainamerica/news/?a=7535 |archivedate=August 19, 2010 |url-status=live |df=mdy }}</ref>
+
+<ref name="McLevy">{{cite web|url=https://film.avclub.com/no-one-in-marvels-avengers-universe-has-a-character-arc-1825543016|title=No one in Marvel's Avengers universe has a character arc that compares to Tony Stark's|first=Alex|last=McLevy|publisher=AV Film|date=April 27, 2018|access-date=2018-12-12|archive-url=https://web.archive.org/web/20181215224434/https://film.avclub.com/no-one-in-marvels-avengers-universe-has-a-character-arc-1825543016|archive-date=2018-12-15|url-status=live}}</ref>
+
+<!-- Appearance and special effects -->
+
+<!-- Accolades -->
+
+<ref name="2011TeenChoice">{{cite web|url=http://www.hollywoodreporter.com/news/teen-choice-awards-2011-pretty-212996|title=Teen Choice Awards 2011: 'Pretty Little Liars,' Rebecca Black Added to List of Nominees|last=Ng|first=Philiana|work=[[The Hollywood Reporter]]|date=July 19, 2011|accessdate=July 27, 2011|archiveurl=https://web.archive.org/web/20110722085229/http://www.hollywoodreporter.com/news/teen-choice-awards-2011-pretty-212996|archivedate=July 22, 2011|url-status=live}}</ref>
+
+<ref name="2011ScreamAwards">{{cite web|url=http://www.spike.com/events/scream-awards-2011/|title=Scream 2011|website=[[Spike TV]]|archiveurl=https://web.archive.org/web/20110923173857/http://www.spike.com/events/scream-awards-2011|archivedate=September 23, 2011|accessdate=September 7, 2011|url-status=dead}}</ref>
+
+<ref name="2012PeoplesChoice">{{cite web|url=https://news.pg.com/press-release/pg-corporate-announcements/nominees-announced-peoples-choice-awards-2012|title=Nominees Announced for People's Choice Awards 2012|publisher=[[P&G]]|date=November 8, 2011|accessdate=October 28, 2019|archiveurl=https://web.archive.org/web/20111112071946/https://news.pg.com/press-release/pg-corporate-announcements/nominees-announced-peoples-choice-awards-2012|archivedate=November 12, 2011|url-status=live}}</ref>
+
+<ref name="2012MTVAwards">{{cite web|url=https://popculture.com/blog/2012/06/02/mtv-movie-awards-best-hero-harry-potter-katniss-whipping-thor-captain-america/|title=MTV Movie Awards Best Hero: Harry Potter & Katniss Whipping Thor & Captain America|last=Johnson|first=Scott|website=PopCulture.com|date=August 31, 2017|accessdate=October 30, 2019|archiveurl=|archivedate=|url-status=live}}</ref>
+
+<ref name="2012SaturnAwards">{{cite web|url=https://collider.com/saturn-award-nominations-2012/|title=Saturn Award Nominations Announced; Hugo and Harry Potter Lead with 10 Nominations Each|last=Goldberg|first=Matt|website=[[Collider (website)|Collider]]|date=February 29, 2012|accessdate=October 28, 2019|archiveurl=https://web.archive.org/web/20130928225919/http://collider.com/saturn-award-nominations-2012/|archivedate=September 28, 2013|url-status=live}}</ref>
+
+<ref name="2012TeenChoice">{{cite web|url=http://www.hollywoodreporter.com/news/teen-choice-awards-breaking-dawn-snow-white-huntsman-337825|title=Teen Choice Awards 2012: 'Breaking Dawn,' 'Snow White' Lead Second Wave of Nominees|last=Ng|first=Philiana|work=[[The Hollywood Reporter]]|date=June 14, 2012|accessdate=June 14, 2012|archiveurl=https://www.webcitation.org/68QK0t9r6?url=http://www.hollywoodreporter.com/news/teen-choice-awards-breaking-dawn-snow-white-huntsman-337825|archivedate=June 14, 2012|url-status=live}}</ref>
+
+<ref name="2013PeoplesChoice">{{cite web|url=http://www.mtv.com/news/1699927/peoples-choice-awards-winners-list-2013/|title=People's Choice Awards 2013: The Complete Winners List|website=[[MTV]]|date=January 9, 2013|accessdate=October 28, 2019|archiveurl=https://web.archive.org/web/20140715092710/http://www.mtv.com/news/1699927/peoples-choice-awards-winners-list-2013/|archivedate=July 15, 2014|url-status=live}}</ref>
+
+<ref name="2013MTVAwards">{{cite web|url=https://uproxx.com/hitfix/2013-mtv-movie-awards-winners-and-nominees-complete-list/|title=2013 MTV Movie Awards winners and nominees – complete list|last=Ellwood|first=Gregory|website=[[Uproxx]]|date=April 14, 2013|accessdate=October 28, 2019|archiveurl=https://web.archive.org/web/20170318083415/http://uproxx.com/hitfix/2013-mtv-movie-awards-winners-and-nominees-complete-list/|archivedate=March 18, 2017|url-status=live}}</ref>
+
+<ref name="2014TeenChoice">{{cite web|url=https://movies.yahoo.com/news/teen-choice-awards-2014-nominees-revealed-163400995.html|title=Teen Choice Awards 2014 Nominees Revealed!|publisher=[[Yahoo! Movies]]|date=June 18, 2014|accessdate=June 18, 2014|archiveurl=https://web.archive.org/web/20140812173010/https://movies.yahoo.com/news/teen-choice-awards-2014-nominees-revealed-163400995.html|archivedate=August 12, 2014|url-status=live}}</ref>
+
+<ref name="2014YoungHollywood">{{cite web|url=https://variety.com/2014/tv/news/young-hollywood-awards-nominees-2014-announced-1201251383/|title=2014 Young Hollywood Awards Nominees Include 'Pretty Little Liars,' 'Fault in Our Stars'|work=[[Variety (magazine)|Variety]]|date=June 26, 2014|accessdate=October 28, 2019|archiveurl=https://web.archive.org/web/20190609145020/https://variety.com/2014/tv/news/young-hollywood-awards-nominees-2014-announced-1201251383/|archivedate=June 9, 2019|url-status=live}}</ref>
+
+<ref name="20thCriticsChoice">{{cite web|url=https://www.dailymail.co.uk/tvshowbiz/article-2912423/Critics-Choice-Awards-2015-happens.html|title=Birdman soars with seven gongs, Julianne Moore is named Best Actress as Boyhood takes home prestigious Best Picture at the Critics' Choice Awards|last=Stark|first=George|work=[[Daily Mail]]|date=January 16, 2015|accessdate=October 28, 2019|archiveurl=https://web.archive.org/web/20150116062155/http://www.dailymail.co.uk/tvshowbiz/article-2912423/Critics-Choice-Awards-2015-happens.html|archivedate=January 16, 2015|url-status=live}}</ref>
+
+<ref name="2015PeoplesChoice">{{cite web|url=https://ew.com/article/2015/01/07/peoples-choice-awards-2015-the-winners-list/|title=People's Choice Awards 2015: The winner's list|last=Blake|first=Emily|website=[[Entertainment Weekly]]|date=January 7, 2015|accessdate=October 28, 2019|archiveurl=https://web.archive.org/web/20150216204959/http://www.ew.com/article/2015/01/07/peoples-choice-awards-2015-the-winners-list|archivedate=February 16, 2015|url-status=live}}</ref>
+
+<ref name="2015SaturnAwards">{{cite web|url=https://collider.com/saturn-award-nominations-2015/|title=Interstellar and The Winter Soldier Lead Saturn Award Nominations|last=Foutch|first=Haleigh|website=[[Collider (website)|Collider]]|date=March 3, 2015|accessdate=October 28, 2019|archiveurl=https://web.archive.org/web/20150306141812/http://collider.com/saturn-award-nominations-2015|archivedate=October 28, 2019|url-status=live}}</ref>
+
+<ref name="2015MTVAwards">{{cite web|url=http://www.mtv.com/news/2095540/mtv-movie-awards-nominations-2015/|title=Here Are Your 2015 MTV Movie Awards Nominees|last=Wickman|first=Kase|website=[[MTV]]|date=March 4, 2015|accessdate=October 28, 2019|archiveurl=https://web.archive.org/web/20150305125454/http://www.mtv.com/news/2095540/mtv-movie-awards-nominations-2015/|archivedate=March 5, 2015|url-status=live}}</ref>
+
+<ref name="2015TeenChoice">{{cite web|url=https://variety.com/2015/tv/news/teen-choice-awards-winners-2015-full-list-1201571268/|title=Teen Choice Awards 2015 Winners: Full List|work=[[Variety (magazine)|Variety]]|date=August 16, 2015|accessdate=October 28, 2019|archiveurl=https://web.archive.org/web/20191026121632/https://variety.com/2015/tv/news/teen-choice-awards-winners-2015-full-list-1201571268/|archivedate=October 26, 2019|url-status=live}}</ref>
+
+<ref name="2016KidsChoice">{{cite web|url=http://www.mtv.com/news/2734729/kids-choice-awards-2016-kcas-nickelodeon-nominees-list/|title=Here Are The Nominees For The 2016 Kids' Choice Awards|last=Grant|first=Stacey|website=[[MTV]]|date=February 2, 2016|accessdate=February 3, 2016|archiveurl=https://web.archive.org/web/20160204154007/http://www.mtv.com/news/2734729/kids-choice-awards-2016-kcas-nickelodeon-nominees-list/|archivedate=February 4, 2016|url-status=live}}</ref>
+
+<ref name="2016MTVAwards">{{cite web|url=https://variety.com/2016/film/news/mtv-movie-awards-nominations-2016-full-list-nominees-1201725166/|title=MTV Movie Awards 2016: Complete List of Nominees|last=Khatchatourian|first=Maane|work=[[Variety (magazine)|Variety]]|date=March 8, 2016|accessdate=March 8, 2016|archiveurl=https://web.archive.org/web/20160309035935/http://variety.com/2016/film/news/mtv-movie-awards-nominations-2016-full-list-nominees-1201725166/|archivedate=March 9, 2016|url-status=live}}</ref>
+
+<ref name="2016TeenChoice1">{{cite web|url=http://www.eonline.com/news/767635/teen-choice-awards-2016-nominations-announced-see-the-first-wave-of-potential-winners|title=Teen Choice Awards 2016 Nominations Announced: See the "First Wave" of Potential Winners|last=Vulpo|first=Mike|website=[[E!]]|date=May 24, 2016|accessdate=May 25, 2016|archiveurl=https://web.archive.org/web/20160526090121/http://www.eonline.com/news/767635/teen-choice-awards-2016-nominations-announced-see-the-first-wave-of-potential-winners|archivedate=May 26, 2016|url-status=live}}</ref>
+
+<ref name="2016TeenChoice2">{{cite web|url=https://www.eonline.com/news/771305/teen-choice-awards-2016-captain-america-civil-war-leads-second-wave-of-nominations|title=Teen Choice Awards 2016--''Captain America: Civil War'' Leads Second Wave of Nominations|last=Eliahou|first=Maya|website=[[E!]]|date=June 9, 2016|accessdate=October 28, 2019|archiveurl=https://web.archive.org/web/20160612181121/http://www.eonline.com/news/771305/teen-choice-awards-2016-captain-america-civil-war-leads-second-wave-of-nominations|archivedate=June 12, 2016|url-status=live}}</ref>
+
+<ref name="22ndCriticsChoice">{{cite web|url=http://www.hollywoodreporter.com/lists/critics-choice-awards-2016-film-nomination-complete-list-951822/item/best-picture-critics-choice-noms-2016-951821|title='La La Land,' 'Arrival,' 'Moonlight' Top Critics' Choice Nominations|last=Kilday|first=Gregg|work=[[The Hollywood Reporter]]|date=December 1, 2016|accessdate=December 1, 2016|archiveurl=https://web.archive.org/web/20161202041712/http://www.hollywoodreporter.com/lists/critics-choice-awards-2016-film-nomination-complete-list-951822/item/best-picture-critics-choice-noms-2016-951821|archivedate=December 2, 2016|url-status=live}}</ref>
+
+<ref name="2017PeoplesChoice">{{cite web|url=https://www.etonline.com/awards/207853_people_choice_awards_2017_the_complete_winners_list|title=People's Choice Awards 2017: The Complete Winners List|last=Chestang|first=Raphael|website=[[Entertainment Tonight]]|date=January 18, 2017|accessdate=October 29, 2019|archiveurl=https://web.archive.org/web/20170119035627/http://www.etonline.com/awards/207853_people_choice_awards_2017_the_complete_winners_list/ |archivedate=January 19, 2017|url-status=live}}</ref>
+
+<ref name="2017KidsChoice">{{cite web|url=https://www.eonline.com/news/834817/kids-choice-awards-2017-winners-the-complete-list|title=Kids' Choice Awards 2017 Winners: The Complete List|last=Vulpo|first=Mike|website=[[E!]]|date=March 11, 2017|accessdate=October 28, 2019|archiveurl=https://web.archive.org/web/20170625080142/http://www.eonline.com/news/834817/kids-choice-awards-2017-winners-the-complete-list|archivedate=June 25, 2017|url-status=live}}</ref>
+
+<ref name="2017SaturnAwards">{{cite web|url=https://variety.com/2017/film/awards/saturn-awards-nominations-2017-rogue-one-walking-dead-1202000833/|title=Saturn Awards Nominations 2017: 'Rogue One,' 'Walking Dead' Lead|last=McNary|first=Dave|work=[[Variety (magazine)|Variety]]|date=March 2, 2017|accessdate=March 2, 2017|archiveurl=https://web.archive.org/web/20170303065009/http://variety.com/2017/film/awards/saturn-awards-nominations-2017-rogue-one-walking-dead-1202000833/|archivedate=March 3, 2017|url-status=live}}</ref>
+
+<ref name="2018TeenChoice">{{cite web|url=https://www.hollywoodreporter.com/lists/teen-choice-awards-2018-full-list-winners-1134169|title=Teen Choice Awards: Winners List|work=[[The Hollywood Reporter]]|date=August 12, 2018|accessdate=August 12, 2018|archiveurl=https://web.archive.org/web/20180813030438/https://www.hollywoodreporter.com/lists/teen-choice-awards-2018-full-list-winners-1134169|archivedate=August 13, 2018|url-status=live}}</ref>
+
+<ref name="2019KidsChoice">{{cite web|url=https://www.hollywoodreporter.com/lists/kids-choice-awards-complete-list-nominees-2019-1190854/item/2019-kids-choice-awards-favorite-movie-actor-1190895|title=Kids' Choice Awards: 'Avengers: Infinity War' Tops Nominees; DJ Khaled to Host|last=Howard|first=Annie|work=[[The Hollywood Reporter]]|date=February 26, 2019|accessdate=February 26, 2019|archiveurl=https://web.archive.org/web/20190227060353/https://www.hollywoodreporter.com/lists/kids-choice-awards-complete-list-nominees-2019-1190854/item/2019-kids-choice-awards-favorite-movie-actor-1190895|archivedate=February 27, 2019|url-status=live}}</ref>
+
+<ref name="2019MTVAwards">{{Cite web|url=https://variety.com/2019/film/news/mtv-movie-tv-awards-winners-the-complete-list-1203246022/|title=MTV Movie & TV Awards Winners: The Complete List|last=Nickolai|first=Nate|work=[[Variety (magazine)|Variety]]|date=June 17, 2019|accessdate=June 17, 2019|archiveurl=https://web.archive.org/web/20190618030357/https://variety.com/2019/film/news/mtv-movie-tv-awards-winners-the-complete-list-1203246022/|archivedate=June 18, 2019|url-status=live}}</ref>
+
+<ref name="2019TeenChoice">{{cite magazine|url=https://www.usmagazine.com/entertainment/news/teen-choice-awards-2019-complete-list-of-winners-and-nominees/|title=Teen Choice Awards 2019: Complete List of Winners and Nominees|last=Clarendon|first=Dan|magazine=[[Us Weekly]]|date=August 11, 2019|accessdate=August 11, 2019|archiveurl=https://web.archive.org/web/20190812031734/https://www.usmagazine.com/entertainment/news/teen-choice-awards-2019-complete-list-of-winners-and-nominees/|archivedate=August 12, 2019|url-status=live}}</ref>
+
+<ref name="2019SaturnAwards">{{cite web|url=https://www.slashfilm.com/2019-saturn-awards-winners-avengers-endgame-dominates-with-six-total-awards/|title=2019 Saturn Awards Winners: ‘Avengers: Endgame’ Dominates with Six Total Awards|last=Anderton|first=Ethan|website=[[/Film]]|date=September 14, 2019|accessdate=October 29, 2019|archiveurl=https://web.archive.org/web/20190921110736/https://www.slashfilm.com/2019-saturn-awards-winners-avengers-endgame-dominates-with-six-total-awards/|archivedate=September 21, 2019|url-status=live}}</ref>
+
+<ref name="2019PeoplesChoice">{{Cite web |url=https://www.hollywoodreporter.com/lists/2019-peoples-choice-awards-winners-list-full-1250529/item/comedy-movie-2019-peoples-choice-awards-nominations-2019-1236415 |title=People's Choice Awards: 'Avengers: Endgame' Named Best Movie |last=Nordyke |first=Kimberly |last2=Howard |first2=Annie |website=[[The Hollywood Reporter]] |date=November 10, 2019 |access-date=November 11, 2019 |archive-url=https://web.archive.org/web/20191111054342/https://www.hollywoodreporter.com/lists/2019-peoples-choice-awards-winners-list-full-1250529/item/movie-2019-peoples-choice-awards-nominations-2019-1236394 |archive-date=November 11, 2019 |url-status=live}}</ref>
+
+<!-- Need to sort -->
+
+<ref name="Graser">{{cite web |url=http://www.variety.com/article/VR1118016757.html |title=Chris Evans to play 'Captain America' |first=Marc |last=Graser |work=[[Variety (magazine)|Variety]] |date=March 22, 2010 |accessdate=March 23, 2010 |archiveurl=https://www.webcitation.org/5yDf8FlJ2?url=http://www.variety.com/article/VR1118016757.html?categoryid=13&cs=1# |archivedate=April 25, 2011 |url-status=live |df=mdy-all }}</ref>
+
+<ref name="EW">{{cite web |url=http://popwatch.ew.com/2010/10/28/captain-america-chris-evans-2 |title=This week's cover: An exclusive first look at ''Captain America: The First Avenger'' |first=Jeff |last=Jensen |work=[[Entertainment Weekly]] |date=October 28, 2010 |accessdate=October 28, 2010 |archiveurl=https://www.webcitation.org/5zva0i0mC?url=http://popwatch.ew.com/2010/10/28/captain-america-chris-evans-2 |archivedate=2011-07-04 |url-status=dead}}</ref>
+
+<ref name="ScreenRant1">{{cite web|url=http://screenrant.com/chris-evans-talks-captain-america-rob-52360 |title=Chris Evans Talks Captain America |first=Rob |last=Keyes |website=[[Screen Rant]] |date=April 5, 2010 |accessdate=July 9, 2010 |archiveurl=https://www.webcitation.org/5zva0yTWB?url=http://screenrant.com/chris-evans-talks-captain-america-rob-52360 |archivedate=July 4, 2011 |url-status=live |df=mdy }}</ref>
+
+<ref name="Superherohype1">{{cite web|url=http://www.superherohype.com/features/articles/167663-captain-america-the-first-avenger-set-visit |title=''Captain America: The First Avenger'' Set Visit! |first=Ben |last=Mortimer |publisher=[[Superhero Hype!]] |date=June 24, 2011 |accessdate=June 27, 2011 |page=[http://www.superherohype.com/features/167663-captain-america-the-first-avenger-set-visit/3 3] |archiveurl=https://www.webcitation.org/5zva12RxE?url=http://www.superherohype.com/features/articles/167663-captain-america-the-first-avenger-set-visit |archivedate=July 4, 2011 |url-status=live |df=mdy }}</ref>
+
+<ref name="EW4">{{cite web |last=Breznican |first=Anthony |date=September 29, 2011 |title= {{-'}}The Avengers' Dis-Assembled! Exclusive Cast Portraits Revealed |url=http://insidemovies.ew.com/2011/09/29/the-avengers-dis-assembled-exclusive-cast-portraits-revealed/ |work=[[Entertainment Weekly]] |accessdate=July 29, 2011 |archiveurl=https://www.webcitation.org/624KaS4rJ?url=http://insidemovies.ew.com/2011/09/29/the-avengers-dis-assembled-exclusive-cast-portraits-revealed/ |archivedate=July 29, 2011 |url-status=live}}</ref>
+
+<ref name="MTVNews10">{{cite news|url=http://splashpage.mtv.com/2011/04/25/captain-america-avengers-chris-evans-iron-man|title=EXCLUSIVE: 'Captain America' Star Talks 'Avengers,' Looks Forward To 'Friction' With Iron Man|last=Marshall|first=Rick|date=April 25, 2011|publisher=[[MTV News]]|accessdate=April 27, 2011|archiveurl=https://www.webcitation.org/5zxBnzavF?url=http://splashpage.mtv.com/2011/04/25/captain-america-avengers-chris-evans-iron-man|archivedate=July 5, 2011|url-status=dead|df=mdy-all}}</ref>
+
+<ref name="SlashFilm">{{cite web|date=July 20, 2013 |last=Fischer |first=Russ |title='Captain America: The Winter Soldier’ Panel Recap: Falcon Flies, Cap Fights the Modern World [Comic Con 2013] |url=http://www.slashfilm.com/captain-america-the-winter-soldier-panel-recap-falcon-flies-cap-fights-the-modern-world-comic-con-2013/ |publisher=[[/Film.com]] |accessdate=July 22, 2013 |archivedate=September 17, 2013 |archiveurl=https://www.webcitation.org/6JhVEFPNs?url=http://www.slashfilm.com/captain-america-the-winter-soldier-panel-recap-falcon-flies-cap-fights-the-modern-world-comic-con-2013/ |url-status=live |df=mdy }}</ref>
+
+<ref name="StitchKingdom">{{cite web |url=http://www.stitchkingdom.com/disney-captain-america-fun-facts-69306/ |title='Captain America: The Winter Soldier’ Character Bios, Fun Facts (Minor Spoilers) |publisher=Stitch Kingdom |date=February 14, 2014 |accessdate=February 15, 2014 |archiveurl=https://www.webcitation.org/6NPxAyi5I?url=http://www.stitchkingdom.com/disney-captain-america-fun-facts-69306/# |archivedate=February 16, 2014 |url-status=dead |df=mdy-all }}</ref>
+
+<ref name="MTV3">{{cite news|date=September 6, 2013 |first=Josh |last=Wigler |title='Avengers: Age Of Ultron' And Iron Man: New Movie, Same Tony |url=http://splashpage.mtv.com/2013/09/06/avengers-age-of-ultron-iron-man/ |publisher=[[MTV]] |accessdate=September 7, 2013 |archiveurl=https://www.webcitation.org/6JhXwcD6G?url=http://splashpage.mtv.com/2013/09/06/avengers-age-of-ultron-iron-man/ |archivedate=September 17, 2013 |url-status=live |df=mdy }}</ref>
+
+<ref name="DigitalSpy">{{cite web|url=http://www.digitalspy.com/movies/feature/a624992/25-things-we-learned-on-the-set-of-avengers-age-of-ultron.html |title=25 things we learned on the set of Avengers: Age of Ultron |last=Dibdin |first=Emma |publisher=[[DigitalSpy.com]] |date=January 31, 2015 |accessdate=January 31, 2015 |archiveurl=https://www.webcitation.org/6VzkHgGv2?url=http://www.digitalspy.com/movies/feature/a624992/25-things-we-learned-on-the-set-of-avengers-age-of-ultron.html |archivedate=January 31, 2015 |url-status=live |df=mdy }}</ref>
+
+<ref name="BuzzFeed">{{cite web|url=https://www.buzzfeed.com/adambvary/thor-captain-america-avengers-age-of-ultron-set-visit |title=What's At Stake For Thor, Captain America, And The "Avengers" Franchise |last=Vary |first=Adam |publisher=[[BuzzFeed]] |date=October 27, 2014 |accessdate=October 27, 2014 |archiveurl=https://www.webcitation.org/6TdunXWCr?url=http://www.buzzfeed.com/adambvary/thor-captain-america-avengers-age-of-ultron-set-visit |archivedate=October 27, 2014 |url-status=live |df=mdy }}</ref>
+
+<ref name="Evans3">{{cite web|last=Nepales |first=Reuben P. |date=April 4, 2014 |title=Chris Evans on starting 'Avengers 2,' retiring |url=http://entertainment.inquirer.net/138877/chris-evans-on-starting-avengers-2-retiring |work=[[Philippine Daily Inquirer]] |accessdate=April 4, 2014 |archiveurl=https://www.webcitation.org/6Oa8dkfPm?url=http://entertainment.inquirer.net/138877/chris-evans-on-starting-avengers-2-retiring |archivedate=April 4, 2014 |url-status=live |df=mdy }}</ref>
+
+<ref name="Fandango">{{cite web|url=http://www.fandango.com/movie-news/avengers-age-of-ultron-check-out-our-top-secret-meetings-with-captain-america-and-hawkeye-748964 |title='Avengers: Age of Ultron': Check Out Our Top-Secret Meetings with Captain America and Hawkeye |last=Davis |first=Erick |publisher=[[Fandango (ticket service)|Fandango]] |date=March 3, 2015 |accessdate=March 3, 2015 |archiveurl=https://www.webcitation.org/6WkuiF64j?url=http://www.fandango.com/movie-news/avengers-age-of-ultron-check-out-our-top-secret-meetings-with-captain-america-and-hawkeye-748964 |archivedate=March 3, 2015 |url-status=live |df=mdy }}</ref>
+
+<ref name="VarietyAug2015">{{cite web|url=https://variety.com/2015/film/news/captain-america-civil-war-concept-art-hawkeye-black-widow-1201579801/ |title=‘Captain America: Civil War’ Concept Art Shows Where Each Avenger’s Loyalties Lie |last=Kroll |first=Justin |work=[[Variety (magazine)|Variety]] |date=August 27, 2015 |accessdate=August 27, 2015 |archiveurl=https://www.webcitation.org/6b6MaETh4?url=http://variety.com/2015/film/news/captain-america-civil-war-concept-art-hawkeye-black-widow-1201579801/ |archivedate=August 27, 2015 |url-status=live  }}</ref>
+
+<ref name="FandangoMarch2016">{{cite web|url=http://www.fandango.com/movie-news/captain-america-civil-war-set-visit-this-is-the-godfather-of-superhero-movies-750571 |title='Captain America: Civil War' Set Visit: "This Is the 'Godfather' of Superhero Movies" |last=Davis |first=Erik |work=Fandango.com |date=March 7, 2016 |accessdate=March 7, 2016 |archiveurl=https://www.webcitation.org/6fpmNhl0u?url=http://www.fandango.com/movie-news/captain-america-civil-war-set-visit-this-is-the-godfather-of-superhero-movies-750571 |archivedate=March 7, 2016 |url-status=live  }}</ref>
+
+<ref name="RussosEmpire">{{cite web|url=http://www.empireonline.com/movies/features/captain-america-civil-war-trailer-breakdown/ |title=Captain America: Civil War trailer breakdown |last=Hewitt |first=Chris |work=[[Empire (film magazine)|Empire]] |date=November 25, 2015 |accessdate=November 25, 2015 |archiveurl=https://www.webcitation.org/6dJT8QBJ6?url=http://www.empireonline.com/movies/features/captain-america-civil-war-trailer-breakdown/ |archivedate=November 25, 2015 |url-status=live  }}</ref>
+
+<ref name="Empire12Secrets">{{cite web|url=http://www.empireonline.com/movies/features/captain-america-civil-war-secrets/ |title=12 secrets from Captain America: Civil War |last=Nugent |first=John |work=[[Empire (magazine)|Empire]] |date=May 9, 2016 |accessdate=May 15, 2016 |archiveurl=https://www.webcitation.org/6hVnck5Zz?url=http://www.empireonline.com/movies/features/captain-america-civil-war-secrets/ |archivedate=May 15, 2016 |url-status=live  }}</ref>
+
+<ref name="StitchKingdom2">{{cite web |url=http://www.stitchkingdom.com/disney-marvel-captain-america-civil-war-85723/ |title=‘Captain America: Civil War’ Official Bios, Costume Upgrades and Hi-Res Behind-The-Scenes Photos |website=Stitch Kingdom |date=April 11, 2016 |accessdate=April 11, 2016 |archiveurl=https://www.webcitation.org/6ghbg2lus?url=http://www.stitchkingdom.com/disney-marvel-captain-america-civil-war-85723/ |archivedate=April 12, 2016 |url-status=dead  }}</ref>
+
+<ref name="NotNomad">{{cite podcast|url=http://www.espn.com/espnradio/play?id=21000490|title=TNF Preview, WR/CB Matchups, DFS Outlook|website=ESPN Fantasy Focus Football|publisher=[[ESPN]]|date=October 12, 2017|time=1:19:40|accessdate=January 15, 2018|url-status=live|archiveurl=https://web.archive.org/web/20180329121800/http://www.espn.com/espnradio/play?id=21000490|archivedate=March 29, 2018}} via {{cite web|url=https://marvelstudiosnews.com/2018/01/15/joe-russo-steve-rogers-isnt-nomad-avengers-infinity-war/|title=Joe Russo: Steve Rogers isn't Nomad in 'Avengers: Infinity War'|last=Gerber|first=Sean|publisher=Marvel Studios News|date=January 15, 2018|accessdate=January 15, 2018|archiveurl=https://www.webcitation.org/6wUpZW3Ac?url=https://marvelstudiosnews.com/2018/01/15/joe-russo-steve-rogers-isnt-nomad-avengers-infinity-war/|archivedate=January 15, 2018|url-status=dead}}</ref>
+
+<ref name="EvansBodyBuilding">{{cite web|url=http://www.bodybuilding.com/fun/chris-evans-captain-america-training-plan.html |title=Captain America's Training Plan |last1=Power |first1=Matthew |last2=Jacobs |first2=Aundre |website=[[Bodybuilding.com]] |date=May 25, 2016 |accessdate=June 17, 2016 |archiveurl=https://www.webcitation.org/6iL1sYYL2?url=http://www.bodybuilding.com/fun/chris-evans-captain-america-training-plan.html |archivedate=June 17, 2016 |url-status=live  }}</ref>
+
+<ref name="EWBTS">{{cite web|url=http://ew.com/movies/2018/03/08/avengers-infinity-war-behind-the-scenes/|title=Behind the scenes of Avengers: Infinity War as new heroes unite – and others will end|last=Breznican|first=Anthony|work=[[Entertainment Weekly]]|date=March 8, 2018|accessdate=March 8, 2018|archiveurl=https://www.webcitation.org/6xlpMr68A?url=http://ew.com/movies/2018/03/08/avengers-infinity-war-behind-the-scenes/|archivedate=March 8, 2018|url-status=live}}</ref>
+
+<ref name="RogersLateEntry">{{cite web|url=https://www.cinemablend.com/news/2454928/avengers-infinity-war-almost-kept-captain-america-off-screen-until-the-final-minutes|title=Avengers: Infinity War Almost Kept Captain America Off Screen Until The Final Minutes|last=Libbey|first=Dirk|publisher=Cinema Blend|date=August 1, 2018|accessdate=August 14, 2018|archiveurl=https://www.webcitation.org/71fnWToA6?url=https://www.cinemablend.com/news/2454928/avengers-infinity-war-almost-kept-captain-america-off-screen-until-the-final-minutes|archivedate=August 14, 2018|url-status=live}}</ref>
+}}
+
+==External links==
+* [https://marvelcinematicuniverse.fandom.com/wiki/Captain_America Captain America] at Marvel Cinematic Universe Wiki
+* {{Marveldatabase|Steven Rogers (Earth-199999)|Marvel Cinematic Universe Captain America}}
+* [https://www.marvel.com/characters/captain-america-steve-rogers/on-screen Captain America (Steve Rogers) Biography] - Marvel Cinematic Universe (MCU) - Marvel Studios Official Web Site
+
+{{Captain America}}
+{{Marvel Cinematic Universe}}
+
+{{DEFAULTSORT:Rogers, Steve, Marvel Cinematic Universe}}
+[[Category:American superheroes]]
+[[Category:Captain America (film series)]]
+[[Category:Captain America characters]]
+[[Category:Captain America in other media]]
+[[Category:Captain America]]
+[[Category:Fictional American people of Irish descent]]
+[[Category:Fictional Office of Strategic Services personnel]]
+[[Category:Fictional United States Army personnel]]
+[[Category:Fictional World War II veterans]]
+[[Category:Fictional artists]]
+[[Category:Fictional characters from New York City]]
+[[Category:Fictional characters introduced in 2011]]
+[[Category:Fictional cryonically preserved characters]]
+[[Category:Fictional military captains]]
+[[Category:Fictional orphans]]
+[[Category:Fictional outlaws]]
+[[Category:Fictional soldiers]]
+[[Category:Fictional super soldiers]]
+[[Category:Fictional vigilantes]]
+[[Category:Male characters in film]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:S.H.I.E.L.D. agents]]
+[[Category:Superhero film characters]]
+[[Category:Time travelers]]

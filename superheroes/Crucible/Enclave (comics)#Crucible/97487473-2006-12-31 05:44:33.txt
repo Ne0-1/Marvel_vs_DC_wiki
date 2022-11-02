@@ -1,0 +1,33 @@
+{{Superteambox| <!--Wikipedia:WikiProject Comics--> 
+|image=
+|caption=
+|comic_color=background:#ff8080 
+|team_name=Enclave
+|publisher=[[Marvel Comics]] 
+|debut=''[[Fantastic Four]]'' #66 (Sep 1967) 
+|creators=[[Stan Lee]]<br>[[Jack Kirby]]
+|status=
+|base=the Beehive
+|alliance_color=background:#c0c0ff
+|members=Maris Morlak<br>Carlo Zota<br>Wladyslav Shinsky<br>Jerome Hamilton (deceased)
+|memberlist= 
+|}} 
+
+The '''Enclave''' is a fictional group of [[dictator]]ially-minded scientists featured in [[comics]] published by [[Marvel Comics]].  The characters are a part of the [[Marvel Universe]].  The Enclave was founded by four scientists: Dr. Jerome Hamilton, an American medical biologist (now deceased), Maris Morlak, a Lithuanian nuclear physicist, Professor Wladyslav Shinsky, a Polish genetecist, and Carlo Zota, a Spanish electronics technician.  They are responsible for the creation of [[Adam Warlock|Him/Adam Warlock]] and [[Kismet (comics)|Paragon/Her/Kismet]].
+
+==Crucible==
+'''Crucible''' is the supervillain identity used by  Maris Morlak and Professor Wladyslav Shinsky, two members of the Enclave.  Crucible went after [[Mister Fantastic]] in a plot to steal his inventive genius and kickstart the Enclave's genetics program.  They wore identical suits of [[power armor]], forged by the same monks who forged [[Doctor Doom]]'s armor, which have the ability to [[transmutation|transmute]] the shape and composition of materials.
+
+==Ultimate Enclave==
+In the [[Ultimate Extinction]] miniseries, it was revealed that a group of scientists rented a radio telescope, applied their own algorithms to it, and were able to see a 'processional entity'(the creature known as Gah-Lak-Tus, the Ultimate version of [[Galactus]]) which would arrive within 20 years. To fight the entity when it arrived, they hired Heather Moon, a contract killer(and the Ultimate version of the Avenger [[Moondragon]]), cloned her, and raised the clones to be an army against Gah-Lak-Tus. The clones refer to the scientists as 'the Enclave', but it also operates as the Paragon Corporation.
+
+==External links==
+*[http://www.marvunapp.com/Appendix/enclaveff.htm Enclave at marvunapp.com]
+*[http://www.marveldirectory.com/teams/enclave.htm Enclave at MarvelDirectory.com]
+*[http://www.marvunapp.com/Appendix/enclaveff.htm#crucible Crucible at marvunapp.com]
+
+[[Category:Marvel Comics supervillain teams]]
+[[Category:Fantastic Four villains]]
+
+
+{{Marvel-villain-stub}}

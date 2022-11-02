@@ -1,0 +1,361 @@
+{{Lead too short|date=May 2010}}
+{{Merge from|The Thing!|date=July 2010}}
+{{fix bunching|beg}}
+{{Infobox comics set index <!--Wikipedia:WikiProject Comics-->
+<!-- |code_name   = Blue Beetle -->
+|image       = BlueBeetles.PNG
+|caption     = Dan Garrett, [[Blue Beetle (Ted Kord)|Ted Kord]], and [[Blue Beetle (Jaime Reyes)|Jaime Reyes]]. Art from the Blue Beetle Companion, by Tom Feister.
+|publisher   = [[Fox Comics]]<br />[[Holyoke Publishing]]<br />[[Charlton Comics]]<br />[[AC Comics|Americomics]]<br />'''[[DC Comics]]'''
+|debut       = ''Mystery Men Comics'' #1
+|debutmo     = August
+|debutyr     = 1939
+|debutyr1    = 1966
+|debutyr2    = 2006
+|writer1     = Charles Nicholas Wojtkoski
+|characters  = [[#Dan Garret|Dan Garret (a.k.a. Dan Garrett)]]<br>[[Blue Beetle (Ted Kord)|Ted Kord]]<br>[[Blue Beetle (Jaime Reyes)|Jaime Reyes]]
+|seealso     =
+|cat         = super
+|subcat      = Fox Feature Syndicate
+|hero        = y
+|villain     =
+|sortkey     = Blue Beetle
+|addcharcat1 = Charlton Comics superheroes
+|addcharcat2 = DC Comics superheroes
+}}
+{{fix bunching|mid}}
+{{Infobox comic book title
+|2ndbox = y
+<!--Wikipedia:WikiProject Comics-->
+|title=Blue Beetle (vol. 1-6) <br>The Blue Beetle (vol. 7)
+|image= Blue Beetle 04.jpg
+|caption=''Blue Beetle'' #4 (October 1940). Cover artist unknown; possibly Edd <!--sp OK--> Ashe <!--per GCD-->.
+|schedule='''Vol. 1''': Bimonthly through #13, #41-44<br> Monthly, #17-36, #45-60<br> Quarterly, #37-40<br> '''Vol. 2, 5-7''': Monthly<br> '''Vol. 3''': Monthly through #4 <br> Bimonthly, #5<br> '''Vol. 4''': Monthly through #53 <br> Bi-monthly, #54
+|format='''All'''<br> Standard U.S., 4 color. When published, ongoing.
+|ongoing =Y
+|publisher='''Vol. 1''': [[Fox Comics]] (except #12-30 [[Holyoke Publishing]])<br> '''Vol. 2-5''': [[Charlton Comics]]<br> '''Vol. 6 & 7''': [[DC Comics]]
+|date='''Vol. 1''': 1939 - August 1950<br> '''Vol. 2''': February 1955 - August 1955<br> '''Vol. 3''': June 1964 - March/April 1965<br> '''Vol. 4''': July 1965 - February/March 1966<br> '''Vol. 5''': June 1967 - November 1968<br> '''Vol. 6''': June 1986 - May 1988<br> '''Vol. 7''': May 2006 - February 2009
+|issues='''Vol. 1''': 59 (numbered 1-42; 44-60)<br> '''Vol. 2''': 4 (numbered 18-21)<br> '''Vol. 3''': 5<br> '''Vol. 4''': 5 (numbered 50-54)<br> '''Vol. 5''': 5<br> '''Vol. 6''': 24<br> '''Vol. 7''': 36
+|main_char_team='''Vol. 1-4''': Dan Garrett<br> '''Vol. 5 & 6''': Ted Kord<br> '''Vol. 7''': Jaime Reyes
+|writers=
+|artists=
+|pencillers=
+|inkers=
+|colorists=
+|creative_team_month=
+|creative_team_year=
+|creators=
+|subcat=Fox Feature Syndicate
+|sort=Blue Beetle
+}}
+{{fix bunching|end}}'''Blue Beetle''' is the name of three [[fictional character|fictional]] [[United States|American]] [[comic book]] [[superhero]]es published by a variety of companies since 1939.
+
+==Publication history==
+The original Blue Beetle, '''Dan Garret''', [[first appeared]] in [[Fox Comics]]' ''Mystery Men Comics'' #1 (cover-dated August 1939), with art by Charles Nicholas Wojtkoski (as [[Charles Nicholas (comics)|Charles Nicholas]]) (though the [[Grand Comics Database]] tentatively credits [[Will Eisner]] as the scripter).<ref>{{cite web|url=http://www.comics.org/issue/490/#11|title=Mystery Men Comics #1|accessdate=2007-06-22|author=Lou Mougin (indexer)|publisher=Grand Comics Database}} Wojtkoski's family has supplied the online comics encyclopedia The Lambiek Comiclopedia with documentation to support the overall Wojtkoski credit. Another artist, [[Charles Nicholas (comics)|Charles Nicholas Cuidera]], also drew Blue Beetle stories later, and has claimed to have been the creator, but comics historian credit Wojtkoski.<br>(Lambiek Comiclopedia article: {{cite web|url=http://lambiek.net/artists/n/nicholas_charles2.htm|title=Charles Nicholas|accessdate=2010-09-17|author= |publisher= }})</ref> A rookie [[police officer]], he used special equipment, a bulletproof costume and a superstrength-inducing "2-X [[vitamin]]", and the assistance of a neighborhood pharmacist to fight crime. He starred in a comic book series, [[comic strip]] and [[radio]] serial, but like most [[Golden Age of Comic Books|Golden Age]] superheroes, he fell into obscurity in the 1950s. The comic book series saw a number of anomalies in publication: 19 issues, #12 through #30, were published through [[Holyoke Publishing]]; no issue #43 was published; publication frequency varied through the run; and there were gaps where issues were not published, with large ones occurring in early 1947 and between mid-1948 and early 1950.
+
+In the mid-1950s, Fox Comics went out of business and sold rights of the Blue Beetle to [[Charlton Comics]].<ref>{{cite web|url=http://www.toonopedia.com/foxfeatr.htm |title=Don Markstein's Toonopedia: Fox Feature Syndicate |publisher=Toonopedia.com |date= |accessdate=2010-09-13}}</ref> That company published a few sporadic adventures of the Golden Age character before revamping the hero in 1964.<ref>The two initial charlton runs were:
+*{{cite web|url=http://www.comics.org/series/1081/ |title=Blue Beetle (1955)|publisher=The Grand Comics Datbase |author= Lou Mougin (indexer) |date= |accessdate=2010-09-17}}
+*{{cite web|url=http://www.comics.org/series/1614/ |title=Blue Beetle (1964|publisher=The Grand Comics Datbase |author= Bob Klein, Ramon Schenk (indexers) |date= |accessdate=2010-09-17}}</ref> In '''Dan Garret''''s revised origin, he was an [[archeologist]] who found a magical Egyptian [[artifact (fantasy)|artifact]], resembling a [[Scarabaeidae|scarab]], which he used to fight crime.{{Issue|date=October 2009}} Charlton tried three times to use the character to carry a self-titled series. Two of the attempts retained the numbering of a previous title. These also were eventually replaced with new titles that carried on the numbering.
+
+The new series was short-lived, and in the pages of ''[[Captain Atom]]'' #83 (cover-dated November, 1966),<ref>{{Cite comic
+| writer = [[Steve Ditko]]
+| cowriters = [[Gary Friedrich]]
+| artist = Steve Ditko
+| story = 
+| title = [[Captain Atom]]
+| volume = 2
+| issue = 83
+| date = November 1966
+| publisher = [[Charlton Comics]]
+| location = 
+| page = 
+| panel = 
+| id =
+}}</ref> Charlton introduced '''[[Blue Beetle (Ted Kord)|Ted Kord]]''', a student of Dan Garrett's who took on the role when Garrett died. Kord was an inventor hero, using a variety of gadgets. This Beetle received his own series in 1967, but the entire Charlton "Action Heroes" line of comic books ceased publication in 1968.<ref>{{cite web|url=http://www.toonopedia.com/beetle3.htm |title=Don Markstein's Toonopedia: The Blue Beetle |publisher=Toonopedia.com |date= |accessdate=2010-09-13}}</ref><ref>{{cite web|author=DarkMark |url=http://darkmark6.tripod.com/charlton_index.html |title=charlton_index |publisher=Darkmark6.tripod.com |date= |accessdate=2010-09-13}}</ref><ref>{{cite web|url=http://www.toonopedia.com/charlton.htm |title=Don Markstein's Toonopedia: Charlton Comics |publisher=Toonopedia.com |date= |accessdate=2010-09-13}}</ref> With the rest of the Charlton line-up, he was sold to [[DC Comics]] in 1983 and appeared with several superhero groups, including the [[Justice League]].
+
+In 2006, DC introduced a new Blue Beetle, teenager '''[[Blue Beetle (Jaime Reyes)|Jaime Reyes]]''', whose powers are derived from the scarab, now revealed as a piece of advanced alien technology. The series was initially written by [[Keith Giffen]] and [[John Rogers (writer)|John Rogers]],<ref>{{cite web|url=http://forum.newsarama.com/showthread.php?threadid=50609 |title=Keith Giffen Talks The New Blue Beetle - Newsarama |publisher=[[Newsarama]] |date=2005-11-28 |accessdate=2010-09-18}}</ref> with artist [[Cully Hamner]].<ref>{{cite web|author=Matt Brady |url=http://www.newsarama.com/dcnew/Beetle/hamner.htm |archiveurl=http://web.archive.org/web/20051210025215/http://www.newsarama.com/dcnew/Beetle/hamner.htm |archivedate=2005-12-10 |title=Newsarama.Com: Who'S That Bug? Hamner On Blue Beetle |publisher=Web.archive.org |date=2005-12-10 |accessdate=2005-12-17}}</ref> Giffen left in issue #10 and Rogers took over full writing duties, joined by a new artist, [[Rafael Albuquerque]].<ref>{{cite web|url=http://forum.newsarama.com/showthread.php?t=89884 |title=Giffen Ready To Give Blue Beetle'S Reins To Rogers/Albuquerque - Newsarama |publisher=[[Newsarama]] |date= |accessdate=2006-11-03}}</ref> Rogers left the title with issue #25 in order to concentrate on his television series ''[[Leverage (TV series)|Leverage]]''<ref>{{cite web|url=http://forum.newsarama.com/showthread.php?t=148932 |title=John Rogers: A Bye-Bye To Blue Beetle - Newsarama |publisher=[[Newsarama]] |date= |accessdate=2008-03-04}}</ref> After three fill-in issues [[Matt Sturges]] became the main writer in issue #29<ref>{{cite web|url=http://www.newsarama.com/comics/080813-SturgesBeetle.html |title=Matt Sturges: Talking Blue Beetle |publisher=[[Newsarama]] |date= |accessdate=2008-08-13}}</ref> but the series was cancelled with issue #36.<ref>{{cite web|url=http://www.newsarama.com/comics/110814-Sturges-Beetle.html |title=Hail and Farewell: Sturges on Blue Beetle's End |publisher=[[Newsarama]] |date= |accessdate=2008-11-14}}</ref> Editor [[Dan DiDio]] put the cancellation down to poor sales and said that ''Blue Beetle'' was "a book that we started with very high expectations, but it lost its audience along the way."<ref>{{cite web|url=http://www.newsarama.com/comics/110812-Didio2.html |title=Dan DiDio: 20 Answers, 1 Question |publisher=[[Newsarama]] |date= |accessdate=2008-11-12}}</ref> On March 12, 2009, DiDio announced that the character would be brought back to print in June 2009 as a "co-feature" of the more popular ''[[Booster Gold]]'' comic.<ref>{{cite web|url=http://www.newsarama.com/comics/030912-Co-Features.html |title=Blue Beetle & Ravager to Get 'Co-Features' in DC Titles |publisher=Newsarama.com |date= |accessdate=2010-09-13}}</ref>
+
+==Dan Garret==
+===Fox Feature Syndicate and Holyoke Publishing===
+[[Image:Blue Beetle Mystery Men.jpg|thumb|left|The first appearance of the Blue Beetle, ''Mystery Men Comics'' #1, 1939. Art by Charles Nicholas.]]
+The original [[Golden Age of Comic Books|Golden Age]] Blue Beetle was '''Dan Garret'''.,<ref name="ref4">In the earliest Golden Age appearances and during the mid-1960s run by writer-artist [[Steve Ditko]], the original Blue Beetle was referred to as Dan "Garret," spelled with one "t."</ref> son of a [[police]] officer killed by a criminal. This [[Fox Feature Syndicate]] version of the character debuted in ''Mystery Men Comics'' #1 (Aug. 1939), and began appearing in his own 60-issue series shortly thereafter.
+
+Rookie patrolman Dan Garret originally fought crime as the Blue Beetle without the benefit of superhuman abilities.<ref>{{cite web|url=http://www.toonopedia.com/beetle1.htm |title=Don Markstein's Toonopedia: The Blue Beetle |publisher=Toonopedia.com |date= |accessdate=2010-09-13}}</ref> Garret later donned a bulletproof costume (described by Garret as being made of a chain-mail which was "as thin and light as silk"), and temporarily gained [[superhuman]] strength from ingesting the mysterious [[vitamin]] 2-X.<ref>{{Comic book reference
+ | writer = 
+ | artist = Charles Nicholas
+ | title = Mystery Men Comics
+ | issue = 13
+ | date = August 1940
+ | publisher = [[Fox Features Syndicate]]
+}}</ref>
+
+The supporting cast remained fairly stable throughout this original run, and included Joan Mason, a crime [[reporter]] for the ''Daily Blade'' who would ultimately star in her own backup stories, and Mike Mannigan, Dan's stereotypically [[Ireland|Irish]] partner on the force. Dr. Franz, a local [[pharmacist]] and inventor of the bulletproof suit and 2-X formula, played a large role in the first few issues, but eventually faded from the cast. The Beetle also had a kid sidekick in the form of Sparkington J. Northrup, a.k.a. Sparky, who originally wore a simplified version of Blue's costume, but later went into action wearing his regular clothes.<ref>{{cite web|url=http://www.wonderworldcomics.com/bluebeetle/Origin.html |title=The Origin and Legend of the Golden Age Blue Beetle |publisher=Wonderworldcomics.com |date= |accessdate=2010-09-18}}</ref>
+
+A popular character of the era, he had his own short-lived [[comic strip]], drawn by a [[pseudonym]]ous [[Jack Kirby]] and others, and a [[Old-time radio|radio serial]] that ran for 48 thirteen-minute episodes. When superheroes fell out of vogue in the late 1940s, Fox downplayed the Beetle's superheroic aspects (his superhuman abilities were removed) and eventually relegated him to a host for [[True crime (genre)|true crime]] stories before the character went on hiatus.
+
+===Charlton Comics===
+[[Image:Blue Beetle v3 1.jpg|thumb|left|160px|''Blue Beetle'' vol. 3, #1 (June 1964). Cover art by [[Frank McLaughlin]].]]
+
+[[Charlton Comics]] obtained the rights to the Blue Beetle, and reprinted some stories in its [[anthology]] titles and in a four-issue ''Blue Beetle'' reprint series numbered 18-21.
+
+In 1964, during the [[Silver Age of Comic Books|Silver Age of Comics]], Charlton would revise the character for a new Blue Beetle series. Charlton's new Blue Beetle retained the original's name (but adding a second 't'), but none of his powers or origin. This Beetle was [[archaeology|archaeologist]] '''Dan Garrett''', who obtained a number of superhuman powers (including super strength and vision, flight and the ability to generate energy blasts) from a mystical [[Scarab (artifact)|scarab]] he found during a dig in [[Egypt]], where it had been used to imprison an evil mummified Pharaoh.<ref name="dc-ency">{{Cite book | last = Beatty | first = Scott | author-link = Scott Beatty | contribution = Blue Beetle | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | page = 57 | publisher = [[Dorling Kindersley]] | place = London | year = 2008 | isbn = 0-7566-4119-5 | postscript = <!--None-->}}</ref> He would transform into the Blue Beetle by saying the words "'''Kaji Dha!'''" This version by writer [[Joe Gill]] and artist [[Tony Tallarico]] was played at least initially for [[camp (style)|camp]], with stories like "The Giant Mummy Who was Not Dead". The Charlton Dan Garrett version of the Blue Beetle ran only until 1966 before his replacement debuted.<ref>{{cite web|url=http://www.toonopedia.com/beetle2.htm |title=Don Markstein's Toonopedia: The Blue Beetle |publisher=Toonopedia.com |date= |accessdate=2010-09-13}}</ref>
+
+===AC Comics===
+
+Both Blue Beetles (indeed, all ''three'' Blue Beetles) reappeared in the third issue of ''[[Americomics]]'', a title published by [[AC Comics]] in 1983/4. In the first story in this issue, Ted Kord fights a bogus Dan Garrett, but the second story is more significant. It reveals that the original 1940s Dan had been reincarnated as the Silver age version (minus his memories of his earlier existence) by some unspecified 'gods', presumably the ones responsible for his mystic scarab. The gods subsequently resurrect Dan again and send him off to save Ted Kord's life (leaving him a note saying simply 'try not to get killed this time'), after which Kord turns the Blue Beetle name back over to Dan. ''Americomics'' was canceled after #6, and so far this story has never been referenced by any other publisher.
+
+===DC Comics===
+The Charlton version of Dan Garrett was spotlighted in the second issue of DC's 1980s ''[[Secret Origins]]'' series, in which his origin was retold along with that of Ted Kord. Subsequent appearances by Dan Garrett (in flashback stories) include guest spots or cameos in ''[[Infinity Inc.]]'', ''[[Captain Atom]]'', ''[[JLA: Year One]]'' and ''[[Legends of the DC Universe]]''.
+
+The character briefly returned in [[DC Comics]]' first run of ''Blue Beetle'',<ref name=BBv6i18>{{Cite comic
+| writer = [[Len Wein]]
+| artist = [[Paris Cullins]]
+| story = ...And Death Shall Have No Dominion!
+| title = Blue Beetle
+| volume = 6
+| issue = 18
+| date = November 1987
+| publisher = [[DC Comics]]
+| location = 
+| page = 
+| panel = 
+| id =
+}}</ref> resurrected by his mystical scarab to battle against his successor. He can also be seen in various flashback stories. His 1940s incarnation is briefly glimpsed in DC's 1993 limited series 'The Golden Age'.
+
+===Dynamite Entertainment===
+In issue #0 of the ''[[Project Superpowers]]'' miniseries, the Fox Feature Syndicate version of the Blue Beetle appeared in flashbacks.<ref>{{Cite comic
+| writer = [[Alex Ross]]
+| cowriters = [[Jim Krueger]]
+| artist = Alex Ross
+| story = Last Gleaming
+| title = [[Project Superpowers]]
+| volume = 
+| issue = 0
+| date = 2008
+| publisher = [[Dynamite Entertainment]]
+| location = 
+| page = 
+| panel = 
+| id =
+}}</ref> To avoid trademark conflicts with DC Comics, he's referred to in this series by the nickname "Big Blue."<ref>{{Cite comic
+| writer = Alex Ross
+| cowriters = Jim Krueger
+| artist = [[Carlos Paul]]
+| story = ...Undimmed by Human Tears
+| title = Project Superpowers
+| volume = 
+| issue = 4
+| date = 2008
+| publisher = Dynamite Entertainment
+| location = 
+| page = 
+| panel = 
+| id =
+}}</ref> Sparky is scheduled to appear in volume two, as part of a team of kid heroes and sidekicks.{{Citation needed|date=October 2009}}
+
+===Legacy===
+It was eventually established that the Charlton Comics incarnation of the Daniel Garrett Blue Beetle made his debut on August 14, 1939.<ref>{{Cite comic
+| writer = [[Geoff Johns]]
+| cowriters = [[Jeff Katz]]
+| penciller = [[Dan Jurgens]]
+| inker = [[Norm Rapmund]]
+| story = 52 Pick-Up, Chapter 2: Leggo My Ego
+| title = [[Booster Gold]]
+| volume = 2
+| issue = 2
+| date = November 2007
+| publisher = DC Comics
+| location = 
+| page = 
+| panel = 
+| id =
+}}</ref> The Jaime Reyes Blue Beetle has met Daniel's granddaughter, Danielle, as well<ref>{{Cite comic
+| writer = [[Keith Giffen]]
+| cowriters = [[John Rogers (writer)|John Rogers]]
+| artist = [[Duncan Rouleau]]
+| story = Inside Man
+| title = The Blue Beetle
+| volume = 7
+| issue = 9
+| date = January 2007
+| publisher = DC Comics
+| location = 
+| page = 
+| panel = 
+| id =
+}}</ref> and also met Dan himself.<ref name=BGv2i6>{{Cite comic
+| writer = Geoff Johns
+| cowriters = Jeff Katz
+| penciller = Dan Jurgens
+| inker = Norm Rapmund
+| story = 52 Pick-Up, Chapter 6: Meet the Beetles
+| title = Booster Gold
+| volume = 2
+| issue = 6
+| date = March 2008
+| publisher = DC Comics
+| location = 
+| page = 
+| panel = 
+| id =
+}}</ref>
+
+==Ted Kord==
+{{Main|Blue Beetle (Ted Kord)}}
+[[Image:Blue Beetle LAW.png|thumb|155px|Ted Kord as the Blue Beetle. Art by [[Dick Giordano]].]]
+
+The replacement Blue Beetle created by Charlton Comics, and later published by [[Americomics]] and DC Comics, is '''Ted Kord''', a former student of Dan Garrett, a genius-level inventor and a gifted athlete. Kord and Garrett were investigating Kord's Uncle Jarvis when they learned Jarvis was working to create an army of androids to take over Earth. Garrett changed into Blue Beetle, but was killed in battle. As he died, he passed on to Kord the responsibility of being Blue Beetle, but was unable to pass on the mystical scarab.{{Issue|date=October 2009}}
+
+Ted had the scarab for some time, but never used it. He carried it during the ''[[Crisis on Infinite Earths]]'' when he was chosen by [[Monitor (comics)|the Monitor]] to protect the multiple Earths, but it only reacted when he was attacked; it did not give him superpowers.
+
+As the Blue Beetle, Ted funded his adventures through his company, Kord Industries, and was chronically short on cash.{{Issue|date=October 2009}} He joined the Justice League and met his best friend, [[Booster Gold]]. Each was considered a second stringer, and for many years, the Blue Beetle was a member of one second-rate superhero group or another.{{Issue|date=October 2009}}
+
+During the "[[Death of Superman]]" saga the Blue Beetle and the other JLA members tried to stop [[Doomsday (comics)|Doomsday]]'s path of destruction.{{Issue|date=October 2009}} Doomsday displayed his near-invulnerability and, while brutally defeating the League, put the Blue Beetle into a coma.  Upon recovery, he continued his tenure with the JLA as well as its offshoot [[Extreme Justice]].
+
+In ''[[Countdown to Infinite Crisis]]'', Blue Beetle discovered a renewed [[Checkmate (comics)|Checkmate]] organization led by [[Maxwell Lord]], former bankroller of the JLA. Kord covertly entered Checkmate headquarters, where he found a database containing information on every metahuman on Earth. However, he was captured before he could return to the JLA with the information, and while in Lord's custody was executed with a single gunshot to the head. Before dying, he had used the scarab in an attempt to contact [[Captain Marvel (DC Comics)|Captain Marvel]], but was forced to leave it with [[Shazam (comics)|Shazam]] in the Rock of Eternity when the wizard sent him back to [[Earth]].{{Issue|date=October 2009}}
+
+Some time later, Booster, along with Jaime, Dan, and the [[Black Beetle (comics)|Black Beetle]] in the guise of a Blue Beetle from the future, travels back in time to rescue Kord moments before his death.<ref name=BGv2i6/> Ted later travels back to guarantee his own death.{{Issue|date=October 2009}}
+
+==Jaime Reyes==
+{{Main|Blue Beetle (Jaime Reyes)}}
+
+[[Image:Blue Beetle Reyes.PNG|thumb|right|150px|Jaime Reyes. Promotional art for ''Blue Beetle'' vol. 7, #2 (2006), by [[Cully Hamner]].]]
+
+'''Jaime Reyes''' is a teenager who lives in [[El Paso, Texas]] with his father, mother and little sister; his father owns a garage and his mother is a nurse. Jaime has offered to help his father out at the garage, but his father has turned him down.  He feels Jaime should enjoy his childhood for as long as he can (and should attempt to further his education). Jaime has an acute sense of responsibility for his family and friends, though he complains about being the one to sort out any messes.{{Issue|date=October 2009}}
+
+After the wizard [[Shazam (comics)|Shazam]] was killed and the [[Rock of Eternity]] destroyed, the scarab landed in a vacant lot in El Paso where Jaime found it, thinking it to be nothing but a huge bug. When Booster Gold came to retrieve the scarab, it had fused to Jaime's spine while the boy had been asleep, making Jaime the new Blue Beetle.{{Issue|date=October 2009}} After a few minor encounters locally, he was swept up in the climactic battle with [[Brother Eye]] during ''[[Infinite Crisis]]''. At its conclusion, he is hurled back to Earth where he discovers he has been missing for a year. He is now a member of the [[Teen Titans]].<ref>{{Cite comic
+| writer = John Rogers
+| cowriters = [[J. Torres]]. Keith Giffen
+| penciller = [[Rafael Albuquerque]]
+| copencillers = [[David Baldeon]], [[Freddie Williams II]]
+| inker = Rafael Albuquerque
+| coinkers = David Baldeon, Freddie Williams II, [[Steve Bird]]
+| story = 
+| title = Blue Beetle: Reach For The Stars
+| volume = 
+| issue = 
+| date = 2008
+| publisher = DC Comics
+| location = 
+| page = 
+| panel = 
+| id = ISBN 9781401216429
+}}<br>Reprinting {{Cite comic
+| title = The Blue Beetle
+| volume = 7
+| issue = 13-19
+| date = May - November 2007
+| publisher = DC Comics
+}}</ref> He is good friends with Rose the [[Ravager (comics)|Ravager]], [[Robin (comics)|Robin]], [[Static Shock]] and others. In ''[[Teen Titans]]'' #83 he takes a break from the teams to be with his mother.
+
+Jaime has a girlfriend, the young sorceress [[Traci 13]]. She is not Hispanic, but gets along well with Jaime's family. His large and loving family is a major source of strength and guidance for Jaime.
+
+Peacemaker has been a kind and wise mentor for the young Blue Beetle.
+
+==The scarab==
+The Blue Beetle scarab, previously shown as an artifact of magic, is later [[retcon]]ned as a tool of war of the Reach, an ancient race of cosmic [[wikt:marauder|marauders]]. After being defeated by the [[Guardians of the Universe]] thousands of years ago, and forced into a truce, the Reach posed as benevolent aliens lending their advanced technology to budding civilizations, with the scarab intended as a gift for that world's champion, giving him amazing powers and the knowledge of the Reach to protect his or her peers.{{Issue|date=October 2009}} In fact, the scarab is part of an advanced [[Group mind (science fiction)|hive mind]], with its own artificial intelligence covertly supplanting his wearer's own, turning it into the ''ultimate [[Sleeper agent|infiltrator]]'', a covert agent intended to take over his own world, as evidenced when a still-damaged scarab revives Garrett to fight Ted Kord, until Garrett is able to reassert his individuality.<ref name=BBv6i18/>
+
+Damaged when Dan Garrett forcibly extracted it from its charging cradle and located in a faux pyramid in Egypt, the scarab is first activated with chunks of its programming missing, giving several abilities to Dan Garrett but none of the Reach knowledge base. The combined additional damage dealt by the multiversal/chronal energies fed into it during [[52 (comics)|Booster Gold's mission to protect the Multiverse]], and the magic forces of the '''Shadow Demons''', put it into a dormant state for a year, after which it wakes, enacting its full programming to turn Jaime Reyes into the infiltrator.<ref name=BBv7i24>{{Cite comic
+| writer = John Rogers
+| artist = Rafael Albuquerque
+| story = End Game, Part Three: Outside-In
+| title = The Blue Beetle
+| volume = 7
+| issue = 24
+| date = Aprile 2008
+| publisher = DC Comics
+| location = 
+| page = 
+| panel = 
+| id =
+}}</ref>
+
+However, the strong will and the good nature of Jaime Reyes, combined with the still corrupted programming of the scarab, helped its A.I. to assert itself as an individual, a tool no more. Claiming '''Khaji Da''' (the combined utterance of ''khaji'', the codeword for ''infiltrator'', and ''da'', its own serial number) as its own name at the end of said process, the scarab developed a strong bond with Jaime over time, helping him as a true friend, and even trying to spread the concept of individuality among its fellow scarabs.<ref name=BBv7i24/>
+
+==Other versions==
+===Kingdom Come===
+Blue Beetle (Ted Kord) was seen in [[Alex Ross]] and [[Mark Waid]]'s comic ''[[Kingdom Come (comic)|Kingdom Come]]''. He is shown with the rest of the Charlton "Action Heroes" not as a member of [[Magog (comics)|Magog]]'s [[Justice Battalion]], but as part of [[Batman]]'s group and later of the MLF (Mankind Liberation Front). He would be shown later in the title in a suit of armor powered by the then-mystic scarab, working with Batman's team. In the novelization of the series, Batman thinks of Blue Beetle, along with Green Arrow and Black Canary, as his closest (at the time) friends. Blue Beetle is killed with most of the other heroes by a nuclear explosion.
+
+===52 Multiverse===
+The final issue, #52, of DC Comics' 2006-2007 year-long weekly series ''[[52 (comic book)|52]]'' revealed that a "[[Multiverse (DC Comics)|Multiverse]]" system of [[Worlds of the 52 multiverse|52 parallel universes]], with each Earth being a different take on established DC Comics characters as featured in the mainstream continuity (designated as "New Earth") had come into existence. The Multiverse acts as a storytelling device that allows writers to introduce alternate versions of fictional characters, hypothesize "what if?" scenarios, revisit popular Elseworlds stories and allow these characters to interact with the mainstream continuity. For example, the Ted Kord of the ''Kingdom Come'' limited series is said to reside on Earth-22.
+[[Image:Blue Beetle Elseworld.jpg|thumb|The [[Gotham by Gaslight#Earth-19|Earth-19]] Blue Beetle.]]
+Spin-offs from the series ''[[Countdown to Final Crisis]]'' would introduce more alternate Blue Beetles in 2007. Earth-19 (the ''[[Gotham by Gaslight]]'' universe), set in a Victorian-like era, has its own version of Dan Garrett who in his secret identity is the leading Egyptologist at the Gotham Museum of Natural History and wears a monocle, appearing in ''The Search For Ray Palmer: Gotham By Gaslight''. The limited series ''[[Countdown: Arena]]'' onwards depicted three more for the first time. Firstly, an Earth-26 Blue Beetle: a swarm of sentient insects that form a man-shaped body (calling themselves "The Scarab"), as well as Ted of Earth-33, an anthropomorphic beetle, the pet of Mr. and Mrs. Kord, and Earth-39 Blue Beetle, a younger version of Dan Garrett, who has bonded with his scarab in the same way as Jaime Reyes.{{Issue|date=October 2009}}
+
+A new version of the Blue Beetle known as '''Blue Scarab''' was shown as a member of the Justice League in the apocalyptic future depicted in ''Justice League: Generation Lost''. He is stated as being the "descendant of the Blue Beetle", and has a very alien-looking appearance.<ref>''Justice League: Generation Lost'' #14</ref>
+
+==In other media==
+===Radio===
+[[Image:Blue Beetle radio.jpg|right]]
+The Blue Beetle had a short career on the radio, between May and September 1940. Motion picture and radio actor [[Frank Lovejoy]] was the Blue Beetle for the first 13 episodes, while for the rest of the shows, the voice was provided by a different, uncredited actor. The Blue Beetle was a young police officer who saw the need for extraordinary crime fighting. He took the task on himself by secretly donning a superhero costume to create fear in the criminals who were to learn to fear the Blue Beetle's wrath. The 13-minute segments were usually only two-parters, so the stories were often simpler than other popular programs, such as the ''[[Superman (radio)|Superman]]'' radio serial.
+
+===Audio===
+* ''[[Kingdom Come (comic book)|Kingdom Come]]'' audio drama, adapted by [[John Whitman]] based on a story by [[Mark Waid]] and [[Alex Ross]] and the [[novelization]] by [[Elliot S. Maggin]] ([[Time Warner]] Audio Books, 1998)<ref>{{cite web|url=http://www.sfsite.com/05a/king32.htm|title=SFSite.com: ''Kingdom Come'' (review)
+|accessdate=2007-07-02|publisher=SF Site|last=Shainblum|first=Mark}}</ref>
+
+===Television===
+====The Electric Company====
+* On the [[PBS]] children's educational series ''[[The Electric Company (1971 TV series)|The Electric Company]]'', the Blue Beetle was a bumbling [[superhero]] (played by [[Jim Boyd (actor)|Jim Boyd]]) who would often make matters worse instead of better. He wore a mask, a hood with antennae, wings, tennis shoes, boxer shorts, and a t-shirt bearing the name "Blue Beetle".
+
+====Batman: The Brave and the Bold====
+* The "Jaime Reyes" Blue Beetle has appeared in the series ''[[Batman: The Brave and the Bold]]'' voiced by actor [[Will Friedle]], who previously voiced the futuristic [[Batman]], [[Terry McGinnis]] in ''[[Batman Beyond]]''.<ref>{{cite web|url=http://www.mania.com/dark-knight-teams-up-for-batman-brave-bold_article_110687.html |title=The Dark Knight Teams up for BATMAN: BRAVE AND THE BOLD |publisher=Mania.com |date= |accessdate=2010-09-18}}</ref> In the show's pilot episode, "The Rise of the Blue Beetle!", it is mentioned that a previous Blue Beetle existed before Jaime, and was murdered by [[Kanjar Ro]]. Jaime makes another appearance in the episode "Invasion of the Secret Santas!", assisting Batman in fighting the [[Sportsmaster]] and his henchmen and inviting Batman to his family's [[Christmas Eve]] dinner. In the episode "Fall of the Blue Beetle!", actor [[Wil Wheaton]] voices the Ted Kord version of the character.<ref>{{cite web|author= |url=http://www.wired.com/geekdad/2009/01/wil-wheaton-tak/ |title=Wil Wheaton Takes the Blue Beetle Back to His Silver Age Roots on Batman: The Brave and the Bold |publisher=Wired.com |date= |accessdate=2010-09-13}}</ref> In this episode it is revealed that Ted Kord (who was unable to use the scarab) died two years ago in an explosion. Dan Garrett is also seen in a flashback to Kord's origin, but does not speak. Garrett was seen lying dead, possibly from his battle against Kanjar Ro; though, the Beetle statue in "The Rise of the Blue Beetle!" didn't resemble Garrett and may have been an earlier, alien Beetle. The Reyes Blue Beetle also appears in the episode "Game Over for Owlman!".
+* In the episode, "Deep Cover for Batman!", an [[Parallel universe (fiction)|alternate universe]] version of Jaime Reyes named "Scarlet Scarab" is shown as a member of the [[Crime Syndicate#Similar groups in other media|Injustice Syndicate]] led by Batman's evil [[doppelganger]] [[Owlman (comics)|Owlman]]. Note: the "Scarlet Scarab" mentions to his suit (which is sentient) that he has the heart of a true hero. This leads Batman (posing as Owlman) to believe that he can help the evil version of Reyes—before Scarlet Scarab finishes his statement with "I keep it in a jar in the back of my closet".<ref>{{cite web|url=http://www.worldsfinestonline.com/WF/bravebold/guides/s01.php |title=Batman : The Brave and the Bold Episode Guide |publisher=Worldsfinestonline.com |date= |accessdate=2010-09-13}}</ref>
+*In the episode "Night of the Huntress!", Blue Beetle, Batman, and [[Huntress (comics)|the Huntress]] have to stop the gangster Baby-Face and his wife, Mrs. Manface. The Blue Beetle develops a crush on the Huntress in the episode.
+* Reyes appeared again in "The Fate of Equinox!" where he along with [[Doctor Fate]], [[Aquaman]], [[Black Canary]], [[Black Lightning]], [[Fire (comics)|Fire]], [[Flash (Jay Garrick)|Flash I]], [[Green Arrow]], [[Green Lantern]], [[Plastic Man]], and [[Red Tornado]] temporary gave their powers to Batman, turning him into Bat Monolith so he could battle the omnipotent Equinox.
+* In "Revenge of the Reach!", Jaime learns that his scarab is a part of the Reach. His suit temporarily takes control of him and has him shut down the defenses around [[Oa]], allowing the Reach to invade. Fortunately, Jaime regains control of his suit, reminding it that what they did was of their will, not the Reach's. Channeling the energy of the Green Lanterns through his suit, Blue Beetle is able to free all those under the Reach's control. The [[Guardians of the Universe]] then ask Jaime for his scarab so it can be destroyed along with the others, but [[Guy Gardner (comics)|Guy Gardner]] convinces them that Jaime proved he was the suit's master.
+* He fought [[Planet Master]] alongside Aquaman in "Aquaman's Outrageous Adventure!".
+* Reyes' friend Paco appears in the "The Rise of the Blue Beetle!", "Fall of the Blue Beetle!", "Night of the Huntress!" and "Revenge of the Reach!" episodes of ''Batman: The Brave and the Bold'' played by voice actor [[Jason Marsden]].
+
+===Watchmen: Under the Hood===
+The Dan Garrett Blue Beetle appears on the cover of a comic book in the ''[[Watchmen (film)|Watchmen]]'' film tie-in [[Tales of the Black Freighter (film)|Under the Hood]].
+
+===Live Action===
+[[Geoff Johns]] announced on his Twitter account that there is a [[live action]] screen test of The Blue Beetle with [[Blue Beetle (Jaime Reyes)|Jaime Reyes]] as The Blue Beetle. This screen test is being used to trial the concept of a Blue Beetle television series.<ref>{{cite web|url=http://twitter.com/GeoffJohns0 |title=Geoff Johns at Twitter |publisher=Twitter.com |date= |accessdate=2010-09-13}}</ref><ref>{{cite web|last=Douglas |first=Edward |url=http://www.superherohype.com/news/articles/102444-blue-beetle-live-action-show-in-development |title=Blue Beetle Live Action Show in Development? |publisher=Superherohype.com |date=2010-06-13 |accessdate=2010-09-13}}</ref>
+
+At the San Diego Comic-Con 2010, it was announced that Jamie Reyes would appear in an episode of ''[[Smallville]]'''s final season. It is rumoured that Ted Kord would make an appearance as well.
+
+==See also==
+*[[List of Blue Beetle enemies]]
+
+==Notes==
+{{More footnotes|date=October 2008}}
+{{Reflist}}
+
+==External links==
+*{{gcdb|type=character|search=Blue+Beetle|title=Blue Beetle}}
+*[http://www.toonopedia.com/beetle2.htm Blue Beetle (Dan Garrett)] at [[Don Markstein's Toonopedia]]
+*[http://www.internationalhero.co.uk/b/blubeech.htm Blue Beetle (Dan Garrett)] at the International Catalogue of Superheroes
+*{{comicbookdb|type=character|id=2921|title=Blue Beetle (Dan Garrett)}}
+*[http://www.toonopedia.com/beetle3.htm Blue Beetle (Ted Kord)] at [[Don Markstein's Toonopedia]]
+*[http://www.internationalhero.co.uk/b/blubeet2.htm Blue Beetle (Ted Kord)] at the International Catalogue of Superheroes
+*{{comicbookdb|type=character|id=253|title=Blue Beetle (Ted Kord)}}
+*{{comicbookdb|type=character|id=3735|title=Blue Beetle (Jaime Reyes)}}
+*[http://darkmark6.tripod.com/charlton_index.html Index to the Earth-4 adventures of the Charlton Action Heroes]
+*[http://web.archive.org/web/20091021101633/http://geocities.com/bigbadvoodoolou/bluebeetle.html "Notes from a True Blue Beetlemaniac"]
+*{{InternetArchiveOTR|id=OTRR_Blue_Beetle_Singles|title=The Blue Beetle}}
+*[http://www.botar.us/bluebeetle.html Original 1940 Blue Beetle Old Time Radio show] (free download)
+*[http://www.moviepoopshoot.com/comics101/127.html Movie Poop Shoot's look at The Blue Beetle]
+
+[[Category:Charlton Comics titles]]
+[[Category:DC Comics titles]]
+[[Category:Fictional archaeologists]]
+[[Category:Fictional aviators]]
+[[Category:Fictional police officers]]
+[[Category:Fictional vigilantes]]
+[[Category:Golden Age superheroes]]
+[[Category:DC Comics characters who use magic]]
+[[Category:1940s American radio programs]]
+[[Category:Comics characters introduced in 1939]]
+[[Category:1955 comic debuts]]
+[[Category:1964 comic debuts]]
+[[Category:1965 comic debuts]]
+[[Category:1967 comic debuts]]
+[[Category:1986 comic debuts]]
+[[Category:2006 comic debuts]]
+
+[[de:Blue Beetle]]
+[[es:Blue Beetle]]
+[[fr:Blue Beetle]]
+[[it:Blue Beetle]]
+[[pt:Besouro Azul]]
+[[fi:Blue Beetle]]
+[[sv:Blue Beetle]]
+[[tl:Blue Beetle]]

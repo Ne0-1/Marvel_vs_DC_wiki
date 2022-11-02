@@ -1,0 +1,48 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:ringmaster.gif|250px]]
+|caption=The Ringmaster.<br />Art by [[Jack Kirby]] and [[Dick Ayers]].
+|comic_color=background:#ff8080
+|character_name=The Ringmaster
+|real_name=Maynard Tiboldt
+|publisher=[[Marvel Comics]]
+|debut=''[[The Hulk]] Magazine'' Issue #3 and then ''[[Amazing Spider-Man]]'' #16 (September 1963)
+|creators=[[Stan Lee]]<br>[[Steve Ditko]]
+|alliance_color=background:#c0c0ff
+|status=Active
+|alliances=
+|previous_alliances=[[Circus of Crime]]
+|aliases=Circus Master of Ceremonies; Mr. Thraller
+|powers=Hypnotic mind control
+}}
+
+<!-- Image with unknown copyright status removed: [[Image:Amazingspidey16.jpg|thumb|left|Cover to ''The Amazing Spider-Man'' #16, showing Spider-Man going up against [[Daredevil (Marvel Comics)|Daredevil]] with The Ringmaster in the background. Art by [[Steve Ditko]].]] -->
+
+The '''Ringmaster''' (real name Maynard Tiboldt) is a fictional [[supervillain]] who is featured in [[Marvel Comics]]. Since his first appearance in ''[[Hulk (comics)|Hulk]]'' #3, he has turned up as a somewhat pathetic and luckless opponent for virtually every hero in the Marvel universe, ranging from [[Spider-Man]] to [[Howard the Duck]]. 
+
+He is a tall thin man who sports a [[Fu Manchu moustache]] and dresses in a green variation on the traditional circus [[ringmaster (circus)|ringmaster]] costume. Having acquired a hypnosis-wave generator originally created by the [[Red Skull]] and mounted said device in his costume's [[top hat]], the Ringmaster's usual scheme is to lead the self-titled "[[Circus of Crime]]" into a community and entrance and rob the local citizenry as they attend his circus. Nearly every appearance of the Ringmaster ends with him being thrown back into jail, having been defeated by his current foe.
+
+==Character biography==
+The Ringmaster is a powerless man with a unique hat which is designed to hypnotise people, thus allowing him to take complete control over their actions. He originally travelled across America with his "Circus of Crime"; The Human Cannonball, The Clown, Bruto the Strongman, The Great Gambonos (acrobats and gymnasts) and Princess Python, the Snake Charmer. During their show, he would hypnotise the crowd and send his lackies out to steal any valuables on the victim's person. 
+
+Recently, the Ringmaster travelled to Tibet and stole a ring made from a piece of a shattered [[Cosmic Cube]] that allowed him to manipulate reality within a fifteen foot radius. Attacking New York for 'practice', he clashed with various superheroes including [[Spider-Man]], [[Moon Knight]] and [[Captain America]], but was ultimately defeated when the Punisher shot his finger off. His ring later came into the possession of Curtis Doyle, who would use it as the superhero [[Freedom Ring]].
+
+==Powers and abilities==
+The Ringmaster originally had no inherent superhuman powers. His unique Top Hat has a swirling disk in the front which can send out a hypnotic beam and give him control of the minds of others. Tiboldt eventually had special hypnotic disks surgically grafted into his eyes. These implants allow him to mentally dominate individuals, but he still requires his hat to control large crowds.
+
+With the Cosmic Ring, Tiboldt gained the ability to alter reality in a 15 foot radius around him.
+
+==Appearances in other media==
+Ringmaster has appeared in a computer game, a Spider-Man [[interactive fiction]] game for the [[Apple II]].
+
+Ringmaster appeared in the 1980's [[Spider-Man (1981 TV series)|Spider-Man]] cartoon.
+
+He has appeared in an episode of [[Avengers: United They Stand]].
+
+[[Category:Spider-Man villains|Ringmaster]]
+[[Category:Avengers villains|Ringmaster]]
+[[Category:Daredevil villains]]
+[[Category:Thor villains]]
+[[Category:Hulk villains]]
+[[Category:Nick Fury villains]]
+
+[[fi:Kehämestari]]

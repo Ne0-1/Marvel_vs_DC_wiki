@@ -1,0 +1,54 @@
+{{otheruses}}
+
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Ultronunleashed.jpg|225px]]
+|caption=Cover to ''Avengers: Ultron Unleashed'' #1. <br>Art by George Perez.
+|comic_color=background:#ff8080
+|character_name=Ultron
+|real_name=Ultron
+|publisher=[[Marvel Comics]]
+|debut=Avengers #54 (1968)
+|creators=[[Roy Thomas]] (writer) <br>[[John Buscema]] (artist)
+|alliance_color=background:#c0c0ff
+|status=Active
+|alliances=
+|previous_alliances=[[Masters of Evil]]
+|aliases=Crimson Cowl
+|relatives= [[Henry Pym]] (creator, "father"), [[Wasp (comics)|Wasp]] ("mother"), [[Vision (comics)|Vision]] (creation, "son"),  [[Jocasta (comics)|Jocasta]] (creation, "first wife", separated), [[Alkhema]] (creation, "second wife", separated), [[Victor Mancha]] (creation, "son")
+|powers= Robotic being.<br>Some bodies have possessed [[adamantium]].
+|}}
+'''Ultron''' is a [[fictional character]], an [[android]] [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]].  He believes in the superiority of mechanical entities over [[human]]s and organic life in general, and has often endeavored to either exterminate those "lesser" beings or convert them into mechanical forms.
+
+==Fictional History==
+===Creation===
+Ultron was created by [[Henry Pym]], based on Pym's own brain patterns, and intended to serve Pym in his superheroic identity of [[Yellowjacket]].  Ultron became [[sentience|sentient]] and rebelled, [[hypnosis|hypnotizing]] Pym and [[brainwashing]] him into forgetting that Ultron had ever existed.  He then went on to organize the [[Masters of Evil]] under the guise of the Crimson Cowl, and battled Pym and his teammates in [[Avengers (comics)|The Avengers]].
+
+==="Family"===
+
+{{spoiler-about|[[Runaways (comics)|Runaways]]}}
+Ultron has since generally remained a solo operative, being too monomaniacally genocidal to willingly work alongside any human for any length of time.  His most notable achievements may be the creation of the "synthezoid" called the [[Vision (comics)|Vision]], whose body was a copy of the [[Human Torch (Golden Age)|original Human Torch]] and whose mind was based on that of [[Wonder Man]].  Ironically, although the Vision fought the Avengers at first, he joined the team soon after, becoming one of their most prominent members and even leading the team at one point.  Ultron also created a "mate", [[Jocasta (comics)|Jocasta]], who also joined the Avengers, and tried again with the creation of [[Alkhema]] the War Toy, whose mind was based on that of [[Mockingbird (Marvel Comics)|Mockingbird]].  Like his others creations, Alkhema turned on him, although she alone shared his desire to replace humanity with machine life.  Recently, Ultron has returned in the pages of [[Runaways (comics)|Runaways]] as the "father" of [[Victor Mancha]], a teenage boy who is supposedly going to one day kill every hero in the Marvel Universe. It was originally believed that [[Doctor Doom]] was the boy's father, but this incarnation of Doom turned out to be a Doombot, created by Ultron. Victor is a cybernetic/human hybrid.  True to form, Victor turned on Ultron, which allowed the [[Runaways (comics)|Runaways]] to escape & Ultron to eventually be defeated by the group '[[Excelsior (comics)|Excelsior]].'
+
+===Incarnations===
+Although Ultron has been destroyed countless times, he has rebuilt himself anew each time, usually renumbering himself in the process.  Ultron-1 was Pym's first creation; by the time he first met the Avengers, he had already improved himself to the iteration of Ultron-5.  Several of his bodies, beginning with Ultron-6, have been composed of [[adamantium]] or of a slightly weaker adamantium alloy called "secondary adamantium".  Ultron-7 had a gigantic body, distinguishing him from the various other Ultrons, but this body was not composed of adamantium and was destroyed by the [[Fantastic Four]].  Ultron-8 created Jocasta, but was destroyed by the [[Scarlet Witch]], whose probability-manipulation powers let her disrupt his internal workings.
+
+Ultron-11 was re-created by the [[Beyonder]] to battle alongside other villains during the [[Secret Wars]]; he only cooperated with his human "teammates" after being reprogrammed by [[Doctor Doom]].  The next incarnation, Ultron-12, initially joined the [[Lethal Legion]] to battle the Vision and his new family (his wife, the Scarlet Witch, and his mental "brother", [[Wonder Man]]), but came to reconsider his actions.  He reconciled with his "father", Henry Pym, and renamed himself from "Ultron Mark 12" to "Mark" but was destroyed by Ultron-11.  Ultron-11 was destroyed in retaliation by [[Wonder Man]].  Ultron-13 was rebuilt by Doctor Doom with all of its predecessors' memories, and as an unforeseen consequence had all thirteen personalities running in its mind at once.  Attempting to battle itself, it tore itself apart, to the thanks of [[Daredevil (comics)|Daredevil]], who had been attempting to fight it with no result whatsoever.  The next incarnation of Ultron created his "mate", Alkhema, but after several battles against various foes, his programming degenerated and he began acting like a drunken hobo.
+
+===Ultron Unlimited===
+The next Ultron gave itself a body made of pure adamantium.  It recreated all of the previous Ultrons and created hundreds of new Ultron bodies, several of whom had bodies made of secondary adamantium, and reprogrammed them all with fiercely loyal minds.  The army of Ultrons completely obliterated the fictional eastern European nation of Slorenia.  Although Ultron attempted to transform his "family" (Pym, Vision, Wonder Man, the Scarlet Witch, Pym's ex-wife the [[Wasp (comics)|Wasp]] and Wonder Man's brother the [[Grim Reaper (comics)|Grim Reaper]]) into androids, the process was interrupted by the remaining Avengers, who destroyed the army of Ultrons.  The primary Ultron was destroyed by Pym, wielding a chuck of "anti-metal" (Antarctic [[vibranium]]), which completely disintegrated the robot and thus deactivating all of its drone units.  
+
+===The Ultron Imperative===
+Alkhema used the data obtained during Ultron's human-to-android conversion process to create a small army of androids based on those who had been undergoing the process.  Hidden programming to recreate Ultron - the "Ultron Imperative" - was implanted in Alkhema by Ultron when he created her, and this programming caused her to copy the Imperative into her own creations.  The Ultron Imperative caused them to unknowingly rebuild Ultron, who attempted to destroy both the Avengers and Alkhema's own android "children".  Alkhema allowed [[Hawkeye (comics)|Hawkeye]] to kill her and her creations in order to destroy Ultron, although Ultron's decapitated head survived, with his mind intact. His head was picked up by Antigone, an undeveloped, child-like one of Alkhema's creations, who initially did not obey his commands.
+
+===Sentient Armor===
+Some time prior to this, when Ultron was thought dead following the Slorenia massacre, Jocasta, who had come into the employ of Tony Stark, was urged by the Ultron Imperative that also existed within her to reprogram the Iron Man armour to serve as a vessel for Ultron's rebirth. However, a lightning strike on the armour corrupted and accelerated the process, giving the armour a sentience that Jocasta outlandishly passed off on the effects of [[Y2K]]. The sentience began to display the mentality of Ultron Mark 12, and sacrificed its life to save Tony Stark, before being buried on a desert island. The armour was subsequently recovered by a cult that worshipped Iron Man's mentor, Ho Yinsen, with the intent of implanting Yinsen's brain into the suit. This was apparently accomplished, but then, Ultron and Antigone struck, as Ultron affixed his head to the armour and took control of it, battling Iron Man with the aid of the cult, who he had transformed with Tony Stark's SKIN technology. Ultron and Antigone subsequently vanished in an explosion.
+
+[[Image:Ultron.jpg|The Ultrons from ''Avengers Dissasembled''. Art by David Finch.|thumb]]
+===Disassembled===
+During the events of [[Avengers Disassembled]], the Vision melted down after crashing an Avengers Quinjet into the Avengers Mansion, and expelled several spheres from his mouth.  The spheres grew into five Ultrons, which fought and were destroyed by the assembled Avengers. The Avengers believed that Ultron could have put a command in the Vision that would have been activated by the Avengers White Code alert. These events were later revealed to have been caused by the [[Scarlet Witch]]'s reality-warping powers, and so this may not have been an actual appearance of an Ultron.
+
+===Ultimate Ultron===
+In the [[Ultimate Marvel]] Universe, Ultron has been shown as a robot designed to be an expendable super soldier in issue #6 of ''[[Ultimates]]''.  It was created by [[Hank Pym]] once again, but now is based on designs from the Ultimate Vision, an alien robot that warns planets of Ultimate [[Galactus]], along with Vision-Two.  This Ultron has yet to turn evil.
+
+[[Category:Masters of Evil members]]
+[[Category:Fictional robots]]
+[[Category:Marvel Comics robots]]

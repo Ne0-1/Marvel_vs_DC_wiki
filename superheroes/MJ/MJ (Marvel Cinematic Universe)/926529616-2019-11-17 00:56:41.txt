@@ -1,0 +1,85 @@
+{{Draft article}}{{Use mdy dates|date = April 2019}}
+
+{{short description|character in the Marvel Cinematic Universe}}
+
+{{Infobox character
+| color              = #AF181F
+| name               = Michelle Jones
+| franchise          = [[Marvel Cinematic Universe]]
+| image              = 
+| image_upright      = 
+| caption            = MJ, as portrayed by [[Zendaya]] in ''[[Spider-Man: Far From Home]]'' (2019)
+| first_date         = 2017
+| creator            = {{Plainlist|
+* [[Stan Lee]]
+* [[John Romita Sr]]
+* [[Dan Slott]]
+* [[Phil Jimenez]]
+}}
+| adapted_by         = {{Plainlist|
+* [[Jonathan Goldstein (filmmaker)|Jonathan Goldstein]]
+* [[John Francis Daley]]
+* [[Jon Watts]]
+* [[Christopher Ford]]
+* [[Chris McKenna (writer)|Chris McKenna]]
+* [[Erik Sommers]]
+}}
+| portrayer          = {{Plainlist|
+* [[Zendaya]]
+}}
+| full_name          = Michelle Jones
+| alias              = {{Plainlist|
+* MJ
+}}
+| occupation         = {{Plainlist|
+* Student 
+}}
+| family             = {{Plainlist|
+}}
+| spouse             = 
+| children           = 
+| affiliation        = {{Plainlist|
+* [[Spider-Man]]
+}}
+| significant_others = {{Plainlist|
+* [[Spider-Man]]
+| nationality        = American
+}}
+| nationality        = American
+| alt                = 
+| first              = ''[[Spider-Man: Homecoming]]'' (2017)
+| last               = ''[[Spider-Man: Far From Home]]'' (2019)
+| based_on           = [[Mary Jane Watson]]
+| voice              = [[Zendaya]]
+| origin             = 
+| home               = 
+}}
+
+'''Michelle Jones''' is a [[Character (arts)|character]] portrayed by [[Zendaya]] in the [[Marvel Cinematic Universe]] (MCU) [[film franchise]], based on the [[Marvel Comics]] character [[Mary Jane Watson]], and is known commonly as '''MJ'''. She is a student at Midtown High, Peter Parker's school. She is one of Peter's best friends, and after [[Liz Toomes]] leaves Peter, Michelle and Peter start a romantic relationship. Michelle is snarky and coy, but also kind and friendly. She often acts as the voice of reason, and she provides the troubled Peter with much-needed comfort and advice. As of 2019, the character has appeared in 2 films of the series.
+
+== Concept, creation, and characterization ==
+
+== Marvel Cinematic Universe ==
+
+=== Feature films ===
+
+== Fictional character biography ==
+
+== Differences from the comic books ==
+
+== Reception ==
+
+== See also ==
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{sisterlinks|display=''MJ (Marvel Cinematic Universe)''|d=Q23894605|n=no|b=no|v=no|voy=no|m=no|mw=no|q=no|wikt=no|s=no|species=no|c=no}}
+
+==External links==
+* [https://marvelcinematicuniverse.fandom.com/wiki/Michelle_Jones Michelle Jones] at Marvel Cinematic Universe Wiki
+* {{Marveldatabase|Michelle Jones (Earth-199999)|Marvel Cinematic Universe MJ}}
+
+[[:Category:Spider-Man (2017 film series)]]
+[[Category:Marvel Cinematic Universe drafts]]

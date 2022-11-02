@@ -1,0 +1,27 @@
+{{Superherobox| <!--Part of Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Tyr
+|full name= Tyr
+|publisher=[[Marvel Comics]]
+|debut=''[[Journey into Mystery]]'' #85 (Oct 1962)
+|creators=[[Stan Lee]], [[Larry Lieber]] and [[Jack Kirby]]
+|species = [[Asgardians (comics)|Asgardian]]
+|homeworld = [[Asgard (comics)|Asgard]]
+|alliances = [[Asgard (comics)|Asgard]] 
+|aliases = 
+|relatives=
+|supports= 
+|powers = 
+}}
+
+'''Tyr''' is a [[fictional character]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]], based loosely on the [[Tyr]] of [[Norse mythology|Norse myth]].
+
+==External links==
+*[http://www.marveldirectory.com/individuals/t/tyr.htm Tyr at MarvelDirectory.com]
+
+
+[[Category:Marvel Comics Asgardians]]
+
+
+{{Marvel-Comics-stub}}

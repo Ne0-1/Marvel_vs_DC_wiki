@@ -1,0 +1,43 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Starlight
+|real_name=Tania Belinsky (Belinskaya)
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Defenders (comics)|Defenders]]'' #35 (May 1976) (as Red Guardian)<br>''[[Quasar (comics)|Quasar]]'' #19 (Feb 1991) (as Starlight)
+|creators=[[Steve Gerber]] and [[Sal Buscema]]
+|alliance_color=background:#c0c0ff
+|alliances=[[Defenders (comics)|Defenders]] (unofficial)
+|partners=[[Presence (Marvel Comics)|Presence]]
+|aliases=[[Red Guardian#Dr. Tania Belinsky|Red Guardian]]<br>Zvezda Syvet ("Starlight" in Russian)
+|powers=
+|}} 
+
+'''Starlight''' is a fictional character in the [[Marvel Universe]]. Created by [[Steve Gerber]] and [[Sal Buscema]], she first appeared in ''Defenders'' # 35 (May 1976).
+
+==Fictional character biography==
+Tania Belinsky was born in [[Saint Petersburg|Leningrad]], in the former [[Soviet Union]].  Tania became a young neurosurgeon, though after her dissident father Andrei had been sent to Siberia, she adopted a costume and identity similar to the original [[Red Guardian]]'s, and fought crime and protected dissidents in an attempt to reform Soviet society.  She left the USSR at the request of [[Doctor Strange]] to perform a brain transplant.<ref>''Defenders'' #35</ref> She decided to stay in America and join the [[Defenders (comics)|Defenders]] as an adventurer.{{Issue|date=May 2009}}  She battled a [[Plantman|Plant Man]] simulacrum alongside Doctor Strange.<ref>''Defenders'' #36</ref> She was teleported to another dimension alongside [[Luke Cage|Power Man]] and Doctor Strange, where she battled the original [[Eel (comics)|Eel]] and [[Porcupine (comics)|Porcupine]].<ref>''Defenders'' #37-38</ref> She also battled an unnamed masked Soviet.<ref>''Defenders'' #40</ref> She teamed with [[Valkyrie (Marvel Comics)|Valkyrie]] and [[Patsy Walker|Hellcat]] to battle Doctor Strange as the Red Rajah and [[Nighthawk (Marvel Comics)|Nighthawk]], [[Hulk (comics)|Hulk]], and Power Man.<ref>''Defenders'' #44-45</ref>
+
+Dr. Belinsky was brought to the lab complex of Sergei Krylov, alias the "[[Presence (Marvel Comics)|Presence]]", a scientific genius who had become one of the most influential men behind the scenes of the Soviet government.<ref>''Defenders'' #52</ref>  Sergei mentally dominated Tania, and used a [[Chernobyl disaster|Chernobyl]]-like nuclear disaster to transform Tania into his super-powered thrall with nuclear powers.<ref>''Defenders'' #53</ref> She battled the Defenders alongside the Presence, and then separated from him.<ref>''Defenders'' #55</ref> She was later assigned to investigate the Presence's reappearance, and after battling a giant amoeba, she reunited with the Presence.<ref>''Defenders'' #65</ref> Alongside the Presence, she encountered the Hulk, [[Darkstar (comics)|Darkstar]], [[Crimson Dynamo]], [[Vanguard (comics)|Vanguard]], [[Ursa Major (comics)|Ursa Major]], and [[Professor Phobos]]. She and the Presence left Earth since their radiation levels were too dangerous to remain on Earth.<ref>''Incredible Hulk'' #259</ref> Tania and Sergei were eventually revealed to be laboratory subjects on one of the [[Stranger (comics)|Stranger]]'s laboratory worlds. <ref>''Quasar'' #16</ref> After regaining their freedom, Tania took the name '''Starlight''', and returned to Earth with the Presence and [[Jack of Hearts]]. She battled [[Quasar (comics)|Quasar]] and the [[Fantastic Four]], and aided the Presence in his attempt to kill [[Eon (comics)|Eon]].<ref>''Quasar'' #19-20</ref> She was later seen battling Darkstar and the [[Black Widow (Marvel Comics)|Black Widow]].<ref>''Marvel Comics Presents'' #70</ref>
+
+Tania was last seen in the company of the Presence as his cosmic companion during his attempts to conquer Russia by mutating its citizens and armies into radioactive zombie-like beings. This included some of the Avengers, who fell under his power. He was defeated by Thor and Firebird, who proved immune to the transformations and Tania offered to restore all those who had been transformed back to normal. She also revealed that she had come to genuinely love the Presence and felt that she would have no one else in her life if she left him.{{Issue|date=May 2009}} Later Tania and the Presence aided the Avengers in battling [[Kang the Conqueror|Kang]].{{Issue|date=May 2009}} The Presence was planning to capitalize on the chaos Kang had sown on Earth by attempting to conquer Russia again once he was defeated, but Tania refused to allow it and threatened to desert him if he did so.{{Issue|date=May 2009}}
+
+==Powers and abilities==
+As a result of mutation from cobalt radiation, Tania has superhuman strength, stamina, and durability.  She can generate nuclear energy for flight at supersonic speeds, and to project radiation blasts. Starlight gives off low levels of nuclear radiation at all times, putting normal human beings to associate with her for any length of time at risk.
+
+Tania has a gifted intellect, and is skilled at neurosurgery and medicine, with a PhD. in medicine. She also has extensive experience in hand-to-hand combat.
+
+==References==
+{{reflist}}
+
+==External links==
+*http://www.marvel.com/universe/Red_Guardian_%28Tania_Belinsky%29
+*{{Marvunapp|http://www.marvunapp.com/Appendix4/starlightredguard.htm|Starlight}}
+
+
+[[Category:Characters created by Steve Gerber]]
+[[Category:Marvel Comics superheroes]]
+
+[[it:Starlight (fumetto)]]

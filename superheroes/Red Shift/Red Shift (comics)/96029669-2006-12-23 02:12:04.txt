@@ -1,0 +1,46 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = [[Image:Red Shift.jpg|thumb|300px|center|Galactus: The Devourer #2]] 
+| caption = 
+| comic_color = background:#ff8080
+| character_name = Red Shift
+| real_name = unknown
+| publisher = [[Marvel Comics]]
+| debut = ''Galactus: The Devourer'' (1999)
+| creators = '''Writer:''' [[Louise Simonson]]<br>'''Artist:''' John J. Muth
+| alliance_color = background:#c0c0ff
+| status = active
+| alliances = 
+| previous_alliances = [[Herald of Galactus|Heralds of Galactus]]
+| aliases = 
+| relatives = 
+| powers = Endowed with the [[Power Cosmic]], enabling superhuman strength and durability; immunity to vacuum of space; Cosmic-powered swords; ablility to open dimensional rifts
+}}
+'''Red Shift''' is a [[fictional character|fictional]] [[supervillain]] in the [[Marvel Comics]] [[Marvel universe|universe]] and was a herald of [[Galactus]].  He first appeared in ''Galactus: The Devourer'' (1999). 
+
+==Character biography==
+Nothing is known about Red Shift's past before he became the Herald of Galactus. At some point, Galactus became addicted to the consumption of intelligent life.  It is unclear whether this occurred before or after Red Shift was empowered as herald, but Red Shift cooperated fully with Galactus's plans. In time, Red Shift attempted to lead Galactus to Earth. He started by attacking the [[Silver Surfer]], who battled Red Shift for a short while before recognizing that he possessed the Power Cosmic as one of Galactus's heralds.
+
+Red Shift proudly declared that he actually served another master, but without revealing whom. He opened a portal to trap the Surfer in a black hole but was himself trapped when the Surfer destroyed one of his swords and confiscated the other.
+
+He has banded together with the other heralds of Galactus, who are hunted by the forces of Annihilus's Annihilation Wave, for an unknown purpose.
+
+As of ''Annihilation'' #3 Redshift and Stardust are both feared dead after they intercepted and held back a massive blast of energy from Galactus absorption device, long enough for the Alliance to escape the planet they were on.
+
+==Powers and abilities==
+Like past heralds, Red Shift was granted the power cosmic that allowed him to survive and travel through space, grant him super strength, and a number of other abilities.  He wielded two swords that could cut holes in space to act as portals to other places. Red Shift was able to open these portals offensively to redirect comets and send foes into black holes.
+
+Red Shift bears a resemblance to [[Beta Ray Bill]], but without verification this can be taken as artistic license instead of an indication that he is of the same race.
+
+==Other==
+The name Red Shift refers to his ability to send foes into black holes, the Red Shift effect of black holes is when an object would hit the event horizon of a black hole and their image would seem to turn more red because the gravity of the hole causes the wavelength of the light to stretch out and appear more red, because red has the longest wavelength.
+
+==External links==
+*[http://www.marvunapp.com/Appendix/redshift.htm ''Appendix to the Handbook of the Marvel Universe'''s profile on Red Shift]
+
+[[Category:1999 introductions]]
+[[Category:Extraterrestrial supervillains]]
+[[Category:Marvel Comics immortals]]
+[[Category:Heralds of Galactus]]
+[[Category:Marvel Comics aliens]]
+
+{{Marvel-Comics-stub}}

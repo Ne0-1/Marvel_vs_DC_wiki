@@ -1,0 +1,78 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Gabecov.jpg|200px]]
+|caption=''[[Sgt. Fury and his Howling Commandos]]'' #151 (April 1979). Cover art by [[Dick Ayers]] & [[John Severin]], reprinted from issue #56
+|comic_color=background:#ff8080
+|character_name=Gabe Jones
+|real_name=Gabriel Jones
+|publisher=[[Marvel Comics]]
+|debut=''[[Sgt. Fury and his Howling Commandos]]'' #1 (May 1963)
+|creators=[[Stan Lee]] and [[Jack Kirby]]
+|alliance_color=background:#cccccc
+|alliances=[[Sgt. Fury and his Howling Commandos|Howling Commandos]]<br>[[S.H.I.E.L.D.]]<br>[[Godzilla Squad]]
+|aliases=
+|powers=
+|}}
+
+'''Gabriel "Gabe" Jones''' is a [[fictional character]] appearing in [[comic books]] published by [[Marvel Comics]]. Created by writer-editor [[Stan Lee]] and artist and co-plotter [[Jack Kirby]], he made his [[first appearance]] in the [[World War II]] [[war comics]] series ''[[Sgt. Fury and his Howling Commandos]]'' #1 (May 1963).
+
+==Publication history==
+Gabe Jones appeared as a regular cast-member in virtually every issue and annual of ''Sgt. Fury and his Howling Commandos.'' In present-day stories, initially in the feature "Nick Fury, Agent of S.H.I.E.L.D." in ''[[Strange Tales]]'', he appears as an agent of that fictional [[espionage]] organization &mdash; inexplicably aged very little, like fellow WWII vet and agent [[Dum Dum Dugan]], despite a [[retcon]] explanation for agency head [[Nick Fury]]'s youthfulness. As a S.H.I.E.L.D. agent, Jones has appeared in issues of ''[[Avengers (comics)|The Avengers]]'', ''[[Iron Man]]'', ''[[Captain America]]'', ''[[The Incredible Hulk]]'', the first two volumes of ''Nick Fury, Agent of S.H.I.E.L.D.'', and the 1988 miniseries ''Nick Fury vs. S.H.I.E.L.D.''
+
+Although colorist Stan Goldberg knew that Jones was African American, the company that made the engraving plates for ''Sgt. Fury and his Howling Commandos'' #1 thought a mistake had been made and colored him the same color as the rest of the Howling Commandos.<ref>{{cite book |title=Stan Lee's Amazing Marvel Universe |last=Lee |first=Stan |coauthor=Roy Thomas |year=2006 |publisher=Sterling Publishing |location=New York, New York |isbn=978-1402742255 |page = 54 }}</ref>
+
+==Fictional character biography==
+'''Gabriel "Gabe" Jones''' was born in [[New York City]].  He is an original member of the fictional, elite Howling Commandos combat squad of World War II, and the first [[African-American]] to serve in an integrated unit. (The [[U.S. Armed Forces]], in real life, were not integrated until 1948, by executive order of President [[Harry S Truman]].) He is one of the close confidantes of [[Nick Fury]], his sergeant and later the head of the international [[espionage]] organization [[S.H.I.E.L.D.]], which Jones joined at some unspecified point after the war. He also served under Fury in reunion missions during the [[Korean War]] and the [[Vietnam War]].
+
+Jones retired from S.H.I.E.L.D. after the events of the ''Nick Fury vs. S.H.I.E.L.D.'' six-issue miniseries (1988), but returned to help train a new corps of recruits.{{Issue|date=June 2009}} This new class is slain by the [[terrorist]] organization [[HYDRA]], S.H.I.E.L.D.'s primary nemesis.{{Issue|date=June 2009}}
+
+Gabe spends time trying to bring down the evil ''[[Secret Empire]]'' from within.<ref>{{cite book |title=The Marvel Encyclopedia|last=DeFalco|first=Tom|year= 2006|publisher=Dorling Kindersley|isbn=978-0-7566-2358-6|page=151}}</ref> Following the events of [[Secret Invasion]] both he and [[Dum Dum Dugan]] quit S.H.I.E.L.D. and recreate the Howling Commandos with ex-S.H.I.E.L.D. agents.<ref>''Secret Warriors'' #4</ref>
+
+Gabriel Jones is seen commanding the murder scene investigation of his old friend [[Clay Quartermain]].<ref>''Hulk'' vol. 2, #4 (June 2008)</ref>
+
+He is later killed by [[Gorgon (Tomi Shishido)|Gorgon]] during a battle with HYDRA.<ref>''Secret Warriors'' #19</ref>
+
+==Other versions==
+===[[Earth X]]===
+In this alternate future, Jones has a cameo as one of the dozens of deceased heroes attempting to stop the plans of [[Mephisto (comics)|Mephisto]] and [[Thanos]].<ref>"Earth X" #8</ref>
+
+==In other media==
+===Television===
+* Gabriel Jones appeared in the 1996 animated series ''[[The Incredible Hulk (1996 TV series)|The Incredible Hulk]]'' voiced by [[Thom Barry]]. He is portrayed as a ruthless S.H.I.E.L.D. agent working with General [[Thunderbolt Ross]]' "[[Hulkbusters]]" team. In "Mission: Incredible," it was revealed that he was partially responsible for the accident that turned a double agent named Diana into the Hybrid when she fell into a tank of newly-discovered organisms (which S.H.I.E.L.D. was experimenting on) at a S.H.I.E.L.D. Sea Base when she was hired to steal one of those organism. Also in that episode, he starts hitting on She-Hulk.
+
+* Jones appears in ''[[The Super Hero Squad Show]]'' episode "Wrath of the Red Skull". He alongside [[Dum Dum Dugan]] and [[Izzy Cohen]] were featured in a flashback when Nick Fury recounts how he and Captain America fought the Red Skull.
+
+* Gabriel Jones appears in ''[[The Avengers: Earth's Mightiest Heroes]]'' episode "Meet Captain America." He is shown as a member of the Howling Commandos.
+
+===Film===
+* Gabriel Jones appeared in the ''[[Nick Fury: Agent of S.H.I.E.L.D. (film)|Nick Fury: Agent of S.H.I.E.L.D.]]'' TV-movie played by [[Ron Canada]]. He is portrayed as S.H.I.E.L.D.'s top scientist.
+*  [[Derek Luke]] portrayed [[Howard University]]-educated  Gabriel Jones in the 2011 film ''[[Captain America: The First Avenger]]''.<ref>{{cite web|url=http://www.blackfilm.com/read/2011/03/derek-lukes-role-in-captain-america/ |title=Derek Luke’s Role in Captain America |first=Wilson |last=Morales |publisher=blackfilm.com |date=2011-03-10 |accessdate=2011-03-11}}</ref>
+
+===Video games===
+* Gabriel Jones had a cameo appearance in ''[[Marvel: Ultimate Alliance]]'' as Nick Fury's correct password to the S.H.I.E.L.D. database the hero must give to [[Weasel (Marvel Comics)|Weasel]].
+
+==See also==
+* [[List of S.H.I.E.L.D. members]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{comicbookdb|type=character|id=11693|title=Gabriel 'Gabe' Jones}}
+
+{{S.H.I.E.L.D.}}
+{{Howling Commandos}}
+{{Marvel Cinematic Universe}}
+{{DEFAULTSORT:Jones, Gabe}}
+[[Category:Comics characters introduced in 1963]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Fictional African-American people]]
+[[Category:Fictional characters from New York City]]
+[[Category:Fictional Korean War veterans]]
+[[Category:Fictional secret agents and spies]]
+[[Category:Fictional soldiers]]
+[[Category:Fictional special forces personnel]]
+[[Category:Fictional World War II veterans]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics characters]]

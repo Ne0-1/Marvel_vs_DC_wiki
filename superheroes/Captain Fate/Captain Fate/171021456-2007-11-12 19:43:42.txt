@@ -1,0 +1,28 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Captain Fate
+|real_name=Jebediah Fate
+|species=human ghost; magic-user
+|publisher=[[Marvel Comics]]
+|debut=''[[Man-Thing]] #13'' (Jan 1975)
+|creators=[[Steve Gerber]] and [[John Buscema]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=leader of the crew of the Serpent's Crown 
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''Captain Fate''' is a fictional character in the [[Marvel Universe]].
+
+Captain Fate is a 200-year-old Earth sea pirate cursed to sail the spaceways aboard his ship the ''Serpent’s Crown'' forever by the wizard/satyr Khordes.  Captain Fate and his crew came into conflict with the [[Man-Thing]] but were defeated.  Captain Fate later allied with [[Thog]] the Nether-Spawn.
+
+==External links==
+*http://www.marvunapp.com/Appendix2/captainfatemt.htm
+
+
+[[Category:Marvel Comics supervillains]]

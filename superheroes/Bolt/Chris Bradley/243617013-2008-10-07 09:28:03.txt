@@ -1,0 +1,37 @@
+{{redirect|Bolt (comics)|the DC Comics supervillain|Bolt (DC Comics)}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image =[[Image:BoltComics.jpg|200px]] 
+|caption =Bolt, from ''New Warriors'' (vol. 2) #5. <br>Pencils by [[Karl Kerschl]] and [[Chris Renaud (artist)|Chris Renaud]]. 
+|character_name = Chris Bradley
+|real_name = Christopher "Chris" Bradley
+|species=[[Mutant (Marvel comics)|Human Mutant]]
+|publisher = [[Marvel Comics]]
+|debut = ''X-Men Unlimited'' vol. 1 #8 (October, 1995)
+|creators = [[Howard Mackie]] (writer), [[Tom Grummett]], Dan Lawlis (co-artists)
+|alliances = [[New Warriors]]<br/>[[Underground (comics)|Underground]]<br/>[[Gene Nation]]
+|aliases = Maverick, Bolt
+|powers = Able to generate and control electricity
+}}
+
+'''Christopher Bradley''', formerly known as '''Bolt''' and '''Maverick''', is a [[fictional character]], a young [[Mutant (Marvel comics)|mutant]] in the [[Marvel Universe]], who first appeared in ''[[X-Men Unlimited]]'' #8. 
+
+==Fictional character biography==
+===Legacy Virus===
+Chris Bradley was first introduced as a young boy began suffering from increasingly painful headaches.  The headaches accumulated into his electrical mutant powers manifested and grew out of control in the middle of school, leaving him unconscious.  He was rescued however by Jean Grey and Gambit, who had been sent by Professor Xavier to keep an eye on him and approach him should his powers reveal themselves.  After taking him home, the X-Men offered him training at the [[X-Mansion|Xavier Institute for Gifted Youngsters]].  At first Chris was reluctant, but after being shunned by his best friend, agreed to join the school.
+
+Chris spent several weeks at the school, quickly developing close friendships with the X-Men, particularly Iceman, whose own youthful personality seemed to connect well with Chris'.  However, when the Beast ran a medical test on Chris, it was revealed that he was infected with the [[Legacy Virus]], which would evenutally kill Chris.  Chris was of course afraid of what his future would hold, but the Iceman and the other X-Men offered him aid should he ever need it.
+
+Unfortunately, during the X-Men: Zero Tolerance storyline, in which the mutant hating Bastion began to target the X-Men, they lost touch with Chris.  This left Chris hurt with a feeling of abandonment, particularly as his illness was growing steadily worse.
+
+===New Warriors/Bolt===
+He soon found a mentor in [[David North (comics)|Maverick]] who was also suffering from the Legacy Virus.  Chris stayed with him for a while before joining the [[New Warriors]]. After the break-up of his New Warriors team, he teamed up again with Maverick.
+
+===Maverick===
+When Maverick disappeared and was believed dead, Bolt took the Maverick alias for himself and joined the [[Underground (comics)|Underground]], a group founded by [[Cable (comics)|Cable]] to battle [[Weapon X]] and expose its existence. Following the group's defeat, Chris remained in the Underground, though it was taken over by [[Marrow (comics)|Marrow]] and remade into a new incarnation of the extremist mutant supremacist group [[Gene Nation]]. Chris did not leave as he wanted to undermine Gene Nation from within and preventing its terrorist attacks, though he was ultimately killed by his former mentor himself, now bearing the codename '''Agent Zero''', who did not find out Chris had been the new Maverick until it was too late.
+
+
+{{DEFAULTSORT:Bradley, Chris}}
+
+
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics mutants]]

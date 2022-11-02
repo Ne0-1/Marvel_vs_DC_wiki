@@ -1,0 +1,35 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Lukin.PNG]] 
+|caption=Aleksander Lukin<br>Art by [[Steve Epting]].
+|comic_color=background:#ff8080
+|character_name=Aleksander Lukin
+|real_name=Aleksander Lukin
+|publisher=[[Marvel Comics]]
+|debut=''Captain America'' (v5) #1 (2004)
+|creators=[[Ed Brubaker]]<br>[[Steve Epting]]
+|alliance_color=background:#c0c0ff
+|status=Active, shares a mind with the [[Red Skull]]
+|alliances=Kronas Corporation, (Via [[Red Skull]]'s mind), [[Crossbones (comics)|Crossbones]], [[Sin (comics)|Sin]], [[Doctor Faustus (comics)|Doctor Faustus]], [[Doctor Doom]], [[Arnim Zola]]
+|previous_alliances=[[KGB]]
+|aliases=The Red Skull
+|relatives= Mother (name unknown, deceased)
+|powers=Strategic genius, political mastermind
+|}}
+
+'''Aleksander Lukin''' is a [[fictional character]], owned by [[Marvel Comics]] who exists in the [[Marvel Universe]]. He first appeared in ''[[Captain America]]'' (v5) #1, and was created by [[Ed Brubaker]] and [[Steve Epting]].
+
+==Fictional character biography==
+
+Born in the [[Soviet Union|Soviet]] village of Kronas some time in the late [[1930s]], Lukin's village was used by the [[Red Skull]] as a base of operations during the [[Second World War]].  When Soviet troops attempted to retake the town, assisted by the [[Western Allies]]' superhero team the [[Invaders (comics)|Invaders]] (including [[Captain America]] and [[Bucky]]), Lukin's mother was killed in the course of the battle.  The leader of the Soviet forces, [[Vasily Karpov]], took the orphaned Lukin under his wing.
+
+In the ensuing decades, Lukin became an important figure in the Soviet military and the [[KGB]], rising to the rank of general.  When his mentor, Karpov, passed away, Lukin was left in custody of a large cache of special projects developed over the decades, including the [[Bucky#Winter Soldier|Winter Soldier]]. He sold some of these devices to the highest bidders to raise funds; in one instance, he sold weapons to the Red Skull himself, but refused to part with the Winter Soldier for anything less than the [[Cosmic Cube]] (which the Skull was not in possession of, and certainly would not give up in any case).
+
+Five years after that meeting, the Skull finally recovered the Cube, only to be assassinated by the Winter Soldier on Lukin's orders.  However, before he died, the Skull used the Cube to transfer his mind into Lukin's body, leaving the two men stuck together "like rats in a cage."  Convinced that any use of the Cube only lead to misfortune, Lukin sent it away after he harmed a friend of his in a fit of rage, but not before using it to make the Kronas Corporation (Lukin's new legitimate business, a massive multinational conglomerate) even wealthier.  The cube was then destroyed by the Winter Soldier, who realized who he was.  Since then, the two have worked uneasily against their common foe, Captain America, even as the Skull wages a campaign for control of Lukin's body (Lukin vows to kill himself before allowing that to happen).
+
+{{DEFAULTSORT:Lukin, Aleksander}}
+{{Marvel-Comics-stub}}
+
+[[Category:Marvel Comics supervillains]]
+[[Category:Fictional communists]]
+[[Category:Fictional Russians]]
+[[Category:Fictional generals]]

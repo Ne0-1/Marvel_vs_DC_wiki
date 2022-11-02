@@ -1,0 +1,38 @@
+{{for|the given name|Serafina (given name)}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=[[Image:Children_Serafina.jpg|150px]]
+|caption=Serafina, art by [[Chris Bachalo]].
+|comic_color=background:#ff8080 
+|character_name=Serafina
+|real_name=Unrevealed
+|publisher=[[Marvel Comics]] 
+|debut=''[[X-Men]]'' #188 (Sept 2006)
+|creators=[[Mike Carey]]<br>[[Chris Bachalo]]
+|alliance_color=background:#c0c0ff
+|alliances=[[Children of the Vault (comics)|The Children of the Vault]]
+|aliases=
+|powers=Psychometry, Cyberpathy, disruption of human senses and artificial sensory equipment as well as limited Mind-control.
+|}} 
+
+'''Serafina''' is a [[super villain]] in the [[Marvel Comics Universe]], most notably as a member of the [[Children of the Vault (comics)|Children of the Vault]].
+
+==Fictional character biography==
+A young woman with a wide array of superhuman abilities (her displays of power can be attributed to having an affinity for machines), Serafina is a valuable member of the Children of the Vault.  She joined [[Sangre (comics)|Sangre]] in the search for [[Sabretooth (comics)|Sabretooth]], but soon mind-controlled [[Northstar (comics)|Northstar]] and [[Aurora (comics)|Aurora]] into attacking the [[X-Men]].  When things weren't going her way, she sent her partner [[Perro (comics)|Perro]] back to the others and entered the mansion herself, where she confronted [[Cannonball (comics)|Cannonball]].  
+
+Using [[Lady Mastermind]]'s illusion abilities, Serafina created a world in which she was married to Cannonball, and took the name "Sarah."  Cannonball eventually caught on to the unrealism of the world, and Serafina was confronted by [[Wolverine (comics)|Wolverine]].  She easily disposed of him by turning his [[Adamantium (comics)|adamantium]] skeleton against him, poisoning him.  She then defeated Cannonball and left to return with her teammates.  
+
+The Children were upset that the X-Men had been made aware of their presence, but decide to launch an all-out attack on the superheroes.  The X-Men took the fight to them, but they were soon subdued, but fought back, foiling the Children's plans to destroy the Xavier Institute.  In the battle, Serafina was able to easily manipulate and defeat [[Karima Shapandar]] and Sabretooth, who had nano-sentinels in his blood, through her technopathic powers.  However, Cannonball tried to reach through to her based on the illusion the two shared, but when she confirmed for him that she had absolutely no true feelings for him, he grabbed her, and blasted around the ship, driving her into its hull at full force, and left her seemingly lifeless body behind.
+
+==Notes==
+* ''Serafina'' is [[Spanish language|Spanish]] for "[[Seraph]]."
+* Serafina's abilities are closely related to [[Phantazia]]'s.
+
+==Bibliography==
+* ''X-Men'' #188-193
+
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics telepaths]]
+[[Category:Fictional technopaths]]
+
+
+{{Marvel-villain-stub}}

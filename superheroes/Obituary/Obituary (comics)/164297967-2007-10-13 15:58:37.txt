@@ -1,0 +1,36 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Obituary
+|real_name= Milton Peterson
+|species=[[Mutant (Marvel comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Statix]]'' #1
+|creators=
+|alliance_color=background:#ffc0c0
+|status= 
+|alliances=
+|previous_alliances=[[O-Force]]
+|aliases=
+|relatives=
+|powers=
+|}}
+
+'''Obituary''' ('''Milton Peterson''') is a [[fictional character]], a [[Mutant (Marvel comics)|mutant]] in the [[Marvel Comics]] Universe. His first appearance was in ''[[X-Statix]]'' #1.
+
+==Fictional character biography==
+Obituary is a member of America's newest mutant superhero team, [[O-Force]]. Like all potential recruits, Obituary had to compete in a live [[television program]], hosted by [[Solomon O'Sullivan]], to win a place on the O-Force team.
+
+===The Initiative===
+Milton is being considered as a "potential recruit" for the [[Avengers: The Initiative|Initiative]] program, according to ''Civil War: Battle Damage Report''.
+
+==Powers and abilities==
+This mutant appears to have enhanced/superhuman strength and durability.
+
+==External links==
+*http://www.marvunapp.com/Appendix/oforcexs.htm#Obituary
+
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supporting characters]]

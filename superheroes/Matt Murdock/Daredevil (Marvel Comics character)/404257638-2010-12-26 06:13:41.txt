@@ -1,0 +1,466 @@
+{{pp-move-vandalism|small=yes}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image= [[Image:Daredevil 65.jpg|250px]]
+|caption=Promotional art for ''Daredevil'' vol. 2, #65 (Sept. 2004) by [[Greg Land]]
+|character_name=Daredevil
+|real_name=Matthew Michael "Matt" Murdock
+|publisher=[[Marvel Comics]]
+|debut=''Daredevil'' #1 (April 1964)
+|creators=[[Stan Lee]]<br />[[Bill Everett]]
+|alliances=[[S.H.I.E.L.D.]]<br/>[[The Chaste]]<br/>[[Defenders (comics)|Defenders]]<br/>[[Marvel Knights#Marvel Knights as a team|"Marvel Knights"]]<br/>[[The Hand (comics)|The Hand]]
+|partners=[[Black Widow (Natalia Romanova)|Black Widow]]<br />[[Elektra (comics)|Elektra]]
+|aliases= Michael "Mike" Murdock
+|powers=Superhuman senses; excellent athlete, gymnast, boxer, and martial artist
+|}}
+
+'''Daredevil''' ('''Matthew Michael "Matt" Murdock''') is a [[fictional character]], a [[superhero]] appearing in stories set in the {{Marvel Universe}}. The character was created by [[writer]]-[[Literary editor|editor]] [[Stan Lee]] and [[artist]] [[Bill Everett]], with an unspecified amount of input from [[Jack Kirby]]<ref name="thejackfaq4"/> and first appeared in ''Daredevil'' #1 (April 1964). 
+
+Living in the [[Hell's Kitchen, Manhattan|Hell's Kitchen]] neighborhood of [[New York City]], Matt Murdock is blinded by a radioactive substance that falls from an oncoming vehicle. Despite not being able to see anymore, the radioactive exposure heightens his remaining senses beyond normal human ability. His father, a boxer named Jack Murdock, supports him as he grows up, though he is later killed by gangsters after refusing to [[Match fixing|throw a fight]]. After donning a yellow and black, and later a dark red, costume, Matt seeks out revenge against his father's killers as the superhero Daredevil, fighting against his many enemies including [[Bullseye (comics)|Bullseye]] and [[Kingpin (comics)|the Kingpin]].<ref name="debut">{{Comic book reference | Writer = [[Stan Lee]] | Penciller = [[Bill Everett]] | Inker = [[Steve Ditko]] | Story = The Origin of Daredevil | Title = Daredevil | Volume = 1 | Issue = 1 | Date = April 1964 | Publisher = [[Marvel Comics]] }}</ref> Daredevil's nickname is "the Man Without Fear".<ref>{{cite web|url=http://shdictionary.tripod.com/superheroes/daredevil.html|title=The Superhero Dictionary - Daredevil|publisher=The Superhero Dictionary|accessdate=2009-05-03}}</ref>
+
+Although ''Daredevil'' had been home to the work of many legendary comic-book artists — Everett, Kirby, [[Wally Wood]], [[John Romita, Sr.]], and [[Gene Colan]], among others —  [[Frank Miller (comics)|Frank Miller]]'s influential tenure on the title in the late 1970s and early 1980s is particularly remembered, having cemented the character as a popular and influential part of the [[Marvel Universe]]. Daredevil has since appeared in many various forms of media including several animated series, video games, merchandise, and a [[Daredevil (film)|2003 feature-length film]].
+
+Daredevil was named one of ''[[Empire (magazine)|Empire]]''<nowiki>'</nowiki>s "50 Greatest Comic Book Characters",<ref name=thirty-seventh>{{cite web|url=http://www.empireonline.com/50greatestcomiccharacters/default.asp?c=37
+|title=The 50 Greatest Comic Book Characters
+|publisher=www.empireonline.com|accessdate=2009-04-26}}</ref> as well as one of ''[[Wizard (magazine)|Wizard]]''<nowiki>'</nowiki>s "200 Greatest Comic Characters of All Time".<ref name=Twenty-One>{{cite web|url=http://www.razorfine.com/index.php/comments/wizards_200_greatest_comic_characters_of_all_time/|title=Wizard's 200 Greatest Comic Characters of All Time
+|publisher=www.razorfine.com|accessdate=2008-05-08 |archiveurl = http://web.archive.org/web/20080530220714/http://www.razorfine.com/index.php/comments/wizards_200_greatest_comic_characters_of_all_time/ <!-- Bot retrieved archive --> |archivedate = 2008-05-30}}</ref>
+
+==Publication history==
+===1960s===
+[[Image:Daredevilv1issue1splashpage.png|thumb|The first issue of ''Daredevil'' (April 1964) features the hero in his original costume. Splash-page art by [[Jack Kirby]] (penciler) and [[Bill Everett]] (inker).<ref name="thejackfaq4"/>]]
+The character originally appeared in ''Daredevil'' #1, which was published in April 1964.<ref name="debut"/> Daredevil was created by writer-editor Stan Lee and artist Bill Everett, with character design input derived from [[Jack Kirby]].<ref name="thejackfaq4"/> When Everett turned in his first-issue pencils extremely late, Marvel production manager [[Sol Brodsky]] and [[Spider-Man]] co-creator [[Steve Ditko]] inked a large variety of different backgrounds, a "lot of backgrounds and secondary figures on the fly and cobbled the cover and the [[comics vocabulary#Splash page|splash page]] together from Kirby's original concept drawing".<ref>[http://www.newsarama.com/JoeFridays/JoeFridays4.htm ''Newsarama'': Joe Fridays (column): "Joe Fridays 4"] (no date, c. May 2005), by [[Joe Quesada]]{{Dead link|date=April 2010}}</ref>
+
+Writer and comics historian [[Mark Evanier]] said that Kirby designed the basic image of Daredevil's costume, though Everett modified it.<ref name="thejackfaq4"/> The character's original costume design was a combination of black, yellow, and red, reminiscent of acrobat tights.<ref name="debut"/> [[Wally Wood]], a highly regarded artist known for his 1950s [[EC Comics]] stories, penciled issues #5-8, introducing Daredevil's modern red costume in issue #7.<ref name="writers">{{cite web|url=http://www.manwithoutfear.com/ddWRITERS.shtml|title=Daredevil: The Man Without Fear - Writers|publisher=The Man Without Fear|accessdate=2009-05-02}}</ref> Kirby had come up with the idea of Daredevil's billy club.<ref name="thejackfaq4"/>
+
+Issue #12 began a brief run by Jack Kirby (layouts) and [[John Romita, Sr.]] The issue marked Romita's return to superhero penciling after a decade of working exclusively as a [[Romance novel|romance]]-comic artist for DC. Romita had felt he no longer wanted to pencil, in favor of being solely an inker. He recalled in 1999,
+{{blockquote|I had inked an ''[[Avengers (comics)|Avengers]]'' job for Stan, and I told him I just wanted to ink. I felt like I was burned out as a penciller after eight years of romance work. I didn't want to pencil any more; in fact, I couldn't work at home any more — I couldn't discipline myself to do it. He said, 'Okay,' but the first chance he had he shows me this Daredevil story somebody had started and he didn't like it, and he wanted somebody else to do it.<ref name="romitainterview">{{cite web|url=http://www.twomorrows.com/comicbookartist/articles/06romita.html|title=John Romita Sr Interview|last=B. Cooke|first=Jon|publisher=TwoMorrows|accessdate=2009-05-02}}</ref>}}
+
+Romita later elaborated that "Stan showed me [[Dick Ayers]]' splash page for a ''Daredevil''. He asked me, "What would you do with this page?" I showed him on a tracing paper what I would do, and then he asked me to do a drawing of Daredevil the way I would do it. I did a big drawing of Daredevil ... just a big, tracing-paper drawing of Daredevil swinging. And Stan loved it".<ref name="fiftyyears">{{cite web|url=http://www.twomorrows.com/alterego/articles/09romita.html|title=Fifty Years On The "A" List|last=Thomas|first=Roy|publisher=TwoMorrows|accessdate=2009-05-02}}</ref>
+
+When Romita left to take over ''[[The Amazing Spider-Man]]'', Lee gave ''Daredevil'' to what would be the character's first signature artist, [[Gene Colan]], who began with issue #20 published in September 1966.<ref name="howgraphicnovelswork">{{cite book|last=Wolk|first=Douglas|title=Reading Comics: How Graphic Novels Work, and What they Mean|editor=Da Capo Press|publisher=Da Capo Press|date=2007-07-02|pages=405|isbn=9780306815096 |accessdate=2009-05-02}}</ref><ref>{{cite web|url=http://forbiddenplanet.com/products/34435/Daredevil_The_Best_Of_Gene_Colan_Collection/Superheroes/Graphic_Novel/Marvel/Daredevil/Product.html|title=Daredevil: The Best Of Gene Colan Collection|publisher=Forbidden Planet|accessdate=2009-05-02}}</ref> Colan pencilled all but three issues through #100 (June 1973), plus the 1967 annual, followed by ten issues sprinkled from 1974-79. (He would return again, an established legend, for an eight-issue run in 1997).<ref name="howgraphicnovelswork"/> Contrary to most other cover artists, Colan (who also drew the covers to the series) would always reflect what was inside the content of the issue.<ref name="colanretrospective">{{cite web|url=http://jefferyklaehn.blogspot.com/2009/02/gene-colan-career-retrospective.html|title=Gene Colan Career Retrospective Interview |last=Klaehn|first=Jeffery|date=2009-02-20|accessdate=2009-05-02}}</ref>
+
+The first issue covered both the character's origins and his desire for revenge on the man who had killed his father, boxer "Battling Jack" Murdock, who raised young Matthew Murdock in the [[Hell's Kitchen, Manhattan|Hell's Kitchen]] neighborhood of [[Manhattan]], [[New York City]]. Jack instills in Matt the importance of education and nonviolence with the aim of seeing his son become a better man than himself. In the course of saving a blind man from the path of an oncoming truck, Matt is blinded by a radioactive substance that falls from the vehicle. The radioactive exposure heightens his remaining senses beyond normal human thresholds, enabling him to detect the shape and location of objects around him. In order to support his son, Jack Murdock returns to boxing and when he refuses to throw a fight, because his son is in the audience, is killed by gangsters. Adorned in a yellow and black costume made from his father's boxing robes and using his superhuman abilities, Matt confronts the killers as the superhero Daredevil, causing the Fixer to have a fatal heart attack.<ref name="debut"/> Daredevil would embark on a series of adventures involving such villains as the [[Owl (Marvel Comics)|Owl]], [[Stilt-Man]], [[Gladiator (Melvin Potter)|Gladiator]], and the [[Enforcers (comics)|Enforcers]]. Several sub-plots involved [[romantic triangle]]s and cases of [[mistaken identity]]. Matt reveals his secret identity to his girlfriend [[Karen Page]] in issue #57, although she leaves the series after the revelation proves too much for her.<ref name="daredevilvol1#57">{{Comic book reference | Writer = [[Stan Lee]] | Penciller = [[Gene Colan]] | Inker = [[Syd Shores]] | Story = In The Midst Of Life...! | Title = Daredevil | Volume = 1 | Issue = 57 | Date = October 1969 | Publisher = [[Marvel Comics]] }}</ref> During this period, he meets [[Spider-Man]], a character who would later be one of his greatest hero friends.<ref name="daredevilvol1#16">{{Comic book reference | Writer = [[Stan Lee]] | Penciller = [[John Romita, Sr.|John Romita]] | Inker = [[Frank Giacoia]] | Story = Enter... Spider-Man! | Title = Daredevil | Volume = 1 | Issue = 16 | Date = May 1966 | Publisher = [[Marvel Comics]] }}</ref>
+
+===1970s===
+In 1970s comics, Daredevil moves to [[San Francisco]] for a time to live with the spy and superheroine the [[Black Widow (Natalia Romanova)|Black Widow]] and enters into a romantic relationship with her.<ref>''Daredevil'' #81</ref> The front cover of the comic is even retitled to ''Daredevil and the Black Widow'', but she soon ends the relationship, fearing that playing "[[sidekick]]" to Daredevil is sublimating her identity.<ref>''Daredevil'' #124</ref> Murdock returns to Hell's Kitchen. During this time, the series' writers included [[Gerry Conway]], [[Steve Gerber]], and [[Chris Claremont]]. Artists included [[Bob Brown (comics)|Bob Brown]] and [[Don Heck]]. 
+
+Comics artist legend [[Wally Wood]], following kidney failure and the loss of vision in one eye, returned to the character he helped define, inking Miller's cover of ''Daredevil'' #164 (May 1980). It was one of Wood's final assignments before his death in 1981.
+
+===1980s===
+The modern definition of ''Daredevil'' began in May 1979 with [[Frank Miller (comics)|Frank Miller]]'s entrance on the title (he had previously drawn Daredevil in the February 1979 installment of ''Spectacular Spider-Man'' #27). Miller's first contributions were as an artist, where he imbued a new dynamism and a dramatically different visual style.  The series' tone became that of [[Hardboiled|noir]] with [[Hell's Kitchen, Manhattan|Hell's Kitchen]] itself playing a more prominent role.
+
+With issue #168, Miller additionally became the series' writer, and the comic underwent a drastic metamorphosis. The most significant change was the introduction of [[Spider-Man]] villain [[Kingpin (comics)|Kingpin]] as Daredevil's new arch-nemesis. Until that point, Daredevil's enemies were primarily, though not exclusively, costumed villains. The Kingpin was a departure in that although he possessed extraordinary size, strength, and fighting ability, his villainy came from his ruthless brilliance in running a criminal empire rather than superpowers. The title still retained costumed antagonists &mdash; notably [[Bullseye (comics)|Bullseye]] and [[Elektra (comics)|Elektra]] &mdash; but found its central theme to be one more grounded in reality: [[organized crime]].
+
+Miller also introduced [[ninja]]s into the Daredevil canon, bringing a greater focus on the [[martial arts]] aspect of Daredevil's fighting skills, and introducing previously unseen characters who had played a major part in his youth: [[Stick (comics)|Stick]], leader of the ninja clan [[The Chaste]], who had been Murdoch's [[sensei]] after he was blinded; a rival clan called [[Hand (comics)|The Hand]]; and [[Elektra (comics)|Elektra]], a former girlfriend turned lethal ninja assassin. This was a drastic change for a character once considered a [[swashbuckler]]. The focus of a ninja's control of the inner self served as a counterbalance to the emerging themes of anger and torment. 
+
+Daredevil encounters the assassin [[Bullseye (comics)|Bullseye]] for the first time, and the two battle each other.<ref>''Daredevil'' #131</ref> Eventually, Daredevil's secret identity is deduced by the reporter [[Ben Urich]].<ref>''Daredevil'' #164</ref> 
+
+Daredevil encounters the [[Kingpin (comics)|Kingpin]], who has hired his old flame Elektra and they fight it out.<ref>''Daredevil'' #168</ref> He returns to his former mentor [[Stick (comics)|Stick]] for aid.<ref>''Daredevil'' #176</ref> Bullseye then murders Elektra in a fight to determine the better killer. Taking revenge, Daredevil drops Bullseye from a clothesline high above a street,<ref>''Daredevil'' #181</ref> and then forms an alliance with the [[Punisher]] against drug pushers.<ref>''Daredevil'' #182-184</ref> Daredevil even battles the [[Hand (comics)|Hand]], and Elektra is briefly resurrected.<ref>''Daredevil'' #190</ref>
+
+Miller's noir take on the character continued, even after he left (in 1983, after issue #191). However, successor [[Dennis O'Neil]] did not find the commercial success of his predecessor. In late 1985, Miller returned to the series, co-writing #226 with O'Neil, then writing the acclaimed  "[[Daredevil: Born Again]]" storyline in #227-233 (Feb.-Aug. 1986), with artist [[David Mazzucchelli]]. Karen Page eventually returns as a heroin-addicted star of [[adult films]], who sells Daredevil's secret identity for drug money. The Kingpin uses this information to destroy Murdock piece by piece: blowing up his house, ruining his reputation as a lawyer, getting him disbarred, menacing his personal life, and nearly driving him insane.<ref>''Daredevil'' #227</ref> Matt suffers a nervous breakdown.<ref>''Daredevil'' #228-230</ref> Miller ends the story on a positive note, with Murdock reuniting with both Karen Page, as his sometime lover,<ref>''Daredevil'' #231</ref> and Maggie, the mother he thought dead, now a nun, and resuming a less complicated life in Hell's Kitchen.<ref>''Daredevil'' #233</ref> 
+
+A [[round-robin]] of creators contributed in the year that followed ''Born Again'': writers [[Mark Gruenwald]], [[Danny Fingeroth]], [[Steve Englehart]] (under the [[pseudonym]] "John Harkness"), and [[Ann Nocenti]], and pencilers [[Steve Ditko]], [[Barry Windsor-Smith]], Louis Williams, [[Sal Buscema]], [[Todd McFarlane]], [[Keith Pollard]], and Chuck Patton. Nocenti, who'd written #236, became the regular writer for a four-and-a-quarter year run of all but two issues from #238-291 (Jan. 1987 - April 1991). [[John Romita, Jr.]] joined as penciller from #250-282 (Jan. 1988 - Jul. 1990), and was generally inked by [[Al Williamson]]. The team specifically addressed societal issues, with Murdock, now running a non-profit urban legal center, confronting [[sexism]], [[racism]], and [[nuclear proliferation]] while fighting supervillains. Nocenti introduced the popular antagonist [[Typhoid Mary (comics)|Typhoid Mary]] in issue #254.
+
+===1990s===
+To celebrate the character's 30th Anniversary, the creative team of DG Chichester, Scott McDaniel, and Hector Collazo changed the book's status quo with the "Fall From Grace" storyline, which ran from issue #s 319 (August 1993) – 325 (February 1994). Daredevil is beaten up once again and decides to create a more protective costume from biometric materials. It is red and grey with white armor on the shoulders and knee pads. His billy clubs can be attached together to form nunchucks or a bo staff. His secret identity becomes public knowledge, leading to him faking his own death and assuming the new identity of "Jack". This new identity and costume lasts for several story arcs ("Tree of Knowledge", "Humanity's Fathom", and "Wages of Sin") before Daredevil returned to his traditional red costume, while Murdock finds a way to convince the world that he is not, in fact, secretly Daredevil (courtesy of a double).
+
+Under writers [[Karl Kesel]] and later [[Joe Kelly (comics)|Joe Kelly]], the book gained a lighter tone, with Daredevil returning to the lighthearted, wisecracking hero depicted by earlier writers. Matt and [[Foggy Nelson|Foggy]] (who now knows of Matt's dual identities) join a law firm run by Foggy's mother, Rosalind Sharpe.
+
+[[Frank Miller (comics)|Frank Miller]] returned to the character and his origins with the 1993 five issue  ''Daredevil: The Man Without Fear'' miniseries. With artist John Romita Jr, Miller expanded upon the character's beginnings and provided additional detail about the life and death of "Battling Jack" Murdock and Matt's first encounters with the Kingpin and Foggy Nelson.<ref name="man without fear">{{cite book|author=Frank Miller| authorlink =Frank Miller (comics)|coauthors =[[John Romita Jr.]]| title =Daredevil: The Man Without Fear| publisher = [[Marvel Comics]]|date=1993-4}}</ref> The role of [[Stick (comics)|Stick]] in the genesis of Daredevil was expanded, as was Murdock's doomed love affair with [[Elektra (comics)|Elektra Natchios]], the daughter of a [[Greece|Greek]] diplomat.
+
+In 1998, ''Daredevil'''s numbering was rebooted, with the title "canceled" with issue #380 and revived a month later as part of the "[[Marvel Knights]]" imprint. [[Joe Quesada]] drew the new series, written by filmmaker [[Kevin Smith]]. Its first eight-issue story arc, "[[Guardian Devil]]", depicts Daredevil struggling to protect a child whom he is told could either be the [[Messiah]] or the [[Anti-Christ]]. Murdock experiences a crisis of faith exacerbated by the discovery that Karen Page has [[AIDS]] (later revealed to be a hoax), and her subsequent death at [[Bullseye (comics)|Bullseye]]'s hands.<ref>''Daredevil'' vol. 2, #8 (June 1999)</ref>
+
+After "Guardian Devil", Smith was succeeded by writer-artist [[David W. Mack|David Mack]], who contributed the seven-issue "Parts of a Hole" (#9-15). The arc introduced Maya Lopez, also known as [[Echo (Marvel Comics)|Echo]], a [[deaf]] martial artist. Mack brought [[Alternative comics|independent-comics]] colleague [[Brian Michael Bendis]] to Marvel to co-write the following arc, "Wake Up" (#16-19), which follows reporter [[Ben Urich]] as he investigates the aftereffects of a fight between Daredevil and an obscure old villain called [[Leap-Frog (comics)|Leap-Frog]]. Following Mack and Bendis were ''[[Back to the Future]]'' screenwriter [[Bob Gale]] and artists [[Phil Winslade]] and David Ross for the story "Playing to the Camera". Mack continued to contribute covers.
+
+===2000s===
+The 2001 ''Daredevil: Yellow'' miniseries presented another take on Daredevil's origins using letters written to Karen Page after her death as a [[narrative device]]. Here Page believes she is in love with both Daredevil and Murdock, and Nelson with Karen Page, resulting in a silent rivalry between the two men. The supervillains the Owl and the [[Purple Man]] are the [[antagonist]]s. In this story, Daredevil credits Page with coining the phrase "The Man without Fear", and she also suggests to Daredevil he wear red instead of black and yellow.
+
+Issue #26 (Dec. 2001) brought back [[Brian Michael Bendis]], working this time with artist [[Alex Maleev]], for a four-year-run that became one of the series' most acclaimed. Maleev's harsh and grainy look contrasted to Quesada's more cartoony lines. Developments in this run included the introduction of romantic interest and future wife [[Milla Donovan]], the outing of Murdock's secret identity to the press, the reemergence of the Kingpin, and Daredevil's surrender to the FBI.
+
+The impact of his expose as Daredevil continued to be used as a plot point by both Bendis and writer [[Ed Brubaker]] and artist [[Michael Lark]], who became the new creative team with ''Daredevil'' #82 (Feb. 2006), no longer under the "[[Marvel Knights]]" imprint.
+
+[[Image:Ddif.jpg|150px|thumb|right|Danny Rand as Daredevil. Art by [[Michael Lark]].|frame]]
+Ed Brubaker's first story arc had a new character masquerading as Daredevil in Hell's Kitchen.<ref name="darev2#87">{{Comic book reference | Writer = [[Ed Brubaker]] | Penciller = [[Michael Lark]], Stefano Gaudiano | Inker = Frank D'Armata | Story = The Devil in Cell Block D | Title = Daredevil | Volume = 2 | Issue = 87 | Date = September 2006 | Publisher = [[Marvel Comics]] }}</ref> Murdock later discovered the ersatz Daredevil is his friend Danny Rand, the superhero [[Iron Fist (comics)|Iron Fist]].<ref name="daredevilmasked">{{cite web |url=http://forum.newsarama.com/showthread.php?t=78460 |title=Spoiler Sport: Who Was That Daredevil-Masked Man? |last=Brady |first=Matt |date=July 27, 2006 |publisher=[[Newsarama]]|accessdate=May 30, 2009 }}</ref> Brubaker said,
+
+{{blockquote|Yes, I'm relieved, but at the same time, it was always the plan to reveal it this issue, and it was never meant to be as big a deal as it ended up being. It was just one part of a much larger story, one that the next arc follows up on. This whole 'who's the other DD' mystery that cropped up the last few weeks and ran around the Internet was unplanned, and I thought it was really amusing to watch, though a little nerve-wracking at the same time. I'm just glad it wasn't the only secret we were sitting on."<ref name="daredevilmasked"/>}}
+
+[[Image:Daredevil List.jpg|thumb|left|200px|Cover art to ''Dark Reign: The List - Daredevil'' one-shot by [[Billy Tan]].]]
+Over the next couple of story arcs, Brubaker would make use of older characters such as [[Mister Fear]] and the [[Enforcers (comics)|Enforcers]] and newer ones such as the [[Hood (comics)|Hood]]<ref>''Daredevil'' vol. 2, #95-103 (May 2007 - January 2008)</ref> and [[Lady Bullseye]]. During the ''[[Secret Invasion]]'' storyline, Daredevil takes part in the fight against the [[Skrull]]s in New York,<ref>''Secret Invasion'' #7</ref> ultimately surviving it into the ''[[Dark Reign (comics)|Dark Reign]]'' event. The series returns to its original numbering in September with issue #500 after #119 in July 2009. #500 saw a major revision of the status quo under new writer [[Andy Diggle]],<ref>{{cite web |first= |url=http://www.marvel.com/news/moviestories.7311/ |title=Diggle on Daredevil |publisher=[[Marvel.com]] |date=March 26, 2009 |accessdate=March 27, 2009 }}</ref><ref>{{cite web |first=http://www.newsarama.com/comics/030924-DD-Diggle.html |title=Moving into Hell's Kitchen: Andy Diggle Talks Daredevil |publisher=[[Newsarama]] |date=March 24, 2009 |accessdate=March 27, 2009 }}</ref> with Daredevil assuming leadership of the [[Hand (comics)|Hand]]. Daredevil later appeared in ''[[Dark Reign (comics)|Dark Reign]]: The List - Daredevil''.<ref>{{cite web |first=Kevin |last=Mahadeo |url=http://marvel.com/news/comicstories.8591.making_the_list~colon~_andy_diggle |title=Making the List: Andy Diggle |publisher=[[Marvel.com]] |date=June 30, 2009 |accessdate=June 5, 2010 }}</ref> Following this came a multi-series crossover story arc titled ''[[Shadowland (comics)|Shadowland]]''.<ref name=cbr25788>{{cite web |first=Dave |last=Richards |url=http://www.comicbookresources.com/?page=article&id=25788 |title=C2E2: Diggle Leads Daredevil into "Shadowland" |publisher=[[Comic Book Resources]] |date=April 17, 2010 |accessdate=June 5, 2010 }}</ref>
+
+==Powers and abilities==
+Although blind, the character's remaining four senses function with high levels of superhuman accuracy and sensitivity, giving him abilities far beyond the limits of a sighted person.  Daredevil developed a radar sense.<ref name="historyradar">{{cite web|url=http://www.theothermurdockpapers.com/2009/03/history-of-radar-sense-4-frank-miller.html|title=A history of the radar sense #4 - Frank Miller part 1|date=2009-03-21|publisher=The Other Murdock Papers|accessdate=2009-04-29}} {{Dead link|date=September 2010|bot=H3llBot}}</ref> This radar sense has a function similar to [[Human echolocation|echolocation]].  According to Stan Lee, due to the fact that Murdock's sensory organs have a superhuman level of development, his inner ear, which controls the equilibrium and motions of the body, is also preternaturally developed, aiding him in acrobatic feats that may surpass even [[Olympic Games|Olympic]]-level athletes.{{Citation needed|date=July 2009}}
+
+When [[Frank Miller (comics)|Frank Miller]] expanded most of Daredevil's abilities, he attempted to make them "extraordinary enough to be exciting, but not on par with [[Superman]]", noting Superman's distinctly unbelievable powers.<ref name="historyradar"/> When Miller joined the title in 1979, the first thing he did to the character was "revamp" his radar sense and made it less distinct and more believable; he wanted Daredevil to have the "proximity" sense that most martial artists claim to have.<ref name="historyradar"/> Because of this, he created an ability for Daredevil to hear the [[Hulk (comics)|Hulk]]'s heartbeat four blocks away. Due to the character's sensitive sense of touch, Daredevil can read by passing his fingers over the letters on a page.<ref name="historyradar"/> Daredevil has also commonly used his superhuman hearing to serve as a lie detector for interrogation by listening for changes in a person's heartbeat. However, this ability can be fooled if the other person's heart is not beating at a natural rate, such as if they have a [[pacemaker]].<ref>{{Comic book reference | Writer = [[Frank Miller (comics)|Frank Miller]] | Penciller = [[Frank Miller (comics)|Frank Miller]] | Inker = [[Klaus Janson]] | Story = Good Guys Wear Red| Title = Daredevil | Volume = 1 | Issue = 184 | Date = July 1982| Publisher = [[Marvel Comics]] }}</ref>
+
+However, just as Daredevil's other senses are stronger, they are also sensitive; his main weakness is his vulnerability to powerful sounds or odors that can be used to temporarily weaken his radar sense.<ref name="daredevilv1#159">{{Comic book reference | Writer = [[Roger McKenzie]] | Penciller = [[Frank Miller (comics)|Frank Miller]] | Inker = [[Glynis Wein]] | Story = Marked For Murder! | Title = Daredevil | Volume = 1 | Issue = 159 | Date = July 1979| Publisher = [[Marvel Comics]] }}</ref> This weakness is often used to immobilize Daredevil if he were bombarded by too much sound, which will cause him great pain and disorient him.<ref name="daredevilv2#3">{{Comic book reference | Writer = [[Kevin Smith]] | Penciller = [[Joe Quesada]] | Inker = [[Jimmy Palmiotti]] | Story = Dystopia | Title = Daredevil | Volume = 2 | Issue = 3 | Date = January 1999| Publisher = [[Marvel Comics]] }}</ref> Additionally Daredevil needs to detect something with his radar to know it is there or it will remain invisible to him, which makes it possible to have something get past his radar if he is unable to detect it. In one instance the hallucinogenic drug that [[Mysterio]] created was designed with no taste or smell so Daredevil couldn't tell he was drugged until he consulted [[Doctor Strange]] who was able to discover it from the small cross that Mysterio gave to Daredevil in disguise which contained the drug and magically cured him.<ref>{{Comic book reference | Writer = [[Kevin Smith]] | Penciller = [[Joe Quesada]] | Inker = [[Jimmy Palmiotti]] | Story =  Devil's Despair | Title = Daredevil | Volume = 2 | Issue = 5 | Date = March 1999| Publisher = [[Marvel Comics]] }}</ref> 
+
+Though he has no superhuman ''physical'' attributes beyond an enhanced sense of balance, Daredevil is  a master of martial arts.<ref name="irvineonnoir">{{cite web|url=http://www.comicbookresources.com/?page=article&id=20665|title=The Man Who Would be King(pin): Irvine on Daredevil Noir|last=Richards|first=Dave|date=2009-04-03|publisher=Comic Book Resources|accessdate=2009-04-29}}</ref> Having been trained by [[Stick (comics)|Stick]], Daredevil is a formidable hand-to-hand combatant. His typical moves are unique blends of the martial arts of [[Ninjutsu]], [[Jujutsu]], [[Judo]], and [[stick fighting]] combined with American-style [[boxing]] while making full use of his gymnastics capabilities.<ref>{{cite web|url=http://www.marveldirectory.com/individuals/s/stick.htm|title=Stick|publisher=Marvel Directory|accessdate=2009-04-29}}</ref>
+
+Daredevil's signature weapon is his specially-designed billy club, which he created.<ref name="daredevilv1#159"/> Disguised as a blind man's cane in civilian garb, it is a multi-purpose weapon and tool that contains thirty feet of aircraft control cable connected to a case-hardened steel [[grapnel]]. Internal mechanisms allow the cable to be neatly wound and unwound, while a powerful spring launches the grapnel. The handle can be straightened for use when throwing. The club can also be split into two parts, one of which is a fighting baton, the other of which ends in a curved hook.<ref name="thejackfaq4">{{cite web|url=http://www.povonline.com/jackfaq/JackFaq4.htm|title=The Jack F.A.Q. - Page 4|last=Evanier|first=Mark|publisher=PovOnline|accessdate=2009-05-02}}</ref><ref name="daredevilv1#159"/>
+
+In his civilian identity, Murdock is a skilled and respected attorney with an encyclopedic knowledge of law, especially New York statutes.
+
+==Other versions==
+{{Main|Alternate versions of Daredevil}}
+In addition to his mainstream incarnation, Daredevil has had been depicted in other fictional universes, including Marvel 2099, the Marvel Mangaverse, Marvel Noir and the Ulimate Marvel Universe.
+
+==Reception==
+Daredevil was named ''[[Empire (magazine)|Empire]]''<nowiki>'</nowiki>s thirty-seventh greatest comic book character, citing him as "a compelling, layered and visually striking character".<ref name=thirty-seventh/> ''Empire'' praised Frank Miller's era, and also referenced Brian Michael Bendis, Jeph Loeb and Kevin Smith's tenures on the series.<ref name=thirty-seventh/> Also, ''[[Wizard Magazine]]'' ranked Daredevil twenty-first among their list of the ''200 Greatest Comic Characters of All Time'',<ref name=Twenty-One/> and comic book readers polled through the website [[Comic Book Resources]] voted the character the third best of the Marvel Comics stable.<ref>[http://goodcomics.comicbookresources.com/2008/01/18/top-515-marvel-characters-1-515/ ''Comic Book Resources'': "CBR Live: Archive"] (January 18, 2008), by Brian Cronin</ref> The Daredevil series has also received some acclaim over the years, including being ranked by ''[[IGN]]'' as the third best series from Marvel Comics in 2006.<ref>[http://comics.ign.com/articles/725/725104p2.html ''IGN'': "The Ten Best Marvel Comics"] (August 11, 2006), by Hilary Goldstein</ref>
+
+==Supporting characters==
+[[Image:DaredevilCharacters.JPG|thumb|220px|left|A numerous amount of characters have had ties to Daredevil. The image depicts notable characters such as [[Kingpin (comics)|the Kingpin]], [[Bullseye (comics)|Bullseye]], [[Typhoid Mary (comics)|Typhoid Mary]], [[Elektra (comics)|Elektra]], [[Iron Fist (comics)|Iron Fist]], [[Spider-Man]], [[Black Widow (Natalia Romanova)|Black Widow]], and [[Luke Cage]]. Art by [[Marko Djurdjević]].]]
+Throughout the core ''Daredevil'' series, many characters have had an influence in Matt Murdock's life. His father, "Battlin' Jack" Murdock instills in Matt the importance of education and nonviolence with the aim of seeing his son become a better man than himself.<ref name="debut"/> He always encouraged Matt to study, rather than fight like him. Jack also forbade his son from undertaking any kind of physical training.<ref name="battlin'jack">{{cite web|url=http://forum.newsarama.com/showthread.php?t=105387|title=Daredevil: Battlin' Jack Murdock debuts in June|last=Brady|first=Matt|date=2007-03-16|publisher=Newsarama|accessdate=2009-05-03}}</ref> It is his father's murder that prompts the super-powered character to become a superhero, fighting gangsters.<ref name="battlin'jack"/> He is trained by an old blind ninja master named [[Stick (comics)|Stick]], who has served as Murdock's mentor following Murdock's childhood accident.<ref name="biography">{{cite web|url=http://www.daredevil-movies.com/comics/|title=Daredevil Comics|publisher=Daredevil Movies|accessdate=2009-05-03}}</ref>
+
+Matt Murdock's greatest friend is [[Foggy Nelson]], his college roommate, [[sidekick]], and law partner.<ref name="debut"/> As a superhero, one of his best friends is the hero [[Spider-Man]]; with his ability to distinguish heartbeats, Murdock learned Spider-Man's identity<ref>{{Comic book reference | Writer = [[Peter David]] | Penciller = [[Rich Buckler]] | Inker = Brett Breeding | Story = The Death of Jean DeWolff Part One: Original Sin | Title = Peter Parker, The Spectacular Spider-Man | Volume = 1 | Issue = 107 | Date = October 1985 | Publisher = [[Marvel Comics]] }}</ref> and subsequently revealed his.<ref>{{Comic book reference | Writer = [[Peter David]] | Penciller = [[Rich Buckler]] | Inker = M. Hands | Story = The Death of Jean DeWolff Part Four: All My Sins Remembered | Title = Peter Parker, The Spectacular Spider-Man | Volume = 1 | Issue = 110 | Date = January 1986 | Publisher = [[Marvel Comics]] }}</ref> However, due to the events of the ''[[Spider-Man: One More Day|One More Day]]'' storyline, Murdock no longer knows Spider-Man's secret identity, and since then refused to relearn it due to the potential danger involved.<ref>''Amazing Spider-Man'' #600</ref> [[Iron Fist (comics)|Iron Fist]] would also later become one of his greatest friends, and at one point took on the role of Daredevil himself.<ref name="spoilersport">{{cite web|url=http://forum.newsarama.com/showthread.php?t=78460|title=Spoiler sport: Who was that Daredevil-masked man?|last=Brady|first=Matt|date=2006-07-27|publisher=Newsarama|accessdate=2009-05-03}}</ref> [[Jessica Jones]], a former superhero turned private investigator acts as a bodyguard for Matt Murdock in his civilian life. Her husband, [[Luke Cage]], is also Daredevil's friend.<ref name="lowlife">{{cite book|last=Michael Bendis|first=Brian|others=Matt Hollingsworth|title=Daredevil vol. 6: Lowlife|publisher=Marvel Comics|date=2003-05-21|pages=120|isbn=0-7851-1105-0|url=http://www.tfaw.com/Themes/Daredevil/Profile/Daredevil-TPB-Vol.-6:-Lowlife___21132|accessdate=2009-05-02}}</ref> [[Echo (Marvel Comics)|Maya Lopez]], a deaf woman and skilled martial artist, is also a friend of Daredevil after he fought her and convinced her that he didn't murder her father, because she was being manipulated by the Kingpin, who was responsible. [[Ben Urich]], a reporter for the ''[[Daily Bugle]]'' had later discovered Daredevil's identity and eventually becomes his friend as well,<ref name="benurich">{{cite web|url=http://www.marveldirectory.com/individuals/u/urichben.htm|title=Ben Urich|publisher=Marvel Directory|accessdate=2009-05-03}}</ref> though during his identity dispute Daredevil decided to end his "secret professional relationship" with Urich to avoid getting Urich mixed up in his problems and being used against him.<ref>''Daredevil'' Vol. 2 #35</ref>
+
+Daredevil is known to have a convoluted and often tortured love life.<ref>{{cite web|url=http://norprostitute.blogspot.com/2007/06/daredevil-and-smallville.html|title=Daredevil and Smallville...|date=2007-06-06|publisher=NorProstitute|accessdate=2009-05-03}}</ref> Throughout the series, his girlfriends are often women who are traumatized, maimed, or killed, a narrative aspect some media critics refer to as "[[Women in Refrigerators]]" syndrome.<ref name="wir">{{cite web|url=http://www.toplessrobot.com/2008/06/the_10_worst_women_in_refridgerators_ie_cases_of_v.php|title=The 10 Worst Women in Refrigerators (i.e., Cases of Violence Against Women in Comics)|last=Oat|first=Zach|date=2008-06-30|publisher=Topless Robot|accessdate=2009-05-03}}</ref> One of Daredevil's more notable love interests is [[Elektra (comics)|Elektra]], an assassin who would later be killed.<ref name="elektra">{{cite web|url=http://marveldirectory.com/individuals/e/electra.htm|title=Elektra|publisher=Marvel Directory|accessdate=2009-05-03}}</ref> In the 2000s, Murdock marries a woman named [[Milla Donovan]], although one of Daredevil's enemies drives her to insanity.{{Issue|date=April 2010}}
+{{-}}
+
+===Daredevil enemies===
+{{Main|List of Daredevil enemies}}
+
+In his early years, Daredevil fought a number of costumed supervillains, the first of these being [[Electro (comics)|Electro]], a prominent Spider-Man foe, in ''Daredevil'' #2.  A number of recurring villains would be introduced over the years, such as [[The Owl (comics)|The Owl]],<ref>''Daredevil'' #3</ref> [[The Purple Man]],<ref>''Daredevil'' #4</ref> [[Mr. Fear]],<ref>''Daredevil'' #6</ref> [[Stilt-Man]],<ref>''Daredevil'' #8</ref> [[Gladiator (Melvin Potter)|Gladiator]],<ref>''Daredevil'' #18</ref> [[Jester (Jonathan Powers)|The Jester]],<ref>''Daredevil'' #43</ref> The [[Man-Bull]],<ref>''Daredevil'' #78</ref> [[Death-Stalker]],<ref>''Daredevil'' #113</ref> and various others.  The supervillain duo of [[The Cobra (comics)|The Cobra]] and [[Mr. Hyde (comics)|Mr. Hyde]] have also frequently clashed with Daredevil, although Hyde has fought Daredevil alone on several occasions.  One of his deadliest enemies, a psychotic assassin known as [[Bullseye (comics)|Bullseye]], was introduced by [[Marv Wolfman]] in issue #131, and the two have battled each other many times over the years.
+
+Beginning with Frank Miller's run on ''Daredevil'', his traditional rogues gallery was used less often, and [[The Kingpin]] became Daredevil's arch-enemy.  The Kingpin has long known Daredevil's secret identity, and used this information to try to destroy Murdock's life.  Elektra made her debut as a bounty hunter for hire, leading to several confrontations with Daredevil.  In ''Daredevil '' #254, [[Ann Nocenti]] introduced [[Typhoid Mary (comics)|Typhoid Mary]], an assassin for the Kingpin with an [[dissociative identity disorder|identity disorder]], who also became a prominent Daredevil foe.  The [[Punisher]], vigilante Frank Castle, is one of Daredevil's most prolific antagonists and at times a reluctant ally.
+
+==Collected editions==
+{| class="wikitable"
+|-
+! Title
+! Material Collected
+! Publication Date
+! ISBN
+|-
+| Essential Daredevil Vol. 1
+| Daredevil Volume 1 #1-25 (b&w)
+| 
+| 978-0785118619
+|-
+| Essential Daredevil Vol. 2
+| Daredevil Volume 1 #26-48, Special #1 (b&w)
+| 
+| 978-0785114628
+|-
+| Essential Daredevil Vol. 3
+| Daredevil Volume 1 #49-74, Iron Man #35-36 (b&w)
+| 
+| 978-0785118619
+|-
+| Essential Daredevil Vol. 4
+| Daredevil Volume 1 #75-101, Avengers #111 (b&w)
+| 
+| 978-0785127628
+|-
+| Essential Daredevil Vol. 5
+| Daredevil Volume 1 #102-125, Marvel Two-In-One #3 (b&w)
+| 
+| 978-0785144540
+|-
+| Marvel Masterworks: Daredevil
+| Daredevil Volume 1 #1-11
+|
+|
+|-
+| Daredevil Visionaries - Frank Miller Vol. 1
+| Daredevil Volume 1 #158-161, 163-167
+| 
+| 978-0785107576
+|-
+| Daredevil Visionaries - Frank Miller Vol. 2
+| Daredevil Volume 1 #168-182
+| 
+| 978-0785107712
+|-
+| Daredevil Visionaries - Frank Miller Vol. 3
+| Daredevil Volume 1 #183-191, What If... #28 & 35, Bizarre Adventures #28
+| 
+| 978-0785108023
+|-
+| Daredevil: Love's Labor Lost
+| Daredevil Volume 1 #215-217, 219-222, 225, 226
+| 
+| 978-0785110293
+|-
+| Daredevil: Born Again
+| Daredevil Volume 1 #227-233
+| 
+| 978-0871352972
+|-
+| Daredevil Legends Vol. 4 - Typhoid Mary
+| Daredevil Volume 1 #254-257, 259-263
+| 
+| 978-0871352972 (Out of Print)
+|-
+| Daredevil: Lone Stranger
+| Daredevil Volume 1 #265-273
+| 
+| 978-0785144526 
+|-
+|Daredevil: Fall of the Kingpin
+|Daredevil Volume 1 #297-300
+|March 1993
+|978-0871359650 (Out of Print)
+|-
+|Daredevil: Fall From Grace
+|Daredevil Volume 1 #219-225
+|October 1994
+|978-0785100249 (Out of Print)
+|-
+| Daredevil: Guardian Devil
+| Daredevil Volume 2 #1-8 (Volume 1 #381-388)
+| 
+| 978-0785134381
+|-
+| Daredevil: Parts of a Hole
+| Daredevil Volume 2 #9-15 (Volume 1 #389-395)
+| 
+| 978-0785142874
+|-
+| Daredevil: Wake Up
+| Daredevil Volume 2 #16-19 (Volume 1 #396-399)
+| 
+| 978-0785109488
+|-
+| Daredevil: Underboss
+| Daredevil Volume 2 #26-31 (Volume 1 #406-411)
+| 
+| 978-0785110248
+|-
+| Daredevil: Out
+| Daredevil Volume 2 #32-40 (Volume 1 #412-420)
+| 
+| 978-0785110743
+|-
+| Daredevil: Lowlife
+| Daredevil Volume 2 #41-45 (Volume 1 #421-425)
+| 
+| 978-0785111054
+|-
+| Daredevil: Hardcore
+| Daredevil Volume 2 #46-50 (Volume 1 #426-430)
+| 
+| 978-0785111689
+|-
+| Daredevil: Echo - Vision Quest
+| Daredevil Volume 2 #51-55 (Volume 1 #431-435)
+| 
+| 978-0785112327
+|-
+| Daredevil: King of Hell's Kitchen
+| Daredevil Volume 2 #56-60 (Volume 1 #436-440)
+| 
+| 978-0785113379
+|-
+| Daredevil: The Widow
+| Daredevil Volume 2 #61-65 (Volume 1 #441-445), Volume 1 #81
+| 
+| 978-0785113942
+|-
+| Daredevil: The Golden Age
+| Daredevil Volume 2 #66-70 (Volume 1 #446-450)
+| 
+| 978-0785113959
+|-
+| Daredevil: Decalogue
+| Daredevil Volume 2 #71-75 (Volume 1 #451-455)
+| 
+| 978-0785116448
+|-
+| Daredevil: The Murdock Papers
+| Daredevil Volume 2 #76-81 (Volume 1 #456-461)
+| 
+| 978-0785118107
+|-
+| Daredevil: The Devil, Inside and Out, Vol. 1
+| Daredevil Volume 2 #82-87 (Volume 1 #462-467)
+| 
+| 978-0785119883
+|-
+| Daredevil: The Devil, Inside and Out, Vol. 2
+| Daredevil Volume 2 #88-93 (Volume 1 #468-473)
+| 
+| 978-0785122418
+|-
+| Daredevil: Hell to Pay, Vol. 1
+| Daredevil Volume 2 #94-99 (Volume 1 #474-479)
+| 
+| 978-0785124849
+|-
+| Daredevil: Hell to Pay, Vol. 2
+| Daredevil Volume 2 #100-105 (Volume 1 #480-485), Annual #1
+| 
+| 978-0785128151
+|-
+| Daredevil: Cruel and Unusual
+| Daredevil Volume 2 #106-110 (Volume 1 #486-490)
+| 
+| 978-0785128892
+|-
+| Daredevil: Lady Bullseye
+| Daredevil Volume 2 #111-115 (Volume 1 #491-495)
+| 
+| 978-0785131816
+|-
+| Daredevil: Return of the King
+| Daredevil Volume 2 #116-119 (Volume 1 #496-499), Volume 1 #500
+| 
+| 978-0785133407
+|-
+| Daredevil: The Devil's Hand
+| Daredevil Volume 1 #501-505, ''Dark Days''
+| 31-03-2010
+| 978-0785141136
+|-
+| Daredevil: The Man Without Fear
+| Daredevil: The Man Without Fear #1-5
+|
+| 978-0785134794
+|-
+| Daredevil: Yellow
+| Daredevil: Yellow #1-6
+|
+| 978-0785134442
+|-
+| Daredevil by Frank Miller & Klaus Janson Omnibus
+| Daredevil #158-161, 163-191, What If? #28
+|
+|0-7851-2669-4
+|-
+| Daredevil by Frank Miller Companion Omnibus
+| Peter Parker, the Spectacular Spider-Man #27-28, Daredevil #219, 226-233, Daredevil: The Man Without Fear #1-5, Daredevil: Love and War
+|
+|0-7851-2350-7
+|-
+| Daredevil by Brian Michael Bendis & Alex Maleev, Volume 1 Omnibus
+| Daredevil Volume 2 #16-19, 26-50, 56-60
+|
+| 978-0785131120
+|-
+| Daredevil by Brian Michael Bendis & Alex Maleev, Volume 2 Omnibus
+| Daredevil Volume 2 #61-81; What if? Karen Page had Lived; Ultimate Marvel Team-Up #6-8
+|
+| 978-0785138136
+|-
+| Daredevil by Ed Brubaker & Michael Lark, Volume 1 Omnibus
+| Daredevil Volume 2 #82-105
+|
+| 978-0785137856
+|-
+| Daredevil by Ed Brubaker & Michael Lark, Volume 2 Omnibus
+| Daredevil Volume 2 #106-119, Annual #1, Vol 1 #500, Blood of the Tarantula
+| 19-05-2010
+| 978-0785145202
+|}
+
+==In other media==
+===Television===
+* Daredevil makes his first animated television appearance as Matt Murdock only in the ''[[Spider-Man and His Amazing Friends]]'' episode, "Attack of the Arachnoid" voiced by [[Frank Welker]].<ref name="ddanimation">{{cite web|url=http://marvel.toonzone.net/retrospective/daredevil/|title=Daredevil In Animation - A Retrospective|publisher=Marvel Animation Age|pages=3|accessdate=2009-04-22}}</ref>
+
+* In the 1980s, [[American Broadcasting Company|ABC]] had planned a Daredevil animated television series that would have featured a [[guide dog]] named "Lightning the Super-Dog".<ref name="urbnalegends147">[[Mark Evanier|Evanier, Mark]], quoted in {{cite web|url=http://goodcomics.comicbookresources.com/2008/03/20/comic-book-urban-legends-revealed-147/|title=Comic Book Urban Legends Revealed #147|last=Cronin|first=Brian|date=2008-03-20|publisher=Comic Book Resources|accessdate=2009-04-22}}</ref><ref>''Comics Feature'' #33 (1985), cited in [http://www.manwithoutfear.com/ddCARTOONS.shtml ManWithoutFear.com: "Media: Cartoons: Proposed Daredevil Cartoon"]</ref> Television writer [[Mark Evanier]] said in 2008 that he was the last in a line of writers to have written a pilot and series bible, with his including Lightning as a guide dog without superpowers.<ref name="urbnalegends147"/>
+
+* Daredevil appears in the 1990s ''[[Fantastic Four (1994 TV series)|Fantastic Four]]'' episode "And a Blind Man Shall Lead Them" voiced by [[Bill Smitrovich]]<ref name="andablindman">{{cite web|url=http://marvel.toonzone.net/fanfourtas/episode/blindman/|title=And A Blind Man Shall Lead Them|last=Bird Boy|first=Stu|publisher=Marvel Toonzone|accessdate=2009-04-22}}</ref> He helps the powerless Fantastic Four get into the Baxter Building when Doctor Doom takes it over.
+
+[[Image:ManWithoutFear.jpg|thumb|right|150px|Daredevil in ''[[Spider-Man (1994 TV series)|Spider-Man: The Animated Series]].'']]
+* Daredevil appears in the ''[[Spider-Man (1994 TV series)|Spider-Man: The Animated Series]]'' double episode "[[Framed (Spider-Man)|Framed]]"/"[[The Man Without Fear (Spider-Man)|The Man Without Fear]]", voiced by [[Edward Albert]].<ref name="ddanimation"/> J. Jonah Jameson hires Matt Murdock to defend Peter Parker when he is framed for industrial espionage by Richard Fisk. These episodes were later incorporated into the direct-to-DVD animated film ''[[Daredevil vs Spider-Man]]''.
+
+* Daredevil was featured in two episodes of the [[Cartoon Network]] television series ''[[Robot Chicken]]'' voiced by [[Breckin Meyer]]. In "Chirlaxx," he is seen in the ''Celebrity Double Dare'' segment (a parody of the television show ''[[Double Dare]]'') paired up with [[Stevie Wonder]] against [[Marlee Matlin]] and [[Helen Keller]]. In the episode "In a DVD Factory," a scene from the 2003 film is parodied. After defeating a number of thugs, Daredevil decides to leave his insignia carefully laid out on the ground with gasoline. He is seen pondering his options as to how to lay it out.
+
+===Film===
+{{Main|Daredevil (film)}}
+[[Image:Daredevil poster.JPG|right|thumb|150px|Image of Daredevil played by [[Ben Affleck]] in the live action movie [[Daredevil (film)|Daredevil]] along with [[Elektra (comics)|Elektra]], [[Bullseye (comics)|Bullseye]], and [[Kingpin (comics)|Kingpin]].]]
+* Daredevil, portrayed by [[Rex Smith]], appears in the 1989 [[TV movie|television movie]], ''[[The Trial of the Incredible Hulk]]''.  When David Banner ([[Bill Bixby]]) gets arrested, Matt Murdock helps to prove Banner's innocence. Daredevil tells his origins to Banner, which in this version involves Murdock being inspired by a police officer to become a hero. Later, with the help of [[Hulk (comics)|Hulk]], he battles the Kingpin ([[John Rhys-Davies]]), called only Wilson Fisk here.<ref name="hulksmashtelevision">{{cite web|url=http://tv.ign.com/articles/881/881149p3.html|title=Hulk Smash Television! |last=Goldman |first=Eric |date=2008-06-12 |publisher=IGN|pages=4|accessdate=2009-04-22}}</ref>  While remaining fairly true to the source material of the ''Daredevil'' comic books, the largest change was that Daredevil's traditional costume, including his horns, was replaced with a black ninja-like outfit.
+
+* In 2003, [[20th Century Fox]] released the film, ''[[Daredevil (film)|Daredevil]]'', written and directed by [[Mark Steven Johnson]]. Actor [[Ben Affleck]] starred as the titular character. A deleted scene in the 2005 ''[[Elektra (2005 film)|Elektra]]'' movie, later included in the Director's Cut, has Affleck briefly reprising the role in a dream sequence.
+
+===Video games===
+* Daredevil made his first video game appearance in a cameo in ''[[Venom/Spider-Man: Separation Anxiety]]'' released in 1995.<ref name="venomspiderman">{{cite web|url=http://pc.ign.com/objects/008/008746.html|title=Venom - Spider-Man: Separation Anxiety|publisher=PC IGN|accessdate=2009-04-23}}</ref> The character later had a more notable role as an alternate playable character in ''[[Spider-Man: Web of Fire]]'', released in 1996, voiced by [[Dee Bradley Baker]].<ref name="shinforce">{{cite web|url=http://www.shinforce.com/32x/reviews/SpidermanWOF.htm|title=Spider-Man: Web of Fire|first=Shinobi|publisher=Shinforce|accessdate=2009-04-23}}</ref>
+
+* Daredevil appears in the 2000 ''[[Spider-Man (2000 video game)|Spider-Man]]'' video game voiced by [[Dee Bradley Baker]]. Following Spider-Man's fight with the Scorpion, he runs into Daredevil who questions him about what happened at the scientific demonstration held by Doctor Octopus. When Spider-Man tells him that he was set up by the real culprit that stole Doctor Octopus' experiment, Daredevil tells Spider-Man that he will go around and spread news of his innocence. At the end of the game, Daredevil is seen playing cards with Spider-Man, Captain America, and Punisher.
+
+* Daredevil's largest role was as the title character in the game based on [[Daredevil (film)|the 2003 film]].<ref>"[http://findarticles.com/p/articles/mi_m0EIN/is_2003_Feb_3/ai_97184686 <nowiki>''</nowiki>''Daredevil'' for Nintendo Game Boy Advance<nowiki>''</nowiki> Ships to Retailers]". ''[[Business Wire]]'' / ''[[FindArticles.com]]'' (February 3, 2003). Retrieved 10 June 2008.</ref>
+
+* Daredevil later starred as a playable character in the 2005 ''[[Marvel Nemesis: Rise of the Imperfects]]'' video game, voiced by [[David Kaye]].<ref>{{cite web|url=http://www.imdb.com/title/tt0492680/|title=Marvel Nemesis: Rise of the Imperfects|publisher=Internet Movie Database|accessdate=2009-04-25}}</ref> He made another cameo (voiced by [[Steven Blum]]) in ''[[The Punisher (2005 video game)]]''.<ref>{{cite web|url=http://www.gamespot.com/ps2/action/thepunisher/hints.html|title=The Punisher (2005)|accessdate=2009-04-25}}</ref>
+
+[[Image:MUADD.JPG|thumb|145px|left|Daredevil as he appears in ''[[Marvel: Ultimate Alliance]]''.]]
+* Daredevil appeared as an unlockable character in ''[[Marvel: Ultimate Alliance]]'' voiced by [[Cam Clarke]].<ref name="MUA1">{{cite book |title=Marvel Ultimate Alliance: Signature Series Guide |first=Thom |last=Denick |publisher=Brady Games |location=Indianapolis, Indiana| isbn=0-7440-0844-1 |year=2006 |pages=42, 43}}</ref> He can be unlocked by collecting 5 of his action figures throughout the game. He has special dialogue with Bullseye, Black Widow, Blade (when he is rescued in Murderworld). A simulation disk has Daredevil protecting Elektra from Bullseye on the S.H.I.E.L.D. Helicarrier.
+
+* Daredevil is a playable character in ''[[Marvel: Ultimate Alliance 2]]'' voiced by [[Brian Bloom]]. His ''Secret War'' costume serves as Daredevil's alternate costume.
+
+===Toys===
+* Daredevil is featured in the [[Marvel Legends]] (third series) toy line. The action figure was based on the film version [[Ben Affleck]] starred in.<ref name="series3">{{cite web|url=http://comicfigs.net/MarvelLegends/ML03/|title=Marvel Legends Series 3|date=2002-12-01|publisher=ComicFigs.net|accessdate=2009-04-25}}</ref> The Marvel Legends Showdown 1/18th scale line also featured Daredevil figures in both his red uniform and a chase version in his yellow-and-black uniform.<ref>{{cite web|url=http://www.quickstopentertainment.com/2009/02/10/toy-box-marvel-universe/|title=Toy Box: Marvel Universe Surfer, Spidey, Daredevil and Human Torch|accessdate=2009-04-25}}</ref>
+
+* The "Spider-Man Classics" toy line (which was a precursor to Marvel Legends) also included a Daredevil figure, clad in his traditional red costume.<ref name="classicsdaredevil">{{cite web|url=http://www.comicbookbin.com/toybiz02.html|title=Spider-man Classics Daredevil|last=St-Louis
+|first=Hervé|date=2004-03-24|publisher=Comic Book Bin|accessdate=2009-04-25}}</ref> The action figure resembles [[Marvel Comics|Marvel]] Editor-in-Chief [[Joe Quesada]]'s representation of Daredevil; it is derived from Quesada's stint as an artist on ''Daredevil''.<ref name="classicsdaredevil"/> Accessories to the figure include the two [[billy club]]s that the character uses. Unlike the mainstream comics, the clubs are white (rather than red). An expensive variant of the character also included him in his original yellow and black garb, released in the same series.<ref name="classicsdaredevil"/>
+
+* Daredevil is the thirteenth figurine in the Classic Marvel Figurine Collection.
+
+==Awards==
+* ''Daredevil'' #227 "Apocalypse", Best Single Issue - 1986 [[Kirby Award]]s
+* ''Daredevil: Born Again'', Best Writer/Artist (single or team) Frank Miller and David Mazzucchelli - 1987 Kirby Awards
+* ''Daredevil: The Man Without Fear'', 1992 [[Comics Buyer's Guide]] Fan Award — Favorite Limited Comic-Book Series
+* ''Daredevil: Yellow'', 2001 Comics Buyer's Guide Fan Award — Favorite Limited Comic-Book Series
+* ''Daredevil'' Best Continuing Series (by writer [[Brian Michael Bendis]] and artist [[Alex Maleev]]) - 2003 [[Eisner Award]]s
+* ''Daredevil'' Best Writer for Ed Brubaker - 2007 [[Harvey Award]]
+
+==See also==
+* [[Bibliography of Daredevil titles]]
+* [[Animal echolocation]]
+* [[Ben Underwood]]
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+* {{Marvelwiki|Daredevil_(Matthew_Murdock)|Daredevil}}
+* [http://www.comics.org Daredevil] at the Grand Comics Database
+* [http://www.manwithoutfear.com/daredevil.shtml Daredevil] at ManWithoutFear, a fan site
+* [http://www.theothermurdockpapers.com/ Daredevil] at The Other Murdock Papers, a fan site
+* [http://www.salon.com/books/review/2006/01/05/daredevil/ Wolk, Douglas. "Secrets, lies — and lawyers!"], [[Salon.com]], January 5, 2006
+* [http://marvel.toonzone.net/retrospective/daredevil/ Marvel Toonzone: Daredevil]
+* [http://www.comic-covers.com/Marvel/MarvelC-D/Daredevil/index.html Daredevil cover gallery]
+* [http://www.factbehindfiction.com/index_files/manwithoutfear.htm The Man Without Fear at FactBehindFiction.com]
+
+{{Daredevil}}
+
+[[Category:Comics characters introduced in 1964]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics adapted into films]]
+[[Category:Comics by Brian Michael Bendis]]
+[[Category:Comics by Frank Miller]]
+[[Category:Crime comics]]
+[[Category:Daredevil (Marvel Comics)| ]]
+[[Category:Fictional blind characters]]
+[[Category:Fictional bojutsu practitioners]]
+[[Category:Fictional characters from New York City]]
+[[Category:Fictional American people of Irish descent]]
+[[Category:Fictional lawyers]]
+[[Category:Fictional orphans]]
+[[Category:Fictional vigilantes]]
+[[Category:Film characters]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics titles]]
+
+[[bg:Деърдевил]]
+[[ca:Daredevil]]
+[[cs:Daredevil]]
+[[da:Daredevil]]
+[[de:Daredevil (Comic)]]
+[[el:Daredevil]]
+[[es:Daredevil]]
+[[fr:Daredevil]]
+[[it:Devil (fumetto)]]
+[[he:דרדוויל]]
+[[hu:Fenegyerek]]
+[[nl:Daredevil]]
+[[ja:デアデビル]]
+[[no:Daredevil]]
+[[pl:Daredevil]]
+[[pt:Demolidor]]
+[[ru:Сорвиголова (Marvel Comics)]]
+[[sk:Daredevil]]
+[[sr:Dardevil]]
+[[fi:Daredevil]]
+[[sv:Daredevil]]
+[[tl:Daredevil (Marvel Comics)]]
+[[tr:Daredevil (karakter)]]

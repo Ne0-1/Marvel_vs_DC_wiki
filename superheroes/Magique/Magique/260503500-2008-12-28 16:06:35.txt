@@ -1,0 +1,43 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Magique
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Men]]'' #107 (Oct 1977)
+|creators=[[Chris Claremont]] and [[Dave Cockrum]]
+|alliance_color=background:#c0c0ff
+|alliances=[[Imperial Guard (comics)|Imperial Guard]]
+|aliases=Magic
+|powers=
+|}} 
+
+'''Magique''' is a fictional character in the [[Marvel Universe]].
+
+==Publication history==
+The character first appeared in ''[[X-Men]]'' #107-109 (October 1977-February 1978), and was created by [[Chris Claremont]] and [[Dave Cockrum]]. She was not named on-panel initially.
+
+The character next appears as '''Magic''' in ''Rom Annual'' #4 (December 1985), and ''X-Men: Spotlight on Starjammers'' #2 (June 1990). The character subsequently appears as '''Magique''' in ''Quasar'' #32 (March 1992), ''JLA/Avengers'' #1 (September 2003), ''Uncanny X-Men'' #479 (December 2006), #485-486 (June-July 2007), and ''X-Men: Emperor Vulcan'' #5 (March 2008).
+
+Magic appeared as part of the "Imperial Guard" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #6.
+
+==Fictional character biography==
+Magique is a founding member of the [[Shi'ar]] [[Imperial Guard (comics)|Imperial Guard]]. She has been present in many of the team's appearances, but has often remained in the background throughout most of the Guard's long history. In her one notable appearance during the [[Operation Galactic Storm|Kree-Shi'ar War]], Magique and two of her teammates were sent to thwart the heroes [[Quasar (Wendell Vaughn)|Quasar]] and [[Starfox (comics)|Starfox]]. During this encounter, she used her power to create illusions of nearly every other member of the Imperial Guard.{{issue}}
+
+Magique was not seen during the recent conflict with [[Vulcan (Marvel Comics)|Vulcan]], the [[X-Men]], and the [[Starjammers]] during which several of her teammates were apparently slain, but has remained with the Imperial Guard during the recent crowning of Vulcan as emperor of the Shi'ar.{{issue}}
+
+==Powers and abilities==
+Originally described as a powerful [[sorceress]], Magique's only confirmed superhuman ability is the creation of extremely realistic visual illusions. She can generate and maintain multiple animate illusions at once with no apparent strain, and can also use her power to render herself invisible at the same time. It is unknown if her illusions can affect senses other than sight, or if this power is but one facet of her supposed magical ability.
+
+Magique is apparently either [[immortal]] or possesses an extremely long lifespan, as she was seen in a flashback as one of the founding members of the Imperial Guard formed over four hundred years ago.
+
+==External links==
+*http://www.marvunapp.com/Appendix4/magiqueimpguard.htm
+
+
+[[Category:Extraterrestrial superheroes]]
+[[Category:Fictional characters in Marvel Comics who use magic]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics superheroes]]

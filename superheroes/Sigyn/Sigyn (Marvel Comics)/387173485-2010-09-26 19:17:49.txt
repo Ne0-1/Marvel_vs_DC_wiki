@@ -1,0 +1,42 @@
+{{Superherobox| <!--Part of Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Sigyn
+|full name= Sigyn
+|publisher=[[Marvel Comics]]
+|debut=''[[Thor (Marvel Comics)|Thor]]'' #275 (Sep 1978)
+|creators=[[Roy Thomas]] and [[John Buscema]]
+|species = [[Asgardians (comics)|Asgardian]]
+|homeworld = [[Asgard (comics)|Asgard]]
+|status= Deceased
+|alliances = [[Asgard (comics)|Gods of Asgard]] 
+|aliases = 
+|relatives= [[Loki (comics)|Loki]] (Husband), [[Odin (comics)|Odin]] (Father-in-law), [[Friga (comics)|Frigga]] (Mother-in-law), [[Thor (Marvel Comics)|Thor]] (Brother-in-law)
+|supports= 
+|powers = Sigyn possesses the superhuman abilities shared by all the Gods of Asgard including superhuman strength which enables her to lift 25 tons
+}}
+
+'''Sigyn''' is a [[fictional character]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]].
+
+==Publication history==
+Sigyn first appeared in ''[[Thor (Marvel Comics)|Thor]]'' #275-278 (September-December 1978), and was adapted from mythology by [[Roy Thomas]] and [[John Buscema]].
+
+The character subsequently appeared in ''Thor'' #300-302 (October-December 1980), ''Thor Annual'' #9 (1981), ''Thor'' #307 (May 1981), 313 (November 1981), 321 (July 1982), ''Thor Annual'' #14 (1989), #19 (1994), ''Thor'' #479-480 (October-November 1994), and 484 (March 1995).
+
+Sigyn appeared as part of the "Asgardians" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #1.
+
+==Fictional character biography==
+Sigyn is the wife of [[Loki (comics)|Loki]], which makes her princess of [[Asgard (Marvel Comics)|Asgard]]. When Loki was chained in punishment for killing Balder and a viper dripped venom onto his face, Sigyn gained permission from Odin to catch some in a bowl, although when she emptied it the Viper was able to drip its venom onto Loki.<ref>''Thor'' #275-277</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Marvelwiki|Sigyn|Sigyn}}
+*{{Marvunapp|http://www.marvunapp.com/Appendix/sigynthor.htm|Sigyn}}
+*[http://www.marveldirectory.com/individuals/s/sigyn.htm Signy at MarvelDirectory.com]
+
+
+{{Thor}}
+
+[[Category:Marvel Comics Asgardians]]

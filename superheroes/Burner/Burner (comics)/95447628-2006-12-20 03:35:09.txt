@@ -1,0 +1,47 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Burner
+|real_name=Byron Calley
+|species=[[mutant (fictional)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''Captain America Annual'' #4
+|creators=
+|alliance_color=background:#cccccc
+|status=
+|alliances=
+|previous_alliances=[[Brotherhood of Evil Mutants]]
+|aliases=Crucible
+|relatives=
+|powers=Pyrokinesis
+|}}
+
+'''Burner''' (real name '''Byron Calley'''), also known as '''Crucible''' is a fictional [[mutant (fictional)|mutant]] character in the [[Marvel Comics Universe]] whose first appearance was in ''Captain America Annual'' #4.
+
+==Fictional character biography ==
+
+'''Byron Calley''' was a life long member of [[Magneto (comics)|Magneto]]'s second [[Brotherhood of Evil Mutants|Brotherhood of Mutants]] team, however nothing has been revealed of Burner's past. He was last seen fighting against the [[New Warriors]] but was defeated by the young heroes<ref>''[[New Warriors]]'' (2nd series) #6</ref>.
+
+==In other media==
+Burner made a guest appearance in the ''[[X-Men: The Animated Series|X-Men]]'' animated series from the 1990's, though as a member of the [[Acolytes (comics)|Acolytes]], and using his real name: Byron Calley. In the two-part episode ''Sanctuary'', Calley was one of the many mutants that Magneto's offer to live in [[Asteroid M]]. Calley was in charge of overseeing the defensive missiles Magneto had gathered to prevent an attack on the Asteroid. When [[Fabian Cortez]] attempted to fire the missiles to destroy Earth, Calley opposed him. It was also revealed that he was an old friend from [[Gambit (comics)|Gambit]].
+
+==Bibliography== 
+
+*''Captain America Annual'' #4
+*''Captain America'' vol. 1 #346, 426
+*''Defenders'' vol. 1 #78-80, 83, 87, 125-126, 128-130
+
+===As Crucible===
+*''Captain America'' vol. 1 #343, 346, 368, 394, 426
+
+==References==
+<div class="references-small">
+<references/>
+</div>
+
+{{Marvel-villain-stub}}
+
+[[Category:Marvel Comics mutants]]
+[[Category:X-Men villains]]
+[[Category:Fictional characters with the power to manipulate fire]]

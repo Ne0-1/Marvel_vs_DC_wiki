@@ -1,0 +1,28 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption='''Lucifer'''
+|comic_color=background:#ff8080
+|character_name=Lucifer
+|real_name= unrevealed. Lucifer is an approximate English equivalent to his extraterrestrial name
+|publisher=[[Marvel Comics]]
+|debut=''The Uncanny X-Men'' (Vol.1) #9
+|creators=
+|alliance_color=background:#c0c0ff
+|status=deceased
+|alliances=
+|previous_alliances=
+|aliases= 
+|relatives=
+|powers=
+|}}
+'''Lucifer''' is a [[comic book]] [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]]. His first appearance was in ''The Uncanny X-Men'' (Vol.1) #9.
+
+==Character biography==
+An [[extraterrestrial life|alien]], he first came to Earth as the vanguard of an [[alien invasion]], which was foiled by the young Charles Xavier (later [[Professor X]], leader of the [[X-Men]]). In retaliation, Lucifer dropped an enormous stone block on Xavier, leaving him wheelchair-bound. Lucifer made several later attempts to conquer Earth, all foiled by the X-Men. His masters ultimately "terminated" him for his failures, and replaced him with the android [[Dominus (comics)|Dominus]].
+
+
+[[Category:Marvel Comics aliens]]
+[[Category:X-Men villains]]
+
+
+{{Marvel-Comics-stub}}

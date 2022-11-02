@@ -1,0 +1,39 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Iron Cross
+|real_name=Helmut Gruler
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Invaders (comics)|Invaders]] #35'' (Dec 1978)
+|creators=[[Roy Thomas]], [[Alan Kupperberg]], and [[Don Heck]]
+|alliance_color=background:#c0c0ff
+|alliances=
+|aliases=
+|powers=
+|}} 
+
+'''Iron Cross''' is a fictional character in the [[Marvel Universe]].
+
+==Publication history==
+Iron Cross first appeared in ''[[Invaders (comics)|Invaders]]'' #35-37 (December 1978-February 1979), and was created by [[Roy Thomas]], [[Alan Kupperberg]], and [[Don Heck]].
+
+The character subsequently appears in ''Midnight Sons Unlimited'' #9 (May 1995), and ''Citizen V and the V-Battalion'' #1-3 (June-August 2001).
+
+==Fictional character biography==
+Iron Cross was a German champion of World War II who wore armor created by Professor Franz Schneider that gave him superhuman strength and flying ability.  He could project electrical charges, sleeping gas, or an octupus-like black fluid from his armor.
+
+Although he appeared to have been killed during a confrontation with the [[Invaders (comics)|Invaders]] and [[Liberty Legion]]<ref>Invaders #37</ref>, in reality he survived.  After the war, he joined the [[V-Battalion]], and was a founder of the Penance Council.  He has lived for over 100 years, kept alive by his armor.  He apparently died when he overloaded his armor in a successful effort to disrupt [[HYDRA]]'s attempt to use VMP and nanotech to take over the world.
+
+==Powers and abilities==
+Iron Cross's powers are derived from his armor. The armor provides protection from physical and energy attacks and enhances his strength, endurance and durability. His armor has boot jets which allow him to fly and has its own air supply and is capable of limited space travel.
+
+==References==
+{{reflist}}
+
+
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]
+
+[[tl:Iron Cross (Marvel Comics)]]

@@ -1,0 +1,41 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  noimage = yes
+| caption = 
+| comic_color =background:#ff8080
+| character_name = Dryad
+| real_name = Callie Betto
+|species=[[Mutant (Marvel comics)|Human Mutant]]
+| publisher = [[Marvel Comics]]
+| debut = New X-Men: Academy X #2
+| creators = Nunzio DeFilippis and Christina Weir
+| alliance_color =background:#ffc0c0 
+|alliances=Corsairs Squad<br/>[[X-Mansion|Xavier Institute]]
+| aliases = 
+| powers = [[List of comic book superpowers#Plant manipulation|Plant manipulation]]
+}}
+
+'''Dryad''' ('''Callie Betto''') is a [[fictional character]] appearing in [[comic books]] published by [[Marvel Comics]]. Created by Nunzio DeFilippis and Christina Weir, she first appeared in ''[[New X-Men]]: Academy X'' #1. 
+
+==Fictional character biography==
+Dryad was a member of the former Corsairs Training Squad, along with [[Specter (comics)|Specter]], [[Quill (comics)|Quill]] and the [[Stepford Cuckoos]], who leads the team.
+
+===Depowered and Death===
+After [[Scarlet Witch]]'s actions of M-Day, Dryad is depowered and boards a bus with other depowered students leaving the [[X-Mansion|Xavier Institute]].  She is killed when William Stryker fires a missile at the bus, blowing it up, killing the depowered students aboard<ref>''New X-Men'' vol. 2, #23</ref>.
+
+==Powers and abilities==
+Dryad had the mutant ability to manipulate plant life, as well as communicating with plants. She can use her powers to make plants grow or follow her commands. After [[Decimation (comics)|Decimation]], Dryad loses her powers.
+
+==Bibliography==
+*''New X-Men Yearbook''
+*''New: X-Men: Academy X'' #2
+
+==References==
+{{reflist}}
+
+{{Marvel-Comics-stub}}
+
+[[Category:Fictional Italian-Americans]]
+
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics characters]]
+[[Category:Plant characters]]

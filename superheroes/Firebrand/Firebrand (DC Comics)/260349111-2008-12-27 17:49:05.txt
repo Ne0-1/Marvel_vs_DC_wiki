@@ -1,0 +1,76 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = [[Image:Firebrand Jurgens.jpg|145px|]]
+| caption = Firebrand (Andre Twist)<br>''The Battle For Blüdhaven'' #2 (January 2006).<br>Art by [[Dan Jurgens]] and [[Jimmy Palmiotti]].
+| character_name = Firebrand 
+| publisher = [[Quality Comics]]<br>[[DC Comics]]
+| debut = ''Police Comics'' #1<br> (August 1941) 
+| creators = '''(Rod)'''<br>[[Jerry Iger|S.M. Iger]]<br>[[Reed Crandall]]<br> '''(Danette)'''<br>[[Roy Thomas]]<br>[[Dann Thomas|Danette Thomas]]<br>[[Jerry Ordway]]<br>[[Rich Buckler]]<br> '''(Sanchez)'''<br>[[Brian Augustyn]]<br>[[Sal Velluto]]<br> '''(Twist)'''<br>[[Justin Gray]]<br>[[Jimmy Palmiotti]]<br>[[Dan Jurgens]]
+| alter_ego = Rod Reilly<br> Danette Reilly<br> Alejandro "Alex" Sanchez<br> '''Andre Twist'''
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = '''(Rod, Twist)'''<br>[[Freedom Fighters (comics)|Freedom Fighters]]<br> '''(Danette)'''<br>[[All-Star Squadron]]
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = '''(Rod)'''<br>Skilled hand-to-hand combatant<br> '''(Danette)'''<br>Ability to create fire and plasma blasts<br> '''(Sanchez)'''<br>Enhanced strength and endurance, due to surgical implants and advanced armor<br> '''(Twist)'''<br>Control over fire
+}}
+
+:''For the Marvel Comics character, see [[Firebrand (Marvel Comics)]]''.
+'''Firebrand''' is a name that has been used by four heroes by [[DC Comics]].
+
+==Rod Reilly==
+[[Image:Firebrand1.jpg|thumb|left|175px|Firebrand (Rod Reilly)<br>Cover to ''Police Comics'' #2 (September 1941)]]
+Published by [[Quality Comics]] from August, 1941 to November, 1942, '''Rod Reilly''' was the bored and wealthy socialite son of a steel tycoon, who decided to fight crime with his servant and friend, "Slugger" Dunn.<ref name="dc-fire1">{{Citation | last = Wallace | first = Dan | author-link = | contribution = Firebrand I | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 122  | publisher = [[Dorling Kindersley]] | place = New York  | year = 2008 | ISBN = 0-7566-4119-5 | oclc = 213309017}}</ref>  Originally drawn by Reed Crandall, Firebrand appeared in ''Police Comics'', issues #1 through 13, at which time his series was canceled.  Firebrand's costume consisted of a transparent shirt and red pants, with a bandana mask covering the top half of his face.
+
+After DC purchased Quality Comics, Firebrand was largely left on the sidelines until 1981, when DC collected most of their '40s characters into the [[All-Star Squadron]]. At this time it was [[retcon]]ned that Rod had been injured in the Japanese attack on [[Pearl Harbor]], and replaced by his sister, Danette Reilly.  Rod Reilly later recovered and joined the [[Freedom Fighters (comics)|Freedom Fighters]].<ref name="dc-free">{{Citation | last = Greenberger | first = Robert | author-link = Robert Greenberger | contribution = Freedom Fighters | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | pages = 131 | publisher = [[Dorling Kindersley]] | place = New York  | year = 2008 | ISBN = 0-7566-4119-5 | oclc = 213309017}}</ref>  He was killed in a fight with the [[Silver Ghost]].<ref name="dc-fire1"/>
+
+In All-Star Squadron No. 5 (Vol. 2, 1981), Rod's sister Danette discovers that Rod is Firebrand while staying at his penthouse. Musing about Rod's relationship with his bodyguard, Slugger Dunn, she wonders "though what a confirmed bachelor playboy like my brother needed with a bodyguard, I never understood", and then finds a hidden closet that leads her to think that "from the look of these clothes, I didn't know my brother quite as well as I thought I did!" 
+
+Rod appears briefly in ''[[Crisis on Infinite Earths]]'', issues #7 and 9.
+
+==Danette Reilly==<!-- This section is linked from [[List of All-Star Squadron members]]. See [[WP:MOS#Section management]] -->
+[[Image:A-SS5.jpg|thumb|left|145px|Firebrand (Danette Reilly)<br>From the cover to ''All-Star Squadron'' #5 (January 1982)]]
+Vulcanologist '''Danette Reilly''' is the sister of Rod Reilly, the first Firebrand.  First introduced in a special "All-Star Squadron" preview in ''Justice League of America'' #193 (August 1981), Danette was studying volcanos north of Hawaii in the 1940s when she was kidnapped by [[Per Degaton]] and [[Wotan]].  During her escape, she was struck by a bolt of lightning and fell into a pit of mystical lava.  The combination of the lightning and magic lava not only allowed her to survive, but to develop the power to control heat and project plasma blasts (first seen in ''All-Star Squadron #5'' (January 1982)). Her powers surfaced after she discovered her brother's Rod costume and put in on.  As Rod had been injured during the attack on [[Attack on Pearl Harbor|Pearl Harbor]], Danette decided to become the new Firebrand.<ref name="dc-fire2">{{Citation | last = Greenberger | first = Robert | author-link = Robert Greenberger | contribution = Firebrand II | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 122  | publisher = [[Dorling Kindersley]] | place = New York  | year = 2008 | ISBN = 0-7566-4119-5 | oclc = 213309017}}</ref>
+
+Danette appears in [[Crisis on Infinite Earths]], wherein she was briefly rejoined by her former lover, the reluctant supervillain [[Cyclotron (comics)|Cyclotron]].  Cyclotron, although deceased, phased into her time to assist her.  Danette assumed partial custody of his daughter Terri, along with fellow hero the [[Atom (Al Pratt)|Atom]]. This makes her technically the grandmother of Terri's son, [[Albert Rothstein|Atom Smasher]]. Her later adventures during [[World War II]] have thus far been unchronicled.
+
+After World War II ended, Danette assisted and later married the [[Shining Knight]] (Sir Justin).  Together they faced the [[Dragon King]] and Danette was apparently killed.<ref name="dc-fire2"/>
+
+Her name is a homage to creator Roy Thomas' wife, Danette "Dann" Thomas.<ref>{{cite journal  | last =Thomas  | first =Roy  | authorlink = Roy Thomas  | title ="The All Star Squadron Chronicles Part III: Hail, Hail, Now the Gang's Really All Here!"  | journal =Alter Ego  | volume =3  | issue =12  | pages =  | publisher =TwoMorrows Publishing  | month =January | year =2002  | url =http://twomorrows.com/alterego/articles/12a-ss.html  | doi =  | id =  | accessdate = 2007-04-30 }}</ref>
+
+The [[Quality Comics]] heroine [[Wildfire (Golden Age)|Wildfire]] was originally intended to play a major role in the [[All-Star Squadron]] but DC objected on the basis of her name, which she shared with the [[Legion of Super-Heroes]] member. Instead, Danette Reily was introduced into the series.<ref>[http://www.monitorduty.com/mag/fanzing37/feature1.shtml]</ref>
+
+==Alex Sanchez==
+[[Image:Firebrand1996.jpg|thumb|left|150px|Cover of Firebrand #1. Art by [[Sal Vellutto]].]] In February 1996, DC introduced a third Firebrand, former police detective '''Alejandro 'Alex' Sanchez'''. After nearly dying in an explosion that destroyed his apartment, Sanchez underwent experimental surgery to restore his mobility. The surgery was paid for by local philanthropist Noah Hightower, who later approached Sanchez with a special opportunity. Hightower offered Sanchez a suit of advanced armor which, when combined with the implants, would give Sanchez enhanced strength and speed for a period up to four hours. After Sanchez's partner was attacked during an investigation, he agreed to become the superhero Firebrand. In addition to enhanced strength, Sanchez's armor emits a greenish flame, giving him a demonic appearance.<ref name="dc-fire3">{{Citation | last = Beatty | first = Scott | author-link = Scott Beatty | contribution = Firebrand III | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 122  | publisher = [[Dorling Kindersley]] | place = New York  | year = 2008 | ISBN = 0-7566-4119-5 | oclc = 213309017}}</ref>
+
+Sanchez's tenure as Firebrand lasted only nine issues of his self-titled comic.  He reappeared in ''[[Justice Society of America|JSA: Secret Files]]'' #2, where he is stabbed in the throat and apparently dies in [[Roulette (DC Comics)|Roulette's]] underground gaming arena, the House, at the hands of a drugged [[Checkmate (comics)|Checkmate]] knight.
+
+==Andre Twist==
+
+The latest Firebrand, '''Andre Twist''', was introduced in ''[[Blüdhaven|The Battle for Blüdhaven]]''.  He gains control over fire after his exposure to [[Chemo (comics)|Chemo]] being dropped on the city.<ref name="dc-fire3"/>  He also appears in the limited series,  ''Uncle Sam and the Freedom Fighters'', as a member of the new [[Freedom Fighters (comics)|Freedom Fighters]].  Andre carries a [[bo staff]], and has some measure of athletic and martial arts ability.  In ''[[Blüdhaven|The Battle for Blüdhaven]]'' #5, Andre hears a voice in his head, asking him to come to the Mississippi River and fight for liberty, claiming that Andre is pure of heart and will be his Firebrand.  The voice is that of [[Uncle Sam (comics)|Uncle Sam]].
+
+After joining forces with Uncle Sam, Andre is captured and tortured by [[Father Time (DC Comics)|Father Time]] after attacking [[United States Senate|senator]]/[[President of the United States|presidential candidate]] Henry Knight, who is really [[Gonzo the Mechanical Bastard]]. He is freed from captivity by [[Phantom Lady]], and joins the rest of the Freedom Fighters to recruit the new [[Black Condor]].<ref>''Uncle Sam and the Freedom Fighters'' #2</ref>
+
+He and the rest of the Freedom Fighters manage to defeat Gonzo, and are offered positions as the new leaders of S.H.A.D.E.
+
+In the 2007 Freedom Fighters series, Firebrand strikes up a relationship with [[Red Bee (comics)|Red Bee]], and is distraught when he is taken over an alien insectoid race. Together, the Freedom Fighters are able to save Red Bee, and repel the insectoid's invasion.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.dcuguide.com/who.php?name=firebrand Rod Reilly at the Unofficial Guide to the DC Universe]
+*[http://www.dcuguide.com/who.php?name=firebrand2 Danette Reilly at the Unofficial Guide to the DC Universe]
+*[http://www.dcuguide.com/who.php?name=firebrand3 Alex Sanchez at the Unofficial Guide to the DC Universe]
+*[http://www.dcuguide.com/who.php?name=firebrand4 Andre Twist at the Unofficial Guide to the DC Universe]
+*[http://www.toonopedia.com/firebrnd.htm Rod and Danette at Toonopedia]
+
+[[Category:DC Comics superheroes]]
+[[Category:DC Comics titles]]
+[[Category:Quality Comics superheroes]]
+[[Category:Fictional activists]]
+[[Category:1941 comics characters debuts]]
+[[Category:1981 comics characters debuts]]
+[[Category:1996 comics characters debuts]]
+
+[[tl:Firebrand (DC Comics)]]

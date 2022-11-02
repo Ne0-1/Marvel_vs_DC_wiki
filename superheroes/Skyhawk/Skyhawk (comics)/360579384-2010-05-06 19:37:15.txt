@@ -1,0 +1,45 @@
+{{Infobox superhero <!--Wikipedia:WikiProject Comics-->
+|character_name = Skyhawk
+|image     = 
+|caption   = 
+|publisher = [[Marvel Comics]]
+|debut     = ''[[Thor (Marvel Comics)|Thor]]'' #395<br> (September 1988)
+|creators  = [[Tom DeFalco]] (writer)</br>[[Ron Frenz]] (artist)
+|alter_ego = Winston Manchester
+|full_name =
+|species   = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances = [[Earth Force (Marvel Comics)|Earth Force]]
+|partners  = <!-- optional -->
+|supports  = <!-- optional -->
+|aliases   =  <!-- optional: actual identities the character uses, not nicknames -->
+|powers    = 
+}}
+
+'''Skyhawk''' is a [[fictional character]] published by [[Marvel Comics]]. He first appeared in ''[[Thor (Marvel Comics)|Thor]]'' #395, (September 1988), and was created by [[Tom DeFalco]] and [[Ron Frenz]].
+
+==Publication history==
+Skyhawk first appeared in ''[[Thor (Marvel Comics)|Thor]]'' #395 (September 1988), and was created by [[Tom DeFalco]] (writer) and [[Ron Frenz]] (artist).
+
+The character subsequently appears in ''Thor'' #396-399 (October 1988-January 1989), #426 (November 1990), ''Thor Annual'' #16 (1991), ''Thor'' #456 (December 1992), and ''Civil War: Front Line'' #11 (April 2007).
+
+Skyhawk appeared as part of the "Earth Force" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Update '89]]'' #2.
+
+==Fictional character biography==
+'''Winston Manchester''' was a businessman working in [[New York City]], who had been hospitalized from overwork.  The death god [[Seth (Marvel Comics)|Seth]] brought [[Earth Lord|Kyle Brock]], Winston Manchester, and [[Wind Warrior|Pamela Shaw]] to his own "dimension of death," healed them, and gave them superhuman powers.  Seth employed these three humans, now known as [[Earth Force (Marvel Comics)|Earth Force]], as pawns for vengeance until [[Thor (Marvel Comics)|Thor]] exposed Seth's evil nature to them.<ref>''Thor'' #395-399</ref>
+
+===Initiative===
+{{main|Fifty State Initiative}}
+Skyhawk and the Earth Force have been identified as a superhero registered with [[Fifty State Initiative|The Initiative]], and stationed in [[Washington (U.S. state)|Washington]] state.{{Issue|date=April 2009}} In [[Secret Invasion]] he was revealed to be a [[Skrull]] infiltrator.<ref>''Avengers: The Initiative'' #19</ref>
+
+After the invasion is over, the real Skyhawk isn't shown in a support group meeting with the others that had been replaced by Skrulls.<ref>''Avengers: The Initiative'' #20</ref> His current whereabout are unknown.
+
+==Powers and abilities==
+Skyhawk possesses the power of flight, by using his powerful underarm-to-rib cage wings. He also possesses superhuman strength (10 tons).
+
+==References==
+{{reflist}}
+
+[[Category:Fictional businesspeople]]
+[[Category:Fictional characters from New York City]]
+[[Category:Marvel Comics superheroes]]

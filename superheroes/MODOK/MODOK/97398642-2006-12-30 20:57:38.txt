@@ -1,0 +1,87 @@
+:''For the legendary Welsh prince known as Modok, see [[Madoc]].''
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Modok.PNG|250px]]
+|caption=Detail from promotional artwork for 2007's miniseries "MODOK's Eleven." Art by [[Eric Powell (comics)|Eric Powell]].
+|comic_color=background:#ff8080
+|character_name=M.O.D.O.K. <br>(Mental Organism Designed Only for Killing)
+|real_name=(I) Gerlach, (II) George Tarleton, (III) Unrevealed
+|publisher=[[Marvel Comics]]
+|debut=''[[Tales of Suspense]]'' #94 (October [[1967]])
+|creators=Jack Kirby & Stan Lee
+|alliance_color=background:#c0c0ff
+|status=(I) unknown, (II) deceased, (III) active
+|alliances=A.I.M.
+|previous_alliances=
+|aliases=MODOC ('''M'''ental '''O'''rganism '''D'''esigned '''O'''nly for '''C'''omputing)
+|relatives=
+|powers=Superhuman intelligence<br.> Psionic abilities allow control of minds and fire "thought bolts" at enemies<br.> Ability to calculate probability that borders on clairvoyance. 
+|}}
+
+'''MODOK''' is a [[fictional character]], a [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]].  His name is an acronym for '''M'''ental '''O'''rganism '''D'''esigned '''O'''nly for '''K'''illing.  The original MODOK first appeared in ''[[Tales of Suspense]]'' #94 (October [[1967]]), which was written by [[Stan Lee]] and illustrated by [[Jack Kirby]].
+
+==Character history==
+There have been three men to assume the MODOK name. In the comic books the MODOK characters did not appear in chronological order. MODOK II first appears and years later is killed. In later issues, MODOK III is created and subsequently lost and later returns to lead AIM. Finally, MODOK I is introduced and since ''according to the story'' MODOK I was created before MODOK II (via [[retcon]]) it is considered the first, even though the story it first appeared in was published over 30 years later than the story in which MODOK II was introduced. There have also been a number of female variants of MODOK: Ms. MODOK (Dr. Katherine Waynesboro) and MODAM (Olinka Barankova).
+
+Despite the variety of individuals whom have been mutated into MODOKs, they are all essentially the same character, as MODOK is a computer whose "hardware" is a genetically-altered and reconstructed human.  Arguably, the female versions might not be so considered, as they demonstrated differing personalities from one another, and their male counterparts.
+
+A MODOC (using the C version of the spelling) was also part of the ''[[Iron Man (animated series)|Iron Man]]'' [[animated television series]], where he served as the unwilling scientific mastermind of the [[Mandarin (comics)|Mandarin]], who promised to return him to his human form upon his domination of the world.
+
+===MODOK II (George Tarleton)===
+
+Scientists at [[AIM (Marvel)|Advanced Idea Mechanics]] (AIM) created MODOK to analyze and probe the [[cosmic cube]] and to improve the organization's productivity in its scientific endeavors, while still being subservient to the higher echelons of the organization. To that end they mutagenically altered one of their technicians of average intelligence, George Tarleton, into the super intelligent being, '''MODOC''' ('''M'''ental '''O'''rganism '''D'''esigned '''O'''nly for '''C'''omputing). These scientists unwisely did not take into consideration the theory that superior ability naturally leads to superior ambition. 
+
+It did not take long for MODOC to turn on his former masters and overthrow AIM. He adopted the new acronym for his title: MODOK ('''M'''ental '''O'''rganism '''D'''esigned '''O'''nly for '''K'''illing) at this time as he was more of a ruthless killer than a bean counter in his own estimation. MODOK and AIM frequently came into conflict with the [[Avengers (comics)|Avengers]] and many other [[superhero]]es. 
+
+AIM was not happy with MODOK's megalomaniacal and short-sighted leadership and he was frequently ousted only to return to power again. MODOK was so focused on his personal grudge with various superheroes that he ignored the scientific aspect of the organization and allowed it to become stagnant. The other AIM leaders eventually hired assassins to eliminate him. The George Tarleton variant of MODOK was killed by the [[Serpent Society]] during that group's first mission in ''[[Captain America]]'' #313.
+
+===Ms. MODOK and MODAM===
+Dr. Katherine Waynesboro, an associate of Bruce Banner (the [[Hulk (comics)|Hulk]]), was briefly transformed into a female MODOK counterpart called '''Ms. MODOK'''. This occurred prior to MODOK's death and she nearly married MODOK until he tried to disintegrate the [[Abomination (comics)|Abomination]], which appalled her. She eventually escaped from AIM and was returned to normal. 
+
+Subsequently, a different female counterpart of MODOK was created.  She had been mutated into a large headed creature, and she was believed to be [[Henry Pym]]'s first wife, Maria Troyvana. She first appeared in ''[[West Coast Avengers]]'' #36. Pym took her in, believing she was his late wife, but she was secretly a spy and returned to AIM. There, she was further mutated into a being nearly identical in appearance to MODOK called '''SODAM''' ('''S'''pecialized '''O'''rganism '''D'''esigned for '''A'''ggressive '''M'''aneuvers), which later was changed to ('''M'''ental '''O'''rganism '''D'''esigned for '''A'''ggressive '''M'''aneuvers). In ''[[Iron Man]]'' #296, [[Omega Red]] revealed that MODAM was not Maria Troyvana; her real name was Olinka Barankova.
+
+===MODOK III and MODOK I===
+Finally, a new MODOK (MODOK III) was created during the "Taking AIM" [[fictional crossover|crossover]]. At the end of this story line this new MODOK was lost in another dimension and MODAM was killed. It was later discovered in the pages of ''Captain America and the [[Falcon (comics)|Falcon]]'' that there was another MODOK (MODOK I) who existed prior to the time that George Tarleton had been mutated into MODOK II. Eventually, the newly created MODOK III found his way back to his dimension of origin and took control of one of the dozens of AIM splinter organizations, arguably the dominant AIM branch.  This branch, described as a "technology-worshipping cult", has run afoul of [[Wolverine]], the new [[Defenders (comics)|Defenders]], [[Captain America]], and [[Squirrel Girl]].
+
+===Beyond Corporation© MODOKs===
+At least four versions of MODOK, apparently based around [[Elvis Presley]], were created by the [[Beyond Corporation©]] to defend their secret weapons factory, State 51. They were defeated by the [[Nextwave]] squad in ''Nextwave: Agents of H.A.T.E.'' #11. Their principle mode of attack seemed to involve shooting cheeseburgers at their targets. 
+
+===Ultimate MODOK===
+The Ultimate version of George Tarleton will appear in the upcoming Ultimate Vision mini-series.
+
+==Powers and abilities==
+The following description is valid for all incarnations of MODOK, including his female counterparts.
+
+MODOK has superhuman mental acumen. As a result of the mutagenic process he has undergone he is (''in theory'') capable of knowledge and comprehension beyond the human ability to understand. He is ''potentially'' capable of mastering every worldly subject and capable of adopting concepts completely foreign to his environment. His ability to predict probable outcomes of tactical and strategic scenarios is so advanced that it borders on clairvoyance. 
+
+In addition to  extraordinary intelligence, MODOK has great psionic powers that enable him to mentally control large groups of people (provided they are weak minded), and with the assistance of his armor/flying platform he can use his psionic powers to fire a mind-beam. He is able to operate machinery such as his flying platform/armor with his thoughts alone. 
+
+MODOK has also designed a large number of sophisticated weapons, vehicles, computers, androids, and telescoping limbs for his armor. He even has a giant android body that is proportionally sized for his head. His armor/flying platform is designed based on magnetism.
+
+Despite MODOK's great powers, his effectiveness is greatly hampered by  emotional instability and immaturity, sometimes to the point of making rash and dangerous decisions that belie his great intellect.
+
+==Appearances in other media==
+===Television===
+* In the [[1994]] ''[[Iron Man]]'' [[animated series]], a much smaller MODOK served as one of the minions of [[Mandarin (comics)|the Mandarin]]. He was a scientist who quested to cure the criminal mind. His boss the Red Ghost increased his mind by 100 times. He soon fell in love and got married to a famous bikini model. The [[Red Ghost]] knew about the relationship with his new wife and turned him into MODOK. He served as Mandarin's 2nd in command so that he could turn him back into human. He is voiced by [[Jim Cummings]].
+
+===Video games===
+* MODOK appears in the video game ''[[Marvel: Ultimate Alliance]]''. He, along with A.I.M., takes over the SHIELD Omega Base and try to ram it into a dam. When the heroes reach him, he freezes them and challenges them to a scientific quiz, with questons like, "How far is the Earth from the Sun?" and "Which of these is not a sub-atomic particle?" If the player selects a wrong answer, MODOK administers an electric shock to the characters. If the player selects a correct answer, MODOK lets his guard down and the heroes are able to move forward. Upon reaching MODOK, the actual battle begins.  However, there is one question with a false answer that is marked as correct: the question was something such as "How long is the half-life of Strontium-90?" The answer is 28.8 years, but they have it listed as 29.1. Outside of that, he is a member of [[Doctor Doom]]'s incarnation of the [[Masters of Evil]].
+
+===Parodies===
+* The villain Magnanimous from the animated show [[Megas XLR]] is modeled after MODOK with a touch of [[Bruce Campbell]].
+* The villain Technor from the [[The Walt Disney Company#Studio Entertainment|Disney]] [[animated series]] ''[[Teamo Supremo]]'' is modeled after MODOK, and his hencmen (the TechnoCreeps) are likewise similar to MODOK's minions at [[AIM (Marvel)|Advanced Idea Mechanics]] in their classic "bee-keeper" helmets.
+
+===Music===
+* The band [[Monster Magnet]] refers to MODOK in the song [[Powertrip|"Baby Götterdämerung"]] with the lyrics "So what would MODOK do, if his memory got too full? He'd find the power source, and then he'd pick what plugs to pull."
+
+==External links==
+* [http://www.lastgasp.com/d/23811/ The Journal of MODOK Studies]
+* [http://www.ludickid.com/modok.htm There's Something About MODOK]
+
+[[Category:Avengers villains|Modok]]
+[[Category:Captain America villains|Modok]]
+[[Category:Fictional cyborgs|Modok]]
+[[Category:Hulk villains|Modok]]
+[[Category:Iron Man villains|Modok]]
+[[Category:Marvel Comics mutates|Modok]]
+
+[[fi:MODOK]]

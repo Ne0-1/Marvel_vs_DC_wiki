@@ -1,0 +1,41 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Detective 810.png|250px|Detective Comics #810, art by Jock]]
+|caption=''[[Detective Comics]]'' #810, art by Jock
+|comic_color=background:#8080ff
+|character_name=Cluemaster
+|real_name=Arthur Brown
+|publisher=[[DC Comics]]
+|debut=''Detective Comics #351''(May, 1966)
+|creators=[[Gardner Fox]]<br>[[Carmine Infantino]]
+|alliance_color=background:#cccccc
+|status=active
+|alliances=
+|previous_alliances=[[Injustice League]], [[Justice League Antarctica]], [[Suicide Squad]] II
+|aliases=The Reformer, Aaron Black 
+|relatives=Agnes Brown (wife), [[Spoiler (comics)|Stephanie Brown]] (daughter, deceased), unnamed granddaughter
+|powers=Cluemaster has a number of plasti-glass pellets attached to the front of his costume that he can hurl as weapons. These pellets variously contain a blinding incendiary flare, smoke bombs, paralyzing gas and high explosives
+|}}
+
+'''Cluemaster''' (real name Arthur Brown) is a [[fictional character]] in the [[DC Universe]].
+
+==History==
+A failed [[game show host]], he became criminal who left clues toward his crimes, though unlike [[the Riddler]] these clues weren't riddles. 
+
+He had a daughter named Stephanie, but never got much of a chance to spend time with her, being in jail most of the time. When he returned to [[Gotham City|Gotham]], "rehabilitated," Stephanie became furious that he was returning to crime without his need to leave clues behind. She decided something needed to be done. Making a costume for herself, she called herself [[the Spoiler]]. She knew where her father was hiding out, found out his plans, and left clues so that the police and Batman could stop him. [[Robin (comics)|Robin]] tracked her down, and she joined in on the capturing of Cluemaster. Each time Cluemaster would escape or start some new plan, Stephanie would don her costume again. Eventually, she decided she liked being a hero, and began regular patrols as Spoiler. For a brief period of time she even replaced her boyfriend, Tim Drake, as [[Robin (comics)#Stephanie Brown|Robin]].
+
+With several other villains, Cluemaster became a member of the [[Injustice League]]. Cluemaster and his teammates later volunteered to join the second [[Suicide Squad]], a group sanctiond by the US government, in return for a full pardon of his crimes. The Cluemaster also hoped to make Stephanie proud of him.
+
+[[Image:Cluemast.png|Cluemaster mourning the loss of his daughter. Art by Pete Woods.|thumb|left]]
+On his first mission he appeared to be killed in action, but managed to survive (albeit hideously scarred). He spent a year in a hospital, the only thing keeping him alive the thought of his daughter. 
+
+When he got out and discovered that his daughter had died, he took up the name Aaron Black and created the campaign called "Campaign for Culpability", blaming Batman for his involvement in Stephanie's death, saying that she was not the first child working with Batman to die, and that Batman should be brought to justice.
+
+==Other Media==
+A considerably [http://www.geocities.com/bateam2003/tb_cluemaster.htm  distorted and obese] version of the Cluemaster has appeared on the ''[[animated series]]'' [[The Batman (TV series)|The Batman]] where Arthur Brown gets revenge on the people he blames for rigging the last question on "Think Thank Thunk" and was defeated by Batman. Cluemaster is voiced by [[Glenn Shadix]].
+
+
+[[Category:Batman villains]]
+[[Category:Suicide Squad members]]
+
+
+{{DC-Comics-stub}}

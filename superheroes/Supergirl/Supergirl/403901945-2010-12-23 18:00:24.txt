@@ -1,0 +1,250 @@
+{{About|the superhero}}
+{{Multiple issues|cleanup=December 2010|copyedit=December 2010}}
+{{Infobox comics set and title
+<!--Wikipedia:WikiProject Comics-->
+<!--Character section-->
+<!-- |code_name           = Supergirl -->
+|image               = 6.5 Supergirls.png
+|imagesize           =
+|caption             = Various incarnations of Supergirl (from left to right): Original Kara Zor-El, [[Supergirl (Matrix)|Matrix]], Kara in the '70s, [[Supergirl (Kara Zor-El)#Post-Crisis Kara Zor-El|Modern Kara]], [[Supergirl (Linda Danvers)|Linda Danvers]], [[Power Girl]], and Kara from ''[[Crisis on Infinite Earths]].'' Art by [[Ed Benes]].
+|publisher           = [[DC Comics]]
+|debut               = As Super-Girl:<br />''[[Superman]]'' #123 (August 1958)<br />As Supergirl:<br />''[[Action Comics]]'' #252 (May 1959)
+|debutyr1            = 1959
+|debutyr2            = 1988
+|debutyr3            = 1996
+|debutyr4            = 1998
+|debutyr5            = 2003
+|writer1             = [[Otto Binder]]
+|artist1             = [[Curt Swan]]
+|characters          = '''[[Supergirl (Kara Zor-El)|Kara Zor-El]]'''<br />[[Supergirl (Matrix)|Matrix]]<br />[[Supergirl (Linda Danvers)|Linda Danvers]]<br />[[Supergirl (Cir-El)|Cir-El]]<br />[[Power Girl]]<br />[[Ariella Kent]]
+
+<!--Series section-->
+<!-- |title               = SuperWOMEN -->
+|cvr_image           = Supergirl v1 1.jpg
+|cvr_caption         = ''[[Supergirl (comic book)|Supergirl]]'' vol. 1, #1 (Nov, 1972).<br>Featuring the Kara Zor-El version.<br>Art by [[Bob Oksner]].
+|schedule            = '''(vol 1)'''<br>Bi-monthly<br>'''(The Daring New Adventures of..., vol 2-5)'''<ref>The indicia for ''The Daring New Adventures of Supergirl'' was shortened to just ''Supergirl'' with issue #13.</ref><br>Monthly
+|format              = '''(vol 1, The Daring New Adventures of..., vol 2, 4-5)'''<br>[[Ongoing series]]<br>'''(vol 3)'''<br>[[Limited series]]
+|limited             = Y
+|ongoing             = Y
+|Superhero           = y
+|pub_series          = DC Comics
+|1stishhead          = vol 1
+|1stishyr            = 1972
+|1stishmo            = November
+|endishyr            = 1974
+|endishmo            = September–October
+|1stishhead1         = The Daring New Adventures of...
+|1stishyr1           = 1982
+|1stishmo1           = November
+|endishyr1           = 1983
+|endishmo1           = October
+|1stishhead2         = vol 2
+|1stishyr2           = 1983
+|1stishmo2           = November
+|endishyr2           = 1984
+|endishmo2           = September
+|1stishhead3         = vol 3
+|1stishyr3           = 1994
+|1stishmo3           = February
+|endishyr3           = 1994
+|endishmo3           = May
+|1stishhead4         = vol 4
+|1stishyr4           = 1996
+|1stishmo4           = September
+|endishyr4           = 2003
+|endishmo4           = May
+|1stishhead5         = vol 5
+|1stishyr5           = 2005
+|1stishmo5           = October
+|endishyr5           =
+|endishmo5           =
+|issues              = '''(vol 1)'''<br>10<br>'''(The Daring New Adventures of...)'''<br>12<br>'''(vol 2)'''<br>11<br>'''(vol 3)'''<br>4<br>'''(vol 4)'''<br>81 (includes an issue numbered 1000000), 2 Annuals<br>'''(vol 5)'''<br>60+ (includes an issue numbered 0)
+|main_char_team      = '''(vol 1, The Daring New Adventures of..., vol 2 & 5)'''<br>Kara Zor-El<br>'''(vol 3)'''<br>Matrix<br>'''(vol 4)'''<br>Matrix, Linda Danvers<br>'''(vol 5)'''<br>Kara Zor-El
+|writers             = '''(vol 4)'''<br>[[Peter David]]<br>'''(vol 5)'''<br>[[Jeph Loeb]]<br>[[Greg Rucka]]<br>[[Joe Kelly (comics)|Joe Kelly]]<br>[[Tony Bedard]]<br>[[Kelley Puckett]]<br>[[Sterling Gates]]
+|artists             = '''(vol 4)'''<br>[[Gary Frank]]<br>[[Ed Benes]]<br>'''(vol 5)'''<br>[[Ian Churchill]]<br>[[Ale Garza]]<br>[[Renato Guedes]]<br>[[Drew Johnson]]<br>[[Jamal Igle]]
+|pencillers          =
+|inkers              =
+|letterers           =
+|colorists           =
+|editors             =
+|creative_team_month =
+|creative_team_year  =
+|creators_series     =
+|TPB                 =
+|ISBN                =
+|nonUS               =
+|cat                 = super
+|subcat              = DC Comics
+|subcat_pub          = Superman
+|limsub              = DC Comics
+|hero                = y
+|villain             =
+|sortkey             = Supergirl
+|sort_title          = Supergirl
+}}
+
+'''Supergirl''' is a [[comic book]] [[Superhero]] that is depicted as a female counterpart to the DC Comics iconic [[superhero]] [[Superman]]. She was created by writer [[Otto Binder]] and designed by artist [[Al Plastino]] in 1959, and she first appeared in ''[[Action Comics]],'' in whose first issue Superman himself was introduced. The character first appeared in [[comic books]] and later appeared children's [[cartoon]] animation, film, and television.
+
+As Supergirl, the '''[[Supergirl (Kara Zor-El)|Kara Zor-El]]''' character plays a supporting role in various DC Comics publications, including ''Action Comics,'' ''Superman,'' and several other comic book series unrelated to Superman. In 1969 Supergirl's adventures became the lead feature in ''[[Adventure Comics]],'' and she later starred in an [[eponym]]ous [[Supergirl (comic book)|comic book series]] which debuted in 1972 and ran until 1974, followed by a second monthly comic book series titled ''The Daring New Adventures of Supergirl,'' which ran from 1982 to 1984.
+
+The 1985 [[limited series]] ''[[Crisis on Infinite Earths]]'' depicts the death of Supergirl and DC Comics subsequently [[reboot (continuity)|rebooted]] the [[continuity (fiction)|continuity]] of the [[DC Comics Universe]], reestablishing Superman's character as the sole survivor of [[Krypton (comics)|Krypton]]'s destruction. Following the conclusion of ''Crisis on Infinite Earths,'' several different characters written as having no familial relationship to Superman have assumed the role of Supergirl, including '''[[Supergirl (Matrix)|Matrix]],''' '''[[Supergirl (Linda Danvers)|Linda Danvers]],''' and '''[[Cir-El]].'''
+
+Following the cancellation of the third ''Supergirl'' comic book series starring the Linda Danvers version of the character, a modern version of Kara Zor-El was reintroduced into DC Comics continuity in issue #8 of the ''[[Superman/Batman]]'' comic book series titled "The Supergirl from Krypton" (2004). The modern Kara Zor-El stars as Supergirl in an eponymous comic book series, in addition to playing a supporting role in various DC Comics publications. The Supergirl character has been adapted into all media relating to the Superman franchise including [[product (business)|merchandise]], [[television]], [[animation]], and [[feature film]].
+
+==Precursors==
+Many [[Superman]] stories had featured one-time appearances of a female version of Superman as a story gimmick.
+[[File:Superman123.jpg|195px|thumb|left|''Superman'' #123: Super-Girl.<br>Art by [[Curt Swan]].]]
+
+*'''Lois Lane ([[Superwoman]])''' &mdash; The first comic to feature a female counterpart to Superman is "[[Lois Lane]] - Superwoman," a story published in ''Action Comics'' #60 (May 1943), in which a hospitalized Lois Lane dreams she has gained Kryptonesque super-human powers thanks to a blood transfusion from the Man of Steel. She begins her own career as Superwoman, complete with copycat costume. Similar stories with Lois Lane acquiring such powers and adopting the name "Superwoman" periodically appear later. One such story appears in ''Action Comics'' #156 (May 1951), in which Lois accidentally gains those powers through an invention of Superman's arch-foe, [[Lex Luthor]]. In the story, Lois employs a short blond wig in her crime-fighting identity, giving this Superwoman an almost identical appearance to the later version of Supergirl after the real name of the latter was specified as Kara Zor-El.
+
+*'''Queen Lucy, Super-Girl''' &mdash; In ''[[Superboy (Kal-El)|Superboy]]'' #5 (November–December 1949) in a story titled "Superboy Meets Supergirl," Superboy met Queen Lucy of the fictional Latin American nation of Borgonia. She was a stellar, but not [[superhuman|super-human]], athlete and scholar. Tired of her duties and wanting to enjoy a normal life, Queen Lucy traveled to [[Smallville (DC Comics)|Smallville]] where she met Superboy and soon won his heart. Superboy put on a show with her where he used his powers to make her '''''seem''''' super-human; during this contest she was called Super-Girl. As Super-Girl, Queen Lucy wore a tan dress with a brown cape and Superboy's "S" symbol. Superboy later saved her from a scheming minister and she returned to the throne, leaving Superboy to wonder if she ever thought of him.
+
+*'''Claire Kent''' &mdash; In the ''[[Superboy (Kal-El)|Superboy]]'' #78 story titled "Claire Kent, Alias Super-Sister," Superboy saves the life of an alien woman named Shar-La from crashing. After he ridicules her driving for being a girl, Shar-La turns Superboy into a girl. In [[Smallville (DC Comics)|Smallville]], Clark claims to be Claire Kent, an out-of-town relative who is staying with the Kents. When in costume, he appears as Superboy's sister, Super-Sister, and claims the two have exchanged places. As a girl, he is ridiculed and scorned by men, and wants to prove he is as good as he always was. In the end, it is revealed that the situation is an illusion created by Shar-La, and Superboy learns not to ridicule women.
+
+*'''Super-Girl''' &mdash; In ''Superman'' #123 (August 1958), [[Jimmy Olsen]] uses a magic totem to wish a "Super-Girl" into existence as a companion and aid to Superman; however, the two frequently get in each other's way until she is fatally injured protecting Superman from a Kryptonite meteor that a criminal has dropped towards him. At her insistence, Jimmy wishes the dying girl out of existence. DC used this story to gauge public response to the concept of a completely new super-humanly powered female counterpart to Superman. In the original issue in which this Super-Girl story was printed, she had blond hair and her costume was blue and red like Superman's; indeed, it closely resembled the uniform that actress [[Helen Slater]] wore in [[Supergirl (film)|the 1984 movie]]. Early reprints of this story showed her with red hair and an orange and green costume, to prevent readers from confusing her with the then current Supergirl character{{Citation needed|date=November 2008}}. Much later, the story was again reprinted in its original form.
+
+==Pre-''Crisis'' character biography==
+{{Main|Supergirl (Kara Zor-El)}}
+
+After positive fan reaction to Super-Girl, the first recurring and most familiar version of Supergirl, Kara Zor-El, debuted in 1959. Kara Zor-El first appeared in ''Action Comics'' #252 (May 1959) written by Otto Binder, who had also created [[Mary Marvel]], [[Captain Marvel (DC Comics)|Captain Marvel]]'s sister and female spin-off. Like Supergirl, Mary Marvel was a teen-age female version of an adult male super-hero, wearing a costume that was identical to the older character other than substituting a short skirt for tight trousers. Binder also created [[Miss America (Marvel Comics)|Miss America]], a super-hero who shared little other than the name with her sometimes co-star [[Captain America]]. The story that introduced the character, as published in ''Action Comics'' #252, was drawn by Al Plastino.
+
+Reaction at the D.C. Comics offices to Supergirl's first appearance was tremendous, with thousands of positive letters-of-comment pouring in. The first published letter-of-comment in the August 1959 issue of Action Comics was from an eleven-year-old reader from Garland, Texas named David Mitchell. The same [[Dave Mitchell]] would go on to become a well-known [[Miami]] radio personality.<ref>Action Comics #255</ref>
+
+[[File:Action Comics 285.png|thumb|left|''[[Action Comics]]'' #285 (February 1962), Supergirl is introduced to the world. Art by [[Curt Swan]].]]
+Kara Zor-El was the last survivor of [[Argo City]] of the planet [[Krypton (comics)|Krypton]], which had survived the explosion of the planet and had drifted through space. When the inhabitants of the colony are slain by [[Kryptonite|green kryptonite]] which was released by metorites striking the lead barrier, Kara is sent to Earth by her father [[Zor-El]] to be raised by her cousin Kal-El, known as Superman. Fearing that she might not be recognized by Superman, Kara's parents provide a costume based on the Man of Steel's own.
+
+On Earth, Kara acquires super-human powers identical to Superman's and adopts the secret identity of Linda Lee, an orphan at Midvale Orphanage. She conceals her blonde hair beneath a brunette wig and functions as Supergirl only in secret, at Superman's request, until she can gain, in his opinion, sufficient control of her powers. After she is adopted by Fred and Edna Danvers, Superman decides his cousin is ready to begin operating openly as Supergirl.
+
+In her secret identity, Linda attends Midvale High School as Linda Lee Danvers. In later years, after graduating from Stanhope College, she changes careers several times, holding jobs in student counseling, news reporting, and acting in a TV [[soap opera]] titled ''Secret Hearts.'' She also attends college in Chicago. Kara has many boyfriends, including Richard (Dick) Malverne, Jerro the merboy from Atlantis, and member of the [[Legion of Super-Heroes]], [[Brainiac 5]]. She does, however, shun serious commitments, putting her super-career first.
+
+Supergirl's secret identity is a closely held secret and is known only to Superman, her foster parents, and the Legion of Super-Heroes, of which she serves as a member for a time. Like all Kryptonians, especially in an Earthlike environment, Supergirl is vulnerable to kryptonite. [[Streaky the Supercat|Streaky]], Linda Danvers's orange cat, acquires temporary super-powers as a result of its exposure to "X-Kryptonite," a form of kryptonite Supergirl had accidentally created in attempting (unsuccessfully!) to neutralize the effects of green kryptonite. [[Comet (DC Comics)|Comet the Superhorse]], a former centaur, is Supergirl's equine companion.
+
+Supergirl's biological parents survived the radiation poisoning that killed everyone else in Argo City by entering the Survival Zone, a parallel continuum akin to the [[Phantom Zone]]). They were eventually rescued from the Survival Zone by Supergirl and decided to live in the bottle city of [[Kandor]]. (Supergirl story in Action Comics #309-310 Feb-Mar 1964, confirmed in Action #370).
+
+One way DC demonstrated the epic nature of its 12-issue [[limited series]] ''[[Crisis on Infinite Earths]]'' (April 1985-March 1986) was through the deaths of important characters. In issue #7 (October 1985), Supergirl bravely sacrifices her life to save her cousin and the [[Multiverse (DC Comics)|multiverse]] from destruction. When Superman continuity rebooted after the ''Crisis on Infinite Earths,'' DC editorial felt that Superman should be the sole survivor of Krypton, resulting in Kara being removed from continuity.<ref>[[Peter Sanderson]], ''[[Amazing Heroes]]'' #96, June 1986. "Superman will be the only Kryptonian who survived the destruction of Krypton." - John Byrne on ''[[The Man of Steel (comic book)|The Man of Steel]]''. Excerpted here [http://fortress.supermanthrutheages.com/History/end.php]</ref> Unlike a number of other characters who are shown dying in the Crisis, no one remembers Kara dying or even ever having existed.
+
+After the events of ''[[Infinite Crisis]],'' many historical events from the Multiverse are now being remembered. [[Donna Troy]], after her rebirth and inheritance of [[Harbinger (DC Comics)|Harbinger's]] Orb, has recalled the original Kara Zor-El and her sacrifice to save the Universe.<ref>''[[52 (comic book)|52]]:'' "Week Four and Week Five," 2006.</ref>
+
+==Post-''Crisis'' character biography==
+DC Editorial wanted Superman to be the only surviving Kryptonian following DC's post-''Crisis'' reboot of Superman continuity.<ref>[http://www.marvwolfman.com/Q&A.html "Killing Supergirl was my idea, approved by DC in order to make Superman the sole survivor of Krypton for his new relaunch. Everyone was in agreement but I was the first to suggest it."] -- Marv Wolfman, ''MarvWolfman.com: Q&A.'' Retrieved on 14 September 2008.</ref> As a result, when DC reintroduced Supergirl in the post-Crisis era, she needed to have a non-Kryptonian origin. Afterwards, DC Comics tried to revamp the Supergirl concept, introducing several more non-Kryptonian Supergirls. Eventually, the rule that Superman should be the only surviving Kryptonian was relaxed, allowing for a return of Kara Zor-El as both Superman's cousin and a Kryptonian survivor.
+
+===Matrix===
+{{Main|Supergirl (Matrix)}}
+After the post-Crisis reboot of Superman continuity in the late 1980s, Supergirl's origin was completely rewritten. No longer was she Superman's cousin, or even Kryptonian. In ''Superman'' v2, #16 (April 1988), a new Supergirl debuted as a man-made life-form (made of synthetic [[protoplasm]]) created by a heroic [[Lex Luthor]] of a "[[pocket universe|pocket continuum]]." Lex implanted her with Lana Lang's memories, and she could [[shapeshift]] to resemble [[Lana Lang]]. Matrix even believed herself to '''''be''''' Lana for a time. She wore a miniskirted version of Superman's costume, but Matrix did not have Superman's exact powers. While she possessed flight and super-strength (like Superman), she could also employ [[telekinesis|psychokinesis]], shape-shifting and a cloaking/[[invisibility]] power. (Her cloaking power made her undetectable even to Superman himself.)
+
+Matrix's Supergirl form resembled the pre-''Crisis'' Supergirl. She lived in Smallville with the Kents, who treated "Mae" like their own daughter. While new to Earth, Matrix began a romance with the DC Universe's Lex Luthor until she realized Luthor's villainous character. She left him to find her own way in the world, serving for a time as a member of the [[Teen Titans]] and a hero in her own right.
+
+===Matrix/Linda Danvers===
+{{Main|Supergirl (Linda Danvers)}}
+
+Beginning in September 1996, DC published a ''Supergirl'' title written by [[Peter David]]. The 1996 ''Supergirl'' comic revamps the previous Matrix Supergirl by merging her with a human being, resulting in a new Supergirl. Many old elements of the pre-''Crisis'' Supergirl are reintroduced in new forms. The woman that Matrix merges with has the same name as pre-''Crisis'' Supergirl's secret identity, Linda Danvers. The series is set in the town of Leesburg, named after pre-adoption secret identity, Linda Lee. Linda's father is named Fred Danvers, the same as pre-''Crisis'' Supergirl's adopted father. Furthermore, new versions of Dick Malverne and Comet appear as part of the supporting cast.
+
+As the series begins, Matrix sacrifices herself to save a dying woman named Linda Danvers, and their bodies, minds, and souls merge to become an "Earth-Born [[Angel]]", a being that is created when one being selflessly sacrifices him or herself to save another who is, in every way, beyond saving. As the angel, Supergirl loses some of her powers but gains others, including fiery angel wings and a "shunt" ability that allows her to teleport to any place she has been before.
+
+The angelic aspect of Supergirl eventually falls from grace,<ref>''Supergirl'' #50</ref> and Linda and Matrix are separated once more into two beings. Linda retains some of Supergirl's super-strength and durability, and although she can no longer fly, she can leap 1/8th of a mile. Linda acts as Supergirl for a while, attempting to locate her angelic aspect. After she is found in the [[Garden of Eden]] and freed from the Demon Mother, Matrix merges with a woman named [[Twilight (Supergirl)|Twilight]] and becomes the new Earth-born angel of fire. Twilight uses her healing powers to increase Linda's strength to Supergirl's levels and restores her powers of flight and telekinesis. In ''Supergirl'' #75 (December 2002), detoured on her way to Earth, the pre-''Crisis'' Supergirl, Kara Zor-El, arrives in post-''Crisis'' Leesburg. After learning that Kara is destined to die, Linda travels to the pre-''Crisis'' universe in her place, where she marries Superman and bears a daughter named [[Ariella Kent|Ariella]]. With the stipulation that her daughter be the exception in the eradication of her alternate "life", Linda ultimately allows history to unfold as it should have with Kara assuming her rightful but tragic place in the time-stream. However, finding no assurance that Ariella survived the restoration of post-''Crisis'' history, a dejected Linda relinquishes the role of Supergirl, sends a farewell note to Superman, and leaves for points unknown.
+
+Peter David's creator-owned series ''[[Fallen Angel (comics)|Fallen Angel]]'', published by [[DC Comics]], features a character, Lee, who is similar to Linda and explores the same themes as Peter David's Supergirl series. Prior to ''Fallen Angel'' moving to another company, Lee was written in a manner such that she could have been Linda.
+
+Though David remained coy as to whether the two characters were one and the same during the DC run of the title, after it moved to IDW, David revealed Lee's origin, which clearly showed that Lee was not Danvers. However, ''Fallen Angel'' #14 introduced "Lin," who was said to be Lee's "predecessor" in Bete Noire.<ref name="IDW#14">{{Comic book reference | writer=David, Peter | penciller=Woodward, J.K. | title=''Fallen Angel'' | volume=1 | issue=14 | date= March, 2007 | publisher=IDW Publishing }}</ref> Lin had recently escaped [[Limbo]], an apparent metaphor for what happened to Danvers after the cancellation of ''Supergirl''. David was more explicit as to whether Lin was Linda Danvers in his December 13, 2006 blog entry, in which he stated:
+{{cquote|Any fans of my run on Supergirl&mdash;particularly those who are torqued because Linda Danvers was consigned to oblivion in the [[DC Universe|DCU]]--must, must, MUST pick up "Fallen Angel" #14 and #15 when they come out next year.<ref>{{cite news | last =David | first =Peter | title =Fallen Angel #14 and #15: Supergirl Fans, please note | publisher =PeterDavid.net | date =13 December 2006 | url =http://peterdavid.malibulist.com/archives/005006.html | accessdate =24 June 2007 }}</ref>}}
+
+However, since David could not explicitly claim that a character owned by DC and a character that he owned were one and the same, he admitted:
+{{cquote|Can I say this is Linda Danvers? Of course I can't. However, it's pretty freaking obvious that it is.<ref>{{cite news | last =Taylor | first =Robert | title =Reflections: Talking With Peter David, Part 2 | publisher =Comic Book Resources | date =21 January 2007 | url =http://www.comicbookresources.com/news/newsitem.cgi?id=9407 | accessdate =24 June 2007 }}</ref>}}
+
+According to an interview with Newsarama,<ref>[http://www.newsarama.com/dcnew/InfiniteCrisis/counseling7.html Newsarama.com: Crisis Counseling: The Finale]{{dead link|date=June 2010}}</ref> the Matrix Supergirl was wiped from existence by the events depicted in the 2005 limited series ''[[Infinite Crisis]]'', although ''Infinite Crisis'' writer [[Geoff Johns]] later stated that Danvers is not.<ref>{{cite web|author=03:49 AM |url=http://www.comicbloc.com/forums/showthread.php?t=26089&page=2&pp=16 |title=The Comic Bloc Forums - Geoff, We need to talk - Page 2 |publisher=Comicbloc.com |date=2006-05-03 |accessdate=2010-06-17}}</ref> The debate was finally settled in the 2008 mini-series ''[[Reign in Hell]]'', where Shadowpact is shown trying to apprehend Linda Danvers before Linda is "recalled" to Hell.
+
+===Cir-El===
+{{Main|Supergirl (Cir-El)}}
+
+A Supergirl named Cir-El appeared in 2003's ''Superman: The 10 Cent Adventure'' #1, claiming to be the future daughter of Superman and [[Lois Lane]]. Although she has super-strength, speed, and hearing like Superman, she can only leap great distances. She also possesses the ability to fire blasts of red solar energy. Her alter ego is a street person named Mia. She is later found to be a human girl who was altered by Brainiac on a genetic level to appear Kryptonian; she dies thwarting a plot involving [[Brainiac (comics)|Brainiac]] 13. ''[[Superman (comic book)|Superman]]'' (vol. 2) #200 implies that when the timeline realigned itself, Cir-El was erased from existence. Cir-El is unique among the various incarnations of Supergirl; she is the only one who is not a blonde.
+
+===Kara Zor-El===
+{{Main|Supergirl (Kara Zor-El)}}
+
+Issue #8 of the ''[[Superman/Batman]]'' series originally published in 2004 re-introduced [[Supergirl (Kara Zor-El)#Post-Crisis Kara Zor-El|Kara Zor-El]] into DC continuity. Like the pre-''Crisis'' version, this Kara claims to be the daughter of Superman's uncle Zor-El and aunt Alura In-Ze. Unlike the traditional Supergirl origin, Kara was born before Superman; she was a teenager when he was a baby. She had been sent in a rocket in suspended animation to look after the infant Kal-El; however, her rocket was caught in the explosion of Krypton, became encased in a [[kryptonite]] [[asteroid]], and she arrived on Earth years after Kal-El had grown up and became known as Superman. Due to this extended period of suspended animation she is "younger" than her cousin, relatively speaking (she is referenced to be about 16, while Superman is portrayed to be about 29{{Citation needed|date=July 2009}}). At the end of "The Supergirl from Krypton" arc, her cousin Superman officially introduces her to all the heroes of the {{DC Universe}}, then she adopts the Supergirl costume, and accepts the name.
+
+A new ''Supergirl'' series, written by Jeph Loeb, began publication in August 2005. The storyline in the first arc of ''Supergirl'' depicts a darker, evil version of Kara emerging when Lex Luthor exposes her to [[Black Kryptonite]]. The evil Supergirl implies that Kara's family sent her to earth to kill Kal-El as revenge for a family grudge; at the time, Kara herself refuses to believe this, but later flashbacks indicate that not only was this partly true but Kara had been physically altered by her father as a child before being involved in several murders on Krypton.
+
+Supergirl also appears in ''[[Legion of Super-Heroes (2004 team)|Supergirl and the Legion of Super-Heroes]],'' in which she is transported to the 31st century, and, as a result of her disorientation, for a time believes she is dreaming her surroundings into existence until finally convinced otherwise. Although her memories of her time with the Legion were erased before she returned to the present, the mental blocks broke down upon encountering the pre-''Crisis'' versions of Legionnaires [[Karate Kid (comics)|Karate Kid]] and [[Triplicate Girl]] (Una).
+
+Supergirl exhibits new powers, manifesting sunstone crystals from her body; so far she has only done so while under great stress (for example, when Cassandra Cain tries to kill her). Supergirl's father implanted the crystals within his daughter's body to protect her from malevolent beings from the Phantom Zone. The Zone-dwellers were released when Jor-El made the Phantom Zone Projector and exploited the Zone as a prison. Kara's father, believing that Kal-El is a lure to the Zone-dwellers, has instructed Kara to destroy him. More recent comics have cast this plotline as the result of Kryptonite poisoning from the [[kryptonite]] [[asteroid]] she was trapped in for years.
+
+A recently wrapped storyline focused on her promise to a little boy that she would save him. She meant it in a more immediate sense, since Reactron was damaging the city, but the boy meant, could she save him from his cancer. She then tried to make good on her promise, following different avenues searching for a cure. After he died, she tracked down a villain with the ability to jump through time, but decided not to use that solution as she would just be doing the same thing as the villain. She's since accepted that sometimes she can't save everyone.
+
+After Superman manages to rescue the Kryptonian bottled city Kandor from Braniac, Kara is reunited with her parents.  However that reunion becomes bitter-sweet as Reactron kills her father, and her mother dies when New Krypton is destroyed by a trap in Reactron left by Lex Luthor.
+
+==Supporting characters==
+Even though Supergirl is a Superman supporting character, she is also a Superman Family member, with her own set of supporting characters.
+
+*'''[[Zor-El]] and Alura In-Ze''' &mdash; Kara Zor-El's biological parents. Zor-El, the younger brother of Jor-El, was a scientist who invented the dome over Argo City and oversaw the placement of lead shielding over the ground of Argo City, thus enabling the city's residents to survive after the explosion of Krypton. The city drifted in space for about 15 years, the residents clinging to a precarious existence. During that time, the couple had a daughter, Kara, who grew to about the age of 10-12 when the city's existence was put in peril when its lead shielding was punctured by meteors, releasing deadly kryptonite radiation. At this point, Zor-El and Alura In-Ze placed Kara in a rocket ship and sent her to Earth, which Zor-El had observed using a powerful electronic telescope. Observing a super-powered man resembling his brother Jor-El, and wearing a uniform of Kryptonian styling, Zor-El (and Alura In-Ze) concluded the man was probably their nephew, Kal-El, sent through space by Jor-El when Krypton exploded and now grown to adulthood. In later Silver Age accounts, Zor-El and Alura In-Ze survive the death of Argo City when, shortly before the radiation reached lethal levels, Zor-El projects them both into the immaterial Survival Zone, a separate dimension resembling the Phantom Zone; later they are released from the Zone and go to live in the bottle city of Kandor preserved in microscopic size at Superman's Fortress. Under the Silver Age version of the continuity, Supergirl could regularly visit with both her adoptive parents, the Danverses (see below), and her birth parents, in Kandor.
+*'''[[Streaky the Supercat]]''' &mdash; Supergirl's pet cat. In Pre-''Crisis'' continuity he (male) was named after a jagged horizontal stripe of lighter fur on his side, and acquires super-powers after exposure to X-Kryptonite. In post-''Crisis'' continuity she (female) is a normal housecat Supergirl took in, whose name is taken from her inability to understand the concept of a litterbox.
+*'''[[Comet (DC Comics)|Comet the Super-Horse]]''' &mdash; Pre-''Crisis'' Supergirl's horse who is a centaur accidentally cursed by [[Circe (comics)|Circe]] into being trapped in the form of a horse. In post-''Crisis'' continuity, Comet is a superhero who is a romantic interest of Linda Danvers.
+*'''Fred and Edna Danvers''' &mdash; The foster parents of pre-''Crisis'' Supergirl. Shortly after they adopt Linda Lee from the Midvale orphanage, Superman reveals his cousin's identity to her foster parents, so they are aware of her Kryptonesque super-human powers. Later, they are also aware that Superman is secretly [[Clark Kent]].
+*'''Dick Malverne''' &mdash; An orphan at the Midvale Orphanage who is one of Pre-''Crisis'' Supergirl's romantic interests. While living at the Midvale Orphanage as Linda Lee, Supergirl meets and befriends fellow orphan, Dick Wilson. Dick suspects that Linda is secretly Supergirl and is constantly trying to prove Linda has super-human powers. Later, Dick is adopted by a couple named Malverne, and changes his name to Dick Malverne. In post-''Crisis'' continuity, Dick Malverne is a newly arrived resident to Leesburg who befriends Linda Danvers.
+*'''Jerro the Merboy''' &mdash; A merperson from Atlantis who is another of Pre-''Crisis'' Supergirl's romantic interests, much like the relationship that Superman had with [[Lori Lemaris]].
+
+==Other versions==
+{{main|Alternate versions of Supergirl}}
+[[File:Supergirls 2006.jpg|220px|right|thumb|"Supergirls", from Superman/Batman #24. [[Kara Zor-El]], [[Linda Danvers]], [[Cir-El]], and [[Power Girl]] ]]
+Several different versions of Supergirl have appeared in continuity.
+
+* '''[[Power Girl]]''' (Kara Zor-L) — An alternate version of Kara Zor-El from the parallel world, [[Earth-Two]], the cousin of [[Superman (Kal-L)]].
+* '''[[Laurel Gand]]''' (Andromeda) — Laurel Gand was the post-''Crisis''/Glorithverse replacement for the pre-''Crisis'' Supergirl in the [[Legion of Super-Heroes]], after the latter was removed from continuity following ''[[The Man of Steel (comic book)|The Man of Steel]]'' reboot of [[Superman]]. Originally, Laurel was simply known by her given name. A younger version of Laurel took the superhero code name "Andromeda" shortly before the [[Zero Hour (comics)|Zero Hour]] reboot of the [[Legion of Super-Heroes (1958 team)|Legion]]; [[Legion of Super-Heroes (1994 team)|post-reboot]], Laurel remained Andromeda.
+* '''[[Ariella Kent]]''' — Supergirl of the 853rd century, later revealed to be the daughter of post-''Crisis'' Linda Danvers and Silver Age style Superman from the Many Happy Returns story arc.
+
+==In other media==
+{{Main|Media adaptations of Supergirl}}
+
+A live action depiction of Supergirl first appears in the [[Supergirl (film)|eponymous 1984 film]] starring [[Helen Slater]] as Supergirl. The film is a spin-off from the [[Superman (film series)|''Superman'' film series]] starring [[Christopher Reeve]], to which it is connected by [[Marc McClure]]'s character [[Jimmy Olsen]].<ref>{{cite news|author=Pantozzi, Jill|title=Helen Slater is Still "Super"|publisher=[[Comic Book Resources]]|date=2009-12-07|url=http://www.comicbookresources.com/?page=article&id=23956|accessdate=2010-10-12}}</ref>  The film was poorly received, and it was not a box-office success. Its plot concerns Supergirl, Superman's cousin, leaving her isolated Kryptonian community of Argo City for Earth in an effort to retrieve the unique "Omegahedron." The item has fallen into the hands of evil witch Selena ([[Faye Dunaway]]), and havoc ensues.
+
+[[File:Supergirl Smallville.jpg|180px|thumb|left|[[Laura Vandervoort]] as Kara]] In the [[Smallville (season 7)|seventh season]] (2007–2008) of the [[CW Television Network|CW]]'s hit show ''[[Smallville]],'' Kara is introduced into the cast and is portrayed by [[Laura Vandervoort]]. ''Smallville'' closely depicts her as Clark's ([[Tom Welling]]) cousin whose spacecraft became trapped in stasis until the events of the [[Smallville (season 7)|sixth season]] finale. Much of season seven is concerned with Kara's attempts to adjust to life on Earth, especially after learning of Krypton's destruction. Her storyline sees her simultaneously become the object of Lex Luthor's ([[Michael Rosenbaum]]) obsessions and Jimmy Olsen's ([[Aaron Ashmore]]) affections, suffer a bout of amnesia, discover her father's ([[Christopher Heyerdahl]]) sinister motives and become a target of evil android [[Brainiac (comics)|Brainiac]] ([[James Marsters]]). The season finale sees Kara become trapped in the [[Phantom Zone]], and Vandervoort is no longer a regular in the show's [[Smallville (season 8)|eighth season]] (2008–2009). However, she made one guest appearance in the episode "Bloodline." In it, Clark and Lois are transported to the Phantom Zone and return with Kara. At the end of the episode she leaves Smallville to search for [[Kandor]].<ref>{{cite web|title=Laura Vandervoort blog|date=14 September 2008|url=http://www.lauravandervoort.net/blog.html|publisher=LauraVandervoort.net|accessdate=28 September 2008}}</ref> Laura Vandervoort returned for episode three of season ten, "Supergirl", which aired on October 8, 2010.Kara saves a group of people at an anti-hero rally led by Gordon Godfrey([[Glorious Godfrey]]) and saves the crowd from a falling billboard. In the episode, she is sent by Jor-El to become known with the people of Earth. She also tells Clark that Jor-El has dissowned him. Kara also tries to teach Clark how to fly while at the farm. At the end of the episode, we see Kara save Clark from being infected by [[Darkseid]]. She may or may not return later in the season.
+
+In animation, Supergirl is voiced by [[Nicholle Tom]] in ''[[Superman: The Animated Series]].'' She is depicted as Kara In-Ze, not Superman's cousin as in the comic book but rather a near-Kryptonian from Krypton's sister planet of Argos, whom Superman brings back to Earth and treats as a cousin. As continued in ''[[Justice League Unlimited]],'' she and Superman have grown very close, almost like siblings, but she departs his company when she
+discovers love for [[Brainiac 5]] of the [[Legion of Super-Heroes]] in the distant future.
+
+''[[Superman/Batman: Apocalypse]]'', released September 2010, largely parallels the origin-story arc launched in the [[Superman/Batman]] comic series in 2004, with some minor plot differences. Kara Zor-El, voiced by [[Summer Glau]], is explained unambiguously to be Kal-El's cousin from Krypton.
+
+==See also==
+* [[Alternate versions of Supergirl]]
+* [[Supergirl (Kara Zor-El)]]
+* [[Team Superman]] - The name for the unofficial team of Superman and his supporting characters.
+* [[Superman Family]] - A 1970s anthology comic of Superman's supporting cast which continued Supergirl's stories after her 1970s solo series was cancelled.
+* [[List of women warriors in folklore, literature, and popular culture]]
+
+==Notes and references==
+{{reflist}}
+
+==External links==
+* [http://www.supergirl.com The Official Supergirl Site]
+* [http://maidofmight.net Supergirl: Maid of Might]
+* [http://www.majorspoilers.com/archives/2947.htm A Hero History Of Supergirl]
+* Comics 101 - Cousin Kara From Krypton [http://www.moviepoopshoot.com/comics101/130.html PART I: Enter Supergirl], [http://moviepoopshoot.com/comics101/131.html PART II: Hello and Goodbye], [http://www.moviepoopshoot.com/comics101/132.html PART III: Hello, Goodbye and Hello Again]
+* [http://www.karalives.com/ KaraLives.com]
+* [http://www.supermanhomepage.com/comics/comics.php?topic=special-reports/supergirl1 Superman Homepage - Supergirl Special Report]
+* [http://superman.nu/wiki/index.php/Supergirl Supermanica: Supergirl] - Supermanica entry on the Pre-''Crisis'' Supergirl
+* {{DCDP|Supergirl (Kara Zor-El)|Supergirl}}
+* {{Dcauw|Supergirl}}
+
+{{Superman}}
+{{1978-1987 Superman film series}}
+{{Teen Titans}}
+
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics characters with accelerated healing]]
+
+[[bg:Супергърл]]
+[[ca:Supergirl]]
+[[de:Supergirl (Comic)]]
+[[es:Supergirl]]
+[[fr:Supergirl (comics)]]
+[[it:Supergirl]]
+[[he:סופרגירל]]
+[[hu:Supergirl]]
+[[nl:Supergirl]]
+[[ja:スーパーガール (スーパーマン)]]
+[[pl:Supergirl]]
+[[pt:Supergirl]]
+[[sc:Supergirl]]
+[[fi:Terästyttö]]
+[[sv:Stålflickan]]

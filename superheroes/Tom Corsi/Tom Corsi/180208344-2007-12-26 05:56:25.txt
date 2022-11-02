@@ -1,0 +1,40 @@
+{{Superherobox| 
+image= [[image:tomcorsi.jpg]]
+|caption= 
+|comic_color=background:#ff8080
+|character_name=Tom Corsi
+|publisher=[[Marvel Comics]] 
+|debut=''[[New Mutants]]'' vol. 1 #19 (1984) 
+|creators=[[Chris Claremont]]<br>[[Bill Sienkiewicz]]  
+|real_name=Thomas Corsi
+|alliance_color=background:#ffc0c0
+|status=Active
+|alliances=[[X-Mansion|Xavier Institute]]
+|previous_alliances=[[X-Men|Muir Island X-Men]]
+|relatives=
+|powers=Superhuman strength 
+|}} 
+
+'''Thomas "Tom" Corsi''' is a [[fictional character]] most often appearing in [[X-Men]] stories in the [[Marvel Comics]] [[Marvel Universe|universe]]. Tom first appeared in ''[[New Mutants]]'' vol. 1 #19 (1984) and was created by [[Chris Claremont]] and [[Bill Sienkiewicz]].
+
+==Fictional character biography==
+Tom Corsi was a member of the police department in Westchester County. The [[Demon Bear]] carried out an attack on [[Danielle Moonstar|Dani Moonstar]]. After her attack, the [[New Mutants]] brought Dani to the Mid-County Medical Center. At the hospital, Tom and [[Sharon Friedlander]], an ER nurse, were kidnapped and possessed by the Demon Bear. The Demon Bear attempted to transform Corsi and Friedlander into his demonic slaves. After the New Mutants defeated the bear, Tom and Sharon were returned to their natural human form, with a couple of minor physical changes. The two of them now physically resemble Native Americans, along with being enhanced to the level of perfect human specimens.
+
+Afterwards, Tom spent some time at the [[X-Mansion|Xavier's School for Gifted Youngsters]]. Eventually, Tom found himself involved in a battle with the [[Reavers (comics)|Reavers]] on [[Muir Island]]. Tom was also one of the Muir Islanders being manipulated by the [[Shadow King]], at the time.
+
+Being part of [[Professor X|Charles Xavier]]'s Mutant Underground, he was asked to work at Our Mother of the Sacred Heart, a school for the handicapped. The school eventually came under attack by a group of [[Acolytes (comics)|Acolytes]] looking for a potential mutant. In the process, Tom killed one of the [[Kleinstocks (comics)|Kleinstock Brothers]].
+
+Some time after, Tom was a gym teacher at the Massachusetts Academy, when the school was closed won, he moved back to the Xavier Institue, where, according to [[Elixir (comics)|Elixir]], Corsi is his PE teacher.  It is unknown if he still resides at the school after [[Decimation (comics)|Decimation]], though it's very likeley.
+
+==Powers and abilities==
+Due to the Demon Bear's enchantment of his body, Tom has moderately enhanced strength.
+
+{{DEFAULTSORT:Corsi, Tom}}
+
+[[Category:Fictional Americans]]
+[[Category:Fictional police officers]]
+[[Category:Fictional schoolteachers]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics supporting characters]]
+[[Category:Native American superheroes]]

@@ -1,0 +1,35 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Headsman
+|real_name=Cleavon Twain<ref>''Thunderbolts'' #134</ref>
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Untold Tales of Spider-Man]]'' #8 (Apr 1996)
+|creators=[[Kurt Busiek]] and [[Pat Olliffe]]
+|alliance_color=background:#c0c0ff
+|alliances=[[Thunderbolts (comics)|Thunderbolts]]
+|aliases=Green Goblin
+|powers=
+|}} 
+
+'''Headsman''' is a fictional character in the [[Marvel Universe]].
+
+==Fictional character biography==
+The Headsman is a criminal who first appeared to field test technology devised by [[Green Goblin|Norman Osborn]]. He was sent to help the [[Enforcers (comics)|Enforcers]] escape from [[Spider-Man]], which he accomplished by forcing Spider-Man to flee. [[Harry Osborn]] alerted Spider-Man to the criminals' meeting place, and the Headsman was forced to flee after the ensuing battle after Spider-Man damaged his power pack.<ref>''Untold Tales of Spider-Man'' #8</ref> After repairing his pack, Headsman teamed with Lucky Lobo to kill Spider-Man. Believing he had killed Spider-Man, he left the hero buried under a pile of rubble. Facing Spider-Man again, he was assaulted by the Green Goblin, who revealed himself to Headsman has his employer. The Green Goblin destroyed the Headsman's equipment and knocked him out, allowing Spider-Man to turn him over to the police.<ref>''Untold Tales of Spider-Man'' #18</ref>
+
+Years later, the Headsman joined Osborn's [[Thunderbolts (comics)|Thunderbolts]] black ops team. He helped discredit [[Doc Samson]] by attacking Air Force One disguised as the Green Goblin. Osborn saved the President in a staged attack by tossing the faux "Green Goblin" from the plane.<ref>''Thunderbolts'' #128-129</ref> The team's next objective was to kill [[Deadpool]], at which they failed miserably.<ref>''Deadpool'' Vol. 4 #8-9</ref><ref>''Thunderbolts'' #130-131</ref> His teammate the [[Ghost (Marvel Comics)|Ghost]] revealed to him that the gravity-grip he used on his first mission was faulty and that he had fixed it, suggesting that Osborn had meant for him to die in his fall from the plane.<ref>''Thunderbolts'' #132</ref> He battled new teammate [[Mister X (Marvel Comics)|Mister X]], but was spared from death by the [[Black Widow (Marvel Comics)|Black Widow]].<ref>''Thunderbolts'' #134</ref>
+
+==Powers and abilities==
+The Headsman wears a power pack which enhances his strength. He wields an axe and has a disc-shaped hovercraft for personal transportation.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.com/universe/Headsman Headsman] at Marvel.com
+* {{Marvunapp|http://www.marvunapp.com/Appendix/headsman.htm|Headsman}}
+
+
+[[Category:Marvel Comics supervillains]]

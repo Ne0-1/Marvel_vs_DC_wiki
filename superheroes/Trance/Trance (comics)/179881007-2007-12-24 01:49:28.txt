@@ -1,0 +1,47 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:Trance.jpg]]
+|caption=A close-up of Trance
+|comic_color=background:#ff8080
+|character_name=Trance 
+|real_name=Hope Abbott
+|species=[[Mutant (Marvel comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''New X-Men: Academy X'' #12
+|creators=[[Christina Weir]]<br>[[Nunzio DeFilippis]]
+|alliance_color=background:#ffc0c0
+|alliances =[[X-Mansion|Xavier Institute]]<br/>[[The 198]]<br/>[[Paragons (comics)|Paragons Training Squad]]
+|aliases= 
+|relatives= 
+|powers=Capable of projecting her consciousness into an energy state that can travel over far distances, avoid physical injury, and produce a disruptive energy surge 
+|}}
+
+'''Trance''' ('''Hope Abbott'''), a [[fictional character]] in the [[Marvel Universe]].  A [[Mutant (Marvel comics)|mutant]], Hope attends the [[X-Mansion|Xavier Institute]] and maintained her powers post-[[House of M]].
+
+==Fictional character biography==
+Prior to [[Decimation (comics)|M-Day]], Hope Abbott was a former member of the Paragons squad. When the events of [[Decimation (comics)|Decimation]] transpired, she was one of only 27 students to keep her powers. Greatly weakened by the losses, [[Emma Frost]] placed all of the remaining students into an all-out brawl to determine who would become the team of [[New X-Men|X-Men]] in-training.  Hope did not make the team yet, like all of the other students who retained their powers, still resides as the [[Xavier Institute for Higher Learning|Institute]].  
+
+In response to M-Day, the government began gathering all information they had on the remaining mutants. Additionally, the [[Sentinel Squad O*N*E]], a team of human-piloted Sentinels, was sent to "watch over" the X-Men and the handful of [[refugee]]s symbolically know as [[The 198]].  According to said files, Hope was willing to work with other mutants in training sessions but had not yet received any [[combat]] experience.
+
+Her interests include old [[film|films]] and classic music, and it appears she is rather culturally sophisticated. Her classmates voted her 'best-dressed' in the yearbook.
+
+===Quest for Magik===
+
+Trance is among the students who were captured by Belasco and transported to Limbo. As per X-23's request, Trance uses her astral projection to warn the students who weren't captured of Belasco's return.
+
+==Powers and abilities==
+
+Hope has an [[astral projection]] power, the scope of which has not yet been <!--  Commented out because image was deleted: [[Image:Tranceastral.jpg|thumb|left|250px|Hope in her astral form, art by [[Mark Brooks]]]] -->fully displayed. Her [[codename]] suggests that she goes into some kind of [[altered state of consciousness]] or somehow otherwise nullifies her body in order to release her astral self. Her astral form is capable of flight and can pass through magic barriers. This observation was further affirmed when she asked Emma Frost if she could leave her body outside the danger room during an exercise. It is unusual in that whilst most fiction depicts astral projection as harmless, Hope's power somehow causes energy damage, though the extent is not known.
+
+==Bibliography==
+*''New X-Men: Academy X'' #12, 14
+*''New X-Men: Academy X: Yearbook Special'' by Nunzio DeFilippis and Christina Weir
+*''X-Men: The 198 Files'' by Eric J. Moreels, Marc-Oliver Frisch, and Brian E. Wilkinson
+
+==External links==
+*[http://uncannyxmen.net/db/article/showquestion.asp?faq=4&fldAuto=229&page=7'''UncannyX-Men.net'''-Yearbook Entry on the Paragons]
+
+[[Category:Marvel Comics supporting characters]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]]
+
+[[pt:Astral]]

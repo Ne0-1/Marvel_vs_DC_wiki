@@ -1,0 +1,40 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Chriskl99dcu0.jpg|225px]]
+|caption=Chris KL-99, Halk & Jero</br> artist [[Murphy Anderson]]
+|character_name=Chris KL-99
+|publisher=[[DC Comics]]
+|debut=''[[Strange Adventures]]'' #1, (August 1950)
+|creators=[[Edmond Hamilton]] (writer)</br>Howard Sherman (artist)
+|real_name = Christopher Columbus Ambler 
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances = <!-- optional -->
+|aliases = <!-- optional: actual identities the character uses, not nicknames -->
+|supports=<!--optional-->
+|powers = Expert pilot and explorer.
+}}
+'''Chris KL-99''' is a 1950s [[science fiction]] [[comic book]] character whose adventures were published by [[DC Comics]]. He first appears in ''[[Strange Adventures]]'' #1 (August 1950), and was created by science fiction author [[Edmond Hamilton]] and artist Howard Sherman.<ref name="dc-ency">{{Citation  | last = Jimenez | first = Phil | author-link = Phil Jimenez | contribution = Chris KL-99 | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 81  | publisher = [[Dorling Kindersley]]  | place = New York  | year = 2008 | isbn = 0-7566-4119-5 | oclc = 213309017}}</ref>
+
+He was created/written by science fiction author Edmond Hamilton, and is loosely based on pulp-magazine character [[Captain Future]].
+
+==Fictional character biography==
+Chris was the first Earth child ever to be born in outer space.  His father named him after the explorer [[Christopher Columbus]].  His parents both went missing on a space mission, and as an adult Christopher matriculated at the "Space Academy" out of a desire that he might find out what happen to them.  Christopher was an outstanding student, and his 99th percentile test scores were appended to his name, rechristened "Chris KL-99".  He searched the galaxy in his starcraft, the ''Pioneer'', for traces of his lost parents.  On his travels, he acquired two constant companions, Halk, a [[Mars|Martian]], and Jero, a [[Venus]]ian.<ref name="dc-ency"/>
+
+==Brief bibliography==
+His first appearance came in 1950's ''[[Strange Adventures]]'' #1. He appeared in issues #1-3, 5, 7, 9, 11 and 15. His origin was given in issue #7. He was assisted by Halk a Martian giant, and Jero a diminutive Venusian.
+
+He has not appeared since that time, except for an appearance in ''[[Secret Origins]]'' #43, and brief cameos in ''[[DC Comics Presents]]'' #78 and ''[[Crisis on Infinite Earths]]'' #10.
+
+==External links==
+*[http://mikegrost.com/strngadv.htm#KL99 Strange Adventures: Chris KL-99 story summaries by author]
+*[http://www.toonopedia.com/chrskl99.htm Toonopedia article]
+*[http://www.angelfire.com/ar/hellUSA/Chriskl99.html Fan page]
+*[http://www.dcuguide.com/who.php?name=chriskl99 DCU Guide: Chris KL-99]
+*[http://www.fanzing.com/mag/fanzing17/feature2.shtml Fanzing: DC's Sci-Fi future]
+
+==References==
+{{reflist}}
+
+[[Category:DC Comics science fiction characters]]
+[[Category:DC Comics superheroes]]
+[[Category:1950 comics characters debuts]]

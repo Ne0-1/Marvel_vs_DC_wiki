@@ -1,0 +1,49 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+|image= [[File:Gregory Herd Shadrac.JPG|150px]]
+|caption= Gregory Herd as Shadrac. Art by [[John Romita, Jr.]]
+|comic_color=
+|character_name=Gregory Herd
+|real_name=Gregory Herd
+|publisher=[[Marvel Comics]]
+|debut=''[[The Spectacular Scarlet Spider]]'' #1<br>
+''[[The Amazing Spider-Man]]'' vol. 2 #2 (as Shadrac)
+|creators=[[Todd Dezago]], [[Sal Buscema]], [[Jimmy Palmiotti]]
+|alliance_color=
+|status=At large
+|alliances= 
+|previous_alliances= [[Norman Osborn]], Aura, Dolman, [[Spider-Man]]
+|aliases=Override, Shadrac
+|relatives= Annie (wife)
+|powers= '''As Override'''<br>Ability to remotely control any and all electronic devices <br>'''As Shadrac'''<br>Mystical burning fire
+|}}
+
+'''Dr. Gregory Herd''' is a [[fictional character]], a [[supervillain]] who appears in the comic books published by [[Marvel Comics]]. His [[first appearance]] was in ''[[The Spectacular Scarlet Spider]]'' #1. He originally operated as the villain '''Override''' and worked with his wife, who operated as Aura. He later became the fiery villain '''Shadrac''' in ''[[The Amazing Spider-Man]]'' vol. 2 #2.
+
+==Fictional character biography==
+As Override, Dr. Gregory Herd wore a cybernetically enhanced costume that allowed him to control, or "override", any other electronic device (including but by no means limited to Spider-Man's web-shooters). Together with his wife (who operated under the name Aura), he worked as a mercenary for hire. Unfortunately, during the "Spider-Hunt" storyline, in which a massive bounty was placed on Spider-Man's head, Herd's wife was gravely injured and left in medical care.<ref>''[[The Sensational Spider-Man]]'' vol. 1 #25</ref> To cover her steadily mounting medical expenses, Override then went to work as one of [[Green Goblin|Norman Osborn]]'s costumed employees.<ref>''The Spectacular Spider-Man'' #255</ref>
+
+[[Image:OverrideMarvel.jpg|left|Gregory Herd as Override and wife Annie as Aura.|thumb]]
+
+Desperate for some way to save his wife, Herd asks to join Osborn's "Gathering of Five" ceremony in order to gain one of five "gifts".<ref>''The Sensational Spider-Man'' vol. 1 #32</ref> However, Herd was the unfortunate recipient of death. In a turn of events, death gave Herd new powers while steadily destroying him over time. He fell under the thumb of a man named Dolman, who originally owned one of the five artifacts used in the Gathering ceremony; an artifact that was stolen by Osborn. Dolman intended to use Herd as a tool to regain what Osborn had stolen. Herd assaulted Osborn Industries but incidentally ran into [[Spider-Man]] (who at the time was portrayed by [[Spider-Woman (Mattie Franklin)|Mattie Franklin]] &mdash; ironically, another member of the Gathering ceremony).<ref>''The Amazing Spider-Man'' vol. 2 #2 (Feb. 1999)</ref>
+
+Herd dismissed Franklin with little effort but was later forced to battle the original Spider-Man and [[Iceman (comics)|Iceman]] while trying to tell officials the truth that Dolman was tampering with his mind. He managed to convince Iceman to freeze him entirely in an attempt to stay alive.<ref>''The Amazing Spider-Man'' vol. 2 #3 (Mar. 1999)</ref>
+
+Though temporarily frozen, Shadrac was still dying albeit in a less painful manner. Later pursuing Dolman, Shadrac, Iceman, and Spider-Man teamed up to capture him. After Dolman merged with the Spindle and gained powers, Shadrac managed to "override" him and possess his body in a last-ditch effort to stop Dolman and save himself.<ref>''Peter Parker: Spider-Man'' vol. 2 #3 (April 1999)</ref>
+
+===Civil War===
+Somehow separated from both Shadrac and Dolman, with Aura restored to human form, and back in his original costume, Gregory joined [[Hammerhead (comics)|Hammerhead]]'s "villain army" that was captured by [[Iron Man]] and [[S.H.I.E.L.D.]] agents.<ref>''Civil War: War Crimes'' (Feb. 2007)</ref>
+
+==Powers and abilities==
+<!--===As Override===-->
+===As Shadrac===
+Herd's entire body was constantly consumed in intense flames which he could manipulate in the form of blasts emitted from his hands or an aura he could expand at will. It is unknown what high temperatures he could reach, but Shadrac was able to melt metal at the touch of his hands. Originally, he had a mechanical apparatus in his costume that allowed him to override and control electrical and mechanical devices. Due to the Gathering Of The Five ceremony, this has been absorbed into his physiology and can now override emotions as well, but his main power is the mystical flames which are killing him.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{comicbookdb|type=character|id=18939|title="Override (Marvel)"}}
+
+[[Category:Marvel Comics supervillains]]
+
+[[fr:Shadrac]]

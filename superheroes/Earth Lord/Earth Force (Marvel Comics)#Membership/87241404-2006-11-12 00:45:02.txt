@@ -1,0 +1,65 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Earth Lord
+|real_name=Kyle Brock
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Thor (Marvel Comics)|Thor]]'' #395 (Sep 1988)
+|creators=[[Tom DeFalco]] and [[Ron Frenz]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=Earth Force
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Skyhawk
+|real_name=Winston Manchester
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Thor (Marvel Comics)|Thor]]'' #395 (Sep 1988)
+|creators=[[Tom DeFalco]] and [[Ron Frenz]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=Earth Force
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Wind Warrior
+|real_name=Pamela Shaw
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Thor (Marvel Comics)|Thor]]'' #395 (Sep 1988)
+|creators=[[Tom DeFalco]] and [[Ron Frenz]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=Earth Force
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+{{for|the fictional power source|Dengeki Sentai Changeman}}
+
+'''Earth Force''' was a fictional [[superhuman]] team within the [[Marvel Comics]] [[Marvel Universe|universe]].  It consisted of three humans granted elemental powers by [[Seth (comics)|Seth]].
+
+==External link==
+*[http://www.marveldirectory.com/teams/earthforce.htm Earth Force at MarvelDirectory.com]
+
+{{Marvel-Comics-stub}}

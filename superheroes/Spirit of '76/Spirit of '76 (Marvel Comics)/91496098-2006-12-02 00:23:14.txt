@@ -1,0 +1,23 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[image:spiritof76-comics.jpg]]
+|caption=Art by [[Jack Kirby]].
+|character_name=Spirit of '76
+|alter_ego=William Naslund
+|publisher=[[Marvel Comics]]
+|debut=''Captain America Comics'' #49 (1945)
+|creators=[[Vince Alascia]]
+|alliances=[[Crusaders (comics)|Crusaders]]<br> [[All-Winners Squad]]
+|aliases=[[Captain America]]
+|supports=
+|powers=All-round athlete and superb hand-to-hand combatant
+|}}
+
+The '''Spirit of '76''', real name '''William Naslund''' is a [[fictional character]] appearing in the [[comic books]] published by [[Marvel Comics]].
+
+He first appeared in ''Captain America Comics'' # 49 (1945). When the original [[Captain America]], Steve Rogers, went [[missing in action]] in 1945, Naslund briefly assumed the role in his stead. By 1947, he was replaced as Captain America by [[Jeffrey Mace]].
+
+[[Category:Marvel Golden Age characters]]
+[[Category:Golden Age superheroes]]
+[[Category:1945 introductions]]
+[[Category: Captain Americas]]
+{{Marvel-Comics-stub}}

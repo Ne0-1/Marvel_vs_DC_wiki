@@ -1,0 +1,31 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Gnort.jpg|thumb]]
+|comic_color=background:#8080ff
+|character_name=G'nort
+|real_name=G'nort Esplanade G'neeshmacher
+|publisher=[[DC Comics]]
+|debut=[[Justice League International]]'' Vol. 1 #10 ([[1988]])
+|creators=[[Keith Giffen]] and [[J. M. DeMatteis]]
+|alliance_color=background:#ffc0c0 
+|status=Active
+|alliances=[[Green Lantern Corps]], [[Darkstar (DC Comics)|Darkstar]]
+|previous_alliances=[[Justice League Antarctica]]
+|aliases=
+|relatives=G'nelson (father), G'nancy (mother), G'newman G'noggs (uncle) 
+|powers=Power Ring
+|}}
+
+'''G'nort''' is a [[DC Comics]] [[superhero]], created by [[Keith Giffen]] and [[J. M. DeMatteis]] during their comedy [[Justice League]] period.
+
+G'nort was a member of the [[Green Lantern Corps]] and later a [[Darkstars |Darkstar]]. He resembles a [[humanoid]] [[dog]] and is throughly incompetent and generally disliked by other heroes; in fact, he is usually portrayed as being a pathetic loser and used as [[comic relief]]. He was a member of the [[Justice League Antarctica]].  Despite his comedic appearance, he has become somewhat of a cult favorite among comic book readers.
+
+==External links==
+* [http://glcorps.dcuguide.com/book2.php The Book of OA]
+* [http://members.tripod.com/~Lantern_light/ The Green Lantern Shrine]
+
+{{DC-Comics-stub}}
+
+[[Category:Justice League members]]
+[[Category:Green Lantern Corps members]]
+[[Category:Darkstars members]]
+[[Category:DC Comics aliens]]

@@ -1,0 +1,93 @@
+{{Infobox comics set index <!--Wikipedia:WikiProject Comics-->
+|code_name  = Green Goblin
+|image      =
+|imagesize  = <!-- default 250 -->
+|caption    = Norman Osborn as the Green Goblin. Art by Luke Ross
+|publisher  = [[Marvel Comics]]
+|debut      = ''[[The Amazing Spider-Man]]'' #14
+|debutmo    = July
+|debutyr    = 1964 <!--Norman-->
+<!--1974 Harry, well after the character's 1st appearance-->
+|debutyr1   = 1977 <!--Hamilton-->
+<!--1983 Hobgoblin/Kingsley. Character appeared w/o costume well prior and not a "Green Goblin"-->
+<!--1987 Demogoblin/Macendale. Character appeared well prior and not a "Green Goblin"-->
+|debutyr2   = 1995 <!--Urich-->
+|debutyr3   = 1997 <!--van Adder-->
+|debutyr4   = 1997 <!--Lowell-->
+|debutyr5   = 2004 <!--Stacy, "Gray Goblin"-->
+<!--2008 Menace/Hollister. Character appeared w/o costume prior and not a "Green Goblin"-->
+|creators   = [[Stan Lee]]<br>[[Steve Ditko]]
+|characters = [[Green Goblin|Norman Osborn]]<br />[[#Nels Van Adder|Nels Van Adder]]<br />[[#David Lowell|David Lowell]]<br />[[Harry Osborn]]<br />[[#Bart Hamilton|Bart Hamilton]]<br />[[Hobgoblin (comics)|Hobgoblin]]<br />[[Demogoblin]]<br />[[Phil Urich]]<br />[[Gabriel and Sarah Stacy|Gabriel Stacy]]<br />[[Menace (Marvel Comics)|Menace]]
+|seealso    =
+|cat        = super
+|subcat     = Marvel Comics
+|hero       = y
+|villain    = y
+|sortkey    = Green Goblin
+}}
+The '''Green Goblin''' is the alias of a number of [[Marvel Comics]] supervillains, the most high-profile of which is '''[[Norman Osborn]]'''.
+
+==Characters==
+===Norman Osborn===
+{{main|Green Goblin}}
+Norman Osborn is the main character connected with the alias, who developed the equipment used by the other Goblins.
+
+===Nels Van Adder===
+It was revealed that soon after Norman had Stromm arrested for embezzlement, he had found only a portion of the notes detailing his partner's serum. Norman tests the incomplete version of the serum on an Oscorp employee named Nels Van Adder, driving Van Adder slowly insane and beginning his transformation into a red, demon-like being known as the "'''Proto-Goblin'''". Killing several people and blaming Norman for what has happened to him, Adder proceeds to harass and later attempts to kill him before being knocked out a window in Oscorp by Arthur and George Stacy and fleeing into the wild. In order to escape conviction for what he had done to Van Adder, Norman convinces the police that Van Adder had been experimenting on himself, and that he had secretly been trying to help him. Van Adder's current fate remains unrevealed.<ref>''Peter Parker: Spider-Man'' #-1</ref>
+
+As well as endowing Adder with super strength and agility, the Goblin Serum also gave him large claws, talons, fangs, glowing green eyes, and near impenetrable red skin (capable of withstanding several close range bullet shots).
+
+The Proto-Goblin appears as a boss in ''[[Spider-Man: Battle for New York]]''.
+
+===David Lowell===
+Another Oscorp employee, '''Doctor David Patrick Lowell''' worked in the Osborn Chemical Company division, where his main project was a type of "super fertilizer" that could increase the solar absorption and growth rate of flora. After being passed over for a promotion, an irritated Lowell showed Osborn his work, and Osborn, noticing Lowell's chemical was uncannily similar to the Goblin Formula, immediately fired him and ordered all his work terminated. As his life's work was being destroyed by Oscorp employees, an enraged Lowell tried to fight them off, only to become drenched in his formula and be knocked into a wall of solar lamps. The combination of the Goblin Serum-esque chemical and the electricity caused Lowell to mutate into a light-based being dubbed "'''Sundown'''". After going on a rampage through New York, Sundown was ultimately defeated and imprisoned by Spider-Man and several other heroes.<ref>''Untold Tales of Spider-Man'' 1997 Annual</ref>
+
+After being incarcerated for ten years, Sundown was released from prison, but was blackmailed back into supervillainy shortly afterward by mob boss Lucky Lobo. Eventually turning against Lobo, Sundown, with Spider-Man's help, was able to expose his crimes. Afterward, Sundown declined Spider-Man's offer of becoming a superhero, in favor of a normal life.<ref>''The Amazing Spider-Man'' 1997 Annual</ref>
+
+===Harry Osborn===
+{{main|Harry Osborn}}
+Harry, Norman's son, becomes the second Green Goblin.<ref>''Amazing Spider-Man'' #136</ref> After being defeated and placed under the care of Dr. Bart Hamilton, Harry while under hypnosis reveals many Goblin secrets and Hamilton decides to become the third Green Goblin. Harry recovers, and fights Hamilton, until an explosion renders Harry [[amnesia]]c of his time as the Goblin and kills Hamilton.<ref>''Amazing Spider-Man'' #180</ref> Years later Harry's memories return and he uses a new stronger Goblin serum to augment his power, but dies from it. Harry would later return thanks to the machinations of [[Mephisto (comics)|Mephisto]] in "[[Spider-Man: One More Day|One More Day]]".
+
+===Bart Hamilton===
+'''Dr. Barton "Bart" Hamilton''' was a psychologist, born in [[Scarsdale, New York]]. Before his death, Harry is put under the medical care of Dr. Hamilton, who manages to make Harry bury his vendetta and identity as the Goblin in his [[subconscious]] via [[hypnosis]].<ref>''Amazing Spider-Man'' #174</ref> Unfortunately, Dr. Hamilton wants to use Harry's secrets to become the third Green Goblin.<ref>''Amazing Spider-Man'' #176</ref> However, his power was no match for his enthusiasm&nbsp;— he never even bothered to use the strength-enhancing formulas on himself, seemingly believing that just ''being'' the Green Goblin would enable him to defeat Spider-Man-, and, despite an elaborate plot to kill [[Silvermane (comics)|Silvermane]], the underpowered amateur is confronted by Harry Osborn who has resumed the Goblin identity to stop him. They battle and Hamilton is accidentally killed by a bomb with which he meant to kill Spider-Man, and Harry becomes amnesiac.<ref>''Amazing Spider-Man'' #180</ref> Years later there was speculation that Hamilton was the Hobgoblin but this is disproved.<ref>''Hobgoblin Lives'' #1–3</ref>
+
+A Green Goblin that was presumably Hamilton appeared as a member of the second incarnation of the [[Legion of the Unliving]], created by the [[Grandmaster (Marvel Comics)|Grandmaster]]. After being pitted against the Avengers, the group and their master were vanquished by [[Death (Marvel Comics)|Death]].<ref>''Avengers Annual'' #16</ref>
+
+===Hobgoblin===
+{{main|Hobgoblin (comics)}}
+Roderick Kingsley, a [[fashion design]]er, finds information that leads him to one of Norman's many abandoned Goblin caches, full of equipment that he alters and takes up the mantle of the Hobgoblin, looking to become an underworld leader. He resorts to [[brainwashing]] and framing [[Ned Leeds]], a friend of Spider-Man's. He goes into hiding, and another Hobgoblin comes forth. His name is [[Jason Macendale]] and is killed by Kingsley years later. Macendale appears as the Hobgoblin in the [[Spider-Man (1994 TV Series)|Spider-Man: The Animated Series]] and is voiced by [[Mark Hamill]].
+
+===Demogoblin===
+{{main|Demogoblin}}
+Jason Macendale assumed the role of the Hobgoblin, and when he became trapped in Limbo, it was there that his essence became infused with an unnamed demon. After a battle with [[Ghost Rider (Danny Ketch)|Daniel Ketch]] and [[Ghost Rider (Johnny Blaze)|Johnny Blaze]], Jason realized that he needed to expel the demon from within him. Doing so let loose the being known as Demogoblin who would seek revenge against his former host, Macendale. He later joined forces with [[Carnage (comics)|Carnage]] and other villains in an effort to take over Manhattan, which ended in failure. Eventually, Demogoblin meets his death saving a kid in a church. He is later seen in the nightmares and hallucinations of [[Phil Urich]].
+
+===Phil Urich===
+{{main|Phil Urich}}
+
+Harry's insanity relapses and he becomes the Green Goblin again on numerous occasions, until he dies from the side effects of a modified Goblin serum. His equipment and the identity of the Green Goblin are then briefly used by '''Philip Benjamin "Phil" Urich''' (nephew of [[Ben Urich]] of the [[Daily Bugle]]), who tries to gain a reputation as a [[superhero]], although he is sometimes seen as being as maniacal as his villainous predecessors. When his equipment is damaged during a battle against a [[Sentinel (comics)|Sentinel]] in the [[Onslaught (comics)|Onslaught]] crossover, Phil is unable to repair or replace it and the fourth Green Goblin thereafter retires. He later forms the team [[Loners|Excelsior]].  Currently Phil has become the new Hobgoblin. In the [[Marvel Comics 2|MC2]] alternate future, he resumes his career as the [[Alternative versions of the Green Goblin#Phil Urich|Green Goblin]].
+
+===Gabriel Stacy===
+{{main|Gabriel and Sarah Stacy}}
+
+Gabriel, the son of Norman and Gwen Stacy, became the sixth Green Goblin known as the '''Grey Goblin'''.<ref>''Amazing Spider-Man'' #514</ref> Born after Osborn's enhancements, Gabriel already had improved physical abilities and aged rapidly. After taking a dose of Goblin serum, Gabriel becomes a physical powerhouse, but goes completely insane, thus becoming the Grey Goblin. After crash landing in a battle with Spider-Man and his twin sister, Gabriel suffers severe amnesia. His sister, Sarah, takes Gabriel to Paris, but he soon escapes.
+
+===Menace===
+{{main|Menace (Marvel Comics)}}
+Menace is Harry Osborn's ex-girlfriend Lilly Hollister. She has used the Goblin technology since being exposed to a new version of the Goblin serum that grants the ability to physically transform at will. Menace is now in a relationship with Norman Osborn and is pregnant with his child.
+
+==Groups==
+===Order of the Goblin===
+An offshoot of the Scriers cult founded by Norman, consisting of only his most loyal followers.
+==="Goblin Gangs"===
+Following Norman Osborn's [[Dark Reign (comics)|rise]] and [[Siege (comics)|fall]] from power, a number of "Goblin Gangs" sprang up across America. Composed mostly of [[White supremacy|white supremacists]] who agreed with his plans to remove the [[Asgardians (Marvel Comics)|Asgardians]] from the country, they wear purple clothes, green face makeup and have goblin-based tattoos.<ref>''Amazing Spider-Man'' #649</ref> [[Vin Gonzales]] was revealed to have received one of these tattoos while in prison when he passed a message from [[Green Goblin|Norman]] to [[Harry Osborn|Harry]] about Stanley, Harry's newborn son.<ref>''Amazing Spider-Man'' #647</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.marvel.com/universe/Green_Goblin_(disambiguation) Green Goblin (disambiguation)] at the Marvel Universe
+* [[MarvelDatabase:Green Goblin|Green Goblin]] at the Marvel Database Project
+
+{{SIA|comics}}
+
+[[ru:Гоблины (Marvel Comics)]]

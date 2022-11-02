@@ -1,0 +1,66 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[File:XMN Shinobi.jpg]]
+|caption='''Shinobi Shaw''' in X-Men v2 #29 <br>Andy Kubert and Matt Ryan, Art
+|comic_color=background:#ff8088
+|character_name=Shinobi Shaw
+|real_name=Shinobi Shaw
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Factor (comics)|X-Factor]]'' #67 (June 1991)
+|creators=Chris Claremont
+|alliance_color=background:#c0c0ff
+|alliances=Shaw Industries<br/>[[Hellfire Club (comics)|Hellfire Club]]<br/>[[Upstarts (comics)|Upstarts]]
+|aliases= Black King
+|powers=Density control
+|}}
+
+'''Shinobi Shaw''', also known as a '''Black King''' of the [[Hellfire Club (comics)|Hellfire Club]], is a [[fictional character]] in the [[Marvel Universe|Universe]] of [[Marvel Comics]].  He is a [[comic book]] [[supervillain]], a foe of the [[X-Men]] and their affiliated teams. His first appearance was in ''[[X-Factor (comics)|X-Factor]]'' #67 (June 1991).
+
+==Fictional character biography==
+Shinobi is thought to be the son of [[Sebastian Shaw (comics)|Sebastian Shaw]], the leader of the [[Hellfire Club (comics)|Hellfire Club]]. Shinobi himself has been somewhat uncertain about this as his powers are more like those of the former Black Bishop of the Club, [[Harry Leland]].{{issue|date=December 2012}}
+
+Shaw was a member of the [[Upstarts (comics)|Upstarts]], a group made up of [[Siena Blaze]], [[Graydon Creed]], [[Fabian Cortez]], [[Trevor Fitzroy]] and probationary members Andreas and Andrea Strucker (of [[Fenris (comics)|Fenris]]). They were manipulated by the Gamemaster and originally [[Selene (comics)|Selene]], but the group quickly turned against her.  The group participated in an elaborate game, wherein they would hunt and kill assigned targets for points. During one of these games, the Upstarts targeted the surviving members of the [[New Mutants]] and the [[Hellions]], but were defeated by the combined forces of [[X-Force]] and the [[New Warriors]].{{Issue|date=January 2010}}
+
+Shaw once attempted to kill his father, and initially believed himself successful.{{issue|date=December 2012}} Shaw was briefly able to take control of the Hellfire Club, assuming the mantle of Black King.{{issue|date=December 2012}} Enjoying the luxury of the position, he was attended by many beautiful scantily clad female and male servants. Eager to return the Inner Circle to its former glory, Shaw approached [[Psylocke|Elizabeth Braddock]] and [[Archangel (comics)|Warren Worthington]], attempting to convince them to become a part of the Inner Circle. Both X-Men refused, however.{{issue|date=December 2012}} He also tried to enlist [[Storm (Marvel Comics)|Storm]] as a member, but she also refused.<ref>''X-Men Annual'' #3, 1994</ref>
+
+Later, Sebastian Shaw resurfaced alive and well and was able to take control of the Hellfire Club from his son. Shinobi then worked with [[Spiral (comics)|Spiral]] and [[Mindmeld]] as they experimented on [[Karma (comics)|Karma]]'s siblings. However, his personal assassin [[Clear-Cut (comics)|Clear-Cut]] betrayed Shinobi and aided [[X-Force]] in defeating him.{{Issue|date=January 2010}}
+
+Shinobi was confirmed as being one of a handful of mutants who retained their powers following [[Decimation (comics)|M-Day]].<ref>''X-Men: 198 Files''</ref> Sometime after M-Day, Shinobi was killed by his father, and then resurrected by Selene. He is then sent with Harry Leland to kill his father and Donald Pierce.<ref>''X-Necrosha'' #1</ref>
+His ultimate fate is uncertain as it is unknown if he was among the mutants teleported to Genosha by Blink to serve as a sacrifice to Selene or if he was among the mutants that managed to escape Utopia.
+
+==Powers and abilities==
+Shinobi is a [[Mutant (Marvel Comics)|mutant]] who can alter his body's [[density]] from diamond-hard to intangible. He usually uses it as a means of escape, but he can also use the intangibility to reach into an opponent's heart and induce a heart attack (this has no visible adverse effects on Shaw himself.) Although he does not demonstrate it well, Shinobi Shaw considers himself a criminal mastermind of the highest calibre.
+
+==Other Versions==
+===Ultimate Marvel===
+
+Shinobi Shaw appeared in the [[Ultimate X-Men]] title, as [[Emma Frost]]'s boyfriend. He is a member of the [[Academy of Tomorrow#Ultimate X-Men|Academy of Tomorrow]], in addition to the Hellfire Club. One of his operatives, Gerald Levine, is currently spying on the Xavier Institute and [[Alternative versions of Jean Grey#Ultimate Jean Grey.2FMarvel Girl|Marvel Girl]], under his orders. When visiting the school Shinobi and Gerald attacked Jean in an attempt to capture the [[Phoenix God]]. This failed, as the Phoenix fought back, and both Shinobi & Gerald were taken into police custody. Later, it is revealed that Emma's also a member of the Hellfire Club in secret.<ref>Ultimate X-Men #81 </ref>
+
+Later in the ''[[Ultimate Comics: Ultimates]]'', [[Ultimate Iron Man (comics)|Tony Stark]] and [[Edwin Jarvis|Jarvis]] are seen leaving a party for Shaw in [[Tokyo]] to respond to an emergency by [[General Nick Fury|Nick Fury]].<ref>''Ultimate Comics: Ultimates'' #1</ref>
+
+==Bibliography==
+* ''X-Force'' v1, <!--W:MOS Volumes, not "series" --> #32-33 by Fabian Nicieza
+
+* ''New Warriors'' v1, <!--W:MOS Volumes, not "series" --> #45-46 by Fabian Nicieza
+
+* ''X-Men'' vol. 2, <!--W:MOS Volumes, not "series" --> #29 by Fabian Nicieza
+
+== Footnotes ==
+{{reflist}}
+
+== External links ==
+* {{Marvelwiki|Shaw,_Shinobi|Shinobi Shaw}}
+* {{Comicbookdb|character|4751|Shinobi Shaw}}
+* [http://www.marveldirectory.com/individuals/s/shawshinobi.htm Marvel Directory: Shinobi Shaw]
+* [http://uncannyxmen.net/characters/shaw-shinobi UncannyXmen.net Character Profile on Shinobi Shaw]
+
+{{Ultimate X-Men}}
+
+{{DEFAULTSORT:Shaw, Shinobi}}
+[[Category:Comics characters introduced in 1991]]
+[[Category:Fictional bisexual males]]
+[[Category:Fictional businesspeople]]
+[[Category:Fictional characters who can turn intangible]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Characters created by Chris Claremont]]

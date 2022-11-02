@@ -1,0 +1,33 @@
+{{Superherobox| <!--This box is part of Wikipedia:WikiProject Comics. See that article for details-->
+image=[[Image:BombshellTT39.jpg|150px]]
+|caption=Bombshell from ''Teen Titans'' vol. 3, #39 
+|comic_color=background:#8080ff <!--Do not change. See Wikipedia:WikiProject Comics-->
+|character_name=Bombshell
+|real_name=Amy Allen
+|publisher=[[DC Comics]]
+|debut= (cameo) ''Teen Titans'' vol. 3, #38; (actual appearance) ''Teen Titans'' vol. 3, #39 
+|creators=[[Geoff Johns]]<br>[[Tony Daniel]]
+|alliance_color=background:#ffc0c0 <!--Do not change. See Wikipedia:WikiProject Comics-->
+|alliances=[[Titans (comics)|Teen Titans]]
+|aliases=
+|powers=Flight, near invulnerability, energy blasts
+ |}} 
+
+'''Bombshell''' is a fictional [[supervillain]] in the {{DC Universe}} who was first mentioned in ''[[Titans (comics)|Teen Titans]]'' vol. 3, #38.  She was a member of the Teen Titans during the [[Major_events_of_the_DC_Universe_lost_year|one year gap]] after [[Infinite Crisis]]. She has similar powers to [[Captain Atom]] as she underwent the same alien metal skin experiment that Nathaniel Adam did.
+
+{{spoiler}}
+In ''Teen Titans'' vol. 3, #40, Bombshell was revealed to be a traitor to the Titans, as she threatened to kill [[Raven (comics)|Raven]], and attacked several members of the team to get a disc that contained the essence of the deceased Titan [[Jericho (comics)|Jericho]], but was stopped by [[Rose Wilson|Ravager]]. At the end of #41, the Titans beat her by shattering her metal skin. Since it was this metal coating that gave her the powers she may no longer have her abilities.
+
+== Powers ==
+Bombshell has '''''Dilustel''''' (quantum metal) skin like [[Major Force]] and Captain Atom, which was cut from the body of an alien lifeform known as the ''Silver Shield'' which was captured by [[List of government agencies in comics#Project Atom|Project Atom]]. This skin makes her nearly invulnerable.  She can fly and fire blasts of energy.  Bombshell can generate energy waves capable of scrambling the minds of others, and can control electromagnetically powered technology, like the electronic parts of [[Cyborg (comics)|Cyborg]]. 
+
+Bombshell's origin is different from Captain Atom's and Major Force's in that she was not exposed to a [[Effects of nuclear explosions|nuclear explosion]] in the course of acquiring her Dilustel coating; she was merely covered with the alien material. Thus, there is no risk of a radiation hazard if her quantum metal skin is breached: in fact, damaging the metal coating beyond a certain point seems to negate her powers as it is not bonded to her body.
+
+== External Links ==
+* [http://titanstower.com/source/whoswho/OYG/bombshell.html Bombshell profile at Titans Tower]
+
+{{DC-Comics-stub}}
+
+[[Category:DC Comics supervillains]]
+[[Category:Fictional traitors]]
+[[Category:Spin-off comic book superheroes]]

@@ -1,0 +1,25 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Human Cannonball
+|real_name=Jack Pulver
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Hulk (comics)|Incredible Hulk]]'' #3 (Sep 1962)
+|creators=[[Stan Lee]] and [[Steve Ditko]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Circus of Crime]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+The '''Human Cannonball''' is a fictional character in the [[Marvel Universe]].
+
+==History==
+Jack Pulver was born in [[Burbank, California]]. He is a member of the criminal organization, the [[Circus of Crime]], and works as a human cannonball and acrobat. He wears a costume and helmet that protects him from injury.
+
+{{Marvel-villain-stub}}

@@ -1,0 +1,23 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:DevilDinosaurandMoonBoy.jpg]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Moon Boy
+|real_name=Not applicable
+|publisher=[[Marvel Comics]]
+|debut=[[Devil Dinosaur vol. 1 #1 (April 1978)]]
+|creators=[[Jack Kirby]]
+|alliance_color=background:#cccccc
+|status=
+|alliances=
+|previous_alliances=[[Fallen Angels (comics)|Fallen Angels]]
+|aliases=
+|relatives=
+|powers=
+|}}
+
+'''Moon Boy''' is a fictional character in the [[Marvel Comics Universe]] who is the constant companion of [[Devil Dinosaur]].  
+
+[[Category:X-Men supporting characters]]
+
+{{Marvel-Comics-stub}}

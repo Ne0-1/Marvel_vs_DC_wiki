@@ -1,0 +1,41 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Ultimo
+|real_name=Ultimo
+|publisher=[[Marvel Comics]]
+|debut=''Tales of Suspense'' (vol. 1) #76 (April, 1966)
+|creators=[[Stan Lee]]
+|alliance_color=background:#c0c0ff
+|status=Deceased
+|alliances=None
+|previous_alliances=[[Mandarin (comics)|The Mandarin]]
+|aliases=Doomsday Machine
+|relatives=N/A
+|powers=<br>
+*Superhuman strength, durability, speed, agility, reflexes and  stamina<br>
+*Eyebeams<br>
+*Absorb energy to grow in size
+|}}
+
+'''Ultimo''' is a fictional giant [[robot]] in the [[Marvel Comics]] [[Marvel Universe|universe]].  It was once controlled by [[Mandarin (comics)|the Mandarin]] and used against [[Iron Man]], but has fought Iron Man several times even when not under the Mandarin's control.  It was last seen being dismantled by [[S.H.I.E.L.D.]].
+
+==Ultimo Versus the Iron Legion==
+In Iron Man vol1. #300, the 64 pages edition, Ultimo fights the Iron Legion. The Iron Legion is lead by Jim Rhodes, in the [[War Machine]] Armor, as he is accompanied by Happy Hogan, Eddie March, [[Bethany Cabe]], Mike O'Brien and Carl Walker. With the exception of Bethany, everyone has previously worn an Iron Man suit. However, Rhodes says that from "Personal experience" that Bethany knows how to handle herself. Since Stark is down, Rhodes calls them in, and has Zimmer take all the old suits out of storage, (with the exception of the gold variant of the original) and has him get all the suits up to somewhat functional standards. However, Zimmer says that they will not function anywhere near capacity, since Stark stored them with the idea that they would never be used again, and for sentimental reasons. Eddie is in the original suit, and is the first to get hit by Ultimo. His attempted rescue by Carl, in the Invincible Iron Man suit, leads to Carl getting shot, and the suit begins to melt, forcing him to have to eject. While Beth and Happy aid Carl and Eddie, Rhodes, together with Mike in the Silver Centurian suit attack Ultimo in order to provide a distraction. At this point, Rhodes has decided that this wasn't what he had in mind for this battle. He decides on a new plan. Happy is to get Carl and Eddie to the hospital, while Bethany and Mike head to Futura to start evacuations. Bethany objects, and convinces Rhodes to allow her to buy time against Ultimo with him. At this point, Tony Stark has come out of his coma and has donned the new Modular Iron Man suit. With a Full-Spectrum Scanalyzer and Railgun Launcher, he heads out to aid in the fight against Ultimo. Stark successfully takes out Ultimo singlehandedly, and Ultimo is deactivated. His scanner indicates that Ultimo is several thousand years old, and intends to have it hauled off for study. 
+
+==Appearances in other media==
+===Television===
+[[Image:UltimoIronManEp19.jpg|thumb|right|Animated Ultimo on "Iron Man, On the Inside" episode of [[Iron Man (TV series)|Iron Man (1994 TV Series)]]]]
+*In the 1994 ''[[Iron Man (TV series)|Iron Man]]'' [[animated series]], Ultimo was seen in the 2nd episode, ''Rejoice! I Am Ultimo, Thy Deliverer''. Later he appears in 19th episode called "Iron Man, On the Inside".
+
+===Video games===
+*Ultimo appears as several lines of the Mandarin's defenses in ''[[Marvel: Ultimate Alliance]]''.
+
+==External link==
+*[http://www.marvunapp.com/Appendix/ultimoim.htm Ultimo at marvunapp.com]
+
+[[Category:Iron Man villains]]
+[[Category:Fictional robots]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Fictional characters who can move at superhuman speeds]]

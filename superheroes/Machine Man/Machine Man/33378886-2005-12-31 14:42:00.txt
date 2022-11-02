@@ -1,0 +1,76 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=[[Image:Machine Man 01-00.jpg|250px]]
+|caption=Cover to Machine Man #1 (1978).  Art by [[Jack Kirby]]
+|comic_color=background:#ff8080 
+|character_name=Machine Man
+|real_name=X-51
+|publisher=[[Marvel Comics]] 
+|debut=''2001: A Space Odyssey'' #6 (July 1977)
+|creators=[[Jack Kirby]] 
+|alliance_color=background:#ffc0c0 
+|status=Active 
+|alliances=[[Avengers (comics)|Avengers]]<br>[[West Coast Avengers]] 
+|previous_alliances=None 
+|aliases=Aaron Stack
+|relatives=Doctor Abel Stack (creator,father)
+|powers=Telescoping arms & legs<br>Flight<br>Various installed weapons
+|}} 
+
+'''Machine Man''' ('''X-51''') is a [[fictional character]] created by writer/artist [[Jack Kirby]] for [[Marvel Comics]]. The character, an [[android]], was created in ''[[2001: A Space Odyssey (comics)|2001: A Space Odyssey]]'' #8 (July 1977), a comic written and drawn by Kirby featuring concepts based on the eponymous [[Stanley Kubrick]] film and [[Arthur C. Clarke]] novel.  Shortly thereafter, Machine Man spun off into his own Kirby-created series.
+
+==Publication history==
+===Volume One===
+Machine originaly appeared in the pages of ''[[2001: A Space Odyssey (comics)|2001: A Space Odyssey]]'' #8 (July 1977) which was written and drawn by [[Jack Kirby]]. He would go on to appear in his own, first series, ''Machine Man'' in 1978. 
+
+This title featured Machine Man entering the mainstream Marvel Universe. Jack Kirby wrote and drew the first nine issues, which dealt with the title character's status as a fugitive from the military after the death of his creator, and his first interactions with mankind. The book was cancelled at the end of 1978 with X-51 finally standing up to the military.
+
+The title was relaunched in issue #10 after a nine-months hiatus. Status quo in the book changed with Machine Man now living amongst humanity. [[Marv Wolfman]] came aboard as the new writer, partnered by artist [[Steve Ditko]], which helped setting a different tone from Kirby's previous stories. Issue 15 saw a new writer, [[Tom DeFalco]], taking over the writing chores. The title lasted until issue #19, ending in February 1980. 
+
+===Volume Two===
+[[Image:MachineMan2020.jpg|150px|thumb|left|Cover to ''Machine Man'' volume 2 #1 (1985). Art by [[Barry Windsor-Smith]]]] In October 1984, the Machine Man title was resurrected, in a four-issue [[mini-series]] written by [[Tom DeFalco]] with art by [[Herb Trimpe]] and [[Barry Windsor-Smith]]. This series turned out to be one of the most popular of all the Machine Man titles, tying with previous continuity, but with the action set in the distant [[cyberpunk]] future of 2020, starting with Machine Man's reassembly.
+
+The mini-series was republished in 1994 as two prestige format books, with the name ''Machine Man 2020''. Characters from this alternate future have made appearances in other Marvel books, namely Arno Stark, the mercenary [[Iron Man]].
+
+In 1990, Machine Man guest-starred in Iron Man Annual #11 (part of the "Terminus Factor" storyline).  That story created strong hints that the 2020 Machine Man may turn out not to be the true X-51, but instead a duplicate created by Sunset Bain.
+
+==Character biography==
+Machine Man, whose real name is X-51, was the last of a series of sentient robots created by robotics expert Dr. Abel Stack for the US Army. However, all previous 50 experimental robots went mad as they achieved [[Sentience|sentience]] and  became [[Psychosis|psychotic]], due to systems failures. X-51 was the only survivor, as he was treated humanely by Stack and given a human face mask as well as being exposed to one of the [[monolith|monoliths]] from [[2001: A Space Odyssey|2001]]. After Stack died trying to protect him, X-51 assumed the human name Aaron Stack and escaped confinement, only to be relentlessly pursued by the army. While on the run, the newly-christened Machine Man (''Mister Machine'' in his very first appearances) initiated contact with humanity in order to better understand it.
+
+After being captured and later freed, Machine Man was found by psychiatrist Peter Spaulding and mechanic Gears Garvin. They set-up Machine Man with a human identity as Aaron Stack, insurance salesman, but he continued having superhero adventures on the side. In a meeting with the [[Thing (comics)|Ben Grimm]] of the [[Fantastic Four]], he also found and fell in love with another sentient robot, [[Jocasta (comics)|Jocasta]], before she was destroyed by [[Ultron]].
+
+In more recent appearances, he has fought alongside the [[Avengers (comics)|Avengers]], which lead to the invitation to become a team reservist. Later he was captured by [[S.H.I.E.L.D.]], who wanted to use his technology to create another Deathlok. He helped the [[X-Men]] and [[Warlock (New Mutants)|Douglock]] against the villainous [[Red Skull]], who had taken over the [[Helicarrier]] where Machine Man was held. 
+
+He helped the X-Men again against [[Bastion (comics)|Bastion]] and his [[Sentinels (comics)|Sentinels]]. As a consequence, he was infected by Sentinel programming, assuming a more robotic look in the subsequent series ''X-51'', and losing self-control whenever he was faced with a mutant. During this series he was on the run from [[Sebastian Shaw (comics)|Sebastian Shaw]], who wanted his technology for himself. Because of his new programming, while seeking aide from the Avengers, he attacked [[Justice (comics)|Justice]] and [[Firestar]]. Because of his actions against Justice and Firestar, X-51's membership in the Avengers was revoked. At the end of ''X-51'', X-51 encountered one of the monoliths and disappeared.
+
+[[Image:Aaron Stack.jpg|Aaron Stack character design, for the upcoming book Nextwave. Artwork by Stuart Immonen.|right|200px]]
+{{spoiler-about|Nextwave}} 
+In a new, upcoming comic book series created by [[Warren Ellis]] and Stuart Immonen, called ''NEXTWAVE'', the Highest Anti-Terrorism Effort, or H.A.T.E. (a subsidiary of the Beyond Corporation©) forms a team to fight the Bizarre Weapons of Mass Destruction. The members are supposed to include Aaron Stack, [[Monica Rambeau]], and [[Meltdown (comics)|Meltdown]]. How X-51 returned after his encounter with the monolith at the end of his latest series is unknown.
+
+==Other versions==
+===Machine Man 2020===
+Machine Man (or, perhaps more likely, his duplicate from Iron Man Annual #11) is reactivated in the year 2020 by a group of outlaw scavengers called Midnight Wreckers (lead by X-51's old friend Gears Garvin), and forced to battle his old enemy, the industrialist ice queen Sunset Bain, as well as mercenary Arno Stark, the amoral Iron Man of 2020.
+
+===Earth X===
+Machine Man was also one of the main stars of the [[Earth X]] trilogy. Transformed by a [[monolith]] into a transparent version himself, Aaron was forced to become the new Watcher by a blind [[Uatu]], the previous Watcher, who had not viewed any event on the planet for 30 years. Tricking Uatu, who had attempted to force Machine Man to reject his humanity, Machine Man managed to use his access to Watcher technology and data to help humanity defeat the coming [[Celestials]], by revealing to Earth's superhero community the true origins of mankind. After defeating the Celestials, Machine Man used his newfound position to contact parallel Earths to help them eradicate the Celestial menace.
+
+===Queen's Vengeance===
+When [[Morgan le Fay (comics)|Morgan le Fay]] restructed reality in volume three of [[Avengers (comics)|Avengers]] #1-3, all Avengers, past and present, were transformed into the Queen's Vengeance, a sort of medieval themed Avengers. Machine Man became Sir MacHinery, an obvious play on the word [[machinery]]. He can be seen on the cover of issue #2, behind [[Hercules (comics)|Hercules]]
+
+==Powers and abilities==
+Machine Man is powered by solar enegry. He can also uses several external energy sources, if needed. Machine Man has telescoping arms & legs. His fingers are uses for a different variety of weapons. He have the ability of flight through the means of anti-gravity disks. 
+
+==Bibliography==
+* ''2001: A Space Odyssey'' #8-10 (1978)
+* ''Machine Man'' Volume 1 #1-19 (1978-1981)
+* ''Machine Man'' Volume 2 #1-4 (1985, reprinted as ''Machine Man 2020'' in 1994)
+* ''Cable/Machine Man ’98'' #1 (1998 [[annual publication|annual]])
+* ''Machine Man/Bastion ’98'' #1 (1998 [[annual publication|annual]])
+* ''X-51'' #0-12
+
+==External links==
+*[http://www.marvunapp.com/Appendix/midnightwreckers2020.htm Midnight Wreckers page on Marvel Unofficial Handbook]
+
+
+[[Category:Avengers members]]
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics titles]]

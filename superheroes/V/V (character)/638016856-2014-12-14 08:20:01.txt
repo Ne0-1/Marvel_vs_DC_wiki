@@ -1,0 +1,119 @@
+{{for|the comic book adaptation of the television series|V (science fiction)}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = [[Image:V taking a bow.jpg|210px]]
+| caption = V in ''[[V for Vendetta]]''<br />Art by [[David Lloyd (comics)|David Lloyd]].
+| comic_color =background:#c0c0c0
+| character_name = V
+| real_name = Unknown
+| publisher = [[Vertigo Comics|Vertigo]] imprint of [[DC Comics]]<br />(originally [[Quality Communications]])
+| debut = ''[[Warrior (comics)|Warrior]]'' #1 (Mar. 1982)
+| creators = [[Alan Moore]]<br />[[David Lloyd (comics)|David Lloyd]]
+| alliance_color = background:#cccccc<!--Hero?-->
+| alliances =
+| aliases =Patient #5, The Terrorist, Codename V, Project V, The Man from Room Five
+| powers = *Artificially enhanced strength, reflexes, and physiology
+*[[Genius]]-level intelligence 
+*Master [[marksman]]
+*Skilled [[Hacker (computer security)|computer hacker]]
+*Expert in [[demolition]]s
+*Master of stealth
+}}
+'''V''' is the [[title character]] of the [[comic book]] series ''[[V for Vendetta]]'', created by [[Alan Moore]] and [[David Lloyd (comics)|David Lloyd]]. He is a mysterious [[Anarchism|anarchist]], [[vigilante]], and [[Propaganda of the deed|freedom fighter]] who is easily recognizable by his [[Guy Fawkes mask]], long hair and dark clothing. According to Moore, he was designed to be [[Ethical dilemma|morally ambiguous]], so that readers could decide for themselves whether he was a hero fighting for a cause or simply [[Insanity|insane]].<ref name="giantmoore">{{cite web | work=GIANT Magazine| title=A FOR ALAN, Pt. 1: The Alan Moore interview | url=http://www.comicon.com/thebeat/2006/03/a_for_alan_pt_1_the_alan_moore.html#more | accessdate=31 March 2006 |archiveurl = http://web.archive.org/web/20060330072000/http://www.comicon.com/thebeat/2006/03/a_for_alan_pt_1_the_alan_moore.html#more <!-- Bot retrieved archive --> |archivedate = 30 March 2006}}</ref>
+
+==Fictional character biography==
+
+===Origin===
+The background and identity of V is largely unknown. He is at one point an inmate at "[[Larkhill]] Resettlement Camp"—one of many [[concentration camp]]s where [[political prisoner]]s, [[homosexuality|homosexuals]], [[Black British|Black people]], [[Jew]]s, [[Muslim]]s, [[British Indians|Indians]] and [[British Pakistanis|Pakistanis]] are exterminated by [[United Kingdom|Britain]]'s new [[Neo-fascism|fascist]] regime. While there, he is part of a group of prisoners who are subjected to horrific [[Nazi human experimentation|medical experimentation]], conducted by Dr. Delia Surridge, involving artificially-designed [[hormone]] [[Injection (medicine)|injection]]. Lewis Prothero is the camp's commandant, as well as a <!-- spelt paedophile as this is a UK topic START -->[[pedophilia|paedophile]]<!-- END spelt paedophile as this is a UK topic --> vicar, Father Lilliman, is at the camp to lend "spiritual support". All prisoners so injected soon die under gruesome circumstances, with the sole exception of "the man in room five" ("V" in [[Roman numeral]]s). During that time, the man had some level of communication with [[Valerie Page]], a former [[actress]] imprisoned for being a lesbian, kept in "room four", who wrote her [[autobiography]] on [[toilet paper]] and then pushed it through a hole in the wall.
+
+Although there is nothing physically wrong with him, Surridge theorizes that his mind had been warped by the experimentation. Still, his actions seem to maintain a twisted logic. The experiments actually yield some beneficial results: he develops [[Olympic Games|Olympic]]-level reflexes, increased strength, as well as incredibly expanded mental capacity (as demonstrated consistently throughout the novel, V is a genius in the fields of [[Explosive material|explosives]], [[martial arts]], [[philosophy]], [[literature]], [[politics]], [[Hacker (computer security)|computer hacking]], [[music]], and [[chemistry]], as well as, as stated by Dr. Surridge in the graphic novel, [[gardening]]).
+
+Over time, the man is allowed to grow roses (<!-- violet carson, NOT scarlet carson: -->[[Violet Carson (rose)|violet carsons]]<!-- :violet carson, NOT scarlet carson -->) and raise crops for camp officials. The man eventually starts taking surplus [[ammonia]]-based fertilizer back to his cell, where he arranges it in bizarre, intricate patterns on the floor. He then takes a large amount of grease solvent from the gardens. In secret, the man uses the fertilizer and solvent to make [[sulfur mustard|mustard gas]] and [[napalm]]. On a stormy night (namely, December 23 in the novel or November 5th in the film), he detonates his homemade bomb and escapes his cell.  Much of the camp is set ablaze, and many of the guards who rush in to see what happened are killed by the mustard gas. The camp is evacuated and closed down. He adopts the new identity, "V", as well as dons a Guy Fawkes mask and costume. V then spends the next five years planning his revenge on the [[fascist]] government, building his secret base, which he calls "The Shadow Gallery". He then kills off most of the over 40 surviving personnel from Larkhill, making each killing look like an accident. However, he saves Prothero, Lilliman and Surridge (the three most responsible for the experiments on him) for last, showing only the remorseful Surridge a bit of mercy by injecting her with a painless poison in her sleep.
+
+===Identity===
+{{original research|section|date=March 2009}}
+V's true identity is a mystery and he visibly removes his mask only once during the entire story (at Surridge's request), at which point his back is to the reader and his face cannot be seen. Surridge tells him "it's beautiful", in contrast to her personal notes, where she mentions that the man in cell V was ugly.
+
+He doesn't even consider "V" his "name", saying "I don't have a name. You can call me V". The only explanation given regarding V's past is Surridge's diary, which V leaves out in the open for the "Finger" (Norsefire's [[secret police]]) to find after he kills her. [[Eric Finch]], the head of the "Nose" (the Party's official police division) and one of Norsefire's most powerful officials, reads through the diary, but points out that V ''wanted'' them to read it. V also tore out many pages, which possibly left clues to his true identity before arriving at the camp. Finch further speculates that V fabricated the version of Surridge's diary, which he left with her body, just to confuse the police.
+
+In the graphic novel, Delia Surridge states in the diary that he was ugly, although she mentions "Physically, there doesn't seem to be anything wrong with him. No cellular anomalies, nothing". His confidante [[Evey Hammond]] speculates in the comic that V might be her own father, who was arrested years before as a political prisoner: V denies it, and Moore has confirmed that V is not Evey's father. There is also some speculation that V could actually be Valerie, the prisoner in the cell next to his whose autobiographical letter inspires V not to give up (and which he later passes on to Evey). However, Prothero and Surridge both describe V as the "man" from room five (V claims Valerie was the "Woman in room four" and also that he did not write Valerie's letter): also, the first page of the book depicts V from behind, out of his costume yet still displaying a distinctly male silhouette.
+
+As Finch comments on the pages V tore from Surridge's diary "What was on the missing pages, eh? His name? His age? Whether he was Jewish, or homosexual, or black, or white?" It is worth mentioning that the reader is given a very brief look at V's neck as he lashes out at a soldier in his raid on Jordan Tower, and his naked neck appears to resemble, indeed, what one would expect if he were white or Caucasian.
+
+Upon witnessing V's death, Evey declines to unmask him with the conviction that even if he was her father, learning the man's true identity would not be worth diminishing what he endeavored to symbolize. Eventually, Evey takes over V's persona and his mission to consider herself as [[Anarchism|anarchy]] incarnate.
+
+===The "Villain"===
+Four years after his escape from Larkhill, V blows up [[Parliament of the United Kingdom|Parliament]] on November 5, [[Guy Fawkes Night|Guy Fawkes Day]]. V then [[kidnap]]s Lewis Prothero, who is now the "Voice of Fate" on the government's propaganda radio, driving him insane by destroying his prized doll collection in a [[satire]] of the exterminations that occurred at Larkhill. V kills now-Bishop Lilliman by forcing him to eat a [[Eucharist|communion]] wafer laced with [[cyanide]]. Norsefire had infused a perversion of religion into their rhetoric, saying that those who were exterminated were not pure in the eyes of [[God]]. V's [[black humor]] was enforcing Lilliman to put some of his religious [[rhetoric]] to the test of [[transubstantiation]]. V then kills Surridge, the one Larkhill official who feels [[remorse]] for her actions, by injecting her with a poison that painlessly kills her. Having thus killed his personal foes, V moves his plans forward.
+
+V stages an attack on the government's propaganda broadcasting station, strapping himself with explosives and forcing the staff to follow his orders under threat of detonating them. V then broadcasts a message to the people, telling them to take responsibility for themselves and rise up against their government. Finally, V destroys the government's CCTV surveillance buildings, eroding its control over British citizens.  However, V is mortally wounded when he is shot by Finch and he staggers back to the Shadow Gallery, where he dies in Evey's arms. Evey then puts him in state, surrounded by violet carson roses, lilies and [[gelignite]], in an [[London Underground|Underground train]] that stops at a blockage along the tracks right under [[10 Downing Street]], where the explosives-laden train detonates, giving V a [[Viking funeral]], fulfilling his final request to her in the process. Evey then takes on the mantle of "V."
+
+==Film adaptation==
+{{main|V for Vendetta (film)}}
+The 2005 film adaptation of the comic book starred [[Hugo Weaving]] as V.
+
+In the film, V is a freedom fighter rather than an [[anarchist]] terrorist. He is disfigured (a result of burns, shown when he briefly forgets to put on his gloves) instead of being described as being ugly. His abilities are a result of biological weapons experiments instead of hormonal experiments. He claims to have lost all memory of his past, completing his transformation into the "everyman" he claims to be in the comic. At the end of the film, he says that he has fallen in love with Evey.
+
+Several events involving V differ markedly from the comics. He sets his first bomb to destroy the [[Old Bailey]] and targets the [[Houses of Parliament]] one year later, but he does not blow up the Post Office or [[10 Downing Street]] and the bomb he leaves in Jordan Tower is safely defused (there is the implication that it was merely a fake). In place of Finch, Peter Creedy and his men confront V at the end of the film, bringing High Chancellor Adam Sutler (Adam Susan in the graphic novel) as V has demanded. Creedy executes Sutler, but V refuses to take off his mask and surrender: through a hail of gunfire, V stays on his feet long enough to kill Creedy and his men. A piece of armor plating under his cape stops most of the bullets, but V is still mortally wounded. He staggers down to the Underground tunnel, where Evey is waiting and dies in her arms. She places his body on the explosive-laden train for a Viking funeral as in the graphic novel, but Finch arrives with the intent of arresting her. However, he soon relents and allows Evey to start the train, having finally decided to turn his back on the corrupt Norsefire regime. The two watch, along with thousands of spectators dressed as V (showing that V truly is "every man"), as the train explodes and destroys the Houses of Parliament.
+
+==Bibliography==
+
+===''Warrior''===
+*''Warrior'' #1–16, 18–23, with an Alan Moore V for Vendetta feature in #17
+
+* ''V for Vendetta''
+** Vol. I of X ''V for Vendetta'' September 1988
+** Vol. II of X ''V for Vendetta'' October 1988
+** Vol. III of X ''V for Vendetta'' November 1988
+** Vol. IV of X ''V for Vendetta'' December 1988
+** Vol. V of X ''V for Vendetta'' December 1988
+** Vol. VI of X ''V for Vendetta'' December 1988
+** Vol. VII of X ''V for Vendetta'' January 1989
+** Vol. VIII of X ''V for Vendetta'' February 1989
+** Vol. IX of X ''V for Vendetta'' March 1989
+** Vol. X of X ''V for Vendetta'' May 1989
+
+===Trade paperback===
+* [[United States]]&nbsp;– [[Vertigo Comics]] (ISBN 0-930289-52-8)
+* [[United Kingdom]]&nbsp;– [[Titan Books]] (ISBN 1-85286-291-2)
+
+==See also==
+{{Portal|Anarchism|Comics|Fictional characters|Speculative fiction|Superhero fiction}}
+;Concepts and themes
+*[[Anarchism and the arts]]
+*[[Libertarian science fiction]]
+
+;Character lists
+*[[List of fictional antiheroes]]
+*[[List of DC Comics characters]]
+*[[List of fictional anarchists]]
+*[[List of fictional hackers]]
+
+==References==
+<references/>
+
+==External links==
+* [http://www.qualitycommunications.co.uk/warrior/ ''Warrior'' publishing records] on qualitycommunications.co.uk
+* [http://www.milehighcomics.com/cgi-bin/backissue.cgi?action=list&title=91598257450&snumber=1 ''V for Vendetta'' publishing records] on milehighcomics.com
+
+<!--FOOTERS-->
+{{V for Vendetta}}
+
+<!--LANGUAGES-->
+
+<!--CATEGORIES-->
+[[Category:V for Vendetta characters]]
+[[Category:DC Comics martial artists]]
+[[Category:DC Comics superheroes]]
+[[Category:DC Comics supervillains]]
+[[Category:Fictional activists]]
+[[Category:Fictional mass murderers]]
+[[Category:Fictional assassins]]
+[[Category:Fictional English people]]
+[[Category:Comics characters introduced in 1982]]
+[[Category:Fictional hackers]]
+[[Category:Fictional revolutionaries]]
+[[Category:Fictional vigilantes]]
+[[Category:Film characters]]
+[[Category:Characters created by Alan Moore]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:Fictional antiheroes]]

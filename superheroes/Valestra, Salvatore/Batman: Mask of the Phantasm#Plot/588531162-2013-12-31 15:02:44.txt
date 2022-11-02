@@ -1,0 +1,190 @@
+{{Infobox film
+| name           = Batman: Mask of the Phantasm
+| image          = Batman mask of the phantasm poster.jpg
+| image_size     = 220px
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Eric Radomski]]<br />[[Bruce Timm]]
+| producer       = [[Alan Burnett]]<br />[[Michael Uslan]]<br />[[Benjamin Melniker]]<br />Bruce Timm
+| screenplay     = Alan Burnett<br />[[Paul Dini]]<br />[[Martin Pasko]]<br />[[Michael Reaves]]
+| story          = Alan Burnett
+| based on       = {{Based on|Characters|[[Bob Kane]]}}
+| starring       = [[Kevin Conroy]]<br />[[Dana Delany]]<br />[[Hart Bochner]]<br />[[Stacy Keach]]<br />[[Abe Vigoda]]<br />[[Mark Hamill]]<br />[[Efrem Zimbalist, Jr.]]
+| music          = [[Shirley Walker]]
+| editing        = Al Breitenbach
+| studio         = [[Warner Bros. Animation]]
+| distributor    = [[Warner Bros. Family Entertainment]]
+| released       = {{Film date|1993|12|25}}
+| runtime        = 76 minutes
+| country        = <!-- See guidelines for "Country" at http://en.wikipedia.org/wiki/Template:Infobox_film -->
+| language       = English
+| budget         = $6 million
+| gross          = $5,617,391<ref name=mojo>{{cite web|url=http://www.boxofficemojo.com/movies/?id=batmanmaskofthephantasm.htm |title=''Batman: Mask of the Phantasm'' (1993)|publisher=[[Box Office Mojo]]|accessdate=2008-01-21}}</ref>
+}}
+'''''Batman: Mask of the Phantasm''''' (also known as '''''Batman: The Animated Movie''''') is a 1993 American [[Animation|animated]] [[Superhero film|superhero]] [[mystery film]] featuring the [[DC Comics]] character [[Batman]], and is based on the 1990s ''[[Batman: The Animated Series]]''. As with ''The Animated Series'', the film stars [[Kevin Conroy]] as the voice of Batman, as well as the voices of [[Mark Hamill]], [[Dana Delany]], [[Hart Bochner]], [[Stacy Keach]], [[Abe Vigoda]] and [[Efrem Zimbalist, Jr.]] The film's storyline introduces [[Andrea Beaumont]], an old [[Romantic interest|love interest]] of Bruce Wayne's, who returns to [[Gotham City]], restarting their romance. At the same time, a new mysterious vigilante begins systematically eliminating Gotham's [[crime boss]]es, and due to the person's dark appearance, he is mistaken for Batman. Now on the run from the police, the Dark Knight must apprehend the killer, clear his name, and deal with the romance between himself and Andrea.
+
+The film was distributed by [[Warner Bros.]], directed by [[Bruce Timm]] and [[Eric Radomski]] (the creators of ''The Animated Series'') and written by [[Alan Burnett]], [[Paul Dini]], [[Michael Reaves]] and [[Martin Pasko]]. The original idea was to release the film as [[direct-to-video]], but the studio decided for a theatrical release, giving the filmmakers a strenuous eight-month schedule. ''Mask of the Phantasm'' received widespread acclaim from critics, who praised the film for its animation style, dialogue and acting, but it was a [[box office bomb]] due to the decision to release the film in theaters on such short notice. The film has since found cult success through its various [[VHS]] and [[DVD]] releases.
+
+The film's success spawned two direct-to-video sequels, ''[[Batman & Mr. Freeze: SubZero]]'' and ''[[Batman: Mystery of the Batwoman]]''.
+
+==Plot==
+10 years before the events of ''[[Batman: The Animated Series]]'', Bruce Wayne meets a woman named Andrea Beaumont in a cemetery while visiting his parents' grave. That night, Bruce foils an armored car robbery while disguised in a black ski-mask and leather jacket. He does succeed but is discouraged to find that the criminals did not fear him. Bruce starts a relationship with Andrea and decides to propose marriage to her rather than become a crime-fighting vigilante.
+
+Unfortunately, Andrea finds out that her father, Carl, owes a large amount of money to crime lord Salvatore Valestra. Carl and Andrea flee Gotham City to hide in Europe, with Andrea ending her engagement to Bruce. This rejection spurs him into training to become Batman. Seven years later, Carl is murdered by the assassin, [[Joker (comics)|Jack Napier]], under orders from the Valestra gang. 
+
+Andrea returns to Gotham. During a conference of [[Organized crime|crime bosses]] held in a [[Gotham City]] skyscraper, a Valestra enforcer, Sol, is killed by a mysterious cloaked figure — the Phantasm. Due to the Phantasm's resemblance to Batman, the Dark Knight is blamed for Sol's death. Councillor Arthur Reeves tells the media that Batman is a public menace (despite [[James Gordon (comics)|Commissioner Gordon]]'s protests), then attends a party at [[Wayne Manor]]. 
+
+The Phantasm finds and murders another Valestra enforcer, Bronski. Batman soon finds evidence linking Andrea's father with Valestra. The Phantasm later targets Valestra, who turns to [[Joker (comics)|the Joker]] for help. The Phantasm arrives at Valestra's house, and finds the gangster already dead at the Joker's hands; the house then explodes, with the Phantasm barely escaping. Batman pursues the killer, but is interrupted by the police, who believe that Batman is responsible for the murders. Andrea rescues Batman in her car, and they spend the night together. Andrea explains to Bruce why she and her father left Gotham. Batman comes to suspect that Andrea's father may be the Phantasm, but later gets Reeves (who has been poisoned by the Joker) to confess that he told the Valestra mob where Beaumont was hiding in return for campaign contributions, and that the mob ordered Beaumont's death.
+
+The Phantasm tracks the Joker to his hideout — an abandoned [[world's fair]] amusement park — and removes its ominous costume: the Phantasm is Andrea, intent on avenging her father's death at the hands of the Joker, who is revealed to be Jack Napier, who Batman dropped into a vat of acid months earlier. Batman arrives and saves Andrea from the Joker, and begs Andrea to give up her quest for revenge. She refuses, stating that the mob ruined her life by taking away her future with him; she then tells Batman that he himself is driven by revenge before disappearing. Batman battles with the Joker, a struggle that ends in stalemate. Moments later, Andrea returns and seizes the Joker, bidding Batman goodbye before vanishing with the maniacally laughing clown in a cloud of smoke as the entire amusement park erupts in a series of rigged explosions. Batman barely escapes by falling into a waterway and being swept away to safety by the current.
+
+[[Alfred Pennyworth|Alfred]] later consoles a heartbroken Bruce, telling him that no one could have helped Andrea. Bruce finds a locket containing a picture of himself and Andrea left behind in the [[Batcave]]. Meanwhile, Andrea is shown standing alone on the deck of a departing ocean liner. In the final scene, Batman stands alone on the top of a Gotham building; when the [[Bat-Signal]] appears in the sky, he swings off into the night to continue his war on crime.
+
+==Cast==
+[[File:Phantasm-locket.jpg|thumb|200px|right|Bruce discovers a locket that Andrea left for him in the Batcave.]]
+* [[Kevin Conroy]] as [[Batman|Bruce Wayne/Batman]]; a billionaire industrialist whose parents were killed by a [[Joe Chill|mugger]] when he was eight years old. After traveling the world for several years to seek the means to fight injustice, he returns to Gotham. At night, Bruce becomes Batman, Gotham City's secret vigilante protector.
+* [[Dana Delany]] as [[Andrea Beaumont]]; a woman Bruce meets in the early years of his return to Gotham after traveling the world. The decision to propose to her in marriage leads to him abandoning his plans for becoming a vigilante. However, after she unexpectedly and mysteriously leaves, Bruce's frustration leads to his becoming Batman. Delany's voice performance in the film impressed the filmmakers, leading to her casting as [[Lois Lane]] in ''[[Superman: The Animated Series]]''.<ref>{{cite news|author=Barry Freiman|title=Exclusive Interview with Dana Delany|publisher=Superman Homepage|date=2005-06-14|url= http://www.supermanhomepage.com/tv/tv.php?topic=interviews/dana-delany|accessdate=2008-01-28| archiveurl= http://web.archive.org/web/20080210035723/http://www.supermanhomepage.com/tv/tv.php?topic=interviews/dana-delany| archivedate= 10 February 2008 <!--DASHBot-->| deadurl= no}}</ref>[[File:Phantasm-costume.jpg|thumb|200px|right|The Phantasm]]
+* [[Hart Bochner]] as City Councilman Arthur Reeves; a corrupt city official who was once an intern for Carl Beaumont. He later becomes involved with Valestra's gang in order to gain the influence to enter City Council, and told them where his former boss was hiding in return for campaign funds. Years later, the Joker tracks him down and poisons him with his laughing gas. He last appears in the Gotham City Mental Hospital, having been driven insane by the Joker's chemicals. Bochner's [[Lloyd Bochner|father]] was the voice of [[Hamilton Hill (comics)|Mayor Hamilton Hill]] in ''Batman: The Animated Series''.
+* [[Stacy Keach]] as Carl Beaumont; Andrea's father, who was secretly in business with the Valestra gang. He goes in debt to Valestra and flees to Europe with Andrea, but is later murdered by Valestra's personal hitman, who would become the Joker. Keach also provided the voice for [[Andrea Beaumont|the Phantasm]].
+* [[Abe Vigoda]] as Salvatore Valestra; a powerful crime boss who goes into business with Carl Beaumont, and threatens to kill him for [[Embezzlement|embezzling]] money. Once Andrea returns, he is an old, decrepit man, dependent on an oxygen tank to live due to years of [[smoking]]. He hires the Joker to kill Batman, but the Joker double-crosses him and kills him with Joker venom. Vigoda previously portrayed gangster [[Salvatore Tessio]] in ''[[The Godfather]]'', though his character was a [[caporegime]] for [[Marlon Brando]]'s [[Vito Corleone|Don Vito Coleone]] rather than the boss.
+* [[Mark Hamill]] as [[Joker (comics)|Jack Napier/The Joker]]; Batman's nemesis, who was once an assassin for Valestra (and is implied to be responsible for the murder of Carl Beaumont). Valestra hires him to kill Batman, but the Joker kills Valestra instead. Hamill claims he took the opportunity of reprising his role from ''Batman: The Animated Series'' by way of creating new "laughing vocabularies."<ref>{{cite news|author=Jacquie Kubin|title=An Interview With Mark Hamill|publisher=[http://mag.awn.com/ Animation World Magazine]|date=April 1997|url= http://www.awn.com/mag/issue2.1/articles/kubin2.1.html|accessdate= 2008-01-22}}</ref>
+* [[Efrem Zimbalist, Jr.]] as [[Alfred Pennyworth]]; once the trusted butler to Bruce Wayne's parents, he continues his loyal service to their son after their deaths. He is Batman's closest confidante.
+* [[Dick Miller]] as Charles "Chuckie" Sol; a crime boss and the Phantasm's first victim.
+* [[John P. Ryan (actor)|John P. Ryan]] as Buzz Bronski; a crime boss who seems to have had a brief partnership with Chuckie Sol. He is later killed by the Phantasm at the graveyard while visiting Sol's grave.
+* [[Bob Hastings]] as [[James Gordon (comics)|Commissioner James Gordon]]; the police commissioner of Gotham City and Batman's closest ally. He refuses to capture Batman, believing the Dark Knight is not responsible for any of the gangster murders.
+* [[Robert Costanzo]] as [[Harvey Bullock (comics)|Detective Harvey Bullock]]; a detective with the [[Gotham City Police Department]] who distrusts Batman and is put in charge of the police task force assigned to hunt down the Dark Knight after he is framed for the gangster murders.
+
+Additional voices: [[Jeff Bennett]], [[Pat Musick]], [[Neil Ross]], [[Ed Gilbert]], [[Vernee Watson-Johnson]], Charles Howerton, [[Marilu Henner]], [[Arleen Sorkin]] and [[Thom Pinto]]
+
+==Production==
+Impressed by the success of the first season of ''[[Batman: The Animated Series]]'' on the [[Fox Broadcasting Company|Fox Network]], [[Warner Bros.]] assigned [[Alan Burnett]] to write a story for a full-length animated film. Although the [[Joker (comics)|Joker]] does play a pivotal role in the film, it was Burnett's intention to tell a story far removed from the television show's regular [[rogues gallery]]. Burnett also cited he "wanted to do a love story with Bruce because no one had really done it on the TV show. I wanted a story that got into his head."<ref name="Burnett">{{cite book | last = [[Paul Dini]]; [[Chip Kidd]]| title =''[[Batman Animated]]'' | publisher = [[Titan Books]] | year = 1998 | page = 114 | isbn = 1-84023-016-9}}</ref> The writers were highly cautious of placing the Joker in the film as they did not want any connection to [[Tim Burton]]'s 1989 film ''[[Batman (1989 film)|Batman]]'', but writer [[Michael Reaves]] said, "We then realized that we could make his appearance serve the story in a way that we never could in live-action."<ref name="Animation">{{cite news|author=Joe Tracy|title =Interview with Michael Reaves|publisher=[http://animationartist.digitalmedianet.com/ Animation Artist]|date=|url= http://www.animationartist.com/2000/Interviews/Screenwriters/Michael_Reaves/MReaves.html|accessdate= 2008-01-22| archiveurl= http://web.archive.org/web/20080211171116/http://www.animationartist.com/2000/Interviews/Screenwriters/Michael_Reaves/MReaves.html| archivedate= 11 February 2008 <!--DASHBot-->| deadurl= no}}</ref> Aiding Burnett in writing the script were: [[Martin Pasko]], who handled most of the flashback segments; [[Michael Reaves]], who wrote the [[climax (narrative)|climax]]; and [[Paul Dini]], who claims he "filled in holes here and there."<ref name="Burnett" /> [[Orson Welles]]' 1941 classic ''[[Citizen Kane]]'' served as an influence for the flashbacks, a story about loss and the passage of time.<ref>{{cite book|author=[[Les Daniels]]|title=Batman: The Complete History|isbn=0-8118-2470-5|publisher=[[Chronicle Books]]|page=184|year=2000}}</ref>
+
+{{Quote box|width=40%|align=right|quote=“It was basically an expanded episode. We boarded the script and did all of our designs and shipped it overseas. We were treating it with more quality, but we originally didn’t intend it for the big screen.”|source=—Eric Radomski on Warner Brothers' decision to release the film theatrically<ref name="Miller">{{cite news |author=Bob Miller|title=Knight Vision|publisher=[[Comics Scene (magazine)|Comics Scene]]|date=June 1994|url=|accessdate=2008-01-23}}</ref>}}
+
+Early in production, Warner Brothers decided to release ''Phantasm'' with a theatrical release, rather than [[Direct-to-video|straight to video]]. That left less than a year for production time (most animated features take well over two years from finished story to final release). Due to this decision, the animators went over the scenes once more in order to accommodate widescreen theatrical [[aspect ratio]].<ref name="Radomski">Dini, Kidd, p.117</ref> The studio did cooperate well, granting the filmmakers a large amount of creative control.<ref>{{cite news|author=Emru Townsend| title= Paul Dini: From Babs and Buster Bunny to Batman |publisher=''Purple Planet'' Media|date=1999-05-17|url=http://purpleplanetmedia.com/eye/inte/pdini.php|accessdate= 2008-01-22}}</ref>
+
+In addition to the creative control, the studio increased the production budget to $6 million,<ref name="Miller" /> which gave the filmmakers opportunities for more elaborate set pieces. The opening title sequence featured a flight through an entirely [[computer-generated imagery|computer-generated]] [[Gotham City]].<ref name="Burnett" /> As a visual joke, sequence director [[Kevin Altieri]] set the [[climax (narrative)|climax]] of the film inside a miniature automated model of Gotham City, where Batman and the Joker were giants. This was an homage to a mainstay of ''Batman'' comic books of the [[Dick Sprang]] era, often featuring the hero fighting against a backdrop of gigantic props (they would later do another homage to Sprang's works in ''[[The New Batman Adventures]]'' episode "Legends of the Dark Knight").<ref name="Radomski" /> From start to finish, the film was completed within eight months.<ref name="Miller" /> Composer [[Shirley Walker]] cited the score of ''Phantasm'' as a favorite among her own compositions.<ref>{{cite news|author=Randall Larson|title=Remembering Shirley Walker|publisher=Mania Music|date=2006-12-07|url=http://www.mania.com/52977.html | accessdate=2008-01-28}}</ref>
+
+==Themes==
+[[File:Brucemask.jpg|thumb|300px|right|Bruce Wayne about to don the mask of Batman for the first time.]]
+[[Paul Dini]] intended each of the flashbacks into Batman's love life to "have a tendency to get worse, when you hope things will get better." Bruce's relationship with Andrea, which at first shows promise, eventually turns into turmoil.<ref name="turmoil">{{cite news|author=Richard Verrier|title=More That Meets the Eye: Producer-Writer of ''Batman'' Gives All| work=[[Los Angeles Times]]|date=1996-09-14|url=|accessdate=2008-01-23}}</ref> At first, Bruce and Andrea are set for marriage, but then Bruce is given a farewell note from Andrea cutting off their relationship. This eventually leads into Bruce's decision to become Batman.<ref name="turmoil" /> [[Richard Corliss]] of ''[[Time (magazine)|Time]]'' felt this scene paralleled Andrea's decision to avenge her own parents and reject love, when she finds her own father murdered. Both events transform the two people (Bruce becomes Batman, Andrea becomes the Phantasm).<ref>{{cite news|author=[[Richard Corliss]]| title=Corliss' Roundups of Latest VHS Releases| publisher=''[[Time (magazine)|Time]]''|date=April 1994|url=|accessdate= 2008-01-23}}</ref>
+
+One scene depicts Bruce Wayne at his parents' tombstone saying "I didn't count on being happy." According to writer [[Michael Reaves]], this scene was to be a pivotal moment in Bruce's tragic life, as he is denied the opportunity to live a normal life.<ref name="Animation" /> Reaves also stated: "When Bruce puts on the mask for the first time, [after Andrea breaks their engagement], and Alfred says 'My God!' he's reacting in horror, because he's watching this man he's helped raise from childhood, this man who has let the desire for vengeance and retribution consume his life, at last embrace the unspeakable."<ref name="Animation" />
+
+==Soundtrack==
+{{Infobox album
+| Name = ''Batman: Mask of the Phantasm'' - The Animated Movie
+| Type = [[Film score]]
+| Artist = [[Shirley Walker]]
+| Cover = 
+| Released = December 14, 1993 <br> March 31, 2009
+| Length = 
+| Label = [[Reprise Records|Warner Bros / Wea]] <br> [[La-La Land Records]]
+}}
+
+The soundtrack score to ''Batman: Mask of the Phantasm'' was originally released on December 14, 1993 under the label of [[Reprise Records]].
+
+# "Main Title" (1:35)
+# "The Promise" (0:46)
+# "Ski Mask Vigilante" (3:06)
+# "Phantasm's Graveyard Murder" (3:43)
+# "First Love" (1:35)
+# "The Big Chase" (5:32)
+# "A Plea for Help" (1:55)
+# "The Birth of Batman" (4:17)
+# "Phantasm and Joker Fight" (4:05)
+# "Batman's Destiny" (3:50)
+# "I Never Even Told You" - Performed by [[Tia Carrere]] (4:20)
+
+'''Remastered version:'''
+On March 31, 2009, [[La-La Land Records]] released a limited edition remastered version of Shirley Walker's soundtrack score through their "Expanded Archival Collection". The new release included bonus tracks that extended the score 27 minutes longer than the original release.
+
+# "Main Title: Batman: Mask of the Phantasm" (Expanded) (5:01)
+# "The Promise" (Expanded) (1:25)
+# "Ski Mask Vigilante" (Expanded) (4:28)
+# "Fancy Footwork" (0:40)*
+# "Phantasm's Graveyard Murder" (3:52)
+# "Bad News* / Set Trap* / May They Rest in Peace*" (1:51)
+# "First Love" (1:59)
+# "City Street Drive* / Sal Velestra* / Good Samaritan*" (2:16)
+# "Birth of Batman" (Expanded) (6:01)
+# "The Joker's Big Entrance"* (3:02)
+# "The Big Chase" (5:40)
+# "Nowhere to Run"* (2:01)
+# "A Plea for Help" (1:01)
+# "A Tall Man / Arturo and his Pal* / Makes You Want to Laugh* / What's So Funny?*" (4:04)
+# "Andrea Remembers* / True Identity*" (3:18)
+# "Phantasm and Joker Fight" (6:01)
+# "Batman's Destiny" (1:46)
+# "I Never Even Told You" (4:23) - Performed by Tia Carrere
+# "Theme from Batman: Mask of the Phantasm" (2:06) (Bonus Track)
+# "Welcome to the Future!"* (1:01) (Bonus Track)
+
+==Release==
+
+===Critical response===
+{{anchor|Critics}}
+Based on 23 reviews collected by [[Rotten Tomatoes]], ''Batman: Mask of the Phantasm'' received an average 81% overall approval rating with the consensus stating, "Stylish and admirably respectful of the source material, ''Batman: Mask of the Phantasm'' succeeds where many of the live-action Batman adaptations have failed."<ref>{{cite web |url= http://www.rottentomatoes.com/m/batman_mask_of_the_phantasm/ |title=''Batman: Mask of the Phantasm''| work =[[Rotten Tomatoes]] |publisher = [[Flixster]] |accessdate=2008-01-21| archiveurl= http://web.archive.org/web/20080130003635/http://www.rottentomatoes.com/m/batman_mask_of_the_phantasm/| archivedate= 30 January 2008 <!--DASHBot-->| deadurl= no}}</ref>
+{{Album ratings
+| rev1      = [[Allmusic]]
+| rev1Score = [{{Allmusic|class=album|id=r192352|pure_url=yes}} link]
+}}
+''[[Empire (magazine)|Empire]]'' cited it as the best animated film of 1993, and felt it contained better storylines than [[Tim Burton]]'s ''[[Batman (1989 film)|Batman]]'' and ''[[Batman Returns]]''.<ref>{{cite web |url=http://www.empireonline.com/reviews/reviewcomplete.asp?DVDID=10633 |title=''Batman: Mask of the Phantasm'' |publisher=''[[Empire (magazine)|Empire]]'' |accessdate=2008-01-21}}</ref> ''[[TV Guide]]'' was impressed with the [[Art Deco]] [[film noir|noir]] design that was presented. In addition the film's [[Climax (narrative)|climax]] and Batman's close call with the [[Gotham City Police Department]] were considered to be elaborate action sequences.<ref>{{cite web|url= http://www.tvguide.com/movies/batman-mask-phantasm/review/129315| title=''Batman: Mask of the Phantasm''| publisher=[[TV Guide]]|accessdate=2008-01-21}}</ref> Richard Harrington of ''[[The Washington Post]]'' agreed with overall aspects that included the animation, design, dialogue. and storyline, as well as [[Shirley Walker]]'s film score.<ref>{{cite news|last=Harrington | first = Richard|title=''Batman: Mask of the Phantasm''|work=The Washington Post| date=1993-12-27|url= http://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/batmanmaskofthephantasmpgharrington_a0aba0.htm |accessdate=2008-01-21}}</ref> [[Gene Siskel]] and [[Roger Ebert]] regretted not having viewed the film in its theatrical release. They did give a positive reaction, with Siskel feeling that ''Phantasm'' was better than ''Batman Returns'' and [[Joel Schumacher]]'s ''[[Batman Forever]]'', and only slightly below ''Batman''.<ref>{{cite news | author = [[Roger Ebert]]; [[Gene Siskel]] | url = http://bventertainment.go.com/tv/buenavista/ebertandroeper/index2.html?sec=1&subsec=1374 | title = ''Batman: Mask of the Phantasm'' | publisher = [[At the Movies with Ebert & Roeper|Siskel & Ebert]] | date = 1995-06-12 | accessdate = 2008-04-22}} {{Dead link|date=November 2010|bot=H3llBot}}</ref> In October 2012, ''WhatCulture'' also praised the film, saying it was at the same level as [[Christopher Nolan]]'s ''[[Batman in film#Christopher Nolan series|Dark Knight Trilogy]]'', if not slightly higher.<ref>{{cite web|url= http://whatculture.com/film/batman-mask-of-the-phantasm-the-best-dark-knight-movie-no-one-saw.php| title=''Batman: Mask of the Phantasm – The Best Dark Knight Movie No One Saw''| publisher= WhatCulture|accessdate=2012-10-10}}</ref>
+
+[[Stephen Holden]] of ''[[The New York Times]]'' thought the voice performances were "flat and one-dimensional".<ref>{{cite news|authorlink= Stephen Holden | last = Holden | first = Stephen |title=''Batman: Mask of the Phantasm''|work=The New York Times|date=1993-12-25|url= http://movies.nytimes.com/movie/122085/Batman-Mask-of-the-Phantasm/overview|accessdate=2008-01-22}}</ref> Chris Hicks of the ''[[Deseret News]]'' felt "the picture didn't come alive until the third act" feeling that the animators sacrificed the visuals for the storyline. In addition, he felt [[Mark Hamill]] "stole the show."<ref>{{cite news |last=Hicks | first = Chris |title=''Batman: Mask of the Phantasm''|work=[[Deseret News]]| date=1994-01-06|url= http://deseretnews.com/movies/view/1,1257,144,00.html |accessdate=2008-01-22}}</ref> Leonard Klady of ''[[Variety (magazine)|Variety]]'' had mixed reactions towards the film, but was overly negative. He felt the overall themes and morals were [[cliché]]d and cited the animation to be to the "point of self-parody".<ref>{{cite news|last =Klady | first = Leonard|title=''Batman: Mask of the Phantasm''|publisher=''[[Variety (magazine)|Variety]]''| date=1993-12-27|url= http://www.variety.com/review/VE1117902185.html |accessdate=2008-01-22}}</ref>
+
+IGN ranked ''Mask of the Phantasm'' as the 25th best animated film of all time in a list published in 2010.<ref>{{cite web|url= http://ca.ign.com/articles/2010/06/25/top-25-animated-movies-of-all-time| title=''Top 25 Animated Movies of All-Time''| publisher= [[IGN]]|accessdate=2012-10-10}}</ref> Additionally, ''[[Total Film]]'' named ''Mask of the Phantasm'' the 47th greatest animated film out of 50 in 2011.<ref>{{cite web|url= http://www.totalfilm.com/features/50-greatest-animated-movies/batman-mask-of-the-phantasm-1993| title=''50 Greatest Animated Movies''| publisher= [[Total Film]]|accessdate=2012-10-10}}</ref> In 2011, ''[[Time Magazine]]'' ranked ''Phantasm'' the 8th best superhero movie.<ref>{{cite web|url= http://entertainment.time.com/2011/06/03/top-10-superhero-movies/slide/iron-man-2008/#batman-mask-of-the-phantasm-1993| title=''Top 10 Superhero Movies''| publisher= [[Time Magazine]]|accessdate=2012-10-14}}</ref>
+
+===Box office===
+''Batman: Mask of the Phantasm'' opened on Christmas Day 1993 in the United States in 1,506 theaters, accumulating $1,189,975 over its opening weekend. The film went on to gross $5,617,391 in the domestic total box office intake.<ref name=mojo/> The filmmakers blamed [[Warner Bros.]] for the unsuccessful marketing campaign. ''Mask of the Phantasm'' did eventually pass its $6 million budget with its various home video releases.<ref name="Radomski" />
+
+===Awards===
+Alongside ''[[The Lion King]]'' and ''[[The Nightmare Before Christmas]]'', ''Mask of the Phantasm'' was nominated for an [[Annie Awards|Annie Award]] in the category of [[Annie Award for Best Animated Feature|Best Animated Feature]], but lost out to ''The Lion King''.<ref>{{cite web|url= http://imdb.com/Sections/Awards/Annie_Awards/1994|title=Annie Awards: 1994|publisher=[[Internet Movie Database]]|accessdate=2008-01-22}}</ref>
+
+===Tie-ins=== <!-- Marketing/Tie-ins -->
+In December 1993, two [[novelization]]s were released. One was written by [[Alan Burnett]], [[Paul Dini]] and Andrew Helfer,<ref>{{cite web|url= http://www.amazon.com/dp/0553481746/ |title=''Batman: Mask of the Phantasm'' - The Animated Movie, A Novelization|publisher= [[Amazon.com|Amazon]]|accessdate=2008-01-28}}</ref> with the other authored by [[Geary Gravel]].<ref>{{cite web|url= http://www.amazon.com/dp/0553565818/ |title=''Batman: Mask of the Phantasm'' (Mass Market Paperback)|publisher=[[Amazon.com|Amazon]]| accessdate=2008-01-28}}</ref> [[DC Comics]] released a comic book adaptation written by [[Kelley Puckett]] and drawings by [[Mike Parobeck]].<ref>{{cite web|url= http://www.amazon.com/dp/1563891220/ |title=''Mask of the Phantasm'': Batman : the Animated Movie (Comic)|publisher=[[Amazon.com|Amazon]]| accessdate=2008-01-28}}</ref> The comic book adaptation was later included with the VHS release.
+
+Kenner, who had already released toys for the regular ''Batman'' cartoon series, produced several tie-in figures for the film, including the Joker and the Phantasm.
+
+===Home media===
+The film was released on [[laserdisc]] in April 1994<ref>[http://www.lddb.com/laserdisc/05648/15500/ ''Batman: Mask of the Phantasm''] at [[LaserDisc Database]]</ref> and on [[VHS]] in May of the same year.<ref>{{cite web|url= http://www.amazon.com/dp/630305899X/ |title=''Batman: Mask of the Phantasm'' (1993)|publisher=[[Amazon.com|Amazon]]|accessdate= 2008-01-23}}</ref> The VHS was reissued in April 2003, though this time, part of a three-tape pack with ''[[Batman & Mr. Freeze: SubZero]]'' and ''[[Batman Beyond: Return of the Joker]]''.<ref>{{cite web|url= http://www.amazon.com/dp/B00000JRVV/ |title=''Batman Animated Collection (Sub Zero/Batman Beyond - The Movie/Mask of the Phantasm)'' (1998)|publisher=[[Amazon.com|Amazon]]|accessdate= 2008-01-23}}</ref> ''Mask of the Phantasm'' was first released on [[DVD]] in December 1999 as a snap case<ref>{{cite web|url= http://www.amazon.com/dp/B0000399WH/ |title=''Batman - Mask of the Phantasm'' (1993)|publisher=[[Amazon.com|Amazon]]|accessdate= 2008-01-23}}</ref> and in October 2005 as a [[keep case]] with the insert.<ref>{{cite web|url= http://www.amazon.com/dp/B000A9QKLE/ |title=''Batman - Mask of the Phantasm'' (Keepcase) (1993)|publisher=[[Amazon.com|Amazon]]|accessdate= 2008-01-23}}</ref> The film was released in April 2004 as a three disc DVD [[box set]] that included ''SubZero'' and ''Return of the Joker'', but it is currently out of print.<ref>{{cite web|url= http://www.amazon.com/dp/B0001NBM3A/ |title=Batman Collection DVD 3-Pack (''Mask of the Phantasm'' / ''SubZero'' / ''Return of the Joker'') (1998)| publisher=[[Amazon.com|Amazon]]|accessdate= 2008-01-23}}</ref> [[Warner Home Video]] released the film once more in February 2008, but as a [[double feature]] DVD with ''SubZero''.<ref>{{cite web| url= http://www.amazon.com/dp/B000YDBP84/ |title=''Batman & Mr. Freeze - SubZero / Batman: Mask of the Phantasm'' (Double Feature)| publisher= [[Amazon.com|Amazon]]|accessdate=2008-01-23}}</ref> Ironically, the only animated batman movie to be released theactricaly has never been released on blu-ray.
+
+==References==
+{{Reflist|2}}
+
+;Further reading
+* {{cite book | author=[[Bruce Timm]]; Erick Nolen-Weathington|title=Modern Masters Volume 3: Bruce Timm |others=A detailed analysis on the works of Bruce Timm, the director of this film|format= Paperback |date=June 2004 |publisher=[[TwoMorrows Publishing]]|isbn=1-893905-30-6}}
+* {{cite book | author=[[Alan Burnett]]; [[Paul Dini]]; Andrew Helfer|title=Batman: Mask of the Phantasm - The Animated Movie, A Novelization |others=Novelization of the film |format= Paperback |date=1 December 1993|publisher=[[Skylark (publisher)|Skylark]] |isbn=0-553-48174-6}}
+* {{cite book | author=[[Geary Gravel]]|title=Batman: Mask of the Phantasm |others=Novelization of the film |format= Mass Market Paperback |date=1 December 1993|publisher=[[Bantam Books]] |isbn= 0-553-56581-8}}
+* {{cite book | author=[[Kelley Puckett]]; [[Mike Parobeck]] (illustrator) |title=Batman: Mask of the Phantasm |others=Comic book adaptation of the film |format= Paperback |date=December 1993 |publisher=[[DC Comics]] |isbn=1-56389-122-0}}
+
+==External links==
+{{portal|Animation|Film|Comics}}
+{{wikiquote}}
+* {{IMDb title|0106364|Batman: Mask of the Phantasm}}
+* {{mojo title|batmanmaskofthephantasm|Batman: Mask of the Phantasm}}
+* {{rotten-tomatoes|batman_mask_of_the_phantasm|Batman: Mask of the Phantasm}}
+* [http://wordballoon.libsyn.com/index.php?post_id=252744 Interview with Writer Martin Pasko]
+
+{{Batman: The Animated Series}}
+{{Batman in popular media}}
+{{DC Animated Universe}}
+{{DC Comics animated films}}
+{{Good article}}
+<!--[[WP:FILMCAT]]-->
+
+{{DEFAULTSORT:Batman: Mask Of The Phantasm}}
+[[Category:1993 films]]
+[[Category:1993 animated films]]
+[[Category:American films]]
+[[Category:American animated films]]
+[[Category:American mystery films]]
+[[Category:English-language films]]
+[[Category:Animated Batman films]]
+[[Category:Films set in the 1930s]]
+[[Category:Films set in the 1940s]]
+[[Category:Neo-noir]]
+[[Category:DC animated universe films]]
+[[Category:Warner Bros. animated films]]
+
+{{Link GA|ru}}

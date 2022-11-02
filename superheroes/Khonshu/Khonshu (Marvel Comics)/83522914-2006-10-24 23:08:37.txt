@@ -1,0 +1,31 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = [[Image:Khonshu.png]]
+| caption = Panel from [[Moon Knight]] (Vol.1) #21<br>Illustrated by [[Greg LaRoque]] and [[Dave Simons]]
+| character_name = Khonshu
+| publisher = [[Marvel Comics]]
+| debut = ''Moon Knight'' (1st series) #1 (November 1980)
+| creators = 
+| alter_ego = 
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = [[Heliopolitans (comics)|Heliopolitan Gods]], [[Moon Knight]]
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = 
+}}
+'''Khonshu''' is a [[fictional character]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]], based loosely on the [[Chons|Khonshu]] of [[Egyptian mythology]]. Khonshu first appeared in ''Moon Knight'' (1st series) #1 (November 1980).
+
+He is the patron of the superhero [[Moon Knight]]. 
+
+==In other media==
+Khonshu appears as an alternate costume for Moon Knight in the video game ''[[Marvel: Ultimate Alliance]]''.
+
+
+==External link==
+*[http://www.marvunapp.com/Appendix/khonshum.htm Khonshu at marvunapp.com]
+
+[[Category:1980 introductions]]
+[[Category:Marvel Comics Heliopolitans]]
+
+{{Marvel-Comics-stub}}

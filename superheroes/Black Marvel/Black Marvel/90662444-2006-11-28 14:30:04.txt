@@ -1,0 +1,25 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Black Marvel
+|real_name=Dan Lyons
+|publisher=[[Marvel Comics]]
+|debut=''Mystic Comics'' vol. 1 #5 (March 1941)
+|creators=
+|alliance_color=background:#cccccc
+|status=
+|alliances=
+|previous_alliances=[[Slingers (comics)|Slingers]]
+|aliases=
+|relatives=
+|powers=
+|}}
+
+'''Black Marvel''' is a fictional character in the [[Marvel Comics]] Universe. He originally appeared in 1941 on the pages of ''Mystic Comics''. By contracutally binding himself with the archdemon Mephisto, he was able to obtain 4 superpowered costumes and start the crime fighting group known as the [[Slingers (comics)|Slingers]].
+
+[[Category:Golden Age superheroes]]
+[[Category:Marvel Golden Age characters]]
+
+
+{{Marvel-Comics-stub}}

@@ -1,0 +1,34 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = [[Image:Nightstalkers16.jpg|200px]]
+| caption = ''Nightstalkers'' #16 (Feb. 1994): Cover art by [[Bill Wylie]] and [[Frank Turner]].
+| comic_color = background:#ff8080
+| character_name = Dreadnought
+| publisher = [[Marvel Comics]]
+| debut = [[Strange Tales]] #154 (Mar 1967)
+| creators = [[Jim Steranko]]
+| alliance_color = background:#cccccc
+| real_name =
+| species = [[robot]]
+| status = 
+| alliances = [[HYDRA]]
+| previous_alliances = <!-- optional -->
+| aliases = <!-- optional -->
+| relatives = <!-- optional -->
+| powers =Flamethrowing gauntlets,<br>Projectile spikes on knuckles,<br>Electrifying touch,<br>Ability to cause radiation emission from eyes,<br>Freezing breath
+}}
+
+'''Dreadnoughts''' are a type of [[fictional character|fictional]] [[robot]] found in the [[Marvel Comics]] [[Marvel universe|universe]].  They are frequently employed by [[villain]]ous organizations, such as [[HYDRA]] and the [[Maggia (comics)|Maggia]].
+
+==History==
+The Dreadnought is a non-sentient robot created by the subversive organization HYDRA for use in various commando operations. It was first used in an attempt to breach the [[S.H.I.E.L.D.]] [[Helicarrier]] and assassinate director [[Nick Fury]]. Later the design and specifications for it were sold to the criminal cartel, The [[Maggia (comics)|Maggia]]. A rebuild version was used years later during an attack to destroy London city, where the robot had to fight Union Jack.
+
+==Powers==
+The Dreadnought's gauntlets have [[flamethrower]] nozzles.  Its knuckles are studded with spikes which can be shot like rifle bullets.  From the modules mounted like ears, the Dreadnought generates a powerful electrical charge which conducts throughout its frame.  The Dreadnought has no capability for projecting this electricity, but is capable of electrifying by touch. The Dreadnought's eyes are gamma ray particle projectors which can irradiate a target. The Dreadnought’s mouth is connected to a tank of refrigerated Freon gas which allows the Dreadnought a single-use attack of freezing breath.
+
+==External links==
+* [http://www.marveldirectory.com/individuals/d/dreadnought.htm Dreadnought at MarvelDirectory.com]
+
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics supervillains]]
+
+[[fi:Dreadnought (sarjakuvahahmo)]]

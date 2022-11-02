@@ -1,0 +1,34 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Ruby Thursday
+|real_name=Thursday Rubinstein
+|publisher=[[Marvel Comics]]
+|debut=''[[Defenders (comics)|Defenders]]'' (1st series) #32
+|creators=
+|alliance_color=background:#cccccc
+|status=
+|alliances=[[Headmen]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=artificial red plastic head, able to shape into any form, project energy blasts
+|}}
+
+'''Ruby Thursday (Thursday Rubinstein)''' a fictional character in the [[Marvel Comics]] Universe and a member of the [[Headmen]].
+
+==Bibliography==
+*''Defenders Annual'' #1
+*''Defenders'' (1st series) #32-33, 35
+*''Defenders'' (2nd series) #5, 8-10
+*''I (heart) Marvel: Outlaw Love''
+*''Marvel Comics Presents'' #97
+*''Sensational [[She-Hulk]]'' #1-3
+*''She-Hulk'' (vol.2) #10
+*''Web of [[Spider-Man]]'' #73
+
+{{Marvel-Comics-stub}}
+
+[[Category:Marvel Comics characters]]
+[[Category:Fictional Americans in Marvel Comics]]

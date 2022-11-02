@@ -1,0 +1,34 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:PPSM3Cover.jpg|250px|]]
+|caption=Cover to ''[[Spectacular Spider-Man]]'' #3<br>Art by [[Sal Buscema]]
+|comic_color=background:#ff8080
+|character_name=Lightmaster
+|real_name=Dr. Edward Lansky
+|publisher=[[Marvel Comics]]
+|debut=''[[Spectacular Spider-Man|Peter Parker, the Spectacular Spider-Man]]'' #3
+|creators=
+|alliance_color=background:#cccccc
+|status=Unknown
+|alliances=
+|previous_alliances=One World Church
+|aliases=
+|relatives=
+|powers=Composed of "hard light"<br.>[[List of comic book superpowers#Light manipulation|Light manipulation]]|}}
+'''Lightmaster''' (real name Dr. '''Edward Lansky''') is a [[fictional character]], a [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]].
+
+He has fought [[Spider-Man]], [[Cloak and Dagger (comics)|Cloak and Dagger]] and, most recently, [[Cable (comics)|Cable]]. In his fight with Cable, he had been hired by the "One World Church" to distribute the Façade Virus, which the OWC intended to use to turn everyone blue and thus eliminate racial divides. Cable subverted his control and instead turned everyone pink for two days, before publicly disabling the virus.
+
+==Powers and abilities==
+Originally, Lansky required a unique [[power armor]] suit which utilized "gravity-pump circuitry" to allow him to manipulate light.  With it, he could fly, emit blinding flashes of light, create semi-solid constructs (similar to those a [[Green Lantern]] might make with their [[Green Lantern#Powers and abilities|Power Ring]]), or create ''ersatz'' [[Brass knuckle]]s to increase the power of his punches.  The suit could asborb fairly large amount of electrical energy without damaging the wearer, but a sufficient amount could (and indeed did) cause the circuitry to overload and convert the wearer into "living energy."
+
+==External link==
+*[http://spiderfan.org/characters/lightmaster.html Spiderfan.org bio of Lightmaster] (does not include his ''[[Cable & Deadpool]] appearance).
+
+[[Category:Spider-Man villains]]
+[[Category:Fictional Americans in Marvel Comics]]
+[[Category:Fictional characters with the power to manipulate light]]
+
+[[fr:Lightmaster]]
+
+
+{{Marvel-villain-stub}}

@@ -1,0 +1,50 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+ image=<!-- Unsourced image removed: [[Image:Pulseaugustus.jpg|225px]] -->
+|caption= 
+|comic_color=background:#ff8080 
+|character_name=Pulse
+|real_name=Augustus
+|species=[[Mutant (Marvel comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''X-Men'' vol. 2, #173
+|creators=[[Peter Milligan]]<br>[[Salvador Larroca]] 
+|alliance_color=background:#cccccc
+|alliances=[[X-Men]]<br/>[[The 198]] 
+|aliases="Gus", Pulsey"
+|powers=Ability to disable superpowers, electronic systems and blocks telepathic intrusions
+}}
+'''Pulse''' ('''Augustus'''), is a fictional character from the [[Marvel Comics]] [[Marvel universe|universe]].  Pulse is a [[Mutant (Marvel comics)|mutant]] who retained his powers post-[[Decimation (comics)|M-Day]].  He is the man with whom Mystique is attempting to have Rogue fall in love; both now reside at the [[X-Mansion|Xavier Institute]]. He first appeared in ''X-Men vol. 2,'' #173.
+
+==Fictional character biography==
+Sometime after having escaped being an underground agent for [[Professor X|Xavier]], [[Mystique (comics)|Mystique]] decided to prove to [[Rogue (comics)|Rogue]] that [[Gambit (comics)|Gambit]] was not right for her.  Mystique's plan to rid Rogue of Gambit involved sowing discord in the couple's romance and, once the pair was soon to be no more, introduce Rogue to Augustus.  Given the dialogue between Mystique and him<ref>''X-Men'' vol. 2 #174</ref>, in which Mystique says she "wanted to see for [herself] that [Augustus] is the man she hopes he is," it can be assumed that the associates did not yet know each other well.
+
+Augustus and Mystique were next seen<ref>''X-Men'' vol. 2 #179</ref>, stealing paintings from a house.  Mystique asks what he does with all of the money he gets from selling stolen goods on the [[black market]], he replies that he invests the money into [[stocks]] he knows will soon crash, as he gets some kind of sick pleasure out of losing other peoples' money.  Mystique replies, "Time you were safely married, Augustus."  Augustus is worried about Gambit's reaction, and comically remarks upon the authenticity of [[Gambit (comics)|how Cajun he really is]].  Mystique then reveals she is certain that of all the men she checked out to be Rogue's new romance, Augustus is the one who can "make my daughter happy."
+
+Mystique and Augustus make their way back to the [[X-Mansion|Xavier Institute]] and Mystique announces she is joining the X-Men<ref>''X-Men'' vol. 2 #181</ref> after what happened last time--before making it very clear that she is going to set Augustus up with Rogue.  
+
+In a moment alone, Augustus and Rogue sit down in a tree to talk to one another<ref>''X-Men'' vol. 2 #182</ref>.  At first, Rogue is defensive and declares that no matter what her "crazy mother" told Augustus, she and Gambit are happy together.  She explains that they, of course, have their problems, and Augustus replies that he doesn't have problems.  Continuing on, Augustus states that Mystique wants Rogue to be happy, and no matter how Rogue feels for him, they should at least try to be friends, for there is so much strife in the world without the two of them fighting.  He puts his hand on Rogue's shoulder, and she informs him, "Mister, I wouldn't put your hand there."  He replies, "You going to slap a suit on me for [[sexual harassment]]?" Rogue replies that she isn't, and explains her power to him.  He tells her not to worry about it and his eyes begin to glow.  Rogue looks down at his hand and notices that nothing has happened to him; she asks how long his hand has been there without anything happening.  He replies, "Don't worry about that, either." 
+
+Outside of Apocalypse's temple, Mystique suggests that they use Pulse to neutralize [[Apocalypse (comics)|Apocalypse]]<ref>''X-Men'' vol. 2 #184</ref>; the X-Men argue over the idea. Rogue interrupts, stating that they should ask Augustus if he can do this to Apocalypse.  He smiles coyly and replies that he "doesn't know." Later that issue, Gambit is revealed to be the new Horseman of Death.
+
+In his time as a Horseman, Gambit twice attempted to kill Rogue so as to break his ties to his former life. Both times, Pulse was able to save Rogue by neutralizing Gambit's powers and physically overcoming him. Afterwards, Pulse attempted to woo Rogue; at first, Rogue seemed somewhat accepting of the idea, but once Pulse made a comment about Gambit, Rogue rejected him, stating that she "never [wants] to worry about romance again."
+
+As Rogue left, Mystique commented on his poor timing. Pulse told her to go away, and his current status is unclear. Since ''[[Decimation (comics)|Decimation]]'' he was one of the few mutants to retain his powers and was forcibly relocated to the mutant camp for [[X-Men: The 198|the 198]].
+
+==Powers and abilities==
+Augustus produces a disruptive pulse from his eyes which can disable systems and people, including mutant and non-mutant powers, and scramble electronic systems.  His power also creates a masking effect to disguise his brain wave patterns from psychics.
+
+==Trivia==
+{{Trivia|date=August 2007}}
+*In ''X-Men vol. 2,'' #179, Augustus remarks that he prefers to be called by his codename when "working"---i.e. stealing.  Mystique jokingly replies, "OK... ''Pulsey''."
+*Mystique says of Augustus in #181 that Augustus "is a sweet man with no fear of heights, nice manners and a criminal record as spotless as his underpants."  
+*In the same issue, Mystique calls him "Gus."
+*In issue #184, Mystique states that if they can get Augustus close enough to Apocalypse, he can "drain away" his powers.  This "draining" might be a contradiction in the nature of Pulse's power, as before it seemed as if he simply neutralized mutanagenic powers, not siphoned energy. It might also be a reference to the fact that Pulse was unable to completely neutralize Apocalypse, and instead his powers only weakened him slowly. This could be taken to indicate that Pulse's power isn't instant, and that sufficiently powerful mutants are largely unaffected by it.
+*It is unclear whether or not Pulse became an X-Man when Mystique did or not. There has been nothing said to support the idea that is an official X-Man, yet, he was brought along to confront Apocalypse. Due to the departure of [[Peter Milligan]] as the writer, this issue may not be resolved, as the new staff writing [[X-Men]] have yet to use the character.
+
+==Footnotes==
+{{reflist}}
+
+[[Category:Marvel Comics characters]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]]
+[[pt:Pulso (Marvel Comics)]]

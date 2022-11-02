@@ -1,0 +1,76 @@
+{{refimprove|date=August 2016}}
+
+{{Infobox comics organization
+<!--Wikipedia:WikiProject Comics-->
+|name=Earth Force
+|image=
+|imagesize=
+|caption=
+|publisher=[[Marvel Comics]] 
+|debut=''[[Thor (Marvel Comics)|Thor]]'' #395 (Sept 1988)
+|creators=[[Tom DeFalco]] and [[Ron Frenz]]
+|status=
+|base=
+|members=Earth Lord<br />Skyhawk<br />Wind Warrior
+|cat=teams
+|subcat=Marvel Comics
+|hero=y
+|villain=
+|sortkey=Earth Force (Marvel Comics)
+}} 
+'''Earth Force''' is a fictional [[superhuman]] team appearing in [[American comic book]]s published by [[Marvel Comics]]. The team first appeared in ''[[Thor (Marvel Comics)|Thor]]'' (1st series) #395. The team consists of three humans granted elemental powers by [[Seth (Marvel Comics)|Seth]].
+
+==Publication history==
+Earth Force first appeared in ''[[Thor (Marvel Comics)|Thor]]'' #395 (September 1988), and was created by [[Tom DeFalco]] (writer) and [[Ron Frenz]] (artist).
+
+The team subsequently appears in ''Thor'' #396-399 (October 1988-January 1989), #426 (November 1990), ''Thor Annual'' #16 (1991) and ''Thor'' #456 (December 1992).
+
+One member of the team, Skyhawk, appeared in ''Civil War: Front Line'' #11 (April 2007).
+
+Earth Force has an entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Update '89]]'' #2.
+
+==Fictional team history==
+=== Thor ===
+The death god [[Seth (Marvel Comics)|Seth]] took three hospitalized people from [[New York City]] to his own "dimension of death", Kyle Brock; a [[policeman]] who had been hospitalized when he was shot by [[criminal]]s, Winston Manchester; a businessman working who had been hospitalized from overwork, and Pamela Shaw; a suburban housewife who had been hospitalized when she had attempted suicide after her baby had died and her husband had left her. While there, Seth healed them, and gave them elemental superhuman powers, calling them '''Earth Lord''', '''Skyhawk''' and '''Wind Warrior'''. 
+
+Employed by Seth these three humans, now known collectively as '''Earth Force''', worked as pawns for vengeance. Seth tricked Earth Force into thinking that [[Hogun]] was a menace, and they fought [[Thor (Marvel Comics)|Thor]] and Hogun, until Thor exposes Seth's evil nature to them. Their first mission fails and they reconciled with Thor and Hogun, and were transported back to Seth's dimension. They fought Seth's warriors and were captured by Seth's forces. They were freed by Hogun, and continued to battled Seth's forces.<ref>''Thor'' #395-399</ref><ref name=Seth>{{cite web |url=http://www.marvunapp.com/Appendix/sethheli.htm |title=Seth |last1=Uchtman |first1=William |last2=Hoskin |first2=Michael |website=marvunapp.com |publisher=the Appendix to the Handbook of the Marvel Universe |accessdate=December 6, 2013}}</ref> Earth Force then confronted Seth, and were mortally injured by him. They were restored to life and returned to Earth by the gods of [[Heliopolis (Marvel Comics)|Heliopolis]].<ref>''Thor'' #400</ref><ref name=Seth/><ref>"Avengers West Coast". Marvel Comics Encyclopedia: The Complete Guide to the Characters of the Marvel Universe (2008). Published by DK Publishing. ISBN 978-0-7566-2358-6</ref>
+
+Earth Force fought the Bloody Claws.<ref>''Thor'' #426</ref> Later, Earth Lord was prevented by Wind Warrior from endangering a baby by attacking [[Silver Sable]] and her Wild Pack who they mistook for kidnappers.<ref>''Thor Annual'' #16</ref>
+
+=== Civil War / Initiative ===
+
+After the superhuman [[Civil War (comics)|Civil War]], Skyhawk was identified as a registered superhero, working as part of the [[Fifty State Initiative]] on the unnamed stationed team of [[Washington (U.S. state)|Washington]] state. It's unknown if Earth Lord and Wind Warrior are also on this team. This Skyhawk is revealed to be a Skrull in disguise, however.<ref>''Avengers: The Initiative'' #19</ref> After the invasion is over, the real Skyhawk isn't shown in a support group meeting with the others that had been replaced by Skrulls.<ref>''Avengers: The Initiative'' #20</ref> His current whereabout are unknown.
+
+==Membership==
+=== Earth Lord ===
+'''Kyle Brock''' was a [[policeman]] working in New York City, who had been hospitalized when he was shot by [[criminal]]s. His superhuman powers were magically endowed to him by the [[Heliopolitans (comics)|Egyptian god]], Seth. As Earth-Lord, he has superhuman strength, stamina, and durability. He has the ability to draw strength and mass from the ground to become a giant with superhuman physical attributes, and can return to his normal size and mass at will. He wears a costume of enchanted metal and fabric that grow and shrink as Earth-Lord changes size. The glowing sign of Aton can appear on Brock's palm. Brock is a good hand-to-hand combatant, having received police training in unarmed combat and marksmanship with firearms. As Brock, he employs a conventional handgun and nightstick as a policeman.
+
+=== Skyhawk ===
+'''Winston Manchester''' was a businessman working in New York City, who had been hospitalized from overwork. His superhuman powers were magically endowed to him by the Egyptian god, Seth. Skyhawk possesses the power of flight, by using his powerful underarm-to-rib cage wings. He also possesses superhuman strength (10 tons).
+
+=== Wind Warrior ===
+'''Pamela Shaw''' was a housewife living in New York City, who had been hospitalized when she had attempted suicide after her baby had died and her husband had left her. Her superhuman powers were magically endowed by the Egyptian death god Seth. As Wind Warrior, she has the ability to transform her body to become winds and whirlwinds of strengths raging up to tornado force, and has the ability to fly by summoning winds strong enough to bear her aloft. As Wind Warrior, she also possesses superhuman strength.
+
+==References==
+<references/>
+
+==External links==
+=== Team ===
+* {{Marvelwiki|Earth_Force|Earth Force}}
+* {{comicbookdb|type=team|id=540|title=Earth Force}}
+* {{comicbookdb|type=team|id=1678|title=Earth Force (Initiative)}}
+
+=== Members ===
+* {{Marvelwiki|Earth_Lord|Earth Lord}}
+* {{Marvelwiki|Skyhawk|Skyhawk}}
+* {{Marvelwiki|Wind_Warrior|Wind Warrior}}
+
+{{Thor}}
+{{Initiative}}
+
+[[Category:Fictional characters from New York City]]
+[[Category:Marvel Comics superhero teams]]
+[[Category:Mythology in Marvel Comics]]
+[[Category:Comics characters introduced in 1988]]
+[[Category:Characters created by Tom DeFalco]]
+[[Category:Characters created by Ron Frenz]]

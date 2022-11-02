@@ -1,0 +1,43 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Dr. Karl Malus
+|real_name=Karl Malus
+|species=[[human]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Spider-Woman (Jessica Drew)|Spider-Woman]]'' #30 (Sep 1980)
+|creators=[[Michael Fleisher]] and [[Steve Leialoha]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Power Broker]], [[Corporation (comics)|Corporation]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''Dr. Karl Malus''' is a fictional [[mad scientist]] and criminal in the [[Marvel Universe]], created by [[Michael Fleisher]], [[Steve Leialoha]] and [[Jim Mooney]]. He first appeared in ''[[Spider-Woman]]'' # 30, in September 1980. 
+
+==Fictional character biography==
+
+In his first appearance, Malus was performing illegal medical experiments on human beings, funded by the criminal [[Enforcer (comics)|Enforcer]], in order to find out more about [[superhuman]]s and their abilities. He was approached by the [[Human Fly (comics)|Human Fly]], a [[supervillain]]  who was losing his powers. Malus sent the Fly to steal some equipment, attracting the attention of the original [[Jessica Drew|Spider-Woman]]. Since Spider-Woman's friend Scotty McDowell had been rendered comatose by one of the Enforcer's poison bullets, Malus offered to cure McDowell in exchange for leniency. Spider-Woman agreed, but while curing McDowell, Malus also experimented on him using the Fly's DNA, which would later cause McDowell to transform into the villainous [[Hornet (comics)#Hornet (Scotty McDowell)|Hornet]]. Malus went to prison, but was released in order to "help" authorities against the threat of the Hornet. In actuality, he wanted to capture and study Spider-Woman. Malus slipped away, and made contact with the Hornet, whom he kept drugged and aggressive for his own purposes.
+
+Malus then contacted [[Werewolf by Night|Jack Russell]], a man cursed with [[lycanthropy]], and told him he could help cure his transformations into a [[werewolf]]. Instead, he placed a control collar on Russell, and sent both Hornet and the Werewolf after Spider-Woman. She was able to defeat both of them, and freed the werewolf, who then attacked Malus.
+
+In his next appearance (''[[Iron Man]] Annual'' #7), Malus had studied the bizarre criminal Daddy Longlegs, who had gained his powers from a modified growth-serum used by [[Black Goliath]], and had thus acquired a sample of [[Pym Particles]], which could alter a person's size and mass. With this knowledge, Malus hoped to restore the powers of [[Erik Josten]]. He gave Josten growth powers and enhanced strength, turning him into the supervillain [[Goliath (comics)|Goliath]], but Goliath rejected Malus' offer of partnership, and was in turn defeated by the [[West Coast Avengers]]. In ''[[Captain America]]'' #308, Malus also transformed Antonio Rodriguez into the [[Armadillo (comics)|Armadillo]].
+
+Eventually, Malus went to work for the [[Power Broker]], Curtiss Jackson, using his technology to augment the strength of paying customers to superhuman levels. The strength augmenting process was tremendously risky, with half the subjects dying or becoming severely deformed, but this information was kept a closely guarded secret. Power Broker and Malus also used highly addictive drugs on their subjects, telling them that the chemical was necessary to stabilize their powers, but in fact it only served to keep the subjects working for-- and paying --the Power Broker. One such victim was [[Sharon Ventura]], who was also sexually abused while drugged. Many wrestlers of the [[Unlimited Class Wrestling Federation]], which is only open to those with super-strength, have used the Power Broker's services, and wound up indebted to them.
+
+When Power Broker, Inc. was attacked by the vigilante known as [[Scourge (comics)|The Scourge of the Underworld]], Curtiss Jackson was exposed to his own augmentation device in order to try to gain super-strength to defend himself. The process wen awry, leaving him so grotesquely muscle-bound that he could not move. Malus decided to take advantage of this situation by sending [[Vagabond (comics)|Vagabond]], who knew Jackson, to obtain a copy of his [[fingerprints]] so that Malus could access all of Jackson's personal accounts and vaults. He used and explosive wristband to force Vagabond's cooperation, but she managed to knock Malus out, destroy the fingerprint mold, place the band on his wrist, and inject him with the drug he had planned to use on her.
+
+The Power Broker had Malus' legs broken for his betrayal, then promptly re-hired him to try to cure the Power Broker's condition. Malus captured and experimented on several augmented individuals, including [[Battlestar (comics)|Battlestar]], which drew the involvement of the [[U.S. Agent]]. Together, Battlestar and the Agent freed the captured wrestlers, and forced Malus to restore their strength. The U.S. Agent then destroyed Malus' equipment and records.
+
+Malus has since worked for a variety of criminal organizations.
+
+==External links==
+* [http://www.marvunapp.com/Appendix/maluskarl.htm Profile at Appendix to the Marvel Universe]
+
+{{DEFAULTSORT:Malus, Karl}}
+[[Category:Marvel Comics supervillains]]
+[[Category:Fictional scientists]]

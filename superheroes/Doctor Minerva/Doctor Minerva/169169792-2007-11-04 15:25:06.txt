@@ -1,0 +1,26 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Doctor Minerva
+|real_name=Minn-Erva
+|species=[[Kree]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Mar-Vell|Captain Marvel]] #50'' (May 1977)
+|creators=[[Scott Edelman]] and [[Al Milgrom]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+ 
+'''Doctor Minerva''' is a fictional character in the [[Marvel Universe]].
+
+Doctor Minerva is a [[Kree]] genetecist.  She was an enemy of the rogue Kree agent [[Mar-Vell|Captain Mar-Vell]], and later became the partner of [[Captain Atlas]].
+
+
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics supervillains]]

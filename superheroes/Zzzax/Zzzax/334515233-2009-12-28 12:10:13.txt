@@ -1,0 +1,53 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:IH-183.jpg|250px]]
+|caption='''Zzzax''' battles the ''[[Hulk (comics)|Hulk]]'' on the cover of ''Hulk'' #183 (Jan. 1975). Art by [[Herb Trimpe]].
+|comic_color=background:#ff8080
+|character_name=Zzzax
+|real_name=Brian David Banner
+|publisher=[[Marvel Comics]]
+|debut=''[[Hulk (comics)|The Incredible Hulk]]'' #166 (Aug. 1973)
+|creators=[[Steve Englehart]]<br>[[Herb Trimpe]]
+|alliance_color=background:#c0c0ff
+|alliances=
+|aliases=[[Thunderbolt Ross|General "Thunderbolt" Ross]]<br>The Living Dynamo
+|powers=[[List of comic book superpowers#Electrical manipulation|Electrical manipulation]]<br>Super-strength and durability<br>Ability to supposedly gain intellect
+|}}
+
+'''Zzzax''' is a [[fictional character]] that appears in [[comic books]] published by [[Marvel Comics]]. The character first appears in ''[[Hulk (comics)|Hulk]]'' #166 (Aug. 1973) and was created by [[Steve Englehart]] and [[Herb Trimpe]].
+
+==Publication history==
+Debuting in the title ''Hulk'',<ref name="Hulk #166 Aug. 1973">''Hulk'' #166 (Aug. 1973)</ref> Zzzax is a [[humanoid]] creature formed from [[electricity]] by an act of [[sabotage]] at a [[Consolidated Edison|Con Ed]] [[nuclear power|nuclear power plant]] in [[New York City]]. A group of [[terrorist]]s destroying the [[dynamo]]s started a [[chain reaction]] that causes a rapid build in energy, which takes on a life of its own and [[absorb]]s the minds of the terrorists and several [[engineer]]s. By using the electrical energy from their [[brain]]s, the entity is able to achieve humanoid form and [[sentience]]. Calling itself Zzzax, the entity fights the ''Hulk'' and the hero [[Hawkeye (comics)|Hawkeye]] before being defeated.<ref name="Hulk #166 Aug. 1973"/>
+
+The character returns to the title ''Hulk'' and repeats its behavior at a research center in [[Chicago]]. The Hulk battles the entity to a standstill before several scientists shut the process that creates Zzzax.<ref>''Hulk'' #183 (Jan. 1975)</ref> Zzzax reappears in the title ''[[Luke Cage]], Power Man'', and hunts the men responsible for its last defeat. Cage defeats the entity, but not before it kills one of the scientists.<ref>''Luke Cage, Power Man'' #47 (Oct. 1977)</ref> Zzzax returns in the title ''Hulk'' to confront an intelligent version of the monster (possessing the intelligence of [[Bruce Banner]]), but is quickly defeated.<ref>''Hulk'' #285 (July 1983)</ref> [[Demon]] [[Mephisto (comics)|Mephisto]] reforms the entity in the [[limited series]] ''[[Secret Wars]]'', although it is defeated by [[Fantastic Four]] member the [[Thing (comics)|Thing]].<ref>''Secret Wars II'' #7 (Jan. 1986)</ref> In the title ''[[West Coast Avengers]]'' the character Zzzax teams with [[fundamental interaction|fundamental force]] villains [[Graviton (comics)|Graviton]]; [[Quantum (comics)|Quantum]] and [[Halflife (comics)|Halflife]], but is [[shortcircuit]]ed by Hawkeye.<ref>''West Coast Avengers'' #12 - 13 (Sep. - Oct. 1986)</ref>
+
+The title ''Hulk'' details how Zzzax is eventually captured and contained by the spy organization [[S.H.I.E.L.D.]], who transport it to Gamma Base. [[General]] [[Thunderbolt Ross]], long-time foe of the Hulk, arranges for his mind to be transferred into Zzzax's body and battles a new version of the Hulk, [[Rick Jones (comics)|Rick Jones]].<ref>''Hulk' #325 - 327 (Nov. 1985 - Feb. 1986)</ref> Ross relinquishes control of the entity soon after saving his daughter [[Betty Ross Banner]], realizing that his actions had risked lives.<ref>''Hulk' #330 (May. 1986)</ref> Zzzax battles hero ''[[Iron Man]]'' in the title ''[[Marvel Comics Presents]]''<ref>''Marvel Comics Presents'' #8 (Apr. 1989)</ref> and outsider ''[[Cable (comics)|Cable]]'' in the self-titled series.<ref>''Cable'' #59 (Oct. 1998)</ref>
+
+The entity reappears in the title ''[[New Avengers]]'' and participates in the mass escape by supervillains from holding facility ''[[The Raft (comics)|The Raft]]''.<ref>''New Avengers'' #1 - 3 (Jan. - Mar. 2006); ''New Avengers: Most Wanted Files'' #1 (July 2006)</ref> The second volume of the title ''[[She-Hulk]]'' reveals the character has been contained by S.H.I.E.L.D. After briefly escaping and turning the defence systems of the organisation's [[Helicarrier]] against its agents, it is recaptured by heroine ''She-Hulk''.<ref>''She-Hulk'' vol. 2, #17 (Apr. 2007)</ref>
+
+==Powers and abilities==
+As a being of pure electricity, Zzzax is capable of absorbing and discharging powerful currents of electricity; manipulating nearby electrical fields and equipment, and [[flight]]. The character's size and strength level increases in relation to the amount of electricity absorbed. This control of electrical current extends to the human nervous system, as Zzzax has been shown to be capable of controlling even the Hulk. Zzzax is also dependent upon brain electricity, and when killing prey will temporarily take on the personality traits of the victim. Zzzax has been shown as being capable of generating intense heat, to the point whereby water - a previous weakness - evaporates before touching it.
+
+==In other media==
+===Television===
+* Zzzax appears in the [[animated]] ''[[The Incredible Hulk (1996 TV series)|The Incredible Hulk]]'' series, with the character's voices performed by [[Michael Bell (voice actor)|Michael Bell]] (his main voice), [[Leeza Miller McGee]], and [[Kevin Schon]] (1996–1997).
+* Zzzax appears in ''[[The Super Hero Squad Show]]'' episode "A Brat Walks Among Us" voiced by [[Jonathan Mankuta]]. He assists [[Pyro (comics)|Pyro]] into attacking Super Hero City only to be stopped by [[Heroes For Hire]] and end up remanded to the [[Vault (comics)|Vault]].
+
+===Toys===
+* The character is part of the [[Marvel Toys|Toy Biz]] and [[Heroclix]] lines.
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://marvel.com/universe/Zzzax Zzzax] at Marvel.com
+* [http://www.leaderslair.com/marvelvillains/zzzax.html Leader's Lair: Zzzax]
+
+{{Hulk}}
+
+[[Category:1973 comics characters debuts]]
+[[Category:Marvel Comics supervillains]]
+
+[[fr:Zzzax]]
+[[it:Zzzax]]
+[[pt:Zzzax]]
+[[fi:Zzzax]]

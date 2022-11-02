@@ -1,0 +1,43 @@
+{{Superherobox|<!--Wikipedia: WikiProjectComics-->
+  image =[[Image:Annex.jpg|250px]]
+| caption =Annex.<br>Art by [[Steve Uy]].
+| comic_color = background:#ff8080
+|character_name=Annex
+|real_ name=Alexander Ellis
+|publisher=[[Marvel Comics]]
+|debut= ''[[Amazing Spider-Man]] Annual'' #27 (1993)
+|creators=[[Jack Harris]]<br>[[Tom Lyle]]
+|alter ego= Alexander Ellis
+|aliases=
+|alliances=[[Avengers: The Initiative|Initiative]]
+|powers= superhuman athletic ability, weapon creation, flight, informational downloading methods
+|}}
+
+'''Annex''' ('''Alexander Ellis''') is a [[fictional character]] of the [[Marvel Universe]], associated with [[Spider-Man]]. His first appearance was in ''[[Amazing Spider-Man]] Annual'' #27. Annex' powers were the result of [[prosthetics]] through computer technology. After losing a leg, he volunteered for this program. Ellis now possesses the ability to increase his physical abilities, as well as create any weapon he requires. Annex's appearance features a metal exo-skeleton battle suit, helmet, and belt. 
+
+==Publication history==
+Annex first appeared in ''[[Amazing Spider-Man]] Annual'' #27 as an enemy of Spider-Man, but went on to become an ally. His next appearance was ''[[Spider-Man Unlimited]]'' #3, followed by a self titled [[limited series]], ''Annex''.
+
+He has appeared in the ''[[Avengers: the Initiative]]'' series since issue #13.
+
+==Fictional character biography==
+Ellis grew up to become a [[soldier]] in the [[Gulf War|Desert Storm]]. While fighting over in the [[Middle East]], Ellis is shot in the leg and badly wounded. Though he is in need of medical help, Ellis tries to help rescue his friend, Davey, who ends up dying from a battle wound. Ellis receives a [[Purple Heart]] and other medals, but is too focused on the matter of his leg to care. After getting an old, unadvanced leg to use, Ellis becomes furious. He signs up for an Annexing unit, where, supposedly, [[computer technology]] will help you grow a newly functioning limb, whereas a real computer could never do something that advanced. Ellis is chosen to be the first to be tested on by Dr. Hillman Barto, the scientist for the Annexing unit. But, because of a [[computer glitch]], Ellis receives not only a leg but a dangerous power. After losing his memory shortly after the glitch, Ellis becomes Annex. Annex escapes from the programming building, where he meets and quickly fights Spider-Man. After rescuing Annex, Spider-Man returns him to where he was found and learns the story of how Ellis was a [[veteran]] and how the Annexing unit's computer glitch caused him to turn into Annex. After quickly learning from Hillman Barto about how the program was designed by Abner Dunson, the father of a killed Desert Storm soldier, and how Dunson planned to use Ellis to bring his son's memory back and lose Ellis', Ellis turns back into Annex and seeks revenge. After a quick battle between Annex and Dunson (a newly formed robotic [[supervillain]] version), later to be ended by Spider-Man, Annex changes back into Ellis and his goodness is restored. Days later, Barto and Ellis leave town to continue the program as good American citizens.{{Issue|date=November 2009}} Ellis later goes on to be applied with new enemies, such as Ren-Tech, and goes to fight alongside other superhumans, such as [[Vengeance (comics)|Vengeance]].{{Issue|date=November 2009}} Barto later dies as a result of Dunson's Annexing company capturing him for the loss of technology.{{Issue|date=November 2009}}
+
+===The Initiative===
+During Ellis' last few appearances, [[Iron Man|Tony Stark]] considers Annex as a potential Initiative recruit. He later joined Camp Hammond along with [[Sunstreak]], [[Prodigy (comics)#Prodigy (Ritchie Gilmore)|Prodigy]], [[Batwing (comics)|Batwing]] and others.<ref>''Avengers: The Initiative'' #13</ref> After the [[Secret Invasion|Skrull invasion]], Annex was assigned to New Mexico's Initiative team.<ref>''Avengers: The Initiative'' #21</ref>
+
+==Powers and abilities==
+As a result of his exo-skeleton armor, Annex possesses the ability to increase his strength, speed, stamina, reflexes & reactions, coordination, agility, dexterity, balance, and endurance. Annex can also create any weapon he requires. The armor also grants him flight, "schema mode", and informational downloading methods, all at the base of a [[computer generated]] robotic structure.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix/annexell.htm|Annex}}
+
+{{DEFAULTSORT:Annex (Comics)}}
+[[Category:Fictional characters from New York City]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics superheroes]]
+
+[[tl:Annex (komiks)]]

@@ -1,0 +1,30 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Tremolo
+|real_name=''unrevealed''
+|species=[[Mutant (Marvel comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''X-Factor'' vol. 1 #80
+|creators=
+|alliances=[[Hell's Belles]]
+|aliases=
+|powers=Depowered, formerly:<br>Ability to radiate sonic waves,<br>Flight
+|}}
+
+'''Tremolo''' is a fictional [[Mutant (Marvel comics)|mutant]] character in the [[Marvel Comics]] Universe.
+
+==Powers==
+Tremolo is a mutant that had the ability to radiate sonic waves and fly.  She is currently depowered.
+
+==Notes==
+*There is a member of the [[Great Game (comics)|Great Game]] that is also called '''Tremolo''', that first appeared in ''New Thunderbolts'' #2
+
+==Bibliography==
+*''X-Factor'' vol. 1 #80-81
+
+{{Marvel-villain-stub}}
+
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics characters who can fly]]

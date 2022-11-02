@@ -1,0 +1,57 @@
+{{Superherobox|
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Changeling
+|real_name=Kevin Sydney
+|species=[[mutant (fictional)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=[[Uncanny X-Men|X-Men]] #35 (August, 1967)
+|creators= [[Roy Thomas]], [[Werner Roth (comics)|Werner Roth]].
+|alliance_color=background:#ffc0c0
+|status=Deceased
+|alliances=
+|previous_alliances=[[X-Men]], [[Factor Three]]
+|aliases=#2, John Askegren, Jack Bolton, Martina Johanssen, Werner Reiman, Charles Sage, Francisco Zerilli, [[Professor X|Professor Charles Xavier]]
+|relatives=
+|powers=[[Shapeshifting]],<br>[[Telepathy]]
+|}}
+
+'''The Changeling (Kevin Sydney)''' was a [[Marvel Comics]] [[fictional character|character]], and a member of the [[X-Men]]. Created by writer [[Roy Thomas]] and artist [[Werner Roth (comics)|Werner Roth]], he first appeared in ''[[Uncanny X-Men|X-Men]]'' #35 ([[1967#August|August 1967]]).
+
+The Changeling was a [[mutant (fictional)|mutant]] [[shapeshifting|shapeshifter]]. He was a short-lived X-Men adversary who, off-panel, joined the [[Professor X]]’s efforts and died shortly after.
+
+In the [[1990s]], he was reinvented as [[Morph (comics)|Morph]] in the [[X-Men (animated series)|''X-Men'' animated series]], which led to versions of the character being revived in the “[[Age of Apocalypse]]” [[alternate reality]] storyline and the series ''[[Exiles (Marvel Comics)|Exiles]].''
+
+==Fictional character history==
+The Changeling originally worked for the villainous organization [[Factor Three]]. Following that group's defeat he reformed and unbeknownst to the X-Men was recruited by [[Professor X]] to replace him while he isolated himself to prepare for his fight against the [[Z'Nox]]<ref>''X-Men'' (first series) #65 (February 1970)</ref>. The Changeling, masquerading as Professor X, was killed in battle shortly after<ref>''X-Men'' (first series) #42 (March 1968)</ref>.  However, the X-Men thought it was actually Professor X who had died and did not find out until later that it was in fact Changeling<ref>''X-Men'' (first series) #65</ref>
+
+Although the Changeling seemed destined for obscurity for many years, he was revived in alternate continuities as [[Morph (comics)|Morph]], first in the [[X-Men animated series]] and later in the [[Age of Apocalypse]] and ''[[Exiles (Marvel Comics)|Exiles]]''.
+
+==Powers and abilities==
+Changeling is a [[mutant (fictional)|mutant]] with the ability to alter his physical appearance at will to resemble that of any person he chooses.  He also has limited [[telepathic]] abilities which (in the original timeline) were enhanced by Professor X. As a side effect he also gained limited telekinetic abilities. He is also a skilled actor.
+
+==In other media==
+
+The character of Changeling, renamed as "Morph" for copyright reasons, appears in the X-Men animated series.  In the series, he was seemingly killed, but later revealed to be alive and out for revenge against the X-Men.  He later rejoined the X-Men team.
+
+==Bibliography==
+*''Excalibur: Possession''
+*''Official Handbook of the Marvel Universe: The Book of the Dead''
+*''She-Hulk'' vol. 2 #34-35
+*''X-Men'' vol. 1 #26-42, 65
+*''X-Men: Legends'' (story 2: "Diary of a False Man")
+
+==References==
+<div class="references-small">
+<references/>
+</div>
+
+[[Category:Marvel Comics superheroes]]
+[[Category:X-Men villains]]
+[[Category:Marvel Comics mutants]]
+[[Category:Fictional characters with the power to shapeshift]]
+[[Category:Fictional telepaths]]
+[[Category:X-Men]]
+
+[[fr:Changeling (X-Men)]]

@@ -1,0 +1,38 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Scrambler
+|real_name=Kim Il Sung
+|species=[[Mutant (Marvel comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Uncanny X-Men]]'' #210  (Oct 1986)
+|creators=[[Chris Claremont]] and [[Marc Silvestri]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Marauders (comics)|Marauders]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=nullify powers/capacities of anything
+|}} 
+
+'''Scrambler (Kim Il Sung)''' is a fictional [[mutant (comics)|mutant]] character in the [[Marvel Comics]] Universe. He first appeared in ''Uncanny X-Men #210'' and was created by [[Chris Claremont]], [[John Romita Jr]] and [[Dan Green]].
+
+== Character History ==
+Scrambler is a member of the [[Marauders (comics)|Marauders]], a band of assassins who were gathered together by the mutant thief [[Gambit (comics)|Gambit]] at the request of the enigmatic mastermind known as [[Mister Sinister]]. 
+
+Sinister first sent the Marauders to murder the entire population of the underground mutant community known as the [[Morlocks (comics)|Morlocks]]. In the course of this mutant massacre, the Marauders clashed with the mutant adventurers known as the [[X-Men]] and the original [[X-Factor (comics)|X-Factor]] team. Subsequently, the X-Men thwarted the Marauders' attempt to assassinate Sinister's former pawn, [[Madelyne Pryor]], in San Francisco.
+
+Later, Sinister sent the Marauders to battle the X-Men during the time of the demonic invasion of [[New York]] City known as the "Inferno". The Marauders were all killed during the "Inferno", but Sinister possesses the ability to clone them thanks to samples of their DNA. The Marauders later clashed with the dimensionally-displaced young mutant known as [[X-Man|Nate Grey]] after they attempted to assassinate Sinister's former servant, [[Threnody (comics)|Threnody]].
+
+Scrambler retained his mutant powers after the [[Decimation (comics)|M-Day]].
+
+==Powers==
+Scrambler is a mutant who possesses the ability to disrupt the function of any system with his touch, whether that system be that of a living being, a machine, or a field of energy. Scrambler must physically touch his target with his bare flesh in order to affect it. Scrambler has at least partial control over the effect his power has. If he touches a living being, Scrambler can cause immobilization, unconsciousness, or death. If his victim possesses superhuman powers, Scrambler can disrupt the function of those powers, most often causing them to overload which is often traumatic or even fatal for the victim.
+
+[[Category:X-Men villains]]
+[[Category:Marvel Comics mutants]]
+[[Category:The 198 Files]]
+[[Category:Fictional Koreans]]
+[[Category:Marauders members]]

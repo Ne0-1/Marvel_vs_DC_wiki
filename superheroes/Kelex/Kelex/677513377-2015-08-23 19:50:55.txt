@@ -1,0 +1,76 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Kelex
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[DC Comics]]
+| debut          = ''[[The Man of Steel (comics)|The Man of Steel]]'' #1
+| creators       = [[John Byrne (comics)|John Byrne]]
+| alter_ego      = 
+| full_name      =
+| species        = [[Robot]]
+| homeworld      = 
+| alliances      = 
+| partners       = 
+| supports       = [[Superman]]
+| aliases        = 
+| powers         = Enhanced Vision<br>Flight
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = 
+| sortkey        = Kelex
+| addcharcat#    = 
+}}
+'''Kelex''' is a fictional [[robot]] in [[DC Comics]].
+
+==Fictional character biography==
+He first appeared in ''[[The Man of Steel (comic book)|The Man of Steel]]'' #1, in which he was one of [[Jor-El]]'s Kryptonian Service Robot on the planet [[Krypton (comics)|Krypton]]. Presumed destroyed along with Jor-El and the rest of Krypton, Kelex has nonetheless returned toas Superman's primary robotic servant within the [[Fortress of Solitude]] where he works as its [[property caretaker]].
+
+When Kelex first appeared in 'The Man of Steel', he was only in one page of the first issue- he greeted his master, Jor-El, upon his return. Jor-El then orders him to bring the baby Kal-El (who would become Superman) in his birthing matrix. It is revealed in conversation with another of Jor-El's servant robots that Kelex had served Jor-El for all of his life, much longer than the other robot had, and had never seen him like this. The robot didn't appear for the rest of the issue, nor for the rest of the miniseries. He was presumably destroyed along with the planet Krypton.<ref>''The Man of Steel'' #1</ref>
+
+Later, when a Kryptonian device known as 'the [[Eradicator (comics)|Eradicator]]' was obtained by Superman, it tries to recreate Krypton on Earth, beginning with the South Pole in the Antarctic. Superman stops it, but the attempt had created the [[Fortress of Solitude]]. Along with the fortress had been created a group of robotic servants, one of which was a recreation of Kelex. Kelex is largely indistinguishable from the other Kryptonian robots who maintained the fortress.
+
+He attends the false, Eradicator version of Superman who had taken up residence in the Fortress.<ref>''Action Comics'' (vol. 1) #688 (Early July 1993)</ref>
+
+Kelex is used as a framing device for a tour of a redesigned Fortress of Solitude.<ref>''Superman Secret Files'' #1 (January 1998)</ref>
+
+The Fortress of Solitude is dramatically redesigned when [[Dominus (DC Comics)|Dominus]] took mental control of Superman. It is then destroyed by [[Lex Luthor]], severely damaging Kelex. When Superman returns to the fortress, he repairs the robot enough to enable him to speak. They were both sent to a ghostly replica of the Fortress, complete in every detail. Superman is able to keep a link to the ghostly fortress through Kelex, now reduced to a head. The robot then assists Superman in a crisis; an android double, programmed to protect [[Lois Lane]], had become defective. Kelex is vital in making the double stand down and thus rescuing Lois.<ref>''Superman: The Man of Steel'' #90 (July 1999)</ref> Later, when realizing [[Brainiac (comics)|Brainiac]] 13 is vulnerable to Kryptonian technology, Superman completely rebuilds Kelex, using him to coordinate an attack on Brainiac 13 by having Kelex convey instructions to Lex Luthor and later reactivate the [[Red Tornado]].
+
+Kelex operates in disguise as the hero 'Steel' for a while.<ref>''Action Comics'' (vol. 1) #779 (July 2001)</ref> Kelex is featured in an issue of 'Superboy'; he transcribes his impressions of [[Krypto]], who is helping people endangered by an alien invasion.<ref>''Superboy'' (vol. 3) #91 (October 2001)</ref>
+
+The fortress was later restored within a Tesseract (an infinite space within a finite containment), and Kelex is once again its caretaker. [[Natasha Irons]] reprograms Kelex so that he would speak more in slang, such as calling Superman 'Big Blue'.<ref>''Superman: The Man of Steel'' #100 (May 2000)</ref> During the "Superman: Godfall" storyline, he even uses 'yo mama!' as a comeback.
+
+That incarnation of the Fortress is destroyed during the "For Tomorrow" storyline, and it was unknown whether Kelex survives its destruction. After Superman relocates his new portable fortress to South America, Kelex was seen again in the  limited graphic novel series ''[[Superman and Batman versus Aliens and Predator]]'', though the canonical status of this series is unclear.<ref>''Superman and Batman vs Alien and Predator'' #1-2 (2007)</ref>
+
+The final issue of ''Justice League of America'' (vol. 2) briefly relates a story revealing that Kelex eventually returned and attempted to conquer the Earth by taking control of all of the robots on the planet and forcing them to attack the human population. He was destroyed by [[Supergirl (Kara Zor-El)|Supergirl]] and [[Jesse Quick]], ending the threat.<ref>''Justice League of America'' (vol. 2) #60 (August 2011)</ref>
+
+==Powers and abilities==
+Kelex has enhanced vision and can fly.
+
+==In other media==
+
+===Film===
+* In ''[[Man of Steel (film)|Man of Steel]]'', Kelex (voiced by [[Carla Gugino]]) and his counterpart Kelor (voiced by Rondel Reynoldson) serve as aides to Jor-El and Lara as they attempt to prepare their son's escape from Krypton. They are destroyed during Krypton's destruction.
+
+===Video games===
+* Kelex appears in ''[[Lego Batman 3: Beyond Gotham]]''.
+
+==References==
+<references/>
+
+==External links==
+* [http://dc.wikia.com/wiki/Kelex_%28New_Earth%29 Kelex] at DC Comics Wiki
+* [http://www.comicvine.com/kelex/4005-9058/ Kelex] at Comic Vine
+
+{{Superman}}
+
+[[Category:Kryptonians]]
+[[Category:Comics characters introduced in 1986]]
+[[Category:DC Comics characters]]
+[[Category:DC Comics robots]]
+[[Category:Fictional robots]]
+[[Category:Fictional servants]]
+[[Category:Characters created by John Byrne]]
+[[Category:Film characters]]

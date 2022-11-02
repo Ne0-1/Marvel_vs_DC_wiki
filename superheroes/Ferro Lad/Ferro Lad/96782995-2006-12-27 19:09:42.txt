@@ -1,0 +1,30 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name = Ferro Lad
+| publisher = [[DC Comics]]
+| debut = ''[[Adventure Comics]]'' #346 (July 1966)
+| creators = 
+| alter_ego = Andrew Nolan
+| full_name =
+| species = Human
+| homeworld = Earth
+| alliances = [[Legion of Super-Heroes]]
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = Can transform into living [[iron]]
+}}
+'''Ferro Lad''' is a [[fictional character]], a member of the [[Legion of Super-Heroes]] in the thirtieth century of the [[DC Universe]]. He is Andrew Nolan of [[Earth]]. He has the power to transform himself to living [[iron]]. He has a twin brother named Douglas who has the same power. Both twins have deformed faces as a side effect of the [[mutation]] that gave them their powers and so both wear iron masks. He first appeared in ''[[Adventure Comics]]'' #346 (July 1966), he joined at the same time as [[Princess Projectra]], [[Karate Kid (comics)|Karate Kid]] and [[Nemesis Kid]].
+
+Ferro Lad was only a Legionnaire for a short time when he was killed destroying the [[Sun-Eater]] with a bomb in ''Adventure Comics'' #353. His self-sacrifice to save the galaxy made him legendary, despite his short tenure as a Legionnaire.
+
+In post-Zero Hour continuity he is known as Ferro and comes from 20th century Earth. For more details, see [[Ferro (comics)|Ferro]].
+
+It was incorrectly believed that Ferro Lad was one of the primary inspirations for [[Colossus (comics)|Colossus]] of [[Marvel Comics]]' [[X-Men]].[http://goodcomics.comicbookresources.com/2006/05/18/comic-book-urban-legends-revealed-51/]
+*To note, #2 of [[Unlimited Access]] has The Legionaire ending up in '''The Days Of Future Past''' era.  During a team up between them and the X-Men, Colossus and Ferro double team against a Sentinel.
+
+{{DC-Comics-stub}}
+
+[[Category:1966 introductions]]
+[[Category:Fictional twins]]
+[[Category:Fictional mutates]]

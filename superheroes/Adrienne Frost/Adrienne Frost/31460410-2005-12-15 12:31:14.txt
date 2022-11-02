@@ -1,0 +1,35 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Adrienefrost.gif]]
+|caption='''Adrienne Frost'''
+|comic_color=background:#ff8080
+|character_name=Adrienne Frost
+|real_name=Adrienne Frost
+|publisher=[[Marvel Comics]]
+|debut=''[[Generation X (comics)|Generation X]]'' #48 (February, [[1999]])
+|creators=[[Jay Faerber]] and [[Terry Dodson]]. 
+|alliance_color=background:#c0c0ff
+|status=deceased
+|alliances=
+|previous_alliances=X-Men, Generation X
+|aliases= 
+|relatives=Emma Frost (sister), Winston Frost (father;deceased), Hazel Frost (mother;deceased), Christian Frost (brother), Cordelia Frost (sister)
+|powers= psychometry (psionic ability to tell of the history and future of a physical object by touching it).
+|}}
+'''Adrienne Frost''' is a [[fictional character]] of the [[Marvel Universe]], the older sister of [[Emma Frost]] and Cordelia Frost. Not much is known about her. She first appeared in ''[[Generation X (comics)|Generation X]]'' #48 (February, [[1999]]). The issue was scripted by [[Jay Faerber]] and drawn by [[Terry Dodson]]. 
+
+==Character biography==
+Adrienne was a [[Mutant (fictional)|mutant]] like and the sister of Cordelia Frost and [[Emma Frost]] (who is affiliated with the X-Men). Like her sisters, Adrienne had a psionically based power. The nature of this power was [[Psychometry]]: the ability to touch an object and instantly know the objects history in terms of events surrounding its past, present, and future owners. The insight gleaned from using this gift enabled Adrienne to gain a vast personal fortune. 
+
+Adrienne was responsible for planting bombs at the facility where mutant students were being trained under the care of Emma Frost. The bombs exploded killing several students. When Emma Frost went to investigate she discovered that her sister was involved in the bombing and that it was a terrorist act of some kind. 
+
+In Generation X #75 (June, [[2001]]), Emma confronted Adrienne and the two fought. When Adrienne made it clear that she intended to escalate the violence and endanger more of the students Emma shot her in the heart. Although profit was not a motive for this act she inherited a considerable fortune from her older sister. The issue was scripted by [[Brian Wood (illustrator)|Brian Wood]] and drawn by [[Ron Lim]].
+
+As Adrienne herself was a mutant it was never fully clear what her motives were for bombing the school. One possibility might be that she was intending to frame another party in order to start some kind of human versus mutant war.
+
+Her father Winston Frost, mother Hazel Frost and brother Christian Frost have been recently introduced in her backstory.
+
+==Powers and abilities==
+Adrienne had the mutant psionic gift of [[Psychometry]]. This is the ability to touch an object and instantly know a history of many events concerning the object such as all of its previous owners, events that took place around the object, and the possible future of the object and its future owners. Whilst not a combat-oriented mutation, it placed Adrienne in a position to gather otherwise private information which she turned towards investigation, extortion and espionage.
+
+[[Category:X-Men villains|Frost, Adrienne]]
+[[Category:Marvel Comics mutants|Frost, Adrienne]]

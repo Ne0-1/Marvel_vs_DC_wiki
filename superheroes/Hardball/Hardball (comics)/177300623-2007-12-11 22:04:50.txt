@@ -1,0 +1,33 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+|image=[[Image:AVNINITANN001_cov_col.jpg|250px]]
+|caption=Cover art for ''Avengers: The Initiative Annual'' #1.<br>Hardball is in the middle.<br>Art by [[Jim Cheung]].
+|comic_color=background:#ff8080 
+|character_name=Hardball
+|real_name=Roger Brokeridge
+|species= Human (empowered)
+|publisher=[[Marvel Comics]]
+|debut=''[[Avengers: The Initiative]] #1 (March, 2007)
+|creators=[[Dan Slott]]<br>[[Stefano Caselli]]
+|alliance_color=background:#c0c0ff
+|alliances=[[Avengers: The Initiative|The Initiative]]
+|aliases=
+|powers=Ability to create a variety of energy balls, normally originating from his hand, including "hard energy" and electro-magnetic energy.
+|}} 
+
+'''Hardball''' is a [[fictional character]], an [[American comic book]] [[superhero]] in the [[Marvel Comics]] [[Marvel Universe|Universe]].
+
+==Fictional character biography==
+Roger Brokeridge<ref>Full name revealed in ''Avengers: The Initiative #4</ref> (a.k.a. '''Hardball''') is one of the new Initiative recruits who arrives with [[Cloud 9 (comics)|Cloud 9]], [[MVP (comics)|MVP]], [[Trauma (comics)|Trauma]], [[Komodo (comics)|Komodo]], and others.  He appears to have a very outgoing personality, hitting on [[Thor Girl]] on the bus ride in and cracking a joke about not having a cape when receiving his fatigues<ref>''Avengers: The Initiative'' #1</ref>. He also tries to convince Komodo and Cloud 9 to go out to a bar with him, even though he is two weeks short of his 21st birthday<ref>''Avengers: The Initiative'' #3</ref>. <!--[[Image: This image should contain one or more characters produced by Marvel contracted artist(s]]--> During the training mishap with [[Armory (comics)|Armory]] he exhibits the ability to create an energy ball that deflects the lethal blasts from Armory's Tactigon.  He attempts to capitalize on his new position by wearing a costume and flaunting his abilities at a bar in [[Stamford]]. Understandably, the patrons are less then happy to see a [[New Warriors|"grandstanding kid superhero"]], and are on the verge of attacking him, until a man in a suit rescues him.<ref>''Avengers: The Initiative'' #3</ref> In return, the suited man has Hardball steal a [[S.P.I.N. (Super-Power-Inhibiting Nanobots) Technology|S.P.I.N. Tech]] dart magazine from the weapon stores for him and replace it with a facsimile. Ironically, that same magazine is the one Iron Man attempts to use to defeat the [[Hulk (comics)|Hulk]] during the events of [[World War Hulk]]<ref>''[[World War Hulk]]'' #1</ref>. Upon realizing what he has done, Hardball is overcome with guilt<ref>''Avengers: The Initiative'' #4</ref>.
+
+In ''Avengers: The Initiative Annual'' #1, it is revealed that Roger was given his powers by the [[Power Broker]], who then sold his "contract" to [[HYDRA]], whose commander is the man who saved him in the bar, congressman Woodman, which means Hydra has a double-agent within the Initiative.
+
+==Powers and abilities==
+The full extent of his powers is unrevealed. Appears to be able to create balls of energy that he can use as a defensive shield (presumably they can also be used offensively). These energy balls can be quite powerful, since they managed to deflect energy blasts from Armory (which previously had pierced through [[Ultimo (Marvel Comics)|Ultimo]]'s armor). He can also create electro-magnetic balls of energy that can momentarily scramble electronic locks and cameras. He has not told The Initiative the full extent of his powers.
+
+==References==
+{{Reflist|2}}
+
+{{Marvel-Comics-stub}}
+
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics superheroes]]

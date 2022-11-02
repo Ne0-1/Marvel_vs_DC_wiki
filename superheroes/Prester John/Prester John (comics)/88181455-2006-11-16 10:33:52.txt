@@ -1,0 +1,23 @@
+'''Prester John''' is a [[fictional character]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]], based loosely on the mythical Christian king [[Prester John]]. 
+
+Prester John first appeared in ''[[Fantastic Four]]'' Vol.1 #54 (September 1966). He has mostly appeared as a villain, opposing [[Thor (Marvel Comics)|Thor]] and [[Deadpool (comics)|Deadpool]] as well as the Fantastic Four. Currently, Prester John is allied with the would-be [[messiah]] [[Cable (comics)|Cable]], serving as the "Head of Multi-Religious Studies" for the island nation [[Providence (comics)|Providence]].
+
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name = Prester John
+| publisher = [[Marvel Comics]]
+| debut = Fantastic Four Vol.1 #54
+| creators = [[Stan Lee]] (writer)<br />[[Jack Kirby]]
+| alter_ego = 
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = <!-- optional --> [[Providence (comics)|Providence]]
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = Concussive energy blasts and force fields via Stellar Rod (formerly Evil Eye)<br>Superhuman strength and durability via Stone of Power
+}}
+{{Marvel-Comics-stub}}
+[[Category:Fantastic Four villains]]
+[[Category:Thor villains]]

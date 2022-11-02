@@ -1,0 +1,31 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Toro
+|real_name=Thomas Raymond
+|publisher=[[Timely Comics]], [[Atlas Comics]]
+|debut=''Human Torch Comics'' #2 (Fall 1940)
+|creators=[[Carl Burgos]]
+|alliance_color=background:#ffc0c0
+|status=deceased
+|alliances=
+|previous_alliances=[[Human Torch (Golden Age)]], [[Invaders (comics)|The Invaders]], [[Kid Commandos]], [[Young Allies]], [[All-Winners Squad]]
+|aliases=The Flaming Kid, Human Torch I
+|relatives=Fred Raymond (father, deceased), Nora Raymond (mother, deceased), Ann Raymond (wife)
+|powers=Controls Fire
+|}}
+
+Thomas "'''Toro'''" Raymond is a [[Marvel Comics|Marvel]] [[comic book]] [[superhero]] from the [[1940's]] and [[1950's]].  He was a protege of the [[Human Torch (Golden Age)|Original Human Torch]] and a co-founder of [[Invaders (comics)|The Invaders]].  
+
+Toro's superhuman abilities are similar to that of the [[Human Torch (Golden Age)|Human Torch]] (the ability to fly and burst into flames, as well as flame resistance), except that Toro's are caused by a possible mutation either as a result of his parents' exposure to radiation prior to his conception or because he was a genetic [[Mutant (fictional)|mutant]].  His first appearance was in ''Human Torch Comics'' #2 (premiering fall 1940 with no cover date and as issue #2, having taken over the numbering from the single-issue ''Red Raven''). <!--see entry for Carl Burgos-->
+
+==External link==
+*[http://www.marveldirectory.com/individuals/t/toro.htm the Marvel Directory] for more info.
+
+
+[[Category:Invaders members]]
+[[Category:Marvel Comics mutants]]
+
+
+{{Marvel-Comics-stub}}

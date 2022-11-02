@@ -1,0 +1,32 @@
+{{Infobox comics organization| <!--Wikipedia:WikiProject Comics--> 
+|image=
+|imagesize=
+|caption=
+|name=Rocketeers
+|publisher=[[Marvel Comics]] 
+|debut=''[[Daredevil (Marvel Comics series)|Daredevil]]'' #131'' (March 1976)<br>'''Dire Wraith version:'''<br>''[[Rom (comics)|Rom]] #21'' (August 1981)
+|creators=[[Marv Wolfman]]<br>[[Bob Brown (comics)|Bob Brown]]
+|base=
+|members=
+|subcat=
+|hero=
+|villain=
+}}
+
+The '''Rocketeers''' is a fictional organization appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Fictional organization history==
+The Rocketeers are beings who wear special costumes with rockets on their backs, enabling the wearers to fly.  The Rocketeers also fire rockets as weapons from portable launching equipment they carry.  The Rocketeers' costumes and equipment were designed by the [[Dire Wraith]]s for use against the [[Spaceknights#Spaceknights of Galador|Spaceknights]] of Galador.  The Rocketeers' costumes are, however, inferior imitations of their prototype, which was worn by the [[Torpedo (Marvel Comics)#Brock Jones|Torpedo]] until his death.
+
+The first group of Rocketeers was a collection of human criminals who were unwittingly being used by the Dire Wraiths to test the costumes.<ref>''[[Daredevil (Marvel Comics series)|Daredevil]] #131''</ref>  Later, Dire Wraiths in human form wore the costumes themselves.<ref>''[[Rom (comics)|Rom]] #21''</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix/rocketer.htm|Rocketeers}}
+
+[[Category:Marvel Comics supervillain teams]]
+
+
+{{Marvel-comics-stub}}

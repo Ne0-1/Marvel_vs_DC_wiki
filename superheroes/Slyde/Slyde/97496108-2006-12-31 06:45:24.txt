@@ -1,0 +1,37 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image =[[Image:Slyde.jpg]]
+| caption = art by Ron Frenz
+| comic_color = background:#ff8080
+| character_name = Slyde
+| publisher = Marvel Comics
+| debut = ''Amazing Spider-Man'' #272
+| creators = [[Tom DeFalco]], [[Sal Buscema]]
+| alliance_color = background:#cccccc
+| alter_ego = Jerome Beacher
+| status = deceased
+| alliances = [[Spot (comics)|The Spot]]
+| previous_alliances = [[Spider-Man]], [[Masters of Evil]]
+| aliases = 'The Teflon Coated Man'
+| powers = None: Skilled alchemist}}
+
+'''Slyde''' is the alias of '''Jerome Beacher''', a [[fictional character]] who is a [[supervillain]] in [[Marvel Comics]] . His first appearance was in  ''[[Amazing Spider-Man]]'' #272. 
+
+==Character history==
+
+Jerome Beacher was a [[chemical engineer]] who created a [[non-stick]] coating that could be applied to anything. He created a [[costume]] coated in the substance and decided to use it to [[bank robbery|rob banks]]. His all-white bodysuit allows him to slide across floors with relative ease, and renders him impervious to [[Spider-Man]]'s webbing. The suit has pads on the gloves so that Slyde can grip objects without them slipping from his grasp. 
+Slyde was part of the seventh such group called the [[Masters of Evil]] (Masters of Evil VII) when the villainous assemblage tangled with the [[Thunderbolts (comics)|Thunderbolts]], ironic because the Thunderbolts are mostly made up of reformed members of the Masters of Evil.
+
+In ''[[Wolverine (comics)|Wolverine]]'' #26, Slyde was killed by the sword of [[Elektra (comics)|Elektra]] who was presumed dead/resurrected by [[Hand (comics)|The Hand]].
+
+Slyde was apparently freed from his brainwashing by the Hand and returned to his criminal ways. He, along with the [[Trapster]], met with mob boss [[Hammerhead (comics)|Hammerhead]]. Hammerhead was attempting to organize an organization of super-criminals to take advantage of the Civil War between the super-heroes, but Slyde balked at the proposal. He was shot in the back of the head and apparently killed by Hammerheads' enforcer Underworld, in order to send a message to those who would refuse to join Hammerhead's organization.
+
+[[Image:Slyde1stapp.jpg|right|thumb|Slyde in his first appearance cover by [[Ron Frenz]] and [[Joe Rubenstein]]]].
+
+==External links==
+* [http://marvel.com/universe/Slyde Slyde's entry at Marvel.com ]
+
+[[Category:Spider-Man villains]]
+[[Category:Masters of Evil members]]
+
+
+{{Marvel-villain-stub}}

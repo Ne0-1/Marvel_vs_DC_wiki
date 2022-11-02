@@ -1,0 +1,49 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:ANTMAN001 colcov.png|250px]]
+|caption=Art by Phil Hester and Ande Parks.
+|comic_color=background:#ff8080 	
+|character_name=Ant-Man
+|real_name=Eric O'Grady
+|publisher=[[Marvel Comics]]
+|debut=''Civil War: Choosing Sides'' #1 (Dec. 2006)
+|creators=[[Robert Kirkman]]<br>[[Phil Hester (comics)|Phil Hester]]<br>
+|alliance_color=background:#ffc0c0 
+|alliances=[[S.H.I.E.L.D.]]
+|aliases=
+|powers=Armor allows for shrinkage, insect communication, a jetpack, robotic arms with magnetic grapples, and flame projection from arms via redirecting jet flame
+
+|}}
+
+'''Eric O'Grady''' is a [[fictional character]] in the {{Marvel Universe}}. The latest '''[[Ant-Man]]''', he [[first appearance|first appeared]] in ''Civil War: Choosing Sides'' #1 (Dec. 2006) before moving on to his own ongoing series in  ''The Irredeemable Ant-Man''.  O'Grady was created by [[Robert Kirkman]] and [[Phil Hester]].
+
+==Publication history==
+Following his debut, the character starred in the series ''The Irredeemable Ant-Man'', beginning with issue #1 (Dec. 2006).
+
+==Fictional character biography==
+Eric O'Grady is a low-level agent of [[S.H.I.E.L.D.]] who in that agency's headquarters stumbles upon scientist [[Henry Pym|Henry Pym's]] 2006 iteration of the [[Ant-Man]] suit, and appropriates it for himself. Unlike most such comic-book characters, he uses his newfound suit to better his own life instead of humanity, in situations such as stealing his best friend's girlfriend and using his powers in a bar fight. 
+
+O'Grady's best friend and fellow S.H.I.E.L.D. surveillance agent, '''Chris McCarthy''', was the first person to wear the new Ant-Man suit, but was killed<ref>''The Irredeemable Ant-Man'' #2</ref> during an attack by the terrorist group [[HYDRA]]. Mitch Carson, to whom O'Grady looks up, is a S.H.I.E.L.D. security agent under [[Dum Dum Dugan]] and was a candidate for the S.H.I.E.L.D Ant-Man Program. Veronica King is a female agent O'Grady has a crush on, but who dated the late McCarthy.
+
+==Powers and abilities==
+While wearing the Ant-Man [[armor]], O'Grady has the ability to shrink to the size of an [[insect]] while retaining full-sized strength. He also possesses two robotic arms he can release from the back of his armor when he is shrunk. The armor's main mode of transportation is a [[jetpack]] that can be detached and used as a weapon by turning the jet's flames onto an enemy. He also has the ability to talk to insects while wearing the suit. However, he has not quite trained in this ability and is lacking in skill.
+
+==See also==
+*[[List of S.H.I.E.L.D. members]]
+*[[Henry Pym]]
+
+==References==
+<div class="references-small">
+<references/>
+</div>
+*[http://www.newsarama.com/WWLA06/Marvel/ant_man.htm ''Newsarama'': Robert Kirkman talks Ant-Man]
+*[http://www.comicbookresources.com/news/newsitem.cgi?id=6925 ''Comic Book Resources'': Picnic Time, As Brevoort Talks “The Irredeemable Ant-Man]
+*[http://www.comicbookresources.com/news/newsitem.cgi?id=6927 ''Comic Book Resources'': Kirkman Bugs The Marvel Universe In “The Irredeemable Ant-Man.”]
+*[http://forum.newsarama.com/showthread.php?t=94032 ''Newsarama'': Getting Irredeemable with Robirt Kirkman and Ant-Man]
+
+
+[[Category:Marvel Comics superheroes]]
+[[Category:Fictional Irish-Americans|O'Grady]]
+[[Category:S.H.I.E.L.D.]]
+[[Category:Fictional characters with the power to change their size]]
+
+[[fi:Muurahaismies (Eric O'Grady)]]

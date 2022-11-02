@@ -1,0 +1,33 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Sagittarius
+|real_name=Harlan Vargas
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Avengers (comics)|Avengers]]'' #72 (Jan 1970)
+|creators=[[Roy Thomas]] and [[Sal Buscema]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=[[Zodiac (comics)|Zodiac]]
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''Sagittarius''' is a fictional character in the [[Marvel Universe]].
+
+==Fictional character biography==
+'''Harlan Vargas''' is a founding member of the [[Zodiac (comics)|Zodiac]], and his base of operations was [[Washington, D.C.]].
+
+==Other Media==
+Sagittarius appears in ''[[The Avengers: United They Stand]]'' alongside the other Zodiac. Just like the other Zodiac members in this show, he is an alien with a centaur-like appearance with the horse-half mechanical.
+
+==External links==
+*http://www.marvunapp.com/Appendix2/sagittariuszodiaccartel.htm
+
+{{Marvel-Comics-stub}}
+[[Category:Fictional characters from Washington, D.C.]]
+[[Category:Marvel Comics supervillains]]

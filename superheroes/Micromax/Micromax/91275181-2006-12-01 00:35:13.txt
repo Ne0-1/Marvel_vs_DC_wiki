@@ -1,0 +1,43 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = [[Image:micromax-excalibur.jpg|150px]]
+| caption = 
+| comic_color =background:#ff8080 
+| character_name =Micromax 
+| real_name =Scott Wright 
+| species=[[mutant (fictional)|Human Mutant]]
+| publisher =[[Marvel Comics]] 
+| debut = ''Excalibur'' #44
+| creators = [[Chris Claremont]]<br>[[Alan Davis]]
+| alliance_color =background:#ffc0c0 
+| alliances =MI-16
+| previous_alliances =[[Excalibur (comics)|Excalibur]], R.C.X., F.I.6, Brand Corporation
+| aliases =Mr. Right
+| powers =Mass and size manipulation<br.>Strength proportionate to size}}
+
+'''Micromax (Scott Wright)''' is a [[fictional character]], a [[Mutant (fictional)|mutant]] [[superhero]] of the [[Marvel universe]].
+
+He first appeared in ''Excalibur'' (vol. 1) #44, where he mistook [[Rachel Summers]] for a burglar. After a few missions with Excalibur, he resigned from the FI6 police of the [[United Kingdom]] force to join the [[Brand Corporation]] in [[New Jersey]]. He kept using his super-hero identity from time to time, and even helped the [[Avengers (comics)|Avengers]] face the invasion of [[Kang the Conqueror]].
+
+Though very few people are aware of this, Micromax is actually an out of shape middle-aged man whose powers make him able to look like a younger, athletic person.
+
+In ''[[Civil War (comics)|X-Men: Civil War]]'' #1, it is been revealed that Micromax has formed a policing force against unruly mutants. This team is fronted by [[Bishop (comics)|Bishop]] with additional team mate [[Sabra (comics)|Sabra]]. Micromax is therefore associated with Iron Man's side.
+
+During a battle with [[X-Force]] & the surviving original [[X-Men]], he was stabbed in the chest by [[Shatterstar]]. He is currently in critical condition.
+
+==Powers and Abilities==
+Micromax can increase, decrease or redistribute his body's size and mass. As a former special agent he no doubt has police training.
+
+==External links==
+*[http://www.marvunapp.com/Appendix3/micromax.htm A profile of him]
+
+*[http://marvel.com/universe/Micromax Micromax on the Marvel Universe Characters Bio Wiki]
+
+[[Category:Marvel Comics superheroes]]
+[[Category:British superheroes]]
+[[Category:Fictional British people]]
+[[Category:Marvel Comics mutants]]
+[[Category:The 198 Files]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Fictional characters with the power to change their size]]
+
+{{Marvel-Comics-stub}}

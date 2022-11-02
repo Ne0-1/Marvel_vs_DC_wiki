@@ -1,0 +1,358 @@
+{{About||the second Green Arrow|Green Arrow (Connor Hawke)|the steam locomotive|LNER Class V2 4771 Green Arrow}}
+{{Cleanup|date=October 2008}}
+
+{{Infobox comics character and title
+<!--Wikipedia:WikiProject Comics-->
+<!-- | character_name = -->
+| image     = Green Arrow 60 cover.jpg
+| imagesize = 
+| caption   = Cover to ''Green Arrow'' (vol. 2) #60 (May 2006).<br>Art by [[Scott McDaniel]].
+| publisher = [[DC Comics]]
+| debut     = ''[[More Fun Comics]]'' #73
+| debutmo   = November
+| debutyr   = 1941
+| creators  = [[Mort Weisinger]]<br>[[George Papp]]
+| alter_ego = Oliver Queen
+| alliances = [[Justice League]]<br/>Green Arrows of the World<br/>[[Queen Industries]]<br/>[[Outsiders (comics)|The Outsiders]]<br/>[[Black Lantern Corps]]
+| partners  = [[Speedy (comics)|Speedy]]<br>[[Hal Jordan|Green Lantern]]<br>[[Black Canary]]
+| aliases   = The Emerald Archer, Battling Bowman, formerly Mayor Queen, Auu Lanu Lau'ava
+| powers    = Superb archer and athlete; skilled martial artist and swordsman
+
+<!--Series section-->
+<!-- | title = -->
+| cvr_image      =
+| cvr_caption    = 
+| schedule       = Monthly
+| format         = '''(vol 1)'''<br>[[Limited series]]<br>'''(remainder)'''<br>[[Ongoing]]<ref name=4th>The 4th volume carried on the numbering of ''Green Arrow/Black Canary'' series and tied into the "Blackest Night" and "Fall of Green Arrow" story lines/events. It only ran for three issues and may have been viewed as a finite series by the publisher.</ref>
+| limited        = Y
+| ongoing        = Y
+| pub_series     = DC Comics
+| 1stishhead     = vol 1
+| 1stishyr       = 1983
+| 1stishmo       = May
+| endishyr       = 1983
+| endishmo       = August
+| 1stishhead1    = vol 2
+| 1stishyr1      = 1988
+| 1stishmo1      = February
+| endishyr1      = 1998
+| endishmo1      = November
+| 1stishhead2    = vol 3
+| 1stishyr2      = 2001
+| 1stishmo2      = April
+| endishyr2      = 2007
+| endishmo2      = August
+| 1stishhead3    = .../Black Canary
+| 1stishyr3      = 2007
+| 1stishmo3      = December
+| endishyr3      = 2010
+| endishmo3      = April
+| 1stishhead4    = vol 4
+| 1stishyr4      = 2010
+| 1stishmo4      = April
+| endishyr4      = 2010
+| endishmo4      = June
+| 1stishhead5    = vol 5
+| 1stishyr5      = 2010
+| 1stishmo5      = August
+| endishyr5      = 
+| endishmo5      = 
+| issues         = '''(vol 1)'''<br>4<br>'''(vol 2)'''<br>139 (including issues numbered 0 and 1000000), 7 Annuals<br>'''(vol 3)'''<br>75<br>'''.../Black Canary'''<br>32<br>'''(vol 4)'''<br>3<ref name=4th/><br>'''(vol 5)'''<br>6 (as of December 2010)
+| main_char_team = '''(vol 1,3-5)'''<br>Oliver Queen<br>'''(vol 2)'''<br>Oliver Queen<br>[[Connor Hawke]]<br>'''(...Black Canary)'''<br>Oliver Queen<br>[[Black Canary]]<br>'''Supporting characters'''<br>'''(vol 2)'''<br>Black Canary<br>'''(vol 3)'''<br>[[Speedy (Mia Dearden)]]<br>Black Canary<br>Connor Hawke<br>'''(vol 3)'''<br>Connor Hawke
+| writers = [[Mike Barr]]<br>[[Mike Grell]]<br>[[Kelley Puckett]]<br>[[Chuck Dixon]]<br>[[Kevin Smith]]<br>[[Brad Meltzer]]<br>[[Judd Winick]]<br>[[Andrew Kreisberg]]
+| artists        = [[Trevor von Eeden]]<br>[[Dick Giordano]]<br>[[Jim Aparo]]<br>[[Phil Hester]]<br>[[Ande Parks]]
+| pencillers     = 
+| inkers         = 
+| letterers      = 
+| colorists      = 
+| editors        = 
+| TPB            = 
+| ISBN           = 
+| cat            = super
+| subcat         = DC Comics
+| hero           = y
+| sortkey        = Green Arrow
+| sort_title     = Green Arrow
+}}
+
+'''Green Arrow''' ("Oliver Queen") is a [[fictional]] character that appears in [[comic book]]s published by [[DC Comics]]. Created by [[Mort Weisinger]] and [[George Papp]], he first appeared in ''[[More Fun Comics]]'' #73 in November 1941. His [[secret identity]] is Oliver Queen, billionaire and former [[mayor]] of fictional [[Star City (comics)|Star City]].<ref name="dc-ency">{{Cite book | last=Greenberger | first=Robert | author-link=Robert Greenberger | contribution=Green Arrow | editor-last=Dougall | editor-first=Alastair | title=The DC Comics Encyclopedia | pages=142–143 | publisher=[[Dorling Kindersley]] | location=[[New York]] | year=2008 | isbn=0-7566-4119-5 | oclc=213309017}}</ref> Dressed like [[Robin Hood (DC Comics)|Robin Hood]], Green Arrow is an [[archery|archer]] who invents [[trick arrows]] with various special functions, such as glue arrows, net arrows, explosive arrows, time bomb arrows, grappling arrows, fire extinguishing arrows, flash arrows, tear gas arrows, cryonic arrows, boxing-glove arrows, and even a [[kryptonite]] arrow. Originally developed as an archery-themed analogue of the very popular [[Batman]] character, writers at DC have developed Green Arrow into a voice of [[Left-wing politics|left-wing]] and [[progressivism|progressive]] politics very much distinct in character from Batman, with his own supporting cast.
+
+Throughout his first twenty-five years, Green Arrow was not a significant hero. In the late [[1960s]], however, writer [[Denny O'Neil]] chose to have him lose his fortune, giving him the then-unique role of streetwise crusader for the [[working class]] and the disadvantaged. In 1970, he was paired with the more law-and-order-oriented hero [[Hal Jordan|Green Lantern]] in a groundbreaking, socially conscious [[comic book]] series. Since then, he has been popular among comic book fans and most writers have taken an urban, gritty approach to the character. The character was [[kill off|killed off]] in the [[1990s]] and replaced by a new character, Oliver's son [[Green Arrow (Connor Hawke)|Connor Hawke]], the second Green Arrow; however, Hawke proved a less popular character, and the original Oliver Queen character was resurrected in the 2001 [[Quiver (comics)|"Quiver" storyline]]. In the [[2000s]], the character has been featured in bigger storylines focusing on Green Arrow and the character [[Black Canary]], such as the DC event ''The Green Arrow/Black Canary Wedding'' and the high-profile ''[[Justice League: Cry for Justice]]'' storyline, the climax of which sees Green Arrow becoming a morally-ambiguous [[anti-hero]].{{Citation needed|date=August 2010}}
+
+The character was not initially a well-known character outside of comic book fandom; he had appeared in a single episode of the animated series ''[[Super Friends]]'' in 1973. The character, however, became a prominent feature in the [[DC Animated Universe|DCAU]] animated series ''[[Justice League Unlimited]]'' in the 2000s, reflective of his status in ''[[Justice League]]'' comic books, as well as the animated series ''[[The Batman (TV series)|The Batman]]'' and several [[DC Universe Animated Original Movies]]. From [[Smallville (season 6)|season six]] of popular live-action series ''[[Smallville]]'', in 2006, Green Arrow has been played by actor [[Justin Hartley]], who later becomes a core cast member; he was originally introduced in a guest run as a substitute for the restricted-rights character [[Batman]]. As a main character, ''Smallville'' prominently features Green Arrow supporting characters and mythos. [[David S. Goyer]] has also attempted to get ''Green Arrow: Escape from Super Max'' into production as a film in the late 2000s.
+
+==Publication history==
+===Beginnings, 1941–1968===
+[[Image:More fun comics 91.jpg|left|175px|thumb|''More Fun Comics'' #91 (May/June 1943). Green Arrow's original costume. Art by [[Cliff Young]].]]
+Green Arrow and [[Speedy (comics)|Speedy]] first appeared in ''[[More Fun Comics]]'' #73 ([[Periodical cover date|cover-dated]] November 1941), which was illustrated by artist George Papp. Aside from the obvious allusions to [[Robin Hood]], [[Mort Weisinger]], when developing the character, was also inspired by a movie serial, ''[[The Green Archer]]'', based on the novel by [[Edgar Wallace]]. He retooled the concept into a superhero archer with obvious Batman influences.<ref>{{Cite journal | last=David | first=Peter | title='Aw, C'mon!' and other awards" "But I Digress... | journal=[[Comics Buyer's Guide]] | issue=1330 | date=May 14, 1999}}</ref> These include Green Arrow's [[sidekick]] Speedy, his use of an Arrowcar and Arrowplane, his use of an Arrowcave as headquarters, his alter ego as a billionaire playboy, the use of an Arrow-signal to summon him, and a clown-like arch foe named Bull's Eye, similar to Batman's arch-foe, [[Joker (comics)|the Joker]].
+
+Another Weisinger-created character called [[Aquaman]] also appeared for the first time in that issue, and these two back-up features continued to run concurrently in ''More Fun Comics'' until the mid-1940s, and then in ''[[Adventure Comics]]'' from 1946 until 1960. Green Arrow and Speedy also appeared in various issues of ''[[World's Finest Comics]]'' until issue #140 (1964). The Green Arrow and Speedy feature was one of five back-up features to be promoted in one of the earliest team-up books, ''[[Leading Comics]]''.
+
+Green Arrow was one of the few DC characters to keep going after the [[Golden Age of Comic Books]]. The longevity of the character was due to the influence of creator Mort Weisinger, who kept Green Arrow and Aquaman as back-up features to the headlining [[Superboy (Kal-El)|Superboy]] feature, first in ''More Fun Comics'' and then ''Adventure Comics''. Aside from sharing ''Adventure Comics'' with him, issue #258 featured an encounter between a younger Oliver Queen and Superboy. The Green Arrow and Speedy feature during this period included a short run in 1958 written by Dick and Dave Wood and drawn by [[Jack Kirby]].
+
+===Neal Adams and Dennis O'Neil, 1969–1983===
+In 1969, artist [[Neal Adams]] decided to update the character's visual appearance by giving him a [[Vandyke beard]] and costume of his own design in ''The Brave and the Bold'' #85. Inspired by Adams' redesign, writer [[Dennis O'Neil]] followed up on Green Arrow's new appearance by completely remaking the character's attitude in the pages of ''Justice League of America'' #75 ([[Periodical cover date|cover-dated]] November 1969), giving his personality a rougher edge. This revision was explained by having Oliver Queen lose his fortune, and then become an outspoken advocate of the underprivileged in society and the [[Left-wing politics|political left wing]]. For instance, he once saved a child's dog playing in a [[railyard]], but instead of feeling satisfaction, he brooded on the larger problem of how the child had nowhere in the city to play safely.
+
+[[Image:Green lantern 76.JPG|175px|left|thumb|''Green Lantern'' (vol. 2) #76 (April 1970). Cover art by [[Neal Adams]].]]
+In the early 1970s, he became a co-feature with [[Green Lantern]] ([[Hal Jordan]]) in the latter's series in an acclaimed, but short-lived series of stories by O'Neil and Adams that dealt with various social and political issues in which Green Arrow spoke for radical change while Green Lantern was an establishment liberal figure, wanting to work within existing institutions of government and law. Where Oliver advocated direct action, Hal Jordan wanted to work within the system; where Oliver advocated social change, Jordan was more concerned about dealing with criminals.  Each would find their beliefs challenged by the other. Oliver convinced Jordan to see beyond his strict obedience to the [[Green Lantern Corps]], to help those who were neglected or discriminated against. As O'Neil explained: "He would be a hot-tempered [[anarchist]] to contrast with the cerebral, sedate model citizen who was the Green Lantern."<ref>{{Cite book | title=Green Lantern/Green Arrow Vol. 1 | chapter=Introduction | last=O'Neil | first=Dennis | authorlink=Dennis O'Neil | publisher=DC Comics | date=June 2004 | isbn=978-1-4012-0224-8}}</ref> The duo embarked on a quest to find America, witnessing the problems of corruption, racism, pollution, and overpopulation confronting the nation. Writer Denny O'Neil even took on current events, such as the [[Charles Manson|Manson Family]] cult murders, in issues #78-79 ("A Kind of Loving") where [[Black Canary]] falls briefly under the spell of a false prophet who advocates violence.
+
+It was during this period that the most famous Green Arrow story appeared, in [[Snowbirds Don't Fly|''Green Lantern'' (vol. 2) #85-86]], when it was revealed that Green Arrow's ward [[Roy Harper (comics)|Speedy]] was addicted to [[heroin]].<ref name="dc-ency"/> In his zeal to save America, Oliver had failed in his personal responsibility to Speedy — who would overcome his addiction with the help of [[Black Canary]], Green Arrow's then-love interest. This story prompted a congratulatory letter from the mayor of New York, [[John Lindsay]]. Unfortunately, the series did not match commercial expectations, and Neal Adams had trouble with deadlines, causing issue #88 to be an unscheduled reprint issue; the series was cancelled with issue #89 (April/May 1972).
+
+The duo were moved to the back-up feature in ''[[Flash (comics)|The Flash]]'', issues #217 through #219. The socially-relevant themes would continue, as the story opens with Oliver killing a criminal (albeit accidentally). Oliver shed himself of the remaining trappings of his super-heroic life (including crashing the Arrowplane into a mountain) and withdrew to an [[ashram]] monastery. He would find no peace there, and returned to the outside world at the request of [[Hal Jordan|Hal]] and [[Black Canary|Dinah]]. This storyline would prove very important to the character in the 1990s. After this three-part story, Green Lantern continued as a solo back-up in ''The Flash'', while Green Arrow's solo stories began appearing in ''Action Comics''.
+
+[[Image:GreenLantern86.jpg|thumb|right|175px|"My Poor Ward" ''Green Lantern'' (vol. 2) #86 (November 1971). Cover art by [[Neal Adams]].]]<!--confirmed: he both penciled & inked-->
+In 1976, the ''Green Lantern'' title was re-launched starring both Hal Jordan and Ollie Queen, and the Green Arrow/Green Lantern partnership returned to more traditional superhero storylines. Denny O'Neill resumed writing the characters, while Adams-influenced artist [[Mike Grell]] drew the feature. After the title moved to solo Green Lantern stories, solo Green Arrow stories began appearing in the ''World's Finest'' title. The solo stories were frequently written by [[Elliot S. Maggin]].
+
+In his solo series, Oliver would land a job as a [[newspaper]] [[columnist]], which allowed him to articulate his political beliefs in a more public field. In ''World's Finest'' #255 (1979), Queen ran for Mayor of Star City and lost in a close vote. Although there was reason to believe that the election had been fixed against him, Black Canary chose for him not to contest the results legally, effectively ceding the race to his opponent.
+
+In May through August 1983, Green Arrow appeared for the first time in his own comic book, a four issue [[limited series]] of murder and betrayal that established potential for a full series. It was in this miniseries that Green Arrow would gain a running rivalry with the super villain [[Count Vertigo]].
+
+In 1985, a Green Arrow died in the ''[[Crisis on Infinite Earths]]'', wearing red boots and gloves, suggesting this was a leftover Earth-2 character being disposed of, especially considering no resurrection was later acknowledged before his further appearances.
+
+===Longbow Hunters/Mike Grell Ongoing===
+{{See also|Green Arrow: The Longbow Hunters}}
+[[Image:Green Arrow The Longbow Hunters.jpg|175px|right|thumb|''Green Arrow: The Longbow Hunters'' #1, the gritty redefinition of the Green Arrow. Cover by Mike Grell.]]
+In 1987, DC Comics launched the character into a new ongoing title as part of their mature audience comic line. Written and illustrated by [[Mike Grell]], the revamp was launched with ''[[Green Arrow: The Longbow Hunters]]'' mini-series. In this three-issue [[prestige format]] [[limited series]], a routine adventure against a group of drug runners led to tragedy as Black Canary was captured and brutally tortured. In response, Green Arrow murders his girlfriend's attackers. The mini-series would also introduce the enigmatic female Japanese archer, [[Shado (DC Comics)|Shado]], whose family suffered in a [[Japanese-American internment|World War II internment camp]].
+
+Under Grell, Green Arrow would abandon the use of his trademark gadget arrows and relocate from Star City to [[Seattle, Washington]]. As the series was part of DC Comics' mature audience line, it took on a more gritty, violent, and urban tone, with Green Arrow often using deadly force against his enemies. Grell wrote the series for the first 80 issues, downplaying the super-hero aspects of the characters and isolating Green Arrow from the rest of the DC Universe. When other super-heroes appeared, such as Green Lantern and Mike Grell's creation The Warlord, they appeared in street clothes under their civilian names. Green Arrow abandoned his mask, and Black Canary lost her sonic scream power. While crossover specials were conceived to allow other writers (most notably [[Denny O'Neil]], who wrote ''Batman'' and the mature audience comic ''[[The Question (comics)|The Question]]'') to use Green Arrow, Grell deliberately downplayed all super-hero ties to Green Arrow, to the extent of having longtime Green Arrow friend [[Hal Jordan]] only appear in civilian form and the name 'Green Arrow' not being used in the series.<ref>{{Cite web | url=http://goodcomics.comicbookresources.com/2008/04/10/comic-book-urban-legends-revealed-150/ | title=Comic Book Urban Legends Revealed #150 | last=Cronin | first=Brian | work=[[Comic Book Resources]] | date=April 10, 2008 | accessdate=October 24, 2008}}</ref> During this period, Green Arrow was portrayed as a right-wing libertarian rather than the left-of-center liberal of the nineteen-seventies{{Citation needed|date=October 2010}}; he remained a passionate individualist, but became far more conservative in his political beliefs.{{Citation needed|date=October 2010}}
+
+In place of the super-hero community, Grell created his own supporting cast. In addition to Shado, Grell introduced Seattle police Lieutenant Jim Cameron, who was disgusted with Green Arrow's vigilante actions (including killing criminals); renegade [[CIA]] agent Greg Osborne, who began to monitor Queen's activities; and mercenary [[Eddie Fyers]], initially introduced as Queen's adversary, but later to become a companion of necessity when Green Arrow was forced to leave Seattle after false accusations of aiding terrorists. Grell's run ended with ''Green Arrow'' #80, shortly after Dinah dumped Oliver. 
+
+During this period, the writer also redefined the character's origin in the four-part 1992 [[limited series]], ''Green Arrow: The Wonder Year''. Grell portrayed Oliver Queen as a thrill-seeker who inherits his family business at a very young age. Changed by his sojourn on the island, Oliver decided to take up crime fighting as a means of rebelling against his responsibilities. During his first adventure in Star City, Oliver Queen meets an old flame, Brianna Stone, a former college radical who warns him if he continued to carry his bow, he would one day have to use it for real. Grell's limited series also established Queen's attraction toward dangerous women.
+
+===Post Grell===
+Once Grell left the series, DC almost immediately began restoring Green Arrow to the mainstream DC Universe. His ongoing series (mostly written by [[Kelley Puckett]] and drawn by artist [[Jim Aparo]]) was removed from the "Mature Audience" line (which had evolved into "[[Vertigo (DC Comics)|Vertigo]]"), and Green Arrow began appearing in various super-hero titles as a guest, most notably ''Green Lantern'' #47, which had Oliver aiding Green Lantern in rescuing his longtime girlfriend Carol Ferris and her family from one of Hal's enemies, and the 1994 DC Comics mini-series ''[[Zero Hour: Crisis in Time|Zero Hour]]''. In ''Zero Hour'', Queen is forced to shoot his old friend at a pivotal moment. Now tightly integrated in the DC Universe, the character [[Connor Hawke]] was introduced and revealed as Oliver Queen's son.
+
+[[Image:Connor hawke.jpg|right|thumb|175px|[[Connor Hawke]] and Oliver Queen on the cover to ''Green Arrow Secret Files & Origins'' #1 (December 2002). Art by [[Matt Wagner]].]] In ''Green Arrow'' #100-101, Oliver would infiltrate a group of eco-terrorists known as the Eden Corps and sacrifice his life in order to prevent the group from detonating a bomb that would destroy the city of [[Metropolis (comics)|Metropolis]].<ref name="dc-ency"/> This allowed the writers to shake up the status quo by making [[Connor Hawke]] a replacement Green Arrow. The series, now written by Chuck Dixon, would continue, with Hawke as the main focus until issue #137, when the series was cancelled.
+
+===Smith, Hester and Parks/Meltzer 2000–2004===
+{{See also|Quiver (comics)}}
+[[Image:Green Arrow v3 01.jpg|thumb|left|175px|Promotional for ''Green Arrow'' (vol. 3) #1 cover. Art by [[Matt Wagner]].]]
+In 2000, Oliver Queen is revived in a new series, ''Green Arrow'' (vol. 3), in the story arc "[[Quiver (comics)|Quiver]]", written by [[Kevin Smith]] and illustrated by [[Phil Hester (comics)|Phil Hester]] and [[Ande Parks]]. Picking up the thread from "[[The Final Night]]", Smith reveals that Hal's resurrection of Oliver was a flawed one, in that Hal opted to resurrect Oliver in a form that had no memory of the events of ''The Longbow Hunters'' mini-series or of the subsequent events that followed, up until his death. His resurrection is used by the grandfather of [[Stanley and His Monster|Stanley Dover]] in an attempt to gain power over Stanley's monster. At the climax of the story, Oliver's soul returns from heaven (his earthly duplicate not possessing a soul), and helps his son Connor Hawke fight a horde of demons. Dover is defeated and actually consumed by the Beast, who then leaves of his own accord. Oliver also finds himself independently wealthy again, as Dover had transferred all his financial assets to Oliver in anticipation of taking over his body. He also picked up a new sidekick, [[Speedy (Mia Dearden)|Mia Dearden]], who would become the new Speedy, under Oliver's tutoring.<ref>{{Cite book | last=Smith | first=Kevin | coauthors=Phil Hester, Ande Parks | title=Green Arrow: Quiver | publisher=DC Comics | date=May 2003 | isbn=978-1563899652}}</ref>
+
+After the resurrection storyline, Smith wrote a second and shorter arc involving a super-powered serial killer named [[Onomatopoeia (comics)|Onomatopoeia]] that sought to claim Connor Hawke as his latest victim. Smith then left the title, and [[Brad Meltzer]] took over as writer. Meltzer went on to write the mini-series ''[[Identity Crisis (comics)|Identity Crisis]]'', which heavily featured Green Arrow as one of the story's main characters.
+
+Meltzer's single storyline for Green Arrow featured Oliver and former sidekick [[Roy Harper (comics)|Roy Harper]] reuniting and going on a cross-country road trip to pick up old possessions of Oliver's, most notably a spare [[Green Lantern]] power ring entrusted to him by Hal Jordan many years earlier. The story also revealed that Oliver knew all along that Connor Hawke was his son and was even present at his birth, but that Oliver ultimately abandoned Connor and his mother, because of his fear of the responsibilities of fatherhood. Meltzer's storyline would continue into the mini-series ''[[Green Lantern: Rebirth]]'', which featured Oliver's attempts to use the ring.
+
+During this time, the character also appeared in a number of other titles, such as the ''Justice League'' and ''[[Justice League Elite]]''. This series is notable for showing a brief affair with [[Manitou Dawn|Dawn]], the wife of the team's magical expert [[Manitou Raven]].
+
+===Judd Winick, 2004-2008===
+[[Judd Winick]] took over as Green Arrow writer and made many changes. [[Mia Dearden]], the new Speedy, was revealed to be [[HIV]] positive, and attempts were made to expand Green Arrow's [[Rogues Gallery]] with [[Merlyn (DC Comics)|Merlyn]] the archer, [[Constantine Drakon]], and Danny Brickwell (the [[Brick (comics)|Brick]]) joining the cast of existing Green Arrow villains such as the illusion-casting [[Count Vertigo]] and the enigmatic [[Onomatopoeia (comics)|Onomatopoeia]] (himself a relatively recent addition). Other DC villains, such as the [[Riddler]], made guest appearances throughout his run.
+
+In 2006 [[Andy Diggle]] and [[Jock (artist)|Jock]]'s ''[[Green Arrow: Year One]]''<ref>{{Cite book | last=Diggle | first=Andy | title=Green Arrow: Year One | publisher=DC Comics | date=April 2009 | isbn=978-1401217433}}</ref> presented the most recent official version of his origin. Using concepts from previous iterations, Oliver Queen is a rich, thrill-seeking activist who is attacked, thrown overboard, and washes up on a island where he learns of a smuggling operation. Upon witnessing the inhabitants' slave-like living conditions, he begins to take down the smugglers' operation. He eventually returns to civilization changed by his experiences.  In the final part of the story, Oliver claims that a mutiny or the actions of a group of heroin dealers could be used as a cover story for what transpired, referencing the original Green Arrow origin story, as well as Mike Grell's version.  
+
+That year also saw the title (along with other DC comics titles) jump "[[One Year Later]]" after the events in ''[[Infinite Crisis]],''. Oliver, having amassed a large personal fortune, is the newly-elected [[mayor]] of Star City. He continues his fight for justice both on the streets and within the political system. He also has a new costume, which appears to be a combination of the classic Neal Adams costume and the Mike Grell ''Longbow Hunters'' costume. In flashbacks, it is revealed that Oliver survived a near-fatal attack during the events of Infinite Crisis, and used his recuperation time to retrain.
+
+He works with several expert instructors including a sensei known as [[Natas (comics)|Natas]], who also trained [[Deathstroke]]. The current ''Green Arrow'' (vol. 3) series ended with issue #75 in June 2007, concluding with the character, having resigned as mayor after a scandal, proposing to Dinah ([[Black Canary]]).
+
+===Green Arrow/Black Canary===
+{{Main|Green Arrow and Black Canary}}
+After the end of the ongoing series, DC Comics published a four-part bi-monthly Black Canary miniseries in which Green Arrow teamed up with Black Canary to help get [[Sin (DC Comics)|Sin]] into school and establish a new life. This series concluded with Black Canary accepting his proposal. This resulted in DC Comics publishing three interconnected specials revolving around the Green Arrow/Black Canary wedding that tied into that month's "[[Countdown to Final Crisis|Countdown]]" stories. These were ''The Black Canary Wedding Planner'', ''JLA Wedding Special'', and ''The Green Arrow/Black Canary Wedding Special''. The wedding special worked as a lead-in for a new ''Green Arrow/Black Canary'' series. At the conclusion of the wedding special, Black Canary is forced to kill Green Arrow after he appears to go mad and attacks her.
+
+The new ongoing series picked up on this, quickly revealing that Green Arrow was alive (the dead Green Arrow being an [[Everyman (DC Comics)|impostor]]) and being held hostage by "[[Granny Goodness|Athena]]". Black Canary, Connor and Mia launch a rescue mission to save Green Arrow. As the team is united, and on their way to safety, Connor is struck by a bullet meant for Oliver, and is left in a vegetative state. While Connor rests, Oliver and Dinah go out and officially become married (since they never actually were married in the Wedding Special) but come home to find Connor has been kidnapped.
+
+This storyline led directly into the second arc that followed the rescue of Connor Hawke from a mysterious foe. Connor is eventually found, now having recovered thanks to manipulation by [[Doctor Sivana]]. With issue #15, Andrew Kreisberg took over as the series writer.
+
+===Cry For Justice/Blackest Night===
+Villain [[Prometheus (comics)|Prometheus]] destroys Star City and is eventually killed by Green Arrow, who murders him in secret.<ref>''[[Justice League: Cry for Justice]]'' #1-7</ref> It is then revealed that Green Arrow obsessively hunts super-villains,<ref>''[[Justice League of America]]'' (vol. 2) #41 (January 2010)</ref> including Prometheus' former allies. He realizes he has crossed a line and turns himself in, and Black Canary returns her wedding ring and declares their marriage over. Oliver is found not guilty, but is exiled from Star City's remains.<ref>''Justice League: Rise and Fall Special'' (March 2010)</ref>
+
+During the ''[[Blackest Night]]'' series, Oliver is transformed into a [[Black Lantern Corps]] member and attacks his former allies. During a battle with his son Connor, Connor says he never really forgave his father.<ref>''Green Arrow'' (vol. 4) #31 (May 2010)</ref>
+
+===Green Arrow ongoing===
+{{Expand section|date=September 2010}}
+A forest grows seemingly overnight in Star City.<ref>''Green Arrow'' (vol. 5) #1 (August 2010)</ref>
+
+==Offspring/adopted children==
+*[[Roy Harper (comics)|Red Arrow]] - Roy Harper (former sidekick, former legal ward)
+*[[Green Arrow (Connor Hawke)]] - biological son with Moonday "Sandra" Hawke
+*Robert - biological child with [[Shado (DC Comics)|Shado]]
+*Speedy - [[Mia Dearden]] (sidekick)
+*[[Arrowette#Arrowette|Arrowette]] - Cissie King-Jones (potential biological daughter)
+
+==Other versions==
+[[Image:Ollie1.PNG|thumb|right|175px|One-armed Green Arrow in ''[[The Dark Knight Returns]]''.]]
+Many alternative versions of the character have appeared in DC Comics publications. The original version of the character became established as the [[Multiverse (DC Comics)#Catalogued Earths|Earth-Two]] version of Green Arrow who was a member of the [[Seven Soldiers of Victory]] and [[All-Star Squadron]] in the 1940s, along with his sidekick [[Speedy (comics)|Speedy]]. Aside from their origin, which states the two were trained together on a mesa top, their history nearly parallels the history of the [[Multiverse (DC Comics)|Earth-One]] version, up until the point when Green Arrow and Speedy, along with their teammates, were thrown into various periods of time during a battle with the [[Nebula Man]]. He was killed during the ''[[Crisis on Infinite Earths]]''. A [[Retroactive continuity|retcon]] was made, in ''Crisis on Infinite Earths'', that the Earth-Two Green Arrow had brown hair, as opposed to Earth-One's Green Arrow being blonde. Similarly, the Earth-Two Speedy has blonde hair, as opposed to Earth-One's Speedy having red.
+
+The character appears in [[Frank Miller (comics)|Frank Miller]]'s ''[[Batman: The Dark Knight Returns]]'' and the sequel ''[[Batman: The Dark Knight Strikes Again]]''. Despite missing an arm (implied to be because of [[Superman]]), Oliver still proves to be an effective archer (he grasps the nocks of his arrows in his teeth). The Emerald Archer later acquires a cybernetic replacement for his lost arm from Batman in the sequel. The death scene in ''Green Arrow'' #100-101 pays tribute to Miller's story. [[Superman]]'s only course of action to rescue Green Arrow is by removing his arm, but Queen refuses to let him, thus bringing about his apparent death.
+
+An older, balding Green Arrow would appear in [[Mark Waid]] and [[Alex Ross]]' futuristic vision ''[[Kingdom Come (comic)|Kingdom Come]]'', where Oliver has joined forces with Batman to oppose Superman's army. He married his long time love [[Dinah Lance]] and they have a daughter, Olivia Queen.
+
+Green Arrow appears in ''League of Justice,'' a ''[[The Lord of the Rings]]''-inspired fantasy where the character is renamed "Longbow Greenarrow," a mysterious wizard resembling [[Gandalf]], ''JLA: Age of Wonder'' shows Green Arrow as a defender of the poor and an enemy of oppression.
+
+In ''[[JLA: The Nail]]'' and [[JLA: Another Nail|its sequel]], Oliver is a featured as a crippled ex-hero (thanks to [[Amazo]], who also killed [[Hawkman|Katar Hol]]). Bitter, and furious, he is now wheelchair bound, and spreads fear on [[Perry White]]'s talk show about the JLA being aliens and potentially killing everyone. In the sequel, Oliver's brain is transplanted into Amazo's body, allowing him to defeat the creature threatening the universe at the cost of his own life, after mending fences with his former teammates.
+
+In ''[[Batman: Holy Terror]]'', Oliver Queen is mentioned as having been executed, found guilty of supporting underground Jewish "pornographers;" and he has a cameo as Bruce Wayne's society friend in Dean Motter's ''[[Batman: Nine Lives]]''. Green Arrow has also appeared in the ''[[Justice League Unlimited]]'' spin-off comic book. Oliver Queen also appears in [[Mike Mignola|Mike Mignola’s]] ''Batman: The Doom That Came to Gotham'', where he is portrayed as a latter-day [[Templar]] equipped with magic arrows dipped in the blood of [[Saint Sebastian]]. He is killed in issue #2 by [[Poison Ivy (comics)|Poison Ivy]].
+
+DC's weekly series ''[[52 (comic book)|52]]'' established a new 52-Earth [[Multiverse (DC Comics)|Multiverse]]. On Earth-3, an evil equivalent of the Green Arrow is a member of the supervillain co-op called the [[Crime Syndicate|Crime Society of America]]. In [[Tangent Comics]] (Earth-9), Green Arrow is a type of soda with the slogan: "Hits the Spot". On Earth-15, Roy Harper has replaced Oliver as the Green Arrow.<ref>''Countdown'' #24 (November 2007)</ref> The ''Kingdom Come'' (Earth-22) and ''Dark Knight Returns'' (Earth-31) stories and their variations of Oliver were later amalgamated into the 52-Earth Multiverse. In the gender-reversed world of Earth-11, Oliver is now Olivia Queen, and that world's version of Black Canary closely resembles him in appearance.<ref>''Countdown Presents: The Search for Ray Palmer - Superwoman/Batwoman'' #1 (February 2008)</ref>
+
+In ''[[Fringe (TV series)|Fringe]]'' (season 2, episode 23), Peter Bishop, in a parallel universe, is shown looking at a ''Red Lantern/Red Arrow'' comic. The ''Red Lantern/Red Arrow'' comic is a version of the famous ''Green Lantern/Green Arrow'' #76.
+
+==Green Arrow and Warlord==
+[[Mike Grell]]'s [[Warlord (comics)|Warlord]] character, Travis Morgan, bears a striking resemblance to Oliver Queen. During Grell's run on ''Green Arrow'', Travis Morgan shows up in [[Seattle]] in issue #27. After being attacked on sight by half of the Seattle underworld population (all of whom mistake him for Green Arrow), Morgan shows up at Queen's house and declares, "Whatever you've been doing to piss these people off... cut it out!!" Finally appearing on-panel together, Grell illustrates that while there is an uncanny resemblance, Travis Morgan is significantly taller than Oliver, and seemingly several years older.  In ''Aquaman'' (vol. 5) #71, Aquaman accidentally passes through a dimensional portal that leads to [[Skartaris]], the world of Warlord. When he meets Travis Morgan, he mistakes him for Oliver back from the dead (this was after Oliver had been killed by a terrorist's bomb, and before he was resurrected by Hal Jordan).<ref name="dc-ency"/>  During [[Kevin Smith]]'s ''Green Arrow'' run, during the "Quiver" story arc, [[Deadman]] pokes fun at the resemblance as well.<ref>[[Kevin Smith]]. ''Green Arrow'' (vol. 3) #7 (October 2001)</ref>
+
+==In other media==
+{{Main|Green Arrow in other media}}
+
+== Collected editions ==
+The trade paperback edition of ''The Archer's Quest'' (#16-21) was released as Volume 4 in the series after ''Straight Shooter'' (#26-31) was released as Volume 3. The hardcover editions of ''Quiver'', ''The Sounds of Violence'', and ''The Archer's Quest'' were never numbered. 
+{| class="wikitable"
+|-
+! Title !! Material collected !! ISBN
+|-
+! colspan="3" | Beginnings & Team-up with Green Lantern
+|-
+| '''The Green Arrow by Jack Kirby'''
+| ''Adventure Comics'' #250-256; ''World's Finest Comics'' #96-99
+|
+|-
+| '''Showcase Presents: Green Arrow'''
+| ''Adventure Comics'' #250-266, #268-269; ''Brave and the Bold'' #50, #71, #85; ''Justice League of America'' #4; ''World's Finest Comics'' #95-140
+| SC: {{ISBNT|978-1-4012-0785-4}}
+|-
+| '''Green Lantern/Green Arrow Vol. 1'''
+| ''Green Lantern'' (vol. 2) #76-82
+| SC: {{ISBNT|978-1-4012-0224-8}}
+|-
+| '''Green Lantern/Green Arrow Vol. 2'''
+|''Green Lantern'' (vol. 2) #83-87, #89; ''The Flash'' (vol. 2) #212-219, #226
+| SC: {{ISBNT|978-1-4012-0230-9}}
+|-
+| '''The Green Lantern/Green Arrow Collection'''
+| ''Green Lantern'' (vol. 2) #76-87, #89, ''The Flash'' (vol. 2) #212-219, #226
+| HC: {{ISBNT|978-1-5638-9639-2}}
+|-
+| '''Green Lantern: Emerald Allies featuring Green Arrow'''
+| ''Green Arrow'' (vol. 2) #104, #110-111, #125-126; ''Green Lantern'' (vol. 3) #76-77, #92
+| SC: {{ISBNT|978-1-5638-9603-3}}
+|-
+! colspan="3" | Green Arrow Return
+|-
+| '''[[Quiver (comics)|Green Arrow: Quiver]]'''
+| ''Green Arrow'' (vol. 3) #1-10
+| style=white-space:nowrap | HC: {{ISBNT|978-1-5638-9802-0}}<br>SC: {{ISBNT|978-1-5638-9965-2}}
+|-
+| '''Green Arrow: The Sounds of Violence'''
+| ''Green Arrow'' (vol. 3) #11-15
+| HC: {{ISBNT|978-1-5638-9976-8}}<br>SC: {{ISBNT|978-1-4012-0045-9}}
+|-
+| '''Green Arrow: The Archer's Quest'''
+| ''Green Arrow'' (vol. 3) #16-21
+| HC: {{ISBNT|978-1-4012-0010-7}}<br>SC: {{ISBNT|978-1-4012-0044-2}}
+|-
+| '''Green Arrow: Straight Shooter'''
+| ''Green Arrow'' (vol. 3) #26-31
+| SC: {{ISBNT|978-1-4012-0200-2}}
+|-
+| '''Green Arrow: City Walls'''
+| ''Green Arrow'' (vol. 3) #32, #34-39
+| SC: {{ISBNT|978-1-4012-0464-8}}
+|-
+| '''Green Arrow: Moving Targets'''
+| ''Green Arrow'' (vol. 3) #40-50
+| SC: {{ISBNT|978-1-4012-0930-8}}
+|-
+| '''Green Arrow: Heading Into the Light'''
+| ''Green Arrow'' (vol. 3) #52, #54-59
+| SC: {{ISBNT|978-1-4012-1094-6}}
+|-
+| '''Green Arrow: Crawling From the Wreckage'''
+| ''Green Arrow'' (vol. 3) #60-65
+| SC: {{ISBNT|978-1-4012-1232-2}}
+|-
+| '''Green Arrow: Road to Jericho'''
+| ''Green Arrow'' (vol. 3) #66-75
+| SC: {{ISBNT|978-1-4012-1508-8}}
+|-
+! colspan="3" | Green Arrow/Black Canary
+|-
+| '''Green Arrow/Black Canary: Road to the Altar'''
+| ''Birds of Prey'' #109; ''Black Canary'' #1-4; ''Black Canary Wedding Planner''
+| SC: {{ISBNT|978-1-4012-1863-8}}
+|-
+| '''Green Arrow/Black Canary: The Wedding Album'''
+| ''Green Arrow/Black Canary'' #1-5; ''Green Arrow/Black Canary Wedding Special''
+| HC: {{ISBNT|978-1-4012-1841-6}}<br>SC: {{ISBNT|978-1-4012-2219-2}}
+|-
+| '''Green Arrow/Black Canary: Family Business'''
+| ''Green Arrow/Black Canary'' #6-10
+| SC: {{ISBNT|978-1-4012-2016-7}}
+|-
+| '''Green Arrow/Black Canary: A League of Their Own'''
+| ''Green Arrow/Black Canary'' #11-14; ''Green Arrow Secret Files'' #1
+| SC: {{ISBNT|978-1-4012-2250-5}}
+|-
+| '''Green Arrow/Black Canary: Enemies List'''
+| ''Green Arrow/Black Canary'' #15-20
+| SC: {{ISBNT|978-1-4012-2498-1}}
+|-
+| '''Green Arrow/Black Canary: Big Game'''
+| ''Green Arrow/Black Canary'' #21-26
+| SC: {{ISBNT|978-1-4012-2709-8}}
+|-
+| '''Green Arrow/Black Canary: Five Stages'''
+| ''Green Arrow/Black Canary'' #27-30
+| SC: {{ISBNT|978-1-4012-2898-9}}
+|-
+! colspan="3" | Miscellaneous 
+|-
+| '''Green Arrow: Year One'''
+| ''Green Arrow: Year One'' #1-6
+| HC: {{ISBNT|978-1-4012-1687-0}}<br>SC: {{ISBNT|978-1-4012-1743-3}}
+|-
+| '''Green Arrow: The Longbow Hunters'''
+| ''Green Arrow: The Longbow Hunters'' #1-3
+| SC: {{ISBNT|978-0-9302-8938-6}}
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Green Arrow (comics)}}
+* [[DCDatabase:Green Arrow|Green Arrow]] at the DC Database Project
+* [http://www.dccomics.com/heroes_and_villains/?hv=origin_stories/green_arrow Green Arrow's secret origin] at DC Comics.com
+* [http://www.dcindexes.com/indexes/indexes.php?character=181 Earth-1 Green Arrow Index]
+* [http://www.dcindexes.com/indexes/indexes.php?character=72 Earth-2 Green Arrow Index]
+* [http://darkmark6.tripod.com/greenaind.htm Index of the Earth-One adventures of Green Arrow]
+* [http://www.toonopedia.com/grnarrow.htm Green Arrow at Don Markstein's Toonopedia]
+* {{dcauw|Green Arrow|The Green Arrow}}
+
+{{Green Arrow}}
+{{Green Lantern}}
+{{Justice League}}
+
+<!--Categories-->
+[[Category:DC Comics martial artists]]
+[[Category:DC Comics superheroes]]
+[[Category:DC Comics titles]]
+[[Category:Fictional activists]]
+[[Category:Fictional archers]]
+[[Category:Fictional mayors]]
+[[Category:Fictional vigilantes]]
+[[Category:Fictional sword fighters]]
+[[Category:Smallville characters]]
+[[Category:Fictional criminals]]
+[[Category:Comics characters introduced in 1941]]
+[[Category:Fictional businesspeople]]
+[[Category:Fictional characters from California]]
+[[Category:Characters created by Mort Weisinger]]
+
+[[bg:Зелената стрела]]
+[[ca:Green Arrow]]
+[[da:Green Arrow]]
+[[de:Green Arrow]]
+[[es:Flecha Verde]]
+[[fr:Green Arrow]]
+[[it:Freccia Verde]]
+[[he:החץ הירוק]]
+[[nl:Green Arrow]]
+[[pl:Green Arrow]]
+[[pt:Arqueiro Verde]]
+[[sc:Freccia Verde]]
+[[simple:Green Arrow]]
+[[fi:Vihreä Nuoli]]
+[[sv:Green Arrow]]
+[[tl:Green Arrow]]
+[[th:กรีน แอร์โรว์]]
+[[tr:Green Arrow]]
+[[no:Green Arrow]]

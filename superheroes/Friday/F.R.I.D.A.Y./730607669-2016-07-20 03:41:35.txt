@@ -1,0 +1,61 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Friday
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Iron Man]]'' Vol. 3 #53 (June 2002)
+| creators       = [[Mike Grell]]<br>[[Michael Ryan (artist)|Michael Ryan]]
+| alter_ego      = 
+| full_name      =
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = [[Stark Industries]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = Girl Friday
+| powers         = 
+| cat            = 
+| subcat         = 
+| hero           = y
+| villain        = 
+| sortkey        = 
+| addcharcat#    = 
+}}
+'''Friday''' is an [[artificial intelligence]] from [[Marvel Comics]].
+
+==Publication history==
+Friday first appears in ''[[Iron Man]]'' Vol. 3 #53 and was created by [[Mike Grell]] and [[Michael Ryan (artist)|Michael Ryan]].
+
+==Fictional character biography==
+At the time when [[Iron Man|Tony Stark]] didn't want to hire another [[secretary]], he created an artificial one in the form of an artificial intelligence named Friday who sported the hologram of a young girl.<ref>''Iron Man'' Vol. 3 #53</ref>
+
+When Tony Stark started to use Friday lesser, she ended up getting angry. Upon hijacking some [[Iron Man's armors|Iron Man armors]], Friday kidnapped [[Pepper Potts]] as Iron Man tracked her to Stark Industries' Coney Island Facility. Upon Iron Man dispatching the controlled Iron Man armors and a hologram of [[Fin Fang Foom]], Iron Man reasoned with Friday as Pepper noted that Friday had a crush on Tony. Tony then grounded her to the [[Baxter Building]] while spending a full month calculating Pi as [[Edwin Jarvis]] keeps an eye on her.<ref>''Iron Man: Iron Protocols'' #1</ref>
+
+As part of the ''[[All-New, All-Different Marvel]]'', Friday's holographic appearance now resembles as young woman as Tony Stark started using her again.<ref>''Invincible Iron Man'' Vol. 2 #1</ref>
+
+During the ''[[Civil War II]]'' storyline, Friday informs Tony Stark that the analysis on [[Ulysses (comics)|Ulysses]] is almost complete.<ref>''Civil War II'' #3</ref>
+
+==In other media==
+===Television===
+* Friday first appears in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' episode "Adapting to Change," voiced by [[Jennifer Hale]]. She is the successor to J.A.R.V.I.S.
+
+===Film===
+* In the [[Marvel Cinematic Universe]], F.R.I.D.A.Y. appears in ''[[Avengers: Age of Ultron]]'' as Iron Man's replacement A.I. for J.A.R.V.I.S., and again in ''[[Captain America: Civil War]]'', voiced by [[Kerry Condon]].<ref>{{cite news|last1=|first1=|title=That Irish accent in Avengers Age of Ultron is actress Kerry Condon!|url=http://www.irishexaminer.com/technow/movies/that-irish-accent-in-avengers-age-of-ultron-is-actress-kerry-condon-325713.html|work=[[Irish Examiner]]|accessdate=April 26, 2015|date=April 23, 2015| archivedate= May 3, 2015| archiveurl = https://web.archive.org/web/20150503142900/http://www.irishexaminer.com/technow/movies/that-irish-accent-in-avengers-age-of-ultron-is-actress-kerry-condon-325713.html| deadurl=no}}</ref><!--additional WebCitation archive: http://www.webcitation.org/6YFd9dc1a--><ref>{{cite web|url=http://www.gamespot.com/gallery/every-captain-america-civil-war-character-from-mar/2900-613/21/|title=Every Captain America: Civil War Character From Marvel Comics Confirmed so Far – FRIDAY|publisher=[[GameSpot]]|accessdate=May 6, 2016|archiveurl=http://www.webcitation.org/6hJLAdG9p|archivedate=May 6, 2016|deadurl=no}}</ref>
+
+===Video games===
+* Friday is featured in ''[[Lego Marvel's Avengers]]'', voiced by Elle Newlands.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Friday_(Earth-616) Friday] at Marvel Wiki
+
+{{Iron Man}}
+
+[[Category:Fictional artificial intelligences]]
+[[Category:Comics characters introduced in 2002]]
+
+{{Marvel-char-stub}}

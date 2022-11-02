@@ -1,0 +1,53 @@
+{{Merge to|Sgt. Fury and his Howling Commandos|date=July 2011}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=<!-- Deleted image removed: [[Image:dinomanelli.jpg|175px]] -->
+|caption=
+|comic_color=background:#ff8080
+|character_name=Dino Manelli
+|real_name=Dino Manelli
+|publisher=[[Marvel Comics]]
+|debut=''[[Sgt. Fury and his Howling Commandos]]'' vol. 1 #1
+|creators= [[Jack Kirby]], [[Stan Lee]]
+|alliance_color=background:#cccccc
+|alliances=[[S.H.I.E.L.D.]]<br/>[[Sgt. Fury and his Howling Commandos|Howling Commandos]]
+|aliases=
+|powers=
+|}}
+'''Dino Manelli''' is a [[fictional character]] in the [[Marvel Comics]] Universe. His first appearance was in ''[[Sgt. Fury and his Howling Commandos]]'' vol. 1 #1.
+
+==Fictional character biography==
+Before the war, '''Dino Manelli''' was a charismatic actor who was fluent in [[German language|German]] and [[Italian language|Italian]]. Manelli was a member of the original Howling Commandos and fought alongside the team during [[World War II]]. He was briefly replaced by [[Eric Koenig]] when he was sent on a special mission, which was helping to organize another team known as the [[Deadly Dozen (comics)|Deadly Dozen]].{{Issue|date=February 2010}} He later returned to the Howlers but was briefly off-duty when he was wounded.{{Issue|date=February 2010}} After the war, he continued acting and when he rejoins the Howlers for a one off assignment during the [[Vietnam War]] he has his own television show (as Dean Martin did at the time).<ref>''Sgt Fury Annual''#3</ref> He later assisted [[S.H.I.E.L.D.]] following the Deltite Affair.{{Issue|date=February 2010}}
+
+==Other media==
+===Television===
+* Dino Manelli appears in ''[[The Avengers: Earth's Mightiest Heroes]]'' episode "Meet Captain America." He is seen as a member of the Howling Commandos. His ghost appears to Captain America in Hel when Rogers is stranded there.
+
+===Video games===
+* In ''[[Marvel: Ultimate Alliance]]'', the son of Dino Manelli makes a quick cameo. Dino Manelli Jr. (voiced by [[Dave Wittenberg]]) is rescued by the player's team in the Helicarrier and in his journal he speaks of his time joining [[S.H.I.E.L.D.]]. He later appears in the Omega Base level, where he requires the player's team to use an anti-aircraft gun in a helicopter so he can open a door. He also has a special conversation with Deadpool (who insults Dino for being stupid and asks for money in return of rescuing him).
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/manellidino.htm|Dino Manelli}}
+
+{{Howling Commandos}}
+{{S.H.I.E.L.D.}}
+
+{{DEFAULTSORT:Manelli}}
+
+[[Category:Comics characters introduced in 1963]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Fictional actors]]
+[[Category:Fictional American people of Italian descent]]
+[[Category:Fictional secret agents and spies]]
+[[Category:Fictional singers]]
+[[Category:Fictional soldiers]]
+[[Category:Fictional special forces personnel]]
+[[Category:Fictional United States Army Rangers]]
+[[Category:Fictional World War II veterans]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics characters]]
+
+{{marvel-hero-stub}}

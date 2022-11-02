@@ -1,0 +1,46 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = [[Image:Chemo.PNG|225px]]
+| caption = '''Chemo.'''<br />Art by [[Phil Jimenez]]
+| comic_color = background:#8080ff
+| character_name = Chemo
+| real_name = Chemo
+| publisher = [[DC Comics]]
+| debut = ''[[Showcase (comics)|Showcase]]'' #39 (July-August 1962)
+| creators = Robert Kanigher<br />Ross Andru<br />Mike Esposito
+| alliance_color = background:#c0c0ff
+| status = Inactive
+| alliances = [[Secret Society of Super Villains|The Society]]
+| previous_alliances = [[Suicide Squad]]
+| aliases = 
+| relatives = 
+| powers = Immense superhuman strength and durability, Super-regenerative capabilities, Capable of producing and expelling almost any kind of hazardous liquid material 
+|}}
+'''Chemo''' is a [[DC Comics]] [[supervillain]], an enemy of the [[Metal Men]]. He first appeared in ''[[Showcase (comics)|Showcase]]'' #39 (July-August 1962). 
+
+==Character history==
+Chemo was originally a huge plastic vessel, twenty-five feet tall and roughly man-shaped, built by eccentric scientist Ramsey Norton to contain the chemical by-products from his failed experiments to better motivate him to eventual success. The scientist met with failure after failure in his experiments, but pressed forward, and Chemo became filled with greater and greater quantities of various chemicals. 
+
+After attempting to create a growth formula that would enlarge plants to help feed starving nations, the scientist again was unsuccessful and poured the remnants of his project into Chemo, finally filling the massive vessel. These chemicals caused a massive reaction that resulted in Chemo coming to life and growing into a building-sized giant. Chemo proceeded to poison the scientist with a lethal dose of the growth-formula chemicals, and then went on a rampage, only to be defeated by the robotic [[Metal Men]]. 
+
+Chemo proved to be an impressively resilient monster. Being a unique imitation of life, it could not die. It returned time and time again, undergoing various resurrections and mutations, and had several more encounters with the Metal Men as well as squaring off against [[Superman]] more than once. During the ''[[Crisis on Infinite Earths]]'', [[Brainiac (comics) | Brainiac]] and [[Lex Luthor]] used Chemo as a living weapon stationed on Earth-4. Chemo proceeded to destroy much of that earth's New York City and poisoned [[Aquagirl]] by spewing more than a dozen varieties of corrosive acids into the ocean. It was finally destroyed when [[Valentina Vostok| Negative Woman]] used her energy powers to shatter Chemo's living plastic shell.
+
+After the Crisis, Chemo again was resurrected and fought against a variety of superheroes, including its old enemies the Metal Men, Superman, and [[Supergirl]]. It has also fought with Superman as part of the [[Suicide Squad]] formed by President [[Lex Luthor]] to break [[Doomsday (comics)|Doomsday]] out of his prison at the [[JLA]] Watchtower teleporters. 
+
+[[Image:Destructbludhaven.PNG|Blüdhaven is destroyed. Art by [[Phil Jimenez]].|left|thumb]]
+===Infinite Crisis===
+{{main|Infinite Crisis}}
+{{spoiler}}
+In ''Infinite Crisis'' #4, [[Secret Society of Super Villains#3rd Formation|The Society]] used Chemo as a living chemical weapon and dropped him onto the city of [[Blüdhaven]], killing millions of people. [[Dick Grayson]] (Nightwing) had agreed with [[Deathstroke]] for the 72 hours of ceasefire in Blüdhaven in exchange for staying away from [[Rose Wilson|Rose]]. However, Chemo was dropped before the 34th hour. Chemo bathed the entire city in radiation and toxic waste. All able-bodied superheroes attended to save the infected, but Chemo was reforming itself. [[Superman]] battled the monster with the plan that he would regenerate quicker as the battle ensued. While Chemo regenerated, he continued to suck the toxins and radiation out of the city, freeing the city of the remaining radiation and waste. In the end, Superman lifts Chemo and throws him into outer space, freeing the destroyed city of Blüdhaven from Chemo. It is unknown whether this has permanently put Chemo out of commission or whether he will return.
+
+{{endspoiler}}
+
+==Other media==
+In an episode of ''[[Justice League (animated series)|Justice League]]'', a monster was created when Simon Stagg's consciousness combined with the formula that created [[Metamorpho]]. Although not mentioned by name, the monster vastly resembles Chemo. The monster went on a rampage until it was stopped by Metamorpho and the [[Justice League]].
+
+==External links==
+*[http://www.dcuguide.com/who.php?name=chemo Unofficial Guide to DC Comics entry]
+
+{{DC-Comics-stub}}
+
+[[Category:1962 introductions]]
+[[Category:DC Comics supervillains]]

@@ -1,0 +1,487 @@
+{{dablink|This article is about a superhero; for the eurobeat artist, see [[Gianni Coraini]].}}
+{{dablink|"Captain America" is also the name of a song by [[Jimmy Buffet]].}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:secretwarcap.jpg|225px]]
+|caption=Cover art for ''Secret War'' #3 (Oct. 2004).<br>Art by [[Gabriele Dell'Otto]]
+|character_name=Captain America
+|real_name=Steven Rogers
+|publisher=[[Marvel Comics]]
+|debut=''Captain America Comics'' #1<br> (March 1941)
+|creators=[[Joe Simon]]<br>[[Jack Kirby]]
+|alter_ego=
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances = [[Avengers (comics)|Secret Avengers]], [[Avengers (comics)|Avengers]], [[Invaders (comics)|Invaders]], [[All-Winners Squad]], [[Secret Defenders]], [[S.H.I.E.L.D.]], [[Weapon Plus#Weapon I|Project: Rebirth/Weapon I]], [[Falcon (comics)|Falcon]]
+|aliases = [[Nomad (comics)|Nomad]], The Captain, Brett Hendrick
+|supports=<!--optional-->
+|powers = Peak physical condition,<br>Skilled in [[martial arts]] and hand-to-hand combat,<br>Master [[Military tactics|tactician]] and field commander,<br>Wields [[Captain America's shield|indestructible shield]]
+}}
+'''Captain America''', the alter ego of '''Steve Rogers''' (in some accounts Steven Rogers), is a [[fictional character|fictional]] [[superhero]] in the [[Marvel Comics]] [[Marvel Universe|Universe]]. Created by [[Joe Simon]] and [[Jack Kirby]], he [[first appearance|first appeared]] in [[Timely Comics]]' ''Captain America Comics'' #1.
+
+==Publication history==
+Captain America was one of the most popular characters of Marvel Comics (then known as [[Timely Comics|Timely]]) during the [[Golden Age of Comic Books]]. Though preceded by [[Archie Comics|MLJ]]'s [[The Shield (Archie)|The Shield]], Captain America immediately became the most prominent and enduring of a wave of patriotically themed superheroes introduced in American [[comic book]]s prior to and during [[World War II]]. With his sidekick [[Bucky]], Captain America faced [[Nazism|Nazis]], [[Japan|Japanese]] and other threats to wartime America and the [[Allies]].
+[[Image:Captainamerica1.jpg|thumb|''Captain America Comics'' #1 (March 1941). Cover art by [[Jack Kirby]] (pencils) & [[Joe Simon]] (inks).]]
+
+In the post-war era, with the popularity of superheroes fading, Captain America led Timely/Marvel's first superhero team, the [[All-Winners Squad]], in its two published adventures. In his own series he turned his attention to criminals and [[Cold War]] [[Communists]]. After Bucky was shot and wounded in a 1948 story, he was succeeded by Captain America's girlfriend Betsy Ross, who became the superheroine [[Golden Girl]]. ''Captain America Comics'' ended with issue #75,<ref name="captainamericacomics75">''Captain America Comics'' #75, Feb. 1950</ref> by which time the series had been titled ''Captain America's Weird Tales'' for two issues, with the finale a horror/suspense anthology issue with no superheroes.
+
+Captain America was briefly revived, along with the [[Human Torch (Golden Age)|original Human Torch]] and the [[Sub-Mariner]], in ''Young Men'',<ref name="youngmen24">''Young Men'' #24, Dec. 1953</ref> published by Marvel's 1950s iteration [[Atlas Comics (1950s)|Atlas Comics]]. Billed as "Captain America, Commie Smasher!",<!--note: This is a cover nickname on all his 1950s comics, and presented in all caps like "Daredevil, The Man Without Fear". And in any case, "Commie," short for "Communist," a proper noun, is always capped--> he appeared several times during the next year in ''Young Men'' and ''Men's Adventures'', as well as in three issues of an eponymous title. Sales were poor, however, and the character again disappeared after ''Captain America'' #78.<ref name="captainamerica78">''Captain America'' #78, Sept. 1954</ref> In the 1970s, the post-war versions of Captain America were [[retcon]]ned into separate, successive characters who briefly took up the mantle of Captain America after Steve Rogers went into [[suspended animation]] near the end of World War II.<ref name="captainamerica153-156">''Captain America'' #153-156, Sept.-Dec. 1972.</ref><ref name="whatif4">''What If?'' #4, Aug. 1977.</ref>
+
+He returned in Marvel's ''[[Avengers (comics)|The Avengers]]'' #4.<ref name="theavengers4">''[[Avengers (comics)|The Avengers]]'' #4, March 1964.</ref> The story explains that in the final days of WWII, Captain America fell from an experimental [[unmanned aerial vehicle|drone plane]] into the [[Atlantic Ocean|North Atlantic Ocean]] and spent decades frozen in a state of suspended animation. (Retellings sometimes place the event over the [[English Channel]].) The hero found a new generation of readers as leader of the all-star superhero team the Avengers, and shortly afterward in a new solo feature beginning in issue #59 of the "split book" ''[[Tales of Suspense]]'', shared with the feature "[[Iron Man]]".<ref name="talesofsuspense59">''[[Tales of Suspense]]'' #59, Nov. 1964</ref>  The feature was written by Stan Lee and generally penciled or laid out by Captain America's golden age co-creator, Jack Kirby. [[Gil Kane]], in some of his earliest Marvel work, also drew some stories. The feature went to full-length and took over the numbering of ''TOS'' with #100. (Iron Man received his own, separate series.) The new ''Captain America'' continued to feature artwork by Kirby, as well as a short run by [[Jim Steranko]], and work by many of the industry's top artists and writers. This solo title has lasted decades longer (albeit in multiple incarnations) than the original run. 
+
+Writers often use the character to reflect upon the conflict between politics and ideology by placing him at occasional odds with the United States government or showing him being troubled about the state of the country. He considers himself dedicated to defending America's ideals rather than its political leadership, a conviction Captain America sums up when confronted by an [[United States Army|army]] general who attempts to manipulate him by appealing to his loyalty: Rogers responds, "I'm loyal to nothing, General ... except the [[American Dream|Dream]]."<ref name="daredevil233">''[[Daredevil (Marvel Comics)|Daredevil]]'' #233, Aug. 1986</ref>
+
+==Fictional character biography==
+====1940s—Operation: Rebirth====
+[[Image:1974ComicArtCon_book.jpg|thumb|left|150px|[[Comic Art Convention]] program book featuring [[Joe Simon]]'s original 1940 sketch of Captain America.]]
+Steve Rogers is born on July 4, 1917 in the [[Lower East Side, Manhattan|Lower East Side of Manhattan]], [[New York City]], to Irish immigrants Sarah and Joseph Rogers.<ref name="sentinel">''Adventures of Captain America–Sentinel of Liberty'' #1-#4, Oct. 1991-Jan. 1992.</ref> By the early 1940s, before America's entry into [[World War II]], Rogers is a tall (6'2") but scrawny [[United States|American]] [[fine arts]] student specializing in illustration. Disturbed by the rise of the [[Third Reich]], Rogers attempts to enlist, only to be rejected due to his poor constitution. A U.S. Army officer looking for test subjects offers Rogers the chance to serve his country by taking part in a top-secret defense project — Operation: Rebirth, which seeks to develop a means of creating physically superior soldiers. Rogers volunteers for the research and, after a rigorous physical, combat training and selection process, is chosen as the first human test subject for the [[Supersoldier|Super-Soldier]] serum developed by the scientist "Dr. Reinstein",<ref name="captainamericacomics1">''Captain America Comics'' #1, March 1941</ref> <ref name="modernorigin">''Captain America'' #109, Jan. 1969.</ref> later [[retcon]]ned as a code name for the scientist Emil Erskine.<ref name="stern origin">''Captain America'' #255, Mar. 1981</ref>
+
+Later stories reveal that Rogers is not the first to be given the Super-Soldier formula. The night before Rogers receives the Super-Soldier formula, some military members of the project decide that a non-soldier is not the right candidate and secretly give Erskine's incomplete formula to Clinton McIntyre. This, however, makes McIntyre violently insane, and he is subdued and placed in cold storage. The criminal organization [[Advanced Idea Mechanics|AIM]] later revives McIntyre as the homicidal [[Protocide]].<ref name="captainamericaannual2000">''Captain America Annual 2000'', 2000.</ref>
+
+The night that Operation: Rebirth is implemented, Rogers receives injections and oral ingestions of the Super-Soldier formula. He is then exposed to a controlled burst of "Vita-Rays" that activate and stabilize the chemicals in his system. Although the process is arduous physically, it successfully alters his physiology almost instantly from its relatively frail form to the maximum of human efficiency, greatly enhancing his musculature and reflexes. Erskine declares Rogers to be the first of a new breed of man, a "nearly perfect human being".<ref name="modernorigin" />
+
+At that moment, a Nazi [[secret agent|spy]] reveals himself and shoots Erskine. Because the scientist had committed the crucial portions of the Super-Soldier formula to memory, it cannot be duplicated. Rogers kills the spy in retaliation ([[retcon]]ned in  1964 so that the spy accidentally kills himself by fleeing into an "electrical omniverter", but changed back in 1969) and vows to oppose the enemies of America.<ref name="tos origin">''[[Tales of Suspense]]'' #63, Mar. 1964</ref><ref name="modernorigin" />
+    
+The [[United States]] government, making the most of its one super-soldier, reimagines him as a superhero who serves as both a [[counter-intelligence]] agent and a [[propaganda]] symbol to counter Nazi [[Germany]]'s head of terrorist operations, the [[Red Skull]]. To that end, Rogers is given a uniform modeled after the [[American flag]] (based on Rogers's own sketches<ref name="sentinel">''Adventures of Captain America–Sentinel of Liberty'' #1-#4, Oct. 1991-Jan. 1992.</ref>), a [[Captain America's shield|bulletproof shield]], a personal [[side arm]], and the codename Captain America. He is also given a cover identity as a clumsy [[infantry]] private at [[Camp Lehigh]] in Virginia. Barely out of his teens himself, Rogers makes friends with the camp's teenage [[mascot]] [[Bucky|James Buchanan "Bucky" Barnes]].<ref name="captainamericacomics1" />
+
+[[Image:Captainamerica5.jpg|thumb|left|Promotional art for ''Captain America'' Vol. 5, #5 (May 2005), with fellow [[Invaders (comics)|Invaders]] the [[Sub-Mariner]] and the original [[Human Torch (Golden Age)|Human Torch]]. Art by [[Steve Epting]].]]
+Barnes accidentally learns of Roger's [[secret identity|dual identity]] and offers to keep the secret if he can become Captain America's [[sidekick]]. Rogers agrees and trains Barnes.<ref name="winter soldier">This is retconned in 2005, where it is revealed that Bucky was actually a 16-year-old operative trained to perform missions that Captain America would not do, such as covert assassinations. See [[Bucky#Winter Soldier|Bucky - Winter Soldier]].</ref> Rogers meets President [[Franklin D. Roosevelt]], who presents him with a new shield made from a mixture of [[steel]] and [[vibranium]], fused by an unknown catalyst. The alloy is indestructible, yet the shield is light enough to use as a [[discus]]-like weapon that can be angled to return to him. (In several stories, due to error, the shield is described as an [[adamantium (comics)|adamantium]]-[[vibranium]] alloy; see [[Captain America's shield]].) It proves so effective that Captain America forgoes the sidearm.<ref name="stern origin" /> Throughout World War II, Captain America and Bucky fight the Nazi menace both on their own and as members of the superhero team [[Invaders (comics)|the Invaders]] (as seen in the 1970s comic of the same name).<ref name="invaders">''[[Invaders (comics)|Giant-Sized Invaders]]'' #1, Jun. 1975.</ref> 
+
+In 1942 (after Rogers has become Captain America), a beta version of the formula is given to a group of [[African-American]] soldiers as part of a military experiment by another scientist given the Reinstein code name; [[Isaiah Bradley]] is the sole survivor. After the last two members of his group are killed, Bradley steals a uniform meant for Rogers and wears it on a suicide mission to destroy the Nazi super-soldier effort at a German concentration camp. Bradley is captured but the U.S. Army rescues and [[court martial]]s him. He is imprisoned for 17 years in [[United States Disciplinary Barracks|Leavenworth]] until pardoned by President [[Dwight D. Eisenhower|Eisenhower]]. By the time of his release, the long-term effects of the formula have turned Bradley into a hulking, sterile giant with the mentality of a seven-year-old. Rogers does not find out about Bradley until decades later.<ref name="truthseries">''Truth: Red, White and Black'' #1–#7, 2003.</ref> The [[Patriot (comics)|Patriot]], a member of the [[Young Avengers]], is Bradley's grandson.<ref name="ya3">''Young Avengers'' #3, June 2005.</ref>
+
+Further revelations come in ''New X-Men'' #145 which explains that Operation: Rebirth is funded and secretly a part of the [[Weapon Plus]] program, a clandestine government organization devoted to the creation of superhumans to combat and exterminate mutants. Rogers is "Weapon I", the first-generation living weapon. Following his disappearance, subsequent phases involve experimentation on animals, racial minorities, criminals, and mutants, with results including [[Wolverine (comics)|Wolverine]] (Weapon X) and [[Fantomex]] (Weapon XIII). <ref name="newxmen145">''New X-Men'' #145, Oct. 2003.</ref>
+
+In 1945, during the closing days of World War II, Captain America and Bucky try to stop the villainous [[Baron Zemo]] from destroying an experimental drone plane. Zemo launches the plane with an armed explosive on it, with Rogers and Barnes in hot pursuit. They reach the plane just before it takes off, but when Bucky tries to defuse the bomb, it explodes in mid-air. The young man is believed killed, and Rogers is hurled into the freezing waters of either the North Atlantic or the English Channel (accounts differ). Neither body is found, and both are presumed dead.<ref name="theavengers4" />
+
+====Late 1940s&ndash;1950s: After Steve Rogers====
+[[Image:CaptainAmerica(Atlas)78.jpg|thumb|185px|left|''Captain America'' #78 (Sept. 1954), featuring the first [[Electro (comics)#Timely.2FAtlas Comics.27 Electro|Electro]]. Cover art by [[John Romita Sr.]]<!--Confirmed: He both penciled & inked-->.]]
+Fearing it would be a blow to American morale if Captain America's demise is revealed, President [[Harry S. Truman|Truman]] asks William Naslund, the patriotically costumed Golden Age hero the [[Spirit of '76 (comics)|Spirit of '76]], to assume the role, with a young man named Fred Davis as Bucky. They continue to serve in the same roles after the war with the [[All-Winners Squad]], until the [[android]] Adam II fatally injures Naslund in 1946.<ref name="whatif4">''What If?'' #4, Aug. 1977.</ref> After Naslund's death, Jeff Mace, the Golden Age [[Jeffrey Mace|Patriot]], takes over as Captain America, with Davis continuing as Bucky; however, Davis is shot and injured in 1948 and forced to retire. Mace teams up with Betsy "Golden Girl" Ross, and sometime before 1953 gives up his Captain America identity to marry her. Mace develops [[cancer]] and dies decades later.<ref name="captainamerica285">''Captain America'' #285, Sept. 1983.</ref> 
+
+In 1953, an [[Grand Director|unnamed man]] (who later goes by the title "The Grand Director") who idolizes Captain America and who had done his American History Ph.D. thesis on Rogers discovers Nazi files in a German warehouse, one of which contains the lost formula for the Super Soldier serum. He takes it to the United States government on the condition that they use it to make him the fourth Captain America. Needing a symbol for the [[Korean War]], they agree, and the man undergoes plastic surgery to look like Steve Rogers, even assuming his name. The war ends and the project is never completed. "Rogers" finds a teaching job at the Lee School, where he meets Jack Monroe, a young orphan who also idolizes Captain America. They decide to use the formula on themselves and become the new Captain America and Bucky, this time fighting [[communism]].<ref name="youngmen24">''Young Men'' Dec. 1953, May 1954</ref> These stories are written by [[Stan Lee]] with art by a young [[John Romita Sr.]]
+
+"Rogers" and Monroe do not know of and therefore do not undergo the "Vita-Ray" process, and the imperfect implementation of the formula in their systems makes them [[paranoia|paranoid]]. By the middle of 1954, they are irrationally attacking anyone they perceive to be a Communist. In 1955 the [[Federal Bureau of Investigation|FBI]] places them in suspended animation. The 1950s Captain America and Bucky are revived years later after the return of Steve Rogers. They go on another rampage and are defeated by the man after whom they had modeled themselves.<ref name="captainamerica153-156">''Captain America'' #153-156, Sept.-Dec. 1972.</ref>
+
+====The Test====
+In ''Strange Tales'' #114 (Nov 1963), a magazine drawn by Jack Kirby (Stan Lee later admitted that he only gave artists the outlines of stories so this would have been mainly written by Kirby too), a brash young Johnny Storm alias the Human Torch is humbled at every turn by the super athlete Captain America who has returned. Captain America turns out to be crooked and after finally being cornered by the Torch, he is revealed to be "The Acrobat", an ex-circus performer that the Torch had defeated in Strange Tales 106. Afterwards, Johnny Storm digs out an old comic mag in which Captain America is shown to be Steve Rogers. In the last panel it is revealed that this story is a test to see if readers would like Captain America to return.
+
+====1960s&ndash;1970s—The return of Steve Rogers====
+[[Image:Avengers4.jpg|thumb|160px|''Avengers'' Vol. 1, #4 (March 1964). Cover art by Jack Kirby & [[George Roussos]].]]
+In ''[[Avengers (comics)|The Avengers]]'' #4, the Avengers discover Steve Rogers' body in the North Atlantic, his costume under his soldier's uniform and still carrying his shield. Rogers had been preserved in a block of ice since 1945. The ice block melts after the Sub-Mariner, enraged that an Arctic tribe is worshiping the frozen figure, throws it into the ocean. When Rogers revives, he relates his failed last mission to the Avengers. Rogers accepts membership in the Avengers, and although he is decades out of his time, his considerable combat experience makes him a valuable asset to the team. He quickly assumes leadership of the team and has typically kept that position throughout the team's history.<ref name="theavengers4">''[[Avengers (comics)|The Avengers]]'' #4, March 1964.</ref>
+
+Captain America is plagued by guilt for being unable to prevent Bucky's death — a feeling that does not ease for some time. Although he takes the young [[Rick Jones (comics)|Rick Jones]] (who closely resembles Bucky) under his tutelage, he refuses for some time to allow Jones to take up the Bucky identity, not wishing to be responsible for another youth's death. Jones eventually convinces Rogers to let him don the Bucky costume,<ref>''Captain America'' #110, Feb. 1969</ref> but this partnership lasts only a short time; a disguised Red Skull, impersonating Rogers with the help of the [[Cosmic Cube]], drives Jones away. Jones then becomes the partner of the exiled [[Kree]] warrior, Captain [[Mar-Vell]].<ref>''Captain America'' #118, Oct. 1969</ref><ref>''Captain Marvel'' #17, Oct. 1969</ref>
+
+Rogers also reunites with his old war comrade [[Nick Fury]], who is similarly well preserved thanks to his [[Infinity Formula]] ingestions.  As a result, Rogers regularly undertakes missions for the security agency [[S.H.I.E.L.D.]] for which Fury was the executive director.<ref name="tos78">''[[Tales of Suspense]]'' #78, Jun. 1966</ref>
+[[Image:CaptainAmericaV1-180.jpg|thumb|160px|left|Cover to ''Captain America'' #180 (Dec. 1974). Captain America assumes the "Nomad" identity. Cover art by [[Gil Kane]].]]
+
+In the same storyline where the Red Skull impersonates Captain America, Rogers meets and trains Sam Wilson, who becomes the superhero known as the [[Falcon (comics)|Falcon]]. The Falcon is one of the few [[African American|black]] superheroes in comic books at the time, and two characters begin a long association that continues to the present day.<ref name="falcon">''Captain America'' #117-#119, Sep.-Nov. 1969.</ref>
+
+During [[Steve Englehart]]'s stint as writer, Rogers encounters his revived, but still insane, 1950s counterpart. Although Rogers and the Falcon were able to defeat both the faux Rogers and Jack Monroe, Rogers became deeply disturbed that he could have suffered his counterpart's fate .<ref name="captainamerica153-156">''Captain America'' #153-156, Sept.-Dec. 1972.</ref> The series also dealt with the [[Marvel Universe]]'s version of the [[Watergate scandal]], making Rogers so uncertain about his role, that he abandons his Captain America identity in favor of one called [[Nomad (comics)|Nomad]]. During his time as Nomad, several men assume the Captain America identity, all without success.<ref name="captainamerica176">''Captain America'' #176-#183, 1974-1975.</ref> Rogers eventually re-assumes after coming to consider that the identity could be a symbol of American ideals and not its government. Jack Monroe, cured of his mental instability, later takes up the Nomad alias.<ref name="captainamerica282">''Captain America'' #282, June 1983.</ref> During this period, Rogers also temporarily gains super strength.<ref name="captainamerica159">''Captain America'' #159, March 1973.</ref>
+
+====1980s====
+In the 1980s, in addition to runs from such acclaimed creators as [[John Byrne]], the series reveals the true face and full origin of the Red Skull. Long-time writer [[Mark Gruenwald]] explores numerous political and social themes, such as extreme idealism when Captain America fights the anti-nationalist terrorist [[Flag-Smasher]];<ref name="flagsmasher">''Captain America'' #312, 1986</ref> and [[vigilante|vigilantism]] when he hunts the murderous [[Scourge of the Underworld]].<ref name="scourge">''Captain America'' #318-#320, 1986</ref>
+[[Image:CaptainAmerica103.jpg|thumb|The [[Red Skull]]: ''Captain America'' #103 (July 1968). Cover art by Jack Kirby & [[Syd Shores]].]]
+In ''Captain America'' #332, Rogers receives a large back-pay reimbursement dating back to his disappearance at the end of World War II. The expense draws the attention of a government commission that orders Rogers to work directly for the U.S. government. Already troubled by the corruption he had encountered with the [[Nuke (comics)|Nuke]] incident in [[New York City]] (in the "[[Daredevil: Born Again]]" arc<ref name="bornagain">''Daredevil'' #227-233, 1986.</ref>), Rogers chooses instead to resign his identity and takes the alias of "The Captain". The story arc illustrates the differences between Captain America's beliefs and those of replacement Captain America John Walker. Walker, the former costumed hero Super-Patriot, has a jingoistic attitude that reflects a vocal segment of American culture at the time, embodied by other fictional characters such as [[Sylvester Stallone]]'s movie hero [[Rambo]]. Walker struggles to emulate Rogers' ideals until pressure from hidden enemies helps to drive him insane. Rogers soon returns to the Captain America identity while a recovered Walker becomes the [[U.S. Agent]].<ref name="captainamerica322-351">''Captain America'' #332-#351, 1987-1989.</ref>
+
+====1990s====
+Some time after returning as Captain America, Rogers avoids the explosion of a [[methamphetamine]] lab, but the drug triggers a chemical reaction in the Super-Soldier serum in his system. To combat the reaction, Rogers has the serum removed from his system, and he trains constantly to maintain his physical condition. The storyline was partly prompted by reader concerns that Captain America is effectively the beneficiary of [[steroid]] treatments.{{citation needed}} A [[retcon]] later establishes that the serum was never a drug because Rogers' body would have metabolized it out of his system. The "serum" is, in fact, a virus that effected a biochemical and genetic change, explaining how the Red Skull (who at the time inhabits a body [[cloning|cloned]] from Rogers' cells) also has the formula in his body.
+
+However, because of his altered biochemistry which takes the form of the "serum" in his blood work, Rogers' body begins to deteriorate due to overuse of the "serum". For a time, he had to wear a powered [[exoskeleton]] to keep moving and had to be placed again in suspended animation. During this time, he is given a transfusion of blood from the Red Skull, which cured his condition and stabilized the Super-Soldier serum/virus in his system. Captain America returns both to crime fighting and the Avengers.<ref name="captainamerica425-454">''Captain America'' #425-454, 1994-1996.</ref>
+
+====2000s====
+[[Image:Wsoldier9.jpg|Captain America with the Winter Soldier, after the latter has recovered his memories. Art by Steve Epting.|thumb|290px]]
+In the 2002 ''Captain America'' #1 (Vol. 4), Nick Fury pulls Rogers from the [[World Trade Center]] site of the [[September 11, 2001 attacks|September 11 attack]] and sends him on a mission to liberate a small town from a [[Middle East]]ern terrorist organization. Following his victory, Rogers unmasks himself, taking the blame for his own actions in order to avoid a retaliatory attack against the American public. He establishes a residence in the [[Red Hook, Brooklyn|Red Hook]] neighborhood of [[Brooklyn, New York]].<ref name"captainamerica1">''Captain America'' (4th series) #1-7, June 2002-Feb. 2003</ref>
+
+In 2004, ''Captain America'' was rebooted again, and Volume 5 began under new writer [[Ed Brubaker]].  Following the events of [[Avengers Disassembled]], while in the employ of [[S.H.I.E.L.D.]] once again, Rogers discovers that Bucky is alive and being used by Soviet espionage interests as the [[Bucky#Winter Soldier|Winter Soldier]].  Rogers also resumes his on-again, off-again relationship with S.H.I.E.L.D. Agent [[Sharon Carter]].  Brubaker's run has met with immediate acclaim, with some going so far as to call it the definitive version of the Captain America character, with critics and fans praising the blend of [[espionage]] and superheroics.  In particular, the decision to revive Bucky, who had previously been considered one of the three unrevivable comics characters (along with [[Spider-Man]]'s [[Uncle Ben]] and [[Jason Todd]], the second [[Robin (comics)|Robin]]) has been remarkably well-received, with many critics and fans noting how surprised they were at the story's quality.
+
+In the [[Marvel Comics]] 2006 ''[[Civil War (comics)|Civil War]]'' crossover, Captain America leads the Anti-[[Registration Acts (comics)#2006 Super-human Registration Act|Registration]] faction and resistance movement, becoming a fugitive in the process and pitting himself against the heroes of the Pro-Registration movement, including his former friend Iron Man. He adopts the alias "Brett Hendrick", a [[Shopping mall|mall]] [[security guard]], to avoid government detection.<ref name="civilwar1-7">''[[Civil War (comics)|Civil War]]'' #1-7, 2006</ref>  As the War continues, Rogers becomes more and more extreme in his desire to win, including allowing the [[Punisher (comics)|Punisher]] to join his "Secret Avengers," and working (albeit reluctantly) with the [[Kingpin (comics)|Kingpin]].  <ref name="civilwar:warcrimes1">''[[Civil War (comics)|Civil War]]: War Crimes'' #1 2006</ref>
+
+==Powers and abilities==
+[[Image:Captain_america4.jpg|thumb|left|Portrait of Captain America. Art by Travis Charest.]]
+Rogers in the regular Marvel Universe has no superhuman powers, although as a result of the Super-Soldier serum, he is transformed from a frail young man into a "perfect" specimen of human development and conditioning. Captain America is as intelligent, strong, fast, agile, and durable as it is possible for a human being to be without being considered superhuman. The formula enhances all of his metabolic functions and prevents the build-up of fatigue poisons in his muscles, giving him endurance far in excess of an ordinary human being. This accounts for many of his extraordinary feats, including running a mile in a little more than a minute.<ref name="captainamerica65anniversary">''Captain America 65th Anniversary Special'', May 2006</ref>  Furthermore, his enhancements are the reason why he was able to survive being frozen in suspended animation for decades.  Rogers is also unable to become intoxicated by alcohol and is immune to many diseases.
+
+Mentally, Rogers' battle experience and training make him an expert [[Military tactics|tactician]] and an excellent field commander, with his teammates frequently deferring to his orders in battle. Rogers' reflexes and senses are also extraordinarily keen. He is a master of [[boxing]], [[jiu jitsu]], and [[judo]], combined with his virtually superhuman gymnastic ability into his own unique fighting style with advanced pressure-point fighting. Years of practice with his indestructible shield make it practically an extension of his own body, and he is able to aim and throw it with almost unerring accuracy and even [[ricochet]] the shield to hit multiple targets. He is extremely skilled in hand-to-hand combat, sometimes taking on and defeating foes whose strength, size, or superpowers greatly exceed his. In the comics, he is regarded by other skilled fighters as the best hand-to-hand combatant in the Marvel Universe.<ref name="captainamerica302">''Captain America'' #302, Feb 1985</ref><ref name="captainamerica375">''Captain America'' #375, August 1990</ref>
+
+Rogers has vast U.S. military knowledge and is often shown to be familiar with ongoing, highly-classified Defense Department operations. Despite his high profile as one of the world's most popular and recognizable superheroes, Rogers also has a broad understanding of the espionage community, largely through his ongoing relationship with [[S.H.I.E.L.D.]]. He occasionally makes forays into mundane career fields, including commercial arts, education (high school history) and law enforcement.
+
+Captain America is revered by most of the superheroes in the Marvel Universe, filling the "leadership" role which [[Superman]] takes on in [[DC Comics]].  He is considered a living legend, and many Marvel heroes, particularly [[Spider-Man]], idolize him.
+
+===Weapons and equipment===
+{{further|[[Captain America's shield]]}}
+Captain America uses several shields throughout his history, the most recognizable of which is an indestructible [[discus]]-shaped shield made from a vibranium-steel alloy (not adamantium-vibranium as sometimes erroneously stated). This alloy is created by accident and never duplicated, although efforts to reverse engineer it result in the creation of [[adamantium (comics)|adamantium]].
+
+Captain America's uniform is made of a fire-retardant material, and he wears a lightweight "duralumin" [[chainmail]] beneath his uniform for added protection.<ref name="stern origin" /> Originally, Rogers' mask was a separate piece of material, but an early engagement had it dislodged, thus almost exposing his identity.  To prevent a recurrence of the situation, Rogers modified the mask with connecting material to his uniform.  This also had the fringe benefit of extending his armor to cover his previously exposed neck.  As a member of the Avengers, Rogers has an Avengers priority card, which serves as a communications device.
+
+==Other characters named Captain America==
+[[Image:Captain America 350.jpg|thumb|195px|''Captain America'' #350 (Feb. 1989): Rogers as The Captain vs. John Walker as Captain America. Cover art by [[Kieron Dwyer]] & [[Al Milgrom]].]]
+Numerous individuals have claimed the "Captain America" title at one time or another in the Marvel Universe. These include:
+* '''Steven Rogers''', an ancestor of Steve Rogers who is shown to have had the nickname "Captain America" during the [[American Revolutionary War]] in ''Captain America: Sentinel of Liberty'' #6.<ref name="captainamericasentinel6">''Captain America: Sentinel of Liberty'' #6, February, 1999.</ref>
+* '''[[Isaiah Bradley]]''', a super soldier serum test subject who briefly wears the Captain America costume in the 2004 limited series ''Truth: Red White and Black'' which is set in the early 1940s.<ref name="truthseries" />
+* '''Colin MacIntyre''', '''[[Protocide]]''', a character who goes through the super soldier process the night before Steve Rogers in ''Captain America Annual 2000''. Though he later wears a patriotic costume, he never goes by the title "Captain America".<ref name="captainamericaannual2000"/>
+* '''Steve Rogers''', officially the '''first''' '''Captain America''' he debuted in ''Captain America Comics'' #1 and remains the current title holder.<ref name="captainamericacomics1" />
+* '''William Naslund''', '''The [[Spirit of '76 (comics)|Spirit of '76]]''', is revealed to have replaced Rogers in the role in 1945 in  ''[[What If? (comics)|What If?]]'' #4.<ref name="whatif4"/>
+* '''[[Jeffrey Mace|Jeff Mace]]''', '''the Patriot''', is revealed to have replaced Naslund in the role in 1947 in  ''What If?'' #4.<ref name="whatif4"/>
+* The '''1950s [[Grand Director|anti-communist Cap]]''' whose real name is as yet unrevealed, though he later went by "Steve Rogers" and "the Grand Director".  In ''Captain America'' #155, he was revealed to have been the Steve Rogers/Captain America who appeared in comics published during the 1950s.<ref name="captainamerican155">''Captain America'' #155, November, 1972.</ref>
+* In ''[[Tales of Suspense]]'' #96 a number of unnamed individuals try unsuccessfully to assume the Captain America role after Rogers announces his retirement.<ref name="marvunapp">{{cite web| url=http://www.marvunapp.com/Appendix3/capimposters.htm|title=Marvunapp.com - Captain America Imposters}}</ref><ref name="talesofsuspense96">''[[Tales of Suspense]]'' #96, December, 1967</ref>
+* In ''Captain America: Sentinel of Liberty'' #8-9, '''Sam Wilson''' ([[Falcon (comics)|The Falcon]]) briefly takes on the identity in a two-part [[retcon]] story, set in between other ''Captain America'' stories which were first published in the early 1970s.<ref name="captainamericasentinel8-9">''Captain America: Sentinel of Liberty'' #8-9, April - May, 1999.</ref>
+* '''Bob Russo''', calls himself "Captain America" briefly in ''Captain America'' #178-179 (October - November, 1974).<ref name="bobrusso">{{cite web| url=http://www.marvel.com/universe/Captain_America_%28Bob_Russo%29|title=Information about Bob Russo at Marvel.com}}</ref>
+* '''"Scar" Turpin''', also calls himself "Captain America" very briefly in ''Captain America'' #179 (November, 1974).<ref name="scarturpin">{{cite web| url=http://www.marvel.com/universe/Captain_America_(Scar_Turpin)|title=Information about "Scar" Turpin at Marvel.com}}</ref> 
+* '''"Roscoe"''' becomes "Captain America" in ''Captain America'' #181 (January, 1975).  He is killed in action by the Red Skull in ''Captain America'' #183.<ref name="roscoe">{{cite web| url=http://www.marvel.com/universe/Captain_America_%28Roscoe%29|title=Information about "Roscoe" at Marvel.com}}</ref><ref name="captainamerica183">''Captain America'' #183, March, 1975.</ref>
+* '''John Walker''', later known as '''[[U.S. Agent]]''', serves as Captain America in ''Captain America'' #336-350.<ref name="captainamerica336-350">''Captain America'' #336-350, December, 1987 - February, 1989.</ref>  He later claims the title again in the 2004-2005 ''[[Invaders (comics)|New Invaders]]'' series, despite the fact that Rogers is also active in the role at the time.<ref name="newinvaders">''[[Invaders (comics)|New Invaders]]'', 2004-2005</ref>
+* The '''[[Anti-Cap]]''', a mysterious character wearing a version of the Captain America costume who appears in the ''Captain America and the Falcon''.<ref name="captainamericaandfalcon">''Captain America and the Falcon'' series, 2004-2005</ref><ref name="anticap">{{cite web| url=
+http://www.marvel.com/universe/Anti-Cap|title=Information about Anti-Cap at Marvel.com}}</ref>
+
+==Trivia==
+* The three-page opening sequence of ''Captain America'' (2004 series) #23 (Dec. 2006) is a panel-by-panel homage to writer-artist [[Jim Steranko]]'s influential ''[[Nick Fury, Agent of S.H.I.E.L.D.]] #1 (June 1968).
+
+==Other versions of Captain America==
+There have also been numerous versions of Captain America in other continuities:
+===MC2 Captain America===
+Captain America lead the original Avengers on a mission to an alternate reality, which claimed the majority of the team.  He insisted on staying behind to aid the rebels in that reality, therefore, added to the list of those who perished.
+
+He was later aided by the current Avengers in ''[[A-Next]]'' #10-11.  After the battle, he gave [[American Dream (comics)|American Dream]] the shield which belonged to that universe's Captain America.  Captain America, along with [[Thunderstrike (Kevin Masterson)|Thunderstrike]] would return to their home universe to aid in the fight against [[Seth (comics)|Seth]] in ''[[Spider-Girl]]'' #59.
+
+In the 2005 limited series ''[[Last Hero Standing]]'', the [[MC2]] universe version of Captain America is fatally injured when he leads a group of young heroes in battle against the Norse god [[Loki (comics)|Loki]].  Thor uses his power to transform Captain America into a new star.  In the sequel, ''[[Last Planet Standing]]'', [[Galactus]] states that this new star is the key to his escaping his world-devouring hunger.
+
+===Ultimate Captain America===
+[[Image:Ultimates11.jpg|thumb|200px|right|Cover art for ''Ultimates'' #11, by [[Bryan Hitch]]]]
+The [[Ultimate Marvel Universe]] version of Captain America was created by [[Mark Millar]] and [[Bryan Hitch]] based on the original character. He makes his first appearance in ''[[Ultimates]]'' #1. 
+
+In the Ultimate universe, Steve Rogers is a frail volunteer who undergoes months of steroid treatment, surgery, and the Super-Soldier formula to become Captain America. Bucky is a childhood friend who follows him on his missions as a photographer rather than as a costumed sidekick. Rogers' last mission as Captain America sends him to a Nazi stronghold on the coast of Iceland to stop a prototype hydrogen bomb created using alien technology. He causes the rocket carrying the bomb to explode and falls into the freezing Arctic Ocean. Rogers falls into a state of [[suspended animation]] until Tony Stark's deep sea exploration team pulls him out of the water 57 years later. Bucky survives the war, and, thinking that Rogers had been killed in action, marries Rogers' fiancée Gail.<ref>''Ultimates'' #1-#3, Mar.-May 2002.</ref>
+
+The Ultimate universe Captain America is more politically and morally conservative than his mainstream Marvel universe counterpart and is more prone to violent solutions, frequently using small arms and explosives. His costume is mostly the same, except that his mask lacks the traditional wings on the side of his head and his shoulders sport American star emblems. The mask was modified into a helmet as of ''Ultimates 2''.
+
+Rogers becomes one of the first members and field commander of the superhuman team the Ultimates, S.H.I.E.L.D.'s answer to [[metahuman|posthuman]] [[terrorism]]. He tries to adjust to life in the 21st century, although he longs for older times and values, spending much time with Bucky and Gail (now senior citizens) and going to WWII veterans' reunions. Rogers wears a [[kevlar]] uniform and carries a shield of pure adamantium. He also dates Janet van Dyne, the [[Wasp (comics)#Ultimate Wasp|Wasp]], the estranged wife of former team member [[Henry Pym]].<ref>''Ultimates 2'' #1, Feb. 2005</ref>
+
+A year later, it appears that Captain America repeatedly betrays the team, and S.H.I.E.L.D. places him in custody. The [[Ultimate Black Widow|Black Widow]] is revealed as the traitor, aiding a coalition of countries invading America. When these invaders, who call themselves [[The Liberators (Marvel Comics)|The Liberators]] appear to have defeated all American superheroes and effectively America itself, the [[Wasp (comics)#Ultimate Wasp|Wasp]] frees him from his cell and they join the other few heroes as a resistance. After a pitched one-on-one battle with the Liberators' leader, Rogers kills him with his own weapon.<ref>''Ultimates 2'' #7 onwards, Jul. 2005-present.</ref>
+
+Rogers is also a highly skilled hand-to-hand combatant. In addition, his strength and recuperative abilities are remarkable (he was shown biceps curling 545 lb in ''Ultimates 2'' #4), although whether they are superhuman is not made clear. In the Ultimate Universe, Bruce Banner becomes the [[Ultimate Hulk|Hulk]] as a result of his experiments to recreate the Super-Soldier serum. Despite the Hulk being one of the strongest characters in the Ultimate Universe, Rogers takes on the Hulk in hand-to-hand combat, knocking him down momentarily. Rogers also defeats Henry Pym in melee combat while Pym is in his almost 60-foot tall Giant Man form, in retaliation for Pym having beaten the Wasp during a domestic dispute.<ref>''Ultimates'' #9, April 2003</ref>
+
+===Miscellaneous===
+[[Image:Capzombie.PNG|thumb|left|Colonel America, from [[Marvel Zombies]]. Art by Sean Phillips.]]
+*In the ''[[Spider-Ham]]'' comic books, the [[funny animal]] version of Captain America is Steve Mouser, an anthropomorphic cat who works for the ''Daily Beagle'' and is also secretly Captain Americat<ref name="americat">{{cite web| url=http://www.marvel.com/universe/Larval_Earth|title=Information about Captain Americat at Marvel.com}}</ref> . 
+*In the altered world of the ''[[House of M]]'', Steve Rogers lived through World War II and the years afterward not frozen in [[suspended animation]]; this concept was previously used in the ''What If?'' comic series.
+*In the ''[[Mutant X (comics)|Mutant X]]'' universe, a mutant succeeds Rogers as Captain America, joining [[Havok|Havok's]] team of superheroes, "The Six", in order to protect mutants from a deranged Nick Fury and S.H.I.E.L.D.  He is killed by the [[Beyonder]].
+*Other alternate Captain Americas include several seen in issues of ''[[What If (comics)|What If]]'', a comic featuring tales of alternate realities.
+*In the 1999 ''[[Earth X]]'' series, in a post-apocalyptic alternate present, Captain America is a war-worn hero, with a shaven head, a ragged [[Flag of the United States|United States flag]] for a top and an A-shaped scar on his face, but still holding on to his shield.  In the ''Universe X: Cap'' [[one-shot]] comic, he sacrificed himself to save the reborn [[Captain Mar-Vell]].
+* In the ''[[1602 (comics)|1602]]'' [[limited series]], a Captain America from a possible future, in which the [[Purple Man]] became United States' ''President For Life'', is transported to the year 1602, where he assumes the identity of "Rojhaz", a [[Native Americans in the United States|Native American]].  His arrival causes numerous alterations in reality, causing analogues of various Marvel Universe characters to appear in the 17th century instead.  Rogers refuses to return to the future because he wants to nurture a new United States free of prejudice from its very beginnings, but the 1602 version of Nick Fury forces him to return, accompanying him on the journey.
+* In the [[Amalgam Comics]] universe, [[Super-Soldier]] is an amalgamation of Captain America and [[Superman]].
+* In the ''[[Avataars: Covenant of the Shield]]'' limited series, Captain America's counterpart is King St'vaan of Avalon, also known as Captain Avalon. St'vaan possesses the enchanted shield Excelsior and the mystic orb called the Heart of Avalon.
+* In the 2005-2006 miniseries ''[[Marvel Zombies]]'', the zombie Captain America is known as Colonel America, and he has served as [[President of the United States]].
+* In the [[Marvel Mangaverse]] reality, the original Captain America is dead, but [[Carol Danvers]] assumes the identity.
+* In the ''[[New Warriors]]'' storyline "Forever Yesterday", the [[Sphinx (comics)|Sphinx]] creates an alternate reality where the [[Middle East]] is the dominant superpower in the world and its champion is Captain Assyria.
+* In the [[What If (comics)|What If?]] [[Age of Apocalypse]], Captain America is alive during the Age Of Apocalypse along side [[Nate Grey]], [[Wolverine (comics)|Logan]], and others, and wields what appears to be [[Mjolnir (comics)|Mjolnir]].
+
+==Appearances in other media==
+===Films===
+[[Image:Captainamerica2.jpg|185px|thumb|Matt Salinger playing Captain America in the 1991 movie.]]
+*A 1944 movie [[serial]] called ''[[Captain America (serial)|Captain America]]'' portrays the hero as a district attorney named Grant Gardner and removes many important elements of the character, such as his shield and his sidekick, Bucky.
+
+*The 1991 direct-to-video film ''[[Captain America (1991 film)|Captain America]]'', starring [[Matt Salinger]], earned highly negative reviews. It depicts the hero's battle against the [[Red Skull]], who in the film is an [[Italy|Italian]] [[fascism|fascist]] rather than a German [[Nazism|Nazi]]. Rumors of a new Captain America movie have circulated since 2005, but have thus far not produced anything concrete. 
+
+*In 2005 ''[[Variety (magazine)|Variety]]'' reported on the formation of [[Marvel Entertainment]], a business entity dedicated to producing film adaptations of [[Marvel Comics]] properties. Marvel Entertainment released a list of Marvel properties being developed for production by the company to be released through a partnership with [[Paramount Pictures]]. The list includes Captain America. Other properties specifically named in the press announcement are [[Avengers (comics)|the Avengers]], [[Nick Fury]], [[Black Panther (comics)|Black Panther]], [[Ant-Man]], [[Cloak and Dagger (comics)|Cloak and Dagger]], [[Dr. Strange]], [[Hawkeye (comics)|Hawkeye]], [[Power Pack]], and [[Shang-Chi]]. Budgets for each film are expected to be between $45 million and $180 million. The first picture under the arrangement is slated for release by 2008.
+
+===Television===
+[[Image:Captainamerica1.gif|180px|thumb|Reb Brown as Captain America (1979, TV).]]
+*Captain America appears in two 1970s live-action [[TV movie|television movies]]: ''Captain America'' and ''Captain America II: Death Too Soon'', starring [[Reb Brown]]. The character differs significantly from the comics, in both his origin and his operations. For instance, Rogers is a character in contemporary times who is the son of the 1940s Captain America, and received an experimental chemical called the FLAG formula that enhances his body with heightened strength and reflexes. He also makes significant use of a specialized van, and of a modified motorcycle. The bike has a detachable round windshield with the concentric circles, with the white sections being transparent, and star which he uses as his shield when he goes on foot.
+
+===Animation===
+*The 1966 syndicated [[animated television series]] ''[[Marvel Super-Heroes (animation)|Marvel Super-Heroes]]'' includes "Captain America" segments. The primitive animation is largely composed of stills photostatted from Jack Kirby art. Like the Thor, Iron Man and Hulk segments, Captain America’s episodes had its own theme song, with these lyrics: 
+:When Captain America throws his mighty shield,
+:All those who choose to oppose his shield must yield!
+:If he's led to a fight and a duel is due,
+:Then the red and the white and the blue will come through,
+:When Captain America throws his mighty shield!
+
+*''Marvel Super Heroes'' adapted and condensed the original Marvel Comics stories. This allows the Avengers to appear in several episodes of Captain America's segments.
+
+*An animated Captain America next appeared in an episode of the 1981 solo [[Spider-Man (1981 TV series)|Spider-Man]] series from Marvel Productions, in the episode entitled "The Capture of Captain America".
+
+*Subsequently, Captain America also appeared in two first season episodes of [[Spider-Man and His Amazing Friends]], "7 Little Superheroes" and "Pawns of the Kingpin" respectively. As in the 1981 solo series, Cap's voice was provided by [[George DiCenzo]].
+
+*Captain America makes a few appearances in ''[[Spider-Man: The Animated Series]]''. He first appears in "The Cat" (Season #4 Ep 43) with a mere cameo when Peter Parker is narrating a flashback scene with Captain America. He also appears in the last three episodes of the "[[Six Forgotten Warriors]]" saga (the third of these including a flashback scene explaining his disappearance after World War II; in this version, he and the Red Skull became trapped in a dimensional machine for the 50 years.) In the last two episodes of the Six Forgotten Warriors arc, America was released in part four of the arc from the machine with the Red Skull, thanks to the Skull's son, Rhienholdt Kragov, who would become [[Electro (comics)|Electro]] in the next episode, and Kragov's half-brother, [[Chameleon (comics)|the Chameleon]], who betrayed the Kingpin and the rest of the Insidious Six (the animated version of the Sinister Six) just to release the Skull. And finally, in the last episode of the arc, America and the Red Skull fought again and ended up trapped in the machine again.
+
+*In the "[[Secret Wars (Spider-Man: The Animated Series)|Secret Wars]]" three-parter, Captain America was a selected hero in the Secret Wars Spider-Man would lead him and many other heroes to. At the end of the arc, the [[Beyonder]] sent back every hero, except for Spider-Man for he had to be used to defeat [[Carnage (comics)|Spider-Carnage]] in the series finale, to Earth and America became trapped with the Red Skull again. In these appearances, he was voiced by [[David Hayter]].
+
+*Captain America appears in one episode, "Command Decision", of the 1999-2000 ''[[The Avengers: United They Stand]]'' animated series. The story involves the Masters of Evil and a flashback to Captain America defeating Baron Zemo. He was voiced by [[Dan Chameroy]]. 
+
+*Captain America appears in one episode of the 1990s ''[[X-Men (TV series)|X-Men]]'' animated series. He is an American agent, sent along with Canadian Wolverine, to rescue a scientist kidnapped by the Nazis. He is present in the episode only in flashbacks of Wolverine's.<ref name="oldsoldiers">{{cite web| url=http://www.tv.com/x-men/old-soldiers/episode/56177/summary.html?tag=episodes;title;3|title=tv.com - ''Old Soldiers'' X-Men: TAS Season 5}}</ref>
+The story seems loosely based on ''Uncanny X-Men'' issue #272 (featuring the Black Widow, in addition to Cap).
+
+*Captain America (along with [[Nick Fury]]) appears in the "Operation Rebirth" episode of the animated series ''[[X-Men: Evolution]]''. Here Rogers gets his abilities from a machine as part of "Project: Rebirth". During World War II, he participates in a joint operation with Canadian soldier [[Wolverine (comics)|Logan]] to liberate a concentration camp, where one prisoner is a boy named Erik Lehnsherr, the future  [[Magneto (comics)|Magneto]]. After the attack, Rogers learns the "Rebirth" process is killing him, so he and Logan destroy the machine, and Rogers is cryogenically frozen until a cure can be found. During the episode, Magneto uses a variation of "Rebirth" to save his life, despite the intervention of Wolverine, [[Rogue (comics)|Rogue]] and [[Nightcrawler (comics)|Nightcrawler]], but lets them go in memory of the time Wolverine saved his life at the camp. At the conclusion of the episode, Wolverine visits the still-frozen Captain America, and reminisces about how they made a great team at the time
+
+*The Ultimate Marvel version of Captain America appears in the animated [[direct-to-video]] animated-feature series, ''[[Ultimate Avengers]]''. The first installment was released in February 2006. ''[[Ultimate Avengers 2]]'' was released August 2006.
+
+===Novels===
+*Captain America appears in several prose novels, notably 1998's ''Captain America: Liberty's Torch'' by [[Tony Isabella]] and [[Bob Ingersoll]], in which the hero is put on trial for the imagined crimes of America by a hostile militia group.  
+
+*Cap was also the subject of Marvel's first foray into prose book licensing: ''The Great Gold Steal'' by [[Ted White (author)|Ted White]] in 1968.  This novel presented a different version of Captain America tooled to resemble book series characters such as [[Remo Williams]].  The novel adds a further element to the Super-Soldier process wherein Rogers' bones are plated with stainless steel, making this character an interesting forerunner to Wolverine. The same device was used by Roy Thomas and Don Heck for their [[Commander Steel]] character, who fills a sort of golden age Captain America role in the DC Universe.
+
+===Video games===
+[[Image:Cap.gif|thumb|120px|left|[[Capcom]] fighting-game version]]
+*Captain America appears in several [[Computer and video games|video games]]. He is the protagonist in [[Captain America in: The Doom Tube of Dr. Megalomann]] (1987) and [[Spider-Man and Captain America in Doctor Doom's Revenge]] (1989). He is one of four [[playable character]]s in ''[[Captain America and the Avengers]]'' (1991). He later appears in [[Capcom]]'s ''[[Marvel Super-Heroes (video game)|Marvel Super-Heroes]]'' and the subsequent [[Marvel vs. Capcom series]], as well as ''Maximum Carnage'' and ''Marvel Super Heroes: War of the Gems''. 
+
+*He appeared in a cameo at the end of 2000s ''[[Spider-Man (video game)|Spider-Man]]'' game when Spider-Man foiled Doc Ock's plan of symbiotes bonding with humans, Ock's lair was quickly blowing up. Luckily, Cap, [[Black Cat (comics)|Black Cat]] and [[Venom (comics)|Venom]] came in Captain America's hovercar and rescued the hero and villain from the explosion. Cap was last seen playing cards with Spider-Man, the [[Punisher]] and Daredevil. 
+
+*He makes a cameo in a brief scene of the home consoles version of the [[Electronic Arts|EA]]'s ''[[Marvel Nemesis: Rise of the Imperfects]]'', in which he is defeated by an [[Imperfects|Imperfect]]; but appears a playable character in the [[PlayStation Portable|PSP]] version of the video game.
+
+*He is one of the main characters in ''[[Marvel: Ultimate Alliance]]'' multiple-platform game, where he has all his comic powers.
+
+===Musical theatre===
+In 1985, a musical about Captain America was announced for Broadway. The piece, written by Mel Mandel and Norman Sachs, never actually premiered, although recordings of the score have surfaced.<ref name="nytimesref">{{cite web|url=http://select.nytimes.com/gst/abstract.html?res=F10714FD395C0C768CDDAD0894DD484D81&n=Top%2fReference%2fTimes%20Topics%2fPeople%2fN%2fNemy%2c%20Enid |title=''The New York Times'' (April 5, 1985): "Broadway" (column) by Enid Nemy. Article requires payment or registration.}}</ref>
+
+===Pop culture references===
+====Music====
+The phrase "Captain America" has been used to refer ironically to American patriotic values, especially in [[rock music]]. 
+*The 1978 [[Kinks]] song "Catch Me Now, I'm Falling", about the ailing U.S. economy in the late 1970s, refers to "Captain America calling". 
+*The [[jam band]] [[moe.]] composed a song called "Captain America" which deals with Captain America as an authority figure. 
+*[[Jimmy Buffett]] recorded a song in 1977 titled "Captain America," offering a tongue-in-cheek tribute to the hero, replete with a [[kazoo]] solo and the phrase, "He wears a mask, his clothes are weird, and some folks call him hokey. But he is hip, he just can't dig the [[Oklahoma|Okie]] from [[Muskogee, Oklahoma|Muskogee]]." 
+*The [[Guns N' Roses]]' song "[[Paradise City]]" also contains a reference to Captain America ("Captain America's been torn apart, now he's a court jester with a broken heart."). 
+*The ''[[Roadrunner United]]'' album features a song titled "I Don't Wanna Be (A Superhero)" written by [[Michale Graves]]. Itcontains the line, "They came from sea and they from the sky, Captain America is going to die." 
+*In 1990, [[Eugene Kelly]] (formerly of the Scottish band [[The Vaselines]]) formed the band Captain America but was forced to change the name due to a possible copyright infringement suit by Marvel Comics. The band was renamed [[Eugenius (band)|Eugenius]].
+*The 2003 album ''[[Cyclorama (album)|Cyclorama]]'' by the rock band [[Styx (band)|Styx]] features a song called "Captain America"
+*The [[blink-182]] song "[[Feeling This]]" from the band's 2003 [[blink-182 (album)|self-titled album]] opens with Captain America saying "Get ready for Action!"
+*The [[MU330]] song "Captain" on the band's 1994 album ''Press'' relates the return of Captain America from retirement to battle the Red Skull.
+*''[[America Must Be Destroyed]]'' and the long-form music video for it, "[[Phallus in Wonderland]]", by [[shock rock]] band [[GWAR]], appears to parody Captain America in the form of [[Corporal Punishment (GWAR character)|Corporal Punishment]], who is used to parody extreme patriotism by [[right-wing]] political groups.
+
+====Literature====
+*Early ''[[Doonesbury]]'' strips have [[Zonker Harris]] referring sardonically to [[B.D. (Doonesbury)|B.D.]], captain of the football team on which they both play, as "Cap'n America sir!"
+*The [[United States Marine Corps|Marine]] Recon unit in [[Evan Wright]]'s 2005 nonfiction bestseller ''[[Generation Kill]]'' derisively referred to their overzealous commander as Captain America. 
+
+====Cinema====
+*[[Peter Fonda]]'s character in the iconic 1969 feature film ''[[Easy Rider]]'' is nicknamed Captain America. According to the "making of" feature on the [[DVD]] edition of the film, director [[Dennis Hopper]] described the two motorcyclists of the film to actor [[Robert Walker, Jr.]], who said "they sound like Captain America and Bucky", and Hopper liked the name. 
+*In the 1997 film ''[[Men in Black (film)|Men in Black]]'', [[Will Smith]]'s character refers to an overzealous Army lieutenant as "Captain America". 
+*In ''[[Armageddon (film)|Armageddon]]'', Rockhound refers to Colonel Sharp as "Captain America", saying: "Captain America here blew the landing by 26 miles!"
+*In ''[[The Master of Disguise|Master of Disguise]]'', the title character punches the main villain at the end of the movie while disguised as Captain America.
+*In ''[[Jingle All the Way]]'', Jamie's bedroom wall holds a mural of Captain America deflecting bullets with his shield.
+
+====Other====
+*In the episode: Why We Fight, of the T.V Show [[Angel (TV series)|Angel]], one of the crewman quotes: He's some sort of super soldier like Steve Rogers, or Captain America.
+*In [[Republic of Ireland|Ireland]], two restaurants are named ''Captain America's Cookhouse and Bar''. They are located in [[Dublin]] and [[Cork (city)|Cork]] and use the logo of Captain America's shield. Each displays pictures of the superhero in scenes from his comics. A similar establishment, '''Captain America's Hamburger Heaven''', exists in [[Norwich]], [[East Anglia]], [[England]].
+*Comedian [[Bill Cosby]] discussed his old automobile, with "Captain America" proudly written on its side, in his recorded routine "$75 Car".
+*In Britain, [[United States men's national soccer team|United States soccer captain]] [[Claudio Reyna]] is often referred to{{fact}} as Captain America.
+*UFC Light Heavyweight fighter [[Randy Couture]] has used the nickname "Captain America".{{fact}}
+*In the ''[[Hellboy]]'' comics, there are two heroes who fit the Captain America archetype. The Torch of Liberty fights Nazis and monsters during World War II and teaches Hellboy how to use a pistol. Lobster Johnson fights Nazi agents and the supernatural before World War II. The major difference between the two heroes is that the Torch is a public hero, and Johnson is officially secret.
+*In [[DC Comics]], the hero [[General Glory]] is a pastiche of Captain America.
+*In the [[Wildstorm]] universe, the supherero team the Americans, a pastiche of the [[Avengers (comics)|Avengers]], were led by the Commander, a Captain America pastiche.  
+* When [[Rob Liefeld]] left Marvel to found [[Awesome Comics]], he created the character [[Agent America]], nearly identical to Captain America. When Marvel threatened legal action{{fact}}, Awesome Comics purchased the rights to the defunct [[Harvey Comics]]' 1950s character [[Fighting American]], another character that bore a striking resemblance to Captain America and was created by the same team, [[Joe Simon]] & [[Jack Kirby]].
+*In the "[[Episodes of Lost (season 1)#Walkabout|Walkabout]]" episode of the [[American Broadcasting Company|ABC]] [[TV series]] ''[[Lost (TV series)|Lost]]'', Shannon sarcastically addresses her stepbrother Boone as "Captain America" when he says someone should help Rose.
+*In the game ''[[World of Warcraft]]'', one of the Paladin-class talents is the "Avenger's Shield", which allows a paladin to throw a shield at his or her enemy.
+*On Oct. 12, 2004, following the death of [[Superman]] actor [[Christopher Reeve]], the ''[[New York Post]]'' ran an [[editorial cartoon]] tribute with Captain America, [[Batman]], and [[Spider-Man]] at Reeve's graveside.
+*In [[South Park]]'s episode "[[Hell on Earth 2006]]" one of the [[Satan]]'s servants wears a Captain America costume.
+*On Dec. 7, 2006, [[NFL Network]] commentator [[Adam Schefter]] referred to [[Tony Romo]], [[quarterback]] of the [[Dallas Cowboys]] [[football]] team &mdash; nicknamed "[[America's Team]]" &mdash; as Captain America.
+
+==Bibliography==
+{{inc-lit}}
+*''Captain America Comics'' #1&ndash;75 by Joe Simon and Jack Kirby (March 1941 &ndash; Feb. 1950) <!-- ref -->
+*''USA Comics'' #6&ndash;17 (December 1942 &ndash; Fall 1945)
+*''Captain America Comics'' #76&ndash;78 (May 1954 &ndash; Sept. 1954)
+*''[[Tales of Suspense]]'' #59&ndash;99 (Nov. 1964 &ndash; March 1968)
+*''Captain America'' ([[1968 in comics|1968]] series) #100&ndash;454 (April 1968 &ndash; Aug. [[1996 in comics|1996]])
+*''Giant-Size Captain America'' (December [[1975 in comics|1975]])
+*''Marvel Treasury Special: Captain America's Bicentennial Battles'' (June 1976)
+*''[[Marvel Fanfare]]'' (1982 series) #5, 18, 26, 29, 31&ndash;32
+*''What If...'' ([[1984 in comics|1984]] series) #5, 26, 38, 44 
+*''What If...'' ([[1989 in comics|1989]] series) #3, 28&ndash;29, 67&ndash;68, 103
+*''What If...'' ([[2006 in comics|2006]] #1), "What if Captain America had lived in the American Civil War?" 
+*''Adventures of Captain America - Sentinel of Liberty'' ([[1991 in comics|1991]] series) #1&ndash;4 (October [[1991 in comics|1991]]&ndash;January [[1992 in comics|1992]])
+*''Captain America: The Medusa Effect'' (March [[1994 in comics|1994]])
+*''Captain America: Drug War'' (April 1994)
+*''Captain America'' (1996 series) #1&ndash;13 (Nov. 1996 &ndash; Nov. [[1997 in comics|1997]])
+*''Captain America'' ([[1998 in comics|1998]] series) #1&ndash;50 (Jan. 1998 &ndash; Feb. [[2002 in comics|2002]])
+*''Captain America Sentinel of Liberty'' (1998 series) #1&ndash;12 (Sept. 1998 &ndash; Aug. [[1999 in comics|1999]])
+*''Captain America: Dead Men Running'' (2002 series) #1&ndash;3 (March 2002&ndash;May 2002)
+*''Captain America'' (2002 series) #1&ndash;32 (June 2002 &ndash; Oct. [[2004 in comics|2004]])
+*''Truth: Red, White and Black'' by Robert Morales and [[Kyle Baker]] ([[2003 in comics|2003]] series) #1&ndash;7 <!-- ref -->
+*''Captain America: Homeland'' by Robert Morales, Chris Bachalo and [[Eddie Campbell]]. (2004 series)  (February 2004)
+*''Captain America: What Price Glory?'' (2003 series) #1&ndash;4 (May 2003)
+*''Captain America & The Falcon'' (2004 series) #1&ndash;14 (April 2004&ndash;)
+*''Captain America'' by Ed Brubaker and Steve Epting (2004 series) #1&ndash;15 (Nov.  2004&ndash; )
+*''Marvel Team-Up'' #6, 10 by Robert Kirkman and Scott Kolins (2005&ndash; )
+*''Marvel Team-Up'' #14 by Robert Kirkman and Cory Walker (2005&ndash; )
+*''New Avengers'' #1&ndash;16 by Brian Michael Bendis and David Finch (2005 series)
+*''[[Civil War (comics)|Civil War]]'' #1&ndash;5 (thus far)<!-- ref -->
+
+==Creators==
+===''Captain America Comics''===
+<sub>Title on cover is ''Captain America's Weird Tales'' from #74 & 75
+{{col-begin}}
+{{col-2}}
+'''Regular writers'''
+*[[Joe Simon]], 1941-1942
+*[[Stan Lee]], 1942-1949
+*[[Otto Binder]], 1944-? (also wrote some stories in 1942 & 1943)
+*[[Bill Finger]], 1946?-?
+{{col-2}}
+'''Regular pencillers'''
+*[[Jack Kirby]], 1941-1942
+*[[Al Avison]], 1942-1943, 1946-1947
+*[[Syd Shores]], 1943-1944, 1946-1948
+*[[Vince Alascia]], 1944-1946
+*[[Ken Bald]], 1948-1949?
+{{col-end}}
+
+===''Tales of Suspense''===
+<sub>Continues with ''Captain America'' #100
+{{col-begin}}
+{{col-2}}
+'''Regular writers'''
+*Stan Lee, 1964-1968
+{{col-2}}
+'''Regular pencillers'''
+*[[Jack Kirby]], 1964-1967
+*[[George Tuska]], 1965-66
+*[[Gil Kane]], 1967
+*[[Jack Kirby]], 1967-1968
+{{col-end}}
+
+===''Captain America''===
+<sub>Title on cover is ''Captain America and the Falcon'' from #134-223<br>
+Title on cover is ''Steve Rogers: Captain America'' from #444-454</sub>
+<!-- NOTE: Wiki guidelines are one link per subject per article, with additional link allowed only in extremely long articles-->
+{{col-begin}}
+{{col-2}}
+'''Regular writers'''
+*Stan Lee, 1968-1971
+*[[Gary Friedrich]], 1971-1972
+*[[Gerry Conway]], 1972
+*[[Steve Englehart]], 1972-1974
+*Steve Englehart & [[Mike Friedrich]], 1974
+*[[Steve Englehart]], 1974-1975
+*[[John Warner]] 1975
+*[[Tony Isabella]], 1975
+*[[Jack Kirby]], 1976-1977
+*[[Roy Thomas]], 1977
+*[[Don Glut]], 1978
+*[[Steve Gerber]], 1978
+*[[Roger McKenzie]], 1978-1979
+*No regular writer, 1979-1980
+*[[Roger Stern]] & [[John Byrne]], 1980-1981
+*[[John Marc DeMatteis]], 1981-1984
+**[[David Anthony Kraft]], 1982
+*[[Mike Carlin]], 1985
+*[[Mark Gruenwald]], 1985-1995
+*[[Mark Waid]], 1995-1996
+{{col-2}}
+'''Regular pencillers'''
+*[[Jack Kirby]], 1968-1969
+*[[Jim Steranko]], 1969
+*[[Gene Colan]], 1969-1971
+*[[John Romita, Sr.|John Romita]], 1971
+*[[Sal Buscema]], 1973-1975
+*[[Frank Robbins]], 1975
+*Jack Kirby, 1976-1977
+*Sal Buscema, 1978-1979
+*No regular penciller, 1979-1980
+*[[John Byrne]], 1980-1981
+*[[Mike Zeck]], 1981-1983
+*[[Paul Neary]], 1984-1987
+*[[Tom Morgan]], 1987
+*[[Kieron Dwyer]], 1988-1990
+**[[Mark Bright]], 1989 - (backup stories)
+*[[Ron Lim]], 1990-1991
+**[[Mark Bagley]], 1990-1991 - (backup stories)
+*[[Richard Levins]], 1991-1993
+**[[Larry Alexander]], 1991-1992 - (backup stories)
+*[[Dave Hoover]], 1994-1995
+*[[Ron Garney]], 1995-1996
+{{col-end}}
+
+===''Captain America (vol. 2)''===
+<sub>Continues with ''Captain America'' #100
+{{col-begin}}
+{{col-2}}
+'''Regular writers'''
+*[[Rob Liefeld]] & [[Jeph Loeb]], 1996-1997
+*[[James Dale Robinson|James Robinson]], 1997
+{{col-2}}
+'''Regular pencillers'''
+*[[Rob Liefeld]], 1996-97
+*[[Joe Bennett]], 1997
+{{col-end}}
+
+===''Captain America (vol. 3)''===
+{{col-begin}}
+{{col-2}}
+'''Regular writers'''
+*[[Mark Waid]], 1998-1999
+*[[Dan Jurgens]], 1999-2002
+{{col-2}}
+'''Regular pencillers'''
+*[[Ron Garney]], 1998
+*[[Andy Kubert]], 1998-2000
+*[[Dan Jurgens]], 2000-2002
+{{col-end}}
+
+===''Captain America (vol. 4)''===
+{{col-begin}}
+{{col-2}}
+'''Regular writers'''
+*[[John Ney Reiber]], 2002-2003
+*[[Chuck Austen]], 2003
+*[[Dave Gibbons]], 2003
+*[[Robert Morales]], 2004
+*[[Robert Kirkman]], 2004
+{{col-2}}
+'''Regular pencillers'''
+*[[John Cassaday]], 2002
+*[[Trevor Hairsine]], 2003
+*[[Jae Lee]], 2003
+*[[Lee Weeks]], 2003
+*[[Chris Bachalo]], 2004
+*[[Scot G. Eaton]], 2004
+{{col-end}}
+
+===''Captain America'' (vol. 5)===
+{{col-begin}}
+{{col-2}}
+'''Regular writers'''
+*[[Ed Brubaker]], 2005-
+{{col-2}}
+'''Regular pencillers'''
+*[[Steven Epting]] & [[Michael Lark]], 2005
+*Steven Epting, 2005-2006
+*[[Mike Perkins]] and Steven Epting pencil arcs in rotation, 2006-present
+
+{{col-end}}
+
+==Footnotes==
+<div class="references-small">
+<references/>
+</div>
+
+==References==
+{{wikiquote}}
+* [http://www.marvel.com/universe/Captain_America_%28Steve_Rogers%29 Marvel.com: Captain America biography]
+* [http://www.marveldatabase.com/wiki/index.php/Captain_America_%28Steve_Rogers%29 Marvel Database Project: Captain America (Steve Rogers)]
+* [http://www.marveldirectory.com/individuals/c/captainamerica.htm Marvel Directory: Captain America]
+* [http://www.historyguy.com/comicshistory/captain_america.html Comicshistory: Captain America]
+* [http://www.wikiknowledge.net/wiki/Captain_America Captain America at WikiKnowledge] ''(Previously hosted by [[Wikibooks]])''
+
+==External links==
+*[http://www.comic-covers.com/Marvel/MarvelC-D/CaptainAmerica(GoldenAge)/ Golden] and [http://www.comic-covers.com/Marvel/MarvelC-D/CaptainAmerica/ Silver Age] Capt America cover galleries
+*[http://www.monitorduty.com/mdarchives/2006/07/alan_kistlers_p_17.shtml More information on Captain America]
+* [http://www.marveldatabase.com/Captain_America_%28Steve_Rogers%29 Captain America at the MDP]
+
+[[Category:Captain America| ]]
+[[Category:Captain Americas]]
+[[Category:Fictional World War II veterans]]
+[[Category:Golden Age superheroes]]
+[[Category:Marvel Comics titles]]
+[[Category:Ultimates members]]
+[[Category:United States-themed superheroes]]
+[[Category:1941 introductions]]
+[[Category:National personifications]]
+[[Category:Weapon Plus]]
+[[Category:Fictional captains]]
+[[Category:Superhero Related]]
+[[de:Captain America]]
+[[es:Capitán América]]
+[[fr:Captain America]]
+[[gl:Captain America]]
+[[it:Capitan America]]
+[[he:קפטן אמריקה]]
+[[hu:Amerika Kapitány]]
+[[nl:Captain America]]
+[[pt:Capitão América]]
+[[sq:Captain America]]
+[[fi:Kapteeni Amerikka]]
+[[sv:Captain America]]

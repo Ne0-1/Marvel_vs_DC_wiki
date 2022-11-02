@@ -1,0 +1,33 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = 
+| caption = 
+| comic_color = background:#ff8080
+| character_name = Karkas
+| publisher = [[Marvel Comics]]
+| debut = ''[[Eternals]] vol 1 #8 (Feb 1977)
+| creators = [[Jack Kirby]]
+| alliance_color = background:#cccccc 	
+| alter_ego = *
+| species = [[Deviants (comics)|Deviant]]
+| status = Active
+| alliances = [[Eternals]]
+| previous_alliances = <!-- optional -->
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| relatives = <!-- optional -->**
+| powers = Superhuman strength and durability
+}}
+'''Karkas''' is a [[fictional character|fictional]] [[superhuman]] from the [[Marvel Comics]] [[Marvel universe|universe]]. Karkas is a member of the [[Deviants (comics)|Deviants]], a monstrous off-shoot of humanity created by the [[Celestials]]. Karkas was created by writer/artist [[Jack Kirby]], in 1977.
+
+==Character biography==
+Karkas was born too monstrous in appearance even by Deviant standards, and was pitted in gladiatorial contests against others considered grotesque.  Another gladiator was [[Ransak the Reject]], who ironically was considered hideous by the Deviants due to his normal human appearance (also interpretable as because he looked too much like an [[Eternals|Eternal]]).  Karkas and the Reject were pitted against each other, in a bout viewed by the Eternal [[Thena]]. When Eson the Celestial attacked, Karkas begged Thena for sanctuary with the Deviants' enemies, the [[Eternals]]. Thena teleported both Karkas and Ransak away.  Since then the two have become friends and reside primarily with the Eternals
+
+==Powers and abilities==
+Karkas is quite intelligent and artistic despite his appearance.  He has been described as having an [[eidetic memory]].  Karkas possesses a wrinkled red hide that is exceptionally thick, making him highly resistant to injury.  He has claw-like fingers on each hand, pointed teeth and an oversized head.  Karkas has been described as having six digits on each limb, but has been depicted with four [http://www.marveldirectory.com/individuals/k/karkas.htm] or five [http://www.immortalthor.net/bio-karkas.html].
+
+==External links==
+* [http://www.marveldirectory.com/individuals/k/karkas.htm] MarvelDirectory.com's bio on Karkas]
+* [http://www.immortalthor.net/bio-karkas.html ImmortalThor.net's bio on Karkas]
+
+{{Marvel-Comics-stub}}
+
+[[Category:Marvel Comics Deviants]]

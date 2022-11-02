@@ -1,0 +1,43 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:WilloTheWispMarvel.jpg|250px| ]]
+|caption=
+|comic_color=background:#ff8180
+|character_name=Will o' the Wisp
+|real_name=Jackson Arvad
+|publisher=[[Marvel Comics]]
+|debut=''Amazing Spider-Man'' #167
+|creators=
+|alliance_color=background:#c0c0ff
+|status=Active
+|alliances=
+|previous_alliances=Former agent of [[Jonas Harrow]], former member of the Outlaws(disbanded).
+|aliases=
+|relatives=
+|powers=<br>
+*Scientific genius<br>
+*Density control<br>
+*Flight<br>
+*Hypnosis.
+|}}
+
+'''Will o' the Wisp''' is a [[supervillain]] in the [[Marvel Universe]].  He was a [[physicist]] who gained control over the [[electromagnetic]] attraction between his body's molecules, allowing him to adjust his [[density]] (like the [[Vision (comics)|Vision]]).  He has come into conflict with [[Spider-Man]].
+
+A former employee at [[Roxxon Oil]], Jackson Arvad worked in the division dedicated to electromagnetic research. Under constant pressure of being fired, Arvad spent lots of time furthering his work on electromagnetism, getting little sleep in the process. He eventually ended up falling asleep on the job, unable to save himself from a laboratory accident that would change his life.
+
+He ended up being caught in the electromagnetic field of a device he was working on, the device weakening the electromagnetic attraction between the molecules in his body, threatening his life. When his boss learned of the accident, he decided to let Arvad die, but not before he demanded any scientific applications the device would've had.
+
+However, Arvad was able to save himself when he learned he was suddenly able to control the level of attraction between his body's molecules. 
+
+He attempted to kill his employer multiple times but was stopped each time by either Spider-Man or inadvertently by [[Tarantula (Marvel Comics)|Tarantula]].  Finally he opted to simply hypnotize the man into confessing his crimes to the police.
+
+Years later he would show up in league with the [[Scarecrow (Marvel Comics)|Scarecrow]] and later the [[Molten Man]] as part of the [[Chameleon (comics)|Chameleon's]] plot to get revenge on Peter Parker for unmasking during [[Civil War (comics)|Civil War]].
+
+==External links==
+* [http://www.marveldirectory.com/individuals/w/willothewisp.htm Will O' The Wisp at MarvelDirectory.com]
+*[http://marvel.com/universe/Will-O%27-The-Wisp Will O' The Wisp at the Marvel Universe Character Bio Wiki]
+
+[[Category:Spider-Man villains]]
+
+[[fi:Virvatuli (sarjakuvahahmo)]]
+
+{{Marvel-villain-stub}}

@@ -1,0 +1,59 @@
+:''This article refers to the superhero. For the rollercoaster, see [[Whizzer (roller coaster)]]''
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->   
+image=[[image:Whizzer1.png]]   
+|caption='''The original Whizzer'''<BR>Art by [[Frank Robbins]].   
+|comic_color=background:#ff8080   
+|character_name=Whizzer
+|real_name=''([[Golden Age of Comics|Golden Age]])'' Bob Frank<br>''([[Squadron Supreme]])'' Stanley Stewart
+|publisher=[[Timely Comics]], [[Marvel Comics]]   
+|debut='''(Frank)''' (historical) ''USA Comics'' #1 (Aug. 1941); (modern-day) ''[[Avengers (comics)|Giant-Size Avengers]]'' #1 (Aug. 1974)<br>'''(Stewart)''' ''[[Avengers (comics)|The Avengers]]'' (vol. 1) #85 (March 1970)
+|creators=[[Al Avison]]<br>[[Al Gabriele]]
+|alliance_color=background:#ffc0c0   
+|status='''(Frank)''' Deceased<BR>'''(Stewart)''' Active in another universe.
+|alliances='''(Stewart)''' [[Squadron Supreme]]
+|previous_alliances='''(Frank)''' [[Liberty Legion]], [[Invaders (comics)|Invaders]], [[All-Winners Squad]], [[Avengers (comics)|Avengers]]
+|aliases=
+|relatives= '''(Frank)''': [[Miss America (Marvel Comics)|Miss America]] (Madeline Joyce, wife, deceased), [[Nuklo]] (son)<BR>'''(Stewart)''': Maddy (wife), Tina (daughter)
+|powers=Superhuman speed   
+|}} 
+
+Several [[fictional character]]s published by [[Marvel Comics]] have been known as 
+the '''Whizzer'''.  The name has been used by both [[superhero]]es and [[supervillain]]s.  
+
+==Bob Frank==
+The first '''Whizzer''' was a [[Golden Age of Comic Books|Golden Age]] [[superhero]] created for [[Timely Comics]], the 1940s predecessor of [[Marvel Comics]].  The character debuted in ''USA Comics'' #1 (Aug. 1941), in a six-page story credited by one source to writer [[Stan Lee]],<ref>Lambiek Comiclopedia: [http://www.lambiek.net/artists/l/lee_s.htm Stan Lee]</ref>, and confirmably to artists [[Al Avison]] ([[penciler]]) and [[Al Gabriele]] ([[inker]]).  Other superheroes introduced in the issue included the [[Defenders (comics)|Defender]], [[Jack Frost (comics)|Jack Frost]], [[Mr. Liberty]], [[Rockman]], and [[Young Avenger]].
+
+Dr. Emil Frank and his teenage son Robert were on a trip to [[Africa]], where young Bob was bitten by a deadly [[cobra (snake)|cobra]].  As the cobra turned on his father, a [[mongoose]] lunged at it from the bushes and killed it.  Knowing his son would not survive if a [[blood transfusion]] were not performed soon, a desperate Dr. Frank used the blood of the mongoose.  As Bob awakened, the strain proved to be too much for his father, who suffered a fatal [[myocardial infarction|heart attack]].  The mongoose blood gave Bob amazing speed.  Donning a gaudy yellow outfit, complete with a fin atop his head and green cape trailing behind (later to be changed to a yellow and blue bodysuit), Bob called himself the Whizzer.
+
+The Whizzer's origin is considered particularly improbable even by comic book standards (''i.e.'' receiving a transfusion of animal blood is far more likely to be fatal than beneficial), and later writers revealed via [[retcon]] that the mongoose blood had simply acted as a catalyst to his already [[mutant (fictional)|mutant]] physiology, which also presumably allowed him to survive the transfusion in the first place.  In [[DC Comics]]' 1990s [[Hawk and Dove]] series, Captain Brian "Sal" Arsala, noting during a date with Dove that as a youth, he had often hoped to be exposed to some substance or circumstance that would grant superhuman powers, jokingly included "mongoose blood" as one such source.  "It was a simpler time," Arsala added in response to Dove's bemused reaction, acknowledging the unlikelihood of such an effect.  "Mongoose blood" was later used as a name for a superspeed-inducing drug in [[Alan Moore]]'s ''[[Top 10 (comic)|Top 10]]'', a clear reference to the Whizzer.
+
+The Whizzer lasted few issues on his own, appearing again as part of the [[All-Winners Squad]] in the (non-hyphenated) ''All Winners Comics'' #19 & 21 (Fall & Winter 1946; there was no issue #20).  In the 1970s, he was seen in modern-day stories as an older hero who had married fellow superhero [[Miss America (Marvel Comics)|Miss America]] (Madeline Joyce).  The Whizzer briefly served with the [[Avengers (comics)|Avengers]], and erroneously believed himself to be the father of the mutant twins [[Quicksilver (comics)|Quicksilver]] and the [[Scarlet Witch]].  He died in ''Vision and Scarlet Witch'' #3; the twins learned the identity of their actual father, ([[Magneto (comics)|Magneto]]), in the following issue.  Additionally, the Whizzer was [[retconned]] in 1976 as a member of the [[flashback (literary technique)|flashback]] [[World War II]] superteam, the [[Liberty Legion]], set at a time before he joined the [[Invaders (comics)|Invaders]] or the post-war [[All-Winners Squad]].
+
+The Whizzer was also [[retcon]]ned into the 2004 ''[[Invaders (comics)|New Invaders]]'' series, and was featured in the [[Spider-Man: The Animated Series]] arc, "Six Forgotten Warriors".
+
+Note: In some [[Golden Age of Comic Books|Golden Age]] issues (like in ''All Winner Comics'' #8) it is claimed that the Whizzer's real name is "Jack Robinson".
+
+== Stanley Stewart ==
+[[Image:Whizzer2.png|thumb|left|150px|Stanley Stewart]]
+While running alone on a country road, Stanley Stewart passed through a dense, luminescent fogbank.  When Stewart emerged from the fogbank, he discovered that he could alter his perception of time so that the world appeared to be in slow motion.  Every day after that, Stewart found that he could run faster and farther than the previous day.  Six weeks after running through the fogbank, Stewart broke the [[sound barrier]] while on a 200 mile sprint.  It was at that point that Stewart decided to become a costumed crimefighter.  
+
+Stewart originally wanted to call himself the Boomer, but instead decided to call himself the Whizzer at his wife Madeline's suggestion.  He works with the [[Squadron Supreme]], on Earth-712 in the [[Marvel Universe]].  He is one of the few members of the team to be married (a wife named Maddy) and to have children (a daughter named Tina).
+
+In the relaunch of [[Squadron Supreme]] known as ''[[Supreme Power]]'', Stanley Stewart goes by the codename of the [[Blur (comics)|Blur]] instead.
+
+== James Sanders ==
+:''Main article: [[Speed Demon]]''
+
+James Sanders was a pharmacist and chemist when the [[Grandmaster (comics)|Grandmaster]] appeared and offered him the power of superspeed in return for joining the Grandmaster's [[Squadron Sinister]].  He would later change his name to Speed Demon and join the villainous team known as the Sinister Syndicate.  Many of his criminal acts have been opposed by [[Spider-Man]].  Recently, he joined the newly-reformed [[Thunderbolts (comics)|Thunderbolts]].
+
+==See also==
+*[[Blur (comics)]]
+
+==References==
+*[http://www.comics.org/details.lasso?id=1580 Grand Comics Database: ''USA Comics'' #1]
+
+[[Category:Marvel Comics mutates]]
+[[Category:Fictional characters who can move at superhuman speeds]]
+[[Category:Avengers villains]]
+[[Category:Golden Age superheroes]]
+[[Category:Marvel Golden Age characters]]

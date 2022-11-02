@@ -1,0 +1,61 @@
+{{Infobox superhero <!--Wikipedia:WikiProject Comics-->
+|character_name = Dan Turpin
+|image     = [[Image:Dan Turpin - Superman - Funeral for a Friend.jpg|200px]]
+|caption   = Dan Turpin from ''[[Funeral for a Friend (comics)|Superman: Funeral For A Friend]]''<br>Artist [[Tom Grummett]]
+|publisher = [[DC Comics]]
+|debut     = '''as Brooklyn'''<br>''[[Detective Comics]]'' #64 (June 1942)<br>''' as Dan Turpin'''<br>''[[New Gods]]'' #5 (November 1971)
+|creators  = '''as Brooklyn'''<br>[[Joe Simon]]<br>[[Jack Kirby]]<br>''' as Dan Turpin'''<br>[[Jack Kirby]]
+|full_name = Daniel Turpin
+|species   = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances = [[Metropolis (comics)#Metropolis Police Department|Metropolis SCU]]<br/>[[Boy Commandos]]
+|partners  = <!-- optional -->
+|supports  = <!-- optional -->
+|aliases   =  Terrible, Brooklyn
+|powers    =  
+}}
+
+'''Daniel "Terrible" Turpin''' is a character published by [[DC Comics]]. He first appeared as Brooklyn (due to him being born in [[New York]]) in ''[[Detective Comics]]'' #64 (June 1942), and first appeared as Dan Turpin in ''[[New Gods]]'' #5 (November 1971).
+
+==Publication history==
+Due to a recent [[retcon]], Dan Turpin was made the adult version of [[Jack Kirby]]'s [[Golden Age of Comic Books|Golden Age]] "kid-gang" character Brooklyn, of the [[Boy Commandos]].{{Fact|date=May 2008}}
+
+==Character biography==
+Lieutenant Inspector Dan Turpin is a member of the [[Metropolis (comics)#Metropolis Police Department|Metropolis Special Crimes Unit]]. In the third  ''[[Superboy]]'' series, Dan Turpin is sent to [[Hawaii]] to investigate whether or not they needed a Special Crimes Unit of their own. While initially skeptical, a visit from the violent [[Darkseid]] faction, the [[Female Furies]] convinces Dan that the islands need an SCU.<ref>As seen in ''Superboy'' vol. 3 #20 (October 1995)</ref> In current ''[[Superman]]'' titles, Turpin is extremely loyal to [[Maggie Sawyer|Inspector Sawyer]], before her transfer to [[Gotham City]]. His romantic feelings for her fall apart when he learns she is a [[lesbian]]. Turpin has a daughter named Maisie.
+
+He has spent a long time fighting threats in Metropolis; such as the rampaging group of mutants called the 'Underworlders'. <ref> "The Adventures Of Superman" #499 (1993)</ref>
+
+===Current status===
+Dan Turpin returns in ''[[Final Crisis]]'' #1 (May 2008). He had been called back from retirement to investigate the case of several missing kids; this evolves into investigating the death of the [[New Gods|New God]] [[Orion (comics)|Orion]]. Orion passes on several cryptic phrases to Turpin, telling him that "He is in you all!" before finally passing away. 
+
+In the second issue, he follows clues given to him by [[Renee Montoya]] and [[Mad Hatter (comics)|The Mad Hatter]], investigating [[The Dark Side Club]] and journeying to the devastated city of [[Blüdhaven]].  There he meets up with [[Glorious Godfrey|Reverend Good]], and begins to realize that "there's [[Darkseid|someone in my head.]]"
+
+In the fourth issue, Turpin, after much inner struggle, is turned into the new host body for Darkseid; Darkseid later reveals that he selected Turpin rather than Batman as a host because Batman would have resisted longer than he wished, while Turpin struggled just enough to make his victory sweeter.
+
+In the sixth issue, [[Batman]] uses a gun loaded with a Radion bullet, which is poisonous to the New Gods, to shoot Darkseid in the shoulder, [[Flash (Barry Allen)|Barry Allen]] and [[Wally West]] later managing to outrun the [[Black Racer (DC Comics)|Black Racer]]- currently apparently after Barry- so that it takes the currently-weakened Darkseid during a confrontation with Superman. After Darkseid is claimed by the Black Racer, Turpin appears to regain control of his body, breathing "In us... in all of us..." in apparent recognition of the meaning of Orion's last words. However, Superman later addresses the body as though Darkseid was still in control of it, and Turpin then vanishes--Darkseid's discorporate spirit being subsequently destroyed with the activation of the [[Miracle Machine]]--leaving it unclear what exactly the fate of Turpin is.
+
+==In other media==
+===Television===
+* In the 1990s [[cartoon]] ''[[Superman: The Animated Series]]'', Turpin was modelled on [[Jack Kirby]]{{cn|date=November 2011}} and voiced by [[Joseph Bologna]]. He appears often in the early part of the series. Turpin is killed by the alien tyrant [[Darkseid]] in the latter half of the two-part episode "Apokolips...Now!". The character's funeral was presided over by a [[rabbi]] who recited a [[kaddish]]. Out of respect for the legacy of Kirby, the character's creator, producer [[Bruce Timm]] found a genuine religious leader for the voiceover. He also modeled the [[cemetery]] after the real-life one where Jack Kirby is buried.{{cn|date=November 2011}}
+
+* Inspector Turpin also appears in the [[GraphicAudio|Graphic Audio]] production of ''Superman: The Never Ending Battle''. 
+
+* In "Bulletproof", a season 8 episode of ''[[Smallville (TV Series)|Smallville]]'', Danny Turpin, portrayed by [[David Paetkau]],  is a street cop who is partnered with an undercover Clark Kent. <ref>{{cite web|url=http://www.kryptonsite.com/smallvillespoilers.htm |title=Smallville Spoilers at the KryptonSite Spoilers Page |publisher=Kryptonsite.com |date= |accessdate=2011-01-30}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.dcuguide.com/who.php?name=danturpin Dan Turpin] at the DCU Guide
+
+
+{{Superman}}
+
+{{DEFAULTSORT:Turpin, Dan}}
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Joe Simon]]
+[[Category:Comics characters introduced in 1942]]
+[[Category:DC Comics characters]]
+[[Category:Fictional characters from New York]]
+[[Category:Fictional police officers]]
+[[Category:Smallville characters]]

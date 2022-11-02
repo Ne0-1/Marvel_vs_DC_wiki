@@ -1,0 +1,31 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Reptyl
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Silver Surfer]]'' Vol. 3 #11 (May 1988)
+|creators=[[Steve Englehart]] and [[Joe Staton]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''Reptyl''' is a fictional character in the [[Marvel Universe]].
+
+Cap'n Reptyl was a space pirate who was an enemy of the [[Silver Surfer]], and later became an ally to the [[Skrull]]s.
+
+==External links==
+*http://www.marvel.com/universe/Reptyl
+*http://www.marvunapp.com/Appendix3/reptylsaurian.htm
+
+
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Space pirates]]

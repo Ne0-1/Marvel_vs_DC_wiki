@@ -1,0 +1,25 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Ani-Mator
+|real_name=Dr. Frederick Animus
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[New Mutants]]'' #59 (Jan 1988)
+|creators=[[Louise Simonson]] and [[Bret Blevins]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+The Ani-Mator was a geneticist employed by [[Cameron Hodge]] to research a means of stopping the process that creates [[Mutant (fictional)|mutants]].  Dr. Animus instead created a race of "Ani-Mates", which combined the characteristics of human beings and other animals, intending them to be a slave races for humanity.
+
+One of the Ani-Mates, [[Bird-Brain]], escaped the Ani-Mator's island and befriended the [[New Mutants]].  The New Mutants returned to the island with Bird-Brain to stop the mad scientist's experiments.  The Ani-Mator, attempting to shoot [[Wolfsbane (comics)|Wolfsbane]], instead killed the New Mutant [[Cypher (comics)|Cypher]].  [[Magik (comics)|Magik]] exiled the Ani-Mator to the dimension of [[Limbo (comics)|Limbo]] in retailiation.
+
+{{Marvel-villain-stub}}
+[[Category:X-Men villains]]

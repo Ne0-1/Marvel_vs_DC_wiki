@@ -1,0 +1,23 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name = G.I. Robot
+| publisher = [[DC Comics]]
+| debut = ''[[Weird War Tales]]'' #101 (July 1981)
+| creators = [[Robert Kanigher]]
+| alter_ego = J.A.K.E., Jungle Automatic Killer - Experimental
+| full_name =
+| species = Robot
+| homeworld = <!-- optional -->
+| alliances = [[United States Marine Corps]], [[Creature Commandos]]
+| aliases = 
+| supports=<!--optional-->
+| powers = 
+}}
+'''G.I. Robot''' is the name of a series of fictional robots in comic books published by [[DC Comics]]. It first appeared in ''[[Weird War Tales]]'' #101 (July 1981) and was created by comic book writer [[Robert Kanigher]].
+
+G.I. Robot was a robot designed by a [[Massachusetts Institute of Technology]] professor named Thompson. He was deployed to a Pacific island to fight the Japanese military during [[World War II]] alongside the United States Marines and was placed under the control of a sergeant named Coker. Although the robot was technically named Jungle Automatic Killer - Experimental Number 1 (J.A.K.E. 1), Coker gave the robot the nickname G.I. Robot. Coker was skeptical of the robot's abilities, but it soon earned his trust.
+
+J.A.K.E. 1 was later destroyed and replaced by J.A.K.E. 2, which also went by the nickname G.I. Robot. The second G.I. Robot continued to fight on Pacific islands, including [[Dinosaur Island]]. It later teamed with the [[Creature Commandos]].
+
+{{DC-Comics-stub}}

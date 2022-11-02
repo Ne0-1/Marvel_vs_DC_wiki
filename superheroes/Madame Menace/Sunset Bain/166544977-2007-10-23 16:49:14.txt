@@ -1,0 +1,52 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = 
+| caption = 
+| comic_color = background:#ff8080
+| character_name = Sunset Bain
+| real_name = Sunset Bain
+| publisher = [[Marvel Comics]]
+| debut = Machine Man #17 (October, [[1980]])
+| creators = [[Tom DeFalco]] (writer), [[Steve Ditko]] (artist)
+| alliance_color = background:#c0c0ff 	
+| status = Active
+| alliances = 
+| previous_alliances = [[New Enforcers]]
+| aliases = Madame Menace
+| relatives = 
+| powers = Genius intellect,<br>Skilled inventor
+}}
+
+'''Sunset Bain''' is a [[fictional character|fictional]] villainess in the [[Marvel Comics]] [[Marvel universe|universe]]. She is a shady business-woman who occasionally masquerades as '''Madame Menace'''. Although very technologically adept, she personally does not have any super-powers. Publicly she is the CEO of Baintronics.  Privately she maintains her wealth through black market weaponry deals and other shady practices.  She primarily is an adversary of [[Machine Man]] and [[Iron Man]].
+
+Sunset Bain is an underworld armorer who supplies sophisticated weaponry to an elite clientele of master criminals, terrorists, and revolutionaries.
+
+==Fictional character biography==
+Sunset Bain got her start by seducing fellow [[MIT]] undergraduate Tony Stark into revealing the security codes for Stark Industries. Shortly thereafter a force of masked men invaded and stole several prototypes. Within a year, Baintronics was founded and Sunset broke it off with Stark.  While Baintronic maintained a spotless reputation, Sunset assumed the '''Madame Menace''' persona and sold high-tech weaponry to criminals via "a tremendously profitable underground seasonal "Sharper Villain" catalog of armaments."[http://www.marvel.com/universe/Bain,_Sunset]
+
+When Machine Man lost an arm while fighting [[Baron Brimstone]] and the Satan Squad, Madame Menace bought it, obtaining a low price by threatening the seller "with one of her flesh-eating roaches."[http://www.marvunapp.com/Appendix/bainsuns.htm] Her plans for [[reverse engineering]] the limb were interrupted when Machine Man came to claim it. Despite her electromagnets and sonic disrupter cannon, Machine Man prevailed, and Sunset had to blow up her yacht to escape. An accidental run-in with [[Alpha Flight]] members [[Aurora (comics)|Aurora]], [[Northstar]] and [[Sasquatch (comics)|Sasquatch]] eventually persuaded her to set aside her Machine Man machinations for a while. Madame Menace then made a few minor appearances supplying weapons to [[Ghost Rider (comics)|Ghost Rider]] villain, Orb, and then [[Doctor Octopus]].
+
+Sunset next showed up in a meeting with Tony Stark which was interrupted when a damaged Machine Man showed up with the head of [[Jocasta (comics)|Jocasta]], having lost a battle to [[Terminus (comics)|Terminus]]. Stark changed into Iron Man and brought the damaged androids to Baintronics, where under the guise of assistance, Sunset created knockoff duplicates of the robots. When the repaired Machine Man left, Sunset managed to give him the fake Jocasta. The real Jocasta and false Machine Man left with Baintronics laid in-[[continuity]] foundations for the [[Machine Man#Machine Man 2020|Machine Man 2020]] miniseries.
+
+After this, Sunset, as Madame Menace, teamed with the [[New Enforcers]] in their plot to take over the fallen [[Kingpin (comics)|Kingpin]]'s crime cartel.  Ostensibly, Bain did this in order to study the New Enforcers technology, including [[Dragon Man]], [[Dreadnought (comics)|Dreadnought]] and the [[Super-Adaptoid]].
+
+Having failed to decode the intricacies of Jocasta's AI, Sunset decided to hire Tony Stark to investigate. As Stark was already employed otherwise, Sunset hired the new War Machine to destroy his current employers. After Iron Man defeated [[Fin Fang Foom]], Baintronics took the contract for transporting the beast's massive bulk. Using this as an in, Sunset asked Tony to work for her again.  Growing suspicious, Stark accepted in order to learn more.  Stark then freed Jocasta and persuaded the new War Machine to stop working for Sunset Bain.
+
+Later, Sunset hired [[Taskmaster]] to sabotage a Stark Enterprises operation. In lieu of paying him, she betrayed him to the police. In retaliation, the Taskmaster instigated a war between the [[Triad society|Triads]] and Baintronics. He even managed to shoot Sunset in the shoulder.  As of the end of the mini-series, the hostilities between the two were unresolved, but aside from their enmity, the status quo was mostly restored.
+
+==Other versions==
+===Sunset Bain 2020===
+An older Sunset was Machine Man's adversary in his [[cyberpunk]] mini-series set in the year 2020. She was still the head of Baintronics, which had leveraged the tech from Machine Man and Jocasta in order to become the predominant mega-corporation of its day. Through a robot's mistake, Machine Man was freed and fought back against Baintronics.  Machine Man was able to defeat [[Iron Man 2020]] along with Sunset's other guards. Despite being 40 years past her prime, Sunset still was lively enough to attack Machine Man herself with a live power cable. Machine Man overcame even this and extracted a promise from Bain to leave him and his friends alone.
+
+==External links==
+*[http://www.marvel.com/universe/Bain,_Sunset ''Marvel.com'''s article on Sunset Bain]
+*[http://www.marvunapp.com/Appendix/bainsuns.htm ''Appendix to the Handbook of the Marvel Universe'''s article on Sunset Bain]
+
+{{Marvel-villain-stub}}
+
+
+{{DEFAULTSORT:Bain, Sunset}}
+
+[[Category:Marvel Comics supervillains]]
+[[Category:Supervillains without aliases]]
+
+[[fr:Sunset Bain]]

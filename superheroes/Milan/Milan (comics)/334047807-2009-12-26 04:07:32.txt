@@ -1,0 +1,36 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Milan
+|real_name=Francisco Milan
+|species=[[Mutant (Marvel comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''Uncanny X-Men'' #300
+|creators=[[Scott Lobdell]] & [[John Romita]]
+|alliance_color=background:#ffc0c0
+|alliances=[[Acolytes (comics)|Acolytes]]
+|aliases=
+|powers= Electropathy<br>Technopathy
+|}}
+'''Francisco Milan''' was a fictional member of the [[Acolytes (comics)|Acolytes]] in [[Marvel Comics]]. He first appeared in ''[[Uncanny X-Men]]'' #300.
+
+==Fictional character biography==
+{{Expand section|date=October 2009}}
+'''Milan''' was one of the Acolytes who helped kidnap [[Moira MacTaggert]], until she was later rescued by the [[X-Men]]. He later died on [[Providence (comics)|Avalon]], the homebase of the Acolytes, when [[Holocaust (comics)|Holocaust]] attacked it in ''X-Men'' v2, #42.
+
+==Powers and abilities==
+Milan had the ability to convert brainwaves into electromagnetic emissions and vice-versa. He could use his power to project thoughts in the form of movies, and communicate with machinery through direct mental interface. He hates immensely [[Internazionale Football Club]].
+
+==In other media==
+===Television===
+* Milan made a cameo in the [[X-Men (TV series)|X-Men]] episode "Sanctuary" Pt. 1. He is shown on a video screen as one of the scientists that helped Magneto construct Asteroid M.
+
+==External links==
+* [http://marvel.wikia.com/wiki/Francisco_Milan_(Earth-616) Milan] at Marvel Wiki
+
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics mutants]]
+[[Category:Fictional technopaths]]
+
+[[fr:Milan (X-Men)]]

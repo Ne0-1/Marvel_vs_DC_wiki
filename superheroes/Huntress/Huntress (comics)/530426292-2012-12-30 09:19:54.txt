@@ -1,0 +1,197 @@
+{{for|the Marvel Comics character who has used the alias Huntress|Mockingbird (Marvel Comics)}}
+{{Infobox comics set and title
+<!--Wikipedia:WikiProject Comics-->
+<!--Character section-->
+|code_name  = Huntress
+|image      = Huntress TPB.jpg
+|caption    = The Huntress by Brian Bolland
+|publisher  = [[DC Comics]]
+|debut      = ''[[Sensation Comics]]'' #68
+|debutmo    = August
+|debutyr    = 1947
+|debutyr1   = 1977
+|debutyr2   = 1989
+|writer1    = [[Mort Meskin]]
+|characters = [[Paula Brooks]] <br />[[Huntress (Helena Wayne)|Helena Wayne]]<br />'''[[Huntress (Helena Bertinelli)|Helena Bertinelli]]'''
+|seealso    = 
+
+<!--Series section--> 
+|title               = The Huntress''<br>''Huntress
+|cvr_image           = Huntress v1 1.jpg
+|cvr_caption         = ''The Huntress'' vol. 1, #1 (Apr, 1989).<br>Featuring the Helena Bertinelli version of the character.<br>Art by [[Joe Staton]].
+|schedule            = Monthly
+|format              = '''(vol 1)'''<br>[[Ongoing series]]<br>'''(vol 2)'''<br>[[Limited Series]]
+|limited             = Y
+|ongoing             = Y
+|Superhero           = y
+|pub_series          = DC Comics
+|1stishhead          = vol 1
+|1stishyr            = 1989
+|1stishmo            = April
+|endishyr            = 1990
+|endishmo            = October
+|1stishhead1         = vol 2
+|1stishyr1           = 1994
+|1stishmo1           = June
+|endishyr1           = 1994
+|endishmo1           = September
+|issues              = '''(vol 1)'''<br>19<br>'''(vol 2)'''<br>4
+|main_char_team      = Helena Bertinelli
+|writers             = 
+|artists             = 
+|pencillers          = 
+|inkers              = 
+|letterers           = 
+|colorists           = 
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = 
+|TPB                 = 
+|ISBN                = 
+|nonUS               = 
+|cat                 = super
+|subcat              = DC Comics
+|altcat              = 
+|hero                = y
+|villain             = y
+|sortkey             = Huntress
+|sort_title          = Huntress
+}}
+The '''Huntress''' is a name used by several characters in [[DC Comics]].
+
+The Golden Age Huntress is a [[supervillain]]ess, while the Bronze Age and Modern Age Huntresses are [[superheroine]]s.
+
+==Paula Brooks==
+:{{main|Paula Brooks}}
+The [[Golden Age of Comic Books|Golden Age]] Huntress was a [[supervillain]] with the real name of '''Paula Brooks''' who battled the [[superhero]] [[Wildcat (comics)|Wildcat]], first appearing in ''[[Sensation Comics]]'' #68. She joined the second [[Injustice Society of America]] and stole the [[Plymouth Rock]]. She married fellow supervillain [[Sportsmaster]].
+
+She was later [[retcon|retroactively]] renamed the '''[[Tigress (DC Comics)|Tigress]]''' in the pages of ''Young All-Stars''. These stories took place prior to her villainous career. At this point, the young Paula Brooks was a super-heroine, and fought both Nazis and criminals as a [[Young All-Stars]] member.
+
+==Helena Wayne==<!-- This section is linked from [[List of DC Comics characters: H]] -->
+:{{main|Huntress (Helena Wayne)}}
+The [[Bronze Age of Comic Books|Bronze Age]] Huntress was '''Helena Wayne''', the daughter of the [[Batman (Earth-Two)|Batman]] and [[Catwoman#Golden and Silver Age versions|Catwoman]] of [[Earth-Two]], an [[Multiverse (DC Comics)|alternate universe]] established in the early 1960s as the world where the Golden Age stories took place. Earth-Two was also the home of the Golden Age versions of various DC characters. 
+
+<!--  Commented out: [[File:Huntress Wayne.JPG|200px|left|thumb|Helena Wayne as the Huntress.{{Deletable image-caption|Saturday, 16 October 2010|date=May 2012}}]] -->
+Created by [[Paul Levitz]], [[Joe Staton]], and Bob Layton, her first appearance was in ''[[All Star Comics]]'' #69 (December 1977) and ''[[DC Super Stars]]'' #17, which came out the same day<ref>[http://www.comics.org/issue/31602/ ''DC Super Stars'' #17 (November-December 1977)] at the [[Grand Comics Database]] "Origin and first appearance of the Helena Wayne Huntress, who simultaneously first appears in this issue and ''All-Star Comics'' (DC, 1976 series) #69, both released August 24, 1977."</ref> and revealed her origin.<ref>{{cite book|last=McAvennie|first= Michael|last2=Dolan|first2=Hannah, ed.|chapter= 1970s|title = DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]] |year=2010 |isbn= 978-0-7566-6742-9 |page= 175 |quote = ''DC Super Stars'' #17 (November–December 1977) While writer Paul Levitz and artist Joe Staton introduced the Huntress to the JSA in this month's ''All Star Comics'' #69, they concurrently shaped her origin in ''DC Super Stars''.}}</ref> She appeared in ''[[Batman Family]]'' #17-20 when it expanded into the [[Dollar Comics]] format for its last few issues.<ref name="GCD-list">[http://www.comics.org/search/advanced/process/?ind_pub_notes=&letters=&series=&series_notes=&issue_notes=&synopsis=&colors=&isbn=&tracking_notes=&indicia_publisher=&issues=&issue_date=&title=&variant_name=&brand=&feature=&job_number=&pub_name=DC&is_indexed=None&story_editing=&method=icontains&pub_notes=&inks=&issue_title=&end_date=March+31%2C+1986&format=&brand_notes=&price=&barcode=&volume=&pages=&characters=Huntress&genre=&issue_pages=&order2=series&order3=&order1=date&pencils=&target=sequence&language=en&reprint_notes=&country=us&notes=&is_surrogate=None&issue_count=&issue_editing=&start_date=January+1%2C+1977&script=&logic=False&indicia_frequency=&page=1 Huntress (Helena Wayne) appearances] at the Grand Comics Database</ref> The bulk of her solo stories appeared as backup features in issues of ''Wonder Woman'' beginning with issue #271 (September 1980).<ref name="GCD-list" /><ref>Manning, Matthew K. "1980s" in Dolan, p. 187 "The daughter of Batman and Catwoman from Earth-2 found a new home away from home in the pages of Wonder Woman's monthly title...a regular gig as the back-up feature to the Amazing Amazon's lead story.  Handled by writer Paul Levitz and artist Joe Staton, the Huntress faced the villainy of the swamp creature Solomon Grundy."</ref> 
+
+Helena was trained by her parents to become a superb athlete. After finishing school, she joined the [[law firm]] of Cranston and Grayson, one of whose partners was [[Earth-Two|Dick Grayson]], alias [[Robin (comics)|Robin]].
+
+Helena began her super-hero career when a criminal blackmailed her mother into resuming action once again as Catwoman—an act which eventually led to her death. Helena, deciding to bring the criminal responsible to justice, created a costume for herself, fashioned some weapons from her parents' equipment (including her eventual trademark, a [[crossbow]]), and set out to bring in the criminal. After accomplishing this, Helena decided to continue to fight crime, under the code name, the "Huntress." 
+
+In ''All Star Comics'' #72, Helena formally joined the [[Justice Society of America]] where she struck up a friendship with fellow new superheroine [[Power Girl]]. As a JSA member, she participated in several of the annual JLA/JSA meetings, most of which took place on Earth-One. Helena was also briefly associated with the superhero group [[Infinity, Inc.]].
+
+During the 1985 miniseries ''[[Crisis on Infinite Earths]]'', Helena was killed while attempting to save the lives of several children. After ''Crisis'' ended, Helena Wayne's existence, like that of her parents and Earth-Two's Dick Grayson, was [[retroactive continuity|retroactively]] erased from the remaining Earth and the world no longer remembered her.
+
+==Helena Bertinelli==
+{{main|Huntress (Helena Bertinelli)}}
+
+Following the 1985 miniseries ''[[Crisis on Infinite Earths]]'', the Helena Wayne version of the Huntress was removed from continuity. DC Comics introduced a new version of the Huntress with the same first name and physical appearance, and with a similar costume, but with an entirely different backstory and different personality.[[File:Huntress Bertinelli.png|200px|right|thumb|Helena Bertinelli as the Huntress.]]
+
+The Modern Age Huntress is '''Helena Rosa Bertinelli''' (also Hellena Janice Bertinelli in the miniseries ''Robin 3, Cry of the Huntress''), the daughter of one of Gotham's mafia bosses who, after seeing her entire family murdered by a mob hit, vows revenge.  During the "No Man's Land" story line she works as Batgirl, but not alongside Batman (whom the citizens believe abandoned them).
+
+[[Batman]] considers her to be too unpredictable and violent. Others in the Batman family feel differently; [[Nightwing]] had a brief romantic fling with her, while she and [[Robin (Tim Drake)|Tim Drake]] share a good professional relationship. Early in his career he worked with the female vigilante, and later cleared her name in a murder case. Batman sponsors Huntress's membership in the [[Justice League]],<ref>''JLA Secret Files'' #2</ref> and for some time, Huntress was a respected member of the League. Under the guidance of heroes such as [[Superman]], she grew in confidence, but was forced to resign after Batman stopped her from killing the villain [[Prometheus (comics)|Prometheus]].<ref>''JLA'' #40</ref>
+
+The emergence of Bertinelli as the Huntress has not kept DC from occasionally paying homage to the Helena Wayne incarnation of the character.  During a post-''Crisis'' JLA-JSA team-up, Bertinelli was so impressed with the skill and prowess of the [[Flash (Jay Garrick)]], [[Queen Hippolyta (comics)|Hippolyta]], and [[Wildcat (comics)|Wildcat]], she stated humbly, "I wanna join the Justice Society . . . ."<ref>''JLA'' #31</ref> Additionally, Power Girl sought her out for someone to talk to, even though the two have never really interacted.
+
+The character was featured in the comic book [[Birds of Prey (comics)|''Birds of Prey'']] from 2003 onwards as a member of the eponymous team. Although she is still depicted as prone to excessive violence, she became a valuable member of the team.
+
+==The New 52==
+In 2012, Huntress began to star in the ongoing series "World's Finest" along with Power Girl.  In this series, Huntress is in reality Helena Wayne from Earth 2.  She and Power Girl, who is Superman's cousin on Earth 2, were mysteriously hurled to the main DC Universe after a battle with Darkseid's minions.
+
+==Bibliography==
+
+{| class="wikitable"
+|-
+! Title !! Material collected !! Date Published !! Notes
+|-
+| Arrow/Huntress: Year One || and starred in the episode #7 and #8 || December 2012
+|-
+| Huntress || 6-issue miniseries by Paul Levitz and Marcus To || January 2011
+|-
+| Huntress: Year One || 6-issue miniseries by [[Ivory Madison]] and Cliff Richards || January 2008
+|-
+| Huntress: DarKnight Daughter || DC Super Stars (1976) #17, Batman Family (1975 1st Series) #18-20, and Wonder Woman (1942-86 1st Series) #271-287, 289-290 and 294-295 || December 2006 || Stars the Helena Wayne incarnation of the Huntress.
+|-
+| Batman/Huntress: Cry For Blood || 6-issue miniseries by Greg Rucka and Rick Burchett || June 2000
+|-
+| Nightwing/Huntress || 4-issue miniseries by Devin Grayson and Greg Land || January 1999
+|-
+| Huntress || 4-issue miniseries by Chuck Dixon and Mike Netzer || June 1994
+|-
+| Robin III - Cry of the Huntress || 6-issue miniseries by Chuck Dixon and Tom Lyle || December 1992
+|-
+| The Huntress || 19-issue ongoing series by Joey Cavalieri and Joe Staton || April 1989
+|-
+|}
+
+==Other versions==
+In the final issue of ''[[52 (comic book)|52]]'', a new Multiverse is revealed, originally consisting of 52 identical realities. Among the parallel realities shown is one designated "Earth-2". As a result of [[Mister Mind]] "eating" aspects of this reality, it takes on visual aspects similar to the pre-Crisis Earth-Two, including the Huntress among other Justice Society of America characters. The names of the characters and the team are not mentioned in the panel in which they appear, but the Huntress is visually similar to the Helena Wayne Huntress.<ref>
+{{Comic book reference | title=[[52 (comic book)|52]] | issue=52 | date=May 2, 2007 | publisher=[[DC Comics]] | page=13 | panel=3 }}</ref> Geoff Johns confirmed that it is indeed Earth-2 Batman's daughter, Huntress.<ref>''Wizard'' #189</ref> As prefigured by comments from [[Grant Morrison]], this new alternate universe is not the original/pre-Crisis Earth-Two and ensuing [[Justice Society of America]] exploration disclosed that this Helena Wayne/Huntress was a member of the Justice Society Infinity, Earth-2's merged JSA and [[Infinity, Inc.]] and was not in a relationship with [[Dick Grayson]]/[[Robin (comics)|Robin]] in this world. Since [[Power Girl]] briefly visited that world, there has been no subsequent depiction of the new Helena Wayne/Huntress of Earth-2<ref>{{cite web| url = http://forum.newsarama.com/showthread.php?t=111900| title = the 52 exit interviews: grant morrison| accessdate = 2007-05-12| last = Brady| first = Matt| date = 2007-05-08| publisher = Newsarama}}</ref>
+
+In the alternate timeline of the ''[[Flashpoint (comics)|Flashpoint]]'' event, Huntress joined with the [[Amazons (DC Comics)|Amazons]]' [[Female Furies|Furies]].<ref>''Flashpoint: Wonder Woman and the Furies'' #2 (July 2011)</ref>
+
+==In other media==
+
+===''Legends of the Superheroes''===
+[[File:Barbara Joyce Huntress.jpg|200px|thumb|right|Actress [[Barbara Joyce]] as the Huntress in the legendary [[1979 in television|1979]] [[NBC]] ''[[Legends of the Superheroes]]'' TV special, Huntress' first non-comics appearance.]]
+The Huntress's first appearance outside of comics was in the [[1979 in television|1979]] [[NBC]] ''[[Legends of the Superheroes]]'' TV specials, with actress [[Barbara Joyce]] portraying the character. Huntress and [[Black Canary]] are the only two superheroines featured among a cast of some of DC's biggest heroes, including [[Batman]], the [[Flash (comics)|Flash]], and [[Captain Marvel (DC Comics)|Captain Marvel]].
+
+===''Justice League Unlimited''===
+[[File:Huntress JLU.png|left|Huntress, as she appears in ''Justice League Unlimited''.|200px|thumb]]
+The Helena Bertinelli version of the Huntress has appeared in the [[animated series]] ''[[Justice League Unlimited]]'', primarily as the love interest and partner to [[Question (comics)|The Question]]. She is voiced by [[Amy Acker]] and starred in the episode "Double Date". In this episode, Huntress' thirst for revenge against the murderer of her parents, [[Steven Mandragora]], results in her expulsion from the Justice League. [[Green Arrow]] and [[Black Canary]] chase Huntress only to find her ready to kill Mandragora, until the Question talks her down and Steve's rescued son is revealed. In the subsequent episode "Question Authority", the Huntress helps the Question uncover a government conspiracy against the League. She later rescues him, with the help of [[Superman]], from the [[Project Cadmus|Cadmus Project]] after he has been captured and tortured for information.<br>Huntress also appears in the fourth-season episode "Grudge Match", in which she uncovers a plot of [[Roulette (DC comics)|Roulette]]'s to use mind-controlled female Leaguers in metahuman cage matches, where her rivalry with Black Canary comes to a boil. She plays a significant role in freeing the other heroes and shutting down the organization behind the brawls. At the end of this episode, Black Canary offers to advocate that Huntress be reinstated as a League member, but Huntress graciously turns her down. Instead, the two decide to get the aggression out of their systems by going into one last, though friendly, round with "best two falls out of three".
+
+===''Birds of Prey''===
+[[File:Birds of Prey promo.jpg|200px|thumb|right|[[Ashley Scott]] as the Huntress in the [[The WB Television Network|WB]]'s [[Birds of Prey (TV series)|B.O.P.]]]]
+The Huntress appears as a featured character in the short-lived live-action series ''[[Birds of Prey (TV series)|Birds of Prey]]''. This version of the Huntress, played by [[Ashley Scott]], was mostly based on the Silver Age Helena Wayne version, although she is named '''Helena Kyle''' in this series. She is the daughter of Batman, who disappeared after the death of her mother, Catwoman. The Huntress in this series worked with Oracle and Black Canary's daughter as the primary crimefighters in Gotham City. Unlike the previous versions of the Huntress, this series' version possessed low-level superpowers (occasional enhanced strength and agility, accompanied by her eyes turning cat-like) and did not wear a mask or a consistent costume, preferring fashionable black clothing, usually with some kind of long, leather overcoat.
+
+===''Batman Beyond''===
+While nothing came of it, there was consideration of bringing Helena Wayne/Huntress into ''[[Batman Beyond]]'', as it would make a good alternative to having a ''Batgirl Beyond''.<ref>{{cite web|url=http://jl.toonzone.net/huntress/huntress.htm |title=Huntress |publisher=Jl.toonzone.net |date= |accessdate=2010-09-14}}</ref>
+
+===''Justice League Heroes''===
+Huntress is an unlockable player character in the 2006 [[video game]] ''[[Justice League Heroes]]''.
+
+===''Batman: The Brave and the Bold''===
+Huntress appears in the animated series ''[[Batman: The Brave and the Bold]]'', voiced by [[Tara Strong]] in the episode "Night of the Huntress!" where she, Batman, and [[Blue Beetle (Jaime Reyes)]] have to stop the gangster Baby-Face and his wife, Mrs. Manface. The Blue Beetle develops a crush on her in the episode, but Huntress is more interested in Batman. The latter does not reciprocate. The costume she wears strongly resembles the Helena Wayne costume, though this version is identified as Helena Bertinelli. When she isn't performing superheroic duties, she is employed as a professor in Gotham University, the same college Jaime plans to attend. Huntress subsequently appears in the episodes "Death Race to Oblivion!"<ref>{{cite web|url=http://www.worldsfinestonline.com/WF/bravebold/guides/reviews/27deathrace/ |title=The World's Finest - Batman: The Brave and the Bold |publisher=Worldsfinestonline.com |date=2009-11-20 |accessdate=2010-09-14}}</ref> and "The Mask of Matches Malone!". When she, Black Canary, and Catwoman are lowered into a tank of sharks, she saves them by shooting her crossbow so it ricochets and tears Black Canary's gag off, enabling her to break the tank with her scream. Additionally, Helena appears in a non-speaking cameo in the two parts of the episode "The Siege of Starro!", first, among the heroes possessed by [[Starro]], and later, as one of the heroines that have already broken free of Starro's mind control, and battle against him.
+
+===''LEGO Batman''===
+[[LEGO]] pieces to create Huntress can be unlocked in the character creation feature in ''[[LEGO Batman: The Video Game]]'' after obtaining all the mini-kits from the Hero chapters. Huntress can also be unlocked in the [[Nintendo DS]] version of the game.
+
+===''LEGO Batman 2: DC Super Heroes''===
+In the game ''[[Lego Batman 2: DC Super Heroes]]'', Huntress is an unlockable character in free play mode and can be found by constructing a Gold Brick archway (after collecting the requisite number of gold bricks) on the roof of a building in the south east of the top island on the map, south east of the encounter with [[Ra's al Gul]].
+
+===''DC Universe Online''===
+The Huntress features in the [[MMORPG]] ''[[DC Universe Online]]'', as an early boss fight for villains or a contact for heroes.
+
+===''Batman: Arkham City''===
+In the game ''[[Batman: Arkham City]]'', Huntress is briefly mentioned by [[Vicki Vale]] in an interview tape with Mayor Quincy Sharp.
+
+===''Young Justice''===
+In the animated series ''[[Young Justice (TV series)|Young Justice]]'' the Paula Brooks version of Huntress is used, and her daughter [[Artemis Crock|Artemis]] is one of the main characters. For the show, she is a former supervillain of Vietnamese descent named '''Paula Nguyen'''. She is confined to a wheelchair and is estranged from her husband, the supervillain [[Sportsmaster]] (Lawrence Crock), and has another daughter named Jade, who is [[Cheshire (comics)|Cheshire]]  In episode 23, "Insecurity", Paula's supervillain name was revealed as Huntress.
+
+===''Arrow''===
+The [[The CW Television Network|CW]] TV series ''[[Arrow (TV series)|Arrow]]'' will feature actress Jessica De Gouw as the Helena Bertinelli version of the Huntress<ref>http://www.comicvine.com/news/the-huntress-to-appear-on-arrow-tv-show/145520/</ref><ref>http://spinoff.comicbookresources.com/2012/11/19/arrow-images-reveal-huntress-in-costume-and-in-action/</ref>.
+http://cdn.ifanboy.com/wp-content/uploads/2012/11/Arrow_Muse-of-Fire.jpg
+Helena Bertinelli, secretly known as the vigilante the Huntress, is the daughter of a crime boss set on destroying her father's crime empire. She and Oliver(Arrow) become a couple at the end of the episode Muse of Fire(#7). At the end of Vendetta(#8), she was shot in the shoulder from a crossbow by her own father, but managed to survive with assistance from Oliver(Arrow). She then left the city(Starling City).
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.marvunapp.com/Appendix/amhntrss.htm Amalgam Comics: The Huntress]
+*[http://meltingpot.fortunecity.com/egypt/235/ Huntress Unofficial Webpage]
+*[http://www.webcitation.org/query?url=http://www.geocities.com/hollywood/set/6742/&date=2009-10-26+00:10:26 Lair of the Huntress]
+*[http://www.sequentialtart.com/archive/apr00/art_0400_3.shtml Sequential Tart: The Huntress and the Hunted]
+*[http://jl.toonzone.net/huntress/huntress.htm The Watchtower Creator opinions on the Huntress]
+
+{{Batman}}
+
+[[Category:Fictional American archers]]
+[[Category:Fictional vigilantes]]
+
+[[es:Cazadora (cómic)]]
+[[it:Cacciatrice (DC Comics)]]
+[[nl:Huntress (DC)]]
+[[pl:Huntress]]
+[[pt:Caçadora]]
+[[fi:Metsästäjätär]]

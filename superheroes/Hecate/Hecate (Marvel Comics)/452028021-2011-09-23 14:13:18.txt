@@ -1,0 +1,70 @@
+'''Hecate''' is the name of several fictional characters in the [[Marvel Universe]].
+
+==Fictional character biography==
+===Hecate (Ms. Marvel foe)===
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Hecate
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Ms. Marvel]] #11'' (Nov 1977)
+|creators=[[Chris Claremont]] and [[Sal Buscema]]
+|alliance_color=background:#c0c0ff
+|alliances=
+|aliases=
+|powers=energy projection<br/>illusion casting
+}} 
+
+A supervillain named '''Hecate''' appeared in ''[[Ms. Marvel]]'' #11-13 (November 1977-January 1978), and was created by [[Chris Claremont]] and [[Sal Buscema]].
+
+Hecate was an extradimensional female humanoid scientist and explorer, who was mistaken for the goddess [[Hecate]] when she visited Earth thousands of years ago. She allied with and later opposed the [[Elementals (Marvel Comics)|Elementals]] while seeking the Ruby Scarab. She fought Ms. Marvel at the time when the Elementals wanted to control the power of the Ruby Scarab. After the elementals were defeated, Ms. Marvel forgave Hecate who took the Ruby Scarab in order to keep it from falling into the wrong hands.<ref>''Ms. Marvel'' #11-13</ref>
+
+The recent Marvel Comics issues retconned the extradimensional Hecate as the actual Hecate.{{cn|date=September 2011}} At some point, Hecate lost her memory and was seen as an inmate of the [[The Raft (comics)|Raft]].{{issue|date=September 2011}}
+
+During the ''[[Fear Itself (comics)|Fear Itself]]'' storyline, Hecate is among the inmates at the Raft who escape after what [[Juggernaut (comics)|Juggernaut]] in the form of Kuurth: Breaker of Stones did to it. She assists [[Basilisk (comics)|Basilisk]], [[Griffin (Marvel Comics)|Griffin]], and [[Man-Bull]] in a bank robbery until Hercules arrives and recognizes her as Hecate. When Hercules drops the Shield of Perseus during his fight with the three villains, Hecate looks into the Shield of Perseus and regains her memories (one of which involving her encounter with Ms. Marvel). She then vows to take over Brooklyn.<ref>''Herc'' #3</ref> Hecate manages to revive Kyknos in order to take over Brooklyn.<ref>''Herc'' #4</ref> Hecate then uses her magic to reshape Brooklyn in her own image.<ref>''Herc'' #5</ref> When Kyknos is killed by Hercules, Hecate flees causing Brooklyn to return to normal.<ref>''Herc'' #6</ref>
+
+===Hecat'e (Earth-1191)===
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Hecat'e
+|real_name=
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''[[XSE]] #1'' (Nov 1996)
+|creators=[[John Ostrander]] and [[Chris Gardner]]
+|alliance_color=background:#c0c0ff
+|alliances=Summers Rebellion<br/>[[Xavier's Security Enforcers]]
+|aliases=
+|powers=darkness projection
+|}} 
+
+A character named '''Hecat'e''' first appeared in ''XSE #1'' (November 1996), created by [[John Ostrander]] and [[Chris Gardner]]. 
+
+She is a [[Mutant (Marvel Comics)|mutant]] from [[Bishop (comics)|Bishop]]'s alternate reality.
+<br clear=right>
+
+==Powers and abilities==
+The extraterrestrial Hecate can project energy bolts, and pull images from minds of others and make them real.
+
+The Hecate from Earth-1191 has the power of projecting a field of darkness from her left eye
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix/hecate.htm|Hecate (Ms. Marvel Foe)}}
+* [http://marvel.wikia.com/Hecat%27e_%28Earth-1191%29 Hecat'e] at Marvel Wikia
+
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by Sal Buscema]]
+[[Category:Greco-Roman mythology in Marvel Comics]]
+[[Category:Marvel Comics aliens]]
+
+{{marvel-comics-stub}}
+
+[[tl:Hecate (Marvel Comics)]]

@@ -1,0 +1,70 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:IM-86.jpg|250px]]
+|caption=The original Blizzard on the cover of ''[[Iron Man (comics)|Iron Man]]'' #86 (May 1976).<br>Art by [[Vince Colletta]].
+|comic_color=background:#ff8080
+|character_name=Blizzard
+|real_name=Gregor Shapanka<br>Donald Gill<br>Randy Macklin
+|publisher=[[Marvel Comics]]
+|debut='''(Shapanka)''' (as Jack Frost)<br> ''[[Tales of Suspense]]'' #45 (Sept. 1963)<br>'''(Shapanka)''' (as Blizzard)<br>''[[Iron Man (comics)}Iron Man]]'' #86<br>(May 1976)<br>'''(Gill)'''<br>''Iron Man'' #223<br>(Oct. 1987)<br>'''(Macklin)'''<br>''Marvel Holiday Special'' (1992)
+|creators=
+|alliances= '''(Gill)'''<br> Thunderbolts<br> '''(Macklin)'''<br> [[Stark Industries]]
+|aliases= '''(Shapanka)'''<br> Jack Frost 
+|powers= Ice projection and limited manipulation
+|}}
+
+The '''Blizzard''' is the name of three [[fictional]] [[Character (arts)|characters]] that appear in [[comic books]] published by [[Marvel Comics]].
+
+The original version first appears in ''[[Tales of Suspense]]'' #45 (Sept. 1963) as a [[supervillain]] and is currently deceased. The second version first appears in ''[[Iron Man (comics)|Iron Man]]'' #223 (Oct. 1987), while the final version first appears in the ''Marvel Holiday Special'' (1992).
+
+== Fictional character biography ==
+===Gregor Shapanka===
+Gregor Shapanka is a Hungarian scientist obsessed with immortality, and decides studying [[cryonics]] is the first step towards his goal. Shapanka then joins the company Stark Industries to fund his research, and eventually attempts to steal directly from [[Iron Man|Tony Stark]] - secretly the hero [[Iron Man]]. Shapanka is caught and fired, but, following a remark made by Stark, he creates a suit containing cold-generating devices. After Shapanka uses the suit for committing robberies, he is dubbed by the papers '''[[Jack Frost (Marvel Comics)#Jack Frost (Modern)|Jack Frost]]'''. He then attempts to raid Stark Industries, but is defeated by Iron Man.<ref>''Tales of Suspense'' #45 (Sept. 1963)</ref> 
+
+Several years later, Shapanka returns with an updated suit and using the alias '''Blizzard'''. He again attempts to steal from Stark Industries and is once again defeated by Iron Man.<ref>''Iron Man'' #86 - 87 (Apr. - May 1976)</ref>
+Shortly thereafter, Shapanka reconstructs his cold-suit in prison; but when Electro uses his electrical powers to break out of the adjoining cell, Shapanka is caught in the blast and the suit is fused to his body. Electro and the Blizzard then join forces to take over the Daily Bugle, but are stopped by [[Spider-Man]] and [[Daredevil (Marvel Comics)|Daredevil]].<ref>''Marvel Team-Up'' #56 (Apr. 1977)</ref> Some months later criminal mastermind [[Justin Hammer]] hires the Blizzard to join an army of supervillains and battle Iron Man, who subsequently beats the Blizzard twice in a matter of days.<ref>''Iron Man'' #123 - 124 + 127 (June - July + Oct. 1979)</ref> Shapanka then briefly resumes his Jack Frost identity and battles the [[Hulk (comics)|Hulk]].<ref>''Hulk'' #249</ref>
+
+Some time later the Blizzard attempts a bank robbery but is thwarted by Spider-Man. Blizzard then mistakes a [[Iron Man 2020|villainous version of Iron Man]] from the year 2020 for the modern Iron Man and attempts to ambush him. The future Iron Man, however, is on an urgent mission and instantly kills the Blizzard with a repulsor blast.<ref>''Spider-Man'' Annual #20 (1986)</ref>
+
+===Donald Gill===
+{{main|Blizzard (Donnie Gill)}}
+
+===Randy Macklin===
+Randall "Randy" Macklin, an ex-criminal, fails to find work following his release from prison and uses a spare Blizzard costume he was safeguarding for friend Donald Gill. Macklin, however, is quickly defeated by Iron Man, who then offers him a legitimate job at Stark Enterprises.<ref>''Marvel Holiday Special'' (1992)</ref>
+
+==Powers and abilities==
+All three villains have similar powers which derive from their costumes. Micro-circuited cryogenic units make it possible to emit freezing rays which instantly lower the temperature of the surrounding air or objects and also release ice as a projectile. The current costume used by Donny Gill has been upgraded by the supervillains [[Abner Jenkins|Beetle]] and the [[Fixer (comics)|Fixer]] and allows for even greater manipulation of cold, as Gill can encase people in snow and ice, create an ice barricade, or generate "ice sleds" for transport.
+
+For a brief period of time, a power overload of Shapanka's battery pack apparently gave him the psionic ability to generate intense cold and animate ice statues without artificial aids.
+
+Shapanka was a gifted scientist, with considerable scientific expertise and laboratory skills, with a PhD. in biochemistry and physics.
+
+==In other media==
+===Television===
+* The original Blizzard appears as "Jack Frost" in the ''Iron Man'' segment of the [[animated]] [[television series]] ''[[The Marvel Super Heroes]]''.
+* A version of the Blizzard appears in ''[[Iron Man (TV series)|Iron Man]]'' voiced by [[Chuck McCann]] (though [[Neil Ross]] voiced him in "The Beast Within"). He is shown as a servant of the [[Mandarin (comics)|Mandarin]] alongside [[MODOK]], [[Hypnotia]], [[Dreadknight]], [[Blacklash]], [[Grey Gargoyle]], [[Living Laser]], and [[Justin Hammer]].
+* A version of the Blizzard appears in ''[[The Avengers: Earth's Mightiest Heroes]]'' episode "The Breakout" Pt. 1 voiced by [[Troy Baker]]. He is shown escaping from the Vault and fighting Iron Man.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://marvel.com/universe/Blizzard_(disambiguation) Blizzard (disambiguation)] at Marvel.com
+* [http://www.marveldirectory.com/individuals/b/blizzardi.htm Blizzard I] at MarvelDirectory.com
+* [http://www.marveldirectory.com/individuals/b/blizzardii.htm Blizzard II] at MarvelDirectory.com
+
+{{Iron Man}}
+
+{{DEFAULTSORT:Blizzard (Comics)}}
+[[Category:Comics characters introduced in 1963]]
+[[Category:Comics characters introduced in 1976]]
+[[Category:Comics characters introduced in 1987]]
+[[Category:Comics characters introduced in 1992]]
+[[Category:Characters created by Don Heck]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics supervillains]]
+
+[[fr:Blizzard (comics)]]
+[[ja:ブリザード (コミック)]]
+[[pt:Nevasca (Marvel Comics)]]
+[[tl:Blizzard (komiks)]]

@@ -1,0 +1,58 @@
+{{otheruses4|the daughter of Black Lightning|the original DC Comics superhero known as Lightning|Thunder and Lightning (comics)}}
+
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image= Lightning_Pierce.jpg
+|imagesize= <!-- numeral only, defaults to 250 -->
+|converted = y
+|caption = Jennifer Pierce as Lightning
+|character_name = Lightning
+|real_name = Jennifer Pierce
+|publisher=[[DC Comics]]
+|debut = ''[[Kingdom Come (comics)|Kingdom Come]]'' #1 (1996)
+|creators = [[Mark Waid]] (writer)<br> [[Alex Ross]] (artist)<br>[[Geoff Johns]] (writer)<br/> [[Dale Eaglesham]] (artist)
+|Base of operations = 
+|species   = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances = [[Justice Society of America]]
+|partners  = <!-- optional -->
+|supports  = <!-- optional -->
+|aliases   =  <!-- optional: actual identities the character uses, not nicknames -->
+|powers = Electricity manipulation<br>Electrical aura<br>Flight
+|cat = super
+|subcat = DC Comics
+|hero = y
+|villain = 
+|sortkey = {{PAGENAME}}
+}}
+
+'''Lightning''' ('''Jennifer Pierce''') is a [[fictional]] [[superhero]] published by [[DC Comics]]. A member of the [[Justice Society of America]], she is the youngest daughter of [[Black Lightning]] and sister of the heroine [[Thunder (comics)|Thunder]]. The current version of Lightning debuted in ''[[Justice Society of America]]'' vol. 3 #12 (March 2008), and was re-envisioned by [[Geoff Johns]] and [[Dale Eaglesham]].
+
+==Publication History==
+Lightning first appears in the DC Comics miniseries ''[[Kingdom Come (comics)|Kingdom Come]]'' by [[Mark Waid]] and [[Alex Ross]], a tale of a dystopian possible future. She is among the lawless generation of superheroes who arise after the retirement of [[Superman]]. Though not identified within the story, supplemental material in the collected edition of the series refers to her as "Black Lightning's [[metahuman]] daughter." During the course of the story, Lightning joins forces with [[Batman]]'s covert team of heroes as they attempt to reclaim the planet for normal humanity. It is unclear whether she survives the bomb blast that kills most of the superhumans at the story's conclusion. 
+
+A version of Lightning is later introduced into the mainstream DC Comics [[DC Universe|universe]] by [[Geoff Johns]] and [[Dale Eaglesham]], debuting in ''Justice Society of America'' (vol. 3) #12 (March 2008).
+
+==Fictional Character Biography==
+Jennifer Pierce is the youngest daughter of the superhero Black Lightning (Jefferson Pierce) and his ex-wife Lynn Stewart. She inherits a [[metagene]] from her father which causes her to manifest [[Superpower (ability)|superpowers]] when she becomes a teenager. However like her father in his youth, she lacks the ability to properly control her electrical powers. This results in the shorting out of any electronic device that she touches. This side effect has left her feeling alienated and freakish among her peers, who have access to cell phones, televisions, the internet, and other conveniences of the modern world.<ref>http://www.dcuguide.com/who.php?name=lightning2</ref>
+
+Jefferson initially forbids his daughters from following in his footsteps as a costumed hero until after they complete their education. After seeing the rough road that his eldest daughter Anissa follows when she disobeys this order as the heroine Thunder, Jefferson decides that Jennifer will need guidance. He contacts the Justice Society of America, who are in the middle of a recruitment drive.
+
+Upon joining the Justice Society, Jennifer immediately forms a bond with fellow teen heroines [[Courtney Whitmore (comics)|Stargirl]] and [[Cyclone (DC Comics)|Cyclone]]. She also attracts the romantic interests of [[Jakeem Thunder]], another younger member of the team. Jennifer is at first unsure of a superhero codename, believing that her sister will "kill her" if she adopts the name Lightning as a counterpoint to Anissa's own. Nonetheless, this is the name she eventually settles on when she first goes into battle with the JSA.
+
+==Powers and Abilities==
+*Like her father, Lightning possesses the power of electricity manipulation. She is able to generate electrical energy and project it as concentrated bolts from her hands. Lightning is also able to fly by generating a localized electromagnetic repulsion field. 
+*When manifesting her powers, Jennifer's body is surrounded by a glowing electrical aura with lightning-like spikes on her head and back. This effect is involuntary, though she has demonstrated the ability to revert back to a more human appearance.
+*Still a young inexperienced heroine, Lightning does not have full control of her powers and will short out any electronic device or appliance she touches. It is unknown at this time if further training and refinement of her powers will result in any other abilities.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.dcuguide.com/who.php?name=lightning2 DCU Guide: Lightning]
+*[http://www.lightning-dc.webs.com Lightning Site]
+
+[[Category:1996 comics characters debuts]]
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics superheroes]]
+[[Category:Fictional African-Americans]]
+[[Category:2008 comics characters debuts]]

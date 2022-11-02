@@ -1,0 +1,43 @@
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|character_name = Nightrunner
+|image          =  NightrunnerINc.jpg
+|imagesize      = <!-- default 250 -->
+|converted      = y
+|caption        = Nightrunner. Art by [[Trevor McCarthy]].
+|publisher      = [[DC Comics]]
+|debut          = ''Detective Comics Annual #12'' <br />(February 2011)
+|creators       = [[David Hine]] & [[Kyle Higgins]]
+|alter_ego      = Bilal Asselah 
+|alliances      = [[List of Batman supporting characters|Batman Family]]
+|partners       = [[Batman]]
+|aliases        = Le Batman of France, The Free Runner, The Protector of Paris, The Night Runner, The Dark Athlete
+|powers         = 
+*  [[Parkour]]
+|cat            = super
+|subcat         = DC Comics
+|hero           = y
+|sortkey        = 
+}}
+
+'''Nightrunner''' is a [[Character (arts)|fictional character]] created by [[David Hine]] and [[Kyle Higgins]] for publisher [[DC Comics]].  A [[comic book]] [[superhero]], Nightrunner first appeared in ''[[Detective Comics|Detective Comics Annual]]'' #12 (February 2011).  Nightrunner is a 22 year-old [[Algeria]]n [[Sunni Islam|Sunni Muslim]] French citizen that lives in [[Clichy-sous-Bois]] in the eastern suburbs of [[Paris]], [[France]].  He was recruited by [[Bruce Wayne]] and [[Dick Grayson]] for [[Batman Incorporated]] as the Batman of Paris, ''Le Batman Of France''.<ref>{{cite web|url=http://www.comicvine.com/nightrunner/29-74514/ |title=Le Batman of France |publisher=Comicvine.com |date= |accessdate=2012-08-05}}</ref>
+
+==Publication history==
+Nightrunner was introduced in a two-part story that spanned from "Detective Comics Annual" #12 to "Batman Annual" #28 in December 2010 (cover-date February 2011), The main story written by David Hine and penciled by Agustin Padilla, and the Back-up origin story written by Kyle Higgins and illustrated by Trevor McCarthy. David Hine created Nightrunner to mirror the current social and political situations unfolding in the French projects of Clichy-sous-Bois,. <ref>{{cite web |url=http://www.comicbookresources.com/?page=article&id=29252 |title=The Batsignal: Daid Hine |publisher=[[Comic Book Resources]] |date=November 5th, 2010}}</ref>
+
+He also appears in a one-issue story arc in "Batman and Robin" #26, where he assists Dick Grayson and Damian Wayne with a breakout of the Black Garden, Paris's version of Arkham Asylum.
+
+==Origin==
+Bilal Asselah ([[Arabic language|Arabic]]: بلال الصلاح), a French-Algerian was raised by his single mother on the outskirts of Paris, France. Though peaceful, on Bilal's 16th birthday, he and his friend Aarif were caught in the middle of a French-Muslim protest, and beaten mercilessly by the police force. After they both healed, Aarif gave Bilal a gift including the music of Leni Urbana, an urban representative of the Muslim people in France, urging Bilal to listen to her words. That night Aarif was killed by police after he set fire to their station. After hearing of his friend's death, Bilal would forever be changed. Though he sympathized with the protesters, he found faults on both sides and decided to take a cue from Batman's origins: becoming a symbol, without racial or religious bias that could make a difference for what's right and just. Already a superior parkour and freerun athlete, he donned the mask of Nightrunner in order to help the people's cause and bring justice to Clichy-sous-Bois.
+
+==References==
+{{Reflist}}
+
+[[Category:Comics characters introduced in 2011]]
+[[Category:DC Comics superheroes]]
+[[Category:Fictional vigilantes]]
+[[Category:Fictional French people]]
+[[Category:Fictional Arab people]]
+
+{{DC-char-stub}}
+
+[[fr:Nightrunner]]

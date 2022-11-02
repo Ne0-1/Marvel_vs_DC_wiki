@@ -1,0 +1,57 @@
+{{otheruses4|Marvel Comics villain|other uses|Egghead (disambiguation)}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=<!-- Deleted image removed: [[Image:egghead.jpg|250px]] -->
+|caption=Egghead<br />Art by [[Jack Kirby]]
+|comic_color=background:#ff8080
+|character_name=Egghead
+|real_name=Elihas Starr
+|publisher=[[Marvel Comics]]
+|debut=''[[Tales to Astonish]]'' #38 (Dec [[1962]])
+|creators=[[Stan Lee]]<br />[[Larry Lieber]]</br>[[Jack Kirby]]
+|alliance_color=background:#c0c0ff
+|alliances=[[Emissaries of Evil]]<br/>[[Masters of Evil]]
+|partners=[[Mad Thinker]]<br/>[[Puppet Master (comics)|Puppet Master]]
+|aliases=Carl Stricker 
+|powers=Genius intelligence
+|}}
+
+'''Egghead''' is a fictional [[Marvel Comics]]' villain who first appeared in ''[[Tales to Astonish]]'' #38. He is also the arch-nemesis of super-hero [[Henry Pym]].
+
+==Fictional character biography==
+'''Elihas Starr''' was born in [[Queens, New York]]. A gifted government research atomic scientist, Starr was dismissed for espionage and resolved to use his intellect as a criminal mastermind. He was dealt a humiliating initial defeat by [[Henry Pym|Ant-Man]] (Hank Pym), whom he was sent to battle on behalf of underworld figures.<ref>''Tales to Astonish'' #38</ref> Egghead divided his remaining years between attempted world conquest and seeking revenge on Pym, often hiding out in the [[Bowery]] section of [[Manhattan]] in between.<ref name="mnyc">{{cite book  | last = Sanderson  | first = Peter  | authorlink =   | coauthors =   | title = The Marvel Comics Guide to New York City  | publisher = [[Pocket Books]]  | date = 2007  | location = New York City  | url =   | doi =   | id =   | isbn = 1-14653-141-6  | page = 18}}</ref>
+
+Egghead allied with the [[Mad Thinker]] and the [[Puppet Master (comics)|Puppet Master]] in a plot to use a laser satellite to blackmail the United States government.<ref>''Avengers'' #63</ref> He caused the death of Barney Barton, brother of [[Hawkeye (comics)|Hawkeye]], who was aiding the [[Avengers (comics)|Avengers]],<ref>''Avengers'' #64</ref> hired the [[Swordsman (comics)#Jacques Duquesne|Swordsman]] to kidnap Henry Pym, and battled Clint Barton who had recently adopted Pym's previous identity of [[Goliath (comics)|Goliath]].<ref>''Avengers'' #65</ref>
+
+Egghead later kidnapped his niece, Trish Starr, in order to test a device which allowed him to steal other people's intelligence, and wound up battling Henry Pym, as Ant-Man again.<ref>''Marvel Feature'' #5</ref> He then formed the [[Emissaries of Evil]] in an attempt to gain possession of the mystic artifact the Eye of Capistan. This team consisted of the [[Rhino (comics)|Rhino]], [[Cobalt Man]], and [[Solarr]]. Egghead and the Emissaries battled the [[Defenders (comics)|Defenders]].<ref>''Defenders'' #42-43</ref> Egghead also fought [[Spider-Man]] on different occasions.
+
+Egghead was obsessed with Hank Pym, and engineered his disgrace.  Pym, who was operating as Yellowjacket at the time, suffered his downfall before the Avengers.<ref>''Avengers'' #217</ref> With Pym apparently out of the way, Egghead then formed the third [[List of Masters of Evil members#Masters of Evil III|Masters of Evil]] as part of a plot against the Avengers.<ref>''Avengers'' #222</ref>
+
+Egghead then sent his Masters of Evil to kidnap Henry Pym from his trial, making it appear as if Pym himself had staged his rescue. The attempt was successful, and Egghead instructed Pym to construct an anti-ageing device. Subsequently, Pym goaded Egghead into letting him test the machine himself. However, the device turned out to be a weapon system which Pym had secretly built, and he single-handedly defeated the assembled Masters of Evil. The Avengers arrived too late to be of assistance, but Hawkeye arrived at the laboratory in time to see the defeated Egghead being about to shoot Hank Pym in the back out of spite with his energy blaster. Hawkeye shot an arrow into Egghead's gun barrel. The gun misfired, causing an accidental explosion of the energy pistol which killed Egghead, ironically and inadvertently avenging the death of Hawkeye's brother by Egghead's hands years ago.<ref>''Avengers'' #228-229</ref>
+
+Also, in ''[[Deadpool (comics)|Deadpool]]'' #0, distributed by Wizard Magazine, Deadpool fought and killed a resurrected Egghead, who then had a small bird pop out of his skull.
+
+==Powers and abilities==
+Although he had no superhuman powers of his own, Egghead's incredible genius intellect made him a formidable foe. He was particularly skilled in the fields of robotics and engineering, and could absorb new ideas and knowledge at a seemingly superhuman rate. He had a degree in atomic science, and extensive knowledge in a wide variety of scientific and technological disciplines.  Starr designed a wide variety of sophisticated weapons and technological paraphernalia. 
+
+==In other media==
+Egghead appeared in ''[[The Avengers: United They Stand]]'' episode titled "Egg-Stream Vengeance." In that episode, he tampered with Hank Pym's "Pym Particles." 
+
+==References==
+{{reflist}}
+
+==External links==
+*http://www.marvunapp.com/Appendix4/eggheadstarr.htm
+*http://www.marveldatabase.com/Egghead_%28Elihas_Starr%29
+*http://www.marvel.com/universe/Egghead
+
+{{Avengers}}
+
+
+[[Category:Fictional characters from New York City]]
+[[Category:Fictional criminals]]
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics supervillains]]
+
+[[fr:Tête d'Œuf]]
+[[fi:Munapää]]
+[[tl:Egghead (komiks)]]

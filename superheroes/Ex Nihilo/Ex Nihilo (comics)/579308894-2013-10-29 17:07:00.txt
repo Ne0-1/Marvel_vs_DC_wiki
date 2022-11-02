@@ -1,0 +1,43 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=|image=
+|caption=
+|comic_color=background:#ff8080
+|character_name= Ex Nihilo
+|real_name= Ex Nihilo
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Avengers (comics)|Avengers]]'' vol. 5, #1 (December 2012)
+|creators=[[Jonathan Hickman]]<br>[[Jerome Opeña]]
+|alliance_color=background:#c0c0ff
+|alliances=Builders, [[Avengers (comics)|Avengers]]
+|aliases=
+|powers=
+|}}
+
+'''Ex Nihilo''' is a fictional character that appears in [[Marvel Comics]].
+
+==Publication history==
+Ex Nihilo was created by [[Jonathan Hickman]] and [[Jerome Opeña]], and first appeared in ''[[Avengers (comics)|Avengers]]'' vol. 5, #1 (December 2012).
+
+==Fictional character biography==
+[[Captain America]] leads the [[Avengers (comics)|Avengers]] to Mars to counter the powerful being called Ex Nihilo, who intended to destroy and remake life in the universe.<ref>{{cite comic| writer= [[Jonathan Hickman|Hickman, Jonathan]]|artist= [[Jerome Opeña|Opeña, Jerome]]|story= Avengers World|title= The Avengers|volume= 5|issue= 1|date= February 2013}}</ref><ref>{{cite comic| writer= Hickman, Jonathan|artist= Opeña, Jerome|story= We Were Avengers|title= The Avengers|volume= 5|issue= 2|date= February 2013}}</ref><ref>{{cite comic| writer= Hickman, Jonathan|artist= Opeña, Jerome|story= The Garden|title= The Avengers|volume= 5|issue= 3|date= March 2013}}</ref>
+
+Ex Nihilo creates [[Nightmask]], a dark-skinned, artificial human, on the [[terraforming|terraformed]] surface of the planet Mars.<ref>''Avengers'' (vol. 5) #1</ref> After a fierce battle with the Avengers, Nightmask is taken to Earth and given residence in [[Avengers Tower]].<ref>''Avengers'' Vol. 5 #3</ref>
+
+Nightmask and [[Star Brand]] later head to Mars to confront Ex Nihilo.<ref>''Avengers'' Vol 5. #8</ref>
+
+[[Omega Flight]] is sent in by Department H to investigate one of the Origin Bomb sites left by Ex Nihilo in Regina, Canada. Validator is changed by the Origin Bomb site while the rest of the Omega Flight members are killed in action.<ref>''Avengers'' Vol. 5, #10 (June 2013)</ref>
+
+Some children of the Zebra People have gotten exposed to the Origin Site placed by Ex Nihilo and had been evolved by it.<ref>''Avengers'' Vol. 5 #12</ref>
+
+In a prelude to the  ''[[Infinity (comic book)|Infinity]]'' storyline, Ex Nihilo, [[Abyss (Builders)|Abyss]], Nightmask, and Star Brand join the Avengers.<ref>''Avengers'' Vol. 5 #17</ref>
+
+==Powers and abilities==
+Ex Nihilo has the power to create new life and modify existing life forms on a planetary scale.
+
+==References==
+{{reflist}}
+
+[[Category:Marvel Comics characters]]
+
+{{Marvel-char-stub}}

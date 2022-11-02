@@ -1,0 +1,87 @@
+{{Infobox comics set index <!--Wikipedia:WikiProject Comics-->
+<!-- |code_name  = Ant-Man -->
+|image      = 
+|imagesize  = <!-- default 250 -->
+|caption    =
+|publisher  = [[Marvel Comics]]
+|debut      = ''[[Tales to Astonish]]'' #27 <!-- The Ant-Man ID appeared in Pym's 2nd appearance -->
+|debutmo    = January 
+|debutyr    = 1962
+|debutyr1   = <!-- Lang appeared prior to taking up the Ant-Man ID -->
+|debutyr2   = 2006
+|writer1    = [[Stan Lee]]
+|writer2    = [[Jack Kirby]]
+|characters = [[Henry Pym]]<br />[[Ant-Man (Scott Lang)|Scott Lang]]<br />[[Ant-Man (Eric O'Grady)|Eric O'Grady]]
+|seealso    =
+|cat        = super
+|subcat     = Marvel Comics
+|hero       = y
+|sortkey    = Ant-Man
+}}
+'''Ant-Man''' is the name of several [[fictional character]]s appearing in books published by [[Marvel Comics]]. Ant-Man was originally the superhero persona of [[Henry Pym]], a brilliant scientist who invented a substance that allowed him to change his size. Henry Pym was created by [[Stan Lee]] and [[Jack Kirby]] and first appeared in ''[[Tales to Astonish]]'' #27. However, Henry Pym first appeared as the Ant-Man in ''[[Tales to Astonish]]'' #35.
+
+After Pym retired his Ant-Man identity, successors [[Ant-Man (Scott Lang)|Scott Lang]] and [[Ant-Man (Eric O'Grady)|Eric O'Grady]] have used Pym's technology to take on the role of Ant-Man.
+
+==Fictional character biography==
+Over the years a variety of characters have assumed the title of Ant-Man, most of whom have been connected with the [[Avengers (comics)|Avengers]].
+
+===Henry Pym===
+{{main|Henry Pym}}
+Biophysicist and Security Operations Center expert '''Dr. Henry 'Hank' Pym''' decided to become a superhero after discovering a chemical substance that would allow the user to alter his size. Armed with a helmet that could control ants, Pym would shrink down to the size of an insect to become the mystery-solving Ant-Man.<ref name="IGN Hank Bio">{{cite web | url = http://stars.ign.com/objects/924/924202_biography.html | title = Henry Pym Biography | accessdate = 2011-04-18 | work = IGN}}</ref> He soon shared his discovery with his girlfriend, [[Janet Van Dyne]], who became his crime-fighting partner as the Wasp.<ref name='invasionillumination'> {{cite web | url = http://marvel.com/news/story/3725/secret_invasion_illumination_hank_pym | title = Secret Invasion Illuminationccessdate = 2011-04-18 | date = May 30, 2008 | work = Marvel.com}}</ref> The duo would become founding members of the [[Avengers (comics)|Avengers]], fighting recurring enemies such as the mad scientist [[Egghead (comics)|Egghead]], the mutant [[Whirlwind (comics)|Whirlwind]], and Pym's own robotic creation [[Ultron]].<ref> {{cite web | url = http://marvel.com/news/story/6469/psych_ward_hank_pym | title = Psych Ward: Hank Pym | accessdate = 2011-04-18 | date = December 29, 2008 | work = Marvel.com}}</ref>
+
+While Pym is the original Ant-Man, he has adopted other aliases over the years including [[Giant-Man]], [[Goliath (comics)|Goliath]], [[Yellowjacket (comics)|Yellowjacket]],<ref name='invasionillumination'/> and the Wasp after Janet's death in ''[[Secret Invasion]]''.<ref> {{cite web | url = http://marvel.com/news/story/9634/mighty_avengers_assemble | title = Mighty Avengers: Assemble | accessdate = 2011-04-18 | date = October 7, 2009 | work = Marvel.com}}</ref> Leaving his original persona vacant, his successors have taken up the role of Ant-Man while Pym explored these other identities.
+
+===Scott Lang===
+{{main|Ant-Man (Scott Lang)}}
+'''Scott Lang''' was a thief who first became Ant-Man after stealing Henry Pym's Ant-Man suit to save his daughter Cassie from a heart condition.<ref name="friday 13"/> Reforming from his life of crime, he soon took on a full-time career as Ant-Man with the encouragement of Hank Pym.<ref name="IGN Lang">{{cite web | url = http://stars.ign.com/objects/924/924272_biography.html | title = Ant Man (Scott Lang) Biography | accessdate = 2011-04-18 | work = IGN}}</ref> He became an affiliate of the [[Fantastic Four]],<ref name="take 10">{{cite web | url = http://marvel.com/news/story/13757/take_10_replacement_ff_members | title = Take 10: Replacement FF Members | accessdate = 2011-04-18 | date = August 25, 2010 | work = Marvel.com}}</ref> and most recently became a full-time member of the Avengers. For a period of time he dated [[Jessica Jones]].<ref name='friday 13'>{{cite web | url = http://marvel.com/news/story/1294/marvels_5_unluckiest_heroes_a_friday_the_13th_special_report | title = Marvel's 5 Unluckiest Heroes: A Friday the 13th Special Report | accessdate = 2011-04-18 | date = July 17, 2007 | work = Marvel.com}}</ref> He was later killed by the [[Scarlet Witch]] along with [[Vision (Marvel Comics)|Vision]] and [[Hawkeye (comics)|Hawkeye]] in ''[[Avengers Disassembled]]'',<ref>''Avengers #500'' (Sept. 2004)</ref> but his daughter, Cassie, has taken up his heroic mantle as [[Cassandra Lang|Stature]], in the pages of ''[[Young Avengers]]''. He has returned in 2011 in the pages of the mini series known as The Children's Crusade, but soon loses his daughter when she heroically sacrifices herself to stop a super charged Doctor Doom.
+
+===Eric O'Grady===
+{{main|Ant-Man (Eric O'Grady)}}
+'''Eric O'Grady''' is the third character to take up the title of Ant-Man. Eric O'Grady is a low-level agent of [[S.H.I.E.L.D.]] who stumbled upon the Ant-Man suit in S.H.I.E.L.D.'s headquarters.<ref>''Irredeemable Ant-man'' #1 (Oct. 2006)</ref> A man of few morals and willing to lie, cheat, steal, and manipulate in order to get ahead in life, Eric stole the armor for his own selfish plans, which included using his status as a "super-hero" to seduce women<ref>''Irredeemable Ant-man'' #2 (Nov. 2006)</ref> and humiliate and torment others.<ref>''Irredeemable Ant-man'' #3 (Dec. 2006)</ref> He had his own short-lived title before being being part of other teams, first to being a part of the ''Avengers: The Initiative'' and then ''The Thunderbolts'' and more recently ''Secret Avengers''.
+
+==Film==
+[[Edgar Wright]] plans to direct an [[action film]] for [[Marvel Studios]] with some humorous elements, insisting that ''Ant-Man'' will not be a spoof.<ref>{{cite news | url=http://www.cinescape.com/0/editorial.asp?aff_id=0&this_cat=Movies&action=page&type_id=&cat_id=270338&obj_id=28744 | title=Comic-Con 2006: ''Ant-Man'' Panel | publisher=IGN | date=2006-07-24 | accessdate=2006-07-30 | archiveurl= http://web.archive.org/web/20060809164956/http://www.cinescape.com/0/editorial.asp?aff_id=0&this_cat=Movies&action=page&type_id=&cat_id=270338&obj_id=28744| archivedate= 9 August 2006 <!--DASHBot-->| deadurl= no}}</ref>  The script has been written by Wright and [[Joe Cornish (comedian)|Joe Cornish]], who plan to include [[Henry Pym]] and [[Ant-Man (Scott Lang)|Scott Lang]] as major characters, with Pym as Ant-Man in the 1960s in ''[[Tales to Astonish]]'' style, and a [[flashforward]] to Lang as Ant-Man's successor in modern day.<ref>{{cite news | url=http://superherohype.com/news/featuresnews.php?id=4566 | title= Exclusive: Edgar Wright Talks ''Ant-Man'' | publisher=SuperHeroHype.com | date=2006-07-26 | accessdate=2006-07-30 }}</ref> The film will take place in the [[Marvel Cinematic Universe]].
+
+On February 9, 2007 Wright said that the project was in "a holding pattern" while the script was revised, with casting yet to begin.  The director reported that he would have news about the film in a few months.<ref>{{cite news | author=Steve Head | url=http://movies.ign.com/articles/764/764950p1.html | title=Exclusive: Hot Fuzz Helmer Commences ''Them'' | publisher=IGN | date=2007-02-15 | accessdate=2007-04-06 | archiveurl= http://web.archive.org/web/20070224224033/http://movies.ign.com/articles/764/764950p1.html| archivedate= 24 February 2007 <!--DASHBot-->| deadurl= no}}</ref> He has been researching [[nanotechnology]] for the film.<ref>{{cite news | author= | url=http://www.moviehole.net/interviews/20070314_exclusive_interview_edgar_wrig.html | title=Exclusive Interview : Edgar Wright | publisher=Moviehole.net | date=2007-03-19 | accessdate=2007-04-06 |archiveurl = http://web.archive.org/web/20070317023203/http://www.moviehole.net/interviews/20070314_exclusive_interview_edgar_wrig.html <!-- Bot retrieved archive --> |archivedate = 2007-03-17}}</ref> As of March 2008, Wright told ''[[Empire (magazine)|Empire]]'' magazine that a second draft of the script is being written. Known for being a comedy writer, the director noted that the film would not be overtly comedic, but that it would be "more of a full-on action adventure sci-fi film but with a comedic element."<ref>{{cite news | author=Glen Ferris | url=http://www.empireonline.com/news/story.asp?NID=22141 | title=Exclusive: Edgar Wright Talks Ant Man | publisher=[[Empire (magazine)|Empire]] | date=2008-03-10 | accessdate=2008-03-10 }}</ref>
+
+On February 9, 2010 Stan Lee, the co-creator of Ant-Man, met with Wright for lunch, and Lee soon recounted the meeting on his Twitter feed: "To make up for my previous grievous error, here's a little item that may have escaped you. Marvel is prepping a movie starring-- Ant Man!" Lee continued in a further tweet, "I had lunch with the cool, young director Edgar Wright (''[[Shaun of the Dead]]'') and, as you'd imagine, we had fun discussing the tiny hero."<ref>{{cite web|last=Douglas |first=Edward |url=http://superherohype.com/news/avengersnews.php?id=9061 |title=Is Marvel Moving Forward with Ant-Man? |publisher=Superhero Hype |date=2010-02-09 |accessdate=2010-09-13}}</ref>
+
+On February 11, 2010, Edgar Wright told [[MTV News]], "Because that character isn't one of their biggest properties, it’s not like a tentpole deadline. It’s more like me and Kevin Feige saying, 'Let's make a really good script.' We've always agreed on that — 'Let's make a good script that works, that’s all about a great genre film, and that isn’t necessarily relying on anything else.'"<ref>{{cite web|url=http://splashpage.mtv.com/2010/02/11/exclusive-edgar-wright-explains-his-ant-man-priorities |title=EXCLUSIVE: Edgar Wright Explains His 'Ant-Man' Priorities |publisher=Splashpage.mtv.com |date= |accessdate=2010-09-13| archiveurl= http://web.archive.org/web/20100830090947/http://splashpage.mtv.com/2010/02/11/exclusive-edgar-wright-explains-his-ant-man-priorities| archivedate= 30 August 2010 <!--DASHBot-->| deadurl= no}}</ref>
+
+[[File:Ant-Man film Comic-Con logo 2012.jpg|thumb|right|Ant-Man film logo]]
+
+At the [[San Diego Comic Con]] in 2010, Wright confirmed that his script is an origin story, and that doesn't work for Marvel's chronology to include Ant-Man in ''[[The Avengers (2012 film)|The Avengers]]''.<ref>{{cite web|author= |url=http://www.comicbookmovie.com/fansites/MarvelFreshman/news/?a=20755 |title=Edgar Wright Says Ant-Man Won't Fit With The Avengers |publisher=Comicbookmovie.com |date=2010-07-27 |accessdate=2010-09-13| archiveurl= http://web.archive.org/web/20100830065343/http://www.comicbookmovie.com/fansites/MarvelFreshman/news/?a=20755| archivedate= 30 August 2010 <!--DASHBot-->| deadurl= no}}</ref> Wright stated in January 2011 that he resumed writing the script for the film.<ref>{{cite web|author=by SuperHeroHype |url=http://www.superherohype.com/news/articles/113684-edgar-wright-is-writing-ant-man-again |title=Edgar Wright is Writing Ant-Man Again |publisher=Superhero Hype |date=2011-01-12 |accessdate=2012-10-22}}</ref> During a Q and A at [[SXSW]] for Cornish's movie ''[[Attack the Block]]'', Wright and Cornish stated that they had been recently rewriting the script.<ref>{{cite web|author=GeoiMD |url=http://www.youtube.com/watch?v=0HWzpQMHRsQ |title=Attack the Block Q&A - SxSW - Austin |publisher=YouTube |date=2011-03-12 |accessdate=2012-10-22}}</ref> While attending Kapow-Con in April 2011, Cornish revealed that Wright and he had delivered the second draft to the studio.<ref>{{cite web|last=Mortimer |first=Ben |url=http://www.superherohype.com/news/articles/164831-ant-man-script-update |title=Ant-Man Script Update |publisher=Superhero Hype |date=2011-04-09 |accessdate=2012-10-22}}</ref> Then on July 2011 Edgar Wright and Joe Cornish delivered a third draft and some concept art to Marvel Studios.<ref>{{cite web|url=http://blogdesuperheroes.es/2011/09/28/cine-joe-cornish-espera-que-marvel-le-de-el-visto-bueno-al-guion-de-ant-man.html |title=BdS » [Cine&#93; Joe Cornish espera que Marvel le dé el visto bueno al guión de Ant-Man - Blog de Superhéroes: Cine de Superhéroes, Cine de Cómics, Ciencia de Superhéroes |publisher=Blogdesuperheroes.es |date=2011-01-25 |accessdate=2012-10-22}}</ref> A source says that the film now has been greenlit. <ref>[https://twitter.com/?tw_e=details&tw_p=twt#!/TwitchFilm/statuses/203926704790585344 Twitch status on Twitter]</ref><ref>{{cite web|author=Josh Wilding - 5/19/2012 |url=http://www.comicbookmovie.com/fansites/JoshWildingNewsAndReviews/news/?a=60046 |title=Edgar Wright's ANT-MAN May Have Already Been Given The Green Light |publisher=Comicbookmovie.com |date=2012-05-19 |accessdate=2012-10-22}}</ref>
+
+In May, 2012, a "teaser" image of the movie was presented via Twitter by writer and director Edgar Wright. Feige stated as well that the movie was "as close as it’s ever been".<ref>{{cite web|url=http://spinoff.comicbookresources.com/2012/05/07/edgar-wright-teases-ant-man-with-mysterious-image/ |title=Edgar Wright Teases Ant-Man With Mysterious Image « Spinoff Online – TV, Film, and Entertainment News Daily |publisher=Spinoff.comicbookresources.com |date=2012-05-07 |accessdate=2012-10-22}}</ref>
+
+On June 28, 2012, Wright directed a test reel for the film.<ref>[http://www.hollywoodreporter.com/heat-vision-/ant-man-edgar-wright-343191 ]{{dead link|date=October 2012}}</ref> Rumors also surfaced that Wright will be directing a [[post-credits scene]] for ''[[Iron Man 3]]'' in which Ant-Man confronts [[Radioactive Man (comics)|Chen Lu]].<ref>{{cite web|url=http://screencrush.com/iron-man-3-post-credits-scene/ |title=‘Iron Man 3′ Post-Credits Scene Already Revealed? |publisher=Screencrush.com |date=2012-06-28 |accessdate=2012-10-22}}</ref>
+
+Wright appeared at San Diego Comic-Con on July 14, 2012 to confirm ''Ant-Man'' as his next project and to show his test footage.<ref>[http://www.empireonline.com/news/story.asp?NID=34591/]{{dead link|date=October 2012}}</ref> Simon Pegg announced on his Twitter that Wright will shoot Ant-Man next year.<ref>{{cite web|url=https://twitter.com/simonpegg/status/224389989457330177 |title=Twitter / simonpegg: Okay, so to be absolutely clear |publisher=Twitter.com |date= |accessdate=2012-10-22}}</ref>
+
+On October 15, 2012, Marvel and Disney announced that Edgar Wright's ''Ant-Man'' would hit theaters on November 6, 2015.<ref>{{cite web|title=Marvel's 'Ant-Man' to Hit Theaters on November 6, 2015|url=http://screencrush.com/ant-man-release-date/|publisher=ScreenCrush.com|accessdate=15 October 2012}}</ref>
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+*[http://www.marvel.com/universe/Ant-Man_(disambiguation) Ant-Man (disambiguation)] at the Marvel Universe
+*[[MarvelDatabase:Ant-Man|Ant-Man]] at the Marvel Database Project
+*[http://marvel-movies.wikia.com/wiki/Ant-Man_(film)_rumors Marvel-movies]
+*[http://geektyrant.com/news/2012/5/21/nathan-fillion-does-not-want-to-play-ant-man.html Geektyrant.com]
+*{{IMDb title|id=0478970|title=Ant-Man}}
+*[http://www.toonopedia.com/antman.htm Ant-Man] at [[Don Markstein's Toonopedia]]. [http://www.webcitation.org/66gWlKhua Archived] from the original on April 4, 2012.
+
+{{Henry Pym}}
+
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Fictional characters who can change size]]
+
+[[el:Άνθρωπος Μυρμήγκι]]
+[[es:Hombre Hormiga]]
+[[fr:L'Homme-fourmi]]
+[[it:Ant-Man]]
+[[ja:アントマン]]
+[[pt:Homem-Formiga]]
+[[ru:Человек-муравей]]
+[[sv:Ant-Man]]

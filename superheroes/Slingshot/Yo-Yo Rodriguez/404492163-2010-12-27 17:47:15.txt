@@ -1,0 +1,43 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        =
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[The Mighty Avengers]]'' #13 (July 2008)
+| creators       = [[Brian Michael Bendis]]<br />[[Alex Maleev]]
+| alter_ego      =
+| full_name      =
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = [[Secret Warriors]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = Slingshot
+| powers         =
+| cat            = super
+| subcat         = Marvel Comics
+| hero           = y
+| villain        =
+| sortkey        = Rodriguez, Yo-Yo
+| addcharcat#    =
+}}
+'''Yo-Yo Rodriguez''', also known as '''Slingshot''', is a fictional character in the [[Marvel Universe]].
+
+==Fictional character biography==
+Yo-Yo Rodriguez, is the Puerto-Rican daughter of the [[Griffin (Marvel Comics)|Griffin]]. She was recruited by [[Nick Fury]] to join his anti-[[Skrull]] task force.<ref>''Mighty Avengers'' #13</ref> This team became known as the [[Secret Warriors]].<ref>''Secret Invasion'' #3</ref> As a part of her training for the team, Nick Fury violently interegated her disguised as [[Madame Hydra]], leader of [[Hydra]]. He kept hurting her to see if she would betray her team mates, but she didn't, so she passed the test.{{issue|date=November 2010}} This experience traumatized her greatly.{{issue|date=November 2010}} She helped fight the Skrulls during the [[Secret Invasion]],{{issue|date=November 2010}} and they won with the help of the other heroes and villians.<ref>''Secret invasion'' #8</ref>
+
+At one point she was injured severely, with both of her arms severed by the Gorgon, and was temporarily unable to remain active with the team.<ref>''Secret Warriors'' #3</ref> However, both arms have now been replaced with prosthetics<ref>''Secret Warriors'' #8</ref> and she has returned to active duty.<ref>''Secret Warriors'' #9</ref>
+
+==Powers and abilities==
+She can run at superhuman speed and bounces back to the point where she began running.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{comicbookdb|type=character|id=20475|title=Yo-Yo Rodriguez}}
+* [http://marvel.wikia.com/Yo_Yo_Rodriguez_%28Earth-616%29 Yo-Yo Rodriguez] at the [[Marvel Database Project]]
+
+{{DEFAULTSORT:Rodriguez, Yo-Yo}}
+[[Category:Characters created by Brian Michael Bendis]]
+[[Category:Comics characters introduced in 2008]]

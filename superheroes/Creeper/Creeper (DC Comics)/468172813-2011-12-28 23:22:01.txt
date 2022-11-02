@@ -1,0 +1,147 @@
+{{Refimprove|date=July 2010}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image= Showcase73.jpg
+|imagesize= <!-- numeral only, defaults to 250 -->
+|converted = y
+|caption = ''[[Showcase (comic book)|Showcase]]'' #73 (April 1968), the Creeper's first appearance. Cover art by [[Steve Ditko]].
+|character_name = The Creeper
+|real_name = Jack Ryder
+|publisher=[[DC Comics]]
+|debut = ''[[Showcase (comic book)|Showcase]]'' #73 (April 1968)
+|creators = [[Steve Ditko]] (writer & artist)
+|Base of operations = 
+|species   = [[Demon|Half-Demon]]
+|homeworld = [[Earth]] - [[Hell (DC Comics)|Hell]]
+|alliances = [[Outsiders (comics)|Outsiders]]<br/>[[Justice League]]<br/>[[Shadow Fighters]]
+|partners  = <!-- optional -->
+|supports  = <!-- optional -->
+|aliases   =  <!-- optional: actual identities the character uses, not nicknames -->
+|powers = Abnormal strength, agility and resilience
+|cat = super
+|subcat = DC Comics
+|hero = y
+|villain = 
+|sortkey = Creeper (comics)
+}}
+
+'''The Creeper''' ('''Jack Ryder''') is a [[fiction]]al  [[comic book]] [[superhero]] in the [[DC Comics]] universe.  Created by [[Steve Ditko]], he [[first appearance|first appeared]] in ''[[Showcase (comic book)|Showcase]]'' #73 (March 1968).<ref name="dc-ency">{{Citation | last = Beatty | first = Scott | author-link = Scott Beatty | contribution = The Creeper | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 89  | publisher = [[Dorling Kindersley]]  | place = New York  | year = 2008 | isbn = 0-7566-4119-5 | oclc = 213309017}}</ref><ref>{{cite book|last=McAvennie|first= Michael|last2=Dolan|first2=Hannah, ed.|chapter= 1960s|title = DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]] |year=2010 |isbn= 978-0-7566-6742-9 |page= 129 |quote = Writer/artist Steve Ditko and co-scripter Don Segall gave [character Jack Ryder] more than the last laugh as the garishly garbed Creeper, one of DC's quirkiest protagonists.}}</ref>
+
+
+
+==Publication history==
+Following his debut in ''Showcase'', the Creeper was given his own series ''[[Beware the Creeper]]'', written by [[Dennis O'Neil]]; Steve Ditko plotted the first issue.  It lasted six issues. Most pitted him against a chameleonic villain called Proteus, whose true identity was revealed just before his violent death in the final issue. The character's reappearance in ''[[Super-Team Family]]'' #2 in 1975/76 is unexplained, and his briefly described origin does not match the one given initially.{{citation needed|date=November 2010}}  Shortly after his last solo issue, the Creeper teamed with [[Batman]] in ''[[The Brave and the Bold]]'' #80 (Nov. 1968), then guested in ''[[Justice League|Justice League of America]]'' #70 (March 1969), where it was asked whether the Creeper was an outlaw. He also appeared with Batman in ''[[Detective Comics]]'' #418 (Dec. 1971).  After the origin was reprinted in ''Detective Comics'' #443 (Nov. 1974), one of the "[[DC 100 Page Super Spectacular]]" series, Ryder was shown working as a news anchor on Gotham City television in issue #445 (March 1975), and in #447-448 (May–June 1975) became the Creeper again to help Batman escape a frame-up for murder.
+
+DC kept the character active with sporadic solo runs and guest shots over the next few years. He turned up almost immediately in issue #3 (Oct. 1975) of the [[Joker (comics)|Joker's]] short-lived, self-titled series, in a story written by O'Neil, where the similarity in green hair and maniacal laugh caused confusion. This was followed with a one-off solo story in ''[[1st Issue Special]]'' #7 (Oct. 1975), [[penciler|penciled]] by creator [[Steve Ditko]]. Other appearances in this period included team-ups with [[Wildcat (comics)#Earth-One|Wildcat]] in ''[[Super-Team Family]]'' #2 (Jan. 1976), again written by O'Neil; with [[Batman]] in ''[[The Brave and the Bold]]'' #143 (Oct. 1978) and #178 (Sept. 1981); and with many fellow alumni (and a few non-graduates) of ''[[Showcase (comics)|Showcase]]'' in that comic's 100th issue (May 1978). A story intended for the never-published ''Showcase'' #106 in 1978 (written and drawn by Ditko and which would be included in ''[[Cancelled Comic Cavalcade]]'' #2) was included in ''The Creeper by Steve Ditko'' hardcover collection published by DC in 2010.<ref>{{cite book |last1= Ditko|first1= Steve|authorlink1= Steve Ditko |editor1-first= |editor1-last= |editor1-link= |title= The Creeper by Steve Ditko |url= |archiveurl= |archivedate= |volume= |year= 2010 |publisher= [[DC Comics]] |isbn= 1401225918 |pages=  |quote= }}  </ref> Among further solos were backup series in ''[[Adventure Comics]]'' #445-447 (1976), ''[[World's Finest Comics]]'' #249-55 (1978–1979, written and fully drawn by Ditko), and ''[[The Flash (comic book)|The Flash]]'' #318-323 (1983).
+
+Beginning in a team-up with [[Superman]] in ''[[DC Comics Presents]]'' #88 (Dec. 1985), written by [[Steve Englehart]]) during the 
+"[[Crisis on Infinite Earths]]" company-wide story arc, the Creeper's depiction changed under different writers, which included a revised origin that was referenced but never wholly revealed.  His deranged behavior, initially an act to frighten criminals, transformed into genuine, narcotics-induced psychotic behavior. In addition, Ryder could access his enhanced physical abilities only in his costumed form, and could no longer control his transformations. The new version came into focus when the Creeper teamed with the [[Justice League International]] in 1987. A decade later, DC gave the Creeper another chance in a solo comic, ''The Creeper''.  It lasted 12 issues ((Dec. 1997 - Nov. 1998, including the "[[DC One Million]]" special numbering.<ref>[http://www.comics.org/series/5733/ ''Creeper, The'' (DC 1997 series)] at the [[Grand Comics Database]]</ref>  Writer [[Len Kaminski]] focused on the breakdown of Ryder's sanity under the influence of the Creeper and made many references to previous continuity.
+
+The Creeper starred in a six-issue miniseries, ''The Creeper'' vol. 2 (Oct. 2006 - March 2007), written by [[Steve Niles]] and drawn by [[Justiniano]].<ref>[http://www.comics.org/series/19429/ ''Creeper, The'' (DC 2006 series)] at the Grand Comics Database</ref>
+
+==Fictional character biography==
+'''Jack Ryder''' is a former [[Gotham City]] [[television]] [[talk show host]] fired due to his outspoken nature.  Finding employment in network security, he attempts to rescue a scientist named Dr. Yatz whom mobsters have kidnapped in order to obtain his newest discoveries.  The chief mobster hosts a masquerade party at his mansion.  To gain entry, Ryder improvises a costume from yellow tights and facial make-up designed to look like skin, a green wig and trunks, and red gloves, boots, and furry cloak.  Ryder locates Yatz inside, but the mobsters detect him and open fire, wounding Ryder.  Yatz injects Ryder with a serum and implants a device in his wound.  The serum confers the power to almost instantly heal any wound and grants Ryder enhanced strength and agility.  The device, used with its activator, causes the costume to disappear, leaving Ryder naked.  Yatz inadvertently leaves the activator out of the wound, but does not realize this until after the tissues had healed.  At this point, the mobsters find their victims again, this time killing Yatz.  Ryder discovers that with the activator, he can regain the wild costume whenever he wishes.  With it, a crazy laugh and his enhanced physical abilities, he has no trouble routing the crooks.<ref name="dc-ency"/>
+
+The eventual revision of The Creeper's origin eliminated the serum and claims that the scientist surgically implanted two devices (some accounts claim a single device with two effects) that enhance Ryder's physical abilities and can recreate an object whose "imprint" is stored in its circuitry.  The scientist performs this surgery to save Ryder's life after criminals he was investigating attacked and drugged him.  Because the scientist is unaware of the drugs in Ryder's system he inadvertently recorded their "imprint" at the same time he recorded the "imprint" of the costume. Thus the device that recreates Ryder's costume when he becomes The Creeper also recreates the drugs in his system, explaining the Creeper's odd personality. These drugs so overwhelm Ryder's system that their effect becomes cumulative and the Creeper gradually becomes more irrational. When the Creeper changes back to Jack Ryder, the drugs disappear and with them, the psychosis. Eventually, Ryder comes to believe that he and the Creeper are two entirely different people instead of two roles played by the same man; he also holds this belief in his Creeper persona, which becomes increasingly disdainful of "Jack Ryder."  The Creeper once regained his rationality while bound by [[Wonder Woman]]'s magic lasso, but the implications of this have never been explored. In Outsiders Bruce Wayne The Road Home it is revealed that he once dated [[Vicki Vale]].
+
+===Fighting Eclipso===
+The Creeper appeared in the ''[[Eclipso: The Darkness Within]]'' annuals in 1992, tricked into taking up one of [[Eclipso]]'s dark crystals, putting him under Eclipso's control.  He is later freed by Bruce Gordon, a longtime adversary of Eclipso. In the self-titled Eclipso comic book series, the Creeper, Gordon and his wife Mona make an initial foray into the South American territory that Eclipso has conquered.  This leads to an Eclipso-possessed peasant throwing the Creeper (and himself) off a cliff.  The peasant is mentally abandoned and both are left to plunge to their deaths.  The intervention of a stunt squad saves the lives of both men. Several other heroes join in the fight against Eclipso, including [[Major Victory (DC Comics)|Major Victory]], the original [[Commander Steel|Steel]], [[Amanda Waller]], and [[Wildcat (Yolanda Montez)|Wildcat]].  They form a team called the [[Shadow Fighters]].  In issue #13 of ''Eclipso'', a portion of the Fighters, including the Creeper, make another trip into Eclipso's territory.  Several hyenas, possessed by Eclipso, track down the Creeper and tear him to shreds.  Most of the infiltration team is slain; only small parts of the Creeper are actually recovered.  The remains, along with the other dead heroes, are stolen out from under Eclipso's control by surviving Shadow Fighters.
+
+Despite this death, a Creeper series was launched in 1997. There are indications in this comic that the Dr. Yatz origin as detailed in previous appearances is somehow false and that the Creeper's actual origins are in some way related to his longtime villain, Proteus.  Before this was fully explored, however, the series ceased publication.
+
+===Rebooted origin===
+In 2006, the Creeper's origin was retconned again.  Jack Ryder is now the host of a controversial TV show, ''You Are Wrong!'', promising $1,000,000 to the person who catches the Creeper.  He also deliberately antagonizes his guests to raise attention to such themes as [[stem cell]] therapy and medical [[nanotechnology]].  Ryder seeks a scoop on the revolutionary "nanocell" therapy of Doctor Vincent Yatz, a mixture of nanotech and stem cell therapy able to enhance the body's regeneration to the point of giving new skin to a badly scarred burn victim.  Ryder is caught attempting to steal Yatz's newly-discovered technology.  Unable to escape, Yatz injects the last sample of nanocells, still unstable, into Ryder's body in an attempt to keep the sample safe from the villains.  When the villains shoot Ryder in his head, the regenerative substance interacts with his body chemistry, resurrecting him as the Creeper.  Ryder dispatches his opponents, discovering that he is now able to call forth his bestial alter-ego at will.
+
+The origin story for this version of Jack Ryder appears in the ''Brave New World'' one shot, published following the events of ''[[Infinite Crisis]]''.  The story actually takes place in Batman's early years.  Both Batman and the Joker make appearances in the issues.  Jack discovers evidence that a U.S. Senator is set to be assassinated.  Unfortunately, it is not concrete enough to take to either the police or the air.  Jack agonizes over the situation, ultimately making his way to a rally held by the Senator and, as the Creeper, literally takes a bullet for him.  The Creeper manipulates a security guard, forcing the man to fire upon the gunman, who is slain. Later on his show, Ryder then offers the money for the capture of the Creeper.
+
+===Countdown===
+In ''[[Countdown to Final Crisis#Secondary titles|Countdown to Mystery]]'' #2, Jack Ryder is approached by [[Eclipso]], who hopes to seduce him, as she did [[Plastic Man]].  She succeeds, but the Creeper is later freed from the corruption by Bruce Gordon. In ''[[Green Lantern]]'' #24 (2007), the Creeper is seen, along with other heroes, fighting members of the [[Sinestro Corps]] in the streets of [[New York]].
+
+===Reign in Hell===
+During the ''Reign in Hell'' miniseries Jack Ryder is separated from his demonic Creeper half when it is recalled to [[Hell (DC Comics)|Hell]] by [[Lilith]], the mother of all earthborn atrocities. It is later revealed that the Creeper demon is just one of a similar looking species of demon.
+
+===Outsiders===
+{{Main|Outsiders (comics)}}
+The Creeper  has joined the Outsiders <ref>''The Outsiders'' #15 (April 2009)</ref> Later, the Creeper is one of the many heroes recruited to keep the villain [[Hush (comics)|Hush]] from exploiting his resemblance to Bruce Wayne. The Creeper is disguised as a high-level employee of WayneCorp, an excuse for him to accompany 'Wayne'.<ref>Batman Streets of Gotham #4 (November 2009)</ref>
+
+==Powers and abilities==
+===Original===
+The Creeper's powers are physical in nature and a result of Yatz's inventions. He displays virtually superhuman agility and stamina, combined with strength. This enables him to perform amazing feats of acrobatics and leaping. He also seems to be able to climb sheer walls with little or no difficulty. His strength is enough to enable him to throw grown men several feet or jump several feet in the air. His speed and reflexes have also been enhanced greatly. These combined abilities make The Creeper a formidable fighter, incorporating brawling techniques with his physical prowess. A signature move of his is jumping onto the backs of his opponents and throwing them off balance. The Creeper also possesses a superhuman healing factor, which enables him to heal from virtually any wound. Indeed, gunshots and stab wounds have healed in a matter of minutes. It even allowed him to return from death when his body regenerated after being torn apart by Eclipsed hyenas. Also, his laugh is depicted as being physically painful to the ears of his victims, causing a psychotic comatose state.
+
+===Current===
+According to the ''Reign in Hell'' miniseries The Creeper form of Jack Ryder is actually a member of a unique demonic species who all share similar physical characteristics.
+
+==Other versions==
+===Beware the Creeper===
+The Creeper found a new guise in the early 20th century when the [[Beware the Creeper]] series (written by [[Jason Hall (writer)|Jason Hall]] and illustrated by [[Cliff Chiang]]) was released under the [[Vertigo Comics|Vertigo]] brand.  Set in 1920s [[Paris]], and featuring a female Creeper, it was somewhat different from its predecessor.  However, appearances by characters such as [[Zatara]] and [[The Shade]] suggests that the miniseries may take place in the [[DC Universe]], and the female Creeper may be regarded as a 1920s predecessor of Jack Ryder.
+
+===The Dark Knight Strikes Again===
+The Creeper also makes a cameo appearance in ''[[Batman: The Dark Knight Strikes Again]]'' wherein he has already been struck fatally when we see him. He is impaled by [[Dick Grayson|"Joker Boy"]] as part of a revenge scheme against Batman.
+
+===JLA: The Nail===
+In ''[[JLA: The Nail]]'', where the public has been convinced that metahumans are alien invaders thanks to a smear campaign masterminded by [[Lex Luthor]] and a part-Kryptonian [[Jimmy Olsen]], the Creeper is imprisoned by Cadmus Labs, [[Lois Lane]] noting that she once saw him save a family from a psychotic gunman.
+
+===Kingdom Come===
+In ''[[Kingdom Come (comics)|Kingdom Come]]'' by [[Mark Waid]] and [[Alex Ross]], The Creeper appears as an elderly metahuman who works for [[Batman]]'s [[Outsiders (comics)|rogue faction of metahumans.]]
+
+===DC One Million===
+In the ''[[DC One Million]]'' crossover the year is 85,271.  On the planet IAI, an entity known as RYDR senses a disturbance that may unravel all that is and transforms into its other, the sum total of collective unreason, shamanic avatar and raw distillate of madness known as The Creeper. The trail leads to present day Jack Ryder, who was tired of being a superhero. Jack and The Creeper became separate parts of each other, actual living beings. After The Creeper side kept splitting into bizarre and dangerous alternate Creepers each representing a different part of The Creeper's personality, Jack realized that whether he liked it or not, the Creeper was a part of him.  The future Creeper ingested all the alternate Creepers, but realizing the truth of the event, he returned them to the original Creeper and told him and Jack Ryder to remerge, and The Creeper was reborn. The future Creeper returns to IAI with the last remaining alternate Creeper, the one representing self-loathing, which he disposes of before transforming back into RYDR to catalogue the event.
+
+===Astro City===
+The Bouncing Beatnik in [[Kurt Busiek]]'s ''[[Astro City]]'' series is partly based on The Creeper.{{Citation needed|date=December 2007}}
+
+===Tangent Comics===
+In the ''[[Tangent Comics|Tangent]]: Superman's Reign'' series, the Earth-9 version of The Creeper is shown to be a demonic creature who feeds on captured souls.
+
+===Amalgam Comics===
+[[Nightcreeper]] (Kurt "Jack" Ryder) of [[Amalgam Comics]] combines DC's Creeper with [[Marvel Comics]]' [[Nightcrawler (comics)|Nightcrawler]].
+
+===Flashpoint===
+In the alternate timeline of the ''[[Flashpoint (comics)|Flashpoint]]'' event, Jack Ryder is in [[news broadcasting]]. He sends a message that [[Wonder Woman]] leads the [[Amazons (DC Comics)|Amazons]] in conquering the [[United Kingdom]], renaming it New [[Themyscira]] during the war.<ref>''Flashpoint: Wonder Woman and the Furies'' #2 (July 2011)</ref>
+
+==In other media==
+===Television===
+* The Creeper had been considered for use in the fourth season of ''[[Batman: The Animated Series]]''. Designs were made by [[Bruce Timm]] then shelved when it was decided that a single episode could not contain both his origin and a plot involving Batman.<ref>Joe Desris, "The Creeper" (sidebar to ''Batman: TAS'' episode guide), ''[[Cinefantastique]]'' Vol. 24, #6/Vol. 25, #1, February 1994 (special double issue), no publisher given, p. 103.</ref>
+* Jack Ryder appeared several times in ''[[The New Batman Adventures]]'' voiced by [[Jeff Bennett]]. A few brief appearances as a news reporter led up to his starring role in the episode "Beware The Creeper". The animated Creeper had a completely new origin that was more closely tied to the series' continuity: Jack Ryder, [[news anchor|anchoring]] a live TV special on the career of the [[Joker (comics)|Joker]] from the very factory where the Joker had his life-changing encounter with a vat of chemicals, is interrupted by the Clown Prince of Crime himself who doesn't appreciate the attention. The Joker doses Ryder with his trademark lethal laughing gas and then, to distract the newly arrived [[Batman]] and [[Robin (comics)|Robin]], pushes him into the same vat of chemicals. The gas and the chemicals react strangely as Ryder survives, but is transformed into an extraordinarily strong and agile maniac with lemon-yellow skin, green hair, and a rictus grin, who helps Batman and Robin apprehend the Joker and his gang, both in revenge for what Joker did, and also because he develops an intense attraction to [[Harley Quinn]]. Although his mania is benign, his methods are so extremely wild and frantic that even the Joker begs to be arrested to escape them, crying, about the Creeper: "He's a lunatic!". Unlike his comics counterpart, this version of the Creeper cannot change back to normal, either at will or uncontrollably, and also demonstrates an enhanced sense of smell. At the end of the episode, Ryder is returned to his normal self by a treatment devised by Batman that counteracts the chemicals, in the form of a skin patch; it is suggested that the treatment is only temporary, and that if Ryder takes the patch off, he will soon become the Creeper again. In the final seconds, he stares at the patch, saying "A little piece of cotton — hard to believe." The view then changes to outside his apartment with a silhouette of him at the window. There is the sound of paper being torn, followed by the silhouette of Ryder laughing in the manner of the Creeper — the obvious implication being that Ryder was at least willing to return to the form of the Creeper at some point.The DCU animated version of creeper is based on characteristics of the  main character of the animated series [[freakazoid]].
+* The Creeper has made cameos in ''[[Justice League Unlimited]]''. The series has a [[Justice League]] with about sixty members, including the Creeper. In "Panic in the Sky," he is shown battling the [[wikia:DCAnimated:Ultimen|Ultimen]] clones (savagely headbutting a Juice clone and throwing a Wind Dragon clone into a Shifter clone). The Creeper made yet another cameo in the final episode "Destroyer" fighting alongside other Ditko creations against [[Darkseid]]'s [[Parademon]]s. In the series' "curtain call", he is shown with fellow Ditko creations [[Hawk and Dove]], the [[Question (comics)|Question]], and [[Captain Atom]].
+* Creeper appears in ''[[Batman: The Brave and the Bold]]'' voiced by [[Brian Bloom]]. In "Shadow of the Bat," [[Booster Gold]] stating that he had to cancel an appearance on Jack Ryder's talk show due to an emergency meeting of the [[Justice League International]]. The Creeper later appears in "Time Out for Vengeance" where he helps Batman fight [[Hellgrammite (comics)|Hellgrammite]].
+
+===Video games===
+* Jack Ryder can be heard reporting about the Arkham breakout in the video game ''[[Batman: Arkham Asylum]]'' (a banner beneath the headline reads "The Jack Ryder Show") portrayed by [[James Horan (actor)|James Horan]].<ref>http://www.imdb.com/title/tt1282022/fullcredits#cast</ref> In the same game, he is also an unlockable bio when the player scans a radio broadcasting Ryder's show. Ryder's bio mentions that he is also the Creeper in the Arkham-Verse.
+* James Horan reprises his role as Jack Ryder and plays a bigger role in the sequel ''[[Batman: Arkham City]]''. <ref>http://www.gamesradar.com/f/must-watch-batman-arkham-city-video-has-12-minutes-of-gameplay-to-drool-over/a-2011070112275546007</ref> After the game begins, one of the early missions features Batman rescuing Ryder from the Riddler's forces in Arkham City, Ryder revealing that he woke up in Arkham City after he began to investigate Hugo Strange's actions and motivations in creating Arkham City. He reveals information about Strange to Batman after he is saved. He is also on [[Deadshot]]'s hit list, and Batman must save him before he is killed. His Creeper persona is also breifly mentioned by [[Vicki Vale]].
+* Jack Ryder appears in ''[[DC Universe Online]]'' voiced by [[Leif Anders]]. His voice is in TV/Radio segments called "You Are Wrong" found throughout Gotham & Metropolis. When found, Ryder proceeds to tell the truth about certain characters and plots (such as outing Lex Luthor as a member of the Secret Society of Super Villains) presumably using his alter-ego Creeper to gather this information.
+
+===Toys===
+* [[Hasbro]] released an action figure of ''[[The New Batman Adventures]]'' version of the character in the late 1990s.
+* [[Mattel]] released an action figure of the comic book version in its [[DC Universe Classics]] line in January 2011.
+* [[Mattel]] released an action figure of the [[Justice League Unlimited]] version in its [[DC Universe: Justice League Unlimited Fan Collection]] line in November 2011.
+
+===Miscellaneous===
+* Creeper has appeared in a ''[[Justice League Unlimited]]'' comic book. Batman (having to investigate some people who are even crazier than his usual rogues gallery) enlists The Creeper to figure out the plan (it turns out to be using a thermonuclear device to assassinate a single traitor).
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.dcuguide.com/chronology.php?name=creeper2 DCU Guide: The Creeper Chronology]
+* [http://www.toonopedia.com/creeper.htm The Creeper] at [[Don Markstein's Toonopedia]]
+* [http://darkmark6.tripod.com/creeperind.html The Creeper Index]
+* Ring, Robert. [http://scifiblock.com/comics/the-creeper.htm ''The Creeper by Steve Ditko''] (review of [[trade paperback]] collection), ''The Sci-Fi Block'', April 1, 2010
+
+{{DEFAULTSORT:Creeper}}
+[[Category:DC Comics titles]]
+[[Category:Fictional reporters]]
+[[Category:DC Comics characters with accelerated healing]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics superheroes]]
+[[Category:DC Comics supervillains]]
+[[Category:Comics characters introduced in 1968]]
+[[Category:Comics by Steve Ditko]]
+[[Category:Characters created by Steve Ditko]]
+
+[[bg:Пълзящия]]
+[[de:Creeper]]
+[[es:Creeper]]
+[[fr:Creeper (comics)]]
+[[it:Creeper]]
+[[pt:Rastejante (DC Comics)]]

@@ -1,0 +1,29 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:H_04302005_0011.jpg||150px]]
+|caption= Art By Sandy Plunkett
+|comic_color=background:#ff8080
+|character_name=Jarella
+|real_name=
+|publisher=[[Marvel Comics]]
+|debut=Incredible Hulk #140
+|creators=
+|alliance_color=background:#c0c0ff
+|status=deceased
+|alliances=[[Hulk (comics)|Hulk]]
+|previous_alliances=
+|aliases=Warrior Queen
+|relatives=
+|powers=
+|}}
+
+'''Jarella''' was one of the [[Hulk (comics)|Hulk]]'s girlfriends whom he almost married. She is the queen of the planet K'ai. Sorcerers of her court conduct a chant so that Bruce Banner can be in control of the Hulk body and he agrees to marry Jarella. 
+[[image:Ff534jarella.jpg|left|thumb|200px|Art by [[Mike McKone]]]]
+Jarella dies when trying to save a boy from being crushed under a falling building. The Hulk takes Jarella's body to the Gamma Base, but the doctors are unable to revive her.
+
+[[Category:Fictional queens]]
+[[Category:Hulk supporting characters]]
+[[Category:1971 introductions]]
+
+[[fi:Jarella]]
+
+{{Marvel-Comics-stub}}

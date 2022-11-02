@@ -1,0 +1,50 @@
+:''For the DC Comics character, see [[Everyman (DC Comics)]]''.
+{{In-universe
+| subject = a [[Wikipedia:WikiProject Comics|comics]]
+| described_object = a '''character'''
+| category = }}
+
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Everyman
+|real_name=Larry Ekler
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Captain America]] #267'' (Mar 1982)
+|creators=[[J. M. DeMatteis]] and [[Mike Zeck]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Schutz Heiligruppe]]
+|previous_alliances=
+|aliases=Zeitgeist
+|relatives=
+|powers=
+|}} 
+
+'''Everyman''' ('''Larry Ekler''') is a fictional character in the [[Marvel Universe]].  He first appeared in ''[[Captain America]] #267'' (Mar 1982) and was created by [[J. M. DeMatteis]] and [[Mike Zeck]]
+
+==Fictional character biography==
+The Everyman was a self-styled "defender of the people" out to avenge his father's death on all of society.  He is armed with a sword which can emit a lethal electrical shock.
+
+Larry Ekler was the son of Milton Ekler, a hard-working lower-class man who never gave up on the American dream, though he eventually died penniless. Larry decided that the American dream was a sham, and intended to take up the cause of the common man, and start a revolution. To really start things going, he and his followers became determined to assassinate [[Captain America]] in public.  The Everyman challenged Captain America to a duel to the death at the [[Statue of Liberty]]. When he began to lose in the duel, he took one of his own followers hostage, but that did not prevent Captain America from defeating him and taking him into custody.<ref>''Captain America'' #267</ref>
+
+When [[Mister Fantastic|Reed Richards]], who had been a longtime friend of Milton Ekler, learned of Larry's madness and decided to take responsibility for him.  The hospital Larry was incarcerated in was actually run by [[Doctor Faustus (comics)|Doctor Faustus]], who manipulated Ekler in a plot to destroy Reed Richards.  Faustus sent Ekler with a device to drain Richards' psychic energy, intelligence, and self-confidence.  Richards met with Ekler, but was unprepared for the brutal assault and was stunned, the ray leaving him with only a normal intelligence level.  [[Spider-Man]] was able to help Richards track down Ekler, but Ekler escaped when he realised that his use of a machine designed by Faustus to enhance his strength was draining the people around him. After his departure, Spider-Man was able to help Richards develop a machine that would restore his intellect to what it had been before. <ref>''[[Marvel Team-Up]]'' #132</ref>
+
+Faustus used his ties within the [[Secret Empire]] to furnish Ekler with a new secret identity: '''Zeitgeist'''.  As Zeitgeist, he took up membership in the German superhero group, [[Schutz Heiligruppe]], and was able to keep his past secret from the other members.  He even helped the group battle Faustus' allies, the [[Red Skull]] and [[Arnim Zola]].  They also fought and defeated the [[Skeleton Crew (comics)|Skeleton Crew]].<ref>''Captain America'' #387, 388, 390, 393</ref>
+
+Despite his new heroic persona, Ekler's mission was to assassinate superhumans, starting in South America.  His victims included [[Captain Forsa]], [[Defensor (comics)|Defensor]], [[La Bandera]], the first [[Machete (comics)|Machete]], [[El Condor (comics)|El Condor]], [[Ojo Macabra]] and [[Zona Rosa (comics)|Zona Rosa]]. Eventually, Zeitgeist's own team was called in to investigate the various murders. While fellow member of the Schutz Heiligruppe [[Blitzkrieg (Marvel Comics)|Blitzkrieg]] was investigating, Zeitgeist killed him using the foil he once used as Everyman.<ref>''[[Alpha Flight]]'' #78, ''Captain America'' #442</ref>
+
+Zeitgeist attempted to convince [[Hauptmann Deutschland|Vormund]], the leader of the Schutz Heiligruppe, that the [[Scourge of the Underworld]] was responsible for the murders. He tried to kill his original foe, Captain America, though Captain America easily defeated him.  As Ekler tried to escape, he encountered Vormund. The two fought, and Vormund used his ability to redirect kinetic energy to impale Zeitgeist on his own sword.<ref>''Captain America'' #442</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*http://www.marvunapp.com/Appendix/everymangeist.htm
+*http://www.marveldatabase.com/Larry_Ekler
+
+[[Category:Comics articles that need to differentiate between fact and fiction]]
+[[Category:Fictional serial killers]]
+[[Category:Marvel Comics supervillains]]

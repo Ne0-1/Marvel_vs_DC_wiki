@@ -1,0 +1,27 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Black Jack Tarr
+|real_name=Jack Tarr
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''Marvel Special Edition'' #15 (Dec 1973)
+|creators=[[Steve Englehart]] and [[Jim Starlin]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Freelance Restorations]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''"Black" Jack Tarr''' is a fictional character in the Marvel Universe.  Jack Tarr is Sir [[Denis Nayland Smith]]'s aide-de-camp, and is a powerful giant of a man with a gruff manner. 
+
+Tarr served with distinction in the Biritish army, and accepted a position with the [[British Foreign Service]] after his discharge from the military.  Sometime later, he became an agent for the British intelligence agency, [[MI-6]].  Eventually, he was assigned to the command of Sir Denis Nayland Smith of [[Scotland Yard]].
+
+While serving with Smith, Tarr came into contact with [[Shang-Chi]] and the small band of adventurers fighting a covert war against the criminal mastermind Dr. [[Fu Manchu]].  When Fu Manchu was finally defeated, this group elected to remain together as private adventurers under the name [[Freelance Restorations]], and Tarr eventually became the leader of Freelance Restorations when Smith retired.
+
+
+{{Marvel-comics-stub}}

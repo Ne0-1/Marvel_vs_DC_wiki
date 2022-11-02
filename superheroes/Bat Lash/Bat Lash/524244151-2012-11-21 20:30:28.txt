@@ -1,0 +1,117 @@
+{{About|the comic book character|the musician|Bat for Lashes}}
+{{Infobox comics character and title
+<!--Wikipedia:WikiProject Comics-->
+| image = BatLash3.jpg
+| caption = Cover to ''Bat Lash'' #3 (Feb./Mar. 1969)<br/> Art by [[Nick Cardy]].
+| character_name = Bat Lash
+| publisher = [[DC Comics]]
+| debut = ''[[Showcase (comic book)|Showcase]]'' #76 (1968)
+| creators = [[Joe Orlando]]<br/>[[Carmine Infantino]]<br/>[[Sheldon Mayer]]<br/>[[Sergio Aragonés]]
+| alter_ego =
+| full_name = Bartholomew Alouysius Lash
+| alliances = Rough Bunch<br/>[[Black Lantern Corps]]
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = Great marksman
+<!--Series section-->
+|title               = Bat Lash
+|cvr_image           =
+|cvr_caption         =
+|cvr_alt             =
+|schedule            = Bimonthly
+|format              = '''(vol. 1)''': [[Ongoing series]]<br>'''(vol. 2)''': [[Limited series]]
+|limited             = 
+|ongoing             = 
+|1shot               =
+|genre               = [[Western comics|Western]]
+|pub_series          = [[DC Comics]]
+|date                =
+|1stishhead          = vol. 1
+|1stishyr            = 1968
+|1stishmo            = Oct./Nov.
+|endishyr            = 1969
+|endishmo            = Oct./Nov.
+|issues              = '''(vol. 1)''': 7<br>'''(vol. 2)''': 6
+|1stishhead1         = vol. 2
+|1stishyr1           = 2008
+|1stishmo1           = Feb.
+|endishyr1           = 2008
+|endishmo1           = July
+|issues1             = 6
+|main_char_team      = Bat Lash
+|creative_team_month =
+|creative_team_year  = 1968–1969
+|writers             = '''(vol. 1)'''<br>[[Sheldon Mayer]]<br>[[Sergio Aragonés]]<br>[[Dennis O'Neil]]<br>'''(vol. 2)'''<br>[[Peter Brandvold]]<br>Sergio Aragonés
+|artists             = '''(vol. 1)'''<br>[[Nick Cardy]]<br>'''(vol. 2)'''<br>[[John Severin]]<br>Javier Pina
+|pencillers          =
+|inkers              =
+|letterers           =
+|colorists           = '''(vol. 2)'''<br>[[Steve Buccellato]]
+|editors             =
+|TPB                 = Showcase Presents: Bat Lash
+|ISBN                = 1-4012-2295-1
+|TPB1                =
+|ISBN1               =
+|nonUS               =
+}}
+
+'''Bartholomew "Bat" Alouysius Lash''' is a fictional [[Western comics|Western]] character in the [[DC Universe]]. A self-professed pacifist, ladies' man, and gambler, Bat Lash's adventures have been published by [[DC Comics]] since 1968.
+
+==Character origin==
+In 1968, [[Carmine Infantino]], newly installed Editorial Director of DC Comics, and his editor, [[Joe Orlando]], were looking for something new. Western movies  were popular at the moment, with the [[spaghetti western]]s of [[Clint Eastwood]] breathing new life into a genre that had fallen into disrepute. Western heroes were few in comic books at the time, it was felt they could be revived.
+
+Joe Orlando and Carmine Infantino came up with the name and basic premise of the loner whose family had been wiped out by murderous thugs, and then brought in [[Sheldon Mayer]] (former DC editor and creator of ''[[Sugar and Spike]]'') and [[Sergio Aragonés]] to further flesh out the concept. Shelly Mayer would write the first appearance (''Showcase'' #76). Infantino claimed to have greatly rewritten it. The assignment was then handed to Aragonés, with [[Denny O'Neil]] doing the dialog over Aragonés' plots, and [[Nick Cardy]] providing the art.<ref name="dc-ency">{{Citation  | last = Wallace  | first = Dan | author-link =  | contribution = Bat Lash | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 37  | publisher = [[Dorling Kindersley]]  | place = London  | year = 2008 | isbn = 0-7566-4119-5}}</ref>
+
+==Publication history==
+Bat Lash first appeared in 1968, in a house ad running in [[Superman]] [[DC Comics]]. It featured a [[wikt:gangly|gangly]] figure, in silhouette, stalking toward the reader, with the legend, "Bat Lash. Will he save the West, or RUIN it?".
+
+The character's first published story appeared in ''[[Showcase (comic book)|Showcase]]'' #76. It featured a devil-may-care character, a peaceful, violence hating man who attracted trouble wherever he went. He wanted to be left alone ... with the exception of the many females that crossed his path. ''Bat Lash'' the book possessed a sense of humor that has often been compared by fans to the TV series ''[[Maverick (TV series)|Maverick]]'', starring [[James Garner]].
+
+Bat Lash's own series only lasted seven issues. Even though Editorial Director (later Publisher) Infantino claimed it sold well in Europe, sales in the States were not enough to sustain a run of the title.  The character and the series bearing his name have been recognized in the industry, including the 1968 and 1969 [[Alley Awards]] for Best Western Titles.<ref>[http://users.rcn.com/aardy/comics/awards/ Comic Book Awards Almanac].</ref>
+
+Bat Lash made several other appearances after his cancellation in issues of ''[[Weird Western Tales]]'' and other titles. He had a story in ''[[DC Special Series]]'' #16 and a brief backup series in ''Jonah Hex'' #49 & 51-52 in 1981.  He appears in an alternate time-line in ''Justice League Europe'' Annual #2, written in 1991. An older [[Crimson Fox]], through a time travel accident, appears in the middle of a card game, allowing Bat Lash the opportunity to save himself (and her) from Bat's own cheating. During the chase, Bat encounters one 'Miss Sally', who is sad that she has not seen Bat in months.
+
+In 1998, an elderly Bat Lash, now a saloon owner, stars in the "Guns Of The Dragon" mini-series with [[Biff Bradley]] and [[Enemy Ace]]. 
+
+In 2006, writers [[Jimmy Palmiotti]] and [[Justin Gray]] wrote Lash into ''[[Jonah Hex]]'' #3.  For Halloween 2007 Bat Lash rides with Jonah Hex to save Lazarus Lane the host Body of [[El Diablo (comics)|El Diablo]] in ''Jonah Hex'' #24. He also appears in ''Jonah Hex'' #70.
+
+In 2008, Bat Lash appeared in a new self-titled, six issue mini-series from DC, written by Aragones, with dialog by acclaimed western novelist [[Peter Brandvold]], art by [[John Severin]] and covers by [[Walt Simonson]].  It was reprinted in trade paperback as ''Bat Lash: Guns and Roses'' in 2008.
+
+In the ''Weird Western Tales'' #71 tie-in to the ''[[Blackest Night]]'' crossover, Bat Lash was reanimated as a member of the [[Black Lantern Corps|Black Lantern]] along with Black Lantern [[Jonah Hex]] and [[Scalphunter (DC Comics)|Scalphunter]].
+
+Bat Lash is one of six DC heroes featured in Walter Simonson's 2012 graphic novel, "The Judas Coin".
+
+==In other media==
+[[File:Bat lash.JPG|thumb|150px|Bat Lash, as depicted in ''[[Justice League Unlimited]]'']]
+*Bat Lash has appeared in the ''[[Justice League Unlimited]]'' episode "The Once and Future Thing" voiced by [[Ben Browder]]. He teamed up with [[Pow Wow Smith]], [[El Diablo (comics)|El Diablo]], [[Jonah Hex]], [[Wonder Woman]], [[Batman]], and [[Green Lantern]] ([[John Stewart (comics)|John Stewart]]) to stop [[Terra-Man|Tobias Manning]]. He is portrayed as easy going and good mannered.  He says Manning cheats at cards. In this incarnation, Lash's dialogue is sprinkled liberally with sage quotes from his father ("My pappy always said...") which, along with his gambling skills and laid-back attitude, refer directly to ''[[Maverick (TV series)|Maverick]]'', the light-hearted Western series which, like ''Justice League Unlimited'', was produced by [[Warner Bros.]]
+
+*During a segment on [[Conan (TV series)|Conan]], [[Conan O'Brien]] discussed with Peter Girardi (Creative Director of [[Warner Bros. Animation]]) characters from DC Comics that sucked. One of the characters discussed was Bat Lash.<ref>http://teamcoco.com/content/conan-gets-animated</ref>
+
+* In ''Westerner'', a 2012 song by electro-rock band Judge Rock, Bat Lash appears along with Jonah Hex and other characters from ''Crisis on Infinite Earths''. He is depicted as a "Dandy womanizer, a crack shot, gentleman loner" attending the coming of the aliens, as in episode three of the comic-book.
+
+==See also==
+*[[Jonah Hex]]
+*[[Western genre in other media]]
+*[[Weird West]]
+
+== Notes ==
+{{reflist}}
+
+=== References ===
+* Interview: Sergio Aragonés, ''Comic Book Artist'' #1
+* Carmine Infantino, ''Amazing World of Carmine Infantino''
+
+{{DC Western Characters}}
+
+[[Category:DC Comics titles]]
+[[Category:DC Comics Western characters|Lash]]
+[[Category:Fictional cowboys|Lash]]
+[[Category:Fictional gamblers|Lash]]
+[[Category:Western (genre) comics]]
+[[Category:Comics characters introduced in 1968]]
+[[Category:Characters created by Carmine Infantino]]
+
+[[de:Bat Lash]]
+[[hu:Bat Lash]]
+[[pt:Bat Lash]]
+[[fi:Bat Lash]]

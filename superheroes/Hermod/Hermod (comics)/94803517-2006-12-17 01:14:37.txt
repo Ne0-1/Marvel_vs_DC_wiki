@@ -1,0 +1,27 @@
+{{Superherobox| <!--Part of Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Hermod
+|full name= Hermod
+|publisher=[[Marvel Comics]]
+|debut=''[[Thor (Marvel Comics)|Thor]]'' #274 (Aug 1978)
+|creators=[[Roy Thomas]] and [[John Buscema]]
+|species = [[Asgardians (comics)|Asgardian]]
+|homeworld = [[Asgard (comics)|Asgard]]
+|alliances = [[Asgard (comics)|Asgard]] 
+|aliases = 
+|relatives= 
+|supports= 
+|powers = 
+}}
+
+'''Hermod''' (aka '''Hermod the Brave''') is a [[fictional character]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]], based loosely on the [[Hermóðr]] of [[Norse mythology|Norse myth]]. Hermod is a young god that is shrouded in mystery. It is known, however, that [[Odin (comics)|Odin]] will usually employ Hermod as a messenger because of his great speed. Hermod’s greatest mission was when he traveled to Hel in order to ask the goddess [[Hela (comics)|Hela]] for information on how to revive [[Balder (comics)|Balder the Brave]]. Because of the events of Ragnarok, Hermod is believed to have suffered the same fate that befell the rest of the [[Asgardians]].
+
+==In other media==
+Hermod appears as an NPC in the video game [[Marvel: Ultimate Alliance]]
+
+==External links==
+*[http://www.marvunapp.com/Appendix/hermodthor.htm Hermod at marvunapp.com]
+*[http://www.marveldirectory.com/individuals/h/hermod.htm Hermod at MarvelDirectory.com]
+
+[[Category:Marvel Comics Asgardians]]

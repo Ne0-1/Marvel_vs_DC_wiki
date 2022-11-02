@@ -1,0 +1,36 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Starlight
+|real_name=Tania Belinsky (Belinskaya)
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Defenders (comics)|Defenders]]'' #35 (May 1976) (as Red Guardian)<br>''[[Quasar (comics)|Quasar]]'' #19 (Feb 1991) (as Starlight)
+|creators=[[Steve Gerber]] and [[Sal Buscema]]
+|alliance_color=background:#c0c0ff
+|alliances=[[Defenders (comics)|Defenders]]
+|partners=[[Presence (Marvel Comics)|Presence]]
+|aliases=[[Red Guardian#Dr. Tania Belinsky|Red Guardian]]
+|powers=
+|}} 
+
+'''Starlight''' is a fictional character in the [[Marvel Universe]]. Created by [[Steve Gerber]] and [[Sal Buscema]], she first appeared in ''Defenders'' # 35 (May 1976).
+
+==Fictional character biography==
+Tania Belinsky was born in [[Saint Petersburg|Leningrad]], in the former [[Soviet Union]].  Tania became a young neurosurgeon, though after her dissident father Andrei had been sent to Siberia, she adopted a costume and identity similar to the original [[Red Guardian]]'s, and fought crime and protected dissidents in an attempt to reform Soviet society.  She left the USSR at the request of [[Doctor Strange]] staying in America and joining the [[Defenders (comics)|Defenders]].  
+
+Dr. Belinsky fell under the influence of Sergei Krylov, alias the "[[Presence (Marvel Comics)|Presence]]", a mad scientific genius who had become one of the most influential men behind the scenes of the Soviet government.  He used a [[Chernobyl disaster|Chernobyl]]-like nuclear disaster to transform Tania into his super-powered thrall with nuclear powers, currently called '''Starlight'''.  Since her mutation by the Presence, Tania continually emits harmful radiation which she can harness for a variety of effects, including superhuman strength and durability, flight, and energy blasts.  She and the Presence left Earth for a time, when their radiatio levels were too dangerous to remain on Earth.<ref>''Incredible Hulk'' #259</ref>
+
+Tania remains under the influence of the Presence.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.marvunapp.com/Appendix4/starlightredguard.htm Her profile in the Appendix to the Marvel Handbook]
+
+
+[[Category:Fictional Russians]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Russian superheroes]]

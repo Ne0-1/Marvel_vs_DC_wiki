@@ -1,0 +1,197 @@
+{{otheruses4|the Marvel Comics character}}
+{{Superherobox| <!--This box is part of Wikipedia:WikiProject Comics. See that article for details-->
+|image=[[Image:Amazingspiderman50.jpg|250px]]
+|caption=Cover art for ''[[The Amazing Spider-Man]]'' vol. 2, #50 (April 2003)<br>by [[J. Scott Campbell]] and [[Tim Townsend]]. 
+|character_name=Spider-Man
+|real_name=Peter Benjamin Parker
+|publisher=[[Marvel Comics]]
+|debut=''[[Amazing Fantasy]]'' #15 (Aug. 1962)
+|creators=[[Stan Lee]]<br>[[Steve Ditko]]
+|alter_ego = 
+| Base of operations = [[New York City]]
+|alliances =[[New Avengers (comic book)|New Avengers]]<br/>[[Daily Bugle]]<br/>[[Civil War (comics)#The Secret Avengers|Secret Avengers]]<br/>[[Fantastic Four#"Alternate Fantastic Four" members|"New Fantastic Four"]]
+|aliases = [[Ricochet (comics)|Ricochet]], [[Dusk (comics)#Dusk II|Dusk]], [[Prodigy (comics)|Prodigy]], [[Hornet (comics)#Hornet II|Hornet]], [[Captain Universe]], [[Ben Reilly]]
+|powers = [[Spider-Man's powers and equipment|Superhuman strength, speed, stamina, agility, reflexes, and durability<br>Gifted intellect<br> Ability to stick to solid surfaces<br>Clairvoyant "spider-sense"<br>Night vision<br>Accelerated healing factor<br>Toxic stingers that extend from forearms]]<br>Ability to produce both [[biotic material|organic]] and [[synthetic fiber|synthetic]] spider-webbing
+}}
+'''Spider-Man''' ('''Peter Benjamin Parker''') is a [[fictional character]], a [[superhero]] in the [[Marvel Comics]] [[Marvel universe|universe]]. Created by writer-editor [[Stan Lee]] and artist [[Steve Ditko]], he [[first appeared]] in ''[[Amazing Fantasy]]'' #15 (Aug. 1962), and has since gone on to become one of the most popular, enduring and commercially successful [[superhero]]es worldwide, and is arguably Marvel's most famous character.
+
+When Spider-Man first saw print in the early 1960s, [[teenagers]] in superhero comic books were usually [[sidekick]]s. The Spider-Man series broke ground by featuring Peter Parker, a hero who himself was an adolescent, to whose "self-obsessions with rejection, inadequacy, and loneliness" young readers could relate.<ref>Wright, Bradford W. ''Comic Book Nation''. (Johns Hopkins, 2001) p. 210</ref> Spider-Man has since appeared in various media including several animated and live-action [[Spider-Man on television|television series]], [[syndicated]] newspaper [[The Amazing Spider-Man#Newspaper comic strip|comic strips]] and a successful [[Spider-Man film series|series of films]].
+
+Marvel has published several [[Bibliography of Spider-Man titles|Spider-Man comic book series]], the first being ''[[The Amazing Spider-Man]]''. Over the years, the Peter Parker character has developed from shy [[high school]] student to troubled college student to a married teacher and a member of the superhero team the [[New Avengers (comics)|New Avengers]]. A ''[[BusinessWeek]]'' article listed  Spider-Man as one of the top ten most intelligent fictional characters in American comics.<ref>{{cite web | last = Pisani | first = Joseph | authorlink = Joseph Pisani | title =  The Smartest Superheroes | publisher = ''Business Week Online'' | date = June 1, 2006 | url = http://images.businessweek.com/ss/06/05/smart_heroes/index_01.htm | accessdate = 2007-11-25}}</ref> In the [[Spider-Man film series|''Spider-Man'' film series]], the character is portrayed by actor [[Tobey Maguire]].
+
+==Publication history==
+By 1962, with the success of the [[Fantastic Four]] and other characters, Marvel editor and head writer Stan Lee was casting about for a new superhero idea. He said that the idea for Spider-Man arose from a surge in teenage demand for comic books, and the desire to create a character with whom teens could identify.<ref>O'Neill, Cynthia, DeFalco, Tom, and Lee, Stan. ''Spider-Man: The Ultimate Guide'' (DK Children, 2001), p.1. ISBN 0-789-47946-X</ref> In his autobiography, Lee cites the non-superhuman [[pulp magazine]] crime fighter [[The Spider]] as an influence,<ref>Lee, Stan, and Mair, George. ''Excelsior!: The Amazing Life of Stan Lee'' (Fireside, 2002), p.130. ISBN 0-684-87305-2</ref> and both there and in a multitude of print and video interviews said he was inspired by seeing a [[fly]] climb up a wall &mdash; adding in his autobiography that he has told that story so often he has become unsure of whether or not it is true.<ref>Lee, Mair, p.126: He goes further in his autobiography, claiming that even while pitching the concept to publisher Martin Goodman, "I can't remember if that was literally true or not, but I thought it would lend a little color to my pitch".</ref> Artist Ditko, in a 1990 article by himself, gave a more prosaic origin story for the name: {{cquote|"In a discussion with me about Spider-Man, Stan said he liked the name [[Hawkman]] but [[DC Comics|DC]] had the name and character. Marvel would add [[Ant-Man]] [and the [[Wasp (comics)|Wasp]]] so it would have the [[insect]] category. (Technically a spider is not an insect). From that I believed Stan had named the character.<ref>[http://books.google.com/books?id=LfgGmF3aoigC&pg=PA56&lpg=PA56&dq=%22stan+lee%22+%22steve+ditko%22+%22amazing+adult+fantasy%22+%22twist+ending%22&source=web&ots=odKH2BKYvb&sig=85RgvSJv94bNG89_jTq3r98G3JE#PPA56,M1 ''Robin Snyder's History of Comics'' vol. 1, #5 (May 1990): "An Insider's Part of Comics History: Jack Kirby's Spider-Man", by Steve Ditko], reprinted, revised and updated, in ''Alter Ego: The Comic Book Artist Collection'', edited [[Roy Thomas]] ([[TwoMorrows Publishing]], 2000), p. 56. ISBN 1893905063.</ref>}}
+
+Lee approached Marvel publisher [[Martin Goodman (publisher)|Martin Goodman]] to seek approval for the character. In a 1986 interview, he described in detail his arguments to overcome Goodman's objections.{{ref_label|Lee|1a|1a}} Goodman agreed to let Lee try out Spider-Man in the upcoming final issue of the canceled [[science-fiction]]/[[supernatural]] anthology series  ''[[Amazing Adult Fantasy]]'', which was renamed ''[[Amazing Fantasy]]'' for that single issue, #15 (Aug. 1962).<ref>[[Les Daniels|Daniels, Les]], ''Marvel: Five Fabulous Decades of the World's Greatest Comics'' (Harry N. Abrams, New York, 1991), p. 95. ISBN 0-8109-3821-9</ref>
+
+Jack Kirby, in a 1982 interview, claimed Lee had minimal involvement in the character's creation, and that it had originated with Kirby and [[Joe Simon]], who in the 1950s had proposed a character called The Silver Spider for the [[Crestwood]] comic ''Black Magic'' until the publisher went out of business. {{ref_label|Kirby1|1b|1b}} 
+
+Simon, in his 1990 autobiography, disputes Kirby's account, asserting that the [[supernatural]] [[anthology]] ''Black Magic'' was not a factor, and that he (Simon) devised the name "Spiderman" (later changed to "The Silver Spider"), while Kirby outlined the character's story and powers. Simon later elaborated that his and Kirby's character conception became the basis for Simon's [[Archie Comics]] superhero [[The Fly (Archie Comics)|The Fly]], introduced in early 1959.[[Image:AmazingFantasy15.jpg|thumb|''Amazing Fantasy'' #15 (Aug. 1962). Cover art by [[Jack Kirby]] (penciller) & [[Steve Ditko]] (inker).]]
+
+Comics historian [[Greg Theakston]] says that Lee, after receiving Goodman's approval for the name Spider-Man and the "ordinary teen" concept, approached Kirby. Kirby told Lee about his 1950s Silver Spider/Spiderman, in which an orphaned boy living with an old couple finds a magic ring that gives him superpowers. Lee and Kirby "immediately sat down for a story conference" and Lee afterward directed Kirby to flesh out the character and draw some pages. Steve Ditko would be the inker.<ref>Ditko, ''Robin Snyder's History of Comics'': "Stan said a new Marvel hero would be introduced in #15 [of what became titled ''Amazing Fantasy'']. He would be called Spider-Man. Jack would do the penciling and I was to ink the character". At this point still, "Stan said Spider-Man would be a teenager with a magic ring which could transform him into an adult hero &mdash; Spider-Man. I said it sounded like [[The Fly (Archie Comics)|The Fly]], which Joe Simon had done for [[Archie Comics]]. ... Stan called Jack about it but I don't know what was discussed. I never talked to Jack about Spider-Man.... Later, at some point, I was given the job of drawing Spider-Man".</ref> "A day or two later", Kirby showed Lee the first six pages, and, as Lee recalled, "I hated the way he was doing it. Not that he did it badly — it just wasn't the character I wanted; it was too heroic".<ref>Theakston, Greg. ''The Steve Ditko Reader'' (Pure Imagination, Brooklyn, NY, 2002; ISBN 1-56685-011-8), p. 12 (unnumbered)</ref> Simon concurs that Kirby had shown the original Spiderman version to Lee, who liked the idea and assigned Kirby to draw sample pages of the new character but disliked the results — in Simon's description, "[[Captain America]] with cobwebs".{{ref_label|Simon1|1c|1c}}
+
+Lee turned to Ditko, who developed a visual style Lee found satisfactory, although Lee would later replace Ditko's original cover with one penciled by Kirby. Ditko said, {{cquote|"The Spider-Man pages Stan showed me were nothing like the (eventually) published character. In fact, the only drawings of Spider-Man were on the splash <nowiki>[</nowiki>[[i.e.]], page 1] and at the end [where] Kirby had the guy leaping at you with a web gun... Anyway, the first five pages took place in the home, and the kid finds a ring and turns into Spider-Man.<ref>Theakston, p. 13</ref>}}
+
+Ditko also recalled that, {{cquote|One of the first things I did was to work up a costume. A vital, visual part of the character. I had to know how he looked ... before I did any breakdowns. For example: A clinging power so he wouldn't have hard shoes or boots, a hidden wrist-shooter versus a web gun and holster, etc. ... I wasn't sure Stan would like the idea of covering the character's face but I did it because it hid an obviously boyish face. It would also add mystery to the character....<ref>Ditko, ''Robin Snyder's History of Comics''</ref>}}
+
+Much earlier, in a rare contemporaneous account, Ditko described his and Lee's contributions in a mail interview with Gary Martin published in ''Comic Fan'' #2 (Summer 1965): "Stan Lee thought the name up. I did costume, web gimmick on wrist & spider signal".<ref>[http://www.ditko.comics.org/ditko/artist/arcomicf.html "Steve Ditko - A Portrait of the Master."] ''Comic Fan'' #2, Summer 1965. Published by Larry Herndon</ref> Additionally, Ditko shared a [[Manhattan]] studio with noted [[fetish]] artist [[Eric Stanton]], an art-school classmate<ref>[http://www.ditko.comics.org/ditko/crea/crerstan.html Ditko Looked Up: "Ditko & Stanton"]</ref> who, in a 1988 interview with Theakston, recalled that although his contribution to Spider-Man was "almost nil", he and Ditko had "worked on storyboards together and I added a few ideas. But the whole thing was created by Steve on his own... I think I added the business about the webs coming out of his hands".<ref>Theakston, p. 14 (unnumbered, misordered as page 16)</ref>
+
+===Commercial success===
+[[Image:AmazingSpiderMan23.jpg|thumb|left|''The Amazing Spider-Man'' #23 (April 1965), featuring the [[Green Goblin]]. Cover art by co-creator [[Steve Ditko]].]]
+A few months after Spider-Man's introduction in ''[[Amazing Fantasy]]'' #15 (Aug. 1962), publisher Martin Goodman reviewed the sales figures for that issue, finding it to have been one of the nascent Marvel's highest-selling comics.<ref>Daniels, p. 97</ref> A solo series followed, beginning with ''[[The Amazing Spider-Man]]'' #1 (March 1963). The title eventually became Marvel's top-selling series<ref>Wright, pg. 211</ref> with the character swiftly becoming a cultural icon; a 1965 ''[[Esquire (magazine)|Esquire]]'' poll of college campuses found that college students ranked Spider-Man and fellow Marvel hero [[The Hulk]] alongside [[Bob Dylan]] and [[Che Guevara]] as their favorite revolutionary icons. One interviewee selected Spider-Man because he was "beset by woes, money problems, and the question of existence. In short, he is one of us".<ref>Wright, pg. 223</ref> Following Ditko's departure after issue #39, [[John Romita, Sr.]] replaced him as artist, and would pencil the character over the next several years.
+
+An early 1970s Spider-Man story led to the revision of the [[Comics Code Authority|Comics Code]]. Previously, it was taboo to depict [[illegal drugs]], even negatively. However, in 1970 the [[Richard Nixon|Nixon]] administration's [[Department of Health, Education, and Welfare]] asked Stan Lee to run an anti-drug message in one of Marvel's top-selling titles.<ref name="drugs">Wright, p. 239</ref> Lee chose the top-selling ''The Amazing Spider-Man''; issues #96–98 (May–July 1971) featuring a [[story arc]] depicting the negative effects of [[drug abuse]]. In the story, Peter Parker's friend [[Harry Osborn]] starts taking pills and becomes so ill that when Spider-Man fights the [[Green Goblin]] (Norman Osborn), Spider-Man defeats Norman by simply showing him his sick son. While the story had a clear anti-drug message, the Comics Code Authority refused to issue its seal of approval. Marvel nevertheless sold the three issues without the Comics Code Authority's approval or seal and they subsequently sold so well that the industry's self-censorship was undercut.<ref name="drugs" />
+
+In 1972, a second monthly [[ongoing series]] starring Spider-Man began: ''[[Marvel Team-Up]]'', in which Spider-Man is paired with other superheroes and villans. In 1976, his second solo series, ''[[The Spectacular Spider-Man]]'' began, running parallel to the main series; a third solo series, ''[[Web of Spider-Man]]'', launched in 1985, replacing ''[[Marvel Team-Up]]''. The launch of a fourth monthly title in 1990, written and drawn by popular artist [[Todd McFarlane]], debuted with multiple variant covers and sold in excess of three million copies, an industry record at the time.<ref>Wright, p. 279</ref> There have generally been at least two ongoing Spider-Man series at any time. Several [[limited series]], [[One-shot (comics)|one-shots]] and loosely related comics have also been published, and Spider-Man makes frequent cameos and guest appearances in other comic series.
+[[Image:SpiderMan96.jpg|thumb|right|250px|''The Amazing Spider-Man'' #96 (May 1971), the first of three non-[[Comics Code]] issues that prompted the Code's first update, allowing comics to show the negative effects of illegal-drug use. Note cover-blurb reference to "The last fatal trip!" Cover art by [[Gil Kane]]<!--confirmed: both penciled and inked-->]]
+The original ''Amazing Spider-Man'' ran through issue #441 (Nov. 1998). Writer-artist [[John Byrne]] then revamped the origin of Spider-Man in the 13-issue [[miniseries]] ''[[Spider-Man: Chapter One]]'' (Dec. 1998 - Oct. 1999, with an issue #0 midway through and some months containing two issues), similar to Byrne's adding details and some revisions to Superman's origin in [[DC Comics]]' ''[[The Man of Steel (comic book)|The Man of Steel]]''. Running concurrently, ''The Amazing Spider-Man'' was restarted with vol. 2, #1 (Jan. 1999). With what would have been vol. 2, #59, Marvel reintroduced the original numbering, starting with #500 (Dec. 2003). This flagship series has reached issue #542 as of mid-2007.
+
+As of 2008, Spider-Man regularly appears in ''The Amazing Spider-Man'', ''[[New Avengers (comic book)|New Avengers]]'', ''[[Spider-Man Family]]'' and various [[limited series]] in mainstream Marvel Comics continuity, as well as in the [[Parallel universe (fiction)|alternate-universe]] series ''[[Spider-Girl|The Amazing Spider-Girl]]'', and ''[[Ultimate Spider-Man]]'', the alternate-universe [[tween]] series ''[[Spider-Man Loves Mary Jane]]'', and the alternate-universe children's series ''[[Marvel Adventures Spider-Man]]'' and ''[[Avengers (comics)#Marvel Adventures:  The Avengers|Marvel Adventures: The Avengers]]''.
+
+Spider-Man has become Marvel's flagship character, and is often used as the company mascot. When Marvel became the first comic book company to be listed on the [[New York Stock Exchange]] in 1991, the ''[[Wall Street Journal]]'' announced "Spider-man is coming to [[Wall Street]]"; the event was in turn promoted with an actor in a Spider-Man costume accompanying Stan Lee to the Stock Exchange.<ref>Wright, p. 254</ref>  When Marvel wanted to issue a story dealing with the immediate aftermath of the [[September 11th, 2001 attacks]], the company settled on the December 2001 issue of ''The Amazing Spider-Man''.<ref>{{cite web | author=Yarbrough, Beau | year=2001 | title=Marvel to Take on World Trade Center Attack in 'Amazing Spider-Man'| format=http | work=ComicBookResources.com | url=http://www.comicbookresources.com/news/newsitem.cgi?id=461 | accessdate=September 29|accessyear=2006}}</ref>  In 2006, Spider-Man garnered major media coverage with the revealing of the character's secret identity,<ref>{{cite web | author= | year=2006| title=Spider-Man Removes Mask at Last | format=http | work=BBC | url=http://news.bbc.co.uk/1/hi/entertainment/5084326.stm | accessdate=September 29|accessyear=2006}}</ref> an event detailed in a full-page story in the ''[[New York Post]]'' before the issue containing the story was even released.<ref>{{cite web | author= | year=2006| title=New York Post Spoils Civil War #2 | format=http | work=Newsarama.com | url=http://www.newsarama.com/marvelnew/CivilWar/CivilWar2_End.html | accessdate=September 29|accessyear=2006}}</ref>
+
+==F<!-- hfgfg -->ictional character biography==
+{{main|Fictional history of Spider-Man}}
+In his first appearance, Peter Parker is introduced as a [[science]] [[whiz kid]] teenager from the [[Forest Hills, Queens|Forest Hills]] section of [[New York City]] who gets bitten by a [[radioactive]] spider during a science demonstration. He gains powers and at first attempts to become a TV star. He refuses to stop a thief, and weeks later the same criminal kills his [[Benjamin Parker|Uncle Ben]]. Learning that with great power comes great responsibility, Spider-Man becomes a vigilante.<ref>''Amazing Fantasy'' vol. 1, #15 (Aug. 1962)</ref>  After his uncle's death, Peter and his Aunt May become desperate for money, so he gets a job as a photographer at the [[Daily Bugle]] selling photos to [[J. Jonah Jameson]] (J. stands for John), who vilifies Spider-Man in the paper.<ref>''The Amazing Spider-Man'' vol. 1, #1 (March 1963)</ref> As he battles his enemies for the first time, Parker finds juggling his personal life and costumed adventures difficult, even attempting to give up.<ref>''The Amazing Spider-Man'' vol. 1, #50, (July 1967)</ref><ref>''The Amazing Spider-Man'' vol. 1, #100 (Sept. 1971)</ref> Enemies constantly endanger his loved ones,<ref>''The Amazing Spider-Man Annual'' #1, 1963</ref> with the [[Green Goblin]] managing to kill his girlfriend [[Gwen Stacy]].<ref>''The Amazing Spider-Man'' vol. 1, #121 (June 1973)</ref> Though haunted by her death, he eventually [[The Wedding! (Spider-Man)|marries]] [[Mary Jane Watson]], and much later reveals his civilian identity to the world,<ref>''Civil War'' #2 (June 2006)</ref> furthering his already numerous problems. However, his marriage and subsequent masking are both undone by [[Mephisto]], with subtle adjustments made to his history so that he never married, or unmasked, and Harry Osborn never died.  In addition to the absence of relations with Mary Jane and the resurrection of Harry Osborn, Spider-Man's organic webbing is no longer intact as he has reverted to using the classic fan-pleasing mechanical web-shooters and fan-angering status quo.
+
+==Powers and equipment==
+{{Main|Spider-Man's powers and equipment}}
+[[Image:Spidey costumes.jpg|thumb|left|Three Spider-Man costumes of "Civil War" story arc. Promotional art by [[Leinil Francis Yu]].]]
+A bite from an [[irradiated]] spider causes a variety of changes in Peter Parker's body, giving him [[List of comic book superpowers|superpowers]]. In the original [[Stan Lee|Lee]]-[[Steve Ditko|Ditko]] stories, Spider-Man has the ability to cling to walls, superhuman strength, a sixth sense ("spider-sense") that alerts him to danger, perfect balance and equilibrium, as well as superhuman speed and agility. In story-lines published in 2005 and 2006 (such as [[Spider-Man: The Other|The Other]]), he develops additional spider-like abilities including biological web-shooters, toxic stingers that extend from his forearms, the ability to stick individuals to his back, better control over Spider-sense for detection, and night vision. Spider-Man's strength and speed have also increased beyond his original limits. 
+
+Spider-Man's overall metabolic efficiency has been greatly increased, and the composition of his skeleton, inter-connected tissues, and nervous system have all been enhanced. Spider-Man's musculature has been augmented so that he is superhumanly strong and flexible. He has developed a unique fighting style that makes full use of his agility, strength, and equilibrium.
+
+Peter Parker is intellectually gifted, excelling in [[applied science]], [[chemistry]] and [[physics]]. He uses his wits in addition to his powers. Besides outsmarting his foes, he constructs many devices that complement his powers, most notably mechanical web-shooters (ejecting an advanced adhesive  of releasing web-fluid in a variety of configurations, including a single strand to swing from, a net, and a simple glob to foul machinery or blind an opponent. He can also weave the web material into simple forms like a shield, a spherical protection or hemi-spherical barrier, a club, or a hang-glider wing. Other equipment includes spider-tracers (spider-shaped adhesive homing beacons keyed to his own spider-sense), a light beacon which can either be used as a flashlight or project a "Spider-Signal" design, a specially modified [[camera]] that can take pictures automatically. He has also used an invention of Ben Reilly's (a clone of Peter Parker), called "impact webbing": a pellet that explodes on impact into a wrap-around net of webbing.
+
+Though lacking in directed training, Spider-Man is one of the most experienced superheroes in the Marvel Universe.  He has worked with virtually everyone in the superhero community at one time or another. Due to this experience, he has beaten foes with far greater powers and abilities. His fighting style is purely freestyle, which incorporates his speed, agility, strength and spider-sense. A very large part of his combat ability is improvisation and using his wits to out-think his opponents. One constant is his habit of using jokes, puns and insults. This not only causes his adversaries to become angry and distracted, but it also helps Spider-Man deal with any fears or doubts that he might have during a battle. 
+
+Spider-Man has had a few costume changes over his history, with three notable costumes -- his traditional red-and-blue costume, the black-and-white alien [[symbiote (comics)|symbiote]] (later developed into a regular costume for stealth) and the technologically advanced [[Spider-Man's powers and equipment#Stark Armor|Stark Armor]] costume designed by [[Iron Man|Tony Stark]]. In early comics and sporadically throughout his run depending on  any given artist's interpretation, Spider-Man's costume included webbing that extended from his underarms to his torso. Although the eyes of the costume are one-way mirror type lenses, in some continuities the eyes will change depending on Peter's facial expression.
+
+==Enemies==
+[[Image:Spider-Man Villains.jpg|thumb|200px|A gathering of Spider-Man's villains.]]
+{{main|List of Spider-Man enemies}}
+Spider-Man has one of the best-known [[rogues gallery|rogues galleries]] in comics. Spider-Man's most infamous and dangerous enemies are generally considered to be the  [[Green Goblin]],<ref> {{cite web | title = Spider-Man villain poll| publisher = [[IGN]]| url = http://uk.comics.ign.com/articles/684/684904p5.html| accessdate = 2006-10-01}}</ref> [[Doctor Octopus]], and [[Venom (comics)|Venom]]. Others include the [[Lizard (comics)|Lizard]], [[Chameleon (comics)|Chameleon]], [[Hobgoblin (comics)|Hobgoblin]], [[Kraven the Hunter]], the [[Scorpion (comics)|Scorpion]], the [[Sandman (Marvel Comics)|Sandman]], the [[Rhino (comics)|Rhino]], [[Mysterio]], [[Vulture (comics)|Vulture]],  [[Electro (comics)|Electro]], [[Carnage (comics)|Carnage]], the [[Kingpin (comics)|Kingpin]], [[Shocker (comics)|Shocker]],  [[Hydro-Man]], and [[Morlun]].  As with Spider-Man, the majority of these villains' powers originate with scientific accidents or the misuse of scientific technology, and they tend to have animal-themed costumes or powers.  At times these villains have formed groups such as the [[Sinister Six]] to oppose Spider-Man.
+
+==Supporting characters==
+
+{{main|Spider-Man supporting characters}}
+<!-- Deleted image removed: [[Image:ASM519 COV.jpg|thumb|left|Spider-Man, his Aunt May and wife Mary Jane. Art by [[Mike Deodato]].]]  -->
+
+Spider-Man was conceived as an ordinary person given great power, and the comics detail his civilian life, friends, family and romances as much as his super-heroic adventures.
+
+Some of the more important and well-known members of his extensive supporting cast include: <!-- keep this list as short as possible please! Additions should be added to 'Spider-Man supporting characters' -->
+*[[Aunt May]] – Peter Parker's loving aunt, who, along with her husband Uncle Ben, raised him after his parents died. After the murder of her husband, May is virtually his only family, and they are very close.
+*[[Uncle Ben]] - Peter Parker's uncle and father figure. He is tragically murdered by a burglar that Peter had allowed to escape before. Peter believes that his uncle's death was morally his fault, and he decides to use his powers responsibly and become a super-hero.
+*[[Mary Jane Watson]] – Originally merely Gwen Stacy's competition, 'MJ' eventually became Peter's best friend and wife. The ''[[Spider-Man: One More Day]]'' storyline retconned their marriage out of existence, in a pact with [[Mephisto]] to save May's life.
+
+*[[J. Jonah Jameson]] – The irascible publisher of the ''[[Daily Bugle]]'' newspaper. While he employs Peter Parker as a photographer, he is also Spider-Man's greatest critic and largely responsible for public distrust of the hero.
+*[[Joseph "Robbie" Robertson]] – Editor-in-chief at the ''Daily Bugle'', a moderating influence on Jameson, and a father figure to Peter after Uncle Ben's death.
+*[[Betty Brant]] – Secretary at the Daily Bugle who was once in love with Peter.
+*[[Gwen Stacy]] – Peter's college girlfriend, who is tragically killed by the [[Green Goblin]].
+*[[Flash Thompson]] – Peter Parker's high school [[bullying|tormentor]], later one of his closest friends. Due to brain damage, he suffers [[amnesia]] and regresses to his [[bullying]] personality. 
+*[[Harry Osborn]] – Peter's best friend in college, who eventually follows his father's footsteps and becomes the second [[Green Goblin]], ultimately resulting in his death. The ''Spider-Man: One More Day'' storyline retconned his death out of existence, implying it would not have happened had Peter not married Mary Jane.
+*[[Black Cat (comics)|Black Cat, Felicia Hardy]] – a reformed cat burglar who was Spider-Man's girlfriend and partner at one point.
+*[[Eddie Brock]] - Although Eddie is featured as a rival photographer for Peter Parker in the original continuity and the film [[Spider-Man 3]], he is featured as a friend of Spider-Man in the [[Ultimate Marvel]] continuity until he discovers the [[Venom (comics)|Venom]] suit.
+
+==Other versions==
+{{main|Alternate versions of Spider-Man}}
+In addition to his [[Marvel Universe|mainstream]] incarnation, Spider-Man has had been depicted in other [[fictional universes]].
+
+==In other media==
+{{main|Spider-Man in other media}}
+Spider-Man has been adapted in various other media.
+
+===Television===
+{{main|Spider-Man television series}}
+Spider-Man has appeared on [[television]] numerous times, in both [[live-action]] and [[animation|animated]] [[television program]]s.
+
+===Film===
+{{main|Spider-Man film series}}
+Spider-Man appears in three theatrical [[movies|films]] all starring [[Tobey Maguire]].
+
+==Bibliography==
+{{main|Bibliography of Spider-Man titles}}
+In addition to ''[[The Amazing Spider-Man]]'', Spider-Man has been featured in many different series since.
+
+==Footnotes==     
+{{Reflist}}
+
+<div class="references-small">
+{{note_label|Lee|1a|1a}}Stan Lee, 1986: "He gave me 1,000 reasons why Spider-Man would never work. Nobody likes spiders; it sounds too much like Superman; and how could a teenager be a superhero? Then I told him I wanted the character to be a very human guy, someone who makes mistakes, who worries, who gets acne, has trouble with his girlfriend, things like that. [Goodman replied,] 'He's a hero! He's not an average man!' I said, "No, we make him an average man who happens to have super powers, that's what will make him good'. He told me I was crazy".
+::''[[Detroit Free Press]]'' interview, quoted in ''The Steve Ditko Reader'' by [[Greg Theakston]] (Pure Imagination, Brooklyn, NY; ISBN 1-56685-011-8), p. 12 (unnumbered)
+ 
+{{note_label|Kirby1|1b|1b}}Jack Kirby, 1982: "Spider-Man was discussed between [[Joe Simon]] and myself. It was the last thing Joe and I had discussed. We had a strip called the 'The Silver Spider'. The Silver Spider was going into a magazine called ''Black Magic''. ''Black Magic'' folded with [[Crestwood]] (Simon & Kirby's 1950s comics company) and we were left with the script. I believe I said this could become a thing called Spider-Man, see, a superhero character. I had a lot of faith in the superhero character that they could be brought back... and I said Spider-Man would be a fine character to start with. But Joe had already moved on. So the idea was already there when I talked to Stan".
+::"Shop Talk: Jack Kirby", ''[[Will Eisner]]'s [[The Spirit|Spirit]] Magazine'' #39 (Feb. 1982)
+
+{{note_label|Simon1|1c|1c}}Joe Simon, 1990: "There were a few holes in Jack's never-dependable memory. For instance, there was no ''Black Magic'' involved at all. ... Jack brought in the Spider-Man logo that I had loaned to him before we changed the name to The Silver Spider. Kirby laid out the story to Lee about the kid who finds a ring in a spiderweb, gets his powers from the ring, and goes forth to fight crime armed with The Silver Spider's old web-spinning pistol. Stan Lee said, 'Perfect, just what I want.' After obtaining permission from publisher [[Martin Goodman (publisher)|Martin Goodman]], Lee told Kirby to pencil-up an origin story. Kirby... using parts of an old rejected superhero named Night Fighter... revamped the old Silver Spider script, including revisions suggested by Lee. But when Kirby showed Lee the sample pages, it was Lee's turn to gripe. He had been expecting a skinny young kid who is transformed into a skinny young kid with spider powers. Kirby had him turn into... Captain America with cobwebs. He turned Spider-Man over to Steve Ditko, who... ignored Kirby's pages, tossed the character's magic ring, web-pistol and goggles... and completely redesigned Spider-Man's costume and equipment. In this life, he became high-school student Peter Parker, who gets his spider powers after being bitten by a radioactive spider. ... Lastly, the Spider-Man logo was redone and a dashing hyphen added".
+::Simon, Joe, with Jim Simon. ''The Comic Book Makers'' (Crestwood/II, 1990) ISBN 1-887591-35-4.
+</div>
+
+==References==
+*[http://www.marvel.com/universe/Spider-Man_%28Peter_Parker%29 Marvel.com: Spider-Man Official Site] 
+*[http://www.comics.org Grand Comics Database]
+*[http://marvel.com/news/comicstories.687 Marvel.com: "Venom: The Sordid History of Spider-Man's Black Costume"]
+*[http://www.toonopedia.com/spidey.htm Don Markstein's Toonopedia: Spider-Man]
+
+
+{{Spider-Man}}
+
+[[Category:American comics characters]]
+[[Category:Avatars of Captain Universe]]
+[[Category:Fictional characters from New York City]]
+[[Category:Fictional characters with accelerated healing]]
+[[Category:Fictional characters with precognition]]
+[[Category:Fictional orphans]]
+[[Category:Fictional photographers]]
+[[Category:Fictional Protestants]]
+[[Category:Fictional reporters]]
+[[Category:Fictional schoolteachers]]
+[[Category:Fictional scientists]]
+[[Category:Fictional vigilantes]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Spider-Man| ]]
+
+[[ar:الرجل العنكبوت]]
+[[bg:Спайдър-Мен]]
+[[ca:Spiderman]]
+[[cs:Spiderman (animovaný seriál)]]
+[[da:Spider-Man]]
+[[de:Spider-Man]]
+[[dv:ސްޕައިޑަރ މޭން]]
+[[el:Σπάιντερμαν]]
+[[es:Spiderman]]
+[[eo:Spider-Man]]
+[[fr:Spider-Man]]
+[[gl:Spider-Man]]
+[[hi:स्पाइडर मैन]]
+[[hr:Spiderman]]
+[[id:Spider-Man]]
+[[is:Köngulóarmaðurinn]]
+[[it:Uomo Ragno]]
+[[he:ספיידרמן]]
+[[ka:ადამიანი-ობობა]]
+[[lt:Žmogus-voras]]
+[[hu:Pókember]]
+[[ms:Spider-Man]]
+[[nl:Spider-Man]]
+[[ne:स्पाइडर-म्यान]]
+[[ja:スパイダーマン]]
+[[no:Spider-Man]]
+[[oc:Spider-Man]]
+[[uz:O‘rgimchak-odam]]
+[[pl:Spider-Man]]
+[[pt:Homem-Aranha]]
+[[ru:Человек-паук]]
+[[sq:Spider-Man]]
+[[simple:Spider-Man]]
+[[sk:Spider-Man (komiks)]]
+[[fi:Hämähäkkimies]]
+[[sv:Spindelmannen]]
+[[th:ไอ้แมงมุม]]
+[[tr:Örümcek Adam]]
+[[uk:Людина-павук]]
+[[zh-yue:蜘蛛俠]]
+[[zh:蜘蛛人]]

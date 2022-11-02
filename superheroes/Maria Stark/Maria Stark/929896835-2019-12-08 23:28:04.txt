@@ -1,0 +1,50 @@
+{{Multiple issues|
+{{refimprove|date=May 2010}}
+{{lead too short|date=June 2010}}
+{{in-universe|date=October 2009}}
+}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| image =
+| character_name = Maria Stark
+| publisher = Marvel Comics
+| creators = [[Bill Mantlo]] (writer)<br>[[George Tuska]] (artist)
+| debut = ''[[Iron Man (comic book)|Iron Man]]'' #104 (Nov. 1977)
+| real_name = Maria Collins Carbonell
+}}
+
+'''Maria Stark''' is a [[fictional character]] appearing in books published by [[Marvel Comics]]. She is [[Howard Stark]]'s wife and [[Iron Man|Tony Stark]]'s mother.
+
+[[Hope Davis]] portrayed the character in the [[Marvel Cinematic Universe]] film ''[[Captain America: Civil War]]'' (2016).
+
+==Fictional character biography==
+Maria Stark was born '''Maria Collins Carbonell'''. In her adulthood, Maria married Howard, and together they had a [[Iron Man 2020#616|son]] that was not her biological son Anthony "Tony" Stark. Maria was unsuccessful in preventing Tony from seeing Howard's alcoholism, something Tony would later face on his own. Howard secretly programmed the Mistress AI that controlled the [[Arsenal (Marvel Comics)|Arsenal]] robots with Maria's brain patterns.<ref>''Avengers Annual'' # 9 (1979)</ref>
+
+On the Ides of March, Maria and Howard were killed in a 'planned' car accident<ref>{{ cite web | url=http://marvel.com/universe/Iron_Man_%28Anthony_Stark%29 | title=Iron Man (Anthony Stark) | publisher=marvel.com | accessdate=October 13, 2013}}</ref> (possibly arranged by the [[Roxxon Oil Company]]).<ref>''Iron Man - The Iron Age # 2'' (1998)</ref> Afterwards, Tony ran his father's company, started a charity in his mother's name (which donated funds to finance various charities and renovation projects as well as the [[Avengers (comics)|Avengers]]) and later became [[Iron Man]].
+
+==Other versions==
+
+===Ultimate Marvel===
+The [[Ultimate Marvel]] version of the character is renamed as '''Maria Cerrera''', the second wife of Howard Stark. Maria was a brilliant scientist who suffered a genetic accident while she was pregnant with her and Howard's child. After Maria died during childbirth, Howard uses a newly invented biological armor to save the life of their son named after Antonio Cerrera (Maria's brother) who died at a young age. Years later, Loni (Howard's first wife) tells Tony twice that she wishes she could have been Tony's mother under different circumstances, but Tony still prefers his own mother.<ref>''Ultimate Iron Man'' #0-5</ref>
+
+While what has been depicted is [[Retroactive continuity|retconned]] as an in-universe fictional TV show about [[Ultimate Iron Man (comics)|Iron Man]]'s life, the actual Ultimate version of her character is briefly mentioned by her other son Gregory Stark when joking says how Gregory "came out of [Maria] before [Tony]" but this has since been discounted.<ref>''Ultimate Comics: Avengers 3'' #3</ref>
+
+==In other media==
+
+===Television===
+* Maria Stark appeared in the 1990s ''[[Iron Man (TV series)|Iron Man]]'' animated series, voiced by [[Dimitra Arliss]]. She is seen in the episode "The Origin of Iron Man" Pt. 1.
+* Maria Stark is alluded in ''[[Iron Man: Armored Adventures]]''. Her image was used in the episode "Iron Monger Lives" by [[Madame Masque]]'s mask to impersonate in order to mess with Tony Stark after the de-activated the [[Iron Monger]] armor via [[Extremis]].
+
+===Film===
+* [[Hope Davis]] portrays Maria Stark in ''[[Captain America: Civil War]]''. In the film, it shows her death along with her husband's was carried out by the [[Bucky Barnes|Winter Soldier]] for Hydra. Producer [[Kevin Feige]] revealed that another actress had been cast to appear as the character in ''[[Iron Man 3]]'' in a flashback sequence that did not make the final cut of the film.<ref>{{cite web|url=http://www.ew.com/article/2016/05/08/iron-man-tony-stark-mother-civil-war/2 |title=Iron Man's mom: Let's talk about her for Mother’s Day |last=Breznican |first=Anthony |work=[[Entertainment Weekly]] |date=May 8, 2016 |accessdate=May 9, 2016 |archiveurl=https://www.webcitation.org/6hNgThEHd?url=http://www.ew.com/article/2016/05/08/iron-man-tony-stark-mother-civil-war/2 |archivedate=May 9, 2016 |url-status=live }}</ref>
+
+==References==
+{{reflist}}
+{{Iron Man}}
+
+{{DEFAULTSORT:Stark, Maria}}
+[[Category:Iron Man characters]]
+[[Category:Characters created by Bill Mantlo]]
+[[Category:Comics characters introduced in 1977]]
+[[Category:Fictional business executives]]
+[[Category:Fictional assassinated people]]
+[[Category:Characters created by George Tuska]]

@@ -1,0 +1,39 @@
+{{Superherobox|
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Bloodstrike
+|real_name=Eric Conroy
+|publisher=[[Marvel Comics]]
+|debut=[[New Warriors]] v1 #21 
+|creators=[[Fabian Nicieza]] & [[Mark Bagley]]
+|alliance_color=background:#ffc0c0
+|status=active
+|alliances=[[Thunderbolts (comics)|Thunderbolts]]
+|previous_alliances=[[Folding Circle]]
+|aliases=
+|relatives=
+|powers=super-strength.
+|}}
+
+'''Bloodstrike (Eric Conroy)''' is a mutate [[supervillain]] in the [[Marvel Comics]] universe. 
+
+==History==
+Eric Conroy's father Lt. Mark Conroy served in the Vietnam war. Conroy's unit the Half-Fulls fell upon an acient temple in Cambodia. There they met Tai who forced them to marry the six daughters of the dragon's breadth cult. Mark and his wife had Eric soon after.
+
+Eric was once the enforcer for a mobster in [[Chicago]] until the Left Hand killed his boss and recruited him to join the Folding Circle. In one of his first missions Eric killed a security guard which transformed his body making his arms wrapped in a strange pink material that was unbreakable. 
+
+Bloodstrike was recruited by the Left Hand to join the Folding Circle in his bid to gain the power of the dragon's breadth cult. After a confrontation with Tai and the [[New Warriors]] the Folding Circle stole the quinjet the New Warriors had originally stolen from the [[Avengers (comics)|Avengers]]. The Folding Circle crashed in [[Madripoor]] and tried to become players in the Madripoor underworld. Recently, Bloodstrike appeared as a forced member of a new team of [[Thunderbolts (comics)|Thunderbolts]] in the Civil War events. 
+
+===Universal Wellspring===
+Bloodstrike is not a mutant, he is a mutate like the other members of the Folding Circle as well as [[Silhouette (comics)|Silhouette]] and [[Midnight's Fire]]. His powers come from the ''Universal Wellspring''<ref>[[Thunderbolts]] vol. 1 #107</ref>
+
+==References==
+<div class="references-small">
+<references />
+</div>
+
+{{Marvel-Comics-stub}}
+
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics characters with superhuman strength]]

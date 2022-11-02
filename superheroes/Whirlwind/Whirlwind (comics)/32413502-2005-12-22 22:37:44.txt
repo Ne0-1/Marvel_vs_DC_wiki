@@ -1,0 +1,28 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Whirlwind
+|real_name=David Cannon
+|publisher=[[Marvel Comics]]
+|debut=Tales to Astonish #50 (December, [[1963]])
+|creators= [[Stan Lee]] (writer), [[Jack Kirby]] (artist) 
+|alliance_color=background:#c0c0ff
+|status=Unknown
+|alliances=[[Masters of Evil]]
+|previous_alliances=
+|aliases=Human Top
+|relatives=
+|powers=Super-human strength, balance, agility, and speed.
+|}}
+
+Whirlwind is a [[fictional character]] in the [[Marvel Universe]]. Usually a nemesis of the [[Avengers (comics)|Avengers]], he is a mutant with superhuman strength, speed, and balance.
+
+==Powers==
+
+Superspeed, normally used to spin rapidly, so as to create a whilrwind (hence the name). However, he has demonstrated ground speed sufficient to outrace [[Quicksilver]]. His powers come from his being a mutant.
+
+==History==
+
+[[Category:Masters of Evil members]]
+[[Category:Defenders members]]

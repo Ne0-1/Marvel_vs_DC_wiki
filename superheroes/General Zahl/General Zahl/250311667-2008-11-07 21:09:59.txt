@@ -1,0 +1,46 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name = General Zahl
+| publisher = [[DC Comics]]
+| debut = [[Doom Patrol]] v.1 #121
+| creators = 
+| alter_ego = 
+| full_name =Zahl
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances =[[Brotherhood of Evil]]
+| aliases = Captain Zahl
+| supports= 
+| powers = Military training
+}}
+
+'''General Zahl''' is a [[DC Comics]] villain.  He first appeared in [[Doom Patrol]] v.1 #121.<ref name="dc-ency">{{Citation | last = Jimenez | first = Phil | author-link = Phil Jimenez | contribution = Genral Zahl | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | pages = 136 | publisher = [[Dorling Kindersley]] | place = New York  | year = 2008 | ISBN = 0-7566-4119-5 | oclc = 213309017}}</ref>
+
+==Biography==
+General Zahl is a former Nazi [[U-boat]] captain who tangled from time to time with the [[Doom Patrol]], originally as "Captain Zahl."
+
+As a U-boat captain, Zahl was ruthless and effective, achieving the highest kill number of any commander in the German fleet.  After the fall of the Nazis, Captain Zahl worked as a mercenary, until a conflict with the Doom Patrol forced him into retirement. Later, Zahl (now calling himself "General Zahl") assisted [[Madame Rouge]] in apparently killing the Doom Patrol. Madame Rouge had previously succeeded (also apparently) in destroying the other members of the [[Brotherhood of Evil]].<ref name="dc-ency"/>
+
+Years later, [[Beast Boy|Changeling]], [[Robotman (comics)#Cliff Steele|Robotman]], and the [[Titans (comics)|Teen Titans]] tracked down Zahl and Rouge. In the conflict, bullets ricocheted from Robotman's chest, killing Zahl.<ref name="dc-ency"/>
+
+==Powers and abilities==
+Zahl is a skilled military commander and soldier, but has no superhuman powers.
+
+==Trivia==
+{{trivia|date=January 2008}}
+General Zahl apparently inspired the character [[Skarr (Billy and Mandy)|General Skarr]], originally featured on ''[[Evil Con Carne]]'' and now a supporting character on ''[[The Grim Adventures of Billy and Mandy]]''.
+
+==External links==
+*[http://www.titanstower.com/source/whoswho/brotherhood.html#zahl Titans Tower biography of General Zahl]
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Zahl}}
+
+[[Category:DC Comics supervillains]]
+[[Category:Nazis in comic book fiction]]
+[[Category:1968 comics characters debuts]]
+
+[[tl:General Zahl]]

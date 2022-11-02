@@ -1,0 +1,40 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=<!-- Deleted image removed: [[Image:juniorjuniper.jpg|200px]] -->
+|caption=
+|comic_color=background:#ff8080
+|character_name=Junior Juniper
+|real_name=Jonathan Juniper
+|publisher=[[Marvel Comics]]
+|debut=''Sgt. Fury and the Howling Commandos'' vol. 1 #1
+|creators=
+|alliance_color=background:#cccccc
+|alliances=[[Howling Commandos]]
+|aliases=
+|powers=
+|}}
+
+'''Jonathan "Junior" Juniper''' is a [[fictional character]] in the [[Marvel Comics]] Universe. His first appearance was in ''Sgt. Fury and the Howling Commandos vol. 1 #1''.
+
+==Fictional character biography==
+'''Jonathon "Junior" Juniper''' was a founding member of the original [[Howling Commandos]] and fought alongside the team during [[World War II]].  He was the youngest on the team as he was still attending an unnamed [[Ivy League]] college before he enlisted in the [[United States Air Force|Air Force]].  Juniper was later transferred from the Air Force to the Commandos because he had flown [[B-17 Flying Fortress]] in bombing raids as a tail gunner.  He was the grand-uncle of [[S.H.I.E.L.D.]] agent [[Roger Juniper]].  In ''Sgt. Fury and his Howling Commandos'' #4 he was killed.<ref>{{Comic book reference | writer=[[Stan Lee|Lee, Stan]] | penciller=[[Jack Kirby|Kirby, Jack]] | inker=[[George Bell|Bell, George]] | story=Lord Ha Ha's Last Laugh | title=[[Sgt. Fury and his Howling Commandos]] | volume=1 | issue=4 | date=November, 1963 | publisher=[[Marvel Comics]] | page=21 | panel=2 }}</ref>
+
+==Bibliography==
+*Sgt. Fury and his Howling Commandos #1-4 (death), 24, 44
+
+==References==
+{{reflist}}
+
+{{Howling Commandos}}
+
+{{DEFAULTSORT:Juniper}}
+
+[[Category:Comics characters introduced in 1963]]
+[[Category:Fictional soldiers]]
+[[Category:Fictional World War II veterans]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics characters]]
+[[Category:Fictional special forces personnel]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Characters created by Jack Kirby]]
+
+{{marvel-comics-stub}}

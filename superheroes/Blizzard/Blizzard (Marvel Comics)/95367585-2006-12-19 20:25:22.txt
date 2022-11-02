@@ -1,0 +1,53 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:TOS_JackFrost.jpg|200px]]
+|caption='''Blizzard II'''<br>Tom Grummet, Art
+|comic_color=background:#ff8080
+|character_name=Blizzard
+|real_name=(I) Professor Gregor Shapanka (deceased), (II) Donald Gill, (III) unrevealed
+|publisher=[[Marvel Comics]]
+|debut=(I) ''[[Tales of Suspense]]'' volume 1 #45 (as Jack Frost), (II) ''Iron Man'' volume 1 #223, (III) [[1992]] ''Marvel Holiday Special''
+|creators=
+|alliance_color=background:#cccccc
+|status=(I) deceased, (II) active, (III) inactive
+|alliances= (II) Thunderbolts, (III) Stark Industries
+|previous_alliances=
+|aliases= (I) Jack Frost 
+|relatives= unrevealed
+|powers=[[List of comic book superpowers#Cold manipulation|Cold manipulation]],<br>[[List of comic book superpowers#Water manipulation|Water manipulation]]
+|}}
+
+The '''Blizzard''' is the name of several [[supervillain]]s in the [[Marvel Comics]] [[Marvel Universe|universe]], all of whom are primarily foes of [[Iron Man]]. The second Blizzard is currently attempting to become a superhero. 
+==Blizzard I==
+The first Blizzard (real name Professor Gregor Shapanka) was a scientist of [[Hungary|Hungarian]] birth who was obsessed with immortality.  Deciding that [[cryonics]] were the first step towards his goal, he entered into the employ of Stark Industries in order to find some means of financing his research.  Shapanka attempted to steal directly from Stark Industries' head, Tony Stark (Iron Man) to finance his goals.  When he was caught and fired, he then stole technology from Stark Industries to create a costume containing cold-generating devices.  
+
+He first appeared under the codename '''Jack Frost''' in ''[[Tales of Suspense]]'' volume 1 #45, and adopted the codename "Blizzard" in his next appearance, ''Iron Man'' volume 1 #86.  On several occasions, he worked alongside other villains in the employ of the multimillionaire [[Justin Hammer]].  He somehow temporarily gained cold-based powers that were inherent and not technology-based (at this point he also went through a deep transformation in personality, isolating himself from the rest of humanity), but he lost these powers at some point after a battle with the [[Hulk (comics)|Hulk]].  The Blizzard was killed by the [[time travel]]er [[Iron Man 2020]] (Arno Stark, a descendant of Iron Man) in ''[[Amazing Spider-Man]] [[Annual publication|Annual]]'' #20.
+
+[[Image:Blizzard_IronMan.jpg|left|150px]]
+
+==Blizzard II (current Blizzard)==
+The second Blizzard (real name Donald "Donny" Gill) was a criminal who was given the costume of original Blizzard, or a duplicate thereof, by agents of Justin Hammer.  He first appeared in ''Iron Man'' volume 1 #223.  He was occasionally partnered with the [[Abe Jenkins|Beetle]] and [[Blacklash]] (also known as [[Whiplash (comics)|Whiplash]]) as the "B-Team".  
+
+Although the replacement Iron Man (James Rhodes, later codenamed [[War Machine]]) convinced the Blizzard to leave Hammer's service and attempt to reform, he eventually returned to crime and to his old employer.  Much later, Abner Jenkins (the Beetle, now codenamed MACH-1) convinced him to join his new team of [[Thunderbolts (comics)|Thunderbolts]]. He is currently trying his best to reform. Very meek for a former supervillain, he has some trouble asserting himself. Donny is now part of Thunderbolts Team B and busy apprehending super-villains for the [[Commission on Superhuman Activities]].
+
+==Blizzard III==
+A third Blizzard appeared only once: in the [[1992]] ''Marvel Holiday Special''.  After losing his job, he stole a Blizzard costume from the home of his friend Donny Gill, who was in prison at the time.  He made a brief and half-hearted attempt at a criminal career, but Iron Man quickly defeated him and, in the spirit of the season, offered him a legitimate job at Stark Enterprises.
+
+==Powers and abilities==
+All Blizzards had the same powers which were derived from their costume. The original costume used by all three Blizzard had the following abilities: The micro circuitry of the costume is highly advanced and enables the wearer to freeze any moisture in the air around the wearer into unusually hard ice to form various projectiles and shields. It is capable of shooting small ice missiles or bullets with sufficient force and density to cut steel. The wearer can also make metal brittle by coming into direct contact with it. The wearer is effectively shielded from sub-zero temperatures the suit generates. It can also project enough cold to lower the temperature in a room from 68 to 32 degrees Fahrenheit in 30 seconds. However, the finite supply of water and moisture that the suit is able to take into its reserves is not sufficient to create giant ice bridges such as the mutant Iceman is capable of creating. 
+
+The current costume used by Donny Gill has been improved upon by the members of the Thunderbolts formerly known as the [[Beetle]] and the [[Fixer]]. It can essentially emulate most of the powers originally wielded by the mutant known as [[Iceman (comics)|Iceman]], including the spontaneous generation of Ice Bridges for extremely swift and maneuverable transportation (it does not give the wearer thermal vision). The limits of this costume are not yet known.
+
+Aside from the costume none of the Blizzards had any permanent superhuman abilities. However, the first Blizzard was an accomplished engineer and a pioneer in the field of cryonics.
+
+==In Other Media==
+[[Image:Hypnotia Blizzard Iron Man (TV series).jpg|250px|thumb|[[Hypnotia]] and Blizzard in Iron Man (TV series)]]
+In the [[1994]] [[Iron Man (TV series)|''Iron Man'' animated series]], Blizzard served as one of the minions of [[Mandarin (comics)|the Mandarin]]. He also appeared in the series' [[Armor Wars]] adaptation, alongside [[Blacklash]]. He was voiced by [[Chuck McCann]].
+
+==External links==
+*[http://www.marveldirectory.com/individuals/b/blizzardi.htm Blizzard (I) at MarvelDirectory.com]
+*[http://www.marveldirectory.com/individuals/b/blizzardii.htm Blizzard (II) at MarvelDirectory.com]
+
+[[Category:Iron Man villains]]
+[[Category:Fictional characters with the power to manipulate ice or cold]]
+
+[[fr:Blizzard (comics)]]

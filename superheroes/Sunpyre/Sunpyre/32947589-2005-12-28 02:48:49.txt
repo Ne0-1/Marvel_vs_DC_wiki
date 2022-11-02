@@ -1,0 +1,37 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Sunpyre-Comic01.jpg|250px]]
+|caption=Sunpyre. Art by Salvador Larroca.
+|comic_color=background:#ff8080
+|character_name=Sunpyre
+|real_name=Leyu Yoshida
+|publisher=[[Marvel Comics]]
+|debut=''[[Uncanny X-Men]]'' #392
+|creators=[[Scott Lobdell]]<br>[[Salvador Larroca]]
+|alliance_color=background:#ffc0c0
+|status=active
+|alliances=[[Big Hero 6]]
+|previous_alliances=[[X-Men]], [[X-Corps]]
+|aliases=None
+|relatives=[[Sunfire]] (brother, presumably deceased), [[Shingen Harada]] (cousin, deceased), [[Silver Samurai]] (half-cousin), [[Mariko Yashida]] (half-cousin, deceased)
+|powers=Flight, plasma blasts, ability to view infra-red, radiation immunity.
+|}}
+
+'''Sunpyre''' (real name '''Leyu Yoshida''') is a [[fictional character]] of the [[Marvel Universe]] associated with the [[X-Men]]. She is the sister of [[Sunfire]].
+
+==Character biography==
+Leyu Yoshida and her brother Shiro were born to a mother who suffered [[radiation poisoning]] due to exposure to the [[Atomic bombings of Hiroshima and Nagasaki|atomic bombing]] of [[Hiroshima]], [[Japan]]. As a result, she and her brother were born [[Mutant (fictional)|mutants]], possessing identical powers. Her brother would go on to be the well-known Japanese superhero Sunfire.
+
+Leyu first appeared, during the [[Eve of Destruction (comics)|Eve of Destruction]] storyline, when she joined the [[X-Men]] for a single mission, to help fight [[Magneto (comics)|Magneto]]. She went in place of her brother, who was unavailable at the time.
+
+[[Banshee (comics)|Banshee]] later requested her to join his [[X-Corps]] (again replacng Sunfire, who didn't want to join). She served with the team until she was apparently killed when members of the [[Brotherhood of Evil Mutants]] hijacked the group. However, she reappeared alive and well in '''[[Alpha Flight]]''' vol. 3 #9 (January, 2005).  She had even replaced her brother among the [[Big Hero Six]]. No explanation has been offered of her apparent [[resurrection]].
+
+She addressed her new teammate [[Honey Lemon]] as her "beloved". The implication being that the two women are romantically involved.
+
+
+[[Category:Asian superheroes]]
+[[Category:Fictional elementals]]
+[[Category:Marvel Comics mutants]]
+[[Category:X-Men members]]
+
+
+{{Marvel-Comics-stub}}

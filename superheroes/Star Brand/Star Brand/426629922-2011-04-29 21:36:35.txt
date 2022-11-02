@@ -1,0 +1,175 @@
+{{Infobox comics object and title
+<!--Wikipedia:WikiProject Comics-->
+|pub = y
+<!-- Element section -->
+<!-- |name                = Star Brand -->
+|image               = <!-- filename format only -->
+|imagesize           = <!-- default 250 -->
+|caption             = 
+|publisher           = Marvel Comics
+|debut               = ''Star Brand'' #1
+|debutmo             = October
+|debutyr             = 1986
+|creators            = Jim Shooter<BR>John Romita, Jr.
+|cosmic              = y
+|supports            = 
+
+<!-- Series section -->
+<!-- |title               = Star Brand -->
+|cvr_image           = Star Brand 1.jpg
+|cvr_caption         = Cover to Star Brand #1<br/> Art by [[John Romita Jr.]]
+|schedule            = Monthly (1-7)<br>Bi-monthly (8-19)
+|ongoing             = Y
+|Superhero           = y
+|pub_series          = [[Marvel Comics]]
+|date                = 
+|1stishhead          = 
+|1stishyr            = 1986
+|1stishmo            = October
+|endishyr            = 1989
+|endishmo            = May
+|issues              = 19, 1 Annual
+|main_char_team      = Ken Connell
+|writers             = [[Jim Shooter]]<BR>[[Roy Thomas]]<BR>[[Cary Bates]]<BR>[[George Caragonne]]<BR>[[John Byrne (comics)|John Byrne]]<BR>[[Bobbie Chase]]
+|artists             = [[John Romita, Jr.]]<BR>[[Alex Saviuk]]<BR>[[Arvell Jones]]<BR>[[Keith Giffen]]<BR>[[Mark Bagley]]<BR>[[John Byrne (comics)|John Byrne]]<BR>[[Geof Isherwood]]
+|pencillers          = 
+|inkers              = 
+|letterers           = 
+|colorists           = 
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = [[Jim Shooter]]<BR>[[John Romita, Jr.]]
+|TPB                 = 
+|ISBN                = 
+|nonUS               = 
+
+<!-- Category section -->
+|subcat              = Marvel Comics
+|altcat              = 
+|sortkey             = Star Brand
+|addpropcat#         = 
+|addpubcat#          = 
+}}
+The '''Star Brand''' is the name of a number of similar [[fiction]]al [[comic book]] objects of power all of which exist in the [[Multiverse (Marvel Comics)|multiverse]] created by the [[shared universe]]s of [[Marvel Comics]]. Two of these Star Brands have been prominently featured in two separate series published by Marvel.
+
+The original Star Brand is a star-shaped [[tattoo]]-like mark that first appeared in the comic book series ''Star Brand'', published by Marvel Comics as a part of its [[New Universe]] [[imprint]] from [[1986 in comics|1986]] to [[1989 in comics|1989]]. All of the other Star Brands are alternates of this original version.
+
+The Star Brand gave its bearer infinite, god-like powers, limited only by the wielder's imagination (see below). After the end of the series and the New Universe imprint, the Star Brand made appearances in Marvel's main shared universe, the [[Marvel Universe]].
+
+The second notable Star Brand is a glowing [[glyph]], shaped like the original Star Brand and giving identical powers. This Star Brand is featured in [[newuniversal]], a series featuring a universe that is a [[Remake|reimagining]] of the original New Universe that began publication in [[2006 in comics|2006]].
+
+==Powers and function==
+The most easily attainable powers of the Star Brand are flight, incredible strength, invulnerability and the ability to unleash blasts of destructive energy, up to the equivalent of a nuclear explosion in force (this last power is problematic, as the blast manifests as a sphere centered on the wielder indiscriminately destroying everything in his vicinity).  In addition, the brand makes the bearer immortal, preserving him from aging and reviving and regenerating his body upon its violent death (Upon reviving, the Star Brand bearer will first take on a transitory but freakish alien shape before reverting to his normal human appearance; more than once, this has led observers to erroneously believe that the bearer is an alien masquerading as a human). The Star Brand's power also has a minor mutagenic aspect, in that those who wield it for a great number of years will grow taller and more massive. It is possible that all these "basic" abilities are the result of the infinite power of the Star Brand responding to the subconscious desires of the bearer.
+
+The power of the Star Brand must be called up by the bearer's will (except for its preservative properties, which function subconsciously). If the bearer is frightened or disoriented, it is possible for their control to slip and leave him defenseless. Anger focuses the power, and will automatically activate it before the user can consciously do so. In time, the bearer uses the Star Brand instinctively until, if he wishes it, he has to consciously choose to turn it off.
+
+With time, imagination and will, the bearer of the Star Brand can expand its abilities into anything he can conceive of. Early examples are learning to direct its destructive energy into controlled bolts and healing wounds of the bearer or others at will. Expanded powers have included the 
+ability to "burn-out" the powers of other paranormals, creating objects from nothing (up to entire cities), reconstructing and redesigning the bodies of living beings, rendering inert all nuclear warheads on the planet and even time travel.
+
+The brand itself is roughly the size of the palm of the hand and as far as has been shown is immaterial and effectively only two-dimensional. The Brand is utterly black in color and is smooth and warm to the touch. As long as it is somewhere on their skin the bearer may wield its powers. The brand can be transferred to another part of the body if the bearer wills it by skin-to-skin contact, thus the bearer can choose to place the Star Brand anywhere on his person, willing it into his hand then placing it anywhere on their body. However, this transfer involves some energy discharge, and the brand will burn off any hair it is placed over.  The Star Brand and its power can be transferred to another person, but former owners are always left with a remnant of about 10% of its power, a remnant which regenerates and in time will grow to equal the original. In the series, the inaccuracy of the statement "10% of infinity" was noted, but never dealt with directly.
+
+The Star Brand must be carried by a sentient being, otherwise its energy is spontaneously released in a massive uncontrolled explosion. The two most significant events of the New Universe, the [[White Event]] and the [[The Pitt|destruction of Pittsburgh]] (later dubbed the [[Black Event]]), were caused by attempts to transfer the Star Brand to inanimate objects.
+
+There is some risk of "fallout" from massive uses of the Star Brand's power. Backlash from the Star Brand has occasionally altered nearby landscape and life.
+
+==New Universe Star Brand==
+===Back story===
+The defining event of the New Universe, the [[White Event]], was a result of one user's attempt to place the Star Brand on an inanimate object (an [[asteroid]]) in order to rid himself of the power. The brand, unchecked by a higher intelligence, released a huge amount of energy in a single blast. This energy bombarded Earth, mutating a portion of the population and endowing them with various paranormal traits or abilities. This phenomenon set the stage for all the New Universe titles.  {{Issue|date=April 2009}}
+
+===Wielders===
+There were four men who wielded the power of the Star Brand during the course of the original series run:
+
+*'''Ken Connell''' is the main character through most of the series. He is a car mechanic from [[Pittsburgh, Pennsylvania|Pittsburgh]] who receives the Star Brand on Saturday, August 2, 1986, from a mysterious Old Man he meets in the woods while [[dirt bike|dirtbiking]]. Ken tries to use his powers to help others, but usually finds his efforts thwarted by the complexities of the real world, his own personal failings and his unwillingness to publicly reveal himself. At first, he was given a costume by the Old Man based upon his dirtbiking suit, which was allegedly as invulnerable as he. However, he rarely had the chance to change into it during a crisis and eventually its invulnerability was exposed as an illusion. Later, Connell attempted to become a traditional superhero, donning a spandex bodysuit and mask to openly thwart [[terrorist]]s on several occasions. However, this superhero career was short-lived and led to disaster. Though intelligent, he was self-involved and lacked the imagination and curiosity that would allow him to understand and wield the brand to its fullest potential. He eventually decided that he would be better off without his powers, and unintentionally caused the [[The Pitt|destruction of all of Pittsburgh (the Black Event)]] when attempting to transfer the brand to a non-living object.
+
+*'''The Old Man''' was the first known wielder of the brand. Originally he claimed to be an alien warrior engaged in a cosmic struggle against conquerors who desperately wanted to steal his power for themselves. Later it was revealed that he was a centuries-old Dutch trader who had received the Star Brand from a blast from the sky and had been kept alive by its power. After his failure to get rid of the Star Brand by placing it on an asteroid in space (and thereby causing the White Event), he returned to Earth and gave the brand to the first person he encountered, Ken Connell. Later regretting this decision, he attempted to trick Connell into giving the brand back to him, and failing that, resorted to terrorizing Connell on numerous occasions. After being defeated by Connell several times, he was revealed to be an older version of Connell himself who had been thrown 500 years into the past by the Star Child.
+
+*'''The Star Child/Star Baby:''' was the illegitimate son of Ken Connell and his girlfriend Debbie "The Duck" Fix. Conceived while Connell wielded the Star Brand, he was born fully possessed and conscious of its power, growing at an extremely accelerated rate both physically and mentally due to its influence. He was much more selfless than his father, and had a much more instinctual grasp of the Star Brand and how to use it, but was at first painfully ignorant of the ways of the world. After several naive attempts to improve the world through direct use of his power, he retreated to space to meditate for an extended time on how best to apply the star brand's potential. Eventually, he realized that the Star Brand was a cosmic anomaly and no good could come of its continued existence. Soon after he formulated and enacted a plan to seal its power away forever by gathering all the bearers of the power and locking them in a loop of time. However, the Star Child neglected to isolate the power which had accidentally been transferred to pilot Jim Hanrahan, who later, when Quasar was blasted into the New Universe, transferred his portion of the power to [[Quasar (comics)|Quasar]].
+
+*'''Jacob Burnsley''' was the fourth wielder of the Star Brand, chosen by the Star Child to watch over the world while he contemplated the Star Brand's role in isolation. Deciding that much of the trouble caused by the Brand was the result of it being held by a young man lacking wisdom or experience, the Star Child instead chose an older man who would be less impulsive. Burnsley was a retired janitor and veteran of [[World War II]] who used his power only after much consideration and put it to many new uses. In his time, he depowered the power-hungry paranormal president of the United States [[Philip Nolan Voigt]] and attempted to restore Pittsburgh after its destruction.
+
+===Creators===
+====Writers====
+* [[Jim Shooter]] - ''Star Brand'' #1-7 (October 1986-May 1987)
+* [[Roy Thomas]] - ''Star Brand'' #7 (May 1987)
+* [[Cary Bates]] - ''Star Brand'' #8-9 (July 1987-September 1987)
+* [[George Caragonne]] - ''Star Brand'' #10 (November 1987)
+* [[John Byrne (comics)|John Byrne]] - ''The Star Brand'' #11-19 (January 1988-May 1989)
+* [[Bobbie Chase]] - ''Star Brand Annual'' #1 (1987)
+
+====Art====
+* [[John Romita, Jr.]] - ''Star Brand'' #1-2, 4-7 (October 1986-November 1986, January 1987-May 1987)
+* [[Alex Saviuk]] - ''Star Brand'' #3 (December 1986)
+* [[Arvell Jones]] - ''Star Brand'' #8 (July 1987)
+* [[Keith Giffen]] - ''Star Brand'' #9 (September 1987)
+* [[Mark Bagley]] - ''Star Brand'' #10 (November 1987)
+* [[John Byrne (comics)|John Byrne]] - ''The Star Brand'' #11-19 (January 1988-May 1989)
+* [[Geof Isherwood]] - ''Star Brand Annual'' #1 (1987)
+
+===Collections===
+* ''Star Brand Classic Vol. 1'' (collecting Star Brand #1-7, paperback), ISBN 0-7851-2352-0.
+
+===Reintroduction===
+[[File:Quasar 49.jpg|left|thumb|Cover to ''Quasar'' #49 featuring [[Kayla Ballentine]] using the Star Brand]]
+Following the dissolution of the New Universe imprint, [[Mark Gruenwald]], the writer of the New Universe title ''[[DP7 (comics)|DP7]]'', who still retained a great fondness for the New Universe, decided to use the Star Brand and other New Universe characters some years later when he was the writer for ''[[Quasar (comics)|Quasar]]''.  He later used them in the ''[[Starblast]]'' [[limited series]] and  [[fictional crossover|crossover]] which ended when [[Stranger (comics)|The Stranger]]  used the Starbrand to move the Earth of the New Universe into orbit around his labworld.
+
+====Wielders====
+During this period there were five individuals who wielded the Star Brand:
+
+*'''Jim Hanrahan''' first appeared in the final issue of the original Starbrand series, though his last name was not given until ''Quasar'' #56. Jim was a [[Fighter aircraft|fighter]] [[Aviator|pilot]] who, during a flight encountered the Star Child, lost control of his jet and crashed. When he awoke on the ground he was unharmed save for a strange tattoo on his hand. The revelation of this remnant of the Starbrand surviving its destruction was the last panel of the original series, and served as a "stinger" ending to the complete story. After recovering, Hanrahan's new powers manifested and he had a [[Dream|recurring dream]] in which the Star Child saved him during his crash and used the Starbrand to heal him by imparting it to him. Fearing a repetition of the paranormal disaster which had destroyed Pittsburgh, Hanrahan kept his abilities a secret and never used them. Stranded in the New Universe, the hero Quasar sought him out to acquire the Star Brand's power to return home. Leery of giving the power to a complete stranger (one who claimed to be a superhero from what in the New Universe was a fictional comicbook, no less) Hanrahan spent hours questioning Quasar to learn his character before relenting and giving the Star Brand away.
+
+*'''Quasar''' returned to the mainstream Marvel universe through the use of the Starbrand. At first, he believed that the supreme effort of bridging not just dimensions but whole quanta of reality (the New Universe was not simply a parallel reality but a fundamentally different continuum from any of the alternate Marvel universes) had used up all the power of the Starbrand. However, a trace remained and once back he accidentally passed it on to his [[secretary]] Kayla Ballantine, unconsciously imprinting the Star Brand on to the base of her neck.
+
+*'''Kayla Ballantine''' was Quasar's secretary at the time she received the Star Brand. Once her powers began to manifest, she became the target of numerous alien individuals and groups. These include the [http://www.marvunapp.com/Appendix/dance.htm Dance], the [[Chief Examiner]], and a group of interplanetary mauraders known as the [http://www.marvunapp.com/Appendix/starblst.htm Starblasters]. Ballantine would eventually pass the Star Brand on to [[Stranger (comics)|The Stranger]] in order to prevent Skeletron (the leader of the Starblasters) from forcibly taking the Star Brand. After the threat posed by the Starblasters was over the Star Brand was returned to Ballantine. She remained on the New Universe Earth after it was moved into the Marvel Universe and cut off from the rest of that universe.
+
+*'''Ereshkigal''', a [[Deviants (comics)|Deviant]] who briefly succeeded in taking the Star Brand from Kayla Ballantine and began to wreak havoc with it. [[Ereshkigal (Marvel Comics)|Ereshkigal]] was swiftly confronted by Quasar and the [[Silver Surfer]]. When the [[Living Tribunal]] intervened, she chose suicide over surrender, using the Brand's power to disintegrate herself.
+
+*'''The Stranger''''s first action after taking possession of the Star Brand was to move the earth of the New Universe into the Marvel Universe and place it in orbit around his labworld. His intention was to use it for his experiments. This was prevented when the Living Tribunal arrived and judged the Star Brand to be a threat to the hierarchy of the cosmic powers of the Marvel Universe. A barrier was placed around the New Universe Earth in order to [[quarantine]] it from the rest of the universe.
+
+===Cameo appearances===
+The Star Brand appeared briefly in ''[[Gambit (comics)|Gambit]]'' #19, published in August 2000. Writer [[Fabian Nicieza]] asked illustrators [[Yannick Paquette]] and [[Sean Parsons]] to include ''Star Brand'' as one of the characters glimpsed in a page that showed a variety of Marvel's alternate realities.
+
+==newuniversal - Star Brand==
+[[File:Starbrand newuniversal.jpg|thumb| Star Brand.  "Breaks" ''newuniversal: shockfront'' #2 (2008). Writer [[Warren Ellis]], Penciler [[Steven Kurth]], Colorist [[Chris Chuckry]]]]
+{{Main|Star Brand (newuniversal)}}
+
+Writer [[Warren Ellis]] re-imagined the New Universe and has since named it [[newuniversal]], portraying [[Kenneth Connell (comics)|Kenneth Connell]] as the Star Brand, originally from Optima Down, Oklahoma.  The origin of the Star Brand is central to the entire New Universe re-imagining.  The Star Brand was supposedly artificially created by a long-dead alien race as a tool that confers amazing powers to its wielder.<ref name="nu_sb001">{{Comic book reference | Writer = [[Warren Ellis]] | Artist = [[Salvador Larroca]] | Story = Mathematics | Title = newuniversal | Issue = 3 | Date =  2007| Publisher = [[Marvel Comics]] | }}</ref> The purpose of the Star Brand glyph (tattoo) is to help the transition of a world through the inevitable [[paradigm shift]] caused when it comes into contact with a web of [[strange matter]], called "newuniversal structure", wherein normal physical laws operate differently. Specifically, the newuniversal web causes normal humans to become superhumans, or paranormals.
+
+Ken represents an average man whose life is drastically changed, which is one of the major themes in ''newuniversal''.  Ken’s life is a relatively normal one where the most dangerous thing about it is that the city’s sheriff hates him because he is dating his daughter, Madeline Felix.  After a night out drinking Kenneth and Madeline fall asleep on a hillside. In the early hours of March 1, 2006, while they sleep, the [[White Event]] takes place, granting him the Star Brand glyph.  Ken wakes to find Madeline dead beside him, burned to death when the White Event granted him the star brand.  The energies were so strong that a symbol of the Star Brand had been scorched into the hillside around them, with Kenneth at its center.<ref name="nu_sb1_08">{{Comic book reference | Writer = [[Warren Ellis]] | Artist = [[Salvador Larroca]] | Story = Enter | Title = newuniversal | Issue = 1 | Date =  2007| Publisher = [[Marvel Comics]] | }}</ref> The events of the following few hours push him over the edge as they move far too quickly for him to handle.
+
+Ken spends the next two weeks in a deep depression, coming to terms with his new powers and supposed responsibilities.  Believing that Madeline’s death was caused by the fact that he was asleep and therefore unable to consciously control the energies of the Star Brand (not limiting the Star Brand with conscious control), he decides to ”wake up” and deal with it. 
+
+The re-imagined newuniversal has only just begun, as such the powers and abilities of the Star Brand have yet to be fully explained.
+
+==Other versions==
+===''Exiles''===
+Alternate versions of Ken Connell and the Star Brand appear in ''[[Exiles (Marvel Comics)|Exiles]]'' during that series' "Worlds Tour" story-arc. The issues depicting this story are #72 - 74, January through March of [[2006 in comics|2006]]. 
+
+This story is set in a slightly different version of the New Universe (designated as Earth-15731), prior to the Pitt. It sees the Exiles join forces with [[DP7 (comics)|D.P.7]] and Ken Connell to prevent an alternate version of [[Proteus (comics)|Proteus]] from taking control of Connell's body and the Star Brand itself.
+
+===''Avengers Forever''===
+In 1998 - 1999 miniseries ''[[Avengers Forever]]'', a version of Ken Connell appeared briefly as one of the Alternate Avengers fighting in The Destiny War.
+
+===''Untold Tales of the New Universe''===
+''Untold Tales of the New Universe: Star Brand'' (2006) briefly mentions three more alternate versions that have been investigated by Arden and her fellow Lateral Shifters:
+
+*The Star Brand of Earth-541 has united the world under his own rule, appointing himself as a global monarch and imposing world peace.
+*The Star Brand of Earth-723 has channeled his power into music, using that power to unite the people of his world.
+*The Star Brand of Earth-886 protects her world from "powerful evil forces" and is the "idol of billions".
+
+The three Star Brand marks are also pictured - each one looks distinctly different (and none of them resemble the New Universe version).
+
+===Legends===
+In issue number five of the [[DC Comics]] [[limited series]] ''[[Legends (comics)|Legends]]'' (March-1987), [[Guy Gardner (comics)|Guy Gardner]] battles a villain called "Sunspot", who is a parody of both Ken Connell and original Star Brand creator Jim Shooter (who modeled many aspects of the Connell character on himself). At one point Sunspot exclaims "I wield the ultimate power...the power to create a New Universe..."  Issued around the time of the failure of the New Universe line and Shooter's departure from Marvel, the scene in Legends depicts Shooter/Connell/Sunspot accidentally shooting off his own foot. {{Citation needed|date=April 2010}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.marvunapp.com/Appendix/starbd.htm The Star Brand in detail at Appendix to the Marvel Universe]
+
+[[Category:New Universe]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Characters created by John Romita, Jr.]]
+[[Category:Characters created by Jim Shooter]]
+[[it:Star Brand]]

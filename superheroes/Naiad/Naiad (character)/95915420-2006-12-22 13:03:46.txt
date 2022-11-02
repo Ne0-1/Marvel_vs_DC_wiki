@@ -1,0 +1,22 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name = Naiad
+| publisher = [[DC Comics]]
+| debut = ''[[Firestorm (comics)|Firestorm, the Nuclear Man]]'' #90
+| creators = 
+| alter_ego = Mai Miyazaki
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = <!-- optional -->
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports= [[Firestorm (comics)|Firestorm]]
+| powers = Elemental of Water
+}}
+'''Mai Miyazaki''', the '''Naiad''' first appeared in ''[[Firestorm (comics)|Firestorm, the Nuclear Man]]'' #90, in which she was revealed to be the [[elemental]] of [[Water (classical element)|water]], in the same league as [[Firestorm (comics)|Firestorm]] ([[Fire (classical element)|fire]]), [[Red Tornado]] ([[Air (classical element)|air]]), and [[Swamp Thing]] ([[Earth (classical element)|earth]]).
+
+[[Category:DC Comics characters]]
+
+
+{{DC-Comics-stub}}

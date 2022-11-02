@@ -1,0 +1,63 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image= Carternicholsdcu0.jpg
+|imagesize= <!-- numeral only, defaults to 250 -->
+|converted = y
+|caption = Professor Carter Nichols, from ''[[Batman]]'' #36,</br>artist [[Bob Kane]]
+|character_name = Professor Carter Nichols
+|real_name = Carter Nichols
+|publisher=[[DC Comics]]
+|debut = ''[[Batman]]'' #24,</br> (August 1944)
+|creators = [[Joe Samachson]] (writer)</br>[[Dick Sprang]] (artist)
+|Base of operations = [[Gotham City]]
+|species   = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances = <!-- optional -->
+|partners  = <!-- optional -->
+|supports  = [[Batman]]
+|aliases   =  <!-- optional: actual identities the character uses, not nicknames -->
+|powers = trained [[historian]], [[psychologist]], [[hypnotist]], [[engineer]], [[physicist]] and [[polymath]]
+|cat = super
+|subcat = DC Comics
+|hero = 
+|villain = 
+|sortkey = Professor Carter Nichols
+}}
+
+'''Professor Carter Nichols''' is a [[fictional character]], a [[comic book]] [[scientist]] published by [[DC Comics]]. He first appeared in ''[[Batman]]'' #24 (August 1944), and was created by [[Joe Samachson]] and [[Dick Sprang]].
+
+==Fictional character biography==
+His appearances nearly always involved some form of [[time travel]], based around his particular specialty referred to as "time travel hypnosis", a process that simulated time travel; the stories themselves are less than clear on this respect. At some point he develops a "Time-Ray Machine" which he used to both displace and track objects through time.
+
+Professor Nichols was a useful character to lend some ''sci-fi'' "color" to ''Batman'' stories from the late 1940s to the 1960s where he made numerous appearances in the pages of both ''[[Batman]]'' and ''[[World's Finest Comics]]'', when more conventional [[superhero]] tales were out of favor and most remaining books of the genre drifted into sci-fi and related genres.<ref>As seen in ''Batman'' vol. 1 #24 (August 1944)</ref>
+
+In the mid-1970s the character was reintroduced in the comic book ''[[Superfriends]]'' continuity as a mentor for the [[Wonder Twins]], who lived with him in their civil identities of John and Joanna Flemming. 
+
+He was depicted as an older man still assisting Bruce Wayne with his "time travel hypnosis" in ''[[The Brave and the Bold]]'' #171 (Feb. 1981), featuring Batman and [[Scalphunter (DC Comics)|Scalphunter]] in a team-up story written by [[Gerry Conway]] and illustrated by [[José Luis García-López]].
+
+In 2010, the character reappeared in ''Batman'' #700 and in ''[[Batman: The Return of Bruce Wayne]]'' #5, where the Black Glove- lead by the mysterious Doctor [[Simon Hurt]]- attempted to convince Carter to help aid them in a sacrifice to the bat-god Barbatos in exchange for funding for his time-travel experiments, only for Nichols to reject the offer when he refused to participate in the sacrifice.
+
+==In other media==
+===Television===
+* Professor Nichols appears in the ''[[Batman: The Brave and the Bold]]'' episode "Last Bat on Earth!" voiced by [[Richard McGonagle]]. [[Gorilla Grodd]] forces him to transport him to [[Kamandi]]'s time using a time ray, and later uses it to transport Batman there, in order to stop him.
+
+==See also==
+* Professor Alpheus V. Hyatt, an [[Atom (Ray Palmer)|Atom]] supporting character who fulfills a similar role by means of his Time Pool.
+* [[Rip Hunter]], a time traveling adventurer currently associated with [[Booster Gold]].
+* [[Cosmic Treadmill]], a device that the [[Flash (Barry Allen)|Flash]] used in similar stories
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://wiki.superman.nu/wiki/index.php/Professor_Carter_Nichols Supermanica: Professor Carter Nichols]
+* [http://dc.wikia.com/wiki/Batman_Vol_1_24 DC Database: Batman Vol 1 #24]
+* [http://dc.wikia.com/wiki/Carter_Nichols_%28Earth-One%29 DC Database: Carter Nichols (Earth-One)] 
+* [http://dc.wikia.com/wiki/Professor_Nichols%27_Time-Ray DC Database: Professor Nichols' Time Ray]
+* [http://goldenagecomics.libsyn.com/index.php?post_id=12495 ''The Golden Age of Comic Books'' article]
+
+[[Category:Characters created by Dick Sprang]]
+[[Category:Fictional scientists]]
+[[Category:Fictional professors]]
+[[Category:DC Comics characters]]
+[[Category:Time travel comics]]
+[[Category:Comics characters introduced in 1944]]

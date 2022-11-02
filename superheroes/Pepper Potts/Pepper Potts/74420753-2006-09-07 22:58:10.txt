@@ -1,0 +1,19 @@
+{{Supersupportingbox| <!--Wikipedia:WikiProject Comics-->
+character_name = Pepper Potts
+| image =[[Image:peppervirginiapotts.jpg|250px]]
+| caption = Art by Don Heck
+| comic_color = background:#ff8080
+| publisher = [[Marvel Comics]]
+| [[Tales of Suspence]] # 45, [[September]], [[1963]]
+| creators = [[Stan Lee]]<br />[[Don Heck]]
+| full_name = Virginia "Pepper" Potts
+| status = 
+| supports = [[Iron Man]]
+| relatives = [[Happy Hogan]] (husband)
+}}
+
+'''Virginia "Pepper" Potts''' is a [[fictional character|fictional ]] [[supporting character]] in the [[Marvel Comics]] [[Marvel Universe|universe]], debuting in 1960s [[comic book]]s as executive secretary to Tony Stark, a.k.a. [[Iron Man]], in ''[[Tales of Suspense]]''. Pepper was originally infatuated with Tony and responded to the attentions of Stark's chauffeur and assistant [[Happy Hogan]] with caustic remarks. However, she eventually fell in love with and married Hogan.
+
+{{Marvel-Comics-stub}}
+[[Category:Iron Man supporting characters|Potts, Pepper]]
+[[Category:Fictional secretaries|Potts, Pepper]]

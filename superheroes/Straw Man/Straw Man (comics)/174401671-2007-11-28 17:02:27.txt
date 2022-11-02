@@ -1,0 +1,34 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Straw Man
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Dead of Night (comics)|Dead of Night]] #11'' (Aug 1975)
+|creators=[[Scott Edelman]] and [[Rico Rival]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=Scarecrow
+|relatives=
+|powers=
+|}} 
+
+The '''Scarecrow''', later named '''Straw Man''', is a [[fictional character]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]].  He is an extra-dimensional magical entity (possibly a [[Demons (Marvel Comics)|demon]]) which takes vengeance on its enemies, and was invited by [[Dweller-in-Darkness]] to join the [[Fear Lords (comics)|Fear Lords]], but he betrayed them to [[Doctor Strange]].
+
+He was created by [[Scott Edelman]] and [[Rico Rival]] in ''[[Dead of Night (comics)|Dead of Night]]'' #11 (it was intended for ''Scarecrow'' #1, which even made it to subscription pages, but that series did not happen).  The story by Edelman and [[Ruben Yandoc]] for ''Scarecrow'' #2 appeared in [[Marvel Spotlight]] #26, and was eventually concluded by [[Bill Mantlo]] in ''[[Marvel Two-in-One]]'' #18 with art by [[Ron Wilson (comics)|Ron Wilson]], [[Jim Mooney]], and [[Dan Adkins]].  He lives inside a painting of a laughing Scarecrow purchased by Jess Duncan and opposes the centuries-old Cult of Kalumai.  [[Gil Kane]] and [[Berni Wrightson]] provided cover art.
+
+Many years later, he was brought back in the pages of ''[[Dr. Strange, Sorcerer Supreme]]'' #31, by [[Jean-Marc Lofficier]], [[Roy Thomas]] and [[Dann Thomas]], with art by [[Larry Alexander]], in which he took on the name "Straw Man" to differentiate himself from the costumed killer the [[Scarecrow (Marvel Comics)|Scarecrow]].  He subsequently appeared in issues #38, and #40, written by the same and drawn by [[Geoff Isherwood]], meeting [[Daredevil (Marvel Comics)|Daredevil]] in the latter issue.
+
+Scarecrow did not speak in his early appearances, but in his later appearances he most certainly did, and he pretended to be a newscaster named Skirra Corvus, [[Latin]] for "Scarecrow."
+
+==External links==
+*[http://www.marvunapp.com/Appendix/strawman.htm The Straw Man at marvunapp.com]
+
+[[Category:Marvel Comics demons]]
+[[Category:Marvel Comics supervillains]]
+
+{{Marvel-Comics-stub}}

@@ -1,0 +1,52 @@
+{{Superherobox|
+image=[[Image:Calendarman.jpg|230px]]
+|caption=Calendar Man<br>[[Tim Sale (artist)|Tim Sale]], artist.
+|comic_color=background:#8080ff
+|character_name=Calendar Man
+|real_name=Julian Day
+|publisher=[[DC Comics]]
+|debut=''[[Detective Comics]]'' #259 (September 1958)
+|creators=[[Bill Finger]]<br>[[Sheldon Moldoff]](credited as bob kane)
+
+|alliance_color=background:#c0c0ff
+|alliances=The Misfits
+|aliases=
+|powers=
+|}}
+
+'''Calendar Man''' (real name: '''Julian Gregory Day''') is a [[fictional]] [[comic book]] [[supervillain]], and an enemy of [[Batman]], who appeared in books published by [[DC Comics]]. He first appeared in ''[[Detective Comics]] #259'' (September 1958). He was created by [[Bill Finger]].<ref name="dc-ency">{{Citation  | last = Wallace | first = Dan | author-link = | contribution = Calendar Man | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 65  | publisher = [[Dorling Kindersley]]  | place = New York  | year = 2008 | ISBN = 0-7566-4119-5 | oclc = 213309017}}</ref>
+
+==Fictional character biography==
+Calendar Man is fascinated by dates and calendars – even his real name is a pun on the [[Julian day|Julian]] and [[Gregorian calendar]]s. His crimes always have a relationship to the date that they are committed. The theme may be related to what day of the week it is or to a holiday or to a special anniversary on that date; he will plan his crime around that day. He often wears different costumes which correspond to the significance of the date, though he does have a main costume which has various numbers (meant to represent days on a calendar) sprouting from the shoulders.<ref name="dc-ency"/>
+
+Because his crimes are generally petty and often ridiculous in nature, he is notorious among both heroes and villains alike for being something of a joke. Consequently, his post-[[Crisis on Infinite Earths|Crisis]] appearances have been few and far between. He was once recruited by [[Killer Moth]] to form the villain team known as "The Misfits".
+
+His best-known latter day appearance is in the mini-series ''[[Batman: The Long Halloween]]'', where he is portrayed as a [[Hannibal Lecter]]-like figure, offering insight in Batman's search for [[Holiday (comics)|Holiday]], a [[serial killer]] who uses holidays as his M.O. Like Lecter in ''[[The Silence of the Lambs (novel)|The Silence of the Lambs]]'', Calendar Man knows who [[Alberto Falcone|the killer]] is and keeps this information to himself, choosing instead to taunt the heroes with cryptic clues. He returns in that story's sequel, ''[[Batman: Dark Victory]]''. In both stories, he is bitter that the new murderous rogues has taken the attention from him; Day fears that he is being forgotten.  He is seriously harmed by Sofia Falcone near the end of Dark Victory, described as being barely alive and having his jaw broken.
+
+Calendar Man is also known for teaming up with [[Catman (comics)|Catman]] and [[Killer Moth]] as part of ''The Misfits'', a group of third-rate villains trying to prove themselves, in ''[[Batman: Shadow of the Bat]]'' #7-9 (1992-1993).<ref name="dc-ency"/>  Also, he is among the [[Arkham Asylum]] inmates freed by [[Bane (comics)|Bane]] in "[[Knightfall]]", but he is easily recaptured by [[Power Girl]] shortly after his escape.
+
+He appears in ''[[Team Titans]]'' #14 (Nov '93). He and several other time-based villains, including [[Time Commander (comics)|Time Commander]], fight the title's heroes over a valued hourglass.
+
+Days appears in the third issue of the ''80 Page Giant Batman Special Edition'' (July 2000) entitled "All the Deadly Days". He has acquired a new high-tech costume, and moves up to more grandiose crimes.
+
+Day appears in [[Harley Quinn]]'s series, as an inside informant to the fugitive.
+
+In Week 20 of the weekly series ''[[52 (comics)|52]]'', a radio broadcasts a message saying that Calendar Man was left tied up for the cops in Gotham City, even though there is no Batman. It is revealed the new heroine Batwoman was responsible for his capture.<ref>"52" Week Twenty</ref>
+
+==Appearances in other media==
+* A female variation of the character named [[Calendar Girl (character)|Calendar Girl]] appears in ''[[The New Batman Adventures]]''. She wears a mask and plans her crimes around the [[Season|Four Seasons]], with a different costume corresponding to each season.
+
+* A parody of Calendar Man named Mister Monday appears on the [[Adult Swim]] animated series ''[[The Venture Bros.]]''
+
+* Calendar Man has been confirmed to appear in the new animated series ''[[Batman: The Brave and the Bold]]'', voiced by [[Jim Piddock]].<ref>[http://www.collider.com/entertainment/interviews/article.asp/aid/8890/tcid/1 Collider.com Interview] </ref>
+
+==References==
+{{reflist}}
+
+{{Batman}}
+
+[[Category:Golden Age supervillains]]
+[[Category:DC Comics supervillains]]
+[[Category:1958 comics characters debuts]]
+
+[[tl:Calendar Man]]

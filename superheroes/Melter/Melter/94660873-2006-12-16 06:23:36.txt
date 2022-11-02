@@ -1,0 +1,44 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Melter
+|real_name=Bruno Hogan
+|publisher=[[Marvel Comics]]
+|debut=''[[Tales of Suspense]]'' #47
+|creators=[[Stan Lee]]  [[Sam Rosen]]
+|alliance_color=background:#c0c0ff
+|status=Deceased
+|alliances=
+|previous_alliances= [[Masters of Evil]], Death Squad, [[Justin Hammer]]
+|aliases= None
+|relatives=ex-wife (unnamed)
+|powers= None:Possessed a special gun that could fire a beam causing any iron components upon which it shone to instantly begin to melt<br>Later modified the gun to melt practically anything
+|}}
+
+'''Melter''' is a [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]].  He has clashed with [[Iron Man]] on many occasions.
+
+==Character biography==
+'''Bruno Horgan''' was an industrialist who specialized in the development, design, and manufacture of weaponry and munitions for the [[United States]] government. Horgan was driven into [[bankruptcy]] when a government safety inspection team proved that he was using inferior materials. His defense contracts were later awarded to his foremost competitor, industrialist and inventor Anthony Stark, who was secretly the armored crimefighter [[Iron Man]]. As one of Horgan's factories was being dismantled, the bankrupt industrialist noticed a strange phenomenon. One of his poorly constructed, experimental [[radar]] devices had begun to malfunction. Casting a brilliant beam of light, it caused any [[iron]] components upon which it shone to instantly begin to melt. Horgan analyzed the device and redesigned it so that it could be strapped to his chest.
+
+After his defeat against Iron Man, Horgan was enrolled into the [[Masters of Evil]] by the [[robot]] known as [[Ultron]]. Once again defeated and send by prison, Melter escaped from it and became a member of the Death Squad. The group fought Iron Man several times, but of course time and time ended up defeated. During those days, Melter was revealed to be divorced from a yet to be identified wife. Melter's last act as a member of the Death Squad was when he was re-hired by [[Justin Hammer]] and had to rob a casino owned by Stark, but their plot was eventually thwarted yet again.
+
+While in jail, the Melter met a nuclear physicist who had been convicted for [[tax evasion]]. Together they developed a method of adjusting the Melter's melting beam to affect Iron Man's new armor. After leaving prison, the Melter confidently attacked Iron Man yet again. Unexpectedly, though, Iron Man happened to be wearing an old suit of armor that the Melter's beam, adjusted for Iron Man's new armor, did not melt, and the Melter failed again. 
+
+The Melter's most notable accomplishments were his murder attempt on [[Edwin Jarvis]], the butler of [[Avengers (comics)|the Avengers]], as seen in ''Avengers'' v1 #55, and his attack on a comatose [[Thing (comics)|Thing]], a member of the [[Fantastic Four]]. In ''Avengers'' #263, the Melter met his apparent end at the hands of the [[Scourge of the Underworld]], who was disguised as the Melter's assistant.
+
+==Powers & abilities==
+Horgan himself possessed no innate superhuman abilities, though he did possess a degree of scientific genius.
+
+His first Melter Ray could melt [[iron]].  Later versions of the Melter Ray (which took the form of a chest-mounted device) could melt most any [[metal]], as well as [[rock (geology)|stone]], [[wood]], and [[flesh]] (in the latter two cases the beam caused terrible burns rather than truly melting the target).
+
+==External link==
+*[http://www.advancediron.com/vault/melter.php Melter at AdvancedIron.com]
+
+[[Category:Iron Man villains]]
+[[Category:Masters of Evil members]]
+
+[[fr:Melter]]
+
+
+{{Marvel-villain-stub}}

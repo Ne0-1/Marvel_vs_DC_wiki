@@ -1,0 +1,28 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Locust
+|real_name=August Hopper
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Men]]'' #24 (Sep 1966)
+|creators=[[Roy Thomas]] and [[Werner Roth (comics)|Werner Roth]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''The Locust''' was a one-time [[supervillain]] foe of the [[X-Men]]. He made his debut in (Uncanny) [[X-Men]] #24 in [[September]] [[1966]]. His alter ego is [[Doctor of Philosophy|Doctor]] August Hopper, once a top name in [[entomology]], whose "crackpot theories" cost him his job. He relocated to Ryan Chemicals, where he developed a Magno-Ray which causes insects to grow to enormous sizes and allows him to control their actions. He sends an army of raging locusts, grasshoppers, wasps, and beetles to overthrow the world, but is eventually thwarted by the X-Men and surrenders to the authorities. 
+
+The Locust, as his name suggests, dresses like a giant [[locust]] and uses a personal [[jet pack]] to fly around. Along with his army of insects, Locust also carries a ray gun into battle.
+
+==External links==
+*http://www.marvunapp.com/Appendix/locust.htm
+
+
+[[Category:Marvel Comics supervillains]]

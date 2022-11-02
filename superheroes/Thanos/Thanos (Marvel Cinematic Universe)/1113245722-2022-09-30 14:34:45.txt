@@ -1,0 +1,626 @@
+{{short description|Character in the Marvel Cinematic Universe}}
+{{Use American English|date=June 2022}}
+{{Use list-defined references|date=June 2022}}
+{{Use mdy dates|date=June 2022}}
+{{Infobox character
+| color = #AF181F
+| name = Thanos
+| franchise = [[Marvel Cinematic Universe]]
+| image = Josh Brolin as Thanos.jpeg
+| caption = Thanos as portrayed by [[Josh Brolin]] via [[motion capture]] in ''[[Avengers: Infinity War]]'' (2018)
+| first = ''[[The Avengers (2012 film)|The Avengers]]'' (2012)
+| based_on = {{Based on|[[Thanos]]|[[Jim Starlin]]}}
+| adapted_by = {{Plainlist|
+* [[Zak Penn]]
+* [[Joss Whedon]]
+* [[Christopher Markus and Stephen McFeely|Christopher Markus<br />Stephen McFeely]]
+}}
+| portrayer = {{Plainlist|
+* [[Josh Brolin]]
+* [[Damion Poitier]] (motion capture; ''The Avengers'')
+}}
+| voice = Josh Brolin (''[[What If...? (TV series)|What If...?]]'')
+| full_name = Thanos
+| alias = {{Plainlist|
+* The Mad Titan
+}}
+| species = Titan
+| affiliation = {{Plainlist|
+* [[Children of Thanos (Marvel Cinematic Universe)|Children of Thanos]]
+* [[Chitauri (Marvel Cinematic Universe)|Chitauri]]
+* [[Species of the Marvel Cinematic Universe#Sakaarans|Sakaarans]]
+* [[Outriders (Marvel Cinematic Universe)|Outriders]]
+}}
+| weapon = {{Plainlist|
+* [[Infinity Gauntlet (Marvel Cinematic Universe)|Infinity Gauntlet]]
+* [[Features of the Marvel Cinematic Universe#Thanos' blade|Double-sided blade]]
+}}
+| occupation = 
+| family = {{Plainlist|
+* [[Mentor (A'lars)#Film|A'lars]] (father)
+* [[Eros (Marvel Cinematic Universe)|Eros]] (brother)
+}}
+| children = {{Plainlist|
+* [[Gamora (Marvel Cinematic Universe)|Gamora]] (adoptive daughter)
+* [[Nebula (Marvel Cinematic Universe)|Nebula]] (adoptive daughter)
+* [[Corvus Glaive (Marvel Cinematic Universe)|Corvus Glaive]] (adoptive son)
+* [[Cull Obsidian]] (adoptive son)
+* [[Ebony Maw (Marvel Cinematic Universe)|Ebony Maw]] (adoptive son)
+* [[Proxima Midnight (Marvel Cinematic Universe)|Proxima Midnight]] (adoptive daughter)
+}}
+| home = {{Plainlist|
+* [[Titan (Marvel Cinematic Universe)|Titan]]
+* [[Features of the Marvel Cinematic Universe#Garden|Garden]]
+}}
+}}
+'''Thanos''' is a [[Character (arts)|fictional character]] portrayed primarily by [[Josh Brolin]] via [[motion capture]] in the [[Marvel Cinematic Universe]] (MCU) [[media franchise]], based on the [[Marvel Comics]] supervillain [[Thanos|of the same name]]. Thanos is depicted as an alien [[warlord]] from the doomed planet [[Titan (Marvel Cinematic Universe)|Titan]] with a [[Malthusian]] mindset and galactic-spanning [[genocidal]] agenda. His primary goal is to obtain the six [[Infinity Stones]], cosmic gems with the power to stabilize the universe's [[overpopulation]] and prevent what he views as its inevitable demise. With the help of his [[Children of Thanos (Marvel Cinematic Universe)|adopted children]] and after the [[Infinity War]] primarily against the [[Avengers (Marvel Cinematic Universe)|Avengers]] and the [[Guardians of the Galaxy (Marvel Cinematic Universe)|Guardians of the Galaxy]], and their allies, Thanos is successful in assembling the Stones within his [[Infinity Gauntlet (Marvel Cinematic Universe)|Infinity Gauntlet]] and committing [[the Blip]], which disintegrates half of all life in the universe.
+
+He then atomizes the Stones and retires, but is eventually killed by [[Thor (Marvel Cinematic Universe)|Thor]]. In 2023, the Avengers utilize [[time travel]] to obtain past versions of the Stones and undo Thanos' actions. An alternate version of Thanos from 2014 manages to enter their timeline with his army and plans to use the Stones to erase all life and create a new universe to his liking. However, he and his forces are erased from existence by [[Tony Stark (Marvel Cinematic Universe)|Tony Stark]], who sacrifices his life with the snap of his own gauntlet.
+
+Thanos is a central figure in the MCU's "[[Infinity Saga]]", having appeared in five<!-- Infinity Saga appearances --> films, most notably in ''[[Avengers: Infinity War]]'' (2018) and ''[[Avengers: Endgame]]'' (2019). Several versions of Thanos from within the [[Multiverse (Marvel Cinematic Universe)|MCU multiverse]] also appear in ''Endgame'', the [[Disney+]] animated series ''[[What If...? (TV series)|What If...?]]'' (2021–present), and the [[Marvel Cinematic Universe: Phase Four|Phase Four]] film ''[[Doctor Strange in the Multiverse of Madness]]'' (2022).
+
+The character has been well-received by critics and fans alike. Thanos is often credited as one of the MCU's best villains, as well as one of the greatest film villains of all-time.
+
+== Fictional character biography ==
+=== Early life ===
+Thanos was born approximately 1,000 years ago on the planet [[Titan (Marvel Cinematic Universe)|Titan]] to A'Lars, along with his brother [[Eros (Marvel Cinematic Universe)|Eros]]. At some point, Thanos came to realize that the growth of Titan's population would inevitably result in its downfall due to lack of resources, and so he proposed to kill half of the planet's population at random. However, his people rejected his solution as pure madness and cast him out. Over time, Thanos' prediction came to pass, and he witnessed the death of his people until he was the only surviving member of the Titan race.<ref name="Titan" />
+
+=== Balancing the universe ===
+{{further|The Avengers (2012 film)|Guardians of the Galaxy (film)|Avengers: Age of Ultron|l1=The Avengers|l2=Guardians of the Galaxy}}
+Thanos concluded that other planets would eventually suffer the same fate as Titan, and believed that it was his destiny to eliminate half of the universe's population so that the survivors may thrive. To realize his "great plan", he took command of a warship, the ''[[Features of the Marvel Cinematic Universe#Sanctuary II|Sanctuary II]]'', and embarked on a campaign of conquest and genocide. He became recognized and greatly feared for his power and influence. Thanos also took control of various armies, including the [[Chitauri (Marvel Cinematic Universe)|Chitauri]], the [[Sakaar (Marvel Cinematic Universe)|Sakaarans]], and the [[Outriders (Marvel Cinematic Universe)|Outriders]]. He also forged alliances with [[The Other (Marvel Cinematic Universe)|the Other]] and [[Ronan the Accuser (Marvel Cinematic Universe)|Ronan the Accuser]]. Additionally, he would occasionally adopt orphan children from planets he invaded, including Gamora, [[Nebula (Marvel Cinematic Universe)|Nebula]], [[Ebony Maw (Marvel Cinematic Universe)|Ebony Maw]], [[Corvus Glaive (Marvel Cinematic Universe)|Corvus Glaive]], [[Cull Obsidian]], and [[Proxima Midnight (Marvel Cinematic Universe)|Proxima Midnight]]. Thanos gave special attention to Gamora, whom he considered his favorite. Eventually, Thanos learned of the six [[Infinity Stones]] and embarked on a mission to collect them in order to use them to fulfill his mission instantaneously. Prior to 2012, he found the [[Mind Stone]] and placed it within a [[Loki's scepter|scepter]].
+
+In 2012, Thanos directs the Other to form an alliance with [[Loki (Marvel Cinematic Universe)|Loki]], providing him with the Mind Stone scepter and the Chitauri army to subjugate Earth in exchange for the retrieval of the [[Space Stone]] within the Tesseract. Following Loki's defeat by the [[Avengers (Marvel Cinematic Universe)|Avengers]] and the loss of the Mind Stone, the Other reports about the failed attack on Earth to Thanos.
+
+In 2014, Thanos locates the [[Power Stone (Marvel Cinematic Universe)|Power Stone]] and sends Ronan, Gamora, and Nebula to retrieve it. However, all three eventually betray him: Gamora joins the [[Guardians of the Galaxy (Marvel Cinematic Universe)|Guardians of the Galaxy]], Ronan decides to keep the Power Stone for himself and renounces his alliance with Thanos, and Nebula sides with Ronan when he vows to kill Thanos after destroying [[Xandar (Marvel Cinematic Universe)|Xandar]]. The Guardians of the Galaxy defeat Ronan and leave the Power Stone with the [[Nova Corps (Marvel Cinematic Universe)|Nova Corps]].
+
+In 2015, Thanos arrives on [[Features of the Marvel Cinematic Universe#Nidavellir|Nidavellir]] and forces the native Dwarves to forge the [[Infinity Gauntlet (Marvel Cinematic Universe)|Infinity Gauntlet]] to hold all six Stones, before killing all of them, except for [[Eitri (Marvel Cinematic Universe)|Eitri]].<ref name="GauntletCreation" /> Thanos, angered at his recruits' failures, dons the Gauntlet and vows to find the Stones himself.
+
+=== The Blip ===
+{{main|The Blip}}
+{{further|Avengers: Infinity War}}
+In 2018, Thanos, accompanied by his [[Children of Thanos|children]], decimates Xandar and retrieves the Power Stone. Shortly after, they intercept the ''[[Statesman (Marvel Cinematic Universe)|Statesman]]'', carrying [[Asgard (Marvel Cinematic Universe)|Asgardian]] refugees following their world's destruction, and kills half of them, while also incapacitating [[Thor (Marvel Cinematic Universe)|Thor]]. Thanos attempts to barter the Tesseract from Loki in exchange for Thor's life, but Thanos is attacked by the [[Hulk (Marvel Cinematic Universe)|Hulk]], whom he easily defeats. After [[Heimdall (Marvel Cinematic Universe)|Heimdall]] saves Hulk, Thanos kills him. He then destroys the Tesseract, obtaining the Space Stone inside, and orders his children to retrieve the Mind and [[Time Stone]] on Earth before rendezvousing with him on Titan. After killing Loki, Thanos destroys the ''Statesman'', and teleports himself and his children away; unknowingly leaving Thor alive.
+
+Thanos travels to [[Knowhere (Marvel Cinematic Universe)|Knowhere]] and obtains the [[Reality Stone]] from [[Taneleer Tivan (Marvel Cinematic Universe)|Taneleer Tivan]]. The Guardians of the Galaxy: [[Peter Quill (Marvel Cinematic Universe)|Peter Quill]], [[Drax (Marvel Cinematic Universe)|Drax]], [[Mantis (Marvel Cinematic Universe)|Mantis]], and Gamora arrive to try and stop him. Thanos uses the Reality Stone to quickly defeat them before capturing Gamora and teleporting away with her. Knowing she had learned the location of the [[Soul Stone]], he coerces her into revealing it to him in exchange for sparing Nebula, who he captured and has been torturing. Thanos and Gamora travel to [[Vormir (Marvel Cinematic Universe)|Vormir]], where the Soul Stone's keeper, [[Johann Schmidt (Marvel Cinematic Universe)|Johann Schmidt]], informs them that the Soul Stone requires the sacrifice of a loved one, requiring Thanos to tearfully throw Gamora off a cliff to her death.
+
+Thanos arrives on Titan expecting to meet Ebony Maw, but instead encounters [[Stephen Strange (Marvel Cinematic Universe)|Stephen Strange]] and learns that Maw has been killed. Thanos is then ambushed by [[Tony Stark (Marvel Cinematic Universe)|Tony Stark]], [[Peter Parker (Marvel Cinematic Universe)|Peter Parker]], Quill, Drax, and Mantis. A battle ensues, and Nebula also arrives to fight him. Thanos is briefly incapacitated by their combined efforts but before Stark and Parker can remove the Infinity Gauntlet from his hand, Nebula realizes that he murdered Gamora, leading Quill to attack him in a fit of rage. Thanos breaks free of their hold and overpowers them. After stabbing Stark, he prepares to kill him, but is stopped by Strange, who barters the Time Stone in exchange for sparing Stark's life.
+
+In [[Wakanda (Marvel Cinematic Universe)|Wakanda]], his children: Cull Obsidian, Proxima Midnight, and Corvus Glaive launch an invasion, but fail to retrieve the Mind Stone and perish in the ensuing battle. Thanos teleports to Wakanda and encounters resistance from the Avengers and their allies: [[Steve Rogers (Marvel Cinematic Universe)|Steve Rogers]], [[Bruce Banner (Marvel Cinematic Universe)|Bruce Banner]], [[Natasha Romanoff (Marvel Cinematic Universe)|Natasha Romanoff]], [[Bucky Barnes (Marvel Cinematic Universe)|Bucky Barnes]], [[Sam Wilson (Marvel Cinematic Universe)|Sam Wilson]], [[James Rhodes (Marvel Cinematic Universe)|James Rhodes]], [[T'Challa (Marvel Cinematic Universe)|T'Challa]], [[Okoye (Marvel Cinematic Universe)|Okoye]], and [[Groot (Marvel Cinematic Universe)|Groot]]. He effortlessly overpowers them as he prepares to take the Mind Stone from [[Vision (Marvel Cinematic Universe)|Vision]]. [[Wanda Maximoff (Marvel Cinematic Universe)|Wanda Maximoff]] is able to hold him off for a few moments as she kills Vision in order to destroy the Mind Stone. However, Thanos uses the Time Stone to reverse her actions; he tears the Mind Stone from Vision's head, killing him. Thanos knocks Maximoff out and places the final Stone in his Gauntlet. However, he is pierced in the chest by Thor's axe, [[Mjolnir (Marvel Comics)#Stormbreaker|Stormbreaker]]. Badly wounded, Thanos is taunted by a vengeful Thor but manages to [[Finger snapping|snap his fingers]], successfully [[The Blip|decimating half of all life]] in the universe. His mission complete, he teleports away to the [[Features of the Marvel Cinematic Universe#Garden|Garden]], where he rests.
+
+=== Death and legacy ===
+{{further|Avengers: Endgame|The Falcon and the Winter Soldier|Eternals (film)|l3=Eternals}}
+Twenty-three days later, Thanos, now living on the Garden, is ambushed by Rogers, Romanoff, Thor, Rhodes, Banner, Carol Danvers, [[Rocket (Marvel Cinematic Universe)|Rocket]], and Nebula who seek to obtain the Stones to reverse his actions. They manage to subdue him and Thor cuts off his left arm, only to find the Gauntlet empty. Thanos reveals that he used the Stones to destroy the Stones in order to avoid the temptation of using them further and to prevent his mission from ever being undone, prompting Thor to decapitate him.
+
+Thanos' actions have a universal impact, and the surviving Avengers work to quell the chaos he caused on Earth and other planets until finally undoing his actions five years later in 2023. The sudden return of the population has a drastic impact as well, such as on Earth, where its governments attempt to reintegrate the Blipped population, causing socioeconomic conflicts and entities like the [[Flag Smashers (Marvel Cinematic Universe)|Flag Smashers]] to believe that life was better during the Blip and use [[terrorism]] to prevent forced [[repatriation]]. Additionally, the phrase "Thanos was right" is observed in popular human culture.<ref name="HawkeyeMug" />
+
+[[Ajak (Marvel Cinematic Universe)|Ajak]], leader of the [[Eternals (Marvel Cinematic Universe)|Eternals]], informs [[Ikaris (Marvel Cinematic Universe)|Ikaris]] that when Thanos erased half of all life in the universe, he inadvertently delayed the [[Features of the Marvel Cinematic Universe#Emergence|Emergence]], saving the Earth and many other planets from complete destruction.<ref name="EternalsEmergence" /> She further explains that when the Avengers restored the population, it created the necessary conditions for the Emergence, but also convinced her that the Earth deserved saving. After the Eternals stop the Emergence and some of them prepare to locate others of their kind spread across the universe, their ship is boarded by Eros, brother of Thanos.
+
+[[Kamala Khan (Marvel Cinematic Universe)|Kamala Khan]] creates a [[YouTube]] video about the Battle of Earth featuring Thanos' fight with [[Carol Danvers (Marvel Cinematic Universe)|Carol Danvers]].<ref name="MsMarvel" /> In [[New Asgard]], [[Valkyrie (Marvel Cinematic Universe)|Valkyrie]] and [[Miek (Marvel Cinematic Universe)|Miek]] attend the grand opening of "Infinity Conez" which sells ice cream cones with candy around the top of the ice cream to represent each Infinity Stone.<ref name="InfinityConez" />
+
+== Alternate versions ==
+=== Destruction of Earth ===
+{{Further|Agents of S.H.I.E.L.D. (season 5)}}
+In an alternate 2018, after learning of Thanos' assault on Earth and assuming he will be the cause of its prophesied destruction in his timeline, a gravitonium-infused [[Glenn Talbot (Agents of S.H.I.E.L.D.)|Glenn Talbot]], having become increasingly narcissistic and unhinged under the corrupting influence of the gravitonium and believing he can save the world from Thanos himself,<ref name="Graviton" /><ref name="AoSFinalePreview" /> attempts to draw more gravitonium from the core of the Earth to increase his power, inadvertently destroying the Earth and everyone on it, including Thanos, and fulfilling the prophecy he intended to avert.
+
+=== Battle of Earth ===
+{{Further|Avengers: Endgame}}
+In an alternate 2014, Thanos, after conquering a planet, dispatches Gamora and Nebula to Ronan's ship to retrieve the Power Stone. However, he becomes aware of the Avengers using [[time travel]] when Nebula alerts him to the arrival of her future self. Thanos then extracts the memories of 2023-Nebula via 2014-Nebula's consciousness. He learns that his future self succeeded and that the Avengers killed him, and are attempting to undo his work. He has the 2014-Nebula impersonate her future self and travel to 2023 so that she can use the [[Quantum Realm]] to bring Thanos and his army there.
+
+The Avengers successfully obtain the Stones and revive Thanos' victims in 2023. Immediately afterward, Thanos, within his ship ''Sanctuary II'', exits the Quantum Realm and opens fire on the [[Avengers Compound (Marvel Cinematic Universe)|Avengers Compound]], destroying it. While his army searches for the Stones, Thanos engages in an intense fight with Stark, Rogers, and Thor, during which he declares that the Avengers' mission to undo his deceased future self's work has hardened his resolve, and that for the universe to be truly balanced, all of existence must be destroyed, rebuilt anew, and repopulated with life that only knows gratitude.
+
+Thanos defeats Stark and Thor, leaving only Rogers left standing. He calls forth his entire army but the restored Avengers, Guardians, [[Wakanda (Marvel Cinematic Universe)|Wakandan]] and Asgardian armies, the [[Masters of the Mystic Arts]], and the [[Ravagers (Marvel Cinematic Universe)|Ravagers]] arrive and engage Thanos and his army in a final battle. After an intense struggle, Thanos obtains the Stark Nano Gauntlet, but before he can snap his fingers, Stark manages to steal the Stones from him. Thanos watches in horror as Stark snaps his fingers, and Thanos, along with his army, is erased from existence at the cost of Stark's life.
+
+=== ''What If...?'' ===
+{{See also|What If...? (TV series)|l1=What If...?}}
+Several [[parallel universes in fiction|alternate versions]] of Thanos appear in the animated series ''What If...?'', with Brolin reprising his role.
+
+==== Joining the Ravagers ====
+{{further|What If... T'Challa Became a Star-Lord?}}
+[[File:What If...? - Thanos voiced by Josh Brolin.jpg|thumb|left|Thanos as depicted in animated form in the [[Disney+]] series ''What If...?'', voiced by Josh Brolin|alt=Thanos in the [[Disney+]] series ''What If...?'', voiced by Josh Brolin]]
+In an alternate reality, [[Star-Lord T'Challa]] convinces Thanos to change his ways and join the Ravagers by claiming that there are other ways to preserve the universe's known resources. A running gag is that Korath the Pursuer called Thanos by the name of "Captain Genocide". Thanos participates in their mission against the Collector in 2008 where he fights Cull Obsidian and Proxima Midnight, who, in this reality, were no longer at his service after the Collector filled the power vacuum and became the kingpin of the intergalactic underworld after Thanos joins the Ravagers. Instead, they became the Collector's private security force along with Ebony Maw and Corvus Glaive. Thanos later engages in battle against Cull Obsidian and Proxima Midnight. Following the Collector's defeat, Thanos and the Ravagers travel to Wakanda where Thanos engages in a conversation with Okoye about his former plan to kill half of the universe, which annoys Nebula.
+
+==== Zombie outbreak ====
+{{further|What If... Zombies?!}}
+In an alternate 2018, Thanos arrives on Earth in Wakanda with a nearly complete Infinity Gauntlet, but is infected by a quantum virus and transformed into a [[zombie]].
+
+==== Killed by Ultron ====
+{{further|What If... Ultron Won?}}
+In an alternate reality, Thanos arrives on Earth to retrieve the Mind Stone after collecting the other Infinity Stones, but is swiftly killed by [[Ultron (Marvel Cinematic Universe)|Ultron]] who uses a laser attack to slice him in half. Ultron then proceeds to take the Stones for himself and sets about to kill all life in the [[Multiverse (Marvel Cinematic Universe)|Multiverse]].
+
+==== Killed by Gamora ====
+{{further|What If... the Watcher Broke His Oath?}}
+In an alternate reality, Thanos is killed by Gamora who claims his warlord position, armor, and blade.
+
+=== Earth-838 ===
+{{further|Doctor Strange in the Multiverse of Madness}}
+In an alternate reality, Thanos is killed on Titan by the [[Illuminati (Marvel Cinematic Universe)|Illuminati]], who use the power of the ''[[Book of Vishanti (Marvel Cinematic Universe)|Book of Vishanti]]'' to impale him with his own double-sided blade.
+
+== Concept and creation ==
+=== Background and development ===
+[[Jim Starlin]] conceived Thanos during a college [[psychology]] course and introduced him as a villain in ''[[Iron Man|The Invincible Iron Man]]'' #55 (February 1973). Starlin originally designed the character as skinny and lanky, but editor [[Roy Thomas]] suggested he "beef him up".<ref name="OriginalDesign" /> In the comics, Thanos is a mutant member of the race of superhumans known as the [[Eternals (comics)|Titanian Eternals]]. The character possesses abilities common to the Eternals, and is able to demonstrate enormous superhuman strength, speed, stamina, and invulnerability among other qualities.
+
+=== Casting and appearances ===
+[[File:Josh Brolin 2 SDCC 2014 (cropped).jpg|thumb|left|[[Josh Brolin]] wielding a model [[Infinity Gauntlet (Marvel Cinematic Universe)|Infinity Gauntlet]] at the 2014 [[San Diego Comic-Con]]|alt=[[Josh Brolin]] at the 2014 [[San Diego Comic-Con]] wielding a model [[Infinity Gauntlet (Marvel Cinematic Universe)|Infinity Gauntlet]]]]
+The MCU began building towards Thanos in ''[[The Avengers (2012 film)|The Avengers]]'' (2012), in which [[Damion Poitier]] portrayed the character in an uncredited cameo appearance.<ref name="PoitierAvengers" /> It was [[Joss Whedon]]'s idea to include Thanos in the film as his only instructions from [[Kevin Feige]] were that the film's villains should be aliens, and the rest was up to Whedon.<ref name="ThanosAvengers1" /> In May 2014, [[Josh Brolin]] signed a multi-film contract to portray the antagonist, debuting in ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]]'' (2014). Thanos was originally going to have a larger role in the film, but Whedon felt that the character needed to be threaded more gently.<ref name="HitFix" /> Screenwriters [[Christopher Markus and Stephen McFeely]] noted that Thanos' lingering presence in the franchise helped legitimize him as a threat prior to ''[[Avengers: Infinity War]]'' (2018). Despite this, little screen time had been devoted to Thanos' history and motivations. Markus stated, "We don't get an element of surprise [with his introduction in ''Infinity War'']... You can count on a lot of scenes where we illuminate a lot about him very early", with McFeely adding, "It is incumbent upon us to give him a real story, real stakes, real personality, and a real point of view".<ref name="IWWriters" />
+
+''Infinity War'' went through numerous story iterations, and over the course of development Thanos' presence in the film grew. [[VFX]] Supervisor Dan Deleeuw noted "Thanos went from supporting villain to one of the main characters driving the plot".<ref name="VFXTHR" /> In one draft, the film was told directly from Thanos' perspective with him serving as narrator.<ref name="ThanosNarrator" /> Exploring more of Thanos' backstory via flashbacks was considered at one point, but only concept art was created and no scenes were filmed involving a younger Thanos.<ref name="IWFlashbacks" /> Despite leading the cast in screen time in ''Infinity War''<ref name="ScreenTimeIW" /> and being considered the main character of the film by many, Thanos had a secondary role in ''[[Avengers: Endgame]]'' (2019). McFeely explained "we had to give ourselves permission to backseat the villain [...] You're rolling around in the loss and the time heist, and you think it's sort of Avengers against nature".<ref name="26Spoilers" /> Joe Russo stated that after Thanos was successful in ''Infinity War'', he is now "done. He did it. He's retired".<ref name="ThanosRetired" /> Markus and McFeely had difficulty in factoring the older, post-''Infinity War'', Thanos into the film due to the character already possessing the Infinity Stones, until executive producer Trinh Tran suggested that they kill Thanos in the film's first act.<ref name="NYMarkusMcFeely" /> Markus explained that the character's early death "reinforced Thanos' agenda. He was done ... it was like, 'If I've got to die, I can die now'".<ref name="NYMarkusMcFeely" />
+
+Archival footage of Thanos killing Loki in ''Infinity War'' is shown in a scene of the [[Glorious Purpose|first episode]] of the [[Disney+]] TV series ''[[Loki (TV series)|Loki]]'' in a scene showing Loki what his future would have looked like.<ref name="LokiS1" />
+
+=== Characterization ===
+A major aspect of Thanos' comic book storyline is his attempts to woo the female manifestation of [[Death (Marvel Comics)|Death]]. This plot was omitted from the films, as the filmmakers instead chose to pair the character with [[Gamora (Marvel Cinematic Universe)|Gamora]] and focus on their father-daughter relationship. McFeely explained this choice by noting that Thanos and Gamora had a lot of history that they wanted to explore, which would add layers to Thanos to avoid him becoming "the big mustache-twisting bad guy who wants ultimate power just to take over the world and sit on a throne."<ref name="ThanosGamora" /> Avoiding the Death storyline moved away from the tease Whedon used in ''The Avengers'' with the character, where Thanos felt that by challenging the Avengers, he was courting death. Though the tease was purposely ambiguous, Whedon felt when he featured Thanos, he did not know what to do with him, feeling that he hung Thanos out to dry. Whedon added that "I love Thanos. I love his apocalyptic vision, his love affair with death. I love his power. But, I don't really understand it". Whedon enjoyed the approach the writers and Russos took in ''Infinity War'', giving Thanos "an actual perspective and [making] him feel righteous to himself", since the Death storyline would not necessarily translate well.<ref name="WhedonThanos" />
+
+In ''Avengers: Endgame'', Thanos is shown to be a skilled physical fighter, and wields a double glaive in combat.<ref name="EndgameBlade" /><ref name="CombatSkills" />
+
+=== Design and special effects ===
+[[File:Avengers Infinity War - Josh Brolin as Thanos motion capture.jpg|thumb|right|Josh Brolin doing motion capture for ''Infinity War'' (left) with the final product in the film (right)|alt=Motion capture by Josh Brolin for ''Infinity  War'' (left) and the film's final product (right)]]
+Digital Domain worked on creating Thanos for ''Infinity War'' and ''Endgame'', producing over 400 visual effects shots.<ref name="FXGuide" /> The company created a new facial capture [[Application software|application]] called Masquerade, based on the concept of [[machine learning]] through computer algorithms, specifically for the film, beginning work on the system 3–4 months before filming began to develop and test it. They presented their results to Brolin, the Russos, and executives from Marvel ahead of filming to demonstrate the subtleties Brolin would be able to bring to the character, which helped inform Brolin on how to portray the character.<ref name="FXGuide" /> Before the start of filming, Brolin's facial expressions were captured with ILM's Medusa system, which along with his motion capture data from set, were fed to Masquerade to "create a higher-resolution version of what Brolin did on set" so animators could apply that to the CGI character.<ref name="VFXTHR" /> Digital Design considered having "snap" briefly pop up on screen when Thanos snapped his fingers as a reference to how the snap occurred in the "Infinity Gauntlet" comic. Port said "as a fun aside, we explored the idea of lifting the actual graphic from the frame of the comic showing the snap, the little yellow action triangles for a single frame of the moment of the snap. They appreciated the idea but didn't ultimately go for it".<ref name="ComicSnap" />
+
+==== Physical appearance changes ====
+Thanos' design changed drastically between his first appearance in ''The Avengers'' and his larger role in ''Infinity War''. With Brolin's first appearance in ''Guardians of the Galaxy'', motion capture technology was used to capture Brolin's facial features, with Thanos' skin also being changed to a darker shade of purple than it was in ''The Avengers''. Advancements in CGI and motion capture technology allowed for the use of more of Brolin's features in ''Infinity War'' and ''Endgame'', while also once again changing the shade of purple for Thanos' skin with it becoming more of a lighter purple. In earlier appearances, Thanos had four scars on his cheeks and eleven lines on his chin, but the number of scars was reduced to three and the number of chin lines was reduced to nine with his ''Infinity War'' design update.<ref name="DesignChanges" /> Kelly Port, Digital Domain's VFX Supervisor, noted the design of Thanos took into account the versions that appeared in previous films but were adjusted more towards Brolin's features, which also helped with matching his performance to the digital character.<ref name="VFXTHR" />
+
+=== Portrayal ===
+Brolin stated that he based his portrayal of Thanos by taking inspiration from [[Marlon Brando]]'s performance as [[Colonel Kurtz]] in ''[[Apocalypse Now]]'' (1979), saying in an interview in October 2020; "I mentioned Brando in ''Apocalypse Now.'' [Kurtz] who is very elusive and insane but what he is saying makes sense and is poetical". He also added; "I started seeing the parallel which I liked for me. I loved being able to resort to a film like ''Apocalypse Now'' when I was doing something like ''Avengers''".<ref name="BrandoPortrayal" />
+
+== Reception ==
+[[File:Josh Brolin SDCC 2014.jpg|thumb|upright|Josh Brolin's performance as Thanos has been praised by many critics.<ref name="RTRoundUp" />|alt=Critics have praised Josh Brolin's performance as Thanos]]
+The MCU's rendition of Thanos has received critical acclaim, being regarded as one of the best MCU villains to date,<ref name="MCUVillainsMH" /><ref name="WPThanos" /><ref name="MCUVillainRankSR" /><ref name="MCUVillainsLooper" /><ref name="MCUVillainRankGamesRadar" /> as well as one of the greatest film villains of all-time.<ref name="AllTimeVillainRanking" /><ref name="RankerVillains" /> In 2022, [[WatchMojo]] named Thanos the 10th greatest film villain of all-time.<ref name="WatchMojoVillains" /> He has also been regarded as one of the best villains of the 2010s<ref name="2010sVillains" /><ref name="DecadeVillainsSR" /> and the 21st century so far.<ref name="21stCenturyVillains" /> [[Owen Gleiberman]] of ''[[Variety (magazine)|Variety]]'' called Brolin's performance "supremely effective" and said, "Brolin infuses Thanos with his slit-eyed manipulative glower, so that the evil in this movie never feels less than personal".<ref name="VarietyIWReview" /> ''[[The Hollywood Reporter]]''{{'}}s [[Todd McCarthy]] echoed this sentiment, saying "Brolin's calm, considered reading of the character bestows this conquering beast with an unexpectedly resonant emotional dimension, making him much more than a thick stick figure of a supervillain".<ref name="THRIWReview" /> Writing for ''[[IGN]]'', Scott Collua pointed out that audiences "understand his perspective and believe his pain", making the antagonist surprisingly sympathetic.<ref name="IGNIWReview" /> [[Peter Travers]] of ''[[Rolling Stone]]'' praised both the character and Brolin: "[Thanos is] thunderously voiced by a dynamite Josh Brolin in a motion capture performance that radiates ferocity and unexpected feeling".<ref name="RollingStoneIWReview" /> ''[[The Atlantic]]'' called Thanos an "unexpectedly resonant monster, filled with sadness and even a perverse sense of honor".<ref name="TheAtlanticIWReview" />
+
+Critics noted that Thanos was a significant improvement over previous antagonists in the franchise.<ref name="IWESB" /> According to ''[[Screen Rant]]'', the MCU struggled to create captivating antagonists throughout its first two phases. However, this changed in [[Marvel Cinematic Universe: Phase Three|Phase Three]] with well-received villains such as [[Killmonger (Marvel Cinematic Universe)|Killmonger]] and [[Adrian Toomes (Marvel Cinematic Universe)|Vulture]], culminating in Thanos, whose "repudiation of the MCU's narrative worship of its heroes creates a deep uncertainty in our expectation that follows through each encounter toward the inevitable, horrifying conclusion".<ref name="MCUVillainRankSR" /> George Marston attributed Thanos' success to "the weight behind his character. Like the best villains in media, Thanos sees himself as a hero. It's the power of Brolin's performance that begins to draw viewers into that maniacal goal over and over, almost making Thanos seem likable or perhaps even reasonable, before the utter horror of him actually accomplishing his goal kicks in".<ref name="MCUVillainRankGamesRadar" /> Similarly, ''[[The Washington Post]]'' declared Thanos Marvel's most compelling villain due to his "deep, reflective intelligence" as well as his "profound adherence to his belief system".<ref name="WPThanos" />
+
+Some fans criticized Thanos' portrayal in ''Endgame'', feeling that the 2014 variant of him was more openly villainous compared to what was established in ''Infinity War'', saying that he ended up "swapping his unusual plan of balancing the population with a less evocative idea of destroying then reforming the galaxy".<ref name="RTEndgameThanos" /> ''Screen Rant'' felt that once Thanos learned of the Avengers' plot to reverse what his older self had done, he "regresses by falling back upon a one-dimensional aim to just destroy the universe wholesale", which made him seem more like a "generic [[big bad]]" in the film. The site argued that his lack of history with the Avengers resulted in the nuances and connections being lost, which was most notable in his climatic battle with Maximoff as she still had Vision's death freshly on her mind, but Thanos dismisses her because at that point in his life he hadn't killed Vision.<ref name="SREndgameThanos" />
+
+In 2017, after comic book writer Jim Starlin expressed dissatisfaction with Marvel's pay for his ''Guardians of the Galaxy'' characters, including Thanos, Gamora, and Drax, [[Disney]] readjusted his agreement for Thanos' appearance in ''Infinity War'' and ''Endgame''.<ref name="StarlinPay" />
+
+=== Cultural impact ===
+{{See also|The Blip}}
+Thanos and his "snap" spawned much audience enthusiasm. The website, ''DidThanosKill.Me'' was created for fans to see if they would have been spared by Thanos or not.<ref name="ThanosSnapSite" /> The ending of ''Infinity War'' also spawned the creation of the [[Reddit]] subreddit, /r/thanosdidnothingwrong. A user within the subreddit suggested that half of the approximately 20,000 subscribers at the time be banned from the subreddit, in order to mimic the events of the film. After the community agreed to the measure, the moderators approached Reddit's administrators to see if the mass ban would be possible. Once the administrators agreed to the random ban of half the subscribers, it was set to occur on July 9, 2018.<ref name="PolygonRedditBan" /> Notice of the impending ban made the subreddit's subscribers increase to over 700,000, including both of the [[Russo brothers]].<ref name="GizmodoRedditBan" /> Ahead of the ban, Brolin posted a video saying "Here we go, Reddit users", and ending it with a snap.<ref name="BrolinRedditBan" /> Over 60,000 people watched a live [[Twitch (service)|Twitch]] stream of the ban occurring, which lasted several hours.<ref name="GizmodoRedditBan" /> The ban of over 300,000 accounts, which included Anthony Russo, was the largest in Reddit's history.<ref name="GizmodoRedditBan" /><ref name="VergeRedditBan" /> Those banned then gathered in the new subreddit, /r/inthesoulstone.<ref name="PolygonRedditBan" /><ref name="GizmodoRedditBan" /> One Reddit user who participated described the ban as embodying "the spirit of the Internet" with people "banding together, en masse, around something relatively meaningless but somehow decidedly awesome and hilarious".<ref name="VergeRedditBan" /> Andrew Tigani of ''[[Screen Rant]]'' said this showed "how impactful the film has already become to pop culture. It is also a testament to how valuable fan interaction can be via social media".<ref name="BrolinRedditBan" />
+
+A popular [[tongue-in-cheek]] fan theory regarding Thanos' defeat in ''Endgame'' before the film's release, jokingly referred to by the portmanteau "Thanus", claimed that Thanos would be killed by [[Scott Lang (Marvel Cinematic Universe)|Ant-Man]] entering his [[anus]] and then expanding himself, blowing off Thanos' body. This theory became a widespread [[Internet meme]].<ref name="AntManTheory" /> After the film was released and proved the theory wrong, Christopher Markus revealed that due to the strong nature of the Titans, Ant-Man would have been unable to expand himself and would simply be crushed against the walls of Thanos' rectum.<ref name="26Spoilers" /> In 2022, ''[[The Boys (TV series)|The Boys]]'' showrunner [[Eric Kripke]] confirmed that a character introduced in season three, Termite, was a parody of Ant-Man, and his actions of killing people by shrinking to enter their bodies and expanding was partially inspired by the Internet memes about Ant-Man entering Thanos' rectum.<ref name="TheBoysS3" />
+
+Following the premiere of ''Endgame'', [[Google]] included a clickable icon of the Infinity Gauntlet in [[Google Search]] results for "Thanos" or "Infinity Gauntlet" [[List of Google Easter eggs|as an Easter egg]]. The icon, when clicked, made a finger-snapping motion before half of the search results disappeared, akin to the disappearance of characters following the Blip.<ref name="GoogleGauntlet" />
+
+During the [[2020 United States presidential election]] campaign, a [[Twitter]] account affiliated with the [[2020 Trump campaign]] posted an [[Internet meme]] of then-incumbent [[U.S. President]] [[Donald Trump]] superimposed on a clip of Thanos declaring himself "inevitable" in ''Endgame'', with the meme reposted by Trump's own [[Instagram]] account.<ref name="TrumpMeme" /> Thanos creator Jim Starlin subsequently criticized Trump, saying he "actually enjoys comparing himself to a mass murderer".<ref name="StarlinTrumpWP" /><ref name="StarlinTrumpMW" /> In August 2020 Starlin revealed a new villain for an issue of ''[[Dreadstar|Dreadstar Returns]]'' named King Plunddo Tram that heavily resembled Trump, with Plunddo Tram being an [[anagram]] of Donald Trump.<ref name="PlunddoTram" /> In the issue, Tram is beheaded, with Starlin saying "a certain politician using a character of mine in one of his political ads may have riled me a bit. I figured he was open game at that point".<ref name="TramDeath" />
+
+==== In other media ====
+* In the "couch gag" of [[The Girl on the Bus|season 30, episode 12]] of ''[[The Simpsons]]'', Thanos occupies the family couch and uses the Infinity Gauntlet to wipe out all of the [[Simpson family]] except for [[Maggie Simpson|Maggie]].<ref name="SimpsonsCouchGag" />
+* Thanos' name appears on a guest list in ''The Simpsons'' short ''[[Plusaversary]]''.<ref name="Plusaversary" />{{rp|0:12–0:13}}
+* In ''[[Deadpool 2]]'' (2018), [[Deadpool]] mockingly calls [[Cable (character)|Cable]] "Thanos" as both characters are played by Josh Brolin.<ref name="CableThanos" />
+* In 2018, the video game ''[[Fortnite Battle Royale|Fortnite]]'' featured a mode where players were able to play as Thanos for a limited period.<ref name="FortniteMode" /> In 2021, Thanos became a player "skin" available for purchase.<ref name="ThanosCupFortnite" />
+* An alternate version of Thanos, "King Thanos", will serve as the main antagonist of a multiverse-centric attraction at [[Avengers Campus]] at [[Disney California Adventure]].<ref name="KingThanos" />
+
+=== Box office performance ===
+{| class="wikitable sortable" style="text-align:center"
+|-
+! colspan="3" style="background:#AF181F; color:#FFFFFF;" | Primary appearances
+|-
+! Film
+! Box office gross
+! {{Abbr|Ref.|References}}
+|-
+| scope="row" | ''[[Avengers: Infinity War]]''
+| style="text-align:center;"| $2,048,359,754
+| style="text-align:center;"| <ref name="IWBoxOffice" />
+|-
+| scope="row" | ''[[Avengers: Endgame]]''
+| style="text-align:center;"| $2,797,501,328
+| style="text-align:center;"| <ref name="EGBoxOffice" />
+|-
+! Total
+! ${{formatnum:{{#expr:2048359754+2797501328}}}}
+!
+|}
+
+Thanos' primary film appearances in ''Infinity War'' and ''Endgame'' have combined to make over $4.8 billion at the worldwide box office. In total, Thanos' appearances, including the first two ''Avengers'' films and ''Guardians of the Galaxy'', have grossed more than $7.1 billion.<ref name="GotGBoxOffice" /><ref name="AvengersBoxOffice" /><ref name="AoUBoxOffice" />
+
+''Endgame'' became the number one film of all-time at the worldwide box office in July 2019, surpassing ''[[Avatar (2009 film)|Avatar]]'' (2009).<ref name="EndgamePassesAvatar" /> However, ''Avatar'' was re-released in China in March 2021, reclaiming its top spot.<ref name="AvatarPassesEndgame" /><ref name="MarvelCongratulatesAvatar" /> To congratulate [[James Cameron]] on his film regaining the title, the Russo brothers used an image with Thanos' armor scarecrow and the Avengers' logo dusting away into the ''Avatar'' logo.<ref name="MarvelCongratulatesAvatar" />
+
+=== Accolades ===
+{{Anchor|Awards|Accolades}}
+{| class="wikitable sortable plainrowheaders"
+|-
+|+ {{Screen reader-only|Accolades received by Thanos}}
+! scope="col" | Year<!--Year of award ceremony-->
+! scope="col" | Work
+! scope="col" | Award
+! scope="col" | Category
+! scope="col" | Result
+! scope="col" class="unsortable"| {{Abbr|Ref(s)|Reference(s)}}
+|-
+! scope="row" rowspan="5" style="text-align:center;" | 2018
+| rowspan="8" style="text-align:center;" | ''Avengers: Infinity War''
+| [[2018 MTV Movie & TV Awards|MTV Movie & TV Awards]]
+| [[MTV Movie Award for Best Villain|Best Villain]]
+| {{nom}}
+| style="text-align:center;"| <ref name="MTVAwards2018" />
+|-
+| [[2018 Teen Choice Awards|Teen Choice Awards]]
+| [[Teen Choice Award for Choice Movie Villain|Choice Villain]]
+| {{nom}}
+| style="text-align:center;"| <ref name="TeenChoiceAwards2018" />
+|-
+| [[Washington D.C. Area Film Critics Association Awards 2018|Washington D.C. Area Film Critics Association Awards]]
+| Best Motion Capture Performance
+| {{won}}
+| style="text-align:center;"| <ref name="WashingtonDCAwards2018" />
+|-
+| [[Los Angeles Online Film Critics Society]]
+| Best Visual Effects or Animated Performance
+| {{won}}
+| style="text-align:center;"| <ref name="LAAwards2018" />
+|-
+| [[Seattle Film Critics Society#2018 Seattle Film Critics Society Awards|Seattle Film Critics Society Awards]]
+| [[Seattle Film Critics Society#Seattle Film Critics Society Award for Best Villain|Best Villain]]
+| {{nom}}
+| style="text-align:center;"| <ref name="SeattleAwards2018" />
+|-
+! scope="row" rowspan="7" style="text-align:center;" | 2019
+| [[Austin Film Critics Association Awards 2018|Austin Film Critics Association Awards]]
+| Best Motion Capture/Special Effects Performance
+| {{won}}
+| style="text-align:center;"| <ref name="AFCA2018" />
+|-
+| [[17th Visual Effects Society Awards|Visual Effects Society Awards]]
+| [[Visual Effects Society Award for Outstanding Animated Character in a Photoreal Feature|Outstanding Animated Character in a Photoreal Feature]]
+| {{won}}
+| style="text-align:center;"| <ref name="VESAwards2018" />
+|-
+| [[45th Saturn Awards|Saturn Awards]]
+| [[Saturn Award for Best Supporting Actor|Best Supporting Actor]]
+| {{won}}
+| style="text-align:center;"| <ref name="SaturnAwards2019" />
+|-
+| rowspan="6" style="text-align:center;" | ''Avengers: Endgame''
+| rowspan="2"| [[2019 MTV Movie & TV Awards|MTV Movie & TV Awards]]
+| [[MTV Movie Award for Best Villain|Best Villain]]
+| {{won}}
+| style="text-align:center;" rowspan="2"| <ref name="MTVAwards2019" />
+|-
+| [[MTV Movie Award for Best Fight|Best Fight]]{{efn|Shared with [[Chris Evans (actor)|Chris Evans]].}}
+| {{nom}}
+|-
+| [[2019 Teen Choice Awards|Teen Choice Awards]]
+| [[Teen Choice Award for Choice Movie Villain|Choice Villain]]
+| {{won}}
+| style="text-align:center;"| <ref name="TeenChoiceAwards2019" />
+|-
+| [[Washington D.C. Area Film Critics Association Awards 2019|Washington D.C. Area Film Critics Association Awards]]
+| Best Motion Capture Performance
+| {{won}}
+| style="text-align:center;"| <ref name="WashingtonDCAwards2019" />
+|-
+! scope="row" rowspan="2" style="text-align:center;" | 2020
+| [[Austin Film Critics Association Awards 2019|Austin Film Critics Association Awards]]
+| Best Motion Capture/Special Effects Performance
+| {{won}}
+| style="text-align:center;"| <ref name="AFCA2019" />
+|-
+| [[Hollywood Critics Association|Hollywood Critics Association Awards]]
+| Best Animated or VFX Performance
+| {{nom}}
+| style="text-align:center;"| <ref name="HollywoodAwards2019" />
+|}
+
+== Merchandise ==
+Several toys have been released since Thanos' ''Guardians of the Galaxy'' appearance. For the film, [[Hot Toys]] released a figure of Thanos with his throne,<ref name="GotGHotToys" /> while [[Funko]] released two variants of a [[Funko Pop]], including one that glows in the dark.<ref name="GotGFunko" /><ref name="GotGFunkoGlow" /> The toy and merchandise gates burst open with the release of ''Infinity War''. Hot Toys released a figure of Thanos and a 1:1 scale Infinity Gauntlet,<ref name="IWHotToys" /><ref name="InfinityGauntletHotToys" /> while Funko released a variety of Pops, including multiple variations of regular sized figures, as well as a 10 inch jumbo Pop.<ref name="IWFunko" /> Pops after the film released included a set of six chrome figures each in the color of one of the Infinity Stones and movie moments featuring Thanos vs. Captain America and Thor respectively.<ref name="IWFunkoChrome" /><ref name="IWFunkoMM" /> Funko has also included a variety of Thanos items in their [[Funko#Collector box subscriptions|Marvel Collector Corps]] subscription boxes, including the ''Infinity War'' box, which included a Pop of Thanos in Sanctuary II, a [[keycap]], and an Infinity Gauntlet mug.<ref name="IWMCC" /> [[LEGO]] released a [[Lego BrickHeadz|BrickHeadz]] and a traditional set featuring Iron Man, Star-Lord, and Gamora minifigs alongside a Thanos bigfig,<ref name="BrickHeadz" /><ref name="IWLEGO" /> while [[Hasbro]] released a five pack of [[Marvel Legends]] with Thanos and his children.<ref name="IWMarvelLegends" /> Hot Toys released two figures of Thanos after ''Endgame''; a regular version which came with the Infinity Gauntlet<ref name="EndgameHT" /> and a battle damaged version that came with the Nano Gauntlet.<ref name="EndgameHTBattleDamaged" /> Like with the initial wave of figures for ''Infinity War'', Funko released both a regular sized and a 10 inch tall Thanos,<ref name="EndgameFunko" /> while Pops after the film released included Thanos in his Garden attire.<ref name="EndgameFunkoGarden" /> After the [[What If... the Watcher Broke His Oath?|season one finale]] of ''What If...?'', Funko announced a Ravager Thanos Pop.<ref name="RavagerThanosFunko" />
+
+A variety of Thanos related toys were released for both [[Marvel Studios]]' tenth anniversary and the "Infinity Saga". For the anniversary, Funko released an updated version of Thanos from ''Guardians of the Galaxy'', this time with him sitting on his throne.<ref name="ThroneFunko" /> To celebrate the "Infinity Saga", Funko released a Thanos Pop using the colors of the Infinity Stones,<ref name="InfinitySagaFunko" /> while LEGO released multiple sets, including two sets for ''Endgame''{{'}}s final battle. One included Sanctuary II<ref name="SanctuaryIILEGO" /> and the other was set at the Avengers' Compound.<ref name="AvengersCompoundLEGO" /> LEGO also released an Infinity Gauntlet with articulating fingers, allowing for builders to put it in a snapping pose,<ref name="LEGOInfinityGauntlet" /> while Hasbro released a Marvel Legends two pack featuring a battle damaged Iron Man in his mark LXXXV armor and a battle damaged Thanos.<ref name="InfinitySagaLegends" />
+
+''[[Entertainment Weekly]]'' released an issue of their magazine for ''Infinity War'' featuring  Thanos on the cover and a cover story interview with Brolin.<ref name="EWCover" /> ''[[Empire (film magazine)|Empire]]'' had two covers for each of ''Infinity War''<ref name="IWEmpireCover" /><ref name="IWEmpireExclusiveCover" /> and ''Endgame''<ref name="EndgameEmpireCover" /><ref name="EndgameEmpireExclusiveCover" /> featuring Thanos; one available to the general public and one that was exclusive to subscribers. Many posters were available for purchase including the theatrical posters for ''Infinity War and Endgame'' which both featured Thanos. Other posters included one exclusive to [[Odeon Cinemas]]<ref name="OdeonCinemasPoster" /> and one featuring the children of Thanos.<ref name="ChildrenofThanosPoster" /> Limited edition posters were released for Marvel Studios' tenth anniversary, as well as to celebrate the "Infinity Saga" with posters for the four Avengers films. Two posters were released for the tenth anniversary, one including the heroes and one for Thanos and the other villains.<ref name="MarvelStudios10Poster" /> For the Avengers posters, Thanos was prominently included on the ''Infinity War'' and ''Endgame'' versions.<ref name="AvengersTetralogyPosters" /> Other pieces of merchandise include [[Fathead (brand)|Fatheads]],<ref name="IWFatheads" /> apparel, accessories, art books, and a variety of Infinity Gauntlet items.<ref name="ThanosMerch" /><ref name="AdditionalThanosMerch" /><ref name="InfinityGauntletMerch" />
+
+== See also ==
+*[[Characters of the Marvel Cinematic Universe]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{Reflist|refs=
+
+<!-- FICTIONAL CHARACTER BIOGRAPHY -->
+
+<ref name="Titan">{{Cite web |last=Hoffmeyer |first=Corey |date=November 11, 2018 |title=How Thanos Survived The Destruction of Titan |url=https://screenrant.com/infinity-war-thanos-survived-destruction-titan/ |url-status=live |archive-url=https://web.archive.org/web/20211008213759/https://screenrant.com/infinity-war-thanos-survived-destruction-titan/ |archive-date=October 8, 2021 |access-date=December 12, 2020 |website=[[Screen Rant]]}}</ref>
+
+<ref name="GauntletCreation">{{Cite web |last=Hood |first=Cooper |date=October 6, 2020 |title=Everything Revealed About Thanos' Backstory In The MCU |url=https://screenrant.com/thanos-mcu-marvel-movies-backstory-history-titan-explained/ |url-status=live |archive-url=https://web.archive.org/web/20210627235540/https://screenrant.com/thanos-mcu-marvel-movies-backstory-history-titan-explained/ |archive-date=June 27, 2021 |access-date=December 12, 2020 |website=[[Screen Rant]]}}</ref>
+
+<ref name="HawkeyeMug">{{Cite web |last=Adams |first=Timothy |date=November 24, 2021 |title=Hawkeye: Was Thanos Right? An Investigation Into the Controversial Avengers Mug |url=https://comicbook.com/marvel/news/hawkeye-thanos-was-right-mug-investigation/ |url-status=live |archive-url=https://web.archive.org/web/20220430141142/https://comicbook.com/marvel/news/hawkeye-thanos-was-right-mug-investigation/ |archive-date=April 30, 2022 |access-date=May 7, 2022 |website=[[Comicbook.com]]}}</ref>
+
+<ref name="EternalsEmergence">{{Cite web |last=Kleinman |first=Jake |date=November 8, 2021 |title=Eternals Just Accidentally Proved That Thanos Was Right |url=https://www.inverse.com/entertainment/eternals-ending-explained-thanos-snap |url-status=live |archive-url=https://web.archive.org/web/20211207090508/https://www.inverse.com/entertainment/eternals-ending-explained-thanos-snap |archive-date=December 7, 2021 |access-date=May 7, 2022 |website=[[Inverse (website)|Inverse]]}}</ref>
+
+<ref name="MsMarvel">{{Cite web |last=Watson |first=Fay |date=June 8, 2022 |title=Marvel finally confirms the reason everyone knows about the Battle of Earth – and Scott Lang is to blame |url=https://www.gamesradar.com/marvel-battle-of-earth-avengers-endgame-ms-marvel/ |url-status=live |archive-url=https://web.archive.org/web/20220609000458/https://www.gamesradar.com/marvel-battle-of-earth-avengers-endgame-ms-marvel/ |archive-date=June 9, 2022 |access-date=June 8, 2022 |website=[[GamesRadar+]]}}</ref>
+
+<ref name="InfinityConez">{{Cite web |last=McGhee |first=Ciaran |date=July 17, 2022 |title=Thanos' Love and Thunder Easter Egg Continues the MCU's Darkest Running Gag |url=https://www.cbr.com/thor-love-thunder-thanos-easter-egg/ |url-status=live |archive-url=https://web.archive.org/web/20220717171932/https://www.cbr.com/thor-love-thunder-thanos-easter-egg/ |archive-date=July 17, 2022 |access-date=July 26, 2022 |website=[[Comic Book Resources]]}}</ref>
+
+<!-- ALTERNATE VERSIONS -->
+
+<ref name="Graviton">{{Cite magazine |last=Abrams |first=Natalie |date=April 27, 2018 |title=Agents of S.H.I.E.L.D. reveals Graviton in new promo |url=http://ew.com/tv/2018/04/27/agents-of-shield-graviton/ |url-status=live |archive-url=https://web.archive.org/web/20211020135615/https://ew.com/tv/2018/04/27/agents-of-shield-graviton/ |archive-date=November 2, 2021 |access-date=April 27, 2018 |magazine=[[Entertainment Weekly]]}}</ref>
+
+<ref name="AoSFinalePreview">{{Cite web |last=Damore |first=Meagan |date=May 17, 2018 |title=Agents of SHIELD EPs Reveal Why Graviton Had to be Season 5's Villain |url=https://www.cbr.com/agents-shield-season-5-finale-preview-whedon-tancharoen-bell |url-status=live |archive-url=https://web.archive.org/web/20220117134132/https://www.cbr.com/agents-shield-season-5-finale-preview-whedon-tancharoen-bell/ |archive-date=January 17, 2022 |access-date=May 20, 2018 |website=[[Comic Book Resources]]}}</ref>
+
+<!-- BACKGROUND AND DEVELOPMENT -->
+
+<ref name="OriginalDesign">{{Cite web |title=Interview with Jim Starlin |url=http://www.adelaidecomicsandbooks.com/starlin.htm |url-status=dead |archive-url=https://web.archive.org/web/20080122032717/http://www.adelaidecomicsandbooks.com/starlin.htm |archive-date=January 22, 2008 |website=Adelaide Comics and Books}}</ref>
+
+<!-- CASTING AND APPEARANCES -->
+
+<ref name="PoitierAvengers">{{Cite web |last=Tyler |first=Adrienne |date=January 20, 2020 |title=Why Marvel Recast Thanos After The Avengers |url=https://screenrant.com/marvel-thanos-recast-after-avengers-josh-brolin-reason/ |url-status=live |archive-url=https://web.archive.org/web/20200226042418/https://screenrant.com/marvel-thanos-recast-after-avengers-josh-brolin-reason/ |archive-date=February 26, 2020 |access-date=April 21, 2020 |website=[[Screen Rant]]}}</ref>
+
+<ref name="ThanosAvengers1">{{Cite web |last=Chitwood |first=Adam |date=March 5, 2021 |title=How the MCU Was Made: 'Marvel's The Avengers', Recasting Hulk, and How That Thanos Scene Happened |url=https://collider.com/how-the-avengers-1-was-made/ |url-status=live |archive-url=https://web.archive.org/web/20210310120646/https://collider.com/how-the-avengers-1-was-made/ |archive-date=March 10, 2021 |access-date=July 27, 2022 |website=[[Collider (website)|Collider]]}}</ref>
+
+<ref name="HitFix">{{Cite web |last=Ellwood |first=Gregory |date=April 12, 2015 |title=Joss Whedon reveals that there was supposed to be more Thanos in Guardians of the Galaxy |url=https://uproxx.com/hitfix/joss-whedon-reveals-that-there-was-supposed-to-be-more-thanos-in-guardians-of-the-galaxy/ |url-status=live |archive-url=https://web.archive.org/web/20150413235353/http://www.hitfix.com/news/joss-whedon-reveals-that-there-was-supposed-to-be-more-thanos-in-guardians-of-the-galaxy |archive-date=April 13, 2015 |access-date=April 29, 2019 |website=[[HitFix]] |via=[[Uproxx]]}}</ref>
+
+<ref name="IWWriters">{{Cite web |last=Sampson |first=Mike |date=April 12, 2016 |title=Avengers: Infinity War Writers Tease Thanos' Big Introduction |url=https://screencrush.com/avengers-infinity-war-thanos-writers/ |url-status=live |archive-url=https://web.archive.org/web/20211008203638/https://screencrush.com/avengers-infinity-war-thanos-writers/ |archive-date=October 8, 2021 |access-date=January 15, 2020 |website=ScreenCrush}}</ref>
+
+<ref name="VFXTHR">{{Cite web |last=Giardina |first=Carolyn |date=January 25, 2019 |title=How 'Avengers: Infinity War' VFX Teams Brought Josh Brolin's Thanos to Life |url=https://www.hollywoodreporter.com/behind-screen/how-vfx-teams-brought-josh-brolins-thanos-life-infinity-war-1178231 |url-status=live |archive-url=https://web.archive.org/web/20190126064856/https://www.hollywoodreporter.com/behind-screen/how-vfx-teams-brought-josh-brolins-thanos-life-infinity-war-1178231 |archive-date=January 26, 2019 |access-date=January 15, 2020 |website=[[The Hollywood Reporter]]}}</ref>
+
+<ref name="ThanosNarrator">{{Cite web |last=Chichizola |first=Corey |date=November 30, 2018 |title=Thanos Originally Narrated Avengers: Infinity War |url=https://www.cinemablend.com/news/2462511/thanos-originally-narrated-avengers-infinity-war |url-status=live |archive-url=https://web.archive.org/web/20201208122214/https://www.cinemablend.com/news/2462511/thanos-originally-narrated-avengers-infinity-war |archive-date=December 8, 2020 |access-date=January 15, 2020 |website=[[CinemaBlend]]}}</ref>
+
+<ref name="IWFlashbacks">{{Cite web |last=Seibold |first=Witney |date=July 18, 2022 |title=Avengers: Infinity War Cut Out Several Flashbacks With A Young Thanos |url=https://www.slashfilm.com/932051/avengers-infinity-war-cut-out-several-flashbacks-with-a-young-thanos/ |url-status=live |archive-url=https://web.archive.org/web/20220718222903/https://www.slashfilm.com/932051/avengers-infinity-war-cut-out-several-flashbacks-with-a-young-thanos/ |archive-date=July 18, 2022 |access-date=July 28, 2022 |website=[[/Film]]}}</ref>
+
+<ref name="ScreenTimeIW">{{Cite web |last=Kim |first=Amelia Rayne |date=April 10, 2020 |title=11 Characters With The Most Screen Time In Avengers: Infinity War |url=https://screenrant.com/characters-with-most-screen-time-in-avengers-infinity-war/ |url-status=live |archive-url=https://web.archive.org/web/20211213182938/https://screenrant.com/characters-with-most-screen-time-in-avengers-infinity-war/ |archive-date=November 21, 2021 |access-date=May 6, 2022 |website=[[Screen Rant]]}}</ref>
+
+<ref name="26Spoilers">{{Cite web |last=Travis |first=Ben |date=June 7, 2019 |title=Avengers Endgame: 26 Spoilers Explained By The Directors And Writers |url=https://www.empireonline.com/movies/features/avengers-endgame-26-spoilers-explained-directors-writers/ |url-status=live |archive-url=https://web.archive.org/web/20190609231031/https://www.empireonline.com/movies/features/avengers-endgame-26-spoilers-explained-directors-writers/ |archive-date=June 9, 2019 |access-date=December 20, 2019 |website=[[Empire (film magazine)|Empire]]}}</ref>
+
+<ref name="ThanosRetired">{{Cite web |last=Scott |first=Ryan |date=December 24, 2018 |title=What Happened to Thanos After Infinity War Officially Revealed |url=https://movieweb.com/thanos-retired-end-of-infinity-war/ |url-status=live |archive-url=https://web.archive.org/web/20210302080107/https://movieweb.com/thanos-retired-end-of-infinity-war/ |archive-date=March 2, 2021 |access-date=May 6, 2022 |website=[[MovieWeb]]}}</ref>
+
+<ref name="NYMarkusMcFeely">{{Cite web |last=Itzkoff |first=Dave |date=April 29, 2019 |title='Avengers: Endgame': The Screenwriters Answer Every Question You Might Have |url=https://www.nytimes.com/2019/04/29/movies/avengers-endgame-questions-and-answers.html |url-status=live |archive-url=https://web.archive.org/web/20190514173025/https://www.nytimes.com/2019/04/29/movies/avengers-endgame-questions-and-answers.html |archive-date=May 14, 2019 |access-date=January 15, 2020 |website=[[The New York Times]]}}</ref>
+
+<ref name="LokiS1">{{Cite web |last=Downey |first=Mason |date=June 9, 2021 |title=Loki Episode 1: 15 Easter Eggs And References In The Premiere |url=https://www.gamespot.com/gallery/loki-episode-1-15-easter-eggs-and-references-in-the-premiere/2900-3727/ |url-status=live |archive-url=https://web.archive.org/web/20210612003810/https://www.gamespot.com/gallery/loki-episode-1-15-easter-eggs-and-references-in-the-premiere/2900-3727/ |archive-date=June 12, 2021 |access-date=May 7, 2022 |website=[[GameSpot]]}}</ref>
+
+<!-- CHARACTERIZATION -->
+
+<ref name="ThanosGamora">{{Cite web |last=Buchanan |first=Kyle |date=April 30, 2018 |title=Avengers: Infinity War: How They Decided to Split Up the Characters |url=https://www.vulture.com/2018/04/avengers-infinity-war-how-they-decided-to-group-the-heroes.html |url-status=live |archive-url=https://web.archive.org/web/20220404003106/https://www.vulture.com/2018/04/avengers-infinity-war-how-they-decided-to-group-the-heroes.html |archive-date=April 4, 2022 |access-date=January 15, 2020 |website=[[Vulture (website)|Vulture]]}}</ref>
+
+<ref name="WhedonThanos">{{Cite web |last=Chitwood |first=Adam |date=June 15, 2021 |title=How the MCU Was Made: 'Avengers: Infinity War' and Crafting the Beginning of the Endgame |url=https://collider.com/avengers-infinity-war-making-of-explained-trivia/ |url-status=live |archive-url=https://web.archive.org/web/20210615140440/http://collider.com/avengers-infinity-war-making-of-explained-trivia/ |archive-date=June 15, 2021 |access-date=May 7, 2022 |website=[[Collider (website)|Collider]]}}</ref>
+
+<ref name="EndgameBlade">{{Cite web |last=Chichizola |first=Corey |date=August 13, 2019 |title=Yes, Thanos' Endgame Sword Is Stronger Than Vibranium |url=https://www.cinemablend.com/news/2477995/yes-thanos-endgame-sword-is-stronger-than-vibranium |url-status=live |archive-url=https://web.archive.org/web/20211008200834/https://www.cinemablend.com/news/2477995/yes-thanos-endgame-sword-is-stronger-than-vibranium |archive-date=October 8, 2021 |access-date=March 26, 2021 |website=[[Cinema Blend]]}}</ref>
+
+<ref name="CombatSkills">{{Cite web |last=Tyler |first=Adrienne |date=December 6, 2020 |title=Every Power Thanos Has In The MCU (Without The Infinity Stones) |url=https://screenrant.com/every-superpower-thanos-explained-no-infinity-stones/ |url-status=live |archive-url=https://web.archive.org/web/20211008211742/https://screenrant.com/every-superpower-thanos-explained-no-infinity-stones/ |archive-date=October 8, 2021 |access-date=December 21, 2020 |website=[[Screen Rant]]}}</ref>
+
+<!-- DESIGN AND SPECIAL EFFECTS -->
+
+<ref name="FXGuide">{{Cite web |last=Seymour |first=Mike |date=May 7, 2018 |title=Making Thanos Face the Avengers |url=https://www.fxguide.com/fxfeatured/making-thanos-face-the-avengers/ |url-status=live |archive-url=https://web.archive.org/web/20200101001325/https://www.fxguide.com/fxfeatured/making-thanos-face-the-avengers/ |archive-date=January 1, 2020 |access-date=January 15, 2020 |website=fxguide.com}}</ref>
+
+<ref name="ComicSnap">{{Cite web |last=Verhoeven |first=Beatrice |date=May 7, 2018 |title='Avengers: Infinity War' Almost Included a Single Frame of a Single Word at a Crucial Moment |url=https://www.thewrap.com/avengers-infinity-war-almost-included-a-single-frame-of-a-single-word-at-a-crucial-moment/ |url-status=live |archive-url=https://web.archive.org/web/20211218204446/https://www.thewrap.com/avengers-infinity-war-almost-included-a-single-frame-of-a-single-word-at-a-crucial-moment/ |archive-date=December 18, 2021 |access-date=May 11, 2022 |website=[[TheWrap]]}}</ref>
+
+<ref name="DesignChanges">{{Cite web |last=Hood |first=Cooper |date=July 2, 2020 |title=MCU: How & Why Thanos Looks Different In Each Movie |url=https://screenrant.com/mcu-movies-thanos-looks-different-cgi-changes-reason/ |url-status=live |archive-url=https://web.archive.org/web/20211024052114/https://screenrant.com/mcu-movies-thanos-looks-different-cgi-changes-reason/ |archive-date=October 24, 2021 |access-date=June 3, 2022 |website=[[Screen Rant]]}}</ref>
+
+<!-- PORTRAYAL -->
+
+<ref name="BrandoPortrayal">{{Cite web |last=Sharf |first=Zack |date=October 3, 2020 |title=Josh Brolin: Why 'Deadpool 2' Role Felt Like a 'Business Transaction' Compared to Thanos |url=https://www.indiewire.com/2020/10/josh-brolin-deadpool-2-business-transaction-1234590160/ |url-status=live |archive-url=https://web.archive.org/web/20211103062120/https://www.indiewire.com/2020/10/josh-brolin-deadpool-2-business-transaction-1234590160/ |archive-date=November 3, 2021 |access-date=May 6, 2022 |website=[[IndieWire]]}}</ref>
+
+<!-- RECEPTION -->
+
+<ref name="RTRoundUp">{{Cite web |date=April 25, 2018 |title=Avengers: Infinity War Reviews: It's Both Amazing and Exhausting |url=https://editorial.rottentomatoes.com/article/avengers-infinity-war-reviews-its-both-amazing-and-exhausting/ |url-status=live |archive-url=https://web.archive.org/web/20211214073430/https://editorial.rottentomatoes.com/article/avengers-infinity-war-reviews-its-both-amazing-and-exhausting/ |archive-date=December 14, 2021 |access-date=May 3, 2018 |publisher=[[Rotten Tomatoes]]}}</ref>
+
+<ref name="MCUVillainsMH">{{Cite web |last=Romano |first=Evan |date=May 5, 2022 |title=A Complete Ranking of Every Marvel Cinematic Universe Villain |url=https://www.menshealth.com/entertainment/a36289657/marvel-villains-ranked/ |url-status=live |archive-url=https://web.archive.org/web/20220506092217/https://www.menshealth.com/entertainment/a36289657/marvel-villains-ranked/ |archive-date=May 6, 2022 |access-date=May 8, 2022 |website=[[Men's Health]]}}</ref>
+
+<ref name="WPThanos">{{Cite news |last=Cavna |first=Michael |date=May 4, 2018 |title=Here's why 'Infinity War's' Thanos is the most compelling Marvel film villain yet |newspaper=[[The Washington Post]] |url=https://www.washingtonpost.com/news/comic-riffs/wp/2018/05/04/heres-why-infinity-wars-thanos-is-the-most-compelling-marvel-film-villain-yet/ |url-status=live |access-date=January 15, 2020 |archive-url=https://web.archive.org/web/20200115015843/https://www.washingtonpost.com/news/comic-riffs/wp/2018/05/04/heres-why-infinity-wars-thanos-is-the-most-compelling-marvel-film-villain-yet/ |archive-date=January 15, 2020}}</ref>
+
+<ref name="MCUVillainRankSR">{{Cite web |last=McGlynn |first=Anthony |date=April 29, 2018 |title=Thanos Is The MCU's Best Villain, Hands Down |url=https://screenrant.com/thanos-mcu-best-villain-marvel/ |url-status=live |archive-url=https://web.archive.org/web/20190502075843/https://screenrant.com/thanos-mcu-best-villain-marvel/ |archive-date=May 2, 2019 |access-date=August 9, 2019 |website=[[Screen Rant]]}}</ref>
+
+<ref name="MCUVillainsLooper">{{Cite web |last=Archbold |first=Phil |date=May 6, 2022 |title=Every MCU Movie Villain Ranked Worst To Best |url=https://www.looper.com/77198/every-mcu-movie-villain-ranked-worst-best/ |url-status=live |archive-url=https://web.archive.org/web/20220508180339/https://www.looper.com/77198/every-mcu-movie-villain-ranked-worst-best/ |archive-date=May 8, 2022 |access-date=May 8, 2022 |website=[[Looper (website)|Looper]]}}</ref>
+
+<ref name="MCUVillainRankGamesRadar">{{Cite web |last=<!--Newsarama Staff--> |date=March 31, 2020 |title=Ranking All The Marvel Studios Villains From Worst-To-Best |url=https://www.gamesradar.com/best-marvel-studios-villains//#s29 |url-status=live |archive-url=https://web.archive.org/web/20210614190642/https://www.gamesradar.com/best-marvel-studios-villains// |archive-date=June 14, 2021 |access-date=May 8, 2022 |website=[[GamesRadar+]]}}</ref>
+
+<ref name="AllTimeVillainRanking">{{Cite web |last1=Barron |first1=Matt |last2=Monroe |first2=Justin |last3=Scarano |first3=Ross |last4=Khal |first4=Tara Aquino |last5=Bernucca |first5=Carolyn |date=January 18, 2022 |title=The Best Villains in Movie History |url=https://www.complex.com/pop-culture/best-villains-movie-history/ |url-status=live |archive-url=https://web.archive.org/web/20201128181410/https://www.complex.com/pop-culture/best-villains-movie-history/ |archive-date=November 28, 2020 |access-date=May 5, 2022 |website=[[Complex Networks|Complex]]}}</ref>
+
+<ref name="RankerVillains">{{Cite web |last=<!--Ranker community--> |date=April 1, 2022 |title=The Greatest Movie Villains Of All Time |url=https://www.ranker.com/crowdranked-list/the-best-movie-villains-of-all-time |url-status=live |archive-url=https://web.archive.org/web/20220416235828/https://www.ranker.com/crowdranked-list/the-best-movie-villains-of-all-time |archive-date=April 16, 2022 |access-date=May 8, 2022 |website=[[Ranker]]}}</ref>
+
+<ref name="WatchMojoVillains">{{Cite web |last=Brayton |first=Rebecca |title=Top 100 Movie Villains of All Time |url=https://www.watchmojo.com/video/id/44830 |url-status=live |archive-url=https://web.archive.org/web/20220513165543/https://www.watchmojo.com/video/id/44830 |archive-date=May 13, 2022 |access-date=May 13, 2022 |website=[[WatchMojo]]}}</ref>
+
+<ref name="2010sVillains">{{Cite web |last=Starner |first=Nina |date=December 10, 2019 |title=The Best Movie Villains Of The Last Decade |url=https://www.looper.com/178594/the-best-movie-villains-of-the-last-decade/ |url-status=live |archive-url=https://web.archive.org/web/20220104183812/https://www.looper.com/178594/the-best-movie-villains-of-the-last-decade/ |archive-date=January 4, 2022 |access-date=January 4, 2022 |website=looper.com |publisher=[[Looper (website)|Looper]]}}</ref>
+
+<ref name="DecadeVillainsSR">{{Cite web |last=Hutchinson |first=Sam |date=December 11, 2019 |title=10 Best Movie Villains From The Past Decade |url=https://screenrant.com/best-movie-villains-of-the-decade/ |url-status=live |archive-url=https://web.archive.org/web/20191212152829/https://screenrant.com/best-movie-villains-of-the-decade/ |archive-date=December 12, 2019 |access-date=April 21, 2020 |website=Screen Rant}}</ref>
+
+<ref name="21stCenturyVillains">{{Cite web |last=Ehrlich |first=David |date=March 4, 2019 |title=The Best Movie Villains of the 21st Century — IndieWire Critics Survey |url=https://www.indiewire.com/2019/03/best-movie-villains-21st-century-indiewire-critics-survey-1202048559/ |url-status=live |archive-url=https://web.archive.org/web/20211222044206/https://www.indiewire.com/2019/03/best-movie-villains-21st-century-indiewire-critics-survey-1202048559/ |archive-date=December 22, 2021 |access-date=January 4, 2022 |website=indiewire.com |publisher=[[IndieWire]]}}</ref>
+
+<ref name="VarietyIWReview">{{Cite web |last=Gleiberman |first=Owen |date=April 24, 2018 |title=Film Review: 'Avengers: Infinity War' |url=https://variety.com/2018/film/reviews/avengers-infinity-war-review-robert-downey-jr-chadwick-boseman-1202782256/ |url-status=live |archive-url=https://web.archive.org/web/20180425011602/http://variety.com/2018/film/reviews/avengers-infinity-war-review-robert-downey-jr-chadwick-boseman-1202782256/ |archive-date=April 25, 2018 |access-date=April 25, 2018 |website=[[Variety (magazine)|Variety]]}}</ref>
+
+<ref name="THRIWReview">{{Cite web |last=McCarthy |first=Todd |date=April 24, 2018 |title='Avengers: Infinity War': Film Review |url=https://www.hollywoodreporter.com/review/avengers-infinity-war-review-1105484 |url-status=live |archive-url=https://web.archive.org/web/20180425010609/https://www.hollywoodreporter.com/review/avengers-infinity-war-review-1105484 |archive-date=April 25, 2018 |access-date=April 25, 2018 |website=[[The Hollywood Reporter]]}}</ref>
+
+<ref name="IGNIWReview">{{Cite web |last=Collura |first=Scott |date=May 18, 2018 |title=Avengers: Infinity War Review |url=https://www.ign.com/articles/2018/05/18/avengers-infinity-war-review |url-status=live |archive-url=https://web.archive.org/web/20190323093817/https://www.ign.com/articles/2018/05/18/avengers-infinity-war-review |archive-date=March 23, 2019 |access-date=March 23, 2019 |website=[[IGN]]}}</ref>
+
+<ref name="RollingStoneIWReview">{{Cite magazine |last=Travers |first=Peter |date=April 24, 2018 |title='Avengers: Infinity War' Review: All-Star Marvel Team-Up Is Superhero Pile-Up |url=https://www.rollingstone.com/movies/movie-reviews/avengers-infinity-war-review-all-star-marvel-team-up-is-superhero-pile-up-628954/ |url-status=live |archive-url=https://web.archive.org/web/20220403234817/https://www.rollingstone.com/movies/movie-reviews/avengers-infinity-war-review-all-star-marvel-team-up-is-superhero-pile-up-628954/ |archive-date=April 3, 2022 |access-date=April 25, 2018 |magazine=[[Rolling Stone]]}}</ref>
+
+<ref name="TheAtlanticIWReview">{{Cite web |last=Orr |first=Christopher |date=April 26, 2018 |title='Avengers: Infinity War' Is an Extraordinary Juggling Act |url=https://www.theatlantic.com/entertainment/archive/2018/04/avengers-infinity-war-marvel-review/558983/ |url-status=live |archive-url=https://web.archive.org/web/20200317021401/https://www.theatlantic.com/entertainment/archive/2018/04/avengers-infinity-war-marvel-review/558983/ |archive-date=March 17, 2020 |access-date=January 15, 2020 |website=[[The Atlantic]]}}</ref>
+
+<ref name="IWESB">{{Cite web |last=Guerrasio |first=Jason |date=April 30, 2018 |title=Thanks to Thanos, 'Avengers: Infinity War' is Marvel's 'The Empire Strikes Back' |url=https://www.businessinsider.com/avengers-infinity-war-is-marvel-empire-strikes-back-because-of-thanos-2018-4 |url-status=live |archive-url=https://web.archive.org/web/20191220020024/https://www.businessinsider.com/avengers-infinity-war-is-marvel-empire-strikes-back-because-of-thanos-2018-4 |archive-date=December 20, 2019 |access-date=December 18, 2019 |website=[[Business Insider]]}}</ref>
+
+<ref name="RTEndgameThanos">{{Cite web |last=Fullerton |first=Huw |date=May 12, 2019 |title=Did Avengers: Endgame ruin Thanos? |url=https://www.radiotimes.com/tv/sci-fi/did-avengers-endgame-ruin-thanos/ |url-status=live |archive-url=https://web.archive.org/web/20210509014403/https://www.radiotimes.com/tv/sci-fi/did-avengers-endgame-ruin-thanos/ |archive-date=May 9, 2021 |access-date=May 8, 2022 |website=[[Radio Times]]}}</ref>
+
+<ref name="SREndgameThanos">{{Cite web |last=Farrow |first=Max |date=May 1, 2019 |title=Avengers: Endgame Wasted Thanos' Infinity War Story |url=https://screenrant.com/avengers-endgame-thanos-story-bad-infinity-war/ |url-status=live |archive-url=https://web.archive.org/web/20210628060002/https://screenrant.com/avengers-endgame-thanos-story-bad-infinity-war/ |archive-date=June 28, 2021 |access-date=May 8, 2022 |website=[[Screen Rant]]}}</ref>
+
+<ref name="StarlinPay">{{Cite web |last=Couch |first=Aaron |date=July 16, 2021 |title=Marvel and DC's "Shut-Up Money": Comic Creators Go Public Over Pay |url=https://www.hollywoodreporter.com/movies/movie-news/marvel-and-dcs-shut-up-money-comic-creators-go-public-over-pay-1234983043/ |url-status=live |archive-url=https://web.archive.org/web/20210716202758/https://www.hollywoodreporter.com/movies/movie-news/marvel-and-dcs-shut-up-money-comic-creators-go-public-over-pay-1234983043/ |archive-date=July 16, 2021 |access-date=July 16, 2021 |website=[[The Hollywood Reporter]]}}</ref>
+
+<ref name="ThanosSnapSite">{{Cite web |title=Did Thanos Kill You? |url=http://www.didthanoskill.me/ |url-status=live |archive-url=https://web.archive.org/web/20200111064346/http://www.didthanoskill.me/ |archive-date=January 11, 2020 |access-date=January 11, 2020 |website=didthanoskill.me}}</ref>
+
+<ref name="PolygonRedditBan">{{Cite web |last=Alexander |first=Julia |date=July 11, 2018 |title=What happens after Reddit bans more than 350K users because of a joke? |url=https://www.polygon.com/2018/7/11/17552982/thanos-did-nothing-wrong-ban-reddit-mad-snapping |url-status=live |archive-url=https://web.archive.org/web/20200116015613/https://www.polygon.com/2018/7/11/17552982/thanos-did-nothing-wrong-ban-reddit-mad-snapping |archive-date=January 16, 2020 |access-date=January 16, 2020 |website=[[Polygon (website)|Polygon]]}}</ref>
+
+<ref name="GizmodoRedditBan">{{Cite web |last=Elderkin |first=Beth |date=July 9, 2018 |title=Thanos Has Snapped His Fingers and Killed Half of a Subreddit |url=https://gizmodo.com/thanos-has-snapped-his-fingers-and-killed-half-a-subred-1827448545 |url-status=live |archive-url=https://web.archive.org/web/20220429192712/https://gizmodo.com/thanos-has-snapped-his-fingers-and-killed-half-a-subred-1827448545 |archive-date=April 29, 2022 |access-date=May 8, 2022 |website=[[Gizmodo]]}}</ref>
+
+<ref name="BrolinRedditBan">{{Cite web |last=Tigani |first=Andrew |date=July 8, 2018 |title=Infinity War: Josh Brolin Delivers Thanos' Snap For Reddit User Ban |url=https://screenrant.com/josh-brolin-thanos-snap-reddit-ban/ |url-status=live |archive-url=https://web.archive.org/web/20220429192606/https://screenrant.com/josh-brolin-thanos-snap-reddit-ban/ |archive-date=April 29, 2022 |access-date=May 8, 2022 |website=[[Screen Rant]]}}</ref>
+
+<ref name="VergeRedditBan">{{Cite web |last=Farokhmanesh |first=Megan |date=July 10, 2018 |title=Thanos subreddit successfully bans half its community |url=https://www.theverge.com/2018/7/10/17548768/thanos-subreddit-bans-half-community-marvel |url-status=live |archive-url=https://web.archive.org/web/20220429192552/https://www.theverge.com/2018/7/10/17548768/thanos-subreddit-bans-half-community-marvel |archive-date=April 29, 2022 |access-date=May 8, 2022 |website=[[The Verge]]}}</ref>
+
+<ref name="AntManTheory">{{Cite web |last=Carbone |first=Gina |date=October 19, 2019 |title=Paul Rudd Is Still Bummed About Avengers: Endgame's Thanus Theory |url=https://www.cinemablend.com/news/2482677/paul-rudd-is-still-bummed-about-avengers-endgames-thanus-theory |url-status=live |archive-url=https://web.archive.org/web/20220414044722/https://www.cinemablend.com/news/2482677/paul-rudd-is-still-bummed-about-avengers-endgames-thanus-theory |archive-date=April 14, 2022 |access-date=February 1, 2021 |website=[[CinemaBlend]]}}</ref>
+
+<ref name="TheBoysS3">{{Cite web |last=Bojalad |first=Alec |date=June 4, 2022 |title=The Boys Season 3: Yes, That One Scene Was Inspired by the Ant-Man Meme |url=https://www.denofgeek.com/tv/the-boys-season-3-opening-scene-ant-man-meme/ |url-status=live |archive-url=https://web.archive.org/web/20220606104631/https://www.denofgeek.com/tv/the-boys-season-3-opening-scene-ant-man-meme/ |archive-date=June 6, 2022 |access-date=June 8, 2022 |website=[[Den of Geek]]}}</ref>
+
+<ref name="GoogleGauntlet">{{Cite web |last=Ricker |first=Thomas |date=April 26, 2019 |title=Stop what you're doing and Google 'Thanos' for an Avengers Easter egg |url=https://www.theverge.com/2019/4/26/18517574/avengers-easter-egg-surprise-thanos-search |url-status=live |archive-url=https://web.archive.org/web/20220430165246/https://www.theverge.com/2019/4/26/18517574/avengers-easter-egg-surprise-thanos-search |archive-date=April 30, 2022 |access-date=April 26, 2019 |website=[[The Verge]]}}</ref>
+
+<ref name="TrumpMeme">{{Cite web |last=O'Neil |first=Luke |date=December 11, 2019 |title='I'm inevitable': Trump campaign ad shows president as Avengers villain Thanos |url=https://www.theguardian.com/us-news/2019/dec/11/trump-thanos-ad-marvel-video |url-status=live |archive-url=https://web.archive.org/web/20220216032618/https://www.theguardian.com/us-news/2019/dec/11/trump-thanos-ad-marvel-video |archive-date=February 16, 2022 |access-date=May 19, 2021 |website=[[The Guardian]]}}</ref>
+
+<ref name="StarlinTrumpWP">{{Cite news |last=Chiu |first=Allyson |date=December 11, 2019 |title='These are sad and strange times': Thanos creator rips widely mocked campaign video portraying Trump as Avengers supervillain |newspaper=[[The Washington Post]] |url=https://www.washingtonpost.com/nation/2019/12/11/trump-thanos-video-avengers-endgame-reelection-inevitable-impeachment/ |url-status=live |access-date=May 19, 2021 |archive-url=https://web.archive.org/web/20191211111030/https://www.washingtonpost.com/nation/2019/12/11/trump-thanos-video-avengers-endgame-reelection-inevitable-impeachment/ |archive-date=December 11, 2019}}</ref>
+
+<ref name="StarlinTrumpMW">{{Cite web |last=Burwick |first=Kevin |date=December 11, 2019 |title=Thanos Creator Feels Violated Over Team Trump Avengers 4 Twitter Video |url=https://movieweb.com/thanos-trump-avengers-4-tweet/ |url-status=live |archive-url=https://web.archive.org/web/20200616141239/https://movieweb.com/thanos-trump-avengers-4-tweet/ |archive-date=June 16, 2020 |access-date=May 9, 2022 |website=[[MovieWeb]]}}</ref>
+
+<ref name="PlunddoTram">{{Cite web |last=Couch |first=Aaron |date=August 27, 2020 |title=Thanos Creator Jim Starlin Unveils Trump-Inspired Villain |url=https://www.hollywoodreporter.com/movies/movie-news/thanos-creator-jim-starlin-unveils-trump-inspired-villain-4051086/ |url-status=live |archive-url=https://web.archive.org/web/20211221114614/https://www.hollywoodreporter.com/movies/movie-news/thanos-creator-jim-starlin-unveils-trump-inspired-villain-4051086/ |archive-date=May 9, 2022 |access-date=November 22, 2021 |website=[[The Hollywood Reporter]]}}</ref>
+
+<ref name="TramDeath">{{Cite web |last=Kleinman |first=Jake |date=June 3, 2021 |title=Thanos Creator Jim Starlin's New Comic Is The Best Political Parody Of 2021 |url=https://www.inverse.com/entertainment/thanos-jim-starlin-dreadstar-donald-trump-plunddo-tram |url-status=live |archive-url=https://web.archive.org/web/20210603133726/https://www.inverse.com/entertainment/thanos-jim-starlin-dreadstar-donald-trump-plunddo-tram |archive-date=June 3, 2021 |access-date=May 9, 2022 |website=[[Inverse (website)|Inverse]]}}</ref>
+
+<ref name="SimpsonsCouchGag">{{Cite web |last=Francisco |first=Eric |date=January 14, 2019 |title=Only One 'Simpsons' Character Survived Thanos' Couch Gag on Sunday Night |url=https://www.inverse.com/article/52458-the-simpsons-avengers-infinity-war-thanos-couch-gag-left-maggie-alive |url-status=live |archive-url=https://web.archive.org/web/20211020210850/https://www.inverse.com/article/52458-the-simpsons-avengers-infinity-war-thanos-couch-gag-left-maggie-alive |archive-date=October 20, 2021 |access-date=May 9, 2022 |website=[[Inverse (website)|Inverse]]}}</ref>
+
+<ref name="Plusaversary">{{Cite episode |title=The Simpsons in Plusaversary |url=https://www.disneyplus.com/video/d19da874-da2d-4dcd-978b-efb00befce1b |series=The Simpsons |series-link=The Simpsons |network=[[Disney+]] |date=November 12, 2021 |url-access=subscription}}</ref>
+
+<ref name="CableThanos">{{Cite web |last=Flaherty |first=Keely |date=May 18, 2018 |title=Here Are The 9 Jokes "Deadpool 2" Makes About "Infinity War" |url=https://www.buzzfeed.com/keelyflaherty/xx-hilarious-avengers-infinity-war-jokes-from-deadpool-2 |url-status=live |archive-url=https://web.archive.org/web/20180531234001/https://www.buzzfeed.com/keelyflaherty/xx-hilarious-avengers-infinity-war-jokes-from-deadpool-2 |archive-date=May 31, 2018 |access-date=May 9, 2022 |website=[[BuzzFeed]]}}</ref>
+
+<ref name="FortniteMode">{{Cite web |last=Donnelly |first=Joe |date=May 8, 2018 |title=Fortnite's Thanos mode is live, here's how it works |url=https://www.pcgamer.com/fortnite-thanos-mode-is-live-heres-how-it-works/ |url-status=live |archive-url=https://web.archive.org/web/20210920043429/https://www.pcgamer.com/fortnite-thanos-mode-is-live-heres-how-it-works/ |archive-date=September 20, 2021 |access-date=May 6, 2022 |website=[[PC Gamer]]}}</ref>
+
+<ref name="ThanosCupFortnite">{{Cite web |last=<!--The Fortnite Team--> |date=June 18, 2021 |title=Thanos Is Coming! Get Him First In The Thanos Cup |url=https://www.epicgames.com/fortnite/en-US/news/thanos-is-coming-get-him-first-in-the-thanos-cup |url-status=live |archive-url=https://web.archive.org/web/20211022210801/https://www.epicgames.com/fortnite/en-US/news/thanos-is-coming-get-him-first-in-the-thanos-cup |archive-date=October 22, 2021 |access-date=October 22, 2021 |website=[[Epic Games]]}}</ref>
+
+<ref name="KingThanos">{{Cite magazine |last=Chapman |first=Wilson |date=September 11, 2022 |title='Multiverse' Avengers Campus Ride Announced for Disneyland |url=https://variety.com/2022/film/news/multiverse-avengers-campus-ride-king-thanos-disneyland-1235368714/ |url-status=live |archive-url=https://web.archive.org/web/20220911191100/https://variety.com/2022/film/news/multiverse-avengers-campus-ride-king-thanos-disneyland-1235368714/ |archive-date=September 11, 2022 |access-date=September 18, 2022 |magazine=[[Variety (magazine)|Variety]]}}</ref>
+
+<!-- BOX OFFICE PERFORMANCE -->
+
+<ref name="IWBoxOffice">{{Cite web |title=Avengers: Infinity War (2018) |url=https://www.boxofficemojo.com/title/tt4154756/ |url-status=live |archive-url=https://web.archive.org/web/20220508033133/https://www.boxofficemojo.com/title/tt4154756/ |archive-date=May 8, 2022 |access-date=May 7, 2022 |website=[[Box Office Mojo]]}}</ref>
+
+<ref name="EGBoxOffice">{{Cite web |title=Avengers: Endgame (2019) |url=https://www.boxofficemojo.com/title/tt4154796/ |url-status=live |archive-url=https://web.archive.org/web/20220508033504/https://www.boxofficemojo.com/title/tt4154796/ |archive-date=May 8, 2022 |access-date=May 7, 2022 |website=[[Box Office Mojo]]}}</ref>
+
+<ref name="GotGBoxOffice">{{Cite web |title=Guardians of the Galaxy (2014) |url=https://www.boxofficemojo.com/title/tt2015381/ |url-status=live |archive-url=https://web.archive.org/web/20220508032701/https://www.boxofficemojo.com/title/tt2015381/ |archive-date=May 8, 2022 |access-date=May 7, 2022 |website=[[Box Office Mojo]]}}</ref>
+
+<ref name="AvengersBoxOffice">{{Cite web |title=The Avengers (2012) |url=https://www.boxofficemojo.com/title/tt0848228/ |url-status=live |archive-url=https://web.archive.org/web/20220508032838/https://www.boxofficemojo.com/title/tt0848228/ |archive-date=May 8, 2022 |access-date=May 7, 2022 |website=[[Box Office Mojo]]}}</ref>
+
+<ref name="AoUBoxOffice">{{Cite web |title=Avengers: Age of Ultron Box Office |url=https://www.boxofficemojo.com/title/tt2395427/ |url-status=live |archive-url=https://web.archive.org/web/20220508032958/https://www.boxofficemojo.com/title/tt2395427/ |archive-date=May 8, 2022 |access-date=May 7, 2022 |website=[[Box Office Mojo]]}}</ref>
+
+<ref name="EndgamePassesAvatar">{{Cite web |last1=D'Alessandro |first1=Anthony |last2=Tartaglione |first2=Nancy |date=July 20, 2019 |title='Avengers: Endgame' Finally Conquers King Of The World James Cameron's 'Avatar' To Become Highest-Grossing Film Of All Time |url=https://deadline.com/2019/07/avengers-endgame-finally-conquers-king-of-the-world-james-camerons-avatar-to-becoming-the-highest-grossing-film-of-all-time-1202649741/ |url-status=live |archive-url=https://web.archive.org/web/20220418020642/https://deadline.com/2019/07/avengers-endgame-finally-conquers-king-of-the-world-james-camerons-avatar-to-becoming-the-highest-grossing-film-of-all-time-1202649741/ |archive-date=April 18, 2022 |access-date=May 9, 2022 |website=[[Deadline Hollywood]]}}</ref>
+
+<ref name="AvatarPassesEndgame">{{Cite web |last=Keegan |first=Rebecca |date=March 18, 2021 |title=How 'Avatar' Reclaimed Its Global Box-Office Crown |url=https://www.hollywoodreporter.com/news/general-news/how-avatar-reclaimed-its-global-box-office-crown-4152277/ |url-status=live |archive-url=https://web.archive.org/web/20211007052558/https://www.hollywoodreporter.com/news/general-news/how-avatar-reclaimed-its-global-box-office-crown-4152277/ |archive-date=October 7, 2021 |access-date=May 9, 2022 |website=[[The Hollywood Reporter]]}}</ref>
+
+<ref name="MarvelCongratulatesAvatar">{{Cite web |last=Tartaglione |first=Nancy |date=March 13, 2021 |title=Marvel Congratulates 'Avatar' For Reclaiming Global Box Office Crown: "We Love You 3000" |url=https://deadline.com/2021/03/marvel-congratulates-avatar-global-box-office-record-avengers-endgame-james-cameron-disney-1234713840/ |url-status=live |archive-url=https://web.archive.org/web/20210414201316/https://deadline.com/2021/03/marvel-congratulates-avatar-global-box-office-record-avengers-endgame-james-cameron-disney-1234713840/ |archive-date=April 14, 2021 |access-date=May 9, 2022 |website=[[Deadline Hollywood]]}}</ref>
+
+<!-- ACCOLADES -->
+
+<ref name="MTVAwards2018">{{Cite magazine |last=Jones |first=Abby |date=May 3, 2018 |title=MTV Movie & TV Awards 2018 Nominations: See the Full List |url=https://www.billboard.com/articles/news/8452060/mtv-movie-tv-awards-2018-nominations-full-list |url-status=live |archive-url=https://web.archive.org/web/20180615102348/https://www.billboard.com/articles/news/8452060/mtv-movie-tv-awards-2018-nominations-full-list |archive-date=June 15, 2018 |magazine=[[Billboard (magazine)|Billboard]] |accessdate=July 26, 2020}}</ref>
+
+<ref name="TeenChoiceAwards2018">{{Cite web |last=Cohen |first=Jess |date=June 22, 2018 |title=Teen Choice Awards 2018: Avengers: Infinity War, Black Panther and Riverdale Among Top Nominees |url=https://www.eonline.com/news/943773/teen-choice-awards-2018-avengers-infinity-war-black-panther-and-riverdale-among-top-nominees |url-status=live |archive-url=https://web.archive.org/web/20180713025247/https://www.eonline.com/news/943773/teen-choice-awards-2018-avengers-infinity-war-black-panther-and-riverdale-among-top-nominees |archive-date=July 13, 2018 |website=[[E! News]] |accessdate=July 26, 2020}}</ref>
+
+<ref name="WashingtonDCAwards2018">{{Cite web |date=December 3, 2018 |title='Roma' Feels the Love with D.C. Film Critics |url=https://www.wafca.com/awards/2018.htm |url-status=live |archive-url=https://web.archive.org/web/20200119023700/http://wafca.com/awards/2018.htm |archive-date=January 19, 2020 |website=wafca.com |publisher=[[Washington D.C. Area Film Critics Association]] |accessdate=July 26, 2020}}</ref>
+
+<ref name="SeattleAwards2018">{{Cite web |date=December 10, 2018 |title='The Favourite' Leads the 2018 Seattle Film Critics Society Nominations |url=http://seattlefilmcritics.com/2018/12/10/the-favourite-leads-the-2018-seattle-film-critics-society-nominations/ |url-status=live |archive-url=https://web.archive.org/web/20181211100205/http://seattlefilmcritics.com/2018/12/10/the-favourite-leads-the-2018-seattle-film-critics-society-nominations/ |archive-date=December 11, 2018 |website=seattlefilmcritics.com |publisher=[[Seattle Film Critics Society]] |accessdate=July 26, 2020}}</ref>
+
+<ref name="AFCA2018">{{Cite web |last=Stoddard |first=Elizabeth |date=January 7, 2019 |title=2018 Awards |url=https://austinfilmcritics.org/2018-awards-9e6d354eb8ed |url-status=live |archive-url=https://archive.today/20190108051141/https://austinfilmcritics.org/2018-awards-9e6d354eb8ed?gi=d848af4f3fd7 |archive-date=January 8, 2019 |website=austinfilmcritics.org |publisher=[[Austin Film Critics Association]] |accessdate=July 25, 2020}}</ref>
+
+<ref name="LAAwards2018">{{Cite web |last=Anderton |first=Ethan |date=December 7, 2018 |title=2018 Los Angeles Online Film Critics Society Winners: 'The Hate U Give' Takes Best Picture |url=https://www.slashfilm.com/2018-los-angeles-online-film-critics-society-awards-winners/ |url-status=live |archive-url=https://web.archive.org/web/20210305130601/https://www.slashfilm.com/2018-los-angeles-online-film-critics-society-awards-winners/ |archive-date=March 5, 2021 |access-date=March 5, 2021 |website=[[/Film]]}}</ref>
+
+<ref name="VESAwards2018">{{Cite web |last=Giardina |first=Carolyn |date=February 5, 2019 |title=Visual Effects Society Awards: ''Avengers: Infinity War'' Wins Top Prize |url=https://www.hollywoodreporter.com/lists/2019-visual-effects-society-awards-winners-full-list-1178565 |url-status=live |archive-url=https://web.archive.org/web/20190206124115/https://www.hollywoodreporter.com/lists/2019-visual-effects-society-awards-winners-full-list-1178565/ |archive-date=February 6, 2019 |access-date=February 8, 2020 |website=[[The Hollywood Reporter]]}}</ref>
+
+<ref name="SaturnAwards2019">{{Cite web |last=Boucher |first=Geoff |date=September 13, 2019 |title=Saturn Awards: 'Spider-Man' Star Tom Holland Wins For Third Year In A Row |url=https://deadline.com/2019/09/saturn-awards-2019-winners-list-jon-favreau-kevin-feige-stan-lee-1202734450/ |url-status=live |archive-url=https://web.archive.org/web/20190914235350/https://deadline.com/2019/09/saturn-awards-2019-winners-list-jon-favreau-kevin-feige-stan-lee-1202734450/ |archive-date=September 14, 2019 |website=[[Deadline Hollywood]] |accessdate=July 26, 2020}}</ref>
+
+<ref name="MTVAwards2019">{{Cite web |last=Bell |first=Crystal |date=June 17, 2019 |title=2019 MTV Movie & TV Awards Winners: See the Full List |url=http://www.mtv.com/news/3128177/2019-mtv-movie-tv-awards-winners-list/ |url-status=live |archive-url=https://web.archive.org/web/20200413093055/http://www.mtv.com/news/3128177/2019-mtv-movie-tv-awards-winners-list/ |archive-date=April 13, 2020 |publisher=[[MTV]] |accessdate=July 26, 2020}}</ref>
+
+<ref name="TeenChoiceAwards2019">{{Cite magazine |date=August 11, 2019 |title=Here Are All the Winners From the 2019 Teen Choice Awards |url=https://www.billboard.com/articles/news/awards/8527134/teen-choice-awards-2019-winners-list |url-status=live |archive-url=https://web.archive.org/web/20190812042754/https://www.billboard.com/articles/news/awards/8527134/teen-choice-awards-2019-winners-list |archive-date=August 12, 2019 |magazine=[[Billboard (magazine)|Billboard]] |accessdate=July 26, 2020}}</ref>
+
+<ref name="WashingtonDCAwards2019">{{Cite web |date=December 8, 2019 |title='Parasite' Finds a Host in D.C. Film Critics |url=http://wafca.com/awards/2019.htm |url-status=live |archive-url=https://web.archive.org/web/20220216022536/http://wafca.com/awards/2019.htm |archive-date=February 16, 2022 |website=wafca.com |publisher=[[Washington D.C. Area Film Critics Association]] |accessdate=May 5, 2022}}</ref>
+
+<ref name="AFCA2019">{{Cite web |last=Stoddard |first=Elizabeth |date=January 7, 2020 |title=2019 Awards |url=https://austinfilmcritics.org/2019-awards-d2faafe15279 |url-status=live |archive-url=https://web.archive.org/web/20200109042118/https://austinfilmcritics.org/2019-awards-d2faafe15279?gi=f51e6c264ce7 |archive-date=January 9, 2020 |website=austinfilmcritics.org |publisher=[[Austin Film Critics Association]] |accessdate=July 25, 2020}}</ref>
+
+<ref name="HollywoodAwards2019">{{Cite web |date=November 25, 2019 |title=The 3rd Annual Hollywood Critics Association Awards Nominations |url=https://hollywoodcriticsassociation.com/the-3rd-annual-hollywood-critics-association-nominations/#comment-83822 |url-status=live |archive-url=https://web.archive.org/web/20200423131937/https://hollywoodcriticsassociation.com/the-3rd-annual-hollywood-critics-association-nominations/#comment-83822 |archive-date=April 23, 2020 |publisher=[[Hollywood Critics Association]] |accessdate=July 25, 2020}}</ref>
+
+<!-- MERCHANDISE -->
+
+<ref name="GotGHotToys">{{Cite web |last=Goldberg |first=Matt |date=January 30, 2015 |title=Geek Gifts: GUARDIANS OF THE GALAXY Thanos Sixth-Scale Figure from Hot Toys |url=https://collider.com/guardians-of-the-galaxy-thanos-hot-toys/ |url-status=live |archive-url=https://web.archive.org/web/20200113012721/https://collider.com/guardians-of-the-galaxy-thanos-hot-toys/ |archive-date=January 13, 2020 |access-date=May 6, 2022 |website=[[Collider (website)|Collider]]}}</ref>
+
+<ref name="GotGFunko">{{Cite web |last=Lovett |first=Jamie |date=December 22, 2014 |title=New Guardians Of The Galaxy Funko Pop! Bobble-Heads Include Thanos, Yondu & More |url=https://comicbook.com/marvel/news/new-guardians-of-the-galaxy-funko-pop-bobble-heads-include-thano/ |url-status=live |archive-url=https://web.archive.org/web/20220506200738/https://comicbook.com/marvel/news/new-guardians-of-the-galaxy-funko-pop-bobble-heads-include-thano/ |archive-date=May 6, 2022 |access-date=May 6, 2022 |website=[[Comicbook.com]]}}</ref>
+
+<ref name="GotGFunkoGlow">{{Cite web |last=Fallon |first=Sean |date=May 17, 2018 |title=The Exclusive 6-Inch Glowing Thanos 'Guardians of the Galaxy' Funko Pop is Back |url=https://comicbook.com/marvel/news/exclusive-6-inch-glowing-thanos-funko-pop/ |url-status=live |archive-url=https://web.archive.org/web/20220506201104/https://comicbook.com/marvel/news/exclusive-6-inch-glowing-thanos-funko-pop/ |archive-date=May 6, 2022 |access-date=May 6, 2022 |website=[[Comicbook.com]]}}</ref>
+
+<ref name="IWHotToys">{{Cite web |last=Fallon |first=Sean |date=April 3, 2018 |title=Hot Toys Unveils the Ultimate 'Avengers: Infinity War' Thanos Figure |url=https://comicbook.com/marvel/news/hot-toys-avengers-infinity-war-thanos-figure/ |url-status=live |archive-url=https://web.archive.org/web/20220506205758/https://comicbook.com/marvel/news/hot-toys-avengers-infinity-war-thanos-figure/ |archive-date=May 6, 2022 |access-date=May 6, 2022 |website=[[Comicbook.com]]}}</ref>
+
+<ref name="InfinityGauntletHotToys">{{Cite web |last=Li |first=Nicolaus |date=March 4, 2018 |title=Conquer Worlds Just Like Thanos With Hot Toys 'Avengers: Infinity War' Infinity Gauntlet |url=https://hypebeast.com/2018/3/hot-toys-avengers-infinity-war-thanos-infinity-gauntlet |url-status=live |archive-url=https://web.archive.org/web/20201021213415/https://hypebeast.com/2018/3/hot-toys-avengers-infinity-war-thanos-infinity-gauntlet |archive-date=October 21, 2020 |access-date=May 6, 2022 |website=[[Hypebeast (website)|Hypebeast]]}}</ref>
+
+<ref name="IWFunko">{{Cite web |last=Konrad |first=Jeremy |date=February 28, 2018 |title=Infinity War Comes to Funko as Thanos Also Conquers Our Wallets |url=https://bleedingcool.com/games/infinity-war-funko-pop-thanos-exclusive/ |url-status=live |archive-url=https://web.archive.org/web/20210228184133/https://bleedingcool.com/games/infinity-war-funko-pop-thanos-exclusive/ |archive-date=February 28, 2021 |access-date=May 6, 2022 |website=[[Bleeding Cool]]}}</ref>
+
+<ref name="IWFunkoChrome">{{Cite web |last=Schwellenbach |first=Ashley |date=October 1, 2018 |title=Coming Soon: Chrome Thanos Walmart Exclusives! |url=https://www.funko.com/blog/article/coming-soon-chrome-thanos-walmart-exclusives |url-status=live |archive-url=https://web.archive.org/web/20220507013644/https://www.funko.com/blog/article/coming-soon-chrome-thanos-walmart-exclusives |archive-date=May 7, 2022 |access-date=May 6, 2022 |website=[[Funko]]}}</ref>
+
+<ref name="IWFunkoMM">{{Cite web |last=Burwick |first=Kevin |date=November 24, 2018 |title=Cap Vs. Thanos Funko Pop Pays Close Attention to Infinity War Continuity |url=https://movieweb.com/captain-america-vs-thanos-funko-pop-details/ |url-status=live |archive-url=https://web.archive.org/web/20190621122607/https://movieweb.com/captain-america-vs-thanos-funko-pop-details/ |archive-date=June 21, 2019 |access-date=May 6, 2022 |website=[[MovieWeb]]}}</ref>
+
+<ref name="IWMCC">{{Cite AV media |url=https://youtube.com/watch?v=FE1VoB1DYDA |title=Marvel Collector Corps: Avengers Infinity War Unboxing! |date=April 17, 2018 |last=Original Funko |author-link=Funko |access-date=May 14, 2022 |via=[[YouTube]]}}</ref>
+
+<ref name="BrickHeadz">{{Cite tweet |number=972155176680386560 |user=LEGO_Group |title=How about a super hero welcome  for our newest @MarvelStudios @Avengers BrickHeadz...Gamora, Iron Man MK50, Thanos, and Star-Lord! Coming in April! #LEGOBrickHeadz #BrickHeadz #InfinityWar https://t.co/VSbA4o7hyO |author-link=LEGO |date=March 9, 2018 |access-date=May 6, 2022 |archive-url=https://web.archive.org/web/20220507072529/https://twitter.com/LEGO_Group/status/972155176680386560 |archive-date=May 7, 2022 |url-status=live}}</ref>
+
+<ref name="IWLEGO">{{Cite web |last=Anderton |first=Ethan |date=February 14, 2018 |title='Avengers: Infinity War' LEGO Sets May Reveal Some Potential Spoilers |url=https://www.slashfilm.com/556285/avengers-infinity-war-lego-sets-plot-details/ |url-status=live |archive-url=https://web.archive.org/web/20220507062917/https://www.slashfilm.com/556285/avengers-infinity-war-lego-sets-plot-details/ |archive-date=May 7, 2022 |access-date=May 6, 2022 |website=[[/Film]]}}</ref>
+
+<ref name="IWMarvelLegends">{{Cite web |last=Fallon |first=Sean |date=October 8, 2020 |title=The Marvel Legends The Children of Thanos 5-Pack Exclusive Figure Set is Live |url=https://comicbook.com/gear/amp/news/marvel-legends-the-children-of-thanos-5-pack-exclusive-amazon/ |url-status=live |archive-url=https://web.archive.org/web/20201014184315/https://comicbook.com/gear/amp/news/marvel-legends-the-children-of-thanos-5-pack-exclusive-amazon/ |archive-date=October 14, 2020 |access-date=May 9, 2022 |website=[[Comicbook.com]]}}</ref>
+
+<ref name="EndgameHT">{{Cite web |last=Burwick |first=Kevin |date=March 31, 2019 |title=Thanos Hot Toys Action Figure Reveals His Secret Avengers: Endgame Weapon |url=https://movieweb.com/avengers-endgame-thanos-hot-toys-action-figure/ |url-status=live |archive-url=https://web.archive.org/web/20220505025741/https://movieweb.com/avengers-endgame-thanos-hot-toys-action-figure/ |archive-date=May 5, 2022 |access-date=May 9, 2022 |website=[[MovieWeb]]}}</ref>
+
+<ref name="EndgameHTBattleDamaged">{{Cite web |last=Roberts |first=Tyler |date=February 5, 2020 |title=Thanos Returns to Hot Toys with New Battle Damaged Figure |url=https://bleedingcool.com/collectibles/thanos-returns-to-hot-toys-with-new-battle-damaged-figure/ |url-status=live |archive-url=https://web.archive.org/web/20210117010949/https://bleedingcool.com/collectibles/thanos-returns-to-hot-toys-with-new-battle-damaged-figure/ |archive-date=January 17, 2021 |access-date=May 9, 2022 |website=[[Bleeding Cool]]}}</ref>
+
+<ref name="EndgameFunko">{{Cite web |last=Schwellenbach |first=Ashley |date=March 27, 2019 |title=Coming Soon: Marvel's Avengers: Endgame! |url=https://www.funko.com/blog/article/coming-soon-marvels-avengers-endgame |url-status=live |archive-url=https://web.archive.org/web/20220510023231/https://www.funko.com/blog/article/coming-soon-marvels-avengers-endgame |archive-date=May 10, 2022 |access-date=May 9, 2022 |website=[[Funko]]}}</ref>
+
+<ref name="EndgameFunkoGarden">{{Cite web |last=Fallon |first=Sean |date=September 12, 2019 |title=Funko's New Avengers: Endgame Pops Are All About the Memes |url=https://comicbook.com/marvel/news/funko-avengers-endgame-meme-pop-figures-order/ |url-status=live |archive-url=https://web.archive.org/web/20200928213400/https://comicbook.com/marvel/news/funko-avengers-endgame-meme-pop-figures-order/ |archive-date=September 28, 2020 |access-date=May 9, 2022 |website=[[Comicbook.com]]}}</ref>
+
+<ref name="RavagerThanosFunko">{{Cite tweet |number=1446505721156284418 |user=OriginalFunko |title=Coming Soon: Pop! Marvel – Marvel Studios' What If...? Pre-order these Pops! today! https://t.co/2ljZOKmspB #Funko #FunkoPop #Marvel #Whatif @whatifofficial https://t.co/s7sGoJyFhT |author-link=Funko |date=October 8, 2021 |access-date=May 10, 2022 |archive-url=https://web.archive.org/web/20220510230733/https://twitter.com/OriginalFunko/status/1446505721156284418 |archive-date=May 10, 2022 |url-status=live}}</ref>
+
+<ref name="ThroneFunko">{{Cite web |last=Barnhardt |first=Adam |date=April 14, 2018 |title=Thanos Sits On His Throne In New Marvel's First Ten Years Supersized POP |url=https://comicbook.com/marvel/news/thanos-throne-funko-pop/ |url-status=live |archive-url=https://web.archive.org/web/20201109034807/https://comicbook.com/marvel/news/thanos-throne-funko-pop/ |archive-date=November 9, 2020 |access-date=May 9, 2022 |website=[[Comicbook.com]]}}</ref>
+
+<ref name="InfinitySagaFunko">{{Cite web |last=Fallon |first=Sean |date=August 24, 2021 |title=Exclusive Marvel Art Series Thanos Funko Pop Joins The Infinity Saga Collection |url=https://comicbook.com/marvel/amp/news/exclusive-marvel-art-series-thanos-funko-pop-infinity-saga/ |url-status=live |archive-url=https://web.archive.org/web/20210825081355/https://comicbook.com/marvel/amp/news/exclusive-marvel-art-series-thanos-funko-pop-infinity-saga/ |archive-date=August 25, 2021 |access-date=May 9, 2022 |website=[[Comicbook.com]]}}</ref>
+
+<ref name="SanctuaryIILEGO">{{Cite web |last=Novara |first=Brandon |date=September 23, 2021 |title=Recreate Final Avengers: Endgame Battle with LEGO's New Sanctuary II Set |url=https://movieweb.com/lego-avengers-endgame-battle-sanctuary-ii-set/ |url-status=live |archive-url=https://web.archive.org/web/20211119003816/https://movieweb.com/lego-avengers-endgame-battle-sanctuary-ii-set/ |archive-date=November 19, 2021 |access-date=May 9, 2022 |website=[[MovieWeb]]}}</ref>
+
+<ref name="AvengersCompoundLEGO">{{Cite web |last=Roberts |first=Tyler |date=June 12, 2021 |title=Rebuild the Avengers: Endgame Final Battle With LEGO |url=https://bleedingcool.com/collectibles/rebuild-the-avengers-endgame-final-battle-with-lego/ |url-status=live |archive-url=https://web.archive.org/web/20210617063831/https://bleedingcool.com/collectibles/rebuild-the-avengers-endgame-final-battle-with-lego/ |archive-date=June 17, 2021 |access-date=May 9, 2022 |website=[[Bleeding Cool]]}}</ref>
+
+<ref name="LEGOInfinityGauntlet">{{Cite web |last=Anderton |first=Ethan |date=May 17, 2021 |title=Cool Stuff: Building The New LEGO Infinity Gauntlet From 'Avengers: Infinity War' Will Be A Snap |url=https://www.slashfilm.com/581118/marvel-lego-infinity-gauntlet/ |url-status=live |archive-url=https://web.archive.org/web/20220510041347/https://www.slashfilm.com/581118/marvel-lego-infinity-gauntlet/ |archive-date=May 10, 2022 |access-date=May 9, 2022 |website=[[/Film]]}}</ref>
+
+<ref name="InfinitySagaLegends">{{Cite web |last=Jennings |first=Collier |date=May 11, 2021 |title=Hasbro's Legends Line Recreates Avengers: Endgame's Epic Finale |url=https://www.cbr.com/hasbro-legends-avengers-endgame-thanos-iron-man-tony-stark/amp/ |url-status=live |archive-url=https://web.archive.org/web/20210513025308/https://www.cbr.com/hasbro-legends-avengers-endgame-thanos-iron-man-tony-stark/amp/ |archive-date=May 13, 2021 |access-date=May 9, 2022 |website=[[Comic Book Resources]]}}</ref>
+
+<ref name="EWCover">{{Cite magazine |last=Breznican |first=Anthony |date=March 9, 2018 |title=Josh Brolin says there is heart within the murderous Thanos of Avengers: Infinity War |url=https://ew.com/movies/2018/03/09/josh-brolin-thanos-avengers-infinity-war/ |url-status=live |archive-url=https://web.archive.org/web/20220411233618/https://ew.com/movies/2018/03/09/josh-brolin-thanos-avengers-infinity-war/ |archive-date=April 11, 2022 |access-date=May 10, 2022 |magazine=[[Entertainment Weekly]]}}</ref>
+
+<ref name="IWEmpireCover">{{Cite web |last=Travis |first=Ben |date=March 20, 2018 |title=Empire's Avengers: Infinity War Covers and Marvel Mini-Magazine Revealed |url=https://www.empireonline.com/movies/news/empire-avengers-infinity-war-covers-marvel-mini-magazine-revealed/ |url-status=live |archive-url=https://web.archive.org/web/20220414072455/https://www.empireonline.com/movies/news/empire-avengers-infinity-war-covers-marvel-mini-magazine-revealed/ |archive-date=April 14, 2022 |access-date=May 10, 2022 |website=[[Empire (film magazine)|Empire]]}}</ref>
+
+<ref name="IWEmpireExclusiveCover">{{Cite web |last=Travis |first=Ben |date=March 20, 2018 |title=Empire's Avengers: Infinity War Subscriber Cover Revealed |url=https://www.empireonline.com/movies/news/empire-avengers-infinity-war-subscriber-cover-revealed/ |url-status=live |archive-url=https://web.archive.org/web/20180401015200/https://www.empireonline.com/movies/news/empire-avengers-infinity-war-subscriber-cover-revealed/ |archive-date=April 1, 2018 |access-date=May 10, 2022 |website=[[Empire (film magazine)|Empire]]}}</ref>
+
+<ref name="EndgameEmpireCover">{{Cite web |last=Travis |first=Ben |date=March 16, 2019 |title=Empire's Avengers: Endgame Newsstand Covers Revealed |url=https://www.empireonline.com/movies/news/empire-avengers-endgame-newsstand-covers-revealed/ |url-status=live |archive-url=https://web.archive.org/web/20220411020047/https://www.empireonline.com/movies/news/empire-avengers-endgame-newsstand-covers-revealed/ |archive-date=April 11, 2022 |access-date=May 10, 2022 |website=[[Empire (film magazine)|Empire]]}}</ref>
+
+<ref name="EndgameEmpireExclusiveCover">{{Cite web |last=Travis |first=Ben |date=March 15, 2019 |title=Empire's Avengers: Endgame Subscriber Cover Revealed |url=https://www.empireonline.com/movies/news/empire-avengers-endgame-subscriber-cover-revealed/ |url-status=live |archive-url=https://web.archive.org/web/20211003080457/https://www.empireonline.com/movies/news/empire-avengers-endgame-subscriber-cover-revealed/ |archive-date=October 3, 2021 |access-date=May 10, 2022 |website=[[Empire (film magazine)|Empire]]}}</ref>
+
+<ref name="OdeonCinemasPoster">{{Cite web |last=Scott |first=Ryan |date=April 20, 2018 |title=5 New Infinity War Posters Unfold a Sprawling Thanos Standoff |url=https://movieweb.com/avengers-infinity-war-odeon-posters-thanos-battle/ |url-status=live |archive-url=https://web.archive.org/web/20191121075040/https://movieweb.com/avengers-infinity-war-odeon-posters-thanos-battle/ |archive-date=November 21, 2019 |access-date=May 10, 2022 |website=[[MovieWeb]]}}</ref>
+
+<ref name="ChildrenofThanosPoster">{{Cite web |last=Pulig |first=Andrew |date=March 3, 2018 |title='Avengers: Infinity War' Poster Introduces the Film's Villains |url=https://hypebeast.com/2018/3/avengers-infinity-war-poster-introduces-the-films-villains |url-status=live |archive-url=https://web.archive.org/web/20220510195600/https://hypebeast.com/2018/3/avengers-infinity-war-poster-introduces-the-films-villains |archive-date=May 10, 2022 |access-date=May 10, 2022 |website=[[Hypebeast (website)|Hypebeast]]}}</ref>
+
+<ref name="MarvelStudios10Poster">{{Cite web |last=Anderton |first=Ethan |date=January 9, 2019 |title=Cool Stuff: Celebrate 10 Years Of Marvel Studios With John Guydo's Heroes And Villains Prints |url=https://www.slashfilm.com/563464/cool-stuff-celebrate-10-years-of-marvel-studios-with-john-guydos-heroes-and-villains-prints/ |url-status=live |archive-url=https://web.archive.org/web/20220510201358/https://www.slashfilm.com/563464/cool-stuff-celebrate-10-years-of-marvel-studios-with-john-guydos-heroes-and-villains-prints/ |archive-date=May 10, 2022 |access-date=May 10, 2022 |website=[[/Film]]}}</ref>
+
+<ref name="AvengersTetralogyPosters">{{Cite web |last=Anderton |first=Ethan |date=September 30, 2021 |title=Cool Stuff: The Avengers Infinity Saga Gets An Epic Collection Of Posters By John Guydo |url=https://www.slashfilm.com/620157/cool-stuff-the-avengers-infinity-saga-gets-an-epic-collection-of-posters-by-john-guydo/ |url-status=live |archive-url=https://web.archive.org/web/20220510201749/https://www.slashfilm.com/620157/cool-stuff-the-avengers-infinity-saga-gets-an-epic-collection-of-posters-by-john-guydo/ |archive-date=May 10, 2022 |access-date=May 10, 2022 |website=[[/Film]]}}</ref>
+
+<ref name="IWFatheads">{{Cite web |last=Booth |first=Kaitlyn |date=April 8, 2018 |title=New Promo Art from Avengers: Infinity War Revealed on Fathead Decals |url=https://bleedingcool.com/movies/promo-art-infinity-war-fathead-decals/ |url-status=live |archive-url=https://web.archive.org/web/20210125034012/https://bleedingcool.com/movies/promo-art-infinity-war-fathead-decals/ |archive-date=January 25, 2021 |access-date=May 10, 2022 |website=[[Bleeding Cool]]}}</ref>
+
+<ref name="ThanosMerch">{{Cite magazine |last=Warner |first=Alex |date=April 24, 2019 |title=All the best Avengers: Endgame gear you can get on Amazon nows |url=https://ew.com/movies/best-avengers-merchandise-gear-shirts-gifts-amazon/ |url-status=live |archive-url=https://web.archive.org/web/20201123130824/https://ew.com/movies/best-avengers-merchandise-gear-shirts-gifts-amazon/ |archive-date=November 23, 2020 |access-date=May 10, 2022 |magazine=[[Entertainment Weekly]]}}</ref>
+
+<ref name="AdditionalThanosMerch">{{Cite web |last=Fallon |first=Sean |date=March 13, 2018 |title='Avengers: Infinity War' Apparel Keeps Getting Better |url=https://comicbook.com/marvel/news/fifth-sun-avengers-infinity-war-shirts/ |url-status=live |archive-url=https://web.archive.org/web/20220510233950/https://comicbook.com/marvel/news/fifth-sun-avengers-infinity-war-shirts/ |archive-date=May 10, 2022 |access-date=May 10, 2022 |website=[[Comicbook.com]]}}</ref>
+
+<ref name="InfinityGauntletMerch">{{Cite web |last=Olivieri |first=Joshua |date=May 1, 2019 |title=The 10 Best Infinity Gauntlet Products, Ranked |url=https://screenrant.com/best-infinity-gauntlet-products/ |url-status=live |archive-url=https://web.archive.org/web/20190503212016/https://screenrant.com/best-infinity-gauntlet-products/ |archive-date=May 3, 2019 |access-date=May 10, 2022 |website=[[Screen Rant]]}}</ref>
+
+}}
+
+== External links ==
+{{sisterlinks|display=''Thanos''|d=y|n=no|b=no|v=no|voy=no|m=no|mw=no|q=no|wikt=no|s=no|species=no|c=no}}
+* [https://marvelcinematicuniverse.fandom.com/wiki/Thanos Thanos] on the Marvel Cinematic Universe Wiki
+* {{Marveldatabase|Thanos (Earth-199999)|Thanos}}
+* [https://www.marvel.com/characters/thanos/on-screen Thanos] on [[Marvel.com]]
+
+{{Marvel Cinematic Universe|selected=Cast}}
+{{Thanos}}
+
+[[Category:Avengers (film series)]]
+[[Category:Characters created by Joss Whedon]]
+[[Category:Fictional characters who can manipulate reality]]
+[[Category:Fictional characters who can manipulate time]]
+[[Category:Fictional commanders]]
+[[Category:Fictional dictators]]
+[[Category:Fictional filicides]]
+[[Category:Fictional mass murderers]]
+[[Category:Fictional murdered people]]
+[[Category:Fictional swordfighters]]<!--He wields a double-edged sword in Avengers: Endgame-->
+[[Category:Fictional torturers and interrogators]]
+[[Category:Fictional warlords]]
+[[Category:Film and television memes]]
+[[Category:Film characters introduced in 2012]]
+[[Category:Film supervillains]]
+[[Category:Galactic emperors]]
+[[Category:Internet memes introduced in 2018]]
+[[Category:Internet memes]]
+[[Category:Male film villains]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics extraterrestrial supervillains]]
+[[Category:Fictional characters displaced in time]]

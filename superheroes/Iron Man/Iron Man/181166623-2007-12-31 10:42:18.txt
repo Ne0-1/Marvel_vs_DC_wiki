@@ -1,0 +1,273 @@
+{{mergefrom|Iron Man in other media|date=December 2007}}
+{{for|the upcoming film and video game based on the superhero|Iron Man (film)|Iron Man (video game)}}
+{{otheruses}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:IM006.jpg|250px]]
+|caption=Iron Man.<br>Art by [[Adi Granov]].
+|character_name=Iron Man
+|publisher=[[Marvel Comics]]
+|debut=''[[Tales of Suspense]]'' #39 (March 1963)
+|creators=[[Stan Lee]]<br />[[Larry Lieber]]<br />[[Don Heck]]<br /> [[Jack Kirby]]
+|alter_ego=Anthony Edward "Tony" Stark
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances =Stark Industries<br />[[Avengers (comics)|Avengers]]<br />[[Mighty Avengers]]<br />[[New Avengers (comics)|New Avengers]]<br />[[West Coast Avengers]]<br />[[Illuminati (Marvel Comics)|Illuminati]]<br />[[S.H.I.E.L.D.]]<br />[[Force Works]]<br />[[United States Department of Defense|Department of Defense]] 
+|aliases =Cobalt Man, Iron Knight<!-- optional: actual identities the character uses, not nicknames -->
+|supports=<!--optional-->
+|powers = [[Genius]]-level intelligence,<br />[[list of comic book superpowers#Technopathy|Cyberpathic]] link with powered armor,<br />Possesses the [[Infinity Gems|Reality Gem]],<br />Skilled hand-to-hand combatant,<br />[[powered exoskeleton|Powered armor]] grants:<br />
+*Super-strength
+*Flight
+*Energy blasts
+}}
+
+'''Iron Man''' ('''Anthony Edward "Tony" Stark''') is a [[fictional character|fictional]] [[comic book]] [[superhero]] in the [[Marvel Comics]] [[Marvel Universe|universe]]. Created by [[Stan Lee]], [[Larry Lieber]], [[Don Heck]] and [[Jack Kirby]], he [[first appearance|first appeared]] in ''[[Tales of Suspense]]'' #39 (March 1963).
+
+==Publication history==
+Iron Man's premiere was a collaboration among editor and story-plotter Lee, scripter Lieber, story-artist Heck, who would illustrate most of the early Iron Man tales, and Kirby, who provided the cover pencils and designed the first Iron Man armor.<ref>{{cite web
+ | author=[[Mark Evanier|Evanier, Mark]]
+ | title=POVonline
+ | publisher=
+ | year=
+ | work=The Jack F.A.Q., Page 4
+ | url=http://marvel.com/universe3zx/images/1/1a/Iman1.jpg
+ | accessdate=2006-04-23
+}}</ref> Heck created the look of characters including protagonist Tony Stark and his secretary, [[Pepper Potts]].<ref>{{cite book
+ | last = Daniels
+ | first = Les
+ | authorlink = Les Daniels 
+ | coauthors = 
+ | year = 1999
+ | title = Marvel: Five Fabulous Decades of the World's Greatest Comics
+ | publisher = Harry N. Abrams
+ | pages = 99
+ | id = 
+}} "He designed the costume", Heck said of Kirby, "because he was doing the cover. The covers were always done first. But I created the look of the characters, like Tony Stark and his secretary Pepper Potts".</ref> Lee based Stark's personality on [[Howard Hughes]], explaining, "Howard Hughes was one of the most colorful men of our time. He was an inventor, an adventurer, a multi-millionaire, a ladies man and finally a nutcase."<ref>"Bullpen Bulletins" (Dec. 1997 Marvel comics): "Stan's Soapbox" (column), by Stan Lee</ref>
+
+Iron Man starred in generally 13-page but occasionally 18-page adventures, with the rest of ''Tales of Suspense'' devoted to [[anthology]] [[science fiction]] and [[supernatural]] stories. After debuting with bulky grey armor, Iron Man was redesigned with similar but golden armor in his second story (issue #40, April 1963), with the first iteration of his familiar, sleek red-and-golden armor appearing in issue #48 (Dec. 1963), drawn by [[Steve Ditko]] (though whether he or Kirby, singly or in collaboration, designed it, is uncertain).
+
+Beginning with issue #59 (Nov. 1964), Iron Man began sharing the now "split book" ''Tales of Suspense'' with [[Captain America]]. After the final issue, #99 (March 1968), the book became ''Captain America''; Iron Man appeared in the one-shot ''[[Iron Man and Sub-Mariner]]'' #1 (April 1968), and then debuted in his own title with ''The Invincible Iron Man'' #1 (May 1968).
+
+Iron Man was originally an [[anti-communism|anti-communist]] hero. Throughout the character’s [[comic book]] series, technological advancement and [[National security|national defense]] were constant themes for Iron Man, but later issues developed Stark into a more complex and vulnerable character as they depicted his battle with [[alcoholism]] and other personal difficulties. 
+
+Writers often portray Iron Man as a symbol of humanity's creativity as well as its frailties. He is often placed in contrast with his close friends [[Captain America]] and [[Thor (Marvel Comics)|Thor]], the former as a contrast between interventionist and cooperative attitudes, and the latter contrasting science and the supernatural. Throughout most of his career, Iron Man has been a member of the superhero team [[Avengers (comics)|the Avengers]], and has been featured in several incarnations of his own various comic-book series. According to ''[[BusinessWeek]]'', Iron Man is listed as one of the top ten most intelligent fictional characters in American comics.<ref>{{cite web | last = Pisani | first = Joseph | authorlink = Joseph Pisani | title =  The Smartest Superheroes | publisher = www.businessweek.com | date = 2006 | url = http://images.businessweek.com/ss/06/05/smart_heroes/index_01.htm | accessdate = 2007-11-25}}</ref>
+
+==Fictional character biography==
+===Origins===
+[[Image:ToS39.jpg|160px|left|thumb|''Tales of Suspense''#39 (March 1963): Iron Man debuts. Cover art by [[Jack Kirby]] and [[Don Heck]].<!--credits per Jack Kirby Museum site-->]]
+Anthony Stark was born in [[Long Island|Long Island, New York]]. He enters the undergraduate [[electrical engineering]] program at [[Massachusetts Institute of Technology|MIT]] while only 15 years old and graduates at the top of his class. At the age of 21, he inherits his father's company, Stark Industries, after his parents are killed in a car accident. One of the first things Stark does is buy out the company that made the faulty brakes on his parents' car and correct the mechanical problem.
+
+While on a visit to Vietnam (later updated to the Gulf War) to see how his new mini-transistors could assist the [[United States|American]] war effort, Stark is caught in a [[booby trap]]. Captured by a Vietnamese warlord named Wong Chu, and dying from a piece of [[shrapnel]] lodged in his heart from the booby trap, Stark is pressed into building weapons for Wong Chu, along with a fellow prisoner, the famed physicist Yin Sen (later called Ho Yinsen). However, Stark and Yin Sen use the workshop to secretly design and construct a suit of [[powered exoskeleton|powered armor]] — an iron [[exoskeleton]] that gives Stark tremendous strength as well as other abilities — that will not only keep Stark's heart beating, but also allow him to escape. Yin Sen sacrifices himself to buy Stark time to charge the bulky suit of armor, and as Iron Man, Stark kills Wong Chu and his men. On the way back, Iron Man encounters a wounded [[United States|American]] [[United States Air Force|Air Force]] helicopter pilot, [[War Machine|Jim Rhodes]]. Introducing himself as Stark's bodyguard, Iron Man and Rhodes manage to defend themselves against the pursuing [[Vietnam People's Army|North Vietnamese]] before making it back to American lines. On his return to the U.S., Stark continues to improve the armor, establishing a dual identity as the adventurer and superhero Iron Man. He also greatly expands his father's company, Stark Industries, eventually renaming it Stark International.
+
+The cover for Iron Man is that he is Stark's [[bodyguard]] and corporate mascot. To that end, Iron Man fights threats to his company, [[Communism|Communist]] opponents such as the [[Black Widow (Marvel Comics)|Black Widow]], the [[Crimson Dynamo]] and the [[Titanium Man]] as well as independent villains like the [[Mandarin (comics)|Mandarin]]. Both the Widow and the Dynamo eventually defect to the United States, and even erstwhile villain [[Hawkeye (comics)|Hawkeye]], originally a pawn of the Widow, reforms and joins the Avengers. No one suspects Stark of being Iron Man as he cultivates an image as a rich playboy and industrialist. Two notable members of Stark's supporting cast at this point are his personal chauffeur [[Happy Hogan|Harold "Happy" Hogan]] and secretary [[Pepper Potts|Virginia "Pepper" Potts]], to both of whom he eventually reveals his dual identity.
+
+The comic took an anti-Communist stance in its early years, which was softened as opposition rose to the [[Vietnam War]]. This change evolved in a series of stories with Stark profoundly reconsidering his political opinions and the morality of manufacturing weapons for the military. Stark, however, has remained essentially [[Conservatism|conservative]] both in character and politics, despite his playboy image. He also often shows himself to be occasionally arrogant and willing to let the ends justify the means. This leads to personal conflicts with the people around him, both in his civilian and superhero identities. 
+
+Stark has a vast personal fortune, and is also known as a [[philanthropist]]. He donates the use of his boyhood manor as [[Avengers Mansion]], and funds the Avengers' operations through the Maria Stark Foundation, a [[non-profit organization]] named after his late mother. The Foundation is not linked to any of Stark's businesses, and has continued to operate even when those businesses have failed. Stark also provides technology to other superheroes, including designing various replacement shields for Captain America, the [[List of vehicles in Marvel Comics#Quinjet|Quinjets]] used by the Avengers, the image inducers used by the [[X-Men]] and Spider-Man's second [[Spider-Man's powers and equipment#Stark Armor (Iron Spider)|armored costume]].
+
+Eventually, Stark's [[heart condition]] is discovered by the public and cured with an artificial [[heart transplantation|heart transplant]]. However, Stark is also developing a serious dependency on [[alcoholism|alcohol]]. The first time it becomes a problem is when Stark discovers that the national security agency [[S.H.I.E.L.D.]] has been buying a controlling interest in his company in order to ensure Stark's continued weapons development for them. At the same time, Stark's business rival [[Justin Hammer]] hires several supervillains to attack Stark. At one point, the Iron Man armor is even taken over and used to murder a diplomat. Although Iron Man is not immediately under suspicion, Stark is forced to hand the armor over to the authorities. Eventually Stark and Rhodes, now his personal pilot and confidant, track down and defeat those responsible, although Hammer would return to bedevil Stark again. With the support of his then-girlfriend, [[Bethany Cabe]], his friends and employees, Stark pulls through these crises and, for the moment, overcomes his dependency on alcohol.
+
+===Changing fortunes===
+[[Image:ironman1.jpg|160px|right|thumb|''Iron Man'' Vol. 1,#1 (May 1968). Cover art by [[Gene Colan]] & [[Frank Giacoia]].]]
+Some time later, a ruthless rival, [[Iron Monger|Obadiah Stane]], manipulates him emotionally into a serious relapse into alcoholism. As a result, Stark loses control of Stark International, becomes a homeless vagrant and gives up his armored identity to Rhodes, who becomes the new Iron Man for a lengthy period of time. Eventually, Stark recovers and starts a new company, Circuits Maximus. While Stark concentrates on new technological designs, Rhodes continues to act as Iron Man but steadily grows more aggressive and paranoid. Rhodes's problems are initially thought to be the result of his using armors whose cerebral interfaces are calibrated for Stark's brain, but are later revealed to be purely psychological in nature. Rhodes goes on a rampage, and Stark has to don a prototype suit to stop him. When Circuits Maximus comes under assault from Stane, Stark uses the completed next-generation armor to confront Stane in personal combat. Stark's skill proves superior over Stane's unskilled use of his own variant suit (known as the [[Iron Monger]]) and Stark regains his company when Stane commits suicide rather than be captured.
+
+===Armor Wars===
+In an attempt to stop other people from misusing his designs, Stark goes about disabling other armored heroes and villains who are using suits based on the Iron Man technology, the designs of which were stolen by his enemy [[Spymaster (comics)|Spymaster]]. However, these "Armor Wars" have tragic consequences, when he inadvertently causes the death of the Soviet [[Titanium Man#Titanium Man II - The Gremlin|Titanium Man]]. He also severely hurts his reputation as Iron Man by disabling the armor of the S.H.I.E.L.D. operatives known as the [[Mandroid]]s, disabling the armor of the [[Guardsman (comics)|Guardsmen]] (the Guardsmen were the guards of the supervillain detention center known as the [[Vault (comics)|Vault]], and Iron Man's actions lead to a small prison breakout), and defeating the government operative known as [[Stingray (comics)|Stingray]] in battle. The situation is worsened when Stark realizes that Stingray's armor does not incorporate any of his designs.
+
+[[Image:Im283.jpg|160px|thumb|left|''War Machine'' Vol. 1,#283 (Aug. 1992). Cover art by [[Kevin Hopgood]].]]
+This also leads to a falling out between Stark and Steve Rogers (who at the time has given up his [[Captain America]] identity). Rogers, while agreeing with Stark's motives, disapproves of his heavy-handed methods, considering them reckless and dangerous. [[Federal government of the United States|The United States government]] declares Iron Man a danger when he goes after their Stark-derived [[Guardsman (comics)|Guardsmen]] suits and Iron Man is hunted down. Stark eventually fakes Iron Man's demise and claims that a new person is in the armor. Tony also patches up his friendship with Steve Rogers.
+
+However, Stark's health continues to deteriorate, and it is discovered that the armor's [[cybernetics|cybernetic]] interface is causing irreversible damage to his [[nervous system]]. His condition is aggravated by a failed attempt on his life by a mentally unbalanced former lover which injures his spine, paralyzing him. Stark has a nerve chip implanted into his spine to regain his mobility, but this makes his body vulnerable to outside control, even though his mind is unaffected. With Rhodes's help, and using the cybernetically controlled Iron Man armor to move his remotely controlled body, he eventually defeats the villain responsible.
+
+Still, Stark's nervous system continues its slide towards failure, and he constructs a "skin" made up of artificial nerve circuitry to assist it. Stark also begins to pilot a remote-controlled Iron Man armor, but when faced with the Masters of Silence, the [[telepresence]] suit proves inadequate. Stark then designs a more heavily armed version of the suit to wear, the "Variable Threat Response Battle Suit", which becomes known as the [[War Machine|War Machine armor]]. 
+
+Ultimately, the damage to his nervous system becomes too extensive. Faking his death, Stark places himself in [[suspended animation]] to heal as Rhodes takes over the running of Stark Enterprises and the mantle of Iron Man using the War Machine armor. Stark ultimately makes a full recovery by using a chip to reprogram himself and reassumes the Iron Man identity. When Rhodes learns that Stark has manipulated his friends by faking his own death, he becomes enraged and the two friends part ways, Rhodes continuing as War Machine in a solo career. 
+
+A schism within the Avengers following the events of the [[Kree]]-[[Shi'ar]] War ([[Operation: Galactic Storm]]) and the later [[Bloodties (comics)|Bloodties]] storyline leads to a difference of opinion regarding the future of the Avengers' [[West Coast Avengers|west coast branch]]. Iron Man leaves the team and forms a new superhero group, [[Force Works]], funded by Tony Stark and composed of ex-Avengers. However, tensions within that team soon lead to his resignation from it, and Iron Man attempts a reconciliation with the Avengers.
+
+===The Crossing and Heroes Reborn===
+[[Image:Im324.jpg|thumb|200px|right|''Iron Man'' Vol. 1, #324 (Jan. 1996). The Avengers vs. Tony Stark.<br />Art by [[Jim Cheung]].]]
+The story arc "[[The Crossing (comics)|The Crossing]]" reveals Iron Man as a traitor among the Avengers' ranks, due to his having been manipulated for years and used as a sleeper agent by the time-traveling dictator [[Kang the Conqueror]]. Stark, in Kang's thrall, kills Marilla, the nanny of [[Crystal (comics)|Crystal]] and [[Quicksilver (comics)|Quicksilver's]] daughter Luna, as well as Rita DeMara, the female [[Yellowjacket (Rita DeMara)|Yellowjacket]], then an ally of the Avengers. (The miniseries ''[[Avengers Forever]]'' later [[retroactive continuity|retcon]]s these events as having been due to the machinations of a disguised [[Immortus]], not Kang, and that the mental control had gone back only a few months).
+
+Needing help to defeat both Stark and the ostensible Kang, the team travels back in time to recruit a teenaged Tony Stark from an alternate timeline to assist them. The young Stark steals an Iron Man suit in order to aid the Avengers against his older self. The sight of his younger self shocks the older Stark enough for him to regain momentary control of his actions, and he sacrifices his life to stop Kang. The young Stark later builds his own suit to become the new Iron Man, and, remaining in the present day, gains legal control of "his" company.
+
+During the battle with the creature called [[Onslaught (comics)|Onslaught]], the teenaged Stark dies, along with many other superheroes. However, [[Franklin Richards]] preserves these "dead" heroes in the "[[Heroes Reborn]]" pocket universe, in which Tony Stark is once again an adult hero; Franklin recreates the heroes in the pocket universe in the forms he is most familiar with rather than what they are at the present. The reborn adult Stark, upon returning to the normal Marvel Universe, merges with the original Stark, who had died during "The Crossing," but was resurrected by Franklin Richards. This new Tony Stark possesses the memories of both the original and teenage Tony Starks, and thus considers himself to be essentially both of them. With the aid of the law firm [[Daredevil (Marvel Comics)|Nelson & Murdock]], he successfully regains his fortune and- what with Stark Enterprises having been sold to the Fujikawa Corporation following Stark's death- sets up a new company, Stark Solutions. He also returns from the pocket universe with a restored and healthy heart. After the Avengers reform, Stark demands a hearing be convened to look into his actions just prior to the Onslaught incident. Cleared of wrongdoing, he rejoins the Avengers.
+
+[[Image:Imv3no30.jpg|thumb|220px|left|''Iron Man'' Vol. 3,#30 (July 2000). The Sentient Armor. Art by [[Joe Quesada]].]]
+===2000s===
+
+At one point, Stark's armor itself becomes sentient, despite fail-safes to prevent its increasingly sophisticated computer systems from doing so. Stark's safeguards are corrupted accidentally when he uses the armor to download the mind of the android [[Jocasta (Marvel Comics)|Jocasta]] to save her, resulting in her becoming his holographic personal [[physician]]/[[psychologist]] due to Stark programming her with various medical and surgical techniques. Jocasta is the creation of the rogue android [[Ultron]], and unknown even to her, embedded in all of Ultron's creations is the Ultron Imperative, a command that would compel them to rebuild Ultron whenever he is destroyed. The Ultron Imperative acts like a [[Trojan horse (computing)|Trojan horse]], infecting the armor's on-board systems. Combined with an electrical attack by the villain Whiplash that sends Stark into [[cardiac arrest]], it causes the armor's computer to become self-aware. Initially, Stark welcomes this "living" armor, as it has improved tactical abilities, but soon the armor's behavior begins to grow more aggressive, and it even commits murder. Eventually, the armor reaches the point where it wants to join with Stark and eventually replace him, like Ultron wishes to do with his creator [[Henry Pym]].
+
+Stark finds he cannot defeat the armor, but in the final confrontation on a desert island, Stark suffers another heart attack. To save its creator's life, the armor gives up part of its components to give Stark a new, artificial heart, sacrificing its own existence. The new heart solves Stark's health problems, but it does not have an internal power supply, so Stark becomes once again dependent on periodic recharging. 
+
+The sentient armor incident so disturbs Stark that he goes back to using an early model version of his armor for a while, lacking the sophistication of the sentient version and thus unlikely to result in a repeat of the same problem. He also dabbles with using liquid metal circuitry known as S.K.I.N. that will form itself into a protective shell around his body, but eventually returns to more conventional hard metal armors. 
+
+During this time, Stark engages in a romance with [[Rumiko Fujikawa]], (first appearance in ''Iron Man'' vol. 3, #4), a wealthy heiress and daughter of the man who had taken over his company during the "Heroes Reborn" period. An intelligent and resourceful woman, she nonetheless begins the relationship in part to rebel against her stern father, who disapproves of Stark. Her relationship with Stark endures many highs and lows, including an infidelity with Stark's rival, Tiberius Stone, in part because the fun-loving Rumiko believes that Stark is too serious and dull. Their relationship ends with Rumiko's death at the hands of an Iron Man impostor in Vol. 3, #87.
+[[Image:IM78.jpg|200px|right|thumb|Promotional art for ''Iron Man'' vol. 3,#78, by Adi Granov. This "[[ablative armor|ablative]]" armor is a mid-2000s version of Iron Man's suit, with most of those armors themselves going through small variations over the years.]]
+
+In ''Iron Man'' vol. 3, #55 (July 2002), Stark publicly reveals his dual identity as Iron Man, not realizing that by doing so, he has invalidated the agreements protecting his armor from government duplication (since those contracts state that the Iron Man armor would be used by an employee of Tony Stark, not by Stark himself). When he discovers that the [[Military of the United States|United States military]] is again using his technology, Stark, rather than confront them as before, accepts a [[President of the United States|Presidential]] appointment as [[United States Secretary of Defense|Secretary of Defense]]. (His predecessor, Dell Rusk, was the [[Red Skull]] in disguise). In this way, he hopes to monitor and direct how his designs are used. 
+
+Stark continues to act as Iron Man while carrying out his government duties, until being forced to resign after a seemingly drunken tirade against the [[Latveria]]n Ambassador at the [[United Nations]]. The tirade is actually induced by the [[Scarlet Witch]], who has gone insane (see ''[[Avengers Disassembled]]''). This incident is part of a series of events culminating in the deaths of three Avengers, the destruction of Avengers Mansion, and the disbanding of the Avengers themselves. In the aftermath, Stark claims publicly he will stand down as Iron Man, although adding, there will "always be an Iron Man". 
+
+The "new" Iron Man remains Stark; however, the catastrophic events that preceded this, combined with Stark's assertion, convinces the public that Iron Man and Stark are now different people. Stark leaves the wreckage of Avengers Mansion as it is, and unveils [[Stark Tower]], a state-of-the-art office building that becomes headquarters for the [[New Avengers (comics)|New Avengers]] team, of which he is a member.
+
+In the "Extremis" story arc by writer [[Warren Ellis]] (''Iron Man'' Vol. 4, #1-6), Stark is working on a way to improve the armor's response speed when he is called upon to track Mallen, a terrorist who has ingested the powerful "Extremis" [[techno-organic virus]]. This "virus" (actually a neurological information package which alters part of the brain, rather than a tangible virus) turns Mallen into an almost indestructible living weapon, and he subsequently goes on a deadly rampage. After being beaten nearly to death trying to stop him, Stark himself ingests a modified version of Extremis in an effort to save his own life, merging with and directly integrating the armor into his biological systems (see [[#Powers and abilities|below]]). In ''Mighty Avengers'' #1 Ultron has made use of the Extremis in Tony's body by using it to take over and redesign Tony as a female Ultron.
+
+The miniseries ''Iron Man: The Inevitable'' openly addresses the fact that since the new millennium began, Iron Man has not clashed with any of his classic "supervillain" enemies, and reintroduces the [[Ghost (Marvel Comics)|Ghost]], the [[Living Laser]] and [[Spymaster (comics)|Spymaster]]. Presenting the change in status quo — the focus of Iron Man stories shifting from superhero-ism to political and industrial tales — as Iron Man having elevated himself to a new place in his life where he is "beyond" apprehending supervillains, the miniseries sees a resentful Spymaster conspire to drag Iron Man back to that plebeian level.
+
+===Civil War===
+:''Main article: [[Civil War (comic book)|Civil War]]''
+[[Image:Capironfight.png|200px|left|thumb|Promotional art for ''Iron Man/Captain America: Casualties of War''#1.<br />Art by [[Jim Cheung]].]]
+''[[Illuminati (Marvel Comics)|New Avengers: Illuminati]]'' #1 (June 2006) reveals that years before, in the wake of the [[Kree-Skrull War]], Stark initiates a meeting at the palace of the [[Black Panther (comics)|Black Panther]] in [[Wakanda (Marvel)|Wakanda]] with [[Professor X]], [[Mister Fantastic]], [[Black Bolt]], [[Doctor Strange]], and [[Namor]] to form a clandestine, unnamed group (dubbed the "Illuminati" by Marvel) to devise strategy and policy regarding overarching menaces (Black Panther rejects membership and derides the other heroes for joining). Stark's original goal is to create a governing body for all superheroes in the world to answer to. However, the different beliefs and philosophies, besides the fact that many heroes choose to conceal their real identities, makes Stark's plan impractical. Despite this, the group agrees to share vital information.
+
+Learning of the government's plans to instigate a [[Registration acts (comics)#2006 Superhuman Registration Act|Superhuman Registration Act]] that would force costumed, super-powered individuals to reveal their identities to the government and sign on as licensed agents, Iron Man at first seeks to defeat the proposal, even going to such lengths as to hire the [[Titanium Man#Titanium Man III - The Hammer|Titanium Man]] to attack the hearing on the act as he testifies in order to manipulate opinion in his favor. However, at some point, Tony Stark's opinion of the Act changes, seeing it as a new means to achieve the goal that he had sought in forming the "Illuminati", and to tie the knots of friendship between ordinary humans and superheroes. He attempts to convince the other members of the clandestine group to support the new Act, stating that their input could prevent the Act from becoming too restrictive of superhuman activities, but all except Mister Fantastic reject the idea of registration. 
+
+In ''[[Civil War (comic book)|Civil War]]'', a battle in [[Stamford, Connecticut]] between the [[New Warriors]] and several supervillains kills several hundred bystanders, including 60 children, and most of the participants. This disaster turns public opinion against superhumans and fast-tracks the Act into law. Stark comes out publicly in support of the Act, but the new law splits the hero community in two. Stark becomes the leader and public face of the pro-registration side. In his first major public action as a supporter of registration, he again unmasks as Iron Man (''Civil War: Front Line'' #1), and convinces [[Spider-Man]] to ally with him and do the same. Spider-Man, after growing unease with the overzealous righteousness of Stark's cause, later defects to the Anti-Registration forces after learning about a prison in the [[Negative Zone]] that has been designed to hold Anti-Registration heroes. These heroes and Iron Man's forces eventually meet in a climactic battle that ends when Captain America, dismayed with the collateral damage and realizing his actions weren't bringing the end to the act any closer, stands down.
+
+In ''Civil War'' #7, Stark is appointed the new director of S.H.I.E.L.D.<ref>{{cite web|url=http://www.marvel.com/news/comicstories.848?utm_campaign=front+page+tracking&utm_source=main+graphic&utm_medium=small+graphic+link&utm_content=%2Fnews%2Fcomicstories.848|Previews:|title=The Initiative - Marvel.com news|accessdate=2007-05-24}}</ref> and his book has the subtitle "Director of S.H.I.E.L.D." to reflect this. He has, as of ''Mighty Avengers #1'', built for him a version of the [[Helicarrier]], designed to look more like the Iron Man Armor with the familiar red and gold design. He also revives the [[Mighty Avengers|Avengers]].
+
+Shortly after the events of ''Civil War'', Captain America is killed on the steps of the courthouse for his trial. Despite his fervent belief in the registration act, Tony Stark looks down on the body of [[Captain America]] stating that most of what he had done in the name of the law "wasn't worth it" stating later at Captain America's funeral that "it wasn't supposed to be this way".
+
+===World War Hulk===
+{{mainarticle|World War Hulk}}
+Before the Civil War, Iron Man and several other members of the secret group known as the [[Illuminati (Marvel Comics)|Illuminati]] deemed the [[Hulk (comics)|Hulk]] a threat to the Earth due to the destruction which accompanies his rampages. The Illuminati lured the Hulk into a space vessel and launched him into space in order to provide him a location where his power would not destroy innocent lives. ''World War Hulk'' follows his return, and revenge upon Iron Man and the Illuminati.
+
+Iron Man is the first hero on Earth to confront the Hulk upon his return. Using a modified Hulkbuster armor, he engages the Hulk in combat in Manhattan (which Stark had S.H.I.E.L.D. evacuate). Iron Man attempts to use specially designed nanobots to deactivate the Hulk's powers, but is unsuccessful due to the nanobots being sabotaged beforehand by [[Avengers: The Initiative|a member of the Initiative]]. Both his new Hulkbuster armor and Stark Tower are destroyed in the ensuing battle. As of ''World War Hulk'' #3, he is being held in [[Madison Square Garden]] arena. He manages to contact Dugan via Extremis and tell him of a last resort plan to prevent the Hulk from attacking the rest of the world by sending the whole of Manhattan into the Negative Zone that would kill himself, the Hulk, the [[Warbound]], and all heroes and agents within.  He trusts Dugan to know if and when to execute the plan. He is later seen fighting alongside his fellow Illuminati members in the arena, taking down a gigantic tentacle monster. After that battle, the Hulk forces Iron Man and Mr. Fantastic to battle via the obedience disks implanted into them. Mr. Fantastic defeats Iron Man, and the Hulk orders him to kill Stark, but reneges at the last second to prove his moral superiority over the Iluminati's supposedly murderous tactics.  However, the explosion that destroyed Sakaar and the reason Hulk came to Earth turned out to be the fault of the [[Red King (Marvel Comics)|Red King]] and [[Miek]], clearing the Illuminati.
+
+==Powers and abilities==
+===Armor===
+{{See also|Iron Man's armor}}
+Iron Man possesses [[powered exoskeleton|powered armor]] that gives him superhuman strength and durability, flight, and an array of weapons. The armor is invented and, with occasional short-term exceptions, worn by Tony Stark, an [[United States|American]] [[business magnate|industrialist]] billionaire and [[military of the United States|military]] contractor known not only for his lifestyle, but also for his incredible ingenuity and inventive genius. Other people who have assumed the Iron Man identity include long time partner and best friend [[War Machine|James Rhodes]], close associates [[Happy Hogan|Harold "Happy" Hogan]], Eddie March, and (briefly) [[Guardsman (comics)#Guardsman (Michael O'Brien)|Michael O'Brien]].
+
+Iron Man's appearance and abilities are continually in flux as Stark modifies and upgrades his equipment, most notably his [[powered exoskeleton|powered armor]]. The Iron Man armor was originally grey, but Stark found that this appearance frightened the public, so he spray-painted it gold (''Tales of Suspense'' #40). This bulky armor was changed in ''Tales of Suspense'' #48 into a more form-fitting design, sporting a red and gold color scheme that it has mostly retained since. One notable exception is the "Silver Centurion" armor, with a red and silver color scheme, created for use against Obadiah Stane's Iron Monger suit and retained until the end of the first Armor Wars.
+
+Iron Man's powers and abilities derive from the advanced powered armor that he wears. The armor has evolved from a bulky iron suit to a molecularly aligned matrix of crystallized iron enhanced by magnetic fields over layers of other metals like titanium, creating a shell that is pliable, yet capable of great resilience and protection. The suit grants him superhuman strength and flight capabilities, and is powered by a combination of [[solar power#Photovoltaics|solar converters]], electrical batteries and an on-board generator that uses [[betavoltaics|beta particle absorption]] as a fuel source. The suit is also able to convert nearby energy sources, such as heat or kinetic energy into electricity, or even drain electrical energy directly into the batteries for recharge. Tony also adds jet skates that are now so powerful Iron Man could skate forward towing an entire train behind him. Miniature panes can protect Iron Man's eyes when needed. In addition, the suit can be completely sealed for operations in vacuum or underwater, providing its own life support, and is shielded against radiation.
+
+The onboard systems of the armor are controlled by Tony Stark's brain patterns, read from a cybernetic interface in his helmet. Sophisticated computers with an [[artificial intelligence|artificially intelligent]] [[operating system]] of Stark's own design provide tactical information as well as constant feedback on the suit's status, using internal and external sensors. As noted above, Stark has tried to put safeguards in to make sure that the systems do not actually achieve sentience, although these were once circumvented.
+[[Image:Im218.jpg|thumb|150px|left|Debut of Hydro-Armor: ''Iron Man'' Vol. 1,#218 (May 1987). Cover art by Bob Layton.]]
+The weapons systems of the suit have evolved over the years, but Iron Man's standard offensive weapons have always been the repulsor rays that are fired from the palms of his gauntlets. Other weapons built into various incarnations of the armor include the uni-beam projector in its chest; pulse bolts that pick up [[kinetic energy]]  along the way, so that they hit harder the further they have to travel; an [[electromagnetic pulse]] generator and an energy shield. Other capabilities include generation of ultra-freon, creating and manipulating of magnetic fields, sonic blasts and a holographic generator to create decoys.
+[[Image:Extremis.jpg|200px|thumb|Stark's Extremis armor from cover to ''New Avengers'' #18.<br />Art by [[Steve McNiven]].]]
+In addition to the general-purpose model he wears, Stark has developed several specialized [[space suit|suits]] for [[spaceflight|space travel]], [[atmospheric diving suit|deep-sea diving]], [[stealth technology|stealth]] and other situations. Stark has modified suits like the "Hulkbuster" heavy armor, composed of add-ons to his so-called modular armor, designed to enhance its strength and durability to allow it to take on the Incredible [[Hulk (comics)|Hulk]]. A later model designed for use against Thor is modeled on the [[Destroyer (Thor)|Destroyer]] and uses a mystical power source. Stark also develops an electronics pack during the Armor Wars that, when attached to armors that use Stark technology, will burn out those components and render the suit useless. This pack is ineffective on later models, however. 
+
+After being critically injured during a battle with the Extremis-enhanced Mallen, Stark injects his nervous system with a modified techno-organic virus (the extremis process) that not only saves his life, but also fuses Stark's armor to his body. This allows him to store the inner layers of the Iron Man armor in the hollows of his bones as well as control it through direct brain impulses. Stark can control the layer of the armor underneath his skin and make it emerge from numerous exit points around his limbs as a gold-colored neural interface under-sheath. While in this form, Stark can control the armor cyberpathically and suit up at any time, even if the armor is 100&nbsp;miles away. Furthermore, the Extremis process has increased his body's recuperative and healing abilities. He is also able to remotely connect to external communications systems such as satellites, cellular phones, and computers throughout the world. Because the armor's operating system is now directly connected to Stark's nervous system, its response time has been significantly improved. Stark also has a "phera-sense" which he gained by using information he garnered from the analysis of Spider-Man's neurophysiology by the "Spider-Armor" Stark gave him and uses this to not only create his own 'spider-sense' but can also neutralize Spider-Man's and create "false positives" in Spider-Man's spider-sense.
+
+===Skills===
+Apart from the powers granted him by the suit, Stark is an inventive genius, constantly creating new technology and looking for ways to improve it. This extends to his ingenuity dealing with difficult foes and [[deathtrap (plot device)|deathtraps]], where he is capable of using his suit in unorthodox and effective ways. He is well-respected in the business world, able to command people's attention when he speaks on economic matters. He is known for the loyalty he commands from and returns to those who work for him, as well as impeccable business ethics. He also strives to be environmentally responsible in his businesses, and in two cases, immediately fired employees who made profitable but illegal sales to [[Doctor Doom]] and [[Advanced Idea Mechanics|A.I.M]].
+
+Stark prides himself on being a [[futurist]]. 
+
+When Stark was unable to use his armor for a period of time, he asked [[Captain America]] for combat training and has become physically formidable on his own.
+
+== Enemies ==
+{{main|List of Iron Man enemies}}
+
+==Other versions==
+{{main|Alternate versions of Iron Man}}
+
+In addition to his mainstream incarnation, Iron Man has had been depicted in other [[fictional universes]].
+
+==In other media==
+{{main|Iron Man in other media}}
+
+===Popular culture===
+
+The [[rapping|rapper]] [[Ghostface Killah]], a member of [[Wu-Tang Clan]], titled his 1996 debut solo album ''[[Ironman]]'', and has since continued to use lyrics related to the Iron Man comics and [[sampling (music)|samples]] from the animated TV shows on his records. He has also adopted the nickname Tony Starks ''(cq)'' as one of his numerous alter-egos.
+
+One episode of ''[[Seinfeld]]'' featured a debate between [[Jerry Seinfeld (character)|Jerry Seinfeld]] and [[George Costanza]] about whether or not Iron Man wore underwear, to which George responded "and I still say he's naked under there!" In ''Iron Man'' vol. 3, #1, Tony Stark mentally runs through a list of people he has to contact and thinks, "I really have to drop him [Jerry] a note about that underwear thing".
+
+[[Paul McCartney]]'s song "Magneto and Titanium Man" was inspired by the [[X-Men]]'s arch-nemesis and the original version of the Iron Man villain. Another Iron Man villain, the Crimson Dynamo, is mentioned in the lyrics to this song. {{Fact|date=October 2007}}
+The British band [[Razorlight]] mentions Tony Stark in the verse of its song, "Hang By, Hang By".
+
+In the 2005 film ''[[The 40 Year-Old Virgin]]'', Andy, played by [[Steve Carell]], has a toy collection that includes an Iron Man [[action figure]]. When he refuses to let go of his collectibles, his girlfriend Trish, played by [[Catherine Keener]], mocks him, "I can be Iron Man, I can be Thor...." Also, earlier in the film Andy can be seen reading an issue of [[Marvel Team-Up]]. This particular issue features an Iron Man from an alternate universe fighting the [[Hulk (comics)|Hulk]].
+
+''[[Forbes|Forbes.com]]'' has listed Tony Stark as #8 on its list of fifteen wealthiest fictional characters, with a net worth of US $3 billion.<ref>{{cite web|url=http://www.forbes.com/2006/11/20/tony-stark-money-tech-media_cx_mh_06fict15_iron.html|title= Forbes.com: "The Forbes Fictional 15" (Nov. 20, 2006)|accessdate=2007-05-24}}</ref>
+
+"[[Iron Man (song)|Iron Man]]" is a song by the [[rock band]] [[Black Sabbath]]. It was later [[retroactive continuity|retconned]] into the source of Iron Man's name, as it was a young Tony Stark's favorite song. The Sabbath song is used in a [[trailer (film)|trailer]] for the 2008 movie.<ref>{{cite web|url=http://www.rollingstone.com/rockdaily/index.php/2007/09/11/rock-reality-show-recap-sureshot-to-be-man-band-4-eva/|title=Rolling-Stone.com|accessdate=2007-09-13}}</ref> The song itself was covered by several artists, e.g. [[The Cardigans]] and [[Marilyn Manson]].
+
+The character of [[Nathan Stark]] on the television show ''[[Eureka (TV series)|Eureka]]'' is inspired by Tony Stark.<ref>{{cite web| url=http://entertainment1.sympatico.msn.ca/TV_Guide/Interviews/Insider/Articles/070425_ed_quinn_eureka_MH |title= Sci-fi made sexy on 'Eureka' |author=Melissa Hank |site=Sympatico/MSN Entertainment |date=[[2007-04-25]] |accessdate=2007-08-16}}</ref>
+
+In the [[Topps Comics]] miniseries ''[[Jason Voorhees|Jason]] vs. [[Leatherface]]'', an Iron Man comic book appears as one of the character [[Hitchhiker (Texas Chainsaw Massacre)|Hitchhiker's]] "funny books".
+
+Apart from comic books, Iron Man and War Machine both appear in Capcom's "Marvel vs." video games including Marvel vs. Street Fighter, Marvel vs. Capcom, and Marvel vs. Capcom 2.  Most of their move sets include original abilities used in the comic books.
+
+===Other===
+Iron Man appears regularly in ''Twisted ToyFare Theater'', a photographic [[comic strip]] made using toys and [[Adobe Photoshop]] that appears monthly in the magazine [[ToyFare]]. He is depicted as constantly intoxicated and usually has a beer in hand. His drinking usually gets him in trouble. In one issue, he bet on a wrestling match between two versions of Spider-Man and lost Stark Industries to [[Boss Hogg]]. In another, he resolves to quit drinking after being given an ultimatum to sober up or be kicked out of the [[Avengers (comics)|Avengers]], until the [[Hulk (comics)|Incredible Hulk]] brings over a bunch of ''[[Party of Five]]'' episodes. After Iron Man drinks until he passes out with his head in the refrigerator, the Hulk takes his suit to impersonate him at the Avengers meeting, but ends up at [[Hall of Justice (comics)|The Hall of Justice]] instead. Due to licensing issues with DC Comics, this was later changed to the [[X-Mansion]] when the comic was reprinted in a collected volume.
+
+==Bibliography==
+===List of Iron Man titles===
+*''Tales of Suspense'' #39-99 (March 1963 - March 1968)
+*''Iron Man and the Sub-Mariner'' (April 1968)
+*''Iron Man'' Vol. 1, #1-332 (May 1968 - Sept. 1996)
+*''Iron Man Annual'' #1-15 (1970-1994)
+*''Iron Man Annual '98-2001'' 
+*''Giant-Size Iron Man'' (1975)
+*''Iron Man: Crash'' (1988)
+*''Iron Manual'' (1993)
+*''[[Iron Man 2020]]'' (Aug. 1994)
+*''Age of Innocence: The Rebirth of Iron Man'' (Feb. 1996)
+*''Iron Man'' Vol. 2, #1-13 (Nov. 1996 - Nov. 1997)
+*''Iron Man'' Vol. 3, #1-89 (Feb. 1998 - Oct. 2004)
+*''Iron Man: The Iron Age'' #1-2 (Aug.- Sept. 1998)
+*''Iron Man: Bad Blood'' #1-4 (Sept.- Dec. 2000)
+*''Iron Man'' Vol. 4, #1 - &nbsp;(Nov. 2004 - Present)
+*''Ultimate Iron Man: #1-5'' (Mar. 2005 - Dec. 2005)
+*''Iron Man: The Inevitable'' #1-6 (Feb. 2006 - July 2006)
+*''Iron Man: Hypervelocity'' #1-6 (March 2007 - Aug. 2007)
+*''Marvel Adventures: Iron Man'' #1-&nbsp;(May 2007- Present)
+*''Iron Man: Enter the Mandarin'' #1-6 (Sep. 2007 - March 2008)
+
+==See also==
+* [[Futures studies|Futurism]]
+* [[Iron Man (film)]]
+* [[Transhumanism]]
+
+==Footnotes==
+{{reflist|2}}
+
+==References==
+* [http://www.marvel.com/universe/Iron_Man_(Anthony_Stark) Marvel.com: Anthony Stark]
+* [http://www.maelmill-insi.de/UHBMCC/ The Unofficial Handbook of Marvel Comics Creators]
+* [http://www.comics.org/ The Grand Comic-Book Database]
+* [http://marvel.toonzone.net/ironman/ Marvel Animation Age: ''Iron Man: The Animated Series'' (1994-1995)]
+* [http://www.toymania.com/archives/ironman/series1.html Toymania: Iron Man Figure Archive]
+* [http://www.ironmanarmory.com/ The Iron Man Armory] (fan site)
+* [http://www.advancediron.org/ Advanced Iron] (fanzine)
+
+==External links==
+* {{imdb title|id=0371746|title=Iron Man}}
+* [http://www.apple.com/trailers/paramount/ironman/ Apple.com ''Iron Man'' movie trailer]
+* [http://www.comic-covers.com/Marvel/MarvelF-J/IronMan/index.html Coomic-Covers.com: Iron Man]
+* [http://www.iron-manblog.com Iron Man Blog]
+
+{{Iron Man}}
+
+[[Category:American comics characters]]
+[[Category:Fictional businesspeople]]
+[[Category:Fictional characters from New York]]
+[[Category:Fictional characters with powered armor]]
+[[Category:Fictional cyborgs]]
+[[Category:Fictional engineers]]
+[[Category:Fictional inventors]]
+[[Category:Fictional scientists]]
+[[Category:Fictional socialites]]
+[[Category:Fictional technopaths]]
+[[Category:Iron Man|Iron Man]]
+[[Category:Marvel Comics characters who can fly]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics titles]]
+
+[[ar:رعد العملاق]]
+[[de:Iron Man]]
+[[es:Hombre de Hierro]]
+[[fr:Iron Man]]
+[[it:Iron Man]]
+[[lt:Geležinis žmogus]]
+[[hu:Vasember]]
+[[nl:Iron Man (stripfiguur)]]
+[[ja:アイアンマン]]
+[[pt:Homem de Ferro]]
+[[ru:Железный человек]]
+[[simple:Iron Man]]
+[[fi:Rautamies]]
+[[sv:Iron Man (seriefigur)]]
+[[zh:鐵甲人]]

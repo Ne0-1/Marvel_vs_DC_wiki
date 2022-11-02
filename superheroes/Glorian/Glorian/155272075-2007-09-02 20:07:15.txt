@@ -1,0 +1,33 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = 
+| caption = 
+| comic_color = background:#ff8080
+| character_name = Glorian
+| publisher = [[Marvel Comics]]
+| debut = ''[[Fantastic Four]] vol. 1 #135'' (Jun 1973)
+| creators = [[Gerry Conway]] and [[John Buscema]]
+| alliance_color = background:#ffc0c0
+| alter_ego = Thomas Gideon
+| alliances = 
+| aliases = The Dreamer
+| powers = Reality manipulation
+}}
+
+'''Glorian''' ('''Thomas Gideon''') is a [[fictional character]] in the [[Marvel Comics]] [[Marvel Universe|universe]].  He first appeared in ''Fantastic Four'' vol. 1, #135 (June 1973).
+
+==Fictional character biography==
+Thomas Gideon, son of billionaire [[Gregory Gideon]] and his wife Claire, was born in [[Rochester, New York]]. He was aboard a private [[jet aircraft]] with his parents when it was caught in the heat-pulse and blast wave of a [[Russia]]n [[nuclear weapon]] test. The plane crashed, killing all but Thomas and his father. Picked up by a Russian trawler, the two Gideons were eventually hospitalized. There they were told that they were dying of [[radiation poisoning]]. The elder Gideon spent his remaining months designing a device to tap the mutated [[gene]]s of the hero team [[Fantastic Four]] which he believed would somehow reverse his cellular decay and that of his son at the expense of the Fantastic Four's lives.
+
+His selfish scheme was thwarted by the hero team, and the elder Gideon was killed when his pawn, the [[robot]] [[Dragon Man]], broke free of his control. In the midst of the wreckage appeared the [[Extraterrestrial life in popular culture|alien]] [[Shaper of Worlds]], attracted to the site by the dreams of one of Gideon's henchmen. Though the henchman's dreams proved inadequate, the Shaper took Thomas Gideon, cured him of his fatal disease, and helped him attain his true potential.<ref>Hulk #191</ref> As Glorian, the young man left Earth with the Shaper to undertake learning the Shaper's skills.
+
+Still an [[Earth]]ling at heart, Glorian often returned to Earth and involved himself in the lives of its superheroes. At one point, Glorian tried to help the monster known as [[Hulk (comics)|the Hulk]] by giving him his heart's desire. Instead, however, Hulk became involved in a plot against Glorian by the [[demon]] [[Satannish]], who was after Glorian's soul. In the end, the Hulk intervened on behalf of Glorian, and so saved Glorian from Satannish's grasp. Later, Glorian was attracted to the fevered dreams of the young [[Mutant (Marvel comics)|mutants]] known as [[Generation X (comics)|Generation X]]. Glorian helped the mutants from being lost at sea.
+
+==Notes==
+{{reflist}}
+
+==External links==
+*[http://www.marveldirectory.com/individuals/g/glorian.htm Glorian at MarvelDirectory.com]
+
+{{Marvel-Comics-stub}}
+
+[[Category:Marvel Comics mutates]]

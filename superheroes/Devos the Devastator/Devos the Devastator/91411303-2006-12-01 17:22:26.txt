@@ -1,0 +1,31 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Devosff.jpg|250px]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Devos the Devastator
+|real_name=
+|publisher=[[Marvel Comics]]
+|debut=''Fantastic Four'' (1st series) #359 (December, [[1991]])
+|creators=[[Tom DeFalco]]<br>Paul Ryan<br>Danny Bulanadi
+|alliance_color=background:#c0c0ff
+|status= active
+|alliances=
+|previous_alliances=[[Fearsome Foursome]]
+|aliases= 
+|relatives=
+|powers= Power armor containing numerous offensive weapons and sensors.<br>Assorted alien firearms.<br>Command of various space vessels.
+|}}
+
+'''Devos the Devastator''' is a [[fictional character]], a [[supervillain]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]].  He is a foe of the [[Fantastic Four]].  His first appearance was in ''Fantastic Four'' (1st series) #359 (December, 1991); he was created by Tom DeFalco, Paul Ryan and Danny Bulanadi.
+
+Devos is dedicated to bringing peace to the universe, but holds the rather warped view that this can only be done by killing everyone capable of waging war. While Devos is willing to make alliances with other villains in order to further his goals, he inevitably betrays his allies (as they too are capable of waging war). His most notable act is probably his destruction of the [[Skrull]] Throneworld in ''Fantastic Four'' #383 (December 1993), throwing the [[Skrull Empire]] into [[civil war]].
+
+==External link==
+*[http://www.marvunapp.com/Appendix/devosff.htm Devos the Devastator at marvunapp.com]
+
+[[Category:1991 introductions]]
+[[Category:Extraterrestrial supervillains]]
+[[Category:Fantastic Four villains]]
+[[Category:Marvel Comics aliens]]
+
+{{Marvel-villain-stub}}

@@ -1,0 +1,118 @@
+'''Clock King''' is a title used by two [[fictional character]]s, [[supervillain]]s published by [[DC Comics]]. The first Clock King debuted in ''[[World's Finest Comics]]'' #111 (August 1960), and was created by France Herron and [[Lee Elias]].
+
+==Publication history==
+The first Clock King was originally an enemy of [[Green Arrow]], but has become more identified by his appearances in ''[[Justice League International]]'' and ''[[Suicide Squad]]'', and subsequent adaptations in ''[[Batman: The Animated Series]]''. He has no super-powers or abilities other than a rigid sense of order and timing. Clock King is a master planner and sometimes uses [[clock]]-themed gadgetry. He wears a clock mask, a cape, and a blue suit with clock drawings on it.[Although a character called The Clock appeared in Star Spangled Comics #70 (July 1947) and fought Robin, The Clock wears a blue business suit, an orange fedora, glasses and a red tie with a picture of a clock.]
+
+The second Clock King is a member of [[Terror Titans]].
+
+==Fictional character biography==
+===William Tockman===
+{{Infobox superhero <!--Wikipedia:WikiProject Comics-->
+| character_name = Clock King
+| noimage =yes
+| caption = 
+| publisher = [[DC Comics]]
+| debut = ''[[World's Finest Comics]]'' #111<br> (August 1960)
+| creators =France Herron (writer)<br /> [[Lee Elias]] (artist)
+| alter_ego = William Tockman
+| full_name =
+| species   = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = [[Injustice League]]<br/>[[Justice League]]<br/>Time Foes<br/>[[Suicide Squad]]
+| partners  = <!-- optional -->
+| supports  = <!-- optional -->
+| aliases   =  King Clock
+| powers = uses clock-related gadgetry<br>accomplished swordsman 
+}}
+Born '''William Tockman''', Clock King spends his early years taking care of his [[invalid]] sister. One day he finds out from a doctor's visit that he himself only has six months to live. Despairing for his sister's future, he watches the timing of a local bank's vault in order to rob it, hoping the money would provide for his sister after he was gone. His caper would have gone successfully, had he not tripped a silent alarm and been caught by the Green Arrow.<ref name="dc-ency">{{Citation  | last = Wallace | first = Dan | author-link = | contribution = Clock King | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 84  | publisher = [[Dorling Kindersley]]  | place = New York  | year = 2008 | isbn = 0-7566-4119-5 | oclc = 213309017}}</ref>
+
+While he is incarcerated, his sister dies alone. In further hideous irony, Tockman discovers that he really isn't [[terminal illness|terminally ill]]; his doctor had accidentally switched his papers with those of another patient. Infuriated, he escapes, later futilely attempting revenge on the Green Arrow.
+
+The Clock King goes on to join [[Major Disaster]]'s [[Injustice League]], which becomes [[Justice League Antarctica]]. This JLA includes G'Nort, who ends up saving the lives of the entire team. Like his compatriots, Clock King becomes an ardent supporter of [[Maxwell Lord]], partly due to the fact he is the only one willing to hire them. His group even guards Lord when he is incapacitated by a bullet wound.
+
+Later, Clock King leads his own, separate team of villains in a mission. They consist of Radiant, Sharpe, [[Acidia]] and Crackle. They are not as well-organized as even the Injustice League. For example, Crackle still lives with his mother and they have to take the bus to their fight. It takes place at a [[Metropolis (comics)|Metropolis]] toy store. They end up fighting one of the many incarnations of the [[Teen Titans]], the heroes [[Booster Gold]] and [[Firehawk (comics)|Firehawk]] and DEO agent [[Cameron Chase]]. An unclear super-effect from Chase ultimately neutralizes Clock's team and they are all imprisoned. Clock himself escapes on another bus.
+
+Later, Clock's friends are transformed into the new [[Suicide Squad]]. They are sent to a remote research facility where a [[gene]]tic monstrosity is holding its creator hostage. Its main defenses are spawned "children" that could explode. During the mission, most of the team are seemingly killed, including Clock King, who is shot repeatedly in a retreat attempt. He is seen still alive after his brutal wounds but, in the end, [[Major Disaster]] believes he is the only one who survives. It turns out [[Cluemaster]], shot in a similar manner as Clock King, survives, albeit with drastic scarring. (''Suicide Squad'' (second series) #1).<ref name="dc-ency"/>
+
+Clock King is not seen for a period of time after ''[[Infinite Crisis]]''. In an issue of ''[[52 (comic book)|52]]'', one character decides to kill all the time-travelers, and mentions someone "ending up like [[Time Commander (comics)|Time Commander]] and Clock Queen".
+
+===Temple Fugate===
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:ClockKing2.jpg|250px]]
+|caption=Cover of 'Teen Titans' (vol. 3) #60. Art by Eddy Barrows.
+|comic_color=background:#8080ff
+|publisher=[[DC Comics]] 
+|debut=[[Teen Titans]] #57
+|creators=
+|character_name=Clock King 
+|alliance_color=background:#c0c0ff
+|real_name=Temple Fugate
+|alliances=[[Terror Titans]]
+|aliases=
+|powers=absolute time sense
+|}}
+
+A new Clock King appears in ''[[Teen Titans]]'' #56 as the head of a team of legacy villains named the [[Terror Titans]]. In an interview with ''Teen Titans'' writer Sean McKeever, he described this Clock King as "...Very smart. He sees things differently than others."<ref>[http://forum.newsarama.com/showthread.php?t=144154 Sean Mckeever On The Terror Titans - Newsarama<!-- Bot generated title -->]</ref> His costume is similar to the suit worn by the Clock King seen in ''[[Batman: The Animated Series]]'', although with clock faces on the tie and lapel. After his group defeats and captures [[Kid Devil]], Clock King conditions the hero to be sold as a fighter to a group called "The Dark Side Club". Clock King then brings the Titans to his base of operations, a dimension outside of time. After besting Robin, Clock King is stymied by [[Rose Wilson|Ravager]], who possesses similar precognitive abilities. He offers Ravager a chance to join him, but she refuses. Clock King then removes the Titans from his base and decides to move on to new plans. Ravager ultimately reconsiders his earlier offer. In the ''Terror Titans'' miniseries, Clock King takes over The Dark Side Club, and uses it to brainwash young metahumans, turning them into his very own "Martyr Militia". He sends the Militia to attack the city Los Angeles, for no reason other than to amuse him.<ref>''Terror Titans'' #5</ref> Clock King's plans are eventually undone by [[Miss Martian]], who was posing as one of the captured Metahumans, and Ravager, who attacks and defeats him, forcing him to flee his base of operations.<ref>''Terror Titans'' #6</ref>
+
+==Powers and abilities==
+* The original Clock King has no [[metahuman]] powers or abilities, although he is athletic and extraordinarily smart. He extensively uses clock and time related gimmicks to devastating effect.  
+
+* The new Clock King has the always-active ability to see what is about to happen four seconds or so into the future, allowing him to anticipate an opponent's every move.<ref>''Teen Titans'' #59</ref> He is also a technological genius, creating devices such as teleporters, communications jamming equipment, and even an anti-gravity platform, all of them modelled after timepieces.
+
+==In other media==
+===Television===
+====''Batman''====
+[[Image:B60s-Clocking.jpg|180px|right|thumb|[[Walter Slezak]] as The Clock King in the 1960s ''Batman'' show]]
+The [[Batman (TV series)|1960s Batman TV series]] saw The Clock King portrayed by the late [[Walter Slezak]] in the season two consecutive episodes, '"The Clock King's Crazy Crimes" and "The Clock King Gets Crowned", aired on [[American Broadcasting Company|ABC]] October 12 and 13, 1966. The two-parter was written by ''Batman'' creator [[Bill Finger]] and [[Charles Sinclair]] and directed by [[James Neilson]]. In the episode, disguised as a pop artist, Clock King tries to rob a gallery of a time-related [[surrealism|surrealist]] painting. Batman and [[Robin (comics)|Robin]] are stuffed into the bottom of an oversized hourglass, stripped of their utility belts, and left to be drowned in sand as The Clock King plots to filch Bruce Wayne's collection of antique pocket watches (only for the duo to later escape the trap). Later in the episode, he starts his masterplan, to steal the atomic powered [[Cesium clock]]. He wore a black cape and a top-hat with a clock inside it. He had many weapons such as "Super Slick Watch Oil", "Knock Out Gas" and "Super Sonic Sound".
+
+====''Batman: The Animated Series''====
+[[Image:TempleFugate.jpg|thumb|left|200px|Temple Fugate/The Clock King in ''Batman: The Animated Series'']]
+In ''[[Batman: The Animated Series]]'' the Clock King is recreated as '''Temple Fugate''' (the name being a play on the [[Latin]] phrase ''[[tempus fugit]]'', meaning "time flies") who first appears in the episode "''The Clock King''" and later returns in the episode "''Time Out of Joint''" voiced by [[Alan Rachins]].
+
+In "''The Clock King''", Temple Fugate is a head of a [[time and motion study]] consulting company who is being sued for all its funds. Fugate is an odd, lonely man obsessed with time and punctuality. His every waking moment is pre-planned on a "to do" list broken down into precise blocks. When urged by [[Hamilton Hill (comics)|Hamilton Hill]] to take a coffee break later than usual, Fugate initially refuses, as he does not want to ruin his schedule. At Hill's insistence, Fugate takes the coffee break, leading to no end of bad luck. He ends up late for his court appointment, and the judge throws the case out. Fugate goes [[bankruptcy|bankrupt]] as a result. Fugate swears revenge on Hamilton Hill for making him late, and later finds out that Hill's firm was the plaintiff for the case Fugate was late for (though Hill apparently had nothing to do with that case). Seven years later, Fugate becomes the Clock King; using his keen knowledge of the element of time, he turns to a life of crime and revenge. He now wears eye-glasses with the hands pointed at exactly 3 o'clock: perhaps a permanent reminder of that coffee break that ruined his career. His primary weapon is his [[photographic memory]], knowledge of times and schedules, and precise sense of timing; his main physical weapon is a sword forged in the shape of a clock's hand that doubles as a walking stick, and his skill in swordsmanship is such that even Batman himself could not defeat him in single combat. His first attempt to kill Mayor Hill ends in a [[climax (narrative)|climactic]] battle with Batman inside the wheels of a clock tower, which Batman tricks Fugate into jamming with his clock-hand-like sword. The machinery collapses, and Fugate disappears in the fray while laughing maniacally. He is presumed dead, but Batman has his doubts, convinced that Fugate is still alive.
+
+In "''Time Out of Joint''", Batman's doubt is proven true, and Fugate indeed does return unharmed, but the manner of his escape from the clock tower is left unexplained. He is now armed with a device which he can use to slow down or speed up time at his discretion (stolen from a scientist named Dr. Wakati, for whom he works as a butler by the name "Harold"). This time, Fugate plants a bomb at Mayor Hill's dedication to the new [[court house]], planning to blow it up and kill dozens of people. Batman and Robin, having learned Fugate's secret from Dr. Wakati, use a similar device to slow down the bomb's explosion while throwing it into the river. Fugate, his plans foiled, tries to escape, but Robin catches him and destroys the device, rendering him unable to flee. He is then arrested and imprisoned in Stonegate Penitentiary. 
+
+In both appearances, the Clock King commonly dresses in a [[three-piece suit]] and [[bowler hat]], with a [[pocket watch]] and glasses resembling clock faces. Though lacking superpowers of his own, he proves to be a formidable opponent for Batman after having studied and learned his every move from news footage.
+
+====''Batman Adventures''====
+The Clock King also makes an appearance in a 2004 ''[[Batman Adventures]]'' comic. In this issue, he finally gets his revenge on Hill by rigging the mayoral election so that it seems that Oswald C. Cobblepot ([[The Penguin]]) has won.
+
+====''Justice League Unlimited''====
+[[Alan Rachins]] reprised his role as The Clock King (Fugate) in the "[[Justice League Unlimited]]" episode "Task Force X", having been recruited by [[Project Cadmus]] to coordinate the mission and its timing down to the second. The timing for the plan was so important that the members are ordered to go on without a team mate if they are even one second late. Their plan succeeds, though Clock King isn't seen in the series again.
+
+====''Batman: The Brave and the Bold''====
+The original Clock King (William Tockman) appears in the ''[[Batman: The Brave and the Bold]]'' episode "Rise of the Blue Beetle" voiced by [[Dee Bradley Baker]][http://www.comicscontinuum.com/stories/0810/22/index.htm] with a German accent. The Clock King is defeated by Batman and [[Green Arrow]] after they escape his trap. He later appears in "Day of the Dark Knight!", trying to escape from [[Iron Heights]], but was thwarted by Batman and Green Arrow. A heroic version of Clock King appears in "Deep Cover for Batman!", but is taken down by the [[Crime Syndicate|Injustice Syndicate]]. Clock King joins forces with [[Owlman (comics)|Owlman]] and an army of villains in "Game Over for Owlman!". He also briefly appears in "Mayhem of The Music Meister!", having teamed up with [[Black Manta]] and [[Gorilla Grodd]] to hijack a communications satellite before falling victim to the title villain's hypnotic powers. Like his original version in the comics, he possesses many clock-themed weapons and gadgets, and wears a modified version of his original costume. To keep with the clock theme, he has two henchmen named Tick and Tock.
+
+===Video Games===
+* Clock King is set to appear in the upcoming video game ''[[DC Universe Online]]''.
+
+===Toys===
+* In February 2009, [[Mattel]] released an action figure from the Batman: The Animated Series/Justice League Unlimited incarnation of Clock King in the [[DC Universe: Justice League Unlimited Fan Collection|Justice League Unlimited toyline]] in a Matty Collector exclusive four pack along with Bane, Harley Quinn, and Scarecrow. The figure comes with no accessories.
+
+== References ==
+{{reflist}}
+
+===Other sources===
+* [http://www.dcuguide.com/who.php?name=clockking ''The Unofficial Guide to the DC Universe'''s biography for the Clock King]
+* [http://www.dcindexes.com/database/story-details.php?storyid=7225 The ''DC Database'''s article on the Clock King's debut]
+* [http://seanbaby.com/stupcom/clockking.htm Stupid Villain Showcase] Satirical analysis of Clock King by [[Seanbaby]]
+* [http://www.batmantas.com/cmp/new.htm Clock King on the Batman: The Animated Series official page]
+
+{{Green Arrow}}
+{{Batman}}
+{{Teen Titans}}
+
+[[Category:DC Comics supervillains]]
+[[Category:Fictional politicians]]
+[[Category:Fictional scientists]]
+[[Category:Fictional sword fighters]]
+[[Category:DC Comics metahumans]]
+[[Category:1960 comics characters debuts]]
+[[Category:2008 comics characters debuts]]
+
+[[es:Clock King]]
+[[fr:Le Roi du Temps]]
+[[nl:Clock King]]
+[[pt:Rei Relógio]]
+[[tl:Clock King]]

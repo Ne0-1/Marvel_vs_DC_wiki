@@ -1,0 +1,43 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image = [[Image:Preview (NXM 12).jpg]]
+| caption = Preview, by Michael Ryan
+| comic_color = background:#ff8087
+| character_name = Preview
+| real_name = Jessica "Jessie" Vale
+| species=[[Mutant (Marvel comics)|Human Mutant]]
+| publisher = [[Marvel Comics]]
+| debut = ''[[New X-Men]]'' <!-- only denote volume number after first --> #12
+| creators = Nunzio DeFilippis, Christina Weir, Michael Ryan
+| alliance_color = background:#ffc0c0
+| alliances =[[X-Mansion|Xavier Institute]]
+| aliases = 
+| powers = Powerless. Formerly:<br>[[Precognition]]
+}}
+
+'''Preview''' ('''Jessica Vale''') is a fictional character, a [[Mutant (Marvel comics)|mutant]] in the [[Marvel Universe]]. '''Jessica Vale''' had the ability of short-term [[precognition]], usually minutes in advance.  She was the sister of [[Network (comics)#Network (Sarah Vale)|Sarah Vale]]. Preview first appeared in ''[[New X-Men]]: Academy X'' #12. 
+
+==Fictional character biography==
+===Paragons Squad===
+
+Preview was a member of the Paragons team at the [[X-Mansion|Academy]], at which she was voted the "Biggest Drama Queen."  Preview proved to be difficult to the Paragons because she chose to not participate when she knew the outcome of certain actions, such as the Paragons' failure in a school-wide competition and has shown displeasure at the lack of surprise in everyday life due to the nature of her powers.
+
+===Depowered===
+
+Preview is one of scores of mutants who lost their powers after the events of the ''[[House of M]]''. 
+
+It is suggested in [[New X-Men]] #32 that Preview is alive following [[William Stryker]]'s attack on a bus of depowered students. In this issue, a memorial is held at the school for the departed.  While Jessie's sister Sarah is mentioned as one of the deceased, Jessie is not.  An unnamed girl with a similar appearance to Vale is seen at the memorial. In addition, writers Chris Yost and Craig Kyle confirmed that she was not one of the students on the bus at the time of the explosion.
+
+==Powers and abilities==
+Preview had the mutant power of [[precognition]].  She could see the immediate future in "visions" typically up to a few minutes before it happened.<ref>''New X-Men: Academy X'' Yearbook Special</ref>  This caused her to take a [[fatalistic]] approach to things, such as standing by the sidelines during a group training exercise because a vision showed her that her squad would be unable to break the school record.  In trying to coach her out of her fatalism, her squad advisor [[Wolfsbane|Rahne Sinclaire]] stated that Jessica's visions of the future may not always be set in stone.<ref>''New X-Men: Academy X'' #12</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.uncannyxmen.net/db/article/showquestion.asp?faq=4&fldAuto=229&page=7'''UncannyX-Men.net'''-Yearbook Entry on the Paragons]
+
+[[Category:Fictional characters with precognition]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]]
+
+{{Marvel-Comics-stub}}

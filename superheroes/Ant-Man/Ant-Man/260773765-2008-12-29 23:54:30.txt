@@ -1,0 +1,61 @@
+{{expand|date=July 2008}}
+{{Refimprove|date=July 2008}}
+{{Infobox comics set index <!--Wikipedia:WikiProject Comics-->
+|code_name  = Ant-Man
+|image      = <!-- filename format only -->
+|imagesize  = <!-- default 250 -->
+|caption    = 
+|publisher  = [[Marvel Comics]]
+|debut      = ''[[Tales to Astonish]]'' #35 <!-- The Ant-Man ID appeared in Pym's 2nd appearance -->
+|debutmo    = September
+|debutyr    = 1962
+|debutyr1   = <!-- Lang appeared prior to taking up the Ant-Man ID -->
+|debutyr2   = 2006
+|creators   = [[Stan Lee]]<br />[[Jack Kirby]]
+|characters = [[Henry Pym]]<br />[[Ant-Man (Scott Lang)|Scott Lang]]<br />[[Ant-Man (Eric O'Grady)|Eric O'Grady]]
+|seealso    = 
+|cat        = super
+|subcat     = Marvel Comics
+|hero       = y
+|sortkey    = Ant-Man
+}}
+'''''Ant-Man''''' is a  Marvel Comics [[superhero]] [[comic book]] character that was originally created by [[Stan Lee]] and [[Jack Kirby]] in 1962. 
+
+==Fictional character biography==
+Over the years a variety of characters have assumed the title of Ant-Man, most of whom have been connected with the [[Avengers (comics)|Avengers]].
+
+===Henry Pym===
+{{main|Henry Pym}}
+'''Dr. Henry "Hank" Pym''' invented the various methods for someone to reduce their size and assume the identity of Ant-Man armed with a helmet that can control ants.
+
+Over the years he has adopted other aliases, largely based on his size altering discovery: Pym Particles. These include [[Giant-Man]], [[Goliath (comics)|Goliath]] and [[Yellowjacket (comics)|Yellowjacket]].
+
+===Scott Lang===
+{{main|Ant-Man (Scott Lang)}}
+'''Scott Lang''' was a thief who was reformed with the aid of Pym and [[Iron Man]]. After a career as the second Ant-Man, he became an affiliate of the [[Fantastic Four]] and most recently became a full-time member of the Avengers. For a period of time he dated [[Jessica Jones]]. He was killed in ''Avengers'' #500, but his daughter, Cassie, has taken up his heroic mantle as [[Cassandra Lang|Stature]] in the pages of ''[[Young Avengers]]''.
+
+===Eric O'Grady===
+{{main|Ant-Man (Eric O'Grady)}}
+'''Eric O'Grady''' is the new "hero" to take up the title of Ant-Man. Eric O'Grady is a low-level agent of [[S.H.I.E.L.D.]] who stumbles upon Dr.Henry Pym (though in truth, a skrull impostor) latest incarnation of the [[Ant-Man]] suit in S.H.I.E.L.D.'s headquarters. A man of very few morals and willingness to lie, cheat, steal, and manipulate in order to get ahead in life, Eric immediately steals the armor for his own selfish plans, which include using his status as a "super-hero" to stalk and seduce women and humiliate and torment others. He had his own short-lived title before being shuttled off, first to the pages of "Avengers: The Initiative" and most recently, "The Thunderbolts".
+
+==Film adaptation==
+[[Edgar Wright]] plans to direct an [[action-adventure]] film with some humorous elements, insisting that ''Ant-Man'' will not be a comedy like ''[[Fantastic Four (2005 film)|Fantastic Four]]'' or a spoof.<ref>{{cite news | url=http://www.cinescape.com/0/editorial.asp?aff_id=0&this_cat=Movies&action=page&type_id=&cat_id=270338&obj_id=28744 | title=Comic-Con 2006: ''Ant-Man'' Panel | publisher=[[IGN]] | date=2006-07-24 | accessdate=2006-07-30 }}</ref>  The script has been written by Wright and [[Joe Cornish (comedian)| Joe Cornish]], who plan to include [[Henry Pym]] and [[Ant-Man (Scott Lang)|Scott Lang]] as major characters, with Pym as Ant-Man in the 60's in ''[[Tales to Astonish]]'' style, and a [[flashforward]] to Lang as Ant-Man's successor in the 80's/90's.<ref>{{cite news | url=http://superherohype.com/news/featuresnews.php?id=4566 | title= Exclusive: Edgar Wright Talks ''Ant-Man'' | publisher=SuperHeroHype.com | date=2006-07-26 | accessdate=2006-07-30 }}</ref>
+
+On February 9, Wright said that the project was in "a holding pattern" while the script was revised, with casting yet to begin.  The director reported that he would have news for the film in a few months.<ref>{{cite news | author=Steve Head | url=http://movies.ign.com/articles/764/764950p1.html | title=Exclusive: Hot Fuzz Helmer Commences ''Them'' | publisher=[[IGN]] | date=2007-02-15 | accessdate=2007-04-06 }}</ref> He has been researching [[nanotechnology]] for the film.<ref>{{cite news | author= | url=http://www.moviehole.net/interviews/20070314_exclusive_interview_edgar_wrig.html | title=Exclusive Interview : Edgar Wright | publisher=Moviehole.net | date=2007-03-19 | accessdate=2007-04-06 }}</ref> As of March 2008, Wright told ''[[Empire (magazine)|Empire]]'' magazine that a second draft of the script is being written. Known for being a comedic writer, the director noted that the film would not be overtly comedic, but that it would be "more of a full-on action adventure sci-fi film but with a comedic element."<ref>{{cite news | author=Glen Ferris | url=http://www.empireonline.com/news/story.asp?NID=22141 | title=Exclusive: Edgar Wright Talks Ant Man | publisher=[[Empire (magazine)|Empire]] | date=2008-03-10 | accessdate=2008-03-10 }}</ref>
+
+In June 2008, a film about [[Avengers_(comics)#Film)|The Avengers]] was announced for a release in 2011, with Ant-Man to be part of the superhero team.<ref>{{cite news | author=William Keck | url=http://www.usatoday.com/life/movies/news/2008-06-22-marvel-magic_N.htm | title=Here come Marvel's 'Avengers,' and Stan Lee, Joe Simon weigh in | publisher=[[USA Today]] | date=2008-06-22 | accessdate=2008-07-02 }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{imdb title|id=0478970|title=Ant-Man}}
+
+[[Category:Fictional characters who can change their size]]
+
+[[el:Άνθρωπος Μυρμήγκι]]
+[[es:Ant-Man]]
+[[fr:Homme-Fourmi]]
+[[it:Ant-Man]]
+[[nl:Ant-Man (film)]]
+[[pt:Homem-Formiga]]

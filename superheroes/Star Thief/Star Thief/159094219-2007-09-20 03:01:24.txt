@@ -1,0 +1,23 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name = Star Thief
+| publisher = Marvel Comics
+| debut = New Warriors #5
+| creators = Fabian Nicieza<br/> Mark Bagley
+| alter_ego = Ditmal Pirval
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = <!-- optional -->
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = Flight<br/> Energy projection
+}}
+'''Star Thief''' ('''Ditmal Pirval''') is a fictional [[Marvel Comics]] character.  
+
+==Fictional character biography==
+Star Thief was struck by a bolt of energy from space. This bolt kills his family and gives him extensive energy based powers.  This also motivates him to attempt to end all human exploration of space.  He was dissuaded from this goal after a violent confrontation with the [[New Warriors]].  
+
+
+{{Marvel-Comics-stub}}

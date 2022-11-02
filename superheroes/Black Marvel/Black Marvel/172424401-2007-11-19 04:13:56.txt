@@ -1,0 +1,49 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:MysticComics5.jpg|220px]]
+|caption=The Black Marvel's debut<br>Cover art by [[Alex Schomburg]]<!--both pencils & inks, per GCD-->
+|comic_color=background:#ff8080
+|character_name=Black Marvel
+|real_name=Dan Lyons
+|publisher=[[Marvel Comics]]
+|debut=''Mystic Comics'' vol. 1, #5 (March 1941)
+|creators=
+|alliance_color=background:#cccccc
+|status=
+|alliances=
+|previous_alliances=[[Slingers (comics)|Slingers]]
+|aliases=
+|relatives=
+|powers=Peak physical abilities,<br>Skilled fighter
+|}}
+'''The Black Marvel''' ('''Daniel Lyons''') is a [[fictional character|fictional]] [[comic book]] [[superhero]]  in the [[Marvel Comics]] [[Marvel universe|universe]]. Created by writer [[Stan Lee]]<ref name="lee">[http://www.lambiek.net/artists/l/lee_s.htm Lambiek Comiclopedia: Stan Lee]</ref> and artist [[Al Gabriele]],<ref>[http://comics.org/details.lasso?id=1315#1 Grand Comics Database: ''Mystic Comics'' #5]</ref> he [[first appeared]]  in ''[[Mystic (comics)|Mystic Comics]]'' vol. 1, #5 (March 1941), published by Marvel's 1940s forerunner [[Timely Comics]] during the period fans and historians call the [[Golden Age of comic books]], 
+
+==Publication history==
+The Black Marvel &mdash; one of the first creations of future Marvel editor-in-chief and publisher [[Stan Lee]] &mdash; appeared in the multi-character omnibus title ''Mystic Comics'' #5-9 (March 1941 - May 1942). His first-appearance [[origin story]] was reprinted in ''[[Marvel Super-Heroes (comics)|Marvel Super-Heroes]]'' #15 (July 1968).
+
+The character also starred in a story in ''[[All Winners Comics]]'' <!--no hyphen per cover logo--> vol. 1, #1 (Summer 1941), the cover of which was reprinted in ''Giant-Size Invaders'' vol. 2, #2 (Dec. 2005).
+
+==Fictional character biography==
+He was chosen by a "Black Feet" ([[sic]]) Indian chief (not specifically tied to the real-life [[Blackfoot]] tribe) to be a champion of justice, after besting 100 challengers. He was given a bow to notch whenever he performed a good deed, and when attaining 100 notches would be allowed to take the mantle of the Black Marvel.
+
+In later years, Lyons made a [[Faustian bargain]] with the demonic being [[Mephisto]] that allowed Lyons to obtain four superpowered costumes abandoned by the superhero [[Spider-Man]], and to use them to launch the superhero team the [[Slingers (comics)|Slingers]].<ref>''[[Slingers (comics)|Slingers]]'' # 0<!--"0" is correct-->-12 (Nov. 1998 - Nov. 1999)</ref> The heroes eventually helped release Lyons from his demonic contract, allowing him to die in peace.
+
+==In other media==
+[[Image:Sixfightagain.jpg|thumb|right|220px|Black Marvel along with the other five warriors.]]
+The Black Marvel appeared on ''[[Spider-Man: The Animated Series]]'' in the five-part episode ''[[Six Forgotten Warriors]]''. In this version, the Black Marvel (voiced by [[Paul Winfield]]) is called Omar Mosely.<ref>[http://marvel.toonzone.net/spideytas/bios/heroes/sfw/ Marvel Toonzone: ''Spider-Man: The Animated Series'']</ref> He and four other superheroes' powers are the result of an attempt at recreating the process that empowered Captain America. He is also [[African-American]], explaining the meaning of his name. Dan Lyons had intended to participate, until his father forbade him, and Omar took his place instead.
+
+== Footnotes ==
+{{reflist}}
+
+==References==
+*[http://www.internationalhero.co.uk/b/blackmarvel.htm Black Marvel at International Hero]
+*[http://www.comics.org The Grand Comics Database] 
+*[http://www.maelmill-insi.de/UHBMCC/ The Unofficial Handbook of Marvel Comics Creators]
+
+
+{{Marvel-Comics-stub}}
+
+[[Category:Marvel Comics superheroes]]
+[[Category:Golden Age superheroes]]
+[[Category:Timely Comics characters]]
+
+[[nl:Black Marvel]]

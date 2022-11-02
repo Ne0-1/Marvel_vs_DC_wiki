@@ -1,0 +1,64 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = [[Image:Action525.jpg|225px]]
+| caption = The cover of ''[[Action Comics]]'' #525 (November 1981), Neutron's first appearance. Art by [[Ross Andru]]
+| character_name = Neutron
+| publisher = [[DC Comics]]
+| debut = ''[[Action Comics]]'' #525 (November 1981)
+| creators = [[Marv Wolfman]] (writer)<br />[[Joe Staton]] (artist)
+| real_name = Nathaniel Tryon
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = TNT Trio<br/>[[Fearsome Five]]<br/>[[Intergang]]<br/>[[Secret Society of Super Villains]]<br/>Nuclear Legion
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=  <!-- optional -->
+| powers = - super strength<br> - durability <br> - nuclear blasts <br> - flight<br> - radiation absorption
+}}
+'''Neutron''' is a [[fictional]] [[comic book]] [[supervillain]] in the [[DC Comics]] [[DC Universe|universe]], appearing usually as an adversary of [[Superman]]. He first appeared in ''[[Action Comics]]'' #525 (November 1981), and was created by [[Marv Wolfman]] and [[Joe Staton]].
+
+==Character history==
+'''Nathaniel Tryon''' was a petty thug who teamed up with two others as the TNT Trio.  While on a caper at a [[nuclear power plant]] at which he worked as a security guard, Tryon was caught in the meltdown of a [[nuclear reactor]], turning his body into sentient nuclear energy that could only be contained in a special containment suit. After learning how to control his energy, and learning that the accident was allegedly caused and covered up by the [[U.S. Government]], Tryon killed those responsible for the accident and took up a criminal career as Neutron. 
+
+Eventually, he battled [[Superman]] and was defeated and imprisoned at the research facility, [[S.T.A.R. Labs]]. He and another criminal imprisoned there, [[Jinx (DC Comics)|Jinx]], were eventually freed when S.T.A.R. Labs was attacked by the [[Fearsome Five]], who took the two criminals into their ranks, but Neutron subsequently left the group.<ref name="dc-fear">{{Citation | last = Greenberger | first = Robert | author-link = Robert Greenberger | contribution = Fearsome Five | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 120  | publisher = [[Dorling Kindersley]] | place = New York  | year = 2008 | ISBN = 0-7566-4119-5 | oclc = 213309017}}</ref>
+
+Neutron eventually joined [[Warp (comics)|Warp]] and [[Plasmus]] on a mission from [[Conduit (comics)|Conduit]] to assassinate [[Ma and Pa Kent|Jonathan]] and [[Martha Kent]], the adoptive parents of Superman. Superman intervened and the clash ended with Plasmus and Neutron colliding in a blast that obliterated them both. However, both later turned up alive, and Neutron was next seen in Slabside Island prison (aka "The Slab"), from which he was freed during the [[Joker (comics)|Joker]]’s "Last Laugh" riots. Recently, Neutron and several other villains were manipulated by [[Manchester Black]] into threatening Clark Kent’s loved ones, but as had happened before, the ensuing confrontation with Superman ended with Neutron disappearing in an atomic blast.
+
+In ''[[Infinite Crisis]]'', Neutron became a member of the [[Secret Society of Super Villains]].
+
+[[Image:SupermanNeutron.jpg|thumb|left|170px|Neutron, from ''Superman'' #654 (September 2006). Art by [[Carlos Pacheco]]]]
+==="One Year Later"===
+{{main|One Year Later}}
+After the 2006 [[fictional crossover|crossover]] [[miniseries]] ''[[Infinite Crisis]]'', Neutron is working as a villain for hire. He and another radiation-powered villain, [[Radion (comics)|Radion]], were hired by [[Intergang]] to kill [[Clark Kent]]. After Kent was hit by a commuter train, Neutron and Radion left, thinking him dead, though the accident actually caused Kent to regain his powers as [[Superman]]. 
+
+Neutron is also a member of the '''Nuclear Legion''' alongside [[Professor Radium]], Geiger, Mister Nitro and [[Reactron (comics)|Reactron]]. The Nuclear Legion was hired by the [[Secret Society of Super Villains]] to invade [[Blüdhaven]] and  assist the [[Nuclear Family (comics)|Nuclear Family]] in recovering the source of a radiation leak. While there, the group fought the new [[Atomic Knight]]s.  Now sporting a new containment suit, Neutron was also seen fighting Superman in the pages of ''Superman'' #654, during a storyline in which Superman discovered that Intergang was planting mysterious energy spheres, about the size of softballs, in various locations in Metropolis.  Although Superman has not yet determined the nature or purpose of the spheres, he discovered that they were connected to his adversary [[Bruno "Ugly" Mannheim|Bruno Mannheim]], as well to other mysterious allies of Manheim who have yet to be revealed.
+
+Neutron is one of the villains featured in [[Salvation Run]]. He is used by [[Lex Luthor]] as a power source for a teleporter. He is seemingly killed when the device self-destructs.
+
+==Powers and abilities==
+*Neutron's body is composed of nuclear energy that grants him super strength, durability, nuclear blasts, flight at immense speed, transformation into pure energy, and radiation absorption.
+
+==Neutron in other media==
+In ''[[Justice League Unlimited]]'', Neutron appears as a member of the [[Secret Society of Super Villains|Secret Society]]. He later joins Grodd in his attempt to take back his position as leader within the Society.
+
+==Bibliography==
+*''Action Comics'' #525, 526, 543 
+*''Tales of the Teen Titans'' #56, 58
+*''Adventures of Superman'' #523
+*''[[Green Lantern]]'' Vol. 3 #126
+*''[[Joker (comics)|Joker]]: Last Laugh'' #2
+*''Superman'' vol. 1 #654
+*''Superman'' Vol. 2 #186, 187
+*''Superman: The Man of Steel'' #131
+
+==External links==
+*[http://www.titanstower.com/source/whoswho/fear5.html#neu/ Titans Tower: Neutron]
+*[http://www.dcuguide.com/chronology.php?name=neutron DCU Guide: Neutron]
+
+==References==
+{{reflist}}
+
+[[Category:DC Comics supervillains]]
+
+[[Category:DC Comics metahumans]]
+[[Category:1981 comics characters debuts]]
+
+[[tl:Neutron (DC Comics)]]

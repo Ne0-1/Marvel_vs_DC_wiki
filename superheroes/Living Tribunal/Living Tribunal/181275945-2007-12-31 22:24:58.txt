@@ -1,0 +1,62 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:TLT2.png]]
+|caption=Art by [[Jim Starlin]].
+|comic_color=background:#ff8080
+|character_name=Living Tribunal
+|real_name=
+|publisher=[[Marvel Comics]]
+|debut= (Cameo) ''[[Strange Tales]]'' vol. 1, #157 (June, [[1967]])
+|creators=[[Stan Lee]] <br> [[Marie Severin]] <br> [[Herb Trimpe]]
+|alliance_color=background:#cccccc
+|alliances=
+|aliases= 
+|powers= Virtual omnipotence, <br>Omniscient,<br>Omnipresent
+|}}   
+
+The '''Living Tribunal''' is a [[fictional character]], a [[cosmic entity]] that appears in the {{Marvel Universe}}. The character first appeared in ''[[Strange Tales]]'' vol. 1, #157 [[June]] [[1967]] (cameo - first full appearance next issue). The Tribunal was created by [[Stan Lee]], [[Marie Severin]] and [[Herb Trimpe]].
+
+==Fictional character biography==
+The Living Tribunal is a virtually [[omnipotence|omnipotent]] entity empowered by the [[One-Above-All]] to oversee the realities that constitute the [[Multiverse (Marvel Comics)|Multiverse]], from the mainstream universe ([[Earth-616|616]]) to all the alternate realities (e.g., ''[[What If (comics)|What If]]'') and pocket universes (e.g., [[Earth X]]).
+
+The Living Tribunal rarely appears and only then in exceptional circumstances, such as when passing judgment on Earth, <ref>''Strange Tales'' vol.1, #157 - 163</ref> monitoring the actions of other cosmic beings <ref>''Rom'' vol. 1, #41</ref> or acting as a referee on matters affecting an entire universe.<ref name="infinitywatch1">''Warlock and the Infinity Watch'' vol. 1, #1</ref> 
+
+The Living Tribunal's power is apparently limitless, as the entity is capable of nullifying the combined power of the [[Infinity Gems]]. <ref>''Warlock and the Infinity Watch'' vol. 1, #1</ref> The entity has only been surpassed once - when [[Thanos]] of Titan becomes one with the entire universe through the use of an artifact called the [[Heart of the Universe]] and even the Living Tribunal is apparently powerless to stop him. <ref>''Marvel Universe:The End'' #1 - 6 (2004)</ref>  
+
+It has been recently revealed that the Living Tribunal has representatives that he calls ''The Magistrati'' who dispense judgments by request in various alien worlds. <ref>''She-Hulk'' vol. 1, #7</ref>
+
+== Appearance ==
+The Living Tribunal has three faces, although only one is fully visible, with the other two being partially and completely covered. The three faces represent Equity, Vengeance, and Necessity, respectively, and correspond to the different prime cosmic beings in all universes.<ref name="silversurfer31">''Silver Surfer'' vol. 3, #31 (Dec. 1989)</ref>
+
+In the [[Earth-616]] universe these beings are:
+
+* Equity - [[Galactus]]
+* Necessity - [[Eternity (Marvel Comics)|Eternity]]
+* Vengeance - [[Death (Marvel Comics)|Death]]
+
+In the mystical realm of the [[Vishanti]], these beings are:
+
+* Equity - [[In-Betweener]]
+* Necessity - [[Master Order]]
+* Vengeance - [[Lord Chaos]]
+
+The fourth side of the Living Tribunal's head is a void. The Tribunal once stated that it ''could'' have represented the cosmic entity the [[Stranger (comics)|Stranger]], but the latter refused.<ref name="silversurfer31">''Silver Surfer'' vol. 3, #31 (Dec. 1989)</ref>
+
+The Tribunal revealed the previously completely covered face of Necessity to [[She-Hulk]] as a reflection of her own face, stating that the face is a "Cosmic Mirror which reminds us to always judge others as we would have ourselves judged." <ref>''She-Hulk'' vol. 2, #12</ref>
+{{-}}
+
+== Powers and abilities ==
+The Living Tribunal possess infinite power and absolute control over the universe, second only to the One-Above-All. Keeping with his impartiality, he does not wield this power to interfere with the multiverse actively, but it can be assumed that he presides over the totality in some passive fashion. As he is an embodiment of all existence, from matter, energy, thought, and abstract concepts, he not essentially these things; as such, Thanos was able to over-power him only by becoming the totality of existence with the Heart of the Universe. 
+
+== References ==
+<references/>
+
+==External links==
+*[http://www.knightmare6.com/faq/cosmic_entities_marvel Knightmare6.com; Marvel Cosmic Entities]
+*[http://www.drstrange.nl/drstrange/sanctum/book/livingtribunal.htm Doctor Strange; Living Tribunal]
+
+
+[[Category:Marvel Comics cosmic entities]]
+
+[[es:Tribunal Viviente]]
+[[fr:Tribunal Vivant]]
+[[pt:Tribunal Vivo]]

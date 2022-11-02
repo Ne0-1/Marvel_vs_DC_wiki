@@ -1,0 +1,73 @@
+{{About||the Moonspell song|Nocturna (song)|the animated feature|Nocturna (film)}}
+{{confused|Nocturne (comics)}}
+{{Refimprove|date=March 2010}}
+{{Infobox comics character  <!--Wikipedia:WikiProject Comics-->
+| character_name = Nocturna
+| image          = NocturnaDCU0.jpg
+| converted      = y
+| caption        = Nocturna from ''Detective Comics'' #530<br>Artist [[Gene Colan]]
+| publisher      = [[DC Comics]]
+| debut          = ''[[Detective Comics]]'' #529<br> (August 1983)
+| creators       = [[Doug Moench]] (writer)<br>[[Gene Colan]] (artist)
+| alter_ego      = 
+| full_name      = Natasha Natalia Knight
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = <!-- optional -->
+| alliances      = [[Injustice League]]
+| partners       = <!-- optional -->
+| aliases        = Mistress of the Night
+| supports       = <!--optional-->
+| powers         = expert tactician and burglar
+| cat            = super
+| subcat         = DC Comics
+| hero           = 
+| villain        = y
+| sortkey        = Nocturna
+| addcharcat#    = 
+}}
+'''Nocturna''' is a fictional character in the [[DC Comics]] [[fictional universe|universe]]. She first appeared in ''[[Detective Comics]]'' #529 (August 1983), and was created by [[Doug Moench]] and [[Gene Colan]].
+
+==Fictional character biography==
+===Pre-Crisis===
+'''Natalia Knight''' had a hard childhood. She grew up on the streets as a beggar. She was eventually found and taken in by Charles Knight, who adopted her and provided her with a life of luxury.
+
+She has a passion for [[astronomy]] and the night and eventually found a job at [[Gotham City]] Observatory. While working there one night, she became victim to a [[radioactive]] laser, which drained her skin of all [[pigment]]. It also rendered her sensitive to light.
+
+After Charles Knight was murdered, she discovered that her lifestyle was funded by criminal activity. It was then that she met Charles' son, Anton Knight, who fell in love with her. They both decided to keep the inheritance and took it upon themselves to keep them in their accustomed lifestyle through burglary, since Natalia needed expensive medical equipment to treat her pigmentation.
+
+Anton, having spent much time in [[Asia]], proved to be a highly capable [[martial arts|martial artist]]. He and Natalia entered a life of crime together, he as the [[Nightslayer|Night-Thief]], and she as "Nocturna", Mistress of the Night. However their burglary soon brought them into conflict with [[Batman]].
+
+After several clashes with Batman, Anton was captured and sent to prison. Nocturna remained free and continued her life of crime along with a new ally, Nightshade. Nocturna would conceive the plans of robbery and theft, Nightshade and his people would carry out the crimes. Once the scheme had run its course, Nocturna called it quits. During this time, she became an intimate friend of both Bruce Wayne and the Batman, something that made both lives more complicated. She also became a [[surrogate mother]] to [[Jason Todd]], the second [[Robin (comics)|Robin]], and even adopted him.
+
+Anton Knight finally escaped and, after being rejected by his beloved Nocturna, changed his style and became the murderous ''Night-Slayer''. He killed Nightshade, even trading identities with a delirious Batman. After being betrayed one time too many by Nocturna, Anton vowed to kill her. However, it never came to that, as Night-Slayer was captured by [[Catwoman]]. Nocturna, having been stabbed, was last seen being put into a balloon by Jason Todd which he then set off into the air.
+
+===One Year Later===
+In the ''[[One Year Later]]'' storyline, Nocturna returned in the ''[[Black Canary]]/[[Green Arrow]] Wedding Special'' #1 as a member of the [[Injustice League]]. She was then seen in ''[[Salvation Run]]'' as a member of [[Vandal Savage]]'s camp, her appearance in this title borrowing from Bruce Timm's concept artwork for an episode featuring the character that was ultimately never produced. Recently, she appeared in ''[[Trinity (comic book)|Trinity]]'' as an opponent to [[Hawkman]], appearing in an updated version of her classic appearance and using a hot-air balloons as transportation. She then had cameos in the ''Gotham Gazette: Batman Dead?'' and ''Gotham Gazette: Batman Alive?'' one-shots.
+
+==In other media==
+===Television===
+[[File:NocturnaDCAU.jpg|thumb|right|100px|Concept art for Nocturna's proposed appearance on Batman: The Animated Series, by [[Bruce Timm]]]]
+* Nocturna was scheduled to appear in an episode of ''[[Batman: The Animated Series]]'' as a [[vampire]], but the episode was canceled after [[Fox Network|Fox]] censors objected to the storyline, which would have involved Batman being turned into a vampire and craving human blood. Producer [[Alan Burnett]] later recounted the events by saying "We also wanted to do a Nocturna story – Bruce had drawn a hot model of her - but she’s a vampire, which would’ve involved bloodletting, which was a huge no-no for kids TV."<ref>{{cite web|url=http://www.worldsfinestonline.com/WF/batman/btas/backstage/interviews/burnett.php |title=The World's Finest - Batman: The Animated Series |publisher=Worldsfinestonline.com |date= |accessdate=2010-12-30}}</ref>
+
+===Miscellaneous===
+* Nocturna appears in issue 16 of the ''[[Batman: The Brave and the Bold (comics)|Batman: The Brave and the Bold]]'' comics. She hypnotizes Teen Titans [[Wally West|Kid Flash]], [[Donna Troy|Wonder Girl]], and [[Roy Harper (comics)|Speedy]] into fighting Batman, until he uses high-frequency sound to snap their trances.
+
+==See also==
+* [[List of Batman Family enemies]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{comicbookdb|type=character|id=5934|title=Nocturna}}
+*[http://www.dcuguide.com/who.php?name=nocturna Nocturna] at the DCU Guide
+
+[[Category:Comics characters introduced in 1983]]
+[[Category:Female supervillains]]
+[[Category:Fictional adoptees]]
+[[Category:Fictional beggars]]
+[[Category:Fictional characters with albinism]]
+[[Category:Fictional professional thieves]]
+
+[[tl:Nocturna]]

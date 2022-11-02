@@ -1,0 +1,97 @@
+{{short description|Name of several supervillians}}
+{{Refimprove|date=October 2016}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name=Doctor Alchemy
+|image=Doctor Alchemy (Albert Desmond).jpg
+|imagesize=<!-- default 250 -->
+|caption={{Descript-inner-art|The Flash: Secret Files & Origins|3|1|May, 2010|art=[[Francis Manapul]]|pub=DC}}
+|alt=
+|publisher=DC Comics
+|debut='''(Albert Desmond)'''<br />''Showcase'' #13 (April 1958) (as Mr. Element)<br />''Showcase'' #14 (June 1958) (as Dr. Alchemy)<br />'''(Curtis Engstrom)'''<br />''The Flash'' (vol. 2) #71 (Feb. 1992)'''<br />(Alexander Petrov)'''<br />''The Flash'' (vol. 2) #202 (Nov. 2003)
+|first_series=
+|first_episode=
+|first_comic=
+|creators='''(Albert Desmond)'''<br>[[John Broome (writer)|John Broome]]<br>[[Carmine Infantino]]
+|full_name=Albert Desmond<br/>Dr. Curtis Engstrom<br/>Alexander Petrov
+|species=<!-- optional -->
+|homeworld=<!-- optional -->
+|alliances=<!-- optional -->
+|partners=<!-- optional -->
+|supports=<!-- optional -->
+|aliases='''(Albert Desmond''' and '''Alexander Petrov)'''<br>Mr. Element<br>'''(Curtis Engstrom)'''<br>Alchemist
+|powers=Transmute any substance into any other substance<br/>Transform the molecular structure of the human body
+|cat=
+|subcat=
+|hero=
+|villain=
+|sortkey=Doctor Alchemy|addcharcat#=}}
+
+'''Doctor Alchemy''' is a name used by different [[supervillain]]s appearing in [[American comic book]]s published by [[DC Comics]]. The most notable was [[Albert Desmond]].
+
+==Publication history==
+The character of Albert Desmond, created by [[John Broome (writer)|John Broome]] and [[Carmine Infantino]], first appeared in ''Showcase'' #13 (April 1958) as Mister Element. His second and more frequently used identity of Doctor Alchemy first appeared in ''Showcase'' #14 (June 1958).<ref name="dc-ency2">{{cite book|title=The DC Comics Encyclopedia|date=2008|publisher=[[Dorling Kindersley|Dorling Kindersley Publishing]]|isbn=0-7566-4119-5|location=New York|last1=Beatty|first1=Scott}}</ref>{{rp|92}} The Alchemist made his first appearance in ''The Flash'' (vol. 2) #71 (Feb. 1992) and was created by writer [[Mark Waid]] and artist [[Greg LaRocque]]. The character of Alexander Petrov made his first appearance in ''The Flash'' (vol. 2) #202 (Nov. 2003) and was created by [[Geoff Johns]] and Alberto Dose.
+
+==Fictional character biography==
+
+===Albert Desmond===
+'''Albert Desmond ''' is a lowly chemist who suffers from [[dissociative identity disorder]]. Desmond has two distinct personalities: one major driving personality and another criminally inclined one. Under his darker personality, he applies his knowledge of chemistry to create the Mister Element identity. He creates elemental weapons such as bulletproof silicon to shield his cars, and discovers a new element, Elemento, a magnetic light with which he sent the [[Flash (Barry Allen)|Flash]] into space.<ref name="dc-ency2" />{{rp|92}}
+
+After being sent to jail as a result of his first encounter with the Flash, he learns of the [[Philosopher's stone|Philosopher's Stone]] from his cell mate. He escapes jail, finds the Philosopher's Stone, and uses its power to transmute elements to restart his criminal career as Doctor Alchemy. Eventually his good personality resurfaces, causing him to quit crime and hide the Philosopher's Stone. Shortly after, a new Doctor Alchemy appears and is revealed to be his astral twin '''"Alvin" Desmond''' with whom he shares a psychic link. It was later revealed that Alvin was a construct of the Stone created by Albert's criminal personality. When Albert confronts and defeats "Alvin", he resumes the Doctor Alchemy role.<ref name="Who 19852">''Who's Who in the DC Universe'' #6 (Aug. 1985)</ref> While incarcerated, both of his costumed identities were used by others: Curtis Engstrom using the Philosopher's Stone as the Alchemist and Alexander Petrov using the Mister Element identity.<ref name="dc-ency2" />{{rp|92}}
+
+===Curtis Engstrom===
+'''Dr. Curtis Engstrom''' is an advisor on the project when [[S.T.A.R. Labs]] acquired the Philosopher Stone with intentions of using one of its fragments in their microscopic medical computer.<ref>''The Flash'' (vol. 2) #71 (Feb. 1992)</ref> He stole the computer with the help of a small time crook Moe "Mouthpiece" Miglian, but he was later arrested. After escaping from prison, Engstrom donned his own Dr. Alchemy costume and set out to retrieve the microchip that had been taken from him by Miglian where he became the "'''Alchemist'''". After being defeated, Engstrom and Miglian were sent to jail.
+
+===Alexander Petrov===
+'''Alexander Petrov''' is a [[criminologist]] working for the [[Keystone City]] Police Department. But in order to advance his career, he uses one of Albert Desmond's weapons used as Mister Element to freeze the lab supervisor solid. Petrov is promoted to replace the dead supervisor and discovers he likes the thrill of killing. He continues to eliminate members of the department he sees as "threats" to his position, using the weapon and ice-based effects. He uses the effects and his position as head of the crime lab to shift suspicion to [[Captain Cold]]. His plan comes undone when profiler Ashley Zolomon enters his office as he is putting on his mask. The [[Wally West|Flash]] is able to stop him from killing Zolomon, but Captain Cold interrupts them before the Flash can take him into custody. Captain Cold kills Petrov for breaking one of the rules of the [[Rogues (comics)|Rogues]]' code of "ethics" - framing another for your own crimes.<ref>{{cite comic
+| writer = Geoff Johns
+| penciller = [[Alberto Dose]]
+| copencillers = [[Howard Porter (artist)|Howard Porter]]<!-- parts of issues 205 and 206 -->
+| story = Ignition (parts 2 through 6)
+| title = The Flash
+| volume = 2
+| issue = 202-206
+| date = November 2002 – March 2003
+}}</ref>
+
+==Powers and abilities==
+Doctor Alchemy possesses the Philosopher's Stone, which once belonged to [[Merlin (DC Comics)|Merlin]]. By pressing the stone in various points, he has the ability to transmute any substance into any other substance (e.g., steel into rubber, or oxygen into carbon monoxide) and also possesses the power to transform the molecular structure of the human body, having once turned the Flash into a being of water vapor.<ref name="dc-ency2" /><ref name="Who 19852" /> Albert Desmond can also control the Philosopher's Stone from a distance via telekinesis.
+
+==Other versions==
+===Flashpoint===
+In the ''[[Flashpoint (comics)|Flashpoint]]'' reality, Mr. Element's gun, among others is used by [[Oliver Queen]] who runs Green Arrow Industries, to combat [[Vixen (comics)|Vixen]]'s daughter. <ref>''Flashpoint: Green Arrow Industries'' #1</ref>
+
+==In other media==
+===Television===
+*Doctor Alchemy and Mister Element have non-speaking cameos in ''[[Justice League Unlimited]]''. In the episode "Flash and Substance", both villains can be seen in the bar where [[Wally West]]'s enemies unwind.
+*[[Tom Felton]] portrays '''Julian Albert Desmond''' in [[The Flash (season 3)|season three]] of ''[[The Flash (2014 TV series)|The Flash]]'', while [[Tobin Bell]] provides Doctor Alchemy's masked voice.<ref>{{cite web|url=http://www.hollywoodreporter.com/live-feed/comic-con-flashpoint-first-trailer-913974|title=Comic-Con: Flashpoint Debuts in First Trailer for 'The Flash' Season 3|date=July 23, 2016|website=[[The Hollywood Reporter]]|last1=Bucksbaum|first1=Sydney|accessdate=2016-11-02}}</ref> The character is a forensic scientist and [[Barry Allen (Arrowverse)|Barry Allen]]'s rival in the CCPD while his Doctor Alchemy alias wears an outfit similar to the classic [[Plague doctor costume|plague doctor's costume]] with a face-concealing, beaked mask. An acolyte of [[Savitar (comics)|Savitar]], Alchemy can manifest from mirrors and possesses the Philosopher's Stone which has the ability to restore the powers of [[metahuman]]s who existed in the alternate "[[Flashpoint (comics)|Flashpoint]]" timeline. Alchemy displays knowledge of the Flashpoint timeline even after a variation of the original one is in place, with Julian's presence being one of the changes made to the timeline. It is eventually revealed that Julian was tricked by Savitar into finding and unsealing the Philosopher's Stone, allowing Savitar to possess him to play the Alchemy role. After Alchemy is apprehended by the Flash, Julian makes amends with Barry then befriends and joins Team Flash, specifically [[Killer Frost|Caitlin Snow]], both as a reluctant medium to communicate with Savitar and as a metahuman specialist. After Savitar's demise, Julian moved back to Britain prior to [[The Flash (season 4)|season four]].
+===Film===
+Doctor Alchemy's costume can be seen in ''[[Justice League: The Flashpoint Paradox]]'' in a display at [[Flash Museum]] during the fight between [[Flash (Barry Allen)|Barry Allen]] and the [[Rogues (comics)|Rogues]].
+
+==See also==
+* [[Philosopher's stone]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [[dcdatabase:wiki/Albert Desmond (New Earth)|Doctor Alchemy/Mister Element I]] at DC Database
+* [[dcdatabase:wiki/Alexander Petrov (New Earth)|Mister Element II]] at DC Database
+* [[dcdatabase:wiki/Curtis Engstrom (New Earth)|Alchemist]] at DC Database
+* [http://comicvine.gamespot.com/doctor-alchemy/4005-19089/ Doctor Alchemy] at Comic Vine
+
+{{Flash}}
+[[Category:Fictional criminologists]]
+[[Category:Characters created by Mark Waid]]
+[[Category:Comics characters introduced in 1958]]
+[[Category:Comics characters introduced in 1992]]
+[[Category:Comics characters introduced in 2003]]
+[[Category:DC Comics supervillains]]
+[[Category:DC Comics characters]]
+[[Category:Characters created by Carmine Infantino]]
+[[Category:Fictional alchemists]]
+[[Category:Fictional characters with multiple personalities]]
+[[Category:Characters created by John Broome]]
+[[Category:Characters created by Geoff Johns]]
+[[Category:Fictional police officers]]
+[[Category:Fictional murderers]]
+[[Category:Fictional British people]]

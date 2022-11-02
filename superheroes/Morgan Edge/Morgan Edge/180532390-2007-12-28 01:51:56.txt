@@ -1,0 +1,48 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image =[[Image:Morganedgedcu0.jpg|200px]]
+|caption =Evil clone of Morgan Edge, artist [[Jack Kirby]]
+|character_name =Morgan Edge
+|publisher =[[DC Comics]]
+|debut =''[[Superman's Pal, Jimmy Olsen]]'' #133, (October 1970)
+|creators =[[Jack Kirby]] (writer & artist)
+|real_name = <!-- optional -->
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances = [[Intergang]]<br>[[Superman Revenge Squad]]
+|aliases = <!-- optional: actual identities the character uses, not nicknames -->
+|supports= <!-- optional -->
+|}}
+
+'''Morgan Edge''' is a [[fictional character]], a [[DC Comics]] [[supervillain]], leader of the mob known as [[Intergang]] and one of [[Superman]]'s enemies. He was created by [[Jack Kirby]], and first appeared in ''[[Superman's Pal, Jimmy Olsen]]'' #133 (October 1970).
+
+==Fictional character biography==
+===Pre-Crisis===
+In his original incarnation, Edge was the president of the Galaxy Broadcasting System, (owners of television station WGBS), the media corporation which eventually bought the [[Daily Planet]]. Edge was in many ways a [[stereotype]] of a ruthless [[capitalist]], intervening in the Planet's homey atmosphere and challenging the authority of the somewhat older [[Perry White]], but he was a decent man who had moments of good-heartedness and maintained reasonably friendly relationships with most of his employees, including [[Clark Kent]]. Following the takeover of the Planet, Edge promoted Kent to news anchorman on WGBS, a move which added several TV co-workers to the Superman supporting cast, including fretful producer Josh Coyle, sports broadcaster Steve Lombard, weather forecaster Oscar Asherman, and co-anchor [[Lana Lang]] (who had been one of Clark's childhood friends in [[Smallville (DC Comics)|Smallville]]).
+
+As one of the wealthiest men in [[Metropolis]], Edge was a major political figure in the city and frequently encountered [[Superman]], the subject of many of his network's news stories, whom he, like most others, failed to realize was also Clark Kent. Although rarely integral to a plotline, Edge was a supporting character in many Superman stories.
+
+For a while it appeared that Edge was connected to the [[Apokolips]]-sponsored crime organisation [[Intergang]], but this was revealed to be clone created by the Evil Factory.
+
+===Post-Crisis===
+When DC [[continuity (fiction)|continuity]] was rebooted after the [[Crisis on Infinite Earths]], Edge remained president of WGBS, but his ties to the Planet and friendship with Superman were [[retcon]]ned away, and he was genuinely connected to Intergang. He was eventually exposed and imprisoned, but subsequently returned as sponsor of the [[Superman Revenge Squad]].
+
+==In other media==
+*Morgan Edge has appeared as a Metropolis crime lord, and old friend of [[Lionel Luthor]], in ''[[Smallville (TV series)|Smallville]]'', initially played by [[Rutger Hauer]], and later by [[Patrick Bergin]].  In a deleted scene, he mentions his affiliation with [[Intergang]].
+*Morgan Edge has appeared in an episode of ''[[Justice League (TV series)|Justice League]]'' when the [[Secret Society of Super Villains|Secret Society]] broke into his mansion to free [[Clayface]] from his prison. [[Killer Frost]] entraps him in ice, presumably frozen to death.
+*Although Edge himself does not appear, the storyline of a media tycoon buying the ''Daily Planet'' was adapted as a subplot of the 1987 film ''[[Superman IV: The Quest for Peace]]''.
+
+==External links==
+*[http://www.supermanhomepage.com/comics/who/who-intro.php?topic=edge-morgan Superman Homepage: Morgan Edge]
+*[http://www.dcuguide.com/chronology.php?name=morganedgeprec DCU Guide: Morgan Edge Pre-Crisis chronology]
+*[http://www.dcuguide.com/chronology.php?name=morganedgeclone DCU Guide: Morgan Edge Clone Pre-Crisis chronology]
+*[http://www.dcuguide.com/chronology.php?name=morganedge DCU Guide: Morgan Edge Post-Crisis chronology]
+{{-}}
+
+{{DEFAULTSORT:Edge, Morgan}}
+[[Category:DC Comics supervillains]]
+[[Category:Fictional businesspeople]]
+[[Category:Fictional Americans]]
+
+[[de:Nebenfiguren im Superman-Universum#Morgan Edge]]
+[[es:Morgan Edge]]
+[[tl:Morgan Edge]]

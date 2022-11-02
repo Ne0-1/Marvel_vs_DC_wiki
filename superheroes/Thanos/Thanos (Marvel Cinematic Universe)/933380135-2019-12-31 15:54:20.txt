@@ -1,0 +1,185 @@
+{{Draft article|Thanos (Marvel Cinematic Universe)|subject=media}}
+{{Use mdy dates|date=August 2019}}
+{{short description| character in the Marvel Cinematic Universe}}
+{{Infobox character
+| color              = #AF181F
+| name               = Thanos
+| franchise          = [[Marvel Cinematic Universe]]
+| image              = 
+| image_upright      = 
+| caption            = Thanos as portrayed by [[Josh Brolin]] in ''[[Avengers: Infinity War]]''
+| first_date         = 2012
+| creator            = [[Jim Starlin]]
+| adapted_by         = 
+| portrayer          = {{Plainlist|
+* [[Josh Brolin]]
+* [[Damion Poitier]]<br />(post-credit scene; ''[[The Avengers (2012 film)|The Avengers]]'')
+}}
+| full_name          = 
+| alias              = 
+|occupation          = 
+| family             = 
+| spouse             = 
+| children           = {{Plainlist|
+* [[Corvus Glaive]] (adopted son)
+* [[Black Dwarf|Cull Obsidian]] (adopted son)
+* [[Ebony Maw]] (adopted son)
+* [[Gamora]] (adopted daughter)
+* [[Nebula (comics)|Nebula]] (adopted daughter)
+* [[Proxima Midnight]] (adopted daughter)
+}}
+| affiliation        = {{Plainlist|
+* [[Black Order (comics)|The Children of Thanos]]
+* [[Chitauri]]
+* [[Loki (comics)|Loki]]
+* [[Ronan the Accuser]]
+}}
+| nationality        = Titan
+| alt                = 
+| first              = ''[[The Avengers (2012 film)|The Avengers]]'' (2012)
+| last               = ''[[Avengers: Endgame]]'' (2019) 
+| based_on           = [[Thanos]]
+| voice              = 
+| origin             = 
+| home               = 
+}}
+
+'''Thanos''' is a [[character (arts)|character]] portrayed by [[Josh Brolin]] in the [[Marvel Cinematic Universe]] (MCU) [[film franchise]], based on the [[Marvel Comics]] character of the [[Thanos|same name]]. In the films, Thanos seeks to collect all six [[Infinity Stones]] in an effort to "balance" the universe by stabilizing its overpopulation. [[The Avengers]] and the [[Guardians of the Galaxy]] join forces to combat him. 
+
+The overall main [[antagonist]] of the "Infinity Saga" of the MCU, Thanos appeared in five films, from his introduction in a post-credit scene in ''[[The Avengers (2012 film)|The Avengers]]'', up to ''[[Avengers: Endgame]]''. The character received praise from critics and fans alike, and in 2018 was described as "hands down" the best villain of the MCU.<ref name="VillainRank" />
+
+==Creation and development==
+[[Jim Starlin]] originally conceived Thanos during a college [[psychology]] course, and he introduced the character in a 1973 edition of ''[[The Invincible Iron Man]]''. Starlin originally designed the character as skinny and lanky, but editor [[Roy Thomas]] suggested he "beef him up."<ref>[https://web.archive.org/web/20080122032717/http://www.adelaidecomicsandbooks.com/starlin.htm "Jim Starlin"]. Adelaide Comics and Books. Archived via the [[Wayback Machine]]. Retrieved March 25, 2014.</ref> Thanos is a mutant member of the race of superhumans known as the Titanian Eternals. The character possesses abilities common to the Eternals, and is able to demonstrate enormous superhuman strength, speed, stamina, and invulnerability among other qualities.
+
+The MCU began building towards Thanos in the first ''Avengers'' film, in which [[Damion Poitier]] portrayed the character in an uncredited cameo appearance. In May 2014, [[Josh Brolin]] signed a multi-film contract to portray the antagonist, debuting in ''Guardians of the Galaxy''. Thanos was originally going to have a larger role in ''Guardians'', but [[Joss Whedon]] felt that the character needed to be threaded more gently.<ref>{{cite web|url=http://www.hitfix.com/news/joss-whedon-reveals-that-there-was-supposed-to-be-more-thanos-in-guardians-of-the-galaxy|title=Joss Whedon reveals that there was supposed to be more Thanos in Guardians of the Galaxy|date=8 December 2014|work=HitFix|access-date=12 April 2015|archive-url=https://web.archive.org/web/20150413235353/http://www.hitfix.com/news/joss-whedon-reveals-that-there-was-supposed-to-be-more-thanos-in-guardians-of-the-galaxy|archive-date=13 April 2015|url-status=live|df=dmy-all}}</ref> Screenwriters [[Christopher Markus and Stephen McFeely]] noted that Thanos' lingering presence in the franchise helped legitimize him as a threat prior to ''Infinity War''. However, little screen time had been devoted to his history and motivations. Markus stated, "We don't get an element of surprise [with his introduction in ''Infinity War'']... You can count on a lot of scenes where we illuminate a lot about him very early",<ref name="ThanosApril2016" /> with McFeely adding, "It is incumbent upon us to give him a real story, real stakes, real personality, and a real point of view."<ref name="ThanosMay2016" /> 
+
+A major aspect of Thanos' comic book storyline is his attempts to woo the female manifestation of [[Death (Marvel Comics)|Death]]. This plot was omitted from the films, as the filmmakers chose to pair the character with Gamora and focus on their father-daughter relationship. McFeely explained this choice  by noting "[Thanos and Gamora] had a lot of history we wanted to explore" that would add layers to Thanos and would avoid him becoming "the big mustache-twisting bad guy who wants ultimate power just to take over the world and sit on a throne".<ref name="VultureCharacterBreakdown" /> Avoiding the Death storyline moved away from the tease Whedon used in ''The Avengers'' with the character, where Thanos felt that by challenging the Avengers, he was courting death. Though the tease was purposely ambiguous, Whedon felt when he featured Thanos he did not know what to do with him and "kind of hung [Thanos] out to dry". Whedon added that "I love Thanos. I love his apocalyptic vision, his love affair with death. I love his power. But, I don't really understand it." Whedon enjoyed the approach the writers and Russos took in ''Infinity War'', giving Thanos "an actual perspective and [making] him feel righteous to himself", since the Death storyline was "not a concept that will necessarily translate".<ref name="WhedonThanosIGNJul2018" />
+
+Although he led the cast in screen time in ''Infinity War''<ref name="ScreenTimeIW" /> and was considered the film's main character, Thanos had a secondary role in ''Endgame''. McFeely explained "we had to give ourselves permission to backseat the villain [...] You're rolling around in the loss and the time heist, and you think it's sort of Avengers against nature."<ref name="26Spoilers" /> Joe Russo stated that after Thanos was successful in ''Avengers: Infinity War'', he is now "done. He did it. He's retired."<ref name="ThanosDec2018" /> Markus and McFeely had difficulty in factoring the older, post-''Infinity War'', Thanos into the film due to the character already possessing the Infinity Stones, until executive producer Trinh Tran suggested that they kill Thanos in the film's first act.<ref name="NYMarkusMcFeely" /> Markus explained that the character's early death "reinforced Thanos's agenda. He was done . . . it was like, 'If I've got to die, I can die now.'"<ref name="NYMarkusMcFeely" />
+
+===Design and special effects===
+Digital Domain worked on creating Thanos for ''Infinity War'' and ''Endgame'', producing over 400 visual effects shots.<ref name="FXGuide" /> The company created a new facial capture [[Application software|application]] called Masquerade, based on the concept of [[machine learning]] through computer algorithms, specifically for the film, beginning work on the system 3–4 months before filming began to develop and test it. They presented their results to Brolin, the Russos, and executives from Marvel ahead of filming to demonstrate the subtleties Brolin would be able to bring to the character, which helped inform Brolin how to portray the character.<ref name="FXGuide" /> Before the start of filming, Brolin's facial expressions were captured with ILM's Medusa system, which along with his motion capture data from set, were fed to Masquerade to "create a higher-resolution version of what Brolin did on set" so animators could apply that to the CGI character.<ref name="THRVFX" /> Kelly Port, Digital Domain's VFX Supervisor, noted the design of Thanos took into account the versions that appeared in previous films, but were adjusted more toward's Brolin's features, which also helped with matching his performance to the digital character.<ref name="ThanosVerge" />
+
+==Marvel Cinematic Universe==
+===Appearances===
+{{further|The Avengers (2012 film)|Guardians of the Galaxy (film)|Avengers: Age of Ultron|Avengers: Infinity War|Avengers: Endgame}}
+
+*Thanos had minor roles in his first few appearances in the MCU, including two post-credit scene cameo appearances in ''[[The Avengers (2012 film)|The Avengers]]''<ref name="TheAvengers" /> and ''[[Avengers: Age of Ultron]]''<ref name="AAoU" />. 
+*In ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]]''<ref name="GotG" />, Thanos appears in a supporting role. In the film, he tasks [[Kree]] radical [[Ronan the Accuser]] with tracking down the Power Stone on his behalf. Once obtained, Thanos plans to repay Ronan by destroying Xandar. However, Ronan betrays Thanos and keeps the stone for himself, ultimately resulting in his death at the hands of the [[Guardians of the Galaxy]].
+*Thanos serves as the primary antagonist of both ''[[Avengers: Infinity War]]'' and ''[[Avengers: Endgame]]'', in which he sets out to collect all six infinity stones.
+
+==Fictional character biography==
+===Early life===
+Born and raised on the planet Titan, Thanos had an unwavering love for his home and its people. As Titan grew overpopulated and began running low on natural resources, Thanos worried about his planet's lifespan. In an effort to save his home, Thanos suggested half of the planet's population be killed at random so that the other half could prosper. The people of Titan rejected this idea and banished Thanos, labeling him a madman. However, Thanos' worries ultimately proved valid as Titan crumbled over time and Thanos' race went extinct, leaving him as its sole survivor. Fearing what happened to Titan would occur elsewhere, Thanos then dedicated his life to "balancing" the universe by destroying half of all life for the benefit of the other half. 
+
+Thanos amassed an army of [[Chitauri]] and Outriders and began conquering planets, leading his reputation to quickly spread throughout the galaxy. To further build his strength, Thanos began adopting children that were orphaned during the conquering of their home planet. He ultimately adopted six children; [[Corvus Glaive]], [[Cull Obsidian]], [[Ebony Maw]], [[Proxima Midnight]], [[Nebula]], and [[Gamora]]. Thanos trained all his children in combat, always pitting Nebula and Gamora against each other. Gamora consistently defeated her sister, causing her to become Thanos' favorite child. Conversely, he grew disappointed in Nebula, and every time she'd lose to Gamora he'd replace a part of her body with machinery in an effort to improve her fighting.
+
+===Growing interest in the Infinity Stones===
+As time passed Thanos discovered the most efficient way to bring balance to the universe would be with the use of the Infinity Stones, six all-powerful gems that grant their wielder god-like abilities. Thanos made it his mission to acquire these stones, first by proxy and eventually on his own volition. 
+At the behest of Thanos, The Other, leader of the Chitauri, tasked [[Loki (comics)|Loki]] with collecting the Space Stone, located within the [[Cosmic Cube|Tesseract]]. In exchange for the stone, Thanos and The Other agree to give Loki an army of Chitauri to conquer Earth. However, the Avengers are able to apprehend Loki and [[Thor (Marvel Cinematic Universe)|Thor]] takes the Tesseract to [[Asgard]] for safe keeping. With the Space Stone unavailable, Thanos turns his attention to the Power Stone, which is inside of an Orb on the planet Morag. Thanos strikes a bargain with [[Kree]] radical [[Ronan the Accuser]] similar to his deal with Loki; in exchange for the Orb, Thanos will grant Ronan an army with which he can destroy the planet [[Xandar]]. Before Ronan can get the Orb it is captured by [[Peter Quill]], leading Thanos to task Gamora with re-claiming it. Unbeknownst to them, Gamora had been planning to betray them by turning the stone over to [[The Collector]]. When Ronan relays the news of Gamora's betrayal to Thanos, the Mad Titan scolds him for his disrespect and blames him for "alienating [his] favorite daughter." He then assigns Nebula to take Gamora's place at Ronan's side.
+
+Meanwhile, Gamora and Quill join forces alongside [[Rocket Raccoon]], [[Groot]], and [[Drax the Destroyer]] to form the Guardians of the Galaxy. The group decides to take the Power Stone to the [[Nova Corps]] on Xandar for safe keeping, but before Ronan and his forces take it from them. When Thanos contacts Ronan for an update, he's furious to discover that the Kree, having experienced the true capability of the Power Stone, intends to keep it for himself, and Nebula sides with him over her adopted father. Unphased, Thanos cuts contact with them without a word. Ronan is eventually killed by the Guardians of the Galaxy, who then give the Power Stone to the Nova Corps, leaving another Infinity Stone lost to Thanos.
+
+===Assembling the Stones===
+After both Loki and Ronan failed, Thanos decides to assemble the Infinity Stones himself. He begins by traveling to Nidavellir, a planet of blacksmith Dwarves, and forcing them to build him a Gauntlet capable of channeling the power of all six Infinity Stones. Once they had done so, the Mad Titan proceeded to exterminate the entire Dwarven race. Only [[Eitri]], the king of the Dwarves, was spared, although Thanos destroyed his hands by smelting them in metal, ensuring he could never create anything further on his own. With the [[Infinity Gauntlet]] in hand, Thanos seeks out the Stones.
+
+He begins his quest in Xandar, using his army to decimate the planet, claim the Power Stone from the Nova Corps, and kill half of all Xandarians. Next, he uses his ship, the Sanctuary II, to track down the starship carrying the only remaining Asgardian survivors of the [[Thor: Ragnarok|Ragnarök]]. Thanos, his army, and his remaining children, collectively known as the [[Black Order (comics)|Black Order]], board the ship and kill half the remaining Asgardians. In the aftermath of the slaughter, Thanos personally defeats the [[Hulk]] in hand-to-combat and kills Heimdall. He takes the Space Stone from Loki and kills him, leaving Thor to die. 
+
+Thanos orders his children to travel to Earth and retrieve the Time and Mind Stones for him while he heads to Knowhere to take the Reality Stone from the Collector. Quill, Gamora, Drax and [[Mantis (comics)|Mantis]] attempt to stop him, but Thanos foils them via his newly acquired Reality Stone. Aware that Gamora knows the location of Soul Stone, he captures her and takes her aboard the Sanctuary II. There, Thanos reveals he has captured Nebula; she had snuck aboard his ship to assassinate him but failed. Thanos tortures Nebula until Gamora reveals the location of the Soul Stone, Vormir. He and Gamora travel to Vormir, and while they are gone Nebula escapes the ship.
+
+On Vormir, Thanos and Gamora encounter [[Red Skull]], keeper of the Soul Stone. Red Skull tells Thanos that the only way to acquire the Soul Stone is to sacrifice someone you love. Upon hearing this Gamora mocked Thanos, claiming he loves nothing. However, Thanos truly loved Gamora as his daughter, and unwilling to give up his quest for balance, he makes the sacrifice; he hurls Gamora off a cliff, killing her and granting him the Soul Stone.
+
+Thanos returns to Titan to rendezvous with Ebony Maw, only to discover that Maw is dead and [[Doctor Strange]] awaits him. After detailing the extinction of his home planet, Thanos explains to Strange that with all six Infinity Stones he will simply snap his fingers and half of all life in the universe would cease to exist. Thanos considers this mercy, and once the task is completed he will simple rest and watch the sunrise on a "grateful" universe. To prevent this, Strange engages Thanos along with [[Tony Stark (Marvel Cinematic Universe)|Tony Stark]], [[Peter Parker (Marvel Cinematic Universe)|Peter Parker]], Quill, Drax and Mantis, with Nebula later joining the fight. The heroes are able to briefly overpower Thanos and Mantis puts him to sleep, allowing them access to the Gauntlet. However, upon learning of Gamora's death Quill is unable to control his emotions and attacks Thanos, causing Mantis to lose her grip on the Mad Titan. Freed from the trance and furious over his near-defeat, Thanos brutally attacks the group, defeating them one by one until only Stark remained. Despite his insistence that the Time Stone took precedent over any of the Avengers' lives, Doctor Strange agrees to give Thanos the Time Stone if he spares Stark's life. With five of the six Stones claimed, Thanos heads to Wakanda to collect the Mind Stone.
+
+In Wakanda, [[Steve Rogers (Marvel Cinematic Universe)|Steve Rogers]] has been leading a defense against the Black Order and Thanos' army to prevent them from getting the Mind Stone located in [[Vision (Marvel Comics)|Vision]]'s head. Thanos arrives in Wakanda, and his nearly completed Gauntlet allows him to effortlessly defeats Rogers and his allies. To prevent him from retrieving the final stone, [[Wanda Maximoff (Marvel Cinematic Universe)|Wanda Maximoff]] is forced to destroy Vision to eliminate the stone. Thanos takes pity on Wanda, but nevertheless uses the Time Stone to undo Vision's destruction and rip the Mind Stone out of his head, completing the Infinity Gauntlet.
+
+===The Snap===
+As the power of the Infinity Stones surges through Thanos' body, [[Thor (Marvel Cinematic Universe)|Thor]] makes one last charge at him, stabbing him in the chest with [[Stormbreaker]]. Although Thanos appears to be mortally wounded, he survives the attack and jeers Thor, stating he "should've gone for the head." Thanos then snaps his fingers and the Infinity Stones grant him his desire; half of all life in the universe disintegrates without warning.
+
+Amidst the ensuing chaos, Thanos uses the Stones to transport to a different planet. 
+
+===Aftermath and undoing===
+Three weeks after the snap, Thanos gets ambushed by the surviving Avengers on the farm he is keeping on his garden planet. They learn he destroyed the stones to prevent anyone from reversing his actions. Thor kills him in his anger. 
+
+Five years later, the Avengers use the Quantum Realm, where [[Scott Lang]] had been trapped, to go back to various points in time and retrieve the stones from the past, in the hope that their fallen allies can be brought back. In 2014, Thanos becomes aware of their plan due to a malfunction in the 2023 version of Nebula caused by her travel to the past. Thanos sends past-Nebula to the future to bring him and his army there. Thanos arrives just as Banner uses the gathered stones to restore those who were decimated. Thanos attacks the Avengers and decides to use the stones to destroy the entire universe and remake it in his image. The recently resurrected heroes arrive along with reinforcements to help them face Thanos and his army. Stark steals the stones from Thanos and snaps his fingers, wiping him and his forces out of existence.
+
+==Reception==
+The MCU's rendition of Thanos has received critical acclaim.  
+
+[[motion-capture]] effects
+
+
+Critics noted that Thanos was a significant improvement over previous antagonists in the franchise.<ref> https://www.businessinsider.com/avengers-infinity-war-is-marvel-empire-strikes-back-because-of-thanos-2018-4</ref>
+
+===Cultural impact===
+Thanos and his snap spawned much audience enthusiasm. The website, ''DidThanosKill.Me'' was created for fans to see if they would have been spared by Thanos or not.<ref name="DidThanosKillMeWebsite" /> The ending also spawned the creation of the [[Reddit]] subreddit, /r/thanosdidnothingwrong. A user within the subreddit suggested that half of the approximately 20,000 subscribers at the time be banned from the subreddit, in order to mimic the events of the film. After the community agreed to the measure, the moderators approached Reddit's administrators to see if the mass ban would even be possible. Once the administrators agreed to the random ban of half the subscribers, it was set to occur on July 9, 2018.<ref name="PolygonRedditBan" /> Notice of the impending ban made the subreddit's subscribers increase to over 700,000,<ref name="GizmodoRedditBan" /> including both of the Russos who subscribed.<ref name="RussosRedditBan" /> Ahead of the ban, Brolin posted a video saying "Here we go, Reddit users," and ending it with a snap.<ref name="BrolinRedditBan" /> Over 60,000 people watched a live [[Twitch (service)|Twitch]] stream of the ban occurring, which lasted several hours.<ref name="GizmodoRedditBan" /> The ban of over 300,000 accounts, which included Anthony Russo, was the largest in Reddit's history.<ref name="GizmodoRedditBan" /><ref name="VergeRedditBan" /> Those banned then gathered in the new subreddit, /r/inthesoulstone.<ref name="PolygonRedditBan" /><ref name="GizmodoRedditBan" /> One Reddit user who participated described the ban as embodying "the spirit of the Internet" with people "banding together, en masse, around something relatively meaningless but somehow decidedly awesome and hilarious".<ref name="VergeRedditBan" /> Andrew Tigani of [[Screen Rant]] said this showed "how impactful the film has already become to pop culture. It is also a testament to how valuable fan interaction can be via social media".<ref name="BrolinRedditBan" />
+
+A popular fan theory regarding Thanos' defeat in Avengers: Endgame before the film's release claimed that Thanos would be killed in the film with Ant-Man entering into his anus and then expanding himself, blowing off Thanos' body. Several internet memes were created by this. After the film was released and proved it wrong, Christopher Markus revealed that due the strong nature of the Titans, Ant-Man would have been unable to expand himself and get simply crushed against the walls of Thanos' rectum.<ref name="26Spoilers" />
+
+==References==
+{{Reflist|refs=
+
+<ref name="VillainRank">{{cite web |url=https://screenrant.com/thanos-mcu-best-villain-marvel/ |title=Thanos Is The MCU's Best Villain, Hands Down |first=Anthony |last=McGlynn |work=[[Screen Rant]] |date=April 29, 2018 |accessdate=August 9, 2019 |archiveurl=https://web.archive.org/web/20190502075843/https://screenrant.com/thanos-mcu-best-villain-marvel/ |archivedate=May 2, 2019 |url-status=live }}</ref>
+
+<ref name="TheAvengers">{{cite web |url=http://collider.com/the-avengers-ending-thanos-explained/ |title=THE AVENGERS Ending Explained [SPOILERS] |first=Matt |last=Goldberg |work=[[Collider (website)|Collider]] |date=May 12, 2012 |accessdate=August 9, 2019 |archiveurl=https://web.archive.org/web/20190115021157/http://collider.com/the-avengers-ending-thanos-explained/ |archivedate=January 15, 2019 |url-status=live }}</ref>
+
+<ref name="AAoU">{{cite web |url=https://www.cinemablend.com/new/What-Was-Thanos-Talking-About-Avengers-Mid-Credits-Scene-79367.html |title=What Was Thanos Talking About In That Avengers Mid-Credits Scene? |first=Adam |last=Holmes |work=CinemaBlend |date=August 27, 2015 |accessdate=August 9, 2019 |archiveurl=https://web.archive.org/web/20190426215508/https://www.cinemablend.com/new/What-Was-Thanos-Talking-About-Avengers-Mid-Credits-Scene-79367.html |archivedate=April 26, 2019 |url-status=live }}</ref>
+
+<ref name="GotG">{{cite web |url=https://www.hollywoodreporter.com/heat-vision/josh-brolin-voicing-thanos-guardians-708276 |title=Josh Brolin Voicing Thanos in 'Guardians of the Galaxy' |first=Rebecca |last=Ford |work=[[The Hollywood Reporter]] |date=May 30, 2014 |accessdate=August 9, 2019 |archiveurl=https://web.archive.org/web/20190509204109/https://www.hollywoodreporter.com/heat-vision/josh-brolin-voicing-thanos-guardians-708276 |archivedate=May 9, 2019 |url-status=live }}</ref>
+
+<ref name="AIW">{{cite web |url=https://www.thewrap.com/josh-brolin-avengers-infinity-war-godfather-thanos-russo-brothers/ |title=Josh Brolin Says ‘Avengers: Infinity War’ Will Be Like ‘The Godfather |first=Umberto |last=Gonzalez |work=[[TheWrap]] |date=October 19, 2017 |accessdate=August 9, 2019 |archiveurl=https://web.archive.org/web/20171019213416/http://www.thewrap.com/josh-brolin-avengers-infinity-war-godfather-thanos-russo-brothers/ |archivedate=October 19, 2017 |url-status=live }}</ref>
+
+<ref name="AIWBoxOffice">{{cite web |url=https://www.boxofficemojo.com/movies/?id=marvel0518.htm |title=Avengers: Infinity War |first= |last= |work=[[Box Office Mojo]] |date= |accessdate=August 10, 2019 |archiveurl=https://web.archive.org/web/20190728155019/https://www.boxofficemojo.com/movies/?id=marvel0518.htm |archivedate=July 28, 2019 |url-status=live }}</ref>
+
+<ref name="AEG">{{cite web |url=https://comicbook.com/marvel/2017/07/30/avengers-4-infinity-war-thanos-josh-brolin/ |title=Josh Brolin Confirms Thanos' Return In Avengers 4 |first=Jenna |last=Anderson |work=ComicBook.com |date=September 5, 2017 |accessdate=August 9, 2019 |archiveurl=https://web.archive.org/web/20190531061344/https://comicbook.com/marvel/2017/07/30/avengers-4-infinity-war-thanos-josh-brolin/ |archivedate=May 31, 2019 |url-status=live }}</ref>
+
+<ref name="AEGBoxOffice">{{cite web |url=https://www.boxofficemojo.com/movies/?id=marvel2019.htm |title=Avengers: Endgame |first= |last= |work=[[Box Office Mojo]] |date= |accessdate=August 10, 2019 |archiveurl=https://web.archive.org/web/20190807025956/https://www.boxofficemojo.com/movies/?id=marvel2019.htm |archivedate=August 7, 2019 |url-status=live }}</ref>
+
+<ref name="Empire">{{cite web |url=http://www.empireonline.com/news/story.asp?NID=33806 |title=Kevin Feige Avengers Spoiler Podcast |last=Plumb |first=Ali |date=30 April 2012 |work=[[Empire (magazine)|Empire]] |format=podcast |accessdate=2012-05-08 |archive-url=https://www.webcitation.org/6BtArSTQn?url=http://www.empireonline.com/news/story.asp?NID=33806 |archive-date=November 3, 2012 |url-status=dead }}</ref>
+
+<ref name="IFC">{{cite web |url=http://www.ifc.com/fix/2012/05/the-avengers-post-credit-scenes |title=''The Avengers'' has two post-credit scenes, mystery actor revealed |last=Schwartz |first=Terri |work=[[IFC (U.S. TV channel)|IFC]] |date=2012-05-02 |accessdate=2012-05-02 |archive-url=https://www.webcitation.org/67Vds23sV?url=http://www.ifc.com/fix/2012/05/the-avengers-post-credit-scenes |archive-date=May 8, 2012 |url-status=live }}</ref>
+
+<ref name="Collider">{{cite web|url=http://collider.com/kevin-feige-iron-man-4-guardians-of-the-galaxy/|title=Kevin Feige Talks GUARDIANS OF THE GALAXY, THOR 3, CAPTAIN AMERICA 3, DOCTOR STRANGE, Casting Josh Brolin as Thanos, Comic-Con Plans, and More|last=Weintraub|first=Steve|website=[[Collider (website)|Collider]]|date=July 22, 2014|archiveurl=https://www.webcitation.org/6RF2IPFkJ?url=http://collider.com/kevin-feige-iron-man-4-guardians-of-the-galaxy/|archivedate=July 21, 2014|url-status=live|df=}}</ref>
+
+<ref name="/Film">{{cite web|url=http://www.slashfilm.com/avengers-3-guardians-connection/|title=‘Guardians of The Galaxy’ Connects to ‘Avengers 3;’ Plus New Image|last=Lussier|first=Germain|website=[[/Film]]|date=April 11, 2014|archiveurl=https://www.webcitation.org/6Ol7tvegh?url=http://www.slashfilm.com/avengers-3-guardians-connection/|archivedate=April 11, 2014|url-status=live|df=}}</ref>
+
+<ref name="SeanGunn">{{cite web|url=https://www.cbr.com/james-gunn-reveals-his-brothers-roles-in-guardians-of-the-galaxy/ <!-- Link moved-->|title=James Gunn Reveals His Brother's Roles in 'Guardians of the Galaxy'|last=Dietsch|first=TJ|date=June 26, 2014|website=[[Comic Book Resources]] |access-date=April 29, 2019|archive-url=https://web.archive.org/web/20150717202858/http://spinoff.comicbookresources.com/2014/06/26/james-gunn-reveals-his-brothers-roles-in-guardians-of-the-galaxy/1/|archive-date=July 17, 2015|url-status=live}}</ref>
+
+<ref name="HitFix">{{cite web|url=https://uproxx.com/hitfix/joss-whedon-reveals-that-there-was-supposed-to-be-more-thanos-in-guardians-of-the-galaxy/ <!-- Link moved-->|title=Joss Whedon reveals that there was supposed to be more Thanos in Guardians of the Galaxy|first=Gregory |last=Ellwood |date=April 12, 2015|work=[[HitFix]]|access-date=April 29, 2019|archive-url=https://web.archive.org/web/20150413235353/http://www.hitfix.com/news/joss-whedon-reveals-that-there-was-supposed-to-be-more-thanos-in-guardians-of-the-galaxy|archive-date=April 13, 2015|url-status=live}}</ref>
+
+<ref name="movies">{{cite web|url=http://marvel.com/news/movies/23546/marvels_the_avengers_head_into_an_infinity_war|title=Marvel's The Avengers Head Into an Infinity War |first=Marc |last=Strom |date=October 28, 2014 |website=Marvel|access-date=April 29, 2019|archive-url=https://web.archive.org/web/20141028205432/http://marvel.com/news/movies/23546/marvels_the_avengers_head_into_an_infinity_war|archive-date=October 28, 2014|url-status=dead}}</ref>
+
+<ref name="comingsoon">{{cite web|url=http://www.comingsoon.net/movies/news/389995-ultimately-its-thanos-against-everyone-says-josh-brolin-of-avengers-infinity-war#/slide/1|title='It's Thanos Against Everyone' Says Brolin of Avengers: Infinity War|last=Lesnick |first=Silas |date=December 7, 2014 |work=[[ComingSoon.net]]|access-date=April 29, 2019|archive-url=https://web.archive.org/web/20190329100150/https://www.comingsoon.net/movies/news/389995-ultimately-its-thanos-against-everyone-says-josh-brolin-of-avengers-infinity-war#/slide/1|archive-date=March 29, 2019|url-status=live}}</ref>
+
+<ref name="26Spoilers">{{cite web|url=https://www.empireonline.com/movies/features/avengers-endgame-26-spoilers-explained-directors-writers/}}</ref>
+
+<ref name="ScreenTimeIW">{{cite web|url=https://www.flickeringmyth.com/2018/05/heres-how-much-screen-time-each-character-had-in-avengers-infinity-war/}}</ref>
+
+}}
+
+==External links==
+{{sisterlinks|display=''Thanos''|d=Q64825451|n=no|b=no|v=no|voy=no|m=no|mw=no|q=no|wikt=no|s=no|species=no|c=no}}
+* [https://marvelcinematicuniverse.fandom.com/wiki/Thanos Thanos] at Marvel Cinematic Universe Wiki
+* {{Marveldatabase|Thanos (Earth-199999)|Marvel Cinematic Universe Thanos}}
+
+[[Category:Marvel Cinematic Universe drafts]]
+
+{{DISPLAYTITLE:Thanos (Marvel Cinematic Universe)}}
+{{Draft categories|
+[[Category:CGI characters]]
+[[Category:Extraterrestrial supervillains]]
+[[Category:Fictional characters introduced in 2012]]
+[[Category:Fictional characters who committed genocide]]
+[[Category:Fictional characters with disfigurements]]
+[[Category:Fictional characters with energy-manipulation abilities]]
+[[Category:Fictional characters with precognition]]
+[[Category:Fictional child killers]]
+[[Category:Fictional commanders]]
+[[Category:Fictional mass murderers]]
+[[Category:Fictional torturers and interrogators]]
+[[Category:Fictional warlords]]
+[[Category:Galactic emperors]]
+[[Category:Male film villains]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Time travelers]]
+}}

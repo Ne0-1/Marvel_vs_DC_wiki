@@ -1,0 +1,25 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Strongman
+|real_name=Bruce Olafsen
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Hulk (comics)|Incredible Hulk]]'' #3 (Sep 1962)
+|creators=[[Stan Lee]] and [[Steve Ditko]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Circus of Crime]]
+|previous_alliances=
+|aliases=Bruto
+|relatives=
+|powers=
+|}} 
+
+The '''Strongman''' is a fictional character in the [[Marvel Universe]].
+
+Bruce Olafsen was born in [[Stockholm, Sweden]], but later came to the U.S. and became a naturalized American citizen.  As a long time member of the criminal organization, the [[Circus of Crime]], Bruto the Strongman works as a circus strongman and weight-lifter.
+
+
+{{Marvel-villain-stub}}

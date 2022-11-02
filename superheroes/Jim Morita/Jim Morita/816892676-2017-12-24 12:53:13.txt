@@ -1,0 +1,51 @@
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|character_name=Jim Morita
+|image=
+|caption=
+|real_name=
+|publisher=[[Marvel Comics]]
+|debut=''[[Sgt. Fury and his Howling Commandos]]'' #38 (January 1967)
+|creators=[[Roy Thomas]] (writer)<br>[[Dick Ayers]] (artist)
+|species=[[Human]]
+|alliances=[[Sgt. Fury and his Howling Commandos|Howling Commandos]]
+|aliases=
+|powers=Trained soldier 
+}}
+'''Jim Morita''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Created by [[Roy Thomas]] and [[Dick Ayers]], Jim Morita first appeared in ''[[Sgt. Fury and his Howling Commandos]]'' #38 (January 1967).
+
+==Fictional character biography==
+Jim Morita is a Japanese-American [[soldier]] during [[World War II]]. Morita is a [[Nisei]] soldier whose squadron assisted [[Nick Fury|Sergeant Fury]]'s [[Sgt. Fury and his Howling Commandos|Howling Commandos]] on several missions. His squad was at one point captured and sent to a [[Nazi Party|Nazi]] Prison Camp, but were broken out by the Commandos.<ref>{{Cite comic |writer = [[Mike Friedrich]] |penciller = Dick Ayers |story = The Informer |title = Sgt. Fury and his Howling Commandos |issue = 57 |date = August 1968 |publisher = Marvel Comics}}</ref>
+
+==Powers and abilities==
+Jim Morita was a trained soldier.
+
+==In other media==
+===Television===
+* Jim Morita appears in the ''[[Agents of S.H.I.E.L.D.]]'' episode "[[Shadows (Agents of S.H.I.E.L.D.)|Shadows]]," portrayed by [[Kenneth Choi]].<ref>{{cite web |url=http://www.tvguide.com/News/Agents-SHEILD-Haley-Atwell-1086753.aspx |title=First Look: Haley Atwell's Agent Carter on Marvel's Agents of S.H.I.E.L.D. |last=Logan |first=Michael |work=[[TV Guide]] |date=September 10, 2014 |accessdate=September 10, 2014 |archiveurl=https://www.webcitation.org/6SUTZs4Jd?url=http://www.tvguide.com/News/Agents-SHEILD-Haley-Atwell-1086753.aspx |archivedate=September 10, 2014 |deadurl=no |df= }}</ref> He is present with Peggy Carter when [[Kraken (character)|Daniel Whitehall]] and the Hydra agents with him are arrested.
+
+===Film===
+* Jim Morita was adapted for the film ''[[Captain America: The First Avenger]]'', played by actor [[Kenneth Choi]]. He appear as a member of the [[Howling Commandos]].<ref name="Choi">{{cite web |last=Coratelli |first=Carlo |date=May 7, 2011 |title=Intervista a Kenneth Choi – Jim Morita in "Captain America: The First Avenger" |url=http://www.comicus.it/blog/movie-comics/item/48872-intervista-a-kenneth-choi-jim-morita-in-captain-america-the-first-avenger |publisher=ComicUS.it |accessdate=May 29, 2011 |archivedate=2011-07-05 |archiveurl=https://www.webcitation.org/5zx6irO7j?url=http://www.comicus.it/blog/movie-comics/item/48872-intervista-a-kenneth-choi-jim-morita-in-captain-america-the-first-avenger |deadurl=yes |df= }}. Scroll down to English translation.</ref> He hails from [[Fresno, California|Fresno]], [[California]] where he was part of the Nisei Squadron. He was captured by [[Hydra (comics)|Hydra]] along with [[Dum Dum Dugan]], [[Gabe Jones]], [[Union Jack (James Montgomery Falsworth)|James Montgomery Falsworth]] and [[Jacques Dernier]]. They were liberated by [[Captain America]] and afterwards helped fight off the [[Red Skull]]'s forces.
+** Choi also plays Principal Morita in ''[[Spider-Man: Homecoming]]''.<ref>{{cite web |url=https://deadline.com/2016/06/kenneth-choi-spiderman-homecoming-movie-1201770179/ |title=Kenneth Choi Joins Sony/Marvel's ‘Spider-Man: Homecoming’ |last=Busch |first=Anita |publisher=[[Deadline.com]] |date=June 9, 2016 |accessdate=June 9, 2016 |archiveurl=https://www.webcitation.org/6i9IUplKo?url=https://deadline.com/2016/06/kenneth-choi-spiderman-homecoming-movie-1201770179/ |archivedate=June 10, 2016 |deadurl=no |df= }}</ref> He is the unspecified descendant of Jim Morita and is the principal of [[Midtown High School|Midtown School of Science and Technology]]. Principal Morita first appears where he catches Peter Parker planning to sneak out during an exam and gives him detention which was overseen by [[Whiz Wilson|Coach Wilson]]. After Peter Parker snuck out of detention and lost the Stark internship after what happened at the [[Staten Island Ferry]], Principal Morita decides not to punish Peter and tells him that he was "a good kid." A photo of Jim Morita can be seen in his office.
+
+===Video games===
+* Jim Morita appears in ''[[Captain America: Super Soldier]]'', voiced by Kenneth Choi.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix3/moritajim.htm|Jim Morita}}
+
+{{Peggy Carter}}
+{{Marvel-char-stub}}
+{{DEFAULTSORT:Morita, Jim}}
+
+[[Category:Characters created by Dick Ayers]]
+[[Category:Characters created by Roy Thomas]]
+[[Category:Comics characters introduced in 1967]]
+[[Category:Fictional American people of Japanese descent]]
+[[Category:Fictional World War II veterans]]
+[[Category:Marvel Comics characters]]

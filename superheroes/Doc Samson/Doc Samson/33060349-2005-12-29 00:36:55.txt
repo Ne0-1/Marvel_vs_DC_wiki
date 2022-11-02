@@ -1,0 +1,33 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Doc Samson 1.jpg|225px]]
+|caption=Cover to ''Doc Samson'' #1. Art by Daniel Acuna. 
+|comic_color=background:#ff8080
+|character_name=Doc Samson
+|real_name=Dr. Leonard Samson
+|publisher=[[Marvel Comics]]
+|debut=''[[Hulk (comics)|Incredible Hulk]]'' #141
+|creators=
+|alliance_color=background:#ffc0c0
+|status=Active
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=Super-strength
+|}}
+'''Doc Samson''' (Doctor Leonard Samson) is a [[fictional character]], a [[superhero]] and [[psychiatrist]] in the [[Marvel Comics]] [[Marvel Universe|universe]].
+
+==Character biography==
+After Robert Bruce Banner was temporarily cured of being the [[Hulk (comics)|Hulk]], Samson - who had been working on Banner/Hulk in his job as a psychiatrist - exposed himself to some of the siphoned radiation, causing his hair to become green and granting him superhuman strength proportionate to the length of his aforementioned hair, reminiscent of his biblical [[Samson|namesake]]. Shortly afterward, his flirting with [[Betty Ross Banner|Betty Ross]] caused Banner to re-expose himself to radiation, becoming the Hulk once more to beat Samson up.
+
+Feeling guilty about this, Samson would spend much time working with Banner over the years, eventually realising that he was suffering from [[Dissociative identity disorder|Multiple Personality Disorder]]. To "cure" this, he hypnotised Banner with the [[Ringmaster (comics)|Ringmaster]]'s help and sucessfully began the process of integrating their personalities. This got beyond his control, however, leading to a somewhat unstable merger which eventually fragmented once more.
+
+In addition to the Hulk, his most prominent patient, Samson has also spent time in a professional capacity with the second [[X-Factor]], the [[Molecule Man]], and, most recently, [[She-Hulk]], among others.
+
+==External link==
+*[http://www.gammabase.com/profiles/samson.php Doc Samson @ Gamma Base Online]
+*[http://www.marveldirectory.com/individuals/d/docsamson.htm Doc Samson bio]
+
+
+[[Category:Hulk supporting characters]]
+[[Category:Marvel Comics superheroes]]

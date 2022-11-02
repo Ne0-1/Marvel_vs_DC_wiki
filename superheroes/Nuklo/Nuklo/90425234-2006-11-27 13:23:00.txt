@@ -1,0 +1,35 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:A_05182005_0003.jpg||250px]]
+|caption=From Giant Size Avengers #1<br />Art by [[Rich Buckler]]
+|comic_color=background:#ff8080
+|character_name=Nuklo
+|real_name=Robert Frank, Jr
+|species=[[mutant (fictional)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''Giant-Size Avengers #1'' (Aug 1974)
+|creators=[[Roy Thomas]], [[Rich Buckler]] and [[Dan Adkins]]
+|alliance_color=background:#c0c0ff
+|status=unknown
+|alliances=None
+|previous_alliances=The [[V-Battalion]]
+|aliases= 
+|relatives=Robert Frank/[[Whizzer]] (father, deceased), Madeline Joyce/[[Miss America (Marvel Comics)|Miss America]] (mother, deceased)
+|powers=[[List of comic book superpowers#Radiation manipulation|Radiation manipulation]]
+|}}
+
+'''Nuklo (Robert Frank, Jr)''' is a fictional [[mutant (fictional)|mutant]] character in the [[Marvel Comics]] Universe.
+
+Nuklo is the son of Robert Frank and Madeline Joyce, also known as the [[Whizzer]] and [[Miss America (Marvel Comics)|Miss America]]. The two retired from their careers as costumed crimefighters several years after the end of World War II, married, revealed their identities to the government, and took jobs at one of the nation’s first nuclear power plants. When a radiation experiment went awry, the Franks rushed into a high radiation area to manually activate the damping rods that were malfunctioning and were exposed to massive amounts of radiation. Madeline Frank was pregnant at the time and when she gave birth eight months later, her son proved to be a mutant who emitted toxic radiation levels. (Apparently, due to their own superhuman powers, the Franks were immune to the deleterious effects of excessive radiation.) The Franks were persuaded by the government to place their infant son in a special capsule which would retard his aging process while draining him of excess radioactivity. 
+The capsule lay beneath the basement of a government building for several decades, until the building collapsed and the capsule was taken into custody by the [[Avengers (comics)|Avengers]]. By that time, the classified records about the capsule had been misplaced and forgotten. But while Madeline had died shortly after giving birth to a second stillborn son a few years later, the Whizzer was still alive and learned about the capsule’s discovery. He broke into the Avengers’ Mansion to take custody of the capsule but was prevented from doing so by the Avengers. Shortly thereafter, the Avengers’ probing devices tripped the release mechanism of the capsule and Robert Frank, Jr., was set free. His body, which had only aged approximately twelve years over the decades of containment, was still highly radioactive, and soon exhibited certain superhuman powers. His mind, which was of above average intelligence, knew absolutely nothing about the outside world and was consequently greatly disoriented. Somehow fissioning into three separate duplicates, Frank Jr., who would soon dub himself Nuklo, ran amok through [[New York]] City. The Avengers subdued the three doppelgangers and brought them together, which merged them into a single being again. Nuklo was rendered unconscious by a hex cast by the mutant [[Scarlet Witch]], who at that time believed herself to be his sister.
+
+Nuklo was returned to the capsule and placed back in government custody. The government placed him under the care of U. S. Army General Jacob Pollock, who became a renegade and allied himself with the criminal Living Laser. Nuklo accidentally escaped his containment vessel and wreaked havoc for the Avengers before his father, the Whizzer, was able to get close enough to knock him unconscious.
+
+Nuklo was then taken to the newly opened government energy facility Project: Pegasus for treatment and study. There his radiation level was diminished significantly and his education was started. After a few years, he was placed in the custody of scientists in a special facility at General Hospital in [[Manhattan]] where he was treated by a psychologist named Dr. Linda Hyams and a radiologist named Dr. Ira S. Bishoff, who was secretly the Whizzer’s old nemesis Isbisa. Over the course of months, Isbisa siphoned Nuklo’s radiation and transferred it to himself, in order to gain sufficient power to exact revenge upon the Whizzer. When Robert Frank finally managed to get a court order turning his son over to his care, Isbisa attacked. At the battle’s end, the Whizzer had died of a heart attack rescuing his son, but Nuklo was permanently cured of his excess radiation.
+
+Nuklo was placed in the custody of Dr. Linda Hyams, his psychologist, who took him to live with her family in a small community in upstate New York. Robert Frank, Jr., has passed high school equivalency tests and got a job at a service station. He was recently attacked by the super human-hunting TESS-One robot, and is currently recuperating.   
+
+
+{{Marvel-Comics-stub}}
+
+[[Category:Marvel Comics mutants]]
+[[Category:Fictional characters with the power to manipulate radiation]]

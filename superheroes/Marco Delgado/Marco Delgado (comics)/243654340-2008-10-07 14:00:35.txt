@@ -1,0 +1,42 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Delgado
+|real_name=Marco Delgado
+|species=[[Mutant (Marvel comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Men (vol. 2)]]'' #1
+|creators=[[Chris Claremont]]<br>[[Jim Lee]]
+|alliance_color=background:#ffc0c0
+|alliances=[[Acolytes (comics)|Acolytes]]
+|aliases=
+|powers=megamorph
+|}}
+'''Marco Delgado''' is a fictional [[Mutant (Marvel comics)|mutant]] supervillain in the [[Marvel Comics]] [[Marvel Universe|Universe]]. He was created by [[Chris Claremont]] and debuted in ''X-Men'' vol. 2 #1
+
+==Fictional character biography==
+Delgado was a member of the [[Acolytes (comics)|Acolytes]] that attempted to join [[Magneto (comics)|Magneto]] aboard [[Asteroid M]]. Delgado was often targeted by those Acolytes who were able to manipulate the abilities of their fellow brethren, such as the power-boosting [[Fabian Cortez]] and the molecule-altering [[Chrome (comics)|Chrome]].
+
+Delgado died in the destruction of Asteroid M, which was engineered by the treacherous Cortez who intended to gain points in the so-called Upstart Competition by disposing of Magneto and the [[X-Men]].
+
+==Powers==
+Marco Delgado was a mutant with the power to grow in size, strength, speed, and stamina. The upper limits of the size that he could attain and the strength that he could wield were never ascertained. Delgado drew the extra mass that he gained upon using his power from a presumably extradimensional source.
+
+==Alternate Versions==
+===Age of Apocalypse===
+* In the [[Age of Apocalypse]], Delgado was a Prelate and part of [[Apocalypse (comics)|Apocalypse's]] Infinites. Unlike his 616 counterpart, this version of Delgado had been altered and his skin was covered in rock.
+
+==In other media==
+Delgado appeared in the two-part episode of the [[X-Men animated series]], "Sanctuary", as a prominent member of the Acolytes.
+
+==Trivia==
+{{trivia|date=January 2008}}
+*Delgado is not the same character as the [[S.H.I.E.L.D.]] agent Harry Delgado, who, along with [[Nance Winters]], followed the Acolytes into Asteroid M. His fate is unknown.
+
+{{DEFAULTSORT:Delgado, Marco}}
+[[Category:Marvel Comics supervillains]]
+
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Fictional characters who can change their size]]

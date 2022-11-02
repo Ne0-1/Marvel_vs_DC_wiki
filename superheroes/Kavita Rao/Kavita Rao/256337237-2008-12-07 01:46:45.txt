@@ -1,0 +1,40 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image= [[Image:kavitarao.jpg|250px]]
+|caption= Dr. Kavita Rao in [[Astonishing X-Men]]. Art by [[John Cassaday]].
+|comic_color=background:#ff8080
+|character_name=Kavita Rao
+|real_name=Dr. Kavita Rao
+|publisher=[[Marvel Comics]]
+|debut=''[[Astonishing X-Men]]'' (Vol. 3) #1 (2004)
+|creators=[[Joss Whedon]]<br>[[John Cassaday]] 
+|alliance_color=background:#cccccc
+|status=alive
+|alliances=Benetech
+|previous_alliances=[[Ord (comics)|Ord of the Breakworld]]
+|aliases=
+|relatives=
+|powers=Genius-level intellect, Master geneticist
+|}}
+'''Dr. Kavita Rao''' is a [[fictional character]], a [[geneticist]] in the [[Marvel Comics]] [[Marvel Universe|universe]] of the [[X-Men]]. She first appeared and featured prominently in the first story arc of the monthly series ''[[Astonishing X-Men]]'' in 2004.
+
+==Fictional character biography==
+===Hope===
+Dr. Kavita Rao is a world-renowned geneticist from [[India]] who developed a serum (later called "Hope") which could "cure" [[Mutant (Marvel comics)|mutants]], turning them into normal humans. She explains that she regards the mutant gene as a 'corruption' of healthy tissue, and justifies her research by looking at mutants who committed suicide or hurt others because of their powers, such as a female mutant with a butterfly-like appearance or [[Tildie Soames]] (a child whose nightmares can manifest into monsters).
+
+Hundreds of mutants immediately signed up for the procedure at Benetech (the corporate backer of her research). The X-Men debated the merits of the cure and the significance of labelling the mutant condition a disease.  The chance at shedding his "beastly" appearance and avoiding any further secondary mutations held significant appeal for Hank McCoy (aka [[Beast (comics)|Beast]]) and he considered taking the serum for a time, although [[Wolverine (comics)|Wolverine]] objected by saying that an X-Man taking the serum would be the equivalent of admitting that there was something to 'cure' in the first place.
+
+It was later revealed that Rao had been working for the alien [[Ord (comics)|Ord]] of the Breakworld, who also had in his custody [[Colossus (comics)|Colossus]] (who was, at that time, thought to be dead, but had been resurrected by Ord's technology). The X-Men defeated Ord and Benetech, and Ord was delivered into the hands of [[S.H.I.E.L.D.]]. Dr. Rao's work was destroyed by Wolverine, leaving Hank with the last sample of "Hope", although he remains uncertain whether or not he will use it at some point.
+
+=== Endangered Species ===
+In the ''[[X-Men: Endangered Species]]'' one-shot comic book, Kavita Rao was pictured alongside several super-villains to whom Beast offers to 'sell his soul' for a means to un-do the effects of [[Decimation (comics)|M-Day]]. With her old research into 'curing' the mutant gene now irrelevant after so many mutants lost their powers, she agrees to aid Beast in his quest and is now looking for more info that might help him.
+
+==Other Media==
+===Film===
+* In the 2006 movie ''[[X-Men: The Last Stand]]'', Kavita Rao was played by Iranian actress [[Shohreh Aghdashloo]]. This is despite claims made by Aghdashloo in an interview with ''[[Entertainment Weekly]]'' (August 26, 2005) that she would be playing [[Cecilia Reyes|Dr. Cecilia Reyes]]. Raph Winter, producer of all three movies, subsequently stated that Aghdashloo would be playing Rao. In the film, Rao helps with the invention of the mutant cure, which she created with the [[DNA]] of [[Leech (comics)|Leech]]. Toward the end of the movie, she (alongside Dr. Worthington) is targeted by a trio of Omegas. Worthington is dragged off. [[Quill_(comics)|Kid Omega]] grabs her in a bear hug, says everything will be all right and slays her with his bodily spikes. 
+
+
+{{DEFAULTSORT:Rao, Kavita}}
+[[Category:Fictional geneticists]]
+
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics characters]]

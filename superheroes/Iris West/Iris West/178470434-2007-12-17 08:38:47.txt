@@ -1,0 +1,37 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name = Iris West Allen
+| publisher = [[DC Comics]]
+| debut = ''Showcase'' #4 (September-October 1956)
+| creators = [[Robert Kanigher]] (script)<br>[[Carmine Infantino]], [[Joe Kubert]] (art) 
+| alter_ego = 
+| full_name =Iris Ann Russell West Allen
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = <!-- optional -->
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = None
+}}
+'''Iris West Allen''' is a [[fictional character]] who appears in various [[DC Comics]] publications. She is the wife of the second [[Flash (comics)|Flash]], '''[[Flash (Barry Allen)|Barry Allen]]''', the aunt of the third Flash, '''[[Flash (Wally West)|Wally West]]''', and the grandmother of the fourth Flash, '''[[Bart Allen]]'''.  Iris Allen first appears in ''Showcase'' #4 (September-October 1956).
+
+==Fictional character biography==
+In her first appearance, Iris was a reporter for the ''Picture News'', based in [[Central City (DC Comics)|Central City]], and the girlfriend of the chronically late Barry Allen.  Eventually, she learned that Barry was not only the Flash, but her step-nephew, Wally West, was [[Kid Flash]].  In ''Flash'' #165 (November 1966), she married Barry.  During this time, the couple discovered that Iris was born about a thousand years in the future, and had been sent back to the present shortly before "Earth-East" attacked "Earth-West," when Central City was a self-contained city. After years as a prominent presence in the Flash's life and Central City, she was killed by [[Professor Zoom]] during a costume party. Zoom vibrates his hand into her head, solidifying it just enough to kill her. This happens in ''Flash'' #275  (July 1979).  
+
+Iris did not stay dead for long. As Iris's biological parents, the Russells (with the help of a future Flash, John Fox), sent the then-infant Iris to the past, where she was adopted by Ira West, her "death" caused a paradox that was resolved after the Russells placed her consciousness into a new body. Barry was reunited with Iris in her time, and were able to spend a month together. However, the couple knew if Barry returned to the past, he would die (more specifically, in the catalytic event in ''[[Crisis on Infinite Earths]]''). During their time together, they conceived the [[Tornado Twins]], Don and Dawn. Don married the descendant of Professor Zoom, [[Meloni Thawne]], hoping to end the feud between the two families.  They had a son, Bart, whose powers manifested at an early age and caused him to age at an accelerated rate. Tragically, Don and Dawn died saving [[30th Century]] [[Earth]] from an invasion by the [[Dominators]]. Iris took Bart to the past to enlist the aid of his nephew (by then, Wally had taken the mantle of the Flash) in saving her grandson. After Bart's accelerated aging slowed down, he went by the name of Impulse. Not much is known about her after that, but Iris volunteered to take care of the [[Weather Wizard]]'s orphaned son.
+
+=== [[One Year Later]] ===
+
+A mysterious hooded figure enlisted the help of [[Zoom (comics)|Zoom]] <ref> ''The Flash'' (v.3) #10</ref> to attack Bart while he confronted [[Captain Cold]], and later revealed herself as Iris. Her plan is to somehow put her grandson, whom, by then, had taken up the Flash mantle, out of commission for a week to protect him from a future she was determined to change. Eventually, a weakened Bart was killed by the [[Rogues (comics)|Rogues]], thanks to an elaborate plan by his clone "brother" [[Inertia (DC Comics)|Inertia]]. <ref> (''Flash: The Fastest Man Alive #13'')</ref>
+
+{{Flash}}
+
+==External links==
+*[http://www.hyperborea.org/flash/iris.html Iris West Allen at Flash--Those Who Ride the Lightning]
+
+{{DEFAULTSORT:Allen, Iris}}
+[[Category:DC Comics characters]]
+[[Category:American comics characters]]
+
+[[es:Iris West]]

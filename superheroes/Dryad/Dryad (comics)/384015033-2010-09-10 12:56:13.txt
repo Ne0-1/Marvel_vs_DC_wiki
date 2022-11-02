@@ -1,0 +1,36 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  noimage = yes
+| caption = 
+| comic_color =background:#ff8080
+| character_name = Dryad
+| real_name = Claire Leatitia Fitzpatrick
+| place_of_origin = Earth-9200
+| species=  Human/Mutation
+| publisher = [[Marvel Comics]]
+| debut = Abominations Vol 1 #1
+| creators = Ivan Velez Jr
+| alliance_color =background:#ffc0c0 
+| alliances =
+| notable_aliases = Dryad, Flora, Plant Woman
+| powers = [[List of comic book superpowers#Plant manipulation|Plant manipulation]]
+}}
+
+'''Dryad I''' ('''Claire Fitzpatrick''') is a [[fictional character]] appearing in [[comic books]] published by [[Marvel Comics]]. Created by Ivan Velez Jr, she first appeared in ''Abominations '' Vol 1 #1. 
+
+==Fictional character biography==
+
+==Powers and abilities==
+
+==Bibliography==
+*Abominations Vol 1 #1''
+
+==References==
+{{reflist}}
+
+{{Marvel-Comics-stub}}
+
+[[Category:Fictional American people of Italian descent]]
+
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics characters]]
+[[Category:Plant characters]]

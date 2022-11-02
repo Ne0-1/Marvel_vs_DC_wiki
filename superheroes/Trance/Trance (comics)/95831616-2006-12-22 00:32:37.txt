@@ -1,0 +1,50 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Trance.jpg|180px]]
+|caption=A close-up of Trance
+|comic_color=background:#ff8080
+|character_name=Trance 
+|real_name=Hope Abbott
+|species=[[mutant (fictional)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''New X-Men: Academy X'' #12
+|creators=[[Christina Weir]]<br>[[Nunzio DeFilippis]]
+|alliance_color=background:#ffc0c0
+|status =Active
+|alliances =[[Xavier Institute]], [[The 198]]
+|previous_alliances =Paragons Squad
+|aliases= 
+|relatives= 
+|powers=Capable of projecting her consciousness into an energy state that can travel over far distances, avoid physical injury, and produce a disruptive energy surge 
+|}}
+
+'''Trance''', real name Hope Abbott, a [[fictional character]] in the [[Marvel Universe]].  A [[mutant]], Hope attends the [[Xavier Institute]] and maintained her powers post-[[House of M]].
+
+==Character Biography==
+Prior to [[Decimation (comics)|M-Day]], Hope Abbott was a former member of the Paragons squad. When the events of [[Decimation (comics)|Decimation]] transpired, she was one of only 27 students to keep her powers. Greatly weakened by the losses, [[Emma Frost]] placed all of the remaining students into an all-out brawl to determine who would become the team of [[X-Men]] in-training.  Hope did not make the team yet, like all of the other students who retained their powers, still resides as the [[Xavier Institute for Higher Learning|Institute]].  
+
+In response to M-Day, the government began gathering all information they had on the remaining mutants. Additionally, the [[Sentinel Squad O*N*E]], a team of human-piloted Sentinels, was sent to "watch over" the X-Men and the handful of [[refugee]]s symbolically know as [[The 198]].  According to said files, Hope was willing to work with other mutants in training sessions but had not yet received any [[combat]] experience.
+
+Her interests include old [[film|films]] and classic music, and it appears she is rather culturally sophisticated. 
+
+She has not shown any violent tendencies.  However, she is loyal, and as such she will be expected to follow any mutant rebellions if  led by [[Match (Marvel Comics)|Match]] or another Paragon, but will be reluctant to resort to violence. However, this is merely speculaton as she has not had enough exposure for her action in such a situation to be decided.
+
+==Powers==
+Hope has an [[astral projection]] power, the scope of which has not yet been fully displayed. Her [[codename]] suggests that she goes into some kind of [[altered state of consciousness]] or somehow otherwise nullifies her body in order to release her astral self. It is unusual in that whilst most astral projectors are harmless, Hope's power somehow causes energy damage, though the extent is not known. 
+
+==Trivia==
+* In the 'New X-Men Academy X Yearbook Special', Hope was voted best-dressed by her classmates.
+* Given that she was voted Best Dressed and seems to be "sophisticated," it can be assumed that Hope is from a well-to-do family.  
+
+==Bibliography==
+*''New X-Men: Academy X'' #12, 14
+*''New X-Men: Academy X: Yearbook Special'' by Nunzio DeFilippis and Christina Weir
+*''X-Men: The 198 Files'' by Eric J. Moreels, Marc-Oliver Frisch, and Brian E. Wilkinson
+
+==External links==
+*[http://uncannyxmen.net/db/article/showquestion.asp?faq=4&fldAuto=229&page=7'''UncannyX-Men.net'''-Yearbook Entry on the Paragons]
+
+{{Marvel-Comics-stub}}
+
+[[Category:X-Men supporting characters]]
+[[Category:Marvel Comics mutants]]
+[[Category:The 198 Files]]

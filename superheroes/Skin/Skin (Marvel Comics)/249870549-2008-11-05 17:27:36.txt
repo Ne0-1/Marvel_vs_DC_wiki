@@ -1,0 +1,58 @@
+{{for|the graphic novel|Skin (graphic novel)}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image = <!-- Deleted image removed: [[Image:genx33.jpg|200px]]  -->
+|caption=Cover from ''Generation X'' #33<br>Art by [[Joe Madureira]]
+|comic_color=background:#ff8080
+|character_name=Skin 
+|real_name=Angelo Espinosa 
+|species=[[Mutant (Marvel comics)|Human Mutant]]
+|publisher=[[Marvel Comics]] 
+|debut=Uncanny X-Men #317 
+|creators=[[Scott Lobdell]]<br>[[Joe Madureira]]
+|alliance_color = background:#ffc0c0
+|alliances=[[Generation X (comics)|Generation X]]
+|aliases = 
+|powers = Six feet of extra, malleable skin which can be stretched or reshaped at will
+}}
+
+'''Skin''' is a [[fictional character|fictional]] [[Mutant (Marvel Comics)|mutant]] in the [[Marvel Universe]] of comics.  The character first appeared in ''Uncanny X-Men #317''. (1994)
+
+==Fictional character biography==
+'''Angelo Espinosa''' was a former gang member from the [[Los Angeles, California|Los Angeles]] area who faked his own death to leave that part of his life behind.  Skin was one of four young mutants (including [[M (comics)|M]], [[Husk (comics)|Husk]], and [[Blink (comics)|Blink]]) abducted by the [[Phalanx (comics)|Phalanx]], a techno-organic alien race. The reason behind the abductions was so that the Phalanx could uncover the secret behind their inability to [[Assimilation (biology)|assimilate]] mutants into their collective.  Through their combined efforts and those of [[Banshee (comics)|Banshee]], [[Emma Frost]], [[Sabretooth (comics)|Sabretooth]], [[Synch (comics)|Synch]], and [[Jubilation Lee|Jubilee]], the four young mutants managed to escape their confines; although, Blink sacrificed herself by using her powers to destroy the Phalanx that had captured them.
+
+Afterwards, Skin accepted an invitation to enroll in the [[Massachusetts Academy (comics)|Massachusetts Academy]], a school for mutants owned by Emma Frost. As a member of [[Generation X (comics)|Generation X]], Skin was joined by Synch, Jubilee, Husk, and M (and later by [[Jonothan Starsmore|Chamber]], [[Penance (X-Men)|Penance]], and [[Mondo (comics)|Mondo]]). During his stay at the Massachusetts Academy, Skin developed a crush for fellow student M and became close friends with Chamber because both couldn't pass for normal humans in public. However, he was also hunted by a mutant-killing vigilante known as the [[X-Cutioner]] who believed Skin responsible for the death of Angelo Espinosa. The X-Cutioner did not know that Skin, in fact, ''was'' Angelo Espinosa. Skin and Chamber succeeded in defeating the vigilante, but kept the secret.
+
+After the Academy closed due to the machinations of [[Adrienne Frost]], Skin returned to Los Angeles with Jubilee in tow.  Some time later, Skin and Jubilee, along with [[Magma (comics)|Magma]], [[Bedlam (comics)|Bedlam]], and a handful of other unknown mutants were found [[crucifixion|crucified]] on the lawn of the [[X-Mansion]]. This action was done by the [[Church of Humanity (comics)|Church of Humanity]], a militant, religious anti-mutant organization. [[Warren Worthington III|Archangel]] used his blood's healing properties to revive Jubilee and Magma but neither Bedlam nor Skin survived.
+
+Jubilee, Husk, and Archangel went to visit Skin's grave after Jubilee had recovered only to find that the owner of the [[cemetery]] was about to dig Angelo up and remove him because of his status as a mutant. The girls argued with the foreman, but he insisted that it was against the religious convictions of the cemetery to bury mutants. He offered to [[cremation|cremate]] Angelo's remains and give them to the girls, which he ultimately did.
+
+==Powers and abilities==
+Skin possessed approximately six feet{{clarifyme}} of extra skin.  He was capable of stretching, deforming, wrapping, expanding, and compressing this extra amount of [[epidermis (skin)|epidermis]]. When Skin is performing any of these stunts, it is only the epidermis that was manipulated; Skin's [[skeleton|skeletal structure]] was the same as any normal, average boy of his age and height.  Skin's skin had a greyish tone and, because of the extra amount, gave him the appearance of a melted candle.  At one point, along with compressing his skin tighter against his body, Skin was learning to manipulate the pigment [[melanin]] in his epidermis in order to appear normal.  However, performing these two stunts together caused him to have [[migraine]]s and he soon gave up on the idea of being normal.
+
+==Other versions==
+===Age of Apocalypse===
+In the alternate timeline of the [[Age of Apocalypse]], Skin was featured in ''Generation Next'' as one of the protegés tapped by [[Colossus (comics)#Age of Apocalypse|Colossus]] and [[Alternate versions of Kitty Pryde#Age of Apocalypse|Shadowcat]] to rescue [[Magik (comics)#Age of Apocalypse|Illyana Rasputin]] from enslavement at the [[Sugar Man#Age of Apocalypse|Sugar Man]]'s Core.  Due to their more militant training, Skin was depicted as using his powers in a much more aggressive fashion, including [[impalement|impaling]] opponents with skin protrusions.  He was killed in the subsequent attempt to escape from the Core.
+
+===Ultimate Universe===
+In the [[Ultimate Marvel]] universe, Skin was mentioned to receiving a beating nearly to death from humans by Sunspot.{{issue}}
+
+==In other media==
+* Skin appeared in the made-for-TV [[Generation X (film)|Generation X film]]. In the film, his powers were closer to true elasticity, similar to [[Mister Fantastic]]. However, it caused him pain to use this power.
+* In the film ''[[X2 (film)|X2]]'', his name appears on a list of names [[Mystique (comics)|Mystique]] scrolls through on [[William Stryker|Stryker]]'s computer while looking for [[Magneto (comics)|Magneto]]'s file.
+
+==Controversy==
+* Throughout the issue ''Uncanny X-Men'' #427, Angelo is referred to mistakenly as "Angelo Torres" by author [[Chuck Austen]]. Many fans were upset with this flagrant disregard for the 'deceased'.{{Fact|date=December 2007}}
+
+==External links==
+*[http://www.uncannyxmen.net/db/spotlight/showquestion.asp?faq=10&fldAuto=124 UncannyXmen.net Spotlight On... Skin]
+*[http://uncannyxmen.net/db/characters/showquestion.asp?fldAuto=973 UncannyXmen.net Character Bio-Skin]
+*[http://www.mutanthigh.com/skin.html Mutant High Character Bio-Skin]
+*[http://marvel.com/universe/Skin Skin on the Marvel Universe Character Bio]
+
+[[Category:Fictional characters from California]]
+[[Category:Fictional characters who can stretch themselves]]
+[[Category:Fictional Mexican-Americans]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]]
+
+[[fr:Skin (comics)]]

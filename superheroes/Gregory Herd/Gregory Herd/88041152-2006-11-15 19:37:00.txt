@@ -1,0 +1,36 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:ShadracMarvel.jpg|250px| ]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Shadrac
+|real_name=Gregory Herd
+|publisher=[[Marvel Comics]]
+|debut=Amazing Spider-Man #2 (2nd series) (as Shadrac)
+|creators=[[Todd Delzago]], [[Sal Buscema]], [[Jimmy Palmiotti]]
+|alliance_color=background:#c0c0ff
+|status=At large
+|alliances= 
+|previous_alliances= [[Norman Osborn]], Aura, Dolman, [[Spider-Man]]
+|aliases=Override
+|relatives= Annie (wife)
+|powers= Ability to remotely control any and all electronic devices (as Override), mystical burning fire (as Shadrac)
+|}}
+
+'''Shadrac''' is a supervillain created in the [[Marvel Comics]] main [[Earth-616]] continuity who originally appeared as Shadrac in ''Amazing Spider-Man'' #2 (2nd series).  He was formally known as '''Override'''.
+
+
+==Origin==
+
+As Override, '''Dr. Gregory Herd''' wore a cybernetically enhanced costume that allowed him to control or "override" any other electronic device (including but by no means limited to Spider-Man's web-shooters). Together with his wife (who operated under the name '''Aura'''), he worked as a mercenary for hire. Unfortunately, during the "Spider-Hunt" storyline, in which a massive bounty was placed on Spider-Man's head, Herd's wife was gravely injured and left in medical care. To cover her steadily mounting medical expenses, Override then went to work as one of [[Norman Osborn]]'s costumed employees.
+
+[[Image:OverrideMarvel.jpg|left|Override and Aura.|thumb]]
+
+Desperate for some means to save his wife, Herd agreed to join Osborn's "Gathering of Five" ceremony in order to gain one of five "gifts": power, madness, knowledge, immortality, and death. He'd only joined as a means to find a way to help his injured wife.  However, Herd was the unfortunate recipient of death. In a turn of events, death gave Herd new powers while steadily destroying him over time. He fell under the thumb of a man named Dolman, who originally owned one of the five artifacts used in the Gathering ceremony; an artifact that was stolen by Osborn. Dolman intended to use Herd as a tool to regain what Osborn had stolen. Herd assaulted Osborn Industries but incidentally ran into [[Spider-Man]] (who at the time was portrayed by [[Mattie Franklin]] &mdash; ironically, another member of the Gathering ceremony).
+
+Herd dismissed Franklin with little effort but was later forced to battle the original Spider-Man and [[Iceman (comics)|Iceman]] while trying to tell officials the truth of Dolman tampering with his mind.  He managed to convince Iceman to freeze him entirely in an attempt to stay alive.
+
+==Powers and abilities==
+
+As Shadrac, Herd's entire body was constantly consumed in intense flames which he could manipulate in the form of blasts emitted from his hands or an aura he could expand at will.  It is unknown what high temperatures he could reach, but Shadrac was able to melt metal at the touch of his hands. Originally, he had a mechanical apparatus in his costume that allowed him to override and control electrical and mechanical devices. Due to the Gathering Off The Five ceremony, this has been absorbed into his physiology and can now override emotions as well, but his main power is the mystical flames which are killing him.
+
+[[Category:Spider-Man villains]]

@@ -1,0 +1,36 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=[[image:DoctorPolaris.jpg|225px]]
+|caption=Dr. Polaris
+|comic_color=background:#c0c0ff
+|character_name=Dr. Polaris
+|real_name=Neal Emerson
+|publisher=[[DC Comics]]
+|debut=''Green Lantern'' (2nd series) #21 (June 1962)
+|creators=
+|alliance_color=background:#c0c0ff
+|status=deceased
+|alliances=None
+|previous_alliances=[[Cadre (comics)|Cadre]]
+|aliases=Dr. Emerson
+|relatives=None
+|powers=Generates and controls mangetic energy.
+|}}
+
+'''Dr. Polaris''' is a [[DC Comics]] [[supervillain]], often clashing with [[Green_Lantern#Silver_Age_Green_Lantern_.28Hal_Jordan.29|Green Lantern]] Hal Jordan.
+
+==Background==
+A researcher in [[magnetism]], Dr. Neal Emerson was able to demonstrate his field’s use in [[medicine]], successfully curing many sick people.  Unfortunately, continued exposure to high-level magnetic fields produced a [[Dissociative_identity_disorder|split personality]] — the benevolent Dr. Emerson and the villainous, power-hungry Dr. Polaris.  As Polaris, he embarked on a career of crime, using magnetism to levitate, create force fields, generate concussive blasts, and attract, repel, or manipulate any [[metal]] object.  He came into conflict with the [[Green_Lantern#Silver_Age_Green_Lantern_.28Hal_Jordan.29|Green Lantern]] several times, and most of these battles ended when Jordan was able to coax out the benevolent Emerson personality, thereby ending Polaris's rampages.  Polaris orignially used various technological devices to generate and manipulate magnetic fields, but he later found a way to internalize his magnetic powers, removing his reliance on technological devices but driving him further into insanity.
+
+Over the years, the Polaris and Emerson personalities fought for dominance, until Polaris was approached by the [[demon]] [[Neron]]. Polaris sold Neron Emerson’s [[soul]] in exchange for greater power and being rid of the other, restraining side of his personality.
+
+==The Doctor Checks Out==
+
+{{Spoilers}}
+
+A member of [[Lex Luthor]]'s [[Secret Society of Supervillains]] in ''[[Villains United]]'', Dr. Polaris was one of the villians waiting to ambush the [[Freedom Fighters (comics)|Freedom Fighters]] in a warehouse south of [[Metropolis]] in the begining of ''[[Infinite Crisis]]''. As [[The Human Bomb]] watched his allies be beaten to death, especially when [[Phantom Lady|The Phantom Lady]] was impailed by [[Deathstroke]], he became enraged. Dr. Polaris, unfortunately, made the mistake of taunting the living bomb, and was thus blown into pieces by [[The Human Bomb]]'s explosive rage.
+
+==Other Media==
+In ''[[Justice League Unlimited]]'', Dr. Polaris is seen as a member of the new [[Legion of Doom]] led by [[Gorilla Grodd]]. He and [[Key (comics)|Key]] rescued Lex Luthor from the pursuing cops and brought him to Grodd. He, Lex Luthor, and Key raided the [[Blackhawk (comics)|Blackhawks]] old base and battled [[Hawkgirl]], [[Flash (comics)|Flash]], [[Fire (comics)|Fire]] and a retired Blackhawk and were able to get away by putting the base on self-destruct which was aborted.
+
+[[Category:Green Lantern villains]]
+[[Category:Fictional elementals]]

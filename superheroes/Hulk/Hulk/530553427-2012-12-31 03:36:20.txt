@@ -1,0 +1,695 @@
+{{Redirect|The Hulk||Hulk (disambiguation)}}
+{{redirect|The Incredible Hulk}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+| name = Hulk
+| image = Incredible-hulk-20060221015639117.jpg
+| converted = y
+| caption = Promotional art for "The Incredible Hulk" vol. 3, #92 (April 2006)<br />by [[Bryan Hitch]].
+| publisher = [[Marvel Comics]]
+| debut = ''The Incredible Hulk'' #1 (May [[1962 in comics|1962]]) Dr. Robert Bruce Banner hulk born  July 15, 1921
+| creators =[[Stan Lee]]<br />[[Jack Kirby]]
+| alter_ego =  Robert Bruce Banner
+| species = Human
+| homeworld = Earth
+| alliances = [[Avengers (comics)|Avengers]]<br>[[Fear Itself (comics)|The Worthy]]<br>[[Warbound]]<br>[[Defenders (comics)|Defenders]]<br>[[Pantheon (Marvel Comics)|Pantheon]]<br>[[Hulkbusters]]<br>[[Heroes for Hire]]<br>[[Horsemen of Apocalypse]]<br>[[The Order (comics)|The Order]]<br>[[Fantastic Four|New Fantastic Four]]<br>[[S.H.I.E.L.D.]]
+| aliases = [[Horsemen of Apocalypse|War]], Joe Fixit, Green Scar, World-Breaker, Sakaarson 
+| powers = '''Bruce Banner''':<br> [[Genius]]-level intellect<br>'''Hulk''':<br>[[ Intense superhuman strength]], stamina, agility, endurance, and durability<br>Immunity to diseases & viruses<br>Regenerative healing factor<br>Vast leaping ability<br>Resistance to mind control
+| cat = super
+| subcat = Marvel Comics
+| sortkey = Hulk (comics)
+}}
+The '''Hulk''' is a [[Character (arts)|fictional character]], a [[superhero]] who appears in [[comic book]]s published by [[Marvel Comics]]. Created by [[Stan Lee]] and [[Jack Kirby]], the character first appeared in ''The Incredible Hulk'' #1 ([[cover-date]]d May 1962). He is a gigantic, green, [[irradiated]], [[Mutate (comics)|mutated]] [[humanoid]] [[monster]] with incredible [[Superhuman strength|strength]] and an inability to control his [[anger|rage]]. The Hulk is sometimes characterized as hyper-aggressive and brutal, while at other times as cunning, brilliant, and scheming.  He is often portrayed as an [[antihero]].  The Hulk is cast as the emotional and impulsive alter ego of the withdrawn and reserved [[physicist]] '''Dr. Robert Bruce Banner'''. Banner first transforms into the Hulk shortly after he is accidentally exposed to the blast of a test detonation of a [[gamma ray|gamma]] [[atomic bomb|bomb]] he invented. Subsequently, Banner will involuntarily transform into the Hulk whenever he gets too angry or if his life is in danger, leading to extreme complications in Banner's life.  Lee said the Hulk's creation was inspired by a combination of ''[[Strange Case of Dr Jekyll and Mr Hyde|Dr. Jekyll and Mr. Hyde]]'' and ''[[Frankenstein's monster|Frankenstein]]''.<ref name="HulkTIG">{{Cite book| last=DeFalco | first=Tom | title=The Hulk: The Incredible Guide | publisher=[[DK Publishing]] | date=May 5, 2003 | location=[[London]] | page=200 | isbn=978-0-7894-9260-9}}</ref>
+
+Although the Hulk's coloration has varied throughout the character's publication history, the most consistent shade is green. As the Hulk, Banner is capable of significant feats of strength, the magnitude of which increase in direct proportion to the character's anger. As the character himself puts it, "The madder Hulk gets, the stronger Hulk gets!"  Strong emotions such as anger, terror and grief are also triggers for forcing Banner's transformation into the Hulk. As a child, Banner's father [[Brian Banner]] often got mad and [[domestic violence|physically abused]] his mother, creating the [[complex (psychology)|psychological complex]] of fear, anger, and the fear of anger and the destruction it can cause that underlies the character. A common storyline is the pursuit of both Banner and the Hulk by the U.S. armed forces, because of all the destruction that he causes. He has two main [[catchphrase]]s:  "Hulk is strongest there is!" and the better-known "HULK SMASH!", which has founded the basis for a number of [[pop culture]] [[meme]]s.
+
+The Hulk has been depicted in [[Hulk in other media|various other media]], most notably by [[Bill Bixby]] as Dr. David Banner and [[Lou Ferrigno]] as the Hulk in the live-action [[The Incredible Hulk (TV series)|television series]] and five made-for-television movies, and by [[Eric Bana]], [[Edward Norton]] and later [[Mark Ruffalo]] in the most recent Marvel film adaptations. Other depictions include [[The Incredible Hulk (1996 TV series)|multiple animated series]], through the use of [[computer-generated imagery|CGI]] in ''[[Hulk (film)|Hulk]]'' (2003) and ''[[The Incredible Hulk (film)|The Incredible Hulk]]'' (2008), and various video games. The most recent CGI portrayal is in the 2012 film ''[[The Avengers (2012 film)|The Avengers]]''.
+
+==Publication history==
+
+===Concept and creation===
+The Hulk first appeared in ''The Incredible Hulk'' #1 ([[cover-date]]d May 1962), written by writer-editor Stan Lee, and [[penciller]] and co-plotter Jack Kirby, and [[inker|inked]] by [[Paul Reinman]]. Lee cites influence from ''Frankenstein''<ref name="OyVey"/> and ''Dr. Jekyll and Mr. Hyde'' in the Hulk's creation:
+{{blockquote|"I combined ''Jekyll and Hyde'' with Frankenstein," he explains, "and I got myself the monster I wanted, who was really good, but nobody knew it. He was also somebody who could change from a normal man into a monster, and lo, a legend was born."<ref name="ffwdweekly.com"/> Lee remembers, "I had always loved the old movie ''Frankenstein''. And it seemed to me that the monster, played by [[Boris Karloff]], wasn't really a bad guy. He was the good guy. He didn't want to hurt anybody. It's just those idiots with torches kept running up and down the mountains, chasing him and getting him angry. And I thought, 'Wouldn't it be fun to create a monster and make him the good guy?'<ref name="ffwdweekly.com">[http://www.emanuellevy.com/popculture/incredible-hulk-history-of-a-pop-culture-hero-8/ Incredible history of a pop culture hero], www.emanuellevy.com</ref>}}
+
+Lee also compared Hulk to the [[Golem]] of Jewish myth.<ref name="OyVey"/> In ''The Science of Superheroes'', Gresh and Weinberg see the Hulk as a reaction to the Cold War<ref name=GreshWeinberg/> and the threat of nuclear attack, an interpretation shared by Weinstein in ''[[Up, Up and Oy Vey]]''.<ref name="OyVey"/> This interpretation corresponds well when taken into account alongside other popularized fictional media created during this time period, which took advantage of the prevailing sense among Americans that nuclear power could produce monsters and mutants.<ref name="Poole">Poole, W. Scott. ''Monsters in America: Our Historical Obsession with the Hideous and the Haunting.'' Waco, Texas: Baylor University Press, 2011. ISBN 978-1-60258-314-6.</ref> Kaplan calls Hulk "[[schizophrenic]]."<ref name=Kaplan>{{Cite book| last=Kaplan | first=Arie | title=Masters of the Comic Book Universe Revealed! | publisher=[[Chicago Review Press]] | date=September 1, 2006 | page=58 | location=[[Chicago, Illinois]] | isbn=978-1556526336}}</ref> Jack Kirby has also commented upon his influences in drawing the character, recalling as inspiration the tale of a mother who rescues her child who is trapped beneath a car.<ref>{{cite web| last=Hill | first=Dave | title=Green with anger | date=July 17, 2003 | work=[[The Guardian]] | archiveurl=http://www.webcitation.org/5WXHxoJ2k | archivedate=March 23, 2008}}</ref>
+
+===Debut and first series===
+[[Image:Hulk1.jpg|thumb|left|''The Incredible Hulk'' #1 (May 1962). Cover art by [[Jack Kirby]] and [[Paul Reinman]].]]
+In the debut, Lee chose gray for the Hulk because he wanted a color that did not suggest any particular ethnic group.<ref name="CBG">''[[Comics Buyer's Guide]]'' #1617 (June 2006)</ref> Colorist [[Stan Goldberg]], however, had problems with the gray coloring, resulting in different shades of gray, and even green, in the issue. After seeing the first published issue, Lee chose to change the skin color to green.<ref>''[[Starlog]]'' #213 (July 2003)</ref> Green was used in retellings of the origin, with even reprints of the original story being recolored for the next two decades, until ''The Incredible Hulk'' vol. 2, #302 (December 1984) reintroduced the gray Hulk in flashbacks set close to the origin story. Since then, reprints of the first issue have displayed the original gray coloring, with the fictional canon specifying that the Hulk's skin had initially been gray. [An exception is the early trade paperback, ''Origins of Marvel Comics'', from 1974, which explains the difficulties in keeping the gray color consistent in a Stan Lee written prologue, and reprints the origin story keeping the gray coloration.]
+
+The original series was canceled with issue #6 (March 1963). Lee had written each story, with Kirby penciling the first five issues and [[Steve Ditko]] penciling and inking the sixth. The character immediately guest-starred in ''[[Fantastic Four|The Fantastic Four]]'' #12<!-- "The" part of cover logo through issue #15 --> (March 1963), and months later became a founding member of the superhero team the [[Avengers (comics)|Avengers]], appearing in the first two issues of the team's eponymous series (Sept. & Nov. 1963), and returning as an antagonist in issue #3 and as an ally in #5 (Jan.–May 1964). He then guest-starred in ''Fantastic Four'' #25–26 (April–May 1964), which revealed Banner's full name as "Robert Bruce Banner," and ''[[The Amazing Spider-Man]]'' #14 (July 1964).
+
+Around this time, co-creator Kirby received a letter from a college dormitory stating the Hulk had been chosen as its official mascot.<ref name="OyVey"/> Kirby and Lee realized their character had found an audience in college-age readers.
+
+===''Tales to Astonish''===
+[[Image:Talestoastonish60.jpg|''[[Tales to Astonish]]'' #60 (Oct. 1964). Cover art by Jack Kirby and [[Sol Brodsky]].|thumb]]
+A year and a half after the series was canceled, the Hulk became one of two features in ''[[Tales to Astonish]]'', beginning in issue #60 (Oct. 1964). In the previous issue, he had appeared as an antagonist for [[Henry Pym|Giant-Man]], whose feature under various superhero guises had run in the title since issue #35. This phase also introduced the concept of Banner's transformations being caused by extreme emotional stress, which would become central to the character's status as an iconic figure of runaway emotion. It was also during this time that the Hulk developed a more savage and childlike personality, shifting from the brutish figure who spoke in complete sentences.
+
+This new Hulk feature was initially scripted by writer-editor Lee and illustrated by the team of penciller [[Steve Ditko]] and [[inker]] [[George Roussos]]. Other artists later in this run included [[Jack Kirby]] from #68–87 (June 1965 – Oct. 1966), doing full pencils or, more often, layouts for other artists; [[Gil Kane]], credited as "Scott Edwards", in #76 (February 1966), his first Marvel Comics work; [[Bill Everett]] inking Kirby in #78–84 (April–Oct. 1966); and [[John Buscema]] penciling Kirby's layouts in #85-87. The ''Tales to Astonish'' run introduced the super-villains the [[Leader (comics)|Leader]],<ref name="HulkTIG"/> who would become the Hulk's archnemesis, and the [[Abomination (comics)|Abomination]], another gamma-irradiated being.<ref name="HulkTIG"/> In issue #77 (March 1966), Bruce Banner's and the Hulk's dual identity became publicly known, thus making Banner often a wanted fugitive from the authorities. [[Marie Severin]] finished out the Hulk's run in ''Tales to Astonish''. Beginning with issue #102 (April 1968) the book was retitled ''The Incredible Hulk'' vol. 2, and ran until March 1999, when Marvel canceled the series and restarted the title with a new issue #1.
+
+===1970s===
+''The Incredible Hulk'' vol. 2 was published through the 1970s, and the character also made guest appearances in other titles. Writers introduced Banner’s cousin Jennifer Walters, the [[She-Hulk]], in a title of her own. In the first issue of the ''She-Hulk'' comic, Banner gave some of his blood to Walters in a transfusion. She seemed fine at first, but when she later suffered stress it caused a transformation into the She-Hulk. Unlike her cousin, she maintained her intellect and personality, although her inhibitions were noticeably lowered. She later appeared in the ''Hulk'' comic proper, as well as other Marvel titles. Banner’s guilt about causing her change became another part of his character, although Jennifer grew to prefer her She-Hulk state.
+
+Writers changed numerous times during the decade. At times, the creative staff included [[Archie Goodwin (comics)|Archie Goodwin]], [[Chris Claremont]], and [[Tony Isabella]], Len Wein handled many of the stories through the 1970s, working first with [[Herb Trimpe]], then, in 1975, with [[Sal Buscema]], who was the regular artist for ten years. [[Harlan Ellison]] plotted a story, scripted by [[Roy Thomas]], for issue #140 (June 1971), "The Brute that Shouted Love at the Heart of the Atom". Issues #180–181 (Oct.–Nov. 1974) introduced the character [[Wolverine (comics)|Wolverine]], who would go on to become one of Marvel Comics' most popular.
+
+In 1977, Marvel (under its [[Curtis Magazines]] imprint) launched a second title, ''[[Rampaging Hulk|The Rampaging Hulk]]'', a black-and-white comics magazine.<ref name="HulkTIG"/> Originally, the series was conceived as a flashback series, set between the end of his original, short-lived solo title and the beginning of his feature in ''Tales to Astonish''.<ref>{{Cite comic | writer=Warner, John | story=The Rampaging Editorial | title=The Rampaging Hulk | issue=1 |date = Jan. 1977| pages=40–41 | publisher=Marvel Comics}}</ref> After nine issues, the magazine was retitled ''The Hulk!'' and printed in full color. Near the end of the magazine's run, it went back to black-and-white.<ref>{{gcdb series|id=2455|title=''The Hulk!''}}</ref> Back-up features included ''[[Ulysses Bloodstone|Bloodstone]]'', ''[[Man-Thing]]'', and ''[[Shanna the She-Devil]]'' during the ''Rampaging Hulk'' issues, and later ''[[Moon Knight]]'' and ''[[Dominic Fortune]]''.
+
+===1980s and 1990s===
+Following [[Roger Stern]], [[Bill Mantlo]] took over the writing with issue #245 (March 1980). His "Crossroads of Eternity" stories, which ran through issues #300–313 (Oct. 1984 – Nov.1985), explored the idea that Banner had suffered [[child abuse]]. [[Greg Pak]], a later writer on ''The Incredible Hulk'' vol. 2, called Mantlo's "Crossroads" stories one of his biggest influences on approaching the character.<ref>{{cite web| last=Taylor | first=Robert | title=Greg Goes Wild on Planet Pak | work=[[Wizard (magazine)|Wizard]] | publisher=Wizard Entertainment Group | date=August 3, 2006 | url=http://www.wizarduniverse.com/magazine/wizard/001199809.cfm | accessdate=November 15, 2007 |archiveurl = http://web.archive.org/web/20070402044123/http://www.wizarduniverse.com/magazine/wizard/001199809.cfm |archivedate = April 2, 2007}}</ref> After five years, Mantlo and artist [[Mike Mignola]] left the title for ''[[Alpha Flight]]'',<ref>{{cite web| last=Serwin | first=Andy | title=The Wizard Retrospective: Mike Mignola | work=[[Wizard (magazine)|Wizard]] | publisher=Wizard Entertainment Group | date=July 23, 2007 | url=http://www.wizarduniverse.com/magazine/wizard/005255245.cfm | accessdate=November 13, 2007 |archiveurl = http://web.archive.org/web/20080120105210/http://www.wizarduniverse.com/magazine/wizard/005255245.cfm |archivedate = January 20, 2008}}</ref> and ''Alpha Flight'' writer [[John Byrne (comics)|John Byrne]] took over the series and left it after six issues, claiming, "I took on the Hulk after a discussion with editor-in-chief [[Jim Shooter]], in which I mentioned some of the things I would like to do with that character, given the chance. He told me to do whatever was necessary to get on the book, he liked my ideas so much. I did, and once installed he immediately changed his mind - 'You can't do this!' Six issues was as much as I could take."<ref>{{cite web| url=http://www.comicbookresources.com/news/newsitem.cgi?id=190 | title=John Byrne: The Hidden Answers | last=Thomas | first=Michael | date=August 22, 2000 | publisher=Comic Book Resources | accessdate=November 5, 2007}}. [http://www.webcitation.org/5ynb1RHsy WebCitation archive].</ref> Byrne was followed briefly by [[Al Milgrom]], before new regular writer [[Peter David]] took over.
+
+David became the writer of the series with issue #331 (May 1987), marking the start of a 12-year tenure. David's run altered Banner's pre-Hulk characterization and the nature of the relationship between Banner and the Hulk. David returned to the Stern and Mantlo abuse storyline, expanding the damage caused, and depicting Banner as suffering [[dissociative identity disorder|dissociative identity disorder (DID)]]. David's stories showed that Banner had serious mental problems long before he became the Hulk. David revamped the personality significantly, giving the gray Hulk the alias "Joe Fixit," and setting him up as a morally ambiguous [[Las Vegas Valley|Las Vegas]] enforcer and tough guy. David worked with numerous artists over his run on the series, including [[Dale Keown]], [[Todd McFarlane]], [[Sam Kieth]], [[Gary Frank]], [[Liam Sharp]], [[Terry Dodson]], [[Mike Deodato]], [[George Pérez]], and [[Adam Kubert]].<ref name="HulkTIG"/>
+
+In issue #377 (Jan. 1991), David revamped the Hulk again, using a storyline involving hypnosis to have the splintered personalities of Banner, Joe Fixit and the savage green Hulk synthesize into a new Hulk, who has the vast power of the Savage Hulk, the cunning of the gray Hulk, and the intelligence of Bruce Banner.
+
+In the 1993 ''Future Imperfect'' [[miniseries]], writer David and penciller George Pérez introduced readers to the Hulk of a [[dystopia]]n future. Calling himself the [[Maestro (comics)|Maestro]], the Hulk rules over a world where most of the heroes have been killed, and only Rick Jones and a small band of rebels fight against the Maestro’s rule. Although the Maestro seemed to be destroyed by the end, he returned in ''The Incredible Hulk'' vol. 2, #460 (Jan. 1998), also written by David.
+
+In 1998, David followed editor Bobbie Chase's suggestion to kill Betty Ross. In the introduction to the Hulk trade paperback ''Beauty and the Behemoth'', David said that his wife had recently left him, providing inspiration for the storyline. Marvel executives used Ross' death as an opportunity to push the idea of bringing back the Savage Hulk. David disagreed, leading to his parting ways with Marvel.<ref>{{Cite news| last=Radford | first=Bill | page=L4 | date=February 21, 1999 | publisher=[[The Gazette (Colorado Springs)|The Gazette]] | title=Marvel's not-so-jolly green giant gets a fresh start and a new team}}</ref> His last issue of ''Hulk'' was #467 (Aug. 1998), his 137th.
+
+Also in 1998, Marvel relaunched ''The Rampaging Hulk'' as a standard comic book rather than as a comics magazine.<ref name="HulkTIG"/>
+
+===Relaunch===
+Following David's departure, [[Joe Casey]] took over as writer until the series' relaunch after issue #474 (March 1999). ''Hulk'' vol. 1<ref>[http://www.maelmill-insi.de/UHBMCC/HULK3.HTM#S40 The Unofficial Handbook of Marvel Comics Creators: ''Hulk'' (II) (1999–2000)]</ref> began immediately the following month, scripted by John Byrne and penciled by [[Ron Garney]]. In particular, the 1999 ''Hulk Annual'' (which [[retcon]]ned the Skrulls as being responsible for the gamma bomb explosion that turned Banner into Hulk) was mocked in the pages of Peter David's ''[[Captain Marvel (Marvel Comics)|Captain Marvel]]'' series,<ref>[http://goodcomics.comicbookresources.com/2011/10/07/meta-messages-peter-david-has-some-fun-with-hulk-chapter-one/ Meta-Messages – Peter David Has Some Fun With Hulk: Chapter One]</ref> published concurrently as Byrne's Hulk run.
+
+[[Erik Larsen]] and [[Jerry Ordway]] briefly took over scripting, and the title returned to ''The Incredible Hulk'' vol. 3<ref>[http://www.maelmill-insi.de/UHBMCC/HULK4.HTM#S42 The Unofficial Handbook of Marvel Comics Creators: ''Incredible Hulk'' (III) (2000–2008)]</ref> with the arrival of [[Paul Jenkins (writer)|Paul Jenkins]] in issue #12 (March 2000). Jenkins wrote a story arc in which Banner and the three Hulks (Savage Hulk, gray Hulk, and the Merged Hulk, now considered a separate personality and referred to as the Professor) are able to mentally interact with one another, each personality taking over the shared body. During this, the four personalities (including Banner) confronted yet another submerged personality, a sadistic "Devil" intent on attacking the world for revenge.<ref name="HV3:13">''The Incredible Hulk'' vol. 3, #13 (April 2000)</ref>
+
+[[Bruce Jones (comics)|Bruce Jones]] followed as the series' writer, and his run features Banner using [[yoga]] to take control of the Hulk while he is pursued by a secret conspiracy and aided by the mysterious Mr. Blue. Jones appended his 43-issue ''Incredible Hulk'' run with the [[limited series]] ''Hulk/Thing: Hard Knocks'' #1–4 (November 2004 – February 2005), which Marvel published after putting the ongoing series on hiatus.
+
+Peter David, who had initially signed a contract for the six-issue ''Tempest Fugit'' limited series, returned as writer when it was decided to make the story, now only five parts, part of the ongoing series instead.<ref>{{cite web| url=http://peterdavid.malibulist.com/archives/2004_09.html | title=Slight change of plan with ''Hulk'' | date=September 30, 2004 | publisher=PeterDavid.net | accessdate=November 5, 2007 |archiveurl = http://web.archive.org/web/20071025033916/http://peterdavid.malibulist.com/archives/2004_09.html |archivedate = October 25, 2007}}</ref> David contracted to complete a year on the title. ''Tempest Fugit'' revealed that [[Nightmare (Marvel Comics)|Nightmare]] has manipulated the Hulk for years, tormenting him in various ways for "inconveniences" that the Hulk had caused him, including the sadistic Hulk Jenkins had introduced. It also implied that some or all of the recent storylines by Bruce Jones may have been just illusion.<ref>''The Incredible Hulk'' vol. 3, #81 (July 2005)</ref> After a four-part tie-in to the ''[[House of M]]'' [[fictional crossover|crossover]] and a one-issue [[epilogue]], David left the series once more, citing the need to do non-Hulk work for the sake of his career.<ref>{{cite web| url=http://www.comicboards.com/hulk/view.php?trd=050718024904 | title=My leaving ''Hulk'' | last=David | first=Peter | date=July 18, 2005 | publisher=The Incredible Hulk Message Board | accessdate=August 28, 2005}}</ref>
+
+===Planet Hulk and World War Hulk===
+{{Main|Planet Hulk}}
+{{Main|World War Hulk}}
+
+In the 2006 crossover storyline ''Planet Hulk'' by writer Greg Pak, a secret group of superhero leaders, the [[Illuminati (comics)|Illuminati]], consider the Hulk an unacceptable potential risk to Earth, and rocket him into space to live a peaceful existence on a planet uninhabited by intelligent life. After a trajectory malfunction, the Hulk crashes on the violent planet Sakaar, where he rises from a captured [[gladiator]] to rebel leader, then usurps Sakaar's throne, becoming the new emperor. This story was followed by ''World War Hulk'', also written by Pak, and drawn by [[John Romita, Jr.]], in which the vessel used to send the Hulk to Sakaar explodes, killing millions, including the Hulk's pregnant queen, [[Caiera]], and damages the [[plate tectonics|tectonic plates]], nearly destroying the planet. Enraged, the Hulk returns to Earth with Sakaar's citizens and his allies, the [[Warbound]], for retribution against the Illuminati. After laying siege to [[Manhattan]], the Hulk learns one of his allies allowed the explosion to happen when Red King troops planted the bomb. He reverts to his Bruce Banner form after a fight with the [[Sentry (Robert Reynolds)|Sentry]] and is taken into [[S.H.I.E.L.D.]] custody.
+
+===Retitling and new ''Hulk'' series===
+As of issue #113 (February 2008), the series was retitled ''[[The Incredible Hercules]]'', still written by Greg Pak but starring the [[mythology|mythological]] [[demigod]] [[Hercules (Marvel Comics)|Hercules]] and teenage genius [[Amadeus Cho]].
+
+Marvel also launched a new volume of ''Hulk'', (volume 2) written by [[Jeph Loeb]] and drawn by [[Ed McGuinness]]. The series featured the debut of a new [[Red Hulk]], and Banner emerging from a coma and resuming his changes into the Green Hulk. After issue #12, ''The Incredible Hulk'' #600 was released, in which Red Hulk absorbs Hulk's radiation and claims Banner can never turn into the Hulk again. The series then continued with issue #13, with Banner questioning whether he should be glad that Hulk is gone or even if the Hulk is truly gone. ''The Incredible Hulk'' also continued with #601 onward, in which Banner seeks out his son [[Skaar]], offering to train him to kill the Hulk in the eventuality of the Hulk's return. Under the aegis of megalomaniac [[Green Goblin|Norman Osborn]], Banner is re-exposed to gamma radiation, re-initiating the radiation in his body, thus allowing Banner to turn into the Hulk once more. Osborn explains he wants the Hulk to return, taking Banner out of the equation, and having him fight Skaar, hopefully killing each other.
+
+In the company crossover story arc "Fall of the Hulks", beginning December 2009, Banner allies himself with the Red Hulk, revealed as a former agent of the supervillain group [[Intelligencia (comics)|Intelligencia]],<ref>''Fall of the Hulks: Gamma''</ref> and, in fact, General [[Thunderbolt Ross]] (the one Banner had killed was a [[Life Model Decoy]]).<ref name=HulkV2#22>{{Cite comic | writer=Jeph Loeb | penciller=Ed McGuinness | inker=[[Mark Farmer]] | story=Dogs of War | title=Hulk | volume=2 | issue=23 |date = July 2010| publisher=Marvel Comics}}</ref> In the concurrent "Hulked Out Heroes" arc, writer [[Jeff Parker (comics)|Jeff Parker]] has the Intelligencia irradiate several heroes, turning them into destructive Hulk versions of themselves until they are cured.
+
+In the since-retitled ''The Incredible Hulks'' #612, Banner tries to rekindle his marriage with [[Betty Ross]], who is now the Red She-Hulk. Bruce and Betty resume their romantic relationship after defeating [[Fin Fang Foom]].<ref>''Incredible Hulks'' #636</ref>
+
+''The Incredible Hulk'' vol. 4 began in October 2011, written by [[Jason Aaron]] and drawn by [[Marc Silvestri]]. At the start of this new series, Hulk and Banner have somehow become separate entities. The Hulk has been living as a hunter for an underground tribe of Moloids in [[Subterranea (comics)|Subterranea]] while Banner has become a deranged scientist living on an island and conducting experiments to try to re-trigger his transformations into the Hulk. When Hulk works with the MAD Squad to stop Bruce Banner, a flashback reveals that [[Doctor Doom]] was responsible for performing different surgeries that separated Hulk from Bruce Banner. The storyline concludes with Banner being destroyed in the blast from his new gamma bomb, but the Hulk's close proximity to Banner when the explosion occurred resulted in Hulk and Banner becoming one being once more, with their previous existence reversed; now Hulk is the 'dominant' personality, reverting into the criminally insane Banner when he becomes too calm.<ref>''Incredible Hulk'' vol 4 #7.1</ref> It soon turns out that Bruce Banner has been using Hulk into gathering components for him as Bruce Banner has found a way to cure himself of the Hulk, but informs the Hulk via video that he has decided not to use the cure as he has accepted that the Hulk made him a better person than he would have been if he had remained himself, the two accepting their joint destiny as they prepare to move against Doctor Doom's latest plan.<ref>''Incredible Hulk'' vol 4 #8-13</ref>
+
+During the ''[[Avengers vs. X-Men]]'' storyline, Captain America finds Hulk in Colorado and asks for his help to fight a [[Phoenix Force (comics)|Phoenix Force]]-empowered [[Cyclops (comics)|Cyclops]] and [[Emma Frost]]. Hulk accepts and joins up with the Avengers, Captain America noting that, despite his complicated relationship with the team, he has always been there when the crisis is large enough. During the battle, Hulk manages to take down Emma Frost. After Cyclops killed [[Professor X]], Hulk and Wolverine unsuccessfully attempt a fastball special against him.<ref>''Avengers vs. X-Men'' #11</ref>
+
+After ''Avengers vs. X-Men'', Marvel announced a new initiative titled [[Marvel NOW!]] and with it also announced a new Hulk title called ''[[Indestructible Hulk]]'' by [[Mark Waid]] and [[Leinil Yu]]. The beginning of the series picks up a few weeks after the events of Jason Aaron's ''[[Incredible Hulk]]''. Waid said, "No one's seen Hulk or Banner for a few weeks, which has the Avengers and [[S.H.I.E.L.D.]] really nervous. S.H.I.E.L.D., in particular, has gone to great lengths in recent years to make absolutely certain that it's impossible for Banner to stay off the grid for any length of time—and yet, he's vanished. And this literally affects the entire planet. Every country is on the equivalent of orange alert. Airport security is a nightmare.  World leaders are ready to bunker down at a moment's notice. Surveillance cameras are selling faster than they can be manufactured. Everyone's tense. [[Maria Hill]], in particular, has taken “Finding Banner” as her own personal mission.<ref name="Hulk">{{cite web |url=http://marvel.com/news/story/19195/marvel_now_qa_indestructible_hulk |title=Marvel NOW! Q&A: Indestructible Hulk |last= |first= |date=8 August 2012 |publisher=Marvel.com |accessdate=10 November 2012}}</ref>
+
+==Characterization==
+
+===Bruce Banner===
+The core of the Hulk, Bruce Banner has been portrayed differently by different writers, but common themes persist. Banner, a [[physicist]] educated at [[The Pennsylvania State University]], is sarcastic and seemingly very self-assured when he first appears in Incredible Hulk #1, but is also emotionally withdrawn in most fashions.<ref name="HulkTIG"/> Banner designed the gamma bomb which caused his affliction, and the ironic twist of his self-inflicted fate has been one of the most persistent common themes.<ref name="OyVey"/> Arie Kaplan describes the character thus: "Bruce Banner lives in a constant state of panic, always wary that the monster inside him will erupt, and therefore he can’t form meaningful bonds with anyone."<ref name="Kaplan"/> 
+
+Throughout the Hulk's published history, writers have continued to frame Bruce Banner in these themes. Under different writers, his fractured personality led to transformations into different versions of the Hulk. These transformations are usually involuntary, and often writers have tied the transformation to emotional triggers, such as rage and fear. As the series has progressed, different writers have adapted the Hulk, changing Hulk's personality to reflect changes in Banner's physiology or psyche. Writers have also refined and changed some aspects of Banner's personality, showing him as emotionally repressed, but capable of deep love for Betty Ross, and for solving problems posed to him. Under the writing of Paul Jenkins, Banner was shown to be a capable fugitive, applying deductive reasoning and observation to figure out the events transpiring around him. On the occasions that Banner has controlled the Hulk's body, he has applied principles of physics to problems and challenges and used deductive reasoning. It was shown after his ability to turn into the Hulk was taken away by [[Thunderbolt_Ross#Red_Hulk|the Red Hulk]] that Banner has been extremely versatile as well as cunning when dealing with the many situations that followed. When he was briefly separated from the Hulk by Doom, Banner became criminally insane, driven by his desire to regain the power of the Hulk, but once the two recombined he came to accept that he was a better person with the Hulk to provide something for him to focus on controlling rather than allowing his intellect to run without restraint against the world.<ref>''The Incredible Hulk'' vol. 4, #13 '''date?'''</ref>
+
+===The Hulk===
+During the experimental detonation of a gamma bomb, scientist Bruce Banner rushes to save a teenager who has driven onto the testing field. Pushing the teen, [[Rick Jones (comics)|Rick Jones]], into a trench, Banner himself is caught in the blast, absorbing massive amounts of radiation. He awakens later in an infirmary, seeming relatively unscathed, but that night transforms into a lumbering gray form that breaks through the wall and escapes. A soldier in the ensuing search party dubs the otherwise unidentified creature a "hulk".<ref name=Hulk1>''The Incredible Hulk'' #1 (May 1962). p. 8.</ref>
+
+The original version of the Hulk was often shown as simple and quick to anger. His first transformations were triggered by sundown, and his return to Banner by dawn. However, in ''The Incredible Hulk'' #4, Banner started using a gamma-ray device to transform at will.<ref name=Hulk4>''The Incredible Hulk'' #4 (Nov. 1962)</ref> In more recent Hulk stories, emotions trigger the change. Although gray in his debut, difficulties for the printer led to a change in his color to green. In the original tale, the Hulk divorces his identity from Banner’s, decrying Banner as "that puny weakling in the picture."<ref name=Hulk1/> From his earliest stories, the Hulk has been concerned with finding sanctuary and quiet<ref name="OyVey"/> and often is shown reacting emotionally to situations quickly. Grest and Weinberg call Hulk the "dark, primordial side of [Banner's] psyche."<ref name=GreshWeinberg>{{Cite book| last=Gresh | first=Lois | coauthors=Robert Weinberg | title=The Science of Superheroes | publisher=[[John Wiley & Sons]] | date=September 29, 2003 | location=[[Hoboken, New Jersey]] | isbn=978-0-471-46882-0}}{{Page needed|date=September 2010}}<!-- page=200 | page=27 Again, which is it?? --></ref> Even in the earliest appearances, Hulk spoke in the third person. The Hulk retains a modest intelligence, thinking and talking in full sentences, and Lee even gives the Hulk expository dialogue in issue six, allowing readers to learn just what capabilities the Hulk has, when the Hulk says, "But these muscles ain't just for show! All I gotta do is spring up and just keep goin'!" In ''Marvel: Five Fabulous Decades of the World's Greatest Comics'', Les Daniels addresses the Hulk as an embodiment of cultural fears of radiation and nuclear science. He quotes Jack Kirby thus: "As long as we're experimenting with radioactivity, there's no telling what may happen, or how much our advancements may cost us." Daniels continues, "The Hulk became Marvel's most disturbing embodiment of the perils inherent in the [[Atomic Age|atomic age]]."<ref name=DanielsMarvel>{{Cite book| last=Daniels | first=Les | title=Marvel: Five Fabulous Decades of the World's Greatest Comics | publisher=[[Abrams Books]] | date=September 25, 1993 | location=[[New York]] | page=287 | isbn=978-0-8109-2566-3}}</ref>
+
+Though usually a loner, the Hulk helped to form both the [[Avengers (comics)|Avengers]]<ref>''Avengers'' #1–2</ref> and the [[Defenders (comics)|Defenders]].<ref>''Marvel Feature'' #1–3 (Dec. 1971 – June 1972)</ref> He was able to determine that the changes were now triggered by emotional stress.<ref>''Tales to Astonish'' #60</ref>
+
+''The Fantastic Four'' #12<!-- "The" part of cover logo through issue #15 --> (March 1963), featured the Hulk's first battle with the [[Thing (comics)|Thing]]. Although many early Hulk stories involve [[Thunderbolt Ross|General Thaddeus "Thunderbolt" Ross]] trying to capture or destroy the Hulk, the main villain is often, like Hulk, a radiation-based character, like the [[Gargoyle (comics)#Gargoyle (Yuri Topolov)|Gargoyle]] or the Leader, along with other foes such as the [[Toad Men]], or Asian warlord General Fang. Ross' daughter, Betty, loves Banner and criticizes her father for pursuing the Hulk. General Ross' right-hand man, [[Glenn Talbot|Major Glenn Talbot]], also loves Betty and is torn between pursuing the Hulk and trying to gain Betty's love more honorably. Rick Jones serves as the Hulk's friend and sidekick in these early tales.
+
+In the 1970s, Hulk was shown as more prone to anger and rage, and less talkative. Writers played with the nature of his transformations,<ref name="Nation">{{Cite book| title=Comic Book Nation | last=Wright | first=Bradford | date=March 22, 2001 | publisher=[[Johns Hopkins University Press]] | location=Baltimore, Maryland | isbn=978-0-8018-6514-5 | page=336}}</ref> briefly giving Banner control over the change, and the ability to maintain control of his Hulk form.
+
+Hulk stories began to involve other dimensions, and in one, Hulk met the empress [[Jarella]]. Jarella used magic to bring Banner’s intelligence to Hulk, and came to love him, asking him to become her mate. Though Hulk returned to Earth before he could become her king, he would return to Jarella's kingdom of [[K'ai]] again.
+
+When Bill Mantlo took on writing duties, he led the character into the arena of political commentary when Hulk traveled to [[Tel Aviv]], [[Israel]], encountering both the violence of the [[Israeli–Palestinian conflict]], and the Jewish Israeli heroine [[Sabra (comics)|Sabra]]. Soon after, Hulk encountered the [[Arabian Knight (comics)#Abdul Qamar|Arabian Knight]], a [[Bedouin]] superhero.<ref name="OyVey">{{Cite book| last=Weinstein | first=Simcha | title=Up, Up, and Oy Vey! | publisher=Leviathan Press | date=June 19, 2006 | location=[[Baltimore, Maryland]] | pages=82–97 | isbn=978-1-881927-32-7}}</ref>
+
+Under Mantlo's writing, a mindless Hulk was sent to the "Crossroads of Eternity", where Banner was revealed to have suffered childhood traumas which engendered Bruce's repressed rage.<ref>''The Incredible Hulk'' vol. 2, #312 '''date?'''</ref>
+
+Having come to terms with his issues, at least for a time, Hulk and Banner physically separated under John Byrne's writing. Separated from the Hulk by [[Doc Samson]],<ref>''The Incredible Hulk'' vol. 2, #315 '''date?'''</ref> Banner was recruited by the [[U.S. government]] to create the [[Hulkbusters]], a government team dedicated to catching Hulk. Banner and Ross married,<ref>''The Incredible Hulk'' vol. 2, #319 '''date?'''</ref> but Byrne's change in the character was reversed by Al Milgrom, who reunited the two personas,<ref>''The Incredible Hulk'' vol. 2, #323</ref> and with issue #324, returned the Hulk to his gray coloration, with the changes occurring at night, regardless of Banner's emotional state. The Hulk appeared to perish in a gamma bomb explosion, but was instead sent to Jarella's home dimension of K'ai.
+
+Shortly after returning to Earth, Hulk took on the identity of "Joe Fixit," a shadowy behind the scenes figure, working in Las Vegas on behalf of a casino owner, Michael Berengetti.<ref>''The Incredible Hulk'' vol. 2, #347 '''date?'''</ref> For months, Banner was repressed in Hulk’s mind, but slowly began to reappear. Hulk and Banner began to change back and forth again at dusk and dawn, as the character initially had, but this time, they worked together to advance both their goals, using written notes as communication as well as meeting on a mental plane to have conversations. In ''The Incredible Hulk'' #333, the Leader describes the gray Hulk persona as strongest during the night of the new moon and weakest during the full moon. Eventually, the Green Hulk began to reemerge.<ref>''The Incredible Hulk'' vol. 2, #372 '''date?'''</ref>
+
+In issue #377, David revamped the Hulk again; [[Doc Samson|Doctor Leonard Samson]] engages the [[Ringmaster (comics)|Ringmaster]]'s services to hypnotize Bruce Banner and force him, the Savage Hulk (Green Hulk) and Mr. Fixit (Gray Hulk) to confront Banner's past abuse at the hands of his father [[Brian Banner]]. During the session, the three identities confront a "Guilt Hulk," which sadistically torments the three with the abuse of Banner’s father. Facing down this abuse, a new larger and smarter Hulk emerges and completely replaces the "human" Bruce Banner and Hulk personae. This Hulk is a culmination of the three aspects of Banner. He has the vast power of the Savage Hulk, the cunning of the gray Hulk, and the intelligence of Bruce Banner.
+
+[[Image:Hulk FutureImperfect2.jpg|thumb|right|''Hulk: Future Imperfect'' #2 (Jan. 1993) depicting the [[Maestro (comics)|Maestro]]. Cover art by [[George Pérez]].]]
+Peter David then introduces the Hulk to the [[Pantheon (Marvel Comics)|Pantheon]], a secretive organization built around an extended family of superpowered people.<ref>''The Incredible Hulk'' vol. 2, #382</ref> The family members, mostly distant cousins to each other, had codenames based in the mythos of the [[Trojan War]], and were descendants of the founder of the group, [[Agamemnon (comics)|Agamemnon]]. When Agamemnon leaves, he puts the Hulk in charge of the organization. The storyline ends when it is revealed Agamemnon has traded his offspring to an alien race to gain power. The Hulk leads the Pantheon against the aliens, and then moves on. During his leadership of the Pantheon, Hulk encounters a depraved version of himself from the future called Maestro, who Delphi saw in a vision back in ''The Incredible Hulk'' vol. 2, #401 with part of the events occurring concurrently in ''The Incredible Hulk'' vol. 2, #415.
+
+Thrown into the future, Hulk finds himself allied with Rick Jones, now an old man, in an effort to destroy the tyrant Maestro. Unable to stop him in any other manner, Hulk uses the time machine that brought him to the future to send the Maestro back into the heart of the very Gamma Bomb test that spawned the Hulk.
+
+Artistically, the character has been depicted as progressively more muscular in the years since his debut.<ref>{{cite web| last=Randerson | first=James | title=Superman copycats 'risk health' | work=The Guardian | date=May 17, 2006 | archiveurl=http://www.webcitation.org/5WXIXicrd | archivedate=March 23, 2008}}</ref>
+
+==Powers, appearance, and abilities==
+The Hulk possesses the potential for limitless physical strength depending directly on his emotional state, particularly his anger.<ref>''The Incredible Hulk'' vol. 3, #109–111 (Oct.–Dec. 2007)</ref> This has been reflected in the repeated comment, "The madder Hulk gets, the stronger Hulk gets." After probing, the entity [[Beyonder]] once claimed that the Hulk's potential strength had "no finite element inside."<ref>''Secret Wars'' vol. 2, #8 '''date?'''</ref> His durability, regeneration, and endurance also increase in proportion to his temper.<ref>''The Incredible Hulk'' vol. 2, #394 (June 1994)</ref> Greg Pak described the Worldbreaker Hulk shown during ''World War Hulk'' as having a level of physical power where "Hulk was stronger than any mortal—and most immortals—who ever walked the Earth."<ref>{{cite web| url=http://www.brokenfrontier.com/columns/p/detail/hulk-skaar-hercules | title=Hulk, Skaar & Hercules | publisher=Broken Frontier | accessdate=April 27, 2010}}</ref>
+
+The Hulk's level of strength is normally limited by Banner's subconscious influence. When Hulk allowed [[Jean Grey]] to psionically "shut Banner off", he reached a scale of power on which he managed to overpower and destroy the physical form of the villain [[Onslaught (comics)|Onslaught]].<ref>''Onslaught: Marvel Universe'' #1 (1996); ''Heroes Return'' #1-4 (1997)</ref>
+
+The Hulk is resistant to most forms of injury or damage. The extent varies between interpretations, but he has withstood the equivalent of solar temperatures,<ref>''Fantastic Four'' #435 (2006); ''World War Hulk'' #2 (2007); ''Incredible Hulk'' Annual 1997</ref> nuclear explosions,<ref>''The Incredible Hulk'' (vol. 2) #440 (April 1996); ''Fantastic Four'' #433 (2006); ''The Incredible Hulk'' vol. 3, #105 (June 2007)</ref> and planet-shattering impacts.<ref>''Marvel Comics Presents'' #52; ''Silver Surfer'' vol. 2, #125; ''Iron Man'' vol. 2, #19 (2007)</ref> Despite his remarkable resiliency, continuous barrages of high-caliber gunfire can hinder his movement to some degree, and this has been consistently portrayed outside the comic books, in both live-action films and animation—in ''The Avengers'' film, he is able to momentarily withstand a sustained barrage of fire from a fighter aircraft. He has been shown to have both regenerative and adaptive healing abilities, including growing tissues to allow him to breathe underwater,<ref>''The Incredible Hulk'' vol. 3, #77 '''date?'''</ref> surviving unprotected in space for extended periods,<ref>''World War Hulk: Prelude'' (2007)</ref><ref>[http://www.marvel.com/universe/Hulk_%28Bruce_Banner%29 Hulk (Bruce Banner)] at Marvel.com</ref> and when injured, healing from most wounds within seconds.<ref>''The Incredible Hulk'' #398 (Oct. 1992); ''The Incredible Hulk'' vol. 2, #460</ref> As an effect, he has an extremely prolonged lifespan.<ref>''Incredible Hulk: The Last Titan''</ref>
+
+The Hulk's powerful legs allow him to leap into lower Earth orbit or across continents,<ref>''The Incredible Hulk'' vol. 3, #33 (Dec. 2001); ''The Incredible Hulk'' vol. 2, #254 (Dec. 1980)</ref> and he has displayed sufficient superhuman speed to match [[Thor (Marvel Comics)|Thor]],<ref>''The Incredible Hulk'' vol. 2, #440 (April 1996)</ref> and [[Sentry (Robert Reynolds)|Sentry]].<ref name="World War Hulk #5 2007">''World War Hulk'' #5 (2007) '''date?'''</ref>
+
+He also possesses less commonly described powers, including abilities allowing him to "home in" to his place of origin in New Mexico,<ref>''The Incredible Hulk'' (vol. 1) #314</ref> resist [[Telepathy|psychic control]],<ref>''The Defenders'' #12 (February 1974); ''The Incredible Hulk'' vol. 2, #259 (May 1981); ''Cable'' #34 (1996); ''World War Hulk: X-Men'' #1 (2007)</ref> or [[Reality warping|unwilling transformation]];<ref>''Incredible Hulk'' vol.2, #266; ''Incredible Hulk annual'' #5; ''The Incredible Hulk'' vol.2, #364</ref> grow stronger from radiation<ref>''The Incredible Hulk'' vol. 3, #105 (June 2007); ''The Incredible Hulk: Future Imperfect'' #2; ''Fantastic Four'' #433; ''World War Hulk: X-Men'' #2</ref> or dark magic;<ref>''The Incredible Hulk'' (vol. 3) #82; ''The Darkness/Hulk'' #1</ref> and to see and interact with astral forms.<ref>''The Incredible Hulk'' vol. 2, #369; ''The Incredible Hulk'' vol. 3, #82 '''dates?'''</ref>  Some of these abilities were in later years explained as being related; his ability to home in on the New Mexico bomb site was due to his latent ability to sense astral forms and ghosts, since the bomb site was also the place where the Maestro's skeleton was and Maestro's spirit was calling out to him in order to absorb his radiation.<ref>''The Incredible Hulk'' vol. 2, #460</ref>  The Hulk is also able to generate omnidirectional bursts of [[kinetic energy]] that completely shook the United States.<ref name="World War Hulk #5 2007"/>
+
+In the early days of the first ''Hulk'' comic series, "massive" doses of gamma rays (such as from the explosion of a hand-held nuclear grenade) would cause the Hulk to transform back to Bruce Banner, although this ability was written out of the character by the 1970s.
+
+As Bruce Banner, he is considered one of the greatest minds on Earth. He has developed expertise in the fields of biology, chemistry, engineering, and physiology, and holds a Ph.D. in nuclear physics. He possesses "a mind so brilliant it cannot be measured on any known intelligence test."<ref>{{cite web| last=Pisani | first=Joseph | title=The Smartest Superheroes | work=BusinessWeek | url=http://images.businessweek.com/ss/06/05/smart_heroes/index_01.htm | accessdate=December 9, 2007}}</ref> Bruce Banner also makes use of his intelligence to create highly advanced technology labelled as "Bannertech", which is on par with technological development from Tony Stark or Doctor Doom. The most common Bannertech Bruce uses is a [[Force shield|force field]] able to shrug off blows from Hulk-level entities, along with a [[Teleportation|teleporter]], which can be used to transport an unknown number of people. Bannertech is also used by [[Amadeus Cho]], as well as the Hulk persona itself.
+
+In ''The Science of Superheroes'', Lois Grest and Robert Weinberg examined Hulk’s powers, explaining the scientific flaws in them. Most notably, they point out that the level of [[gamma radiation]] Banner is exposed to at the initial blast would induce radiation sickness and kill him, or if not, create significant cancer risks for Banner, because hard radiation strips cells of their ability to function. They go on to offer up an alternate origin, in which a Hulk might be created by biological experimentation with [[adrenal gland]]s and [[green fluorescent protein|GFP]].
+
+Charles Q. Choi from LiveScience.com further explains that unlike the Hulk, gamma rays are not green; existing as they do beyond the visible spectrum, gamma rays have no color at all that we can describe. He also explains that gamma rays are so powerful (the most powerful form of electromagnetic radiation and 10,000 times more powerful than visible light) that they can even convert energy into matter - a possible explanation for the increased mass that Bruce Banner takes on during transformations. "Just as the Incredible Hulk 'is the strongest one there is,' as he says himself, so too are gamma ray bursts the most powerful explosions known."<ref>{{cite web| last=Choi | first=Charles Q. | title=Gamma Rays: The Incredible, Hulking Reality | publisher=LiveScience | date=June 11, 2008 | url=http://www.livescience.com/strangenews/080611-incredible-hulk.html | accessdate=June 12, 2008}}</ref>
+
+==Critical reception==
+In 2008, ''[[Wizard (magazine)|Wizard]]'' magazine named the Hulk as the seventh-greatest Marvel Comics character.<ref>''Wizard'' (June 2008)</ref> ''[[Empire (magazine)|Empire]]'' magazine named him as the 14th-greatest comic-book character and the fifth-greatest Marvel character.<ref>{{cite web| url=http://www.empireonline.com/50greatestcomiccharacters/default.asp?c=14 | title=The 50 Greatest Comic Book Characters | work=[[Empire (magazine)|Empire]] | date=December 5, 2006 | accessdate=April 27, 2010}}</ref>
+
+==Related characters==
+{{Main|List of Hulk supporting characters}}
+Over the long publication history of the Hulk's adventures, many recurring characters have featured prominently, including his sidekick Rick Jones, love interest Betty Ross, her father, the often adversarial General "Thunderbolt" Ross, and [[She-Hulk]], his cousin and frequent ally.
+
+==Family==
+Bruce Banner's father, Brian, was abusive to Bruce because he was convinced his son must be a mutant due to his (Brian's) radiation work; he also was jealous of the attention Bruce received from his mother. Bruce's mother protected him during his father's fits of rage. Once his mother tried to run away with Bruce, and his dad accidentally killed her by smacking her across the face with great force. Bruce had a stillborn child with his first wife, [[Betty Ross|Betty Ross Banner]] (who became the [[Betty Ross#Red She-Hulk|Red She-Hulk]] in the 2010 comics). He has two sons with his deceased second wife [[Caiera]] Oldstrong on the planet Sakaar named [[Skaar]] and [[Hiro-Kala]] and his DNA was used to create a daughter named [[She-Hulk (Lyra)|Lyra]] with [[Thundra]] the warrior woman.<ref>{{cite web |first=David |last=Pepose |url=http://www.newsarama.com/comics/Hulks-Dark-Son-100611.html |title=Dark Son Rising As The Other Son Of Hulk Hits Earth |publisher=[[Newsarama]] |date=June 11, 2010 |accessdate=June 11, 2010 }}</ref> Since childhood, Banner has been close to his cousin, Jennifer Walters, who in adulthood became the [[She-Hulk]].<ref>''The Avengers'' vol. 3, #73–75</ref>
+
+==Other versions==
+{{Main|Alternative versions of the Hulk}}
+In addition to his [[Marvel Universe|mainstream]] incarnation, Hulk has also been depicted in other [[fictional universes]], in which Bruce Banner's transformation, behavior, or circumstances vary from the mainstream setting. In some stories, someone other than Bruce Banner is the Hulk.
+
+==In other media==
+{{Main|Hulk in other media}}
+The Hulk character and the concepts behind it have been raised to the level of [[Cultural icon|iconic]] status by many within and outside the comic book industry. In 2003, ''[[Official U.S. PlayStation Magazine]]'' claimed the character had "stood the test of time as a genuine icon of American [[popular culture|pop culture]]."<ref>{{cite web| url=http://www.accessmylibrary.com/coms2/summary_0286-23626618_ITM | title=Smash! | accessdate=March 23, 2008 | archiveurl=http://www.webcitation.org/5WXAG9bFn | archivedate=March 23, 2008}}</ref>
+
+The Hulk is often viewed as a reaction to war. As well as being a reaction to the [[Cold War]], the character has been a cipher for the frustrations the [[Vietnam War]] raised, and Ang Lee said that the [[Iraq War]] influenced his direction.<ref name=GreshWeinberg/><ref>{{Cite journal| title=Becoming the Hulk | journal=[[The New Yorker]] | date=June 30, 2003 | last=Lahr | first=John | page=72 | url = http://archives.newyorker.com/?iid=15295&startpage=page0000080 }}</ref><ref>{{Cite news| title=The Clash of Symbols | newspaper=[[Sunday Herald]] | location=Glasgow | date=December 23, 2007 | last=Phelan | first=Stephen | page=42}}</ref> In the [[Michael Nyman]] edited edition of ''[[The Guardian]]'', Stefanie Diekmann explored Marvel Comics' reaction to the [[September 11 attacks]]. Diekmann discussed The Hulk's appearance in the 9/11 tribute comic ''[[Heroes (Marvel comic)|Heroes]]'', claiming that his greater prominence, alongside [[Captain America]], aided in "stressing the connection between anger and justified violence without having to depict anything more than a well-known and well-respected protagonist."<ref>{{Cite news| last=Diekmann | first=Stefanie | url=http://arts.guardian.co.uk/guesteditors/story/0,14481,1201733,00.html | title=Hero and superhero | date=April 24, 2004 | newspaper=The Guardian | accessdate=March 23, 2008 | archiveurl=http://www.webcitation.org/5WX1zzKKs | archivedate=March 23, 2008}}</ref>
+
+In ''Comic Book Nation'', Wright alludes to Hulk's counterculture status, referring to a 1965 ''[[Esquire (magazine)|Esquire]]'' magazine poll amongst college students which "revealed that student radicals ranked [[Spider-Man]] and the Hulk alongside the likes of [[Bob Dylan]] and [[Che Guevara]] as their favorite revolutionary icons." Wright goes on to cite examples of his anti-authority symbol status. Two of these are "The Ballad of the Hulk" by [[Jerry Jeff Walker]], and the ''[[Rolling Stone]]'' cover for September 30, 1971, a full color [[Herb Trimpe]] piece commissioned for the magazine.<ref name="Nation"/><ref>{{cite web| last=Goldberg | first=Jonah | url=http://article.nationalreview.com/?q=MDMyYTQ4NTc5ZTU1Y2U0ZDc4ZjhmZmIwMmRhZjNjNDg= | title=Spin City | date=May 7, 2002 | work=National Review Online | accessdate=March 23, 2008 | archiveurl=http://www.webcitation.org/5WX9jU6iE | archivedate=March 23, 2008}}</ref> The Hulk has been caricatured in such [[List of animated television series|animated television series]] as ''[[The Simpsons]]''<ref name=IAmFuriousYellow>{{Cite episode | series=[[The Simpsons]] | title=[[I Am Furious Yellow]] | airdate=April 28, 2002 | season=13 | number=18}}</ref> ''[[Robot Chicken]]'', and ''[[Family Guy]]'',<ref>{{Cite episode | title=[[Chitty Chitty Death Bang]] | series=[[Family Guy]] | credits=Danny Smith (writer) | network=[[Fox Broadcasting Company]] | airdate=April 18, 1999 | season=1 | number=3}}</ref> and such [[comedy]] [[television program|TV series]] as ''[[The Young Ones (TV series)|The Young Ones]]''.<ref>{{Cite episode | series=[[The Young Ones (TV series)|The Young Ones]] | title=[[Summer Holiday (The Young Ones episode)|Summer Holiday]] | seriesno=2 | number=6 | airdate=June 19, 1984}}</ref> The character is also used as a cultural reference point for someone displaying anger or agitation. For example, in a 2008 ''[[Daily Mirror]]'' review of an ''[[EastEnders]]'' episode, a character is described as going "into Incredible Hulk mode, smashing up his flat."<ref>{{Cite news| title=We love telly: We love soaps | newspaper=[[Daily Mirror]] | location=London | date=February 5, 2008 | last=Quigley | first=Maeve | page=1}}</ref> The Hulk, especially his alter-ego Bruce Banner, is also a common reference in rap music. The term was represented as an analogue to marijuana in [[Dr. Dre]]'s ''[[2001 (Dr. Dre album)|2001]]'',<ref>"[http://www.songmeanings.net/songs/view/14877/= Some L.A. Niggaz]" from ''[[2001 (Dr. Dre album)|2001]]''. [[Dr. Dre]]. 1999.</ref> while more conventional references are made in [[Ludacris]] and [[Jermaine Dupri]]'s popular single "[[Welcome to Atlanta]]".<ref>"[http://www.metrolyrics.com/welcome-to-atlanta-lyrics-jermaine-dupri.html= Welcome to Atlanta]" from ''[[Instructions (album)|Instructions]]'' and ''[[Word of Mouf]]''. [[Jermaine Dupri]] and [[Ludacris]]. 2002.</ref>
+
+The 2003 [[Ang Lee]] directed ''Hulk'' film saw discussion of the character's appeal to [[Asian American]]s.<ref>{{Cite journal| last=Marchetti | first=Gina | url=http://www.filmint.nu/?q=node/68 | title=Hollywood Taiwan | journal=Film International | volume=2 | issue=6 |date = November 2004| pages=42–51 | issn=1651-6826 | doi=10.1386/fiin.2.6.42 | accessdate=March 23, 2008 | archiveurl=http://www.webcitation.org/5WXGSuwQb | archivedate=March 23, 2008}}</ref> The Taiwanese born Ang Lee commented on the "subcurrent of repression" that underscored the character of The Hulk, and how that mirrored his own experience: "Growing up, my artistic leanings were always repressed—there was always pressure to do something 'useful,' like being a doctor." Jeff Yang, writing for the ''[[San Francisco Chronicle]]'', extended this self-identification to Asian American culture, arguing that "the passive-aggressive streak runs deep among Asian Americans—especially those who have entered creative careers, often against their parents' wishes."<ref>{{cite web| last=Yang | first=Jeff | url=http://www.sfgate.com/cgi-bin/article.cgi?f=/gate/archive/2006/06/01/apop.DTL | title=Look... Up in the sky! It's Asian Man! | date=June 1, 2006 | work=[[San Francisco Chronicle]] | publisher=[[Hearst Corporation]] | accessdate=March 23, 2008 | archiveurl=http://www.webcitation.org/5WX1L84Hz | archivedate=March 23, 2008}}</ref>
+
+===Television===
+
+'''Animated'''
+*1966: ''Hulk'' (part of ''[[The Marvel Super Heroes]]''); [[Max Ferguson]] first voicing the Hulk and [[Paul Soles]] as the first voice of Bruce Banner
+*1982–83: ''[[The Incredible Hulk (1982 animated TV series)|The Incredible Hulk]]''; [[Bob Holt (actor)|Bob Holt]] as Hulk, [[Michael Bell (actor)|Michael Bell]] as Bruce Banner
+*1996–97: ''[[The Incredible Hulk (1996 TV series)|The Incredible Hulk]]''; [[Lou Ferrigno]] as Hulk, [[Michael Donovan]] as Grey Hulk, [[Neal McDonough]] as Bruce Banner
+*2006: ''[[Fantastic Four: World's Greatest Heroes]]''; [[Mark Gibbon]] as Hulk, [[Andrew Kavadas]] as Bruce Banner
+*2008–12: ''[[Iron Man: Armored Adventures]]''; Mark Gibbon as Hulk
+*2009: ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]''; [[Fred Tatasciore]] as Hulk, [[Gabriel Mann]] as Bruce Banner
+*2009–11: ''[[The Super Hero Squad Show]]''; [[Travis Willingham]] as Hulk/Grey Hulk
+*2010–12: ''[[The Avengers: Earth's Mightiest Heroes]]''; Fred Tatasciore as Hulk, Gabriel Mann as Bruce Banner
+*2012: ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]''; Fred Tatasciore as Hulk
+
+'''Live action'''
+*1977–82, 1988–90: ''[[The Incredible Hulk (TV series)|The Incredible Hulk]]'' (series and movies); Lou Ferrigno as Hulk with [[Ted Cassidy]] providing his growls and roars, [[Bill Bixby]] in a different concept as David Banner instead of Bruce Banner; by [[Universal Studios]]
+
+===Movies===
+'''Live action'''
+*2003: ''[[Hulk (film)|Hulk]]''; [[Ang Lee]] as Hulk (voice),<ref>http://www.behindthevoiceactors.com/_img/movies/credits_883_5.jpg</ref> [[Eric Bana]] as Bruce Banner
+*2008: ''[[The Incredible Hulk (film)|The Incredible Hulk]]''; Lou Ferrigno as Hulk (voice), [[Edward Norton]] as Bruce Banner
+*2012: ''[[The Avengers (2012 film)|The Avengers]]''; [[Mark Ruffalo]] as Bruce Banner/Hulk (motion capturing and voice for Hulk), Lou Ferrigno also contributed to voice of Hulk (uncredited)<ref>[screencrush.com/lou-ferrigno-avengers/ So Lou Ferrigno Was in 'The Avengers'…], www.screencrush.com, 8 May 2012, retrieved 5 December 2012</ref>
+
+'''Animated'''
+*2006: ''[[Ultimate Avengers]]''; Fred Tatasciore as Hulk, [[Michael Massee]] as Bruce Banner
+*2006: ''[[Ultimate Avengers 2]]''; Fred Tatasciore as Hulk, [[Michael Massee]] as Bruce Banner
+*2008: ''[[Next Avengers: Heroes of Tomorrow]]''; Fred Tatasciore as Hulk, [[Ken Kramer (voice actor)|Ken Kramer]] as Bruce Banner
+*2009: ''[[Hulk Vs#Hulk vs. Thor|Hulk Vs. Thor]]''; Fred Tatasciore as Hulk, [[Bryce Johnson]] as Bruce Banner
+*2009: ''[[Hulk Vs#Hulk vs. Wolverine|Hulk Vs. Wolverine]]''; Fred Tatasciore as Hulk, Bryce Johnson as Bruce Banner
+*2010: ''[[Planet Hulk (film)|Planet Hulk]]''; [[Rick D. Wasserman]] as Hulk
+
+==Collected editions==
+{| class="wikitable"
+|-
+! Title
+! Writer
+! Penciler
+! Material collected
+! ISBN
+|-
+| ''Marvel Masterworks: Incredible Hulk Vol. 1''
+| [[Stan Lee]]
+| [[Jack Kirby]]
+| ''The Incredible Hulk'' #1–6
+| 0-7851-1185-9
+|-
+| ''Marvel Masterworks: Incredible Hulk Vol. 2''
+| Stan Lee
+| Steve Ditko, Jack Kirby, Bill Everett, Gil Kane, Bob Powell, John Romita Sr. and others
+| ''Tales to Astonish'' #59-79
+| 0-7581-1654-0
+|-
+| ''Marvel Masterworks: Incredible Hulk Vol. 3''
+| Stan Lee, [[Gary Friedrich]]
+| Jack Kirby, Bill Everett, John Buscema, Marie Severin, and Gil Kane
+| ''Tales to Astonish'' #80-101; ''The Incredible Hulk'' #102
+| 0-7851-2032-7
+|-
+| ''Marvel Masterworks: Incredible Hulk Vol. 4''
+| Gary Friedrich, Stan Lee, Roy Thomas, [[Bill Everett]] and [[Archie Goodwin (comics)|Archie Goodwin]]
+| [[Marie Severin]] and [[Herb Trimpe]]
+| ''Incredible Hulk'' #103-110; ''King-Size Special'' #1
+| 0-7851-2682-1
+|-
+| ''Marvel Masterworks: Incredible Hulk Vol. 5''
+| Stan Lee, [[Roy Thomas]]
+| Herb Trimpe
+| ''Incredible Hulk'' #111-121
+| 978-0-7851-3491-6
+|-
+| ''Marvel Masterworks: Incredible Hulk Vol. 6''
+| Roy Thomas
+| Herb Trimpe and [[Sal Buscema]]
+| ''Incredible Hulk'' #122-134
+| 978-0-7851-5042-8
+|-
+| ''Incredible Hulk Omnibus Vol. 1''
+| Stan Lee
+| Jack Kirby
+| ''The Incredible Hulk'' #1–6; ''Tales to Astonish'' #59–101; ''The Incredible Hulk'' #102
+|
+|-
+| ''Essential Hulk Vol. 1''
+| [[Stan Lee]]
+| [[Jack Kirby]]
+| ''Hulk'' #1–6; ''Tales to Astonish'' #60–91 (b&w)
+| style=white-space:nowrap | {{ISBNT|978-0785123743}}
+|-
+| ''Essential Hulk Vol. 2''
+|
+|
+| ''Tales to Astonish'' #92–101; ''The Incredible Hulk'' #102–117, Annual #1 (b&w)
+| {{ISBNT|978-0785107958}}
+|-
+| ''Essential Hulk Vol. 3''
+|
+|
+| ''Incredible Hulk'' #118–142; ''Captain Marvel'' #20–21; ''Avengers'' #88 (b&w)
+| {{ISBNT|978-0785116899}}
+|-
+| ''Essential Hulk Vol. 4''
+|
+| [[Herb Trimpe]]
+| ''Incredible Hulk'' #143–170 (b&w)
+| {{ISBNT|978-0785121930}}
+|-
+| ''Essential Hulk Vol. 5''
+|
+|
+| ''Incredible Hulk'' #171–200, Annual #5 (b&w)
+| {{ISBNT|978-0785130659}}
+|-
+| ''Essential Hulk vol. 6''	
+|
+|
+| ''The Incredible Hulk'' #201–225, Annual #6 (b&w)
+| {{ISBNT|0785130659}}
+|-
+| ''Hulk: Heart of the Atom''
+|
+|
+| ''Incredible Hulk'' #140, #148, #156, #202–205, #246–248; ''What If?'' #23
+|
+|-
+| ''Marvel Platinum: The Definitive Incredible Hulk''
+| [[Stan Lee]], [[Jack Kirby]], [[John Byrne (comics)|John Byrne]], [[Peter David]],and others
+| [[Jack Kirby]], [[Todd McFarlane]], [[George Pérez]] and others
+|''Incredible Hulk'' Vol. 1 #1; ''Fantastic Four'' #25-26; ''Incredible Hulk'' Vol 2 #124; ''Marvel Feature Presents'' # 1; ''Incredible Hulk'' Vol 2 #319, #340; ''Incredible Hulk: Future Imperfect'' #1-2;  ''Incredible Hulk'' Vol 3 #25
+| {{ISBNT|978-1905239887}} 
+|-
+| ''Incredible Hulk: Pardoned''
+| [[Bill Mantlo]]
+| [[Sal Buscema]], [[Mark Gruenwald]], [[Greg Larocque]]
+| ''Incredible Hulk'' #269-285
+| 978-0785162087
+|-
+| ''Incredible Hulk: Regression''
+| Bill Mantlo
+| Sal Buscema, [[Herb Trimpe]]
+| ''Incredible Hulk'' #286-300, Annual #12
+| 978-0785162599
+|-
+| ''Hulk Visionaries: John Byrne Vol. 1''
+| [[John Byrne (comics)|John Byrne]]
+| John Byrne
+| ''Incredible Hulk'' #314–319, Annual #14; ''Marvel Fanfare'' #29
+|
+|-
+| ''Hulk Visionaries: Peter David Vol. 1''
+| [[Peter David]]
+| [[Todd McFarlane]]
+| ''Incredible Hulk'' #331–339
+|
+|-
+| ''Hulk Visionaries: Peter David Vol. 2''
+| Peter David
+| Todd McFarlane, [[Erik Larsen]], Jeff Purves
+| ''Incredible Hulk''#340–348
+|
+|-
+| ''Hulk Visionaries: Peter David Vol. 3''
+| Peter David, [[Steve Englehart]]
+| Jeff Purves, Alex Saviuk, [[Keith Pollard]]
+| ''Incredible Hulk'' #349–354; ''Web of Spider-Man'' #44; ''Fantastic Four'' #320
+|
+|-
+| ''Hulk Visionaries: Peter David Vol. 4''
+| Peter David
+| Jeff Purves
+| ''Incredible Hulk'' #355–363; ''Marvel Comics Presents'' #26, #45
+| {{ISBNT|978-0785120964}}
+|-
+| ''Hulk Visionaries: Peter David Vol. 5''
+| Peter David
+| Jeff Purves, [[Dale Keown]], [[Sam Kieth]]
+| ''Incredible Hulk'' #364–372, Annual #16
+| {{ISBNT|978-0785127574}}
+|-
+| ''Hulk Visionaries: Peter David Vol. 6''
+| Peter David
+| Dale Keown, [[Bill Jaaska]]
+| ''Incredible Hulk'' #373–382
+| {{ISBNT|978-0785137627}}
+|-
+| ''Hulk Visionaries: Peter David Vol. 7''
+| Peter David
+| Dale Keown, [[John Romita, Sr.]]
+| ''Incredible Hulk'' #382–389, Annual #17
+| {{ISBNT|978-0785144571}}
+|-
+| ''Hulk Visionaries: Peter David Vol. 8''
+| Peter David
+| Dale Keown [[Andrew Wildman]]
+| ''Incredible Hulk'' #390–396, Annual #18; ''X-Factor'' #76
+| {{ISBNT|978-0785156031}}
+|-
+| ''Hulk/Wolverine: Six Hours''
+| Bruce Jones
+| [[Scott Kolins]]
+| ''Hulk/Wolverine'' #1–4; ''Incredible Hulk'' #181
+|
+|-
+| ''Incredible Hulk: The End''
+| Peter David
+| Dale Keown, [[George Pérez]]
+| ''Incredible Hulk: The End''; ''Incredible Hulk: Future Imperfect'' #1–2
+|
+|-
+| ''Hulk by John Byrne & Ron Garney''
+| John Byrne
+| Ron Garney
+| ''Incredible Hulk'' (vol. 3) #1–11, Annual 1999
+|
+|-
+| ''Incredible Hulk: Dogs of War''
+| [[Paul Jenkins (writer)|Paul Jenkins]]
+| [[Ron Garney]], [[Mike McKone]]
+| ''Incredible Hulk'' (vol. 3) #12–20
+|
+|-
+| ''Incredible Hulk: Past Perfect''
+| [[Paul Jenkins (writer)|Paul Jenkins]]
+|
+| ''Incredible Hulk'' (vol. 3) #21–33, Annual 2001
+|
+|-
+| ''Incredible Hulk Vol. 1: Return of the Monster''
+| [[Bruce Jones (comics)|Bruce Jones]]
+| [[John Romita, Jr.]]
+| ''Incredible Hulk'' (vol. 3) #34–39
+|
+|-
+| ''Incredible Hulk Vol. 2: Boiling Point''
+| Bruce Jones
+| [[Lee Weeks]]
+| ''Incredible Hulk'' (vol. 3) #40–43
+|
+|-
+| ''Incredible Hulk Vol. 3: Transfer of Power''
+| Bruce Jones
+| [[Stuart Immonen]]
+| ''Incredible Hulk'' (vol. 3) #44–49
+|
+|-
+| ''Incredible Hulk Vol. 4: Abominable''
+| Bruce Jones
+| [[Mike Deodato]]
+| ''Incredible Hulk'' (vol. 3) #50–54
+|
+|-
+| ''Incredible Hulk Vol. 5: Hide in Plain Sight''
+| Bruce Jones
+| [[Leandro Fernández (artist)|Leandro Fernández]]
+| ''Incredible Hulk'' (vol. 3) #55–59
+|
+|-
+| ''Incredible Hulk Vol. 6: Split Decisions''
+| Bruce Jones
+| [[Mike Deodato]]
+| ''Incredible Hulk'' (vol. 3) #60–65
+|
+|-
+| ''Incredible Hulk Vol. 7: Dead Like Me''
+| Bruce Jones, [[Garth Ennis]]
+| [[Doug Braithwaite]], [[John McCrea]]
+| ''Incredible Hulk'' (vol. 3) #65–69; ''Hulk Smash'' #1–2
+|
+|-
+| ''Incredible Hulk Vol. 8: Big Things''
+| Bruce Jones
+| Mike Deodato
+| ''Incredible Hulk'' (vol. 3) #70–76
+|
+|-
+|''Incredible Hulk & The Thing: Hard Knocks''
+|Bruce Jones
+|Jae Lee
+|"Hulk & Thing: Hard Knocks" #1–4; Giant-Size Superstars #1
+|
+|-
+| ''Incredible Hulk: Tempest Fugit''
+| Peter David
+| Lee Weeks, [[Jae Lee]]
+| ''Incredible Hulk'' (vol. 3) #77–82
+|
+|-
+| ''House of M: Incredible Hulk''
+| Peter David
+| [[Jorge Lucas]], [[Adam Kubert]]
+| ''Incredible Hulk'' (vol. 3) #83–87
+|
+|-
+| ''Incredible Hulk: Prelude to Planet Hulk''
+| [[Daniel Way]]
+| Keu Cha, Juan Santacruz
+| ''Incredible Hulk'' (vol. 3) #88–91
+|
+|-
+| ''Incredible Hulk: Planet Hulk''
+| [[Greg Pak]]
+| Carlo Pagulayan, Aaron Lopresti, Juan Santacruz, Gary Frank
+| ''Incredible Hulk'' (vol. 3) #92–105; ''Giant-Size Hulk'' #1; ''Amazing Fantasy'' (vol. 2) #15
+|
+|-
+| ''World War Hulk''
+| Greg Pak
+| [[John Romita, Jr.]]
+| ''World War Hulk'' #1–5
+|
+|-
+| ''Hulk Vol. 1: Red Hulk''
+| [[Jeph Loeb]]
+| [[Ed McGuinness]]
+| ''Hulk'' (vol. 2) #1–6
+|
+|-
+| ''Hulk Vol. 2: Red & Green''
+| Jeph Loeb
+| [[Art Adams]], [[Frank Cho]]
+| ''Hulk'' (vol. 2) #7–9; ''King-Size Hulk'' #1
+|
+|-
+| ''Hulk Vol. 3: Hulk No More''
+| Jeph Loeb
+| Ed McGuinness
+| ''Hulk'' (vol. 2) #10–13; ''Incredible Hulk'' #600
+|
+|-
+| ''Hulk Vol. 4: Hulk vs X-Force''
+| Jeph Loeb
+| [[Ian Churchill]], [[Whilce Portacio]]
+| ''Hulk'' (vol. 2) #14–18
+|
+|-
+| ''Hulk - Fall of the Hulks Prelude''
+| Jeph Loeb, Greg Pak, [[Fred Van Lente]], [[Rick Parker]]
+| Ed McGuinness
+| ''Hulk'' #2; ''Skaar: Son of Hulk'' #1; ''Hulk: Raging Thunder''; ''Planet Skaar Prologue''; ''All-New Savage She-Hulk'' #4; ''Hulk'' #16; plus material from ''Amazing Fantasy'' #15, ''Hulk'' #9, ''Incredible Hulk'' #600–601
+|
+|-
+| ''Hulk Vol. 5: Fall of the Hulks''
+| Jeph Loeb
+| Ed McGuinness
+| ''Hulk'' (vol. 2) #19–21; ''Fall of the Hulks: Gamma''
+|
+|-
+| ''Incredible Hulk Vol. 1: Son of Banner''
+| Greg Pak, Van Lente
+|
+| ''Incredible Hulk'' #601–605
+|
+|-
+| ''Incredible Hulk Vol. 2: Fall of the Hulks''
+| Greg Pak, [[Jeff Parker (comics)|Jeff Parker]]
+|
+| ''Incredible Hulk'' #606–608; ''Fall of the Hulks: Alpha''
+|
+|-
+| ''Incredible Hulk Vol. 3: World War Hulks''
+|
+|
+| ''Incredible Hulk'' #609–611
+|
+|-
+| ''Hulk Vol. 6: World War Hulks''
+| Jeph Loeb
+| Ed McGuinness
+| ''Hulk'' (vol. 2) #22–24
+|
+|-
+| ''Red Hulk Vol. 7: Scorched Earth''
+|
+|
+| ''Hulk'' (vol. 2) #25–30
+|
+|-
+| ''Incredible Hulks Vol. 4: Dark Son''
+|
+|
+| ''Incredible Hulks'' #612–617
+|
+|-
+| ''Red Hulk: Planet Red Hulk''
+| Jeff Parker
+| Gabriel Hardman, Carlo Pagulayan, Patch Zircher
+| ''Hulk'' #30.1; ''Hulk'' #31–36; ''material from Hulk'' #30
+|
+|-
+| ''Chaos War: The Incredible Hulks''
+| Greg Pak
+| Paul Pelletier
+| ''Incredible Hulks'' #618–622; ''material from Incredible Hulks'' #614–617
+|
+|-
+| ''The Incredible Hulks: Planet Savage''
+| Greg Pak
+| Dale Eaglesham, Tom Grummett
+| ''Incredible Hulks'' #623–629
+|
+|-
+| ''The Incredible Hulks: Heart of the Monster''
+| Greg Pak
+| Paul Pelletier
+| ''Incredible Hulks'' #630–635
+|
+|-
+| ''Hulk of Arabia''
+| Jeff Parker
+| Patrick Zircher
+| ''Hulk'' #42–48
+| {{ISBNT|978-0785160953}}
+|-
+| ''Incredible Hulk, Vol. 1''
+| Jason Aaron
+| Marc Silvestri
+| ''Incredible Hulk'' Vol. 3 #1-7, material from Fear Itself #7
+| {{ISBNT|978-0785133285}}
+|-
+| ''Red Hulk: Haunted''
+|
+|
+| ''Hulk'' Vol. 2 #49-52
+| {{ISBNT| 978-0785160991}}
+|-
+|}
+
+==Earlier characters called "The Hulk"==
+Prior to the debut of the Hulk in May 1962, Marvel had earlier monster characters that used the name "Hulk", but had no direct relation.
+* Debuting in ''Strange Tales'' #75 (June 1960), was a huge robot built by Albert Poole called the Hulk, which was actually armor Poole would wear. In modern day reprints the character's name was changed to ''Grutan'')<ref>{{cite web|url=http://www.marvunapp.com/Appendix4/poolealbertst.htm |title=The Hulk (Albert Poole, Strange Tales character) |publisher=Marvunapp.com |date= |accessdate=2011-02-12}}</ref>
+* First appearing in ''Journey Into Mystery'' #62 (Nov. 1960) was ''[[Xemnu|Xemnu the Living Hulk]]'', a huge, furry alien monster.<ref>{{cite web|url=http://monsterblog.oneroom.org/meet_the_monsters/the_hulk.html |title=The Hulk |publisher=Monsterblog.oneroom.org |date= |accessdate=2011-02-12}}</ref> The character reappeared in issue #66 (March 1961). Since then the character has been a mainstay in the Marvel Universe, and was renamed [[Xemnu]] the Titan.<ref>{{cite web|url=http://www.marvunapp.com/Appendix3/xemnuthetitan.htm |title=Xemnu the Titan (Golden Age monster, Hulk/She-Hulk foe) |publisher=Marvunapp.com |date= |accessdate=2011-02-12}}</ref>
+* A huge, orange, slimy monster was featured in a movie called ''The Hulk'' in ''Tales to Astonish'' #21 (July 1961). in modern-day reprints the character's name was changed to the ''Glop'')<ref>{{cite web|url=http://www.marvunapp.com/Appendix3/hulkgloptta.htm |title=Hulk (aka the Glop - Pre-FF monster) |publisher=Marvunapp.com |date= |accessdate=2011-02-12}}</ref>
+
+==See also==
+{{Portal bar|United States|Comics}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Wikiquote}}
+{{marvelwiki|Hulk|Hulk}}
+* {{Comicbookdb|type=character|id=397|title=Hulk}}
+* {{gcdb|type=character|search=Hulk|title=Hulk}}
+* [http://www.comics-db.com/comics/search.cgi?query=&amp;Characters=Hulk Hulk] at the Big Comic Book Database
+* [http://www.maelmill-insi.de/UHBMCC/selhn.htm#G76 Hulk] at the Unofficial Handbook of Marvel Comics Creators
+* {{Dmoz|Arts/Comics/Titles/H/Hulk|Hulk}}
+* {{IMDb character|0007099|Hulk}}
+
+{{Hulk}}
+{{Avengers}}
+{{Defenders}}
+{{S.H.I.E.L.D.}}
+
+{{DEFAULTSORT:Hulk, The}}
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics adapted into films]]
+[[Category:Comics by Jack Kirby]]
+[[Category:Comics by Stan Lee]]
+[[Category:Comics by Steve Ditko]]
+[[Category:Comics characters introduced in 1962]]
+[[Category:Fictional characters from New Mexico]]
+[[Category:Fictional characters from Ohio]]
+[[Category:Fictional characters with multiple personalities]]
+[[Category:Fictional doctors]]
+[[Category:Fictional kings]]
+[[Category:Fictional scientists]]
+[[Category:Fictional shapeshifters]]
+[[Category:Fictional warlords]]
+[[Category:Film characters]]
+[[Category:Hulk (comics)| ]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics titles]]
+
+[[ar:الرجل الأخضر (مارفل)]]
+[[bg:Хълк (комикси)]]
+[[ca:Hulk]]
+[[cs:Hulk (komiks)]]
+[[da:Hulk]]
+[[de:Hulk (Comic)]]
+[[el:Χαλκ]]
+[[es:Hulk]]
+[[eu:Hulk]]
+[[fa:هالک (شخصیت کامیک)]]
+[[fr:Hulk]]
+[[gl:Hulk (banda deseñada)]]
+[[ko:헐크]]
+[[id:Hulk]]
+[[it:Hulk]]
+[[he:הענק הירוק]]
+[[ka:ჰალკი (პერსონაჟი)]]
+[[lv:Halks]]
+[[lt:Halkas]]
+[[hu:Hulk (Marvel Comics)]]
+[[ms:Hulk]]
+[[nl:Hulk (Marvel)]]
+[[ja:ハルク (マーベル・コミック)]]
+[[no:Hulk]]
+[[pl:Hulk (komiks)]]
+[[pt:Hulk]]
+[[ro:Hulk]]
+[[ru:Халк (Marvel Comics)]]
+[[simple:Hulk (Marvel Comics)]]
+[[sr:Халк (стрип)]]
+[[sh:Hulk]]
+[[fi:Hulk]]
+[[sv:Hulken]]
+[[tl:Hulk (komiks)]]
+[[th:ฮัลค์]]
+[[tr:Hulk (çizgi roman)]]
+[[uk:Халк (комікс)]]
+[[zh-yue:變形俠醫]]
+[[zh:浩克 (漫畫)]]

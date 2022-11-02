@@ -1,0 +1,49 @@
+:''For the DC Comics character of the same name, see [[Rampage (DC Comics)]]''.
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Rampage
+|real_name=Stuart Clarke
+|species=[[human]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Champions (comics)|Champions]] #5'' (April 1976)
+|creators=[[Tony Isabella]], [[Don Heck]] and [[John Tartag]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=the Recession Raiders
+|previous_alliances=
+|aliases="Capitan Action Figure"
+|relatives=
+|powers=
+|}} 
+
+'''Rampage''' ('''Stuart Clarke''') is a fictional [[Marvel Comics]] character, an armored [[supervillain]] who first fought the short-lived [[The Champions (comics)|Champions]] team (beginning with Champions #5).
+
+==Fictional character biography==
+His armor was involved in a Champions fight, and Clarke himself sought revenge on the Champions soon after their disbanding. He manages to entrap [[Iceman (comics)|Iceman]] in one of the Rampage suits, forcing him to battle [[Angel (comics)|Angel]] and a visiting [[Spider-Man]].
+
+Clarke ends up homeless and his suits are stores away in a lab, their secrets pored over by profit-minded scientists. Clarke has secreted a way a small device that allows him over the course of many weeks, to unlock the control protocols for the suit. Eventually they literally bust out by themselves. Clarke and several of his homeless friends put on the suit and soon get into a fight with [[Wonder Man]] and Hank McCoy, the [[Beast (comics)|Beast]]. The fight gets dangerous when suit wear hits Beast with a brick chimeny. Enraged, Wonder Man subdues the entire squad. Beast recovers after a short hospital stay.
+
+Wonder Man's enemy [[Lotus (comics)|Lotus]] springs Clarke from jail and participates in the creation of the armored team ''Armed Response''. They become a private security force for Los Angeles. This falls apart when the media receives proof, from the super-powered group, the [[Crazy-Eight (comics)|Crazy-Eight]], that ''Armed Response'' is working with criminal elements in order to generate the need for themselves.
+
+===The Punisher===
+Stuart is working with the [[Punisher]] during the [[Civil War (comics)|Civil War]]<ref>[[The Punisher War Journal#Volume Two|Punisher War Journal]] #1</ref>. He is obsessed with [[Iron Man]] and is giving Punisher the means to track down high tech supervillians; this after Frank takes down [[Stilt-Man]] and [[Tinkerer]]. At least for the moment, Stuart seems to be serving in the capacity of Punisher's former weapons expert and information gatherer, [[Microchip (comics)|Microchip]]. It should be noted that that the Punisher has shot and killed Microchip.
+
+===The Hood===
+The [[Hood (comics)|Hood]] has hired him as part of his criminal organization to take advantage of the split in the superhero community caused by the Superhuman Registration Act.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.chronology.net/default.pl/cited/rd_champions Series index]
+*[http://www.uncannyxmen.net/db/spotlight/showquestion.asp?faq=10&fldAuto=55&page=3 Brief description of his fight against Spider-Man]
+*[http://www.comicboards.com/marvelguide/r.htm List of appearances]
+*[http://www.marvunapp.com/Appendix/armedresponse.htm Profile on Armed Response]
+*http://www.marvunapp.com/Appendix4/clarke_stuart_rampage.htm
+
+
+{{Marvel-villain-stub}}
+
+[[Category:Marvel Comics supervillains]]

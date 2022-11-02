@@ -1,0 +1,27 @@
+{{pound|#711}}
+
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name =#711
+| publisher =[[Quality Comics]]
+| debut =''[[Police Comics]]'' #1 (August 1941)
+| creators =[[George Brenner]]
+| alter_ego =Daniel Dyce
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = <!-- optional -->
+| aliases =Jacob Horn
+| supports=<!--optional-->
+| powers = 
+}}
+
+'''#711''' was a [[Golden Age of comics]] superhero created by [[George Brenner]] and published by [[Quality Comics]]. He first appeared in ''[[Police Comics]]'' #1 (August 1941) and lasted until #15 (January 1943), when he was killed.
+
+Daniel Dyce was a District Attorney who was almost an exact twin of his friend, Jacob Horn. Jacob was in [[prison]], but wanted to see his wife give birth, so Daniel agreed to become a prisoner while Jacob was with his wife. However, Jacob was killed in a car crash on the way to the hospital, so Daniel was stuck in jail. Daniel was able to tunnel himself free, but insted of escaping, he left at night to fight crime and returned before each morning. However, within two years, Daniel was killed by the mobster Oscar Jones. The hero Destiny saw this take place, and started his crime fighting career when #711 died.
+
+[[Category:Quality Comics superheroes]]
+[[Category:Public domain characters]]
+
+{{DC-Comics-stub}}

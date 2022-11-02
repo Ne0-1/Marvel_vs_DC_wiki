@@ -1,0 +1,74 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = 
+| caption = 
+| character_name = Doctor Druid
+| publisher = [[Marvel Comics]]
+| debut = ''[[Amazing Adventures]]'' #1 (June 1961)
+| creators = [[Stan Lee]]<br />[[Jack Kirby]]
+| real_name = Anthony Ludgate Druid
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = <!-- optional -->
+| aliases = Doctor Droom, Druid
+| supports=<!--optional-->
+| powers =Telepath,<br>Skilled magician
+}}
+
+'''Doctor Druid''', also known as '''Doctor Droom''' and '''Druid''', is a [[fictional character]], a [[supernatural]] [[monster]]-[[hunter]] in the [[Marvel Comics]] [[Marvel Universe|universe]]. Co-created by [[writer]]-[[editor]] [[Stan Lee]] and [[penciler]] [[Jack Kirby]], he starred in his own continuing feature that debuted in ''[[Amazing Adventures]]'' #1 (June 1961) &ndash; predating Lee & Kirby's milestone creation ''[[The Fantastic Four]]'' #1 (Nov. 1961) and establishing him as Marvel's first [[superhero]] of the mid-1950s and 1960s period known as the [[Silver Age of Comic Books]]. 
+
+==Publication history==
+[[Image:DrDroom_AA1.jpg|thumb|As Dr. Droom in ''Amazing Adventures'' #1 (June 1961). Art by [[Jack Kirby]] & [[Steve Ditko]]]]
+In his earliest five appearances, in ''Amazing Adventures'' #1-4 & #6 (June-Sept. & Nov. 1961), Doctor Druid was introduced as Doctor Droom. More a monster-story appendage than a serious attempt at creating a three-dimensional character in the manner of the upcoming [[Spider-Man]] or [[Fantastic Four]], Doctor Droom vanished into obscurity for years after the series was retitled and reformatted as ''[[Amazing Adult Fantasy]]'' with #7. He resurfaced in the 1970s as a guest character in ''[[The Incredible Hulk]]'', where he was retitled Doctor Druid to avoid confusion with the far more recognizable [[Doctor Doom]].
+
+He starred in the [[miniseries]] ''Druid'' #1-4 (May-Aug. 1995), by writer [[Warren Ellis]] and artist [[Leonardo Manco]], and co-starred with [[Ulysses Bloodstone]] and others in the flashback title ''Marvel Universe'' #4-7 (Sept.-Dec. 1998). There he was [[retconned]] as a member of the group the [[Monster Hunters]], whose adventures took place at the crux between the "[[Atlas Comics (1950s)#Pre-superhero Marvel|Age of Monsters]]" and "Age of Heroes".
+
+
+==Fictional character biography==
+Doctor Druid's real name is Dr. Anthony Ludgate Druid, although he usually refers to himself as Dr. Anthony Druid for effect.  He is a [[psychiatrist]], as well as a minor [[telepath]] and [[magic (paranormal)|magician]], specializing mostly in [[hypnosis]] and other feats of [[mesmerism]]. He has minor magical abilities that have varied over the years.  He is also an expert on the [[occult]], having been trained by a [[Tibet]]an [[lama]] who'd come to the [[U.S.]] for [[medical]] attention (later [[retconned]] as the [[Ancient One]],<ref>''Avengers Spotlight'' #37 (Oct. 1990)</ref> the same sorcerer who trained [[Doctor Strange]]). Ludgate was later revealed to be a distant descendant of the real-life [[Amergin]] the [[Druid]].
+
+Doctor Druid remained on the sidelines for years, but eventually joined the ranks of [[Avengers (comics)|The Avengers]] after helping to defend [[Avengers Mansion]] from an attack by [[Baron Zemo]].  His membership was tainted when he was [[mind control]]led by [[supervillain]]ess the [[Terminatrix (comics)|Terminatrix]] (at the time impersonating the [[space pirate]] [[Nebula (comics)|Nebula]]) into manipulating the team on her behalf. When "Nebula" was cast into [[Limbo (comics)|Limbo]], Druid followed, as he was still under her thrall.  He eventually regained control of his own mind and returned to Earth, where, after learning his true origin, banished "Nebula" and became younger by magic.
+[[Image:AmazingAdventuresV1no4.jpg|thumb|"Dr. Droom" banner, ''Amazing Adventures'' #4 (Sept. 1961). Art by Jack Kirby & [[Dick Ayers]]]]
+Due to his actions as the villain's thrall, Druid was disgraced.  He was briefly reunited with his former teammates while working with [[Doctor Strange]] during the [[Infinity War]], and later became leader of the [[Secret Defenders]]. In that role, he was once again victimized by a villain's mind-control, this time by the [[demon]] Slorioth.  Doctor Druid and the demon were defeated, Druid faked his own death, and the team disbanded.
+
+Restyling himself as a straightforward magician called "Druid", he went insane, was betrayed by his allies, and was finally killed by [[Daimon Hellstrom]], the putative Son of Satan.<ref>''Druid'' #4 (Aug. 1995)</ref> Druid's ghost appeared later alongside the spirits of other dead ex-Avengers, confirming that Druid had in fact died this time. The Avengers later placed a memorial statue of him in the garden of Avengers Mansion.
+
+==Original Doctor Droom appearances==
+''Amazing Adventures''<br>
+Reprints edited to reflect name-change to "Dr. Druid" plus other [[retcon]]
+
+* #1 (June 1961) — "I Am the Fantastic Dr. Droom"
+::Reprinted in ''Weird Wonder Tales'' #19 (Dec. 1976)
+* #2 (July 1961) — "The World Below"
+::Reprinted in ''Weird Wonder Tales'' #22 (May 1977)
+* #3 (Aug. 1961) — "Dr. Droom Meets Zemu"
+::Reprinted in ''Weird Wonder Tales'' #7 (Dec. 1974)
+* #4 (Sept. 1961) — "What Lurks Within?"
+::Never reprinted
+* #6 (Nov. 1961) — "Dr. Droom Defies the Menace Called ... Krogg"
+::Reprinted in ''[[Man-Thing|Giant-Size Man-Thing]]'' #3 (Feb. 1975)
+
+==Other versions==
+An [[Parallel universe (fiction)|alternate universe]] version of Dr. Druid appears in the 2007 [[miniseries]] ''[[Marvel Zombies vs. The Army of Darkness]]'' #3 (July 2007). Infected with the [[zombie]] virus, he visits [[Doctor Strange]] seeking help to stop from turning. With Strange having left to join the resistance, a ravenous Druid consumes Strange's assistant, [[Wong (comics)|Wong]]. The [[chainsaw]]-handed [[Ash Williams]] later kills Druid.
+
+==Other characters==
+Doctor Druid is not the subversive cult leader, [[Dredmund Druid]], also known as '''The Druid'''.
+
+==Footnotes==
+{{reflist}}
+
+==References==
+*[http://www.comics.org/ The Grand Comics Database]
+*[http://marvel.com/universe/Doctor_Druid Marvel Universe Database: Doctor Druid]
+
+{{DEFAULTSORT:Druid}}
+
+[[Category:American comics characters]]
+[[Category:Fictional doctors]]
+[[Category:Fictional psychiatrists]]
+[[Category:Fictional wizards]]
+[[Category:Magic users in comics]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Mythology in comics]]
+
+[[fr:Docteur Druid]]

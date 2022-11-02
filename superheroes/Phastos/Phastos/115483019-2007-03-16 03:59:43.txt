@@ -1,0 +1,35 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Phastosmu0.png|200px]]
+|caption=Phastos, art by [[Mark Texeira]]
+|character_name=Phastos
+|publisher=[[Marvel Comics]]
+|debut=''[[Eternals (comics)|Eternals]]'' vol. 2 #1, (October [[1985]])
+|creators=[[Peter B. Gillis]] (writer)<br/>[[Sal Buscema]] (artiist)
+|alter_ego = 
+|species = [[Eternals (comics)|Eternal]]
+|homeworld = <!-- optional -->
+|alliances =
+|aliases = Hephaestus, Vulcan
+|supports=<!--optional-->
+|powers = Eternal body grant superhuman speed, strength, durability and regeneration<br>Cosmic energy manipulation<br>Flight<br>Illustion generation<br>Matter transmuation<br>Teleporation
+}}
+
+'''Phastos''' is a [[fictional character]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]]. He first appeared in ''[[Eternals (comics)|Eternals]]'' vol. 2 #1, October ([[1985]]), and was created by [[Peter B. Gillis]] and [[Sal Buscema]].
+
+==Fictional character biography==
+Phastos's history is very murky. He is a third of fourth generation Eternal who chose to remain on Earth because of his obsessive search for an unidentified item or person. He continues to serve as the master technologist for the Eternal race, and it was his genius which allowed Virako to return from apparent death. Although he despises [[war]], Phastos chose to follow [[Ikaris]] into battle against the minions of [[Apocalypse (comics)|Apocalypse]].
+
+==Powers and abilities==
+*Phastos' Eternal body is superhumanly fast, strong, tough, and can regenerate.
+*Can project "Cosmic Energy" in the form of beams from his eyes and hands.
+*Cosmic energy manipulation allows flight, illusion generation, matter transmutation, and teleportation.
+*Phastos carries a special hammer capable of firing bolts of an unknown energy.
+*Phastos is also a brilliant engineer, technologist and inventor.
+
+==External links==
+*[http://www.marveldirectory.com/individuals/p/phastos.htm Marvel Directory: Phastos]
+*[http://www.marvel.com/universe/Eternals Marvel.com Marvel Universe: The Eternals]
+
+{{Marvel-Comics-stub}}
+[[Category:Black superheroes]]
+[[Category:Marvel Comics Eternals]]

@@ -1,0 +1,47 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[image:gatewayx.jpg|250 px]]
+|caption=Gateway
+|comic_color=background:#ff8080
+|character_name=Gateway
+|real_name=Umopan-Zet
+|species=[[Mutant (Marvel comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''Uncanny X-Men'' #227 (Mar 1988)
+|creators=[[Chris Claremont]]<br>[[Marc Silvestri]]
+|alliance_color=background:#cccccc
+|status=Active
+|alliances=
+|previous_alliances=[[X-Men]], [[Generation X (comics)|Generation X]], [[Reavers (comics)|Reavers]] (conscripted).
+|aliases=
+|relatives=[[Bishop (comics)|Bishop]] (great-grandson), [[Shard (comics)|Shard]] (great-granddaughter)
+|powers=Teleportation
+|}}
+'''Gateway (Umopan-Zet)''' is a [[fictional character]] in the [[Marvel Comics]] [[Marvel Universe|Universe]], a [[mutant (fictional)#Marvel Comics|mutant]] with the ability to [[Teleportation|teleport]] objects and people from one location to another. He is considered an unofficial member of the [[X-Men]].
+
+==Fictional character biography==
+Much of Gateway's past remains a mystery to this day, including where exactly he was born and even his name. It is known that he is an [[Australian Aborigine|Aborigine]] who appears to have grown up in the [[Outback]]. 
+
+It is known that he was forced to join the criminal group known as the [[Reavers (comics)|Reavers]] after they discovered his powers and threatened to destroy a place sacred to the Aborigines if he didn't follow their orders. They called him 'Gateway' in reference to his ability to create gateways between two points in space. Some time later, the X-Men battled the Reavers in their own headquarters.  One of the Reavers, [[Skullbuster]], told Gateway that he would release him of all his obligations to them if he helped them escape, which he in turn did.
+
+Afterward, the X-Men took up residence in the Reavers' former hideout, and Gateway began voluntarily using his powers to assist them. Since he seemed to be unable or unwilling to speak, [[Psylocke]] used her telepathic powers to communicate to Gateway where the X-Men wished to go. However, when the X-Men went back to the United States, he soon returned to Australia.
+
+More recently, he appeared at the [[X-Mansion|Xavier Institute]] in Massachusetts, where [[Generation X (comics)|Generation X]] was training, with a young girl. When he encountered [[Banshee (comics)|Banshee]], he simply spoke her name, "[[Penance (comics)|Penance]]", much to the surprise of Generation X member [[M (comics)|M]], who also apparently knows him, and disappeared. This may have something to do with his feelings of guilt over his part in the downfall of the [[Hellions]].
+
+Gateway appeared briefly to [[Storm (comics)|Storm's]] X-Treme X-Men team, shortly after the death of [[Psylocke]], and revealed that he is Bishop's great-grandfather. Here it was also revealed that he is virtually omniscient, as he is described as "the repository of the knowledge of humanity, the living index of every hard earned scrap of information gleaned in our ascent from mindless savagery." What he has been doing since then is largely unknown, but he has been revealed to be one of the mutants to keep his powers after the mutant [[Decimation (comics)|Decimation]] {{issue}}.
+
+==Video Games==
+Gateway has a small role in the game [[X-Men Legends]]. The Brotherhood was forcing Gateway to make a portal to the equator so they make it to the teleporter to Magneto's lair. Gateway then helped the X-Men chase after the Brotherhood.
+
+==External Links==
+*[http://marvel.com/universe/Gateway Gateway on the Marvel Universe Character Bio Wiki]
+
+[[Category:Fictional Australians]]
+[[Category:Australian superheroes]]
+[[Category:Black superheroes]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics mutants]]
+[[Category:The 198 Files]]
+[[Category:Fictional characters with the power to teleport]]
+
+[[fr:Gateway (X-Men)]]
+[[fi:Portti (sarjakuvahahmo)]]

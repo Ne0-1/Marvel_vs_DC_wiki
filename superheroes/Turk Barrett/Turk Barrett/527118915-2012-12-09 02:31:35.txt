@@ -1,0 +1,62 @@
+{{Notability|date=June 2010}}
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Turk Barrett
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        =
+| publisher      =
+| debut          = ''[[Daredevil (Marvel Comics)|Daredevil]]'' (vol. 1) #69 (October 1970)
+| creators       = [[Gary Friedrich]]<br>[[Roy Thomas]]<br>[[Gene Colan]]
+| alter_ego      =
+| full_name      =
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = <!-- optional -->
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| alliances      = [[Hood (comics)|Hood]]'s Crime Syndicate
+| aliases        = [[Mauler (comics)|M.A.U.L.E.R.]], [[Stilt-Man]]
+| powers         =
+| cat            =
+| subcat         =
+| hero           =
+| villain        =
+| sortkey        = Turk Barrett
+| addcharcat#    =
+}}
+
+'''Turk Barrett''' is [[fictional character]], a small time criminal in the {{Marvel Universe}}. He first appears in ''[[Daredevil (Marvel Comics)|Daredevil]]'' (vol. 1) #69 (October 1970) and was created by writers [[Gary Friedrich]] and [[Roy Thomas]] and artist [[Gene Colan]].<ref name="comicbookdb1">{{cite web|url=http://www.comicbookdb.com/character.php?ID=8652 |title=Turk Barrett |publisher=Comic Book DB |date= |accessdate=2010-06-08}}</ref><ref>{{cite web|url=http://www.marvunapp.com/Appendix/turkbarretdd.htm |title=Turk (Daredevil character) |publisher=Marvunapp.com |date= |accessdate=2010-06-08}}</ref>
+
+==Fictional character biography==
+Turk Barrett was a small-time crook associated with Eric Slaughter and The Kingpin and before that with the Thunderbolts. Barrett once stole the Mauler armor to unsuccessfully confronted Daredevil, Barrett, however, is defeated in seconds.<ref>''Daredevil'' #176 (Nov. 1981)</ref>  Turk later stole the [[Stilt Man|Stilt-Man armor]]. He offered his services to the Kingpin but was declined. The Kingpin contended that he did not employ "idiots". The original creator of the Stilt-Man armor, Wilbur Day, contacted Daredevil with knowledge of how to defeat Barrett.<ref>'''Daredevil''' #179</ref> 
+
+Turk has spent quite a bit of time at Josie's Bar in New York City. His primary associate is "Grotto" who often reluctantly participates in Turk's schemes. Turk once mugged a "Santa" at Christmas and intended to use the Yuletide attire to swindel charitable donations from others. In this instance when he was confronted by a disoriented Matt Murdock, Turk stabbed Murdock seriously, almost fatally, wounding him.
+
+Turk has had many run-ins with Daredevil where his inept schemes are usually played as [[comic relief]].<ref name="comicbookdb1"/>
+
+==Other versions==
+In the ''[[House of M]]'' reality, Turk was a member of [[Willis Stryker]]'s gang, Turk willingly followed [[Luke Cage]] when he took control of the group.<ref>''House of M: Avengers'' #1</ref>
+
+==Other media==
+===Film===
+* In the TV film, ''[[The Trial of the Incredible Hulk]]'', Turk was played by [[Mark Acheson]].
+
+* Turk was mentioned in the [[Daredevil (film)|Daredevil Director's Cut]] by the character Dante Jackson (played by [[Coolio]]).
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix/turkbarretdd.htm|Turk Barrett}}
+
+{{Daredevil}}
+
+[[Category:Characters created by Roy Thomas]]
+[[Category:Fictional African-American people]]
+[[Category:Fictional criminals]]
+[[Category:Marvel Comics characters]]
+[[Category:Characters created by Gene Colan]]
+
+
+{{Marvel-char-stub}}

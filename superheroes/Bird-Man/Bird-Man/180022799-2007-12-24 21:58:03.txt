@@ -1,0 +1,71 @@
+{{In-universe | subject = a [[Wikipedia:WikiProject Comics|comics]] | described_object = a '''character''' | category = }}
+
+'''Bird-Man''' is the name of two fictional characters in the [[Marvel Universe]].
+
+==Henry Hawk==
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Bird-Man I
+|real_name=Henry Hawk
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Daredevil (Marvel Comics)|Daredevil]]'' #10 (Oct 1965) 
+|creators=[[Wally Wood]] and [[Bob Powell (comics)|Bob Powell]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Ani-Men]], Unholy Three
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=(briefly) natural flight with wings
+|}} 
+
+Along with [[Ape-Man#Monk Keefer|Ape-Man]], [[Cat-Man (Marvel Comics)#Towshend Horgan|Cat-Man]], and [[Frog-Man (Ani-Men)|Frog-Man]], Henry Hawk was recruited by a man named the Organizer to form the original [[Ani-Men]].  The Organizer supplied Henry with a winged costume enabling him to fly, and dubbed him Bird-Man.  The Organizer was secretly Abner Jonas, a candidate for mayor of New York City, who sent the Ani-Men on missions to undermine the current administration.  Daredevil defeated them and the Ani-Men and Organizer all went to prison.<ref>''Iron Man'' #10-11</ref>  Later, Ape-Man, Bird-Man, and Cat-Man formed a team called the "Unholy Three" with the [[Death-Stalker|Exterminator]], and fought Daredevil again.<ref>''Daredevil'' #39-41</ref>  The Unholy Three, as a team of independent thieves, fought Daredevil and [[Spider-Man]] and were defeated.<ref>''Marvel Team-Up'' #25</ref>
+
+Ape-Man, Bird-Man, and Cat-Man later rejoined the Ani-Men, and the Ani-Men went to work for [[Count Nefaria]].  Nefaria's scientists submitted the unwitting Ani-Men to processes that gave them superhuman powers and animal-like forms.  The Ani-Men invaded the Cheyenne Mountain missile base for Count Nefaria, and fought the [[X-Men]].<ref>''X-Men'' #94-95</ref>
+
+The Ani-Men lost their superhuman powers and reverted back to normal.  Nefaria sent the four original Ani-Men to kill [[Iron Man|Tony Stark]], however the [[Spymaster (comics)#Spymaster I|Spymaster]] detonated a bomb with which he had intended to kill Stark, and the resulting explosion killed the Ani-Men instead.<ref>''Iron Man'' #115-116</ref>
+
+===Powers and abilities===
+Originally, Hawk had no superhuman powers.  He was an athletic man who wore a costume which incorporated a powered exoskeleton that amplified his strength sufficiently to utilize the costume's artificial wings to maneuver in flight.
+
+While employed by the Exterminator, Hawk wielded a "time-displacement ray" ("T-ray") gun that fired a ray which projected its victim into a limbo-like inter-dimensional void.  The gun could thus "displace" a victim for a limited period of time, such as 30 minutes. A ray blast of sufficient intensity could exile a victim to the inter-dimensional void permanently.
+
+Hawk was later subjected to an unknown mutagenic process administered by [[Count Nefaria]]'s scientists which temporarily gave him actual natural, feathered wings capable of bearing him aloft in flight and hollowed bones, and gave him superhuman strength and enhanced his speed, stamina, durability, agility, and reflexes.
+
+==Achille DiBacco==
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Bird-Man II
+|real_name=Achille DiBacco
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Daredevil (Marvel Comics)|Daredevil]]'' #157 (Mar 1979) 
+|creators=[[Roger McKenzie]], [[Mary Jo Duffy]], and [[Gene Colan]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Ani-Men]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+The [[Death-Stalker]] sometime later recruited a new team of Ani-Men, with a new Ape-Man, Bird-Man, and Cat-Man.  He sent the new Ani-Men to capture [[Daredevil (Marvel Comics)|Matt Murdock]].  The [[Black Widow (Marvel Comics)|Black Widow]] defeated Bird-Man, and the Death-Stalker murdered Ape-Man and Cat-Man upon the completion of their mission, effectively ending the Ani-Men.<ref>Daredevil #157-158</ref>  The second Bird-Man was later murdered by the [[Scourge of the Underworld]] in the infamous "Bar with No Name" incident.<ref>''Captain America'' #319</ref>
+
+===Powers and abilities===
+DiBacco possessed the same abilities as Bird-Man I, including natural, feathered wings capable of bearing him aloft in flight, hollowed bones, superhuman strength, enhanced speed, stamina, durability, agility, and reflexes.
+
+==References==
+{{reflist}}
+
+==External links==
+*http://en.marveldatabase.com/Achille_DiBacco_%28Earth-616%29
+
+
+[[Category:Comics articles that need to differentiate between fact and fiction]]
+[[Category:Marvel Comics supervillains]]

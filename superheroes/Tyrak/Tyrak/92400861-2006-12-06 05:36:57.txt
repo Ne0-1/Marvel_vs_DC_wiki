@@ -1,0 +1,25 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = 
+| caption =  
+| comic_color =background:#ff8080 
+| character_name =Tyrak
+| real_name =
+| species=[[Homo mermanus]]
+| publisher =[[Marvel Comics]]
+| debut=''[[Avengers (comics)|Avengers]]'' #154 (Dec 1976)
+| creators = [[Gerry Conway]] and [[George Pérez]]
+| alliance_color =background:#ffc0c0 
+| status =
+| alliances = Servant of [[Attuma]]
+| previous_alliances =
+| aliases = 
+| relatives =
+| powers =}}
+
+'''Tyrak''' is a fictional character in the [[Marvel Universe]]. He is an [[Homo mermanus|Atlantean]] warrior, serving in the army of the conqueror [[Attuma]].  He has served in a number of missions for Attuma, and has fought the [[Avengers (comics)|Avengers]] on more than one occasion.
+
+
+{{Marvel-comics-stub}}
+
+[[Category:Avengers villains]]
+[[Category:Homo mermanus]]

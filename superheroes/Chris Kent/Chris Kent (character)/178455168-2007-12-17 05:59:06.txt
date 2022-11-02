@@ -1,0 +1,56 @@
+{{in-universe|date=August 2007}}
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image=[[Image:Chriskent actioncomics844.jpg|250px]]
+| caption=Chris Kent art by [[Adam Kubert]].
+| character_name=Chris Kent
+| publisher=[[DC Comics]]
+| debut=''Action Comics'' #844 (2006)
+| creators=[[Richard Donner]]<br /> [[Geoff Johns]]<br /> [[Adam Kubert]]
+| alter_ego=Lor-Zod
+| full_name=Christopher Kent
+| species=[[Krypton (comics)|Kryptonian]]
+| homeworld=[[Earth]], <br>formerly [[Phantom Zone]]
+| alliances=<!-- optional -->
+| partners=<!-- optional -->
+| aliases=<!-- optional: actual identities the character uses, not nicknames -->
+| supports=[[Superman]]<br>[[General Zod]]
+| powers=[[Powers and abilities of Superman|Kryptonian Powers:]]
+''See'' '''Powers and abilities'''
+}}
+'''Chris Kent''' is a fictional [[Krypton (comics)|Kryptonian]] in the {{DC Universe}}, who first appeared in ''[[Action Comics]]'' #844 (2006) by [[Richard Donner]], [[Geoff Johns]], and [[Adam Kubert]], the first part of the ''Action Comics'' story arc "[[Superman: Last Son]]."
+
+==Fictional character biography==<!-- W:MOS -->
+When a spacecraft is headed towards [[Metropolis (comics)|Metropolis]], it is diverted to a relatively safe landing by [[Superman]].  After its crash, Superman is very surprised to discover a young boy inside.  Echoing his own arrival in his youth years before, Superman sees that the boy is completely unharmed. The Kryptonese writings on his ship states that his Kryptonian name is "Lor-Zod" and is later confirmed in Action Comics #851. He is taken to the east coast lab of the Department of Metahuman Affairs for observation.
+
+The boy exhibits super-human strength and can only speak [[Kryptonese]].  He does not know his name or where he is from.  As with [[Supergirl (Kara Zor-El)|Supergirl]], Superman instinctively knows the boy is Kryptonian before the tests are complete.  After he is confirmed as a Kryptonian, he is immediately taken to the Department of Metahuman Affairs headquarters in [[Washington, D.C.]] without informing Superman.  He removes the boy from their [[Child custody|custody]], and he decides, with [[Lois Lane]], to raise the boy <ref name="ac844">''[[Action Comics]]'' #844 (2006)</ref>.  Clark then contacts Batman, who uses his resources to create the identity  '''Christopher Kent'''.
+
+Afterwards, Superman holds a press conference to inform the world that the Kryptonian child is under his care.  At this time, [[Bizarro]], sent by [[Lex Luthor]], attacks in an attempt to [[kidnap]] Chris, but he fails.  Later, it is revealed that Chris is the biological son of [[General Zod]] and [[Ursa (comics)|Ursa]].  His arrival released [[General Zod]], [[Non (DC comics)|Non]], and [[Ursa (comics)|Ursa]] from the [[Phantom Zone]].<ref name="ac845">''[[Action Comics]]'' #845 (2007)</ref> He was apparently conceived and raised there within a prison structure that is immune to the "timeless" effects of the zone, and Christopher himself was specially immune as well. In a battle with Superman, Zod and Ursa reclaim their son and capture Lois. After sending Superman to the [[Phantom Zone]], General Zod's army invades earth.<ref name="ac846">''[[Action Comics]]'' #846 (2007)</ref> Superman escapes with [[Lar Gand|Mon-El]]'s aid, and then seeks an alliance with [[Lex Luthor]] to defeat Zod, who has captured a large portion of Earth's superhero population. In Zod's custody, Chris uses his powers to prevent Lois from being harmed.<ref name="ac851">''[[Action Comics]]'' #851 (2007)</ref>
+
+Following the events of "[[Superman: Last Son]]" (to be completed in ''Action Comics Annual'' #11 early in 2008), Chris remains in the custody of Lois and Clark as their foster son. He attends the Ellsworth School, an elite private school,<ref name="sm664">''[[Superman (comic book)|Superman]]'' #664 (2007)''</ref> where he has some trouble concealing his powers, particularly during P.E. To aid him, Superman works with Batman to develop an implant, concealed within a wristwatch, that uses red sun radiation to block Chris's powers while in school until he learns how to control them.<ref name="sm668">''[[Superman (comic book)|Superman]]'' #668 (2007)''</ref>
+
+An alternate universe counterpart of Chris Kent (from Earth-15) appears in the ''[[Countdown: Arena]]'' mini-series (published December 2007), as confirmed by the series writer Keith Champagne (in Arena #2, the featured version of Chris Kent is identified as being from Earth-16). A version of [[General Zod]] has already appeared in ''[[Countdown to Final Crisis|Countdown]]'' as the Superman of Earth-15, and he may be the biological father of the same Earth's Chris Kent.  Recently, [[Superman-Prime]] killed many of the heroes of Earth-15 (including Superman Zod and a woman pregnant with his unborn son) shortly before destroying the planet.
+
+==Powers and abilities==
+As a Kryptonian, Chris can develop [[Powers and abilities of Superman|Superman's powers]] as he becomes older.  He has exhibited eight Kryptonian abilities:
+
+* Flight: He flies in the [[Fortress of Solitude]] and at the Kent farm.<ref name="ac845"/>
+* Heat vision: He burns General Zod's hand when he attempts to harm Lois.<ref name="ac851" />
+* Telescopic vision: He is able to combine this power with his x-ray vision to watch the main screens in the [[Batcave]] from afar.<ref name="sm668" />
+* X-ray vision: He is able to combine this power with his telescopic vision to watch the main screens in the [[Batcave]] from afar.<ref name="sm668" />
+* Invulnerability: He arrives on Earth unharmed, and a bus falls on him during the Bizarro attack.<ref name="ac845"/>
+* Super strength: He is able to lift a television in the Metahuman Affairs lab.<ref name="ac844" /> He also caught the ''Daily Planet'' globe as it fell during the Bizarro attack.<ref name="ac845" />
+* Intelligence: He is able to memorize a dictionary within an hour and learn the English language.<ref name="ac845" />
+* Super breath: He is able to use this power to slow the falls of several cars, allowing [[Superman]] to catch them.<ref name="sm668">''[[Superman (comic book)|Superman]]'' #668</ref>
+
+==References==
+{{reflist}}
+
+{{Superman}}
+
+{{DEFAULTSORT:Kent, Chris}}
+
+[[Category:DC Comics aliens]]
+[[Category:DC Comics characters who can fly]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:Fictional adoptees]]
+[[Category:Kryptonians]]

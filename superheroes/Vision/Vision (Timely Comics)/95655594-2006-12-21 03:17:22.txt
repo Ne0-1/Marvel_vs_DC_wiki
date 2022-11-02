@@ -1,0 +1,60 @@
+: ''This article is on the original 1940s Vision. For the modern-day comic-book character, see [[Vision (comics)]]''
+
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Invaders_v2n3.jpg|210px]]
+|caption=Retro-Vision: Flashback appearance on the cover of ''The Invaders'' Vol. 2, #3 (July 1993), art by [[Dave Hoover]]
+|comic_color=background:#ff8080
+|character_name=The Vision
+|real_name=Aarkus
+|publisher=[[Marvel Comics]]
+|debut=''Marvel Mystery Comics'' # 13<br> (November 1940)
+|creators=[[Joe Simon]]<br> [[Jack Kirby]]
+|alliance_color=background:#cccccc
+|alliances=
+|previous_alliances=
+|aliases=
+|powers=
+|}}
+
+'''The Vision''' ('''Aarkus''') is a [[fictional character|fictional]] [[superhero]] created by [[Joe Simon]] and [[Jack Kirby]] during the 1930-'40s [[Golden Age of comic books]]. He [[first appeared]] in ''[[Marvel Mystery Comics]]'' #13 (Nov. 1940), published by [[Timely Comics]] a predecessor of [[Marvel Comics]].
+
+==Publication history==
+One of Timely's successful second-tier characters, the Vision starred in a generally seven-page feature in ''Marvel Mystery Comics'' #13-48 (Nov. 1940 - Oct. 1943) and in an eight-page story in ''Kid Comics'' #3 (1943, no month given; previous issue dated Summer 1943). He also starred in a text story, "The Vision Speaks", by [[Stan Lee]], in ''Marvel Mystery Comics'' #23 (Sept. 1941), in which the ruler of Smoke-World was revealed as The Law-Giver.
+
+His only major appearance in modern comics is in ''[[Invaders (comics)|The Invaders]]'', Vol. 2, #3 (July 1993), in which he was summoned to Earth and manipulated by [[Nazi Germany]] into attacking the [[Allies]].  He realized his mistake and soon returned home.
+
+Marvel writer-editor [[Roy Thomas]], a fan of the Golden Age character, used the Vision as a visual template for the [[Vision (comics)|modern-day Vision]], but the characters are otherwise unrelated.
+
+==Fictional character biography==
+'''Aarkus''' either lived in or was native to another dimension.  On his planet, known simply as Smoke-World, the Vision was a "Keeper of Law".  He was asked by an Earth scientist to come to Earth to act as a super-powered guardian over humanity.  The Vision possessed vaguely defined powers, including flight, matter transmutation, and the ability to travel through dimensions via smoke.
+
+A [[simulacrum]] of the Vision was temporarily created from the mind of [[Rick Jones (comics)|Rick Jones]], along with those of the [[Blazing Skull]], the [[Fin (comics)|Fin]], the [[Jeffrey Mace|Patriot]], and the Golden Age [[Angel (Golden Age)|Angel]], to aid the superhero team the [[Avengers (comics)|Avengers]] during the [[Kree-Skrull War]]<ref>''The Avengers'' (first series) #97 (March 1972)</ref>.
+
+==Trivia==
+*An anecdote states that the Vision was inspired by the cigar-smoke-filled office in which his creator was sitting, trying to think up new characters.{{fact}} 
+
+==Reprints==
+* ''The Golden Age of Marvel Comics, Volume 2'' (Marvel, 1999) ISBN 0-7851-0713-4
+::Untitled origin story: ''Marvel Mystery Comics'' #13 (Nov. 1940)
+* ''Marvel Mystery Comics'' #1 (Dec. 1999)
+::Untitled story beginning "From the frozen wastes"; villain Khor, the Black Sorcerer: ''Marvel Mystery Comics'' #22 (Aug. 1941)<ref>Title erroneously listed as "Vs. Khor" in "The Timely Comics Super-Hero Index (1939-1957)", by Mike Nolan a.k.a. Michelle Nolan, ''[[Alter Ego (magazine)|Alter Ego]]'' Vol. 3, #57 (March 2006).</ref>
+* ''[[Marvel Super-Heroes]]'' Vol. 1, #13 (March 1968) [and]
+* ''The Golden Age of Marvel Comics'' (Marvel, 1997) ISBN 0-7851-0564-6
+::Untitled story (a.k.a. "The Book of Sorcery"): ''Marvel Mystery Comics'' #25 (Nov. 1941)<ref>Original publication source per the [http://comics.org/details.lasso?id=1778 Grand Comics Database listing for it]. The Nolan index cited lists the story as from ''Marvel Mystery Comics'' #24.</ref>
+
+==Footnotes==
+<div class="references-small">
+<references/>
+</div>
+
+==References==
+*[http://www.geocities.com/jjnevins/vision.html Jess Nevins' "Pulp and Adventure Heroes of the Pre-War Years": The Golden Age Vision]
+*[http://www.geocities.com/SunsetStrip/4775/vision.html ''The Invaders'' profile on the Golden Age Vision]
+*[http://www.toonopedia.com/vision1.htm Don Markstein's Toonopedia: The Golden Age Vision]
+*Greg Theakston at Grand Comics Database: [http://comics.org/details.lasso?id=1102#4 ''Marvel Mystery Comics'' #13]
+[[Category:Extraterrestrial superheroes]]
+[[Category:Golden Age superheroes]]
+[[Category:Marvel Comics aliens|Vision (Golden Age)]]
+[[Category:Marvel Comics superheroes|Vision (Golden Age)]]
+[[Category:Marvel Golden Age characters]]
+[[Category:1940 introductions]]

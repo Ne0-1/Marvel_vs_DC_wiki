@@ -1,0 +1,28 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Jack Frost
+|real_name=unrevealed<br><small> (possibly Jack Frost)
+|publisher=[[Marvel Comics]]
+|debut=''USA Comics'' #1 (August 1941)
+|creators=
+|alliance_color=background:#cccccc
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}}
+
+'''Jack Frost''' is a fictional character in the [[Marvel Comics]] Universe.  He first appeared in ''USA Comics'' #1 (August 1941).
+
+Jack Frost seemingly awoke wandering the [[Arctic]] wastes with no knowledge of his past or origins. He resembles a young man made of ice, and can create and withstand extremely cold temperatures and generate large amounts of ice. He was later added to the [[Invaders (comics)|Invaders]] team. 
+
+[[Thor (Marvel Comics)|Thor]] has said that he may be the diminutive child of a [[Giants (Marvel Comics)|Frost giant]], but this has never been confirmed.
+
+[[Category:Marvel Golden Age characters]]
+[[Category:Golden Age superheroes]]
+
+{{Marvel-Comics-stub}}

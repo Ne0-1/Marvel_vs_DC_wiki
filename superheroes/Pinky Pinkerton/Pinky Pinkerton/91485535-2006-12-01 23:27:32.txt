@@ -1,0 +1,43 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[image:percivalpinkerton.jpg|200px]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Pinky Pinkerton
+|real_name=Percival Pinkerton
+|publisher=[[Marvel Comics]]
+|debut=''Sgt. Fury and the Howling Commandos'' vol. 1 #8
+|creators=
+|alliance_color=background:#cccccc
+|status=
+|alliances=
+|previous_alliances=[[Howling Commandos]]
+|aliases=
+|relatives=
+|powers=
+|}}
+'''Percival "Pinky" Pinkerton''' is a [[fictional character]] in the [[Marvel Comics]] Universe. His first appearance was in ''Sgt. Fury and the Howling Commandos vol. 1 #8''.
+
+==History==
+'''Pinky Pinkerton''' was a member of the original [[Howling Commandos]] who fought alongside the team during [[World War II]].  Pinkerton was from [[England]] and used an umbrella as a weapon.  He along with [[Dino Manelli|Manelli]], helped organize the [[Dirty Dozen (comics)|Dirty Dozen]].  In Sgt. Fury and his Howling Commandos, Percy’s older brother, Colonel Pinkerton appeared. Pinky Pinkerton was portrayed by actor Kenny Hopper in the film [[...To Skin a Cat]] <ref>{{cite web | url = http://www.toskinacat.com/cast.htm | accessdate = 2006-11-29 | title = ...To Skin a Cat - Cast | year = 2003 }}</ref>.
+
+==Ancestry==
+Three ancestors of Percy were mentioned in Sgt. Fury and his Howling Commandos.  These include:
+*'''Pinkerton''' who fought in the battle of [[Battle of Waterloo|Waterloo]] in 1815.
+*A Pinkerton who survived the winter at [[Valley Forge]] in 1777-1778
+*An ancestor who fought during [[World War I]].
+
+==Bibliography==
+*''Sgt. Fury and his Howling Commandos'' #8, 23
+
+{{marvel-comics-stub}}
+
+[[Category:Fictional World War II veterans|Pinkerton]]
+[[Category:World War II fictional beings|Pinkerton]]
+[[Category:Marvel Comics heroes, non-superpowered|Pinkerton]]
+[[Category:Marvel Comics supporting characters|Pinkerton]]
+[[Category:Fictional soldiers|Pinkerton]]
+[[Category:Fictional English people|Pinkerton]]
+[[Category:S.H.I.E.L.D.]]
+
+==References==
+<references/>

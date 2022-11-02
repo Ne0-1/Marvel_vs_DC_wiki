@@ -1,0 +1,42 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Stuntmaster
+|real_name=George Smith
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Daredevil (Marvel Comics)|Daredevil]] #58'' (Nov 1969)
+|creators=[[Roy Thomas]] and [[Gene Colan]]
+|alliance_color=background:#c0c0ff
+|alliances=
+|aliases=
+|powers=
+|}}
+
+'''Stuntmaster''' is a fictional character in the [[Marvel Universe]].
+
+==George Smith==
+===Fictional character biography===
+George Smith was a retired overage stuntman who became a costumed criminal under [[Crime-Wave]] and fought [[Daredevil (Marvel Comics)|Daredevil]].{{Issue|date=March 2012}}  Later, after redeeming himself, Stuntmaster became a hero.{{Issue|date=March 2012}}
+
+Later, Smith became a television actor, working with [[Ghost Rider (Johnny Blaze)|Johnny Blaze]] on the Stuntmaster TV show.{{Issue|date=March 2012}}  The [[Enforcer (comics)|Enforcer]] and [[Aqueduct (comics)|Water Wizard]] menaced Blaze on the set of the show.{{Issue|date=March 2012}}  The original [[Eel (comics)#Leopold Stryke|Eel]] worked on his show for a time as a technical advisor.{{Issue|date=March 2012}}
+
+Smith joined model Chili Storm in reporting on the Avengers Day parade that was disrupted by the Grim Reaper. When various heroes tried to breech a forcefield created by the Reaper, Stuntmaster tried to help by driving his motorcycle into it. The effort failed and Stuntmaster was saved from a damaging fall by Invisible Woman.<ref>''Avengers'' vol.3 #10-11</ref>
+
+==Steve Brooks==
+===Fictional character biography===
+A man named Steve Brooks joined the Fifty State Initiative using the Stunt-Master identity and was assigned membership in the Georgia-based team The Cavalry.{{Issue|date=March 2012}} He battled a Skrull posing as Thor Girl during the Secret Invasion.{{Issue|date=March 2012}}
+
+==Other versions==
+===MC2===
+Stuntmaster is mentioned in ''[[A-Next]]'' #1 as being Los Angeles' only superhero.{{Issue|date=March 2012}} In ''A-Next'' #5, [[Thunderstrike (Kevin Masterson)|Thunderstrike]], who comes from that city, is seen to have a Stuntmaster poster on the wall in his New York apartment.{{Issue|date=March 2012}}
+
+==References==
+{{reflist}}
+
+
+[[Category:Marvel Comics superheroes]]
+
+
+{{Marvel-hero-stub}}

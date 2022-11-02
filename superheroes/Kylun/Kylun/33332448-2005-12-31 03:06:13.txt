@@ -1,0 +1,28 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[image:Kylun.jpg]]
+|caption=Kylun, by [[Alan Davis]]
+|comic_color=background:#ff8080
+|character_name=Kylun
+|real_name=Colin McKay
+|publisher=[[Marvel Comics]]
+|debut=(as child) ''Excalibur'' #2<br>(as adult) ''Excalibur'' #43
+|creators=[[Alan Davis]]
+|alliance_color=background:#ffc0c0
+|status=Unknown
+|alliances=
+|previous_alliances=[[Excalibur (comics)|Excalibur]], [[X-Men]]
+|aliases=
+|relatives=
+|powers=Sound mimicry
+|}}
+'''Kylun''' (Colin McKay) is a lion-like fictional character of Scottish descent in the [[Marvel Universe]]. He was briefly a member of the [[X-Men]] team, [[Excalibur (comics)|Excalibur]]. His mutant ability was to replicate any sound he heard with his vocal chords. He is also a fine swordsman, wielding two twin mystical blades, the Zz'ria Blades, that cannot hurt anyone with a pure heart.  
+
+Kylun first appeared in Excalibur #2, as a mutant child who was fleeing from soldiers sent to capture him by Viper.  He discovered the robot [[Widget (comics)|Widget]], who created a portal to transport Colin to another dimension.  There, twenty years passed and Colin grew up, his mutant abilites transforming his features into more cat-like ones.
+
+
+[[Category:Excalibur members]]
+[[Category:Marvel Comics mutants]]
+[[Category:X-Men members]]
+
+
+{{Marvel-Comics-stub}}

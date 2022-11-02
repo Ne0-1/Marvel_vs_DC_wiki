@@ -1,0 +1,31 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Benjamin_richard_parker.jpg|250px|center]]
+|caption=Benjamin Parker, by [[Ron Frenz]]
+|comic_color=background:#ff8080
+|character_name=Benjamin Parker
+|publisher=[[Marvel Comics]]
+|debut=''Spider-Girl'' (vol. 1) #59
+|creators=[[Tom DeFalco]]<br />[[Ron Frenz]]
+|full_name=Benjamin Richard Parker
+|status=Alive
+|supports=[[Spider-Girl]]
+|relatives=[[Spider-Girl|May Parker (Spider-Girl)]] (sister), [[Spider-Man|Peter Parker]] (father), [[Mary Jane Watson|Mary Jane Watson-Parker]] (mother), [[Kristy Watson]] (aunt), [[Darkdevil|Reilly Tyne (Darkdevil)]] (cousin), [[Ben Reilly]] (uncle, deceased)
+<!-- he has more extended relations but let's keep it to characters relevant to "Spider-Girl" -->
+}}
+
+'''Benjamin Richard Parker''' is a fictional character in the [[Marvel Comics]] alternate future [[MC2]] universe.  He is the younger brother of [[Spider-Girl|May Parker/Spider-Girl]], and the son of [[Mary Jane Watson|Mary Jane]]  and [[Spider-Man|Peter Parker]] (Spider-Man).
+
+Benjamin is born after a [[Complications of pregnancy|complicated]] pregnancy.  Because his father's genetic code was altered when he received his powers, Ben is at a high risk of being born with some kind of genetic abnormality: [[deformity]], [[disability]], or perhaps even [[Mutant (fictional)|mutant]] powers.<ref name="PPSM15">The [[Beast (comics)|Beast]] of the X-Men, a noted geneticist, explained the probable risks to Spider-Man in ''[[Peter Parker: Spider-Man|Spider-Man]]'' #15, October 1991, by writer/artist [[Erik Larsen]].</ref>   Due to the risk to Mary Jane's health, her [[Obstetrics|obstetrician]] advises her to consider [[abortion]].  However, remembering that she had faced similar risks when pregnant with her daughter May, Mary Jane decides to proceed with the pregnancy.
+
+Ben is born while his sister is fighting [[Seth (comics)|Seth]], and to his family's relief, is apparently a perfectly healthy, normal little boy.
+
+His first name '''Benjamin''' is in honor of his [[Ben Reilly|uncle]] and [[Uncle Ben|great uncle]], while his second name '''Richard''' is in honor of his [[Richard and Mary Parker|grandfather]].
+
+
+
+
+==References==
+<references />
+
+[[Category:Spider-Man supporting characters|Parker, Benjamin Richard]]
+[[Category:MC2|Parker, Benjamin Richard]]

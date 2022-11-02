@@ -1,0 +1,56 @@
+{{superherobox <!--Wikipedia:WikiProject Comics-->
+|image = 
+|caption =
+|character_name =Phil Coulson
+|publisher =[[Marvel Comics]]
+|debut =''[[Iron Man (film)|Iron Man]]'' (May 2, [[2008 in film|2008]])
+|last = 
+|creators =Mark Fergus,<br />Hawk Ostby,<br />Art Marcum,<br />[[Matt Holloway]],<br />[[John August]]
+|alter_ego =
+|Base of operations = [[Gotham City]]
+|alliances = [[S.H.I.E.L.D.]]
+|aliases =
+|supports= [[Iron Man]]<br />[[Pepper Potts]]<br />[[Nick Fury]]<br />[[Black Widow (Natalia Romanova)|Natasha Romanoff]]
+|powers=
+|portrayed by = [[Clark Gregg]]
+|}}
+'''Agent Phil Coulson''', portrayed by [[Clark Gregg]], is a fictional character who first appeared in [[Jon Favreau]]'s 2008 feature film ''[[Iron Man (film)|Iron Man]]'' as a member of [[S.H.I.E.L.D]].  Gregg, who also reprised the role in ''[[Iron Man 2]]'', is reported to star in the 2011 film ''[[Thor (film)|Thor]]'' and the 2012 film ''[[The Avengers (2012 film)|The Avengers]]''.
+
+==Fictional character biography==
+===''Iron Man''===
+{{Main|Iron Man (film)}}
+Agent Coulson attends the press conference [[Iron Man|Tony Stark]] holds after returning from captivity in [[Afghanistan]].  He talks to Stark's assistant, [[Pepper Potts]], and introduces himself as a government agent of the [[S.H.I.E.L.D.|Strategic Homeland Intervention, Enforcement, and Logistics Division]].  He tells her that he needs to discuss the [[Iron Man's armor|circumstances]] of Stark's escape, and they schedule an appointment.  He is present when Tony announces that [[Stark Industries]] will cease production of weapons.
+
+Coulson later meets Stark at the [[Walt Disney Concert Hall]], trying again to discuss the escape with him.  However, Stark is distracted by Christina Everhart, and leaves to end the [[Mandarin (comics)|Ten Rings]]' terrorism of [[Ho Yinsen|Gulmira]], [[War in Afghanistan (2001-present)|Afghanistan]].
+
+Later on, Coulson arrives to his appointment with Pepper Potts, where she informs him of [[Iron Monger|Obadiah Stane]]'s armor.  He and several other agents accompany her to the building housing Stark's arc reactor, where they find that Stane's armor is already active.  Coulson manages to escape alive.
+
+As a running gag, when Coulson attempts to speak with either Potts or Stark, he always says the agency's full name, only for them to comment on how the organization needed a shorter name.  At the end, Coulson presents Stark with a [[cover story]] involving [[Happy Hogan|Stark's bodyguard]] and yacht.  When Pepper goes to say the agency's full name, Coulson interrupts her, saying they should be just called ''"S.H.I.E.L.D."''  Coulson attends the press conference where Stark fumbles through the cover story before revealing his true identity as Iron Man.
+
+===''Iron Man 2''===
+{{Main|Iron Man 2}}
+After Tony loses his armor to [[War Machine|James Rhodes]], S.H.I.E.L.D Director [[Nick Fury]] places him on house arrest to sober up and find a replacement for [[palladium]] in his arc reactor.  Phil Coulson is one of the agents, along with (briefly) [[Black Widow (Natalia Romanova)|Natasha Romanoff]], assigned to supervise Stark.  Coulson threatens to [[tase]] Stark and watch ''[[Supernanny]]'' if he doesn't cooperate.  He presents Tony with the work of [[Howard Stark]], who was Tony's father and a S.H.I.E.L.D founder.  Before he departs, Coulson assists Tony by drawing his attention to [[Captain America's shield]], which Tony uses as a shim for a machine and manages to synthesize a [[vibranium|new element]] with [[ununoctium|atomic number 118]].
+
+In a post-credits scene, Coulson observes an impact crater in the [[New Mexico]] desert. He calls Fury and says, "We've found it." The final shot shows a [[Mjolnir (comics)|war hammer]] lying in the crater.
+
+===''Thor''===
+{{Main|Thor (film)}}
+Clark Gregg will reprise the role in ''[[Thor (film)|Thor]]''. Gregg stated, "Agent Coulson was one of the guys who wasn't really in the comic books, and he [had] a very kind of small role in ''Iron Man''. And I was just very lucky that they chose to expand that character and chosen to put him more into the universe of it. It's really a blast!" Gregg added, "I get to do some exciting things in some of the new stuff".<ref>{{cite web|url=http://splashpage.mtv.com/2010/04/28/iron-man-2-thor-clark-gregg/|title=Clark Gregg's 'Iron Man 2' S.H.I.E.L.D. Agent Will 'Do Some Exciting Things' In 'Thor' |author=Blair Marnell|publisher=[[MTV News]]|date=2010-04-28| accessdate=2010-05-13}}</ref>
+
+===''The Avengers''===
+{{Main|The Avengers (2012 film)}}
+In the 2010 Comic-Con it was confirmed that Clark Gregg will reprise his role as Phil Coulson.<ref>http://www.deadline.com/2010/07/star-wattage-marvel-assembles-the-avengers-for-comic-con-panel/</ref>
+
+==References==
+{{reflist}}
+{{Navboxes
+|title=Marvel Cinematic Universe
+|list1=</span>
+{{Iron Man}}
+{{Thor}}
+{{S.H.I.E.L.D.}}
+{{Marvel comics films}}
+}}
+
+[[Category:Marvel Comics characters]]
+[[Category:Film characters]]

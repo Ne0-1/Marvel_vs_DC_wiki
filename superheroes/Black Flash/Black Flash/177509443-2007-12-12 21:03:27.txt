@@ -1,0 +1,38 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = [[Image:Black-flash.jpg |250px]]
+| caption = 
+| character_name = Black Flash
+| real_name =
+| publisher = [[DC Comics]]
+| debut = ''[[Flash (comics)|Flash]] (vol. 2)'' # 138 (June 1998)
+| creators = [[Mark Millar]]<br> [[Pop Mhan]]<br> [[Christ Ivy]]
+| alliances = 
+| previous_alliances = 
+| aliases = Black Flash, Flashback, Backflash, Slow Lightning
+| supports=
+| powers = Superhuman speed, time manipulation, role as [[psychopomp]] to speedsters
+|}}
+
+The '''Black Flash''' is a [[fictional]] [[comic book]] [[fictional character|character]] from [[DC Comics]]. It first appeared in ''Flash (vol. 2)'' # 138 (June 1998).
+
+==Fictional character background==
+
+The Black Flash essentially fulfils the same role as [[Death (DC Comics)|Death]] for those who possess super-speed in the DC Universe, returning them to the source of their powers: the [[Speed Force]]. It is reportedly seen before the deaths of [[Flash (Barry Allen)|Barry Allen]] and [[Johnny Quick]]; [[Max Mercury]], having had several near-death experiences, has also seen the Black Flash. 
+
+It is not clear whether the Black Flash exists because the speedster characters are simply too fast for traditional Death to capture, or as some sort of bizarre side-effect to their connection to the Speed Force.
+
+It came for [[Wally West]] to draw him back to the Speed Force, but instead took [[Linda Park (comics)|Linda]], Wally's girlfriend, into the Speed Force. It later returns to try and take Wally again, freezing time except for those who possess a connection to the Speed Force. Max Mercury, [[Flash (Jay Garrick)|Jay Garrick]], and [[Jesse Quick]] all attempt to assist Wally by distracting the Black Flash; Wally finally defeats the Black Flash by racing it to the end of time, to a point where Death would have no meaning, causing it to dissipate. 
+
+Most recently, the Black Flash appears to [[Bart Allen|Bart Allen]] (at the time serving as the Flash) when the Flash loses his powers while battling the Rogues at the [[Getty Center|Getty Center]]. Bart is killed shortly thereafter by the panicked Rogues when it appears he would win, even without his powers.
+
+The Black Flash should not be confused with other personifications of death in the DC Universe, such as the [[Black Racer]] and Death of the [[The Endless (comics)|Endless]]. Although an issue of ''[[Captain Atom]]'' suggests Death of the Endless, the Black Racer, and Nekron are all aspects of the same force, Neil Gaiman (creator of Death of the Endless) disagrees with this idea, stating that his creation is the ultimate personification of Death. As such, whether there is a connection between the Black Flash and Death of the Endless is uncertain.
+
+==Appearances in other media==
+The Black Flash appears in ''[[Justice League Heroes: The Flash]]'' for the [[Game Boy Advance]]. When the Flash dies, he is chased by the Black Flash. If the player avoids being caught, they are rewarded with a chance at continuing the game, coming back with low health and without losing the current life. After each death, escape from the Black Flash becomes increasingly difficult.
+
+==External links==
+*[http://www.hyperborea.org/flash/black-flash.html Profile on Black Flash]
+
+{{Flash}}
+
+[[Category:DC Comics characters who can move at superhuman speeds]][[Category:Personifications of death]]

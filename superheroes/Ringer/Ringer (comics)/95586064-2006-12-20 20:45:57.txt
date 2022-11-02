@@ -1,0 +1,37 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:RingerMarvel.jpg|225px]]
+| caption=The Ringer
+| comic_color=background:#ff8080
+| character_name=The Ringer
+| publisher=[[Marvel Comics]]
+| debut=''[[Defenders (comics)|Defenders]]'' v1 #51
+| last appearance = ''[[Captain America]]'' v1 #319
+| alliance_color=background:#cccccc
+| real_name = Anthony Davis
+| status = Deceased
+| alliances = None
+| previous_alliances=[[Abe Jenkins|The Beetle]]
+| aliases=None
+| relatives=Leila Davis 
+| powers=Battlesuit giving him the power to transform several weapons, mostly into rings
+|}}
+
+'''Ringer''' is a [[comic book]] [[supervillain]] in the [[Marvel Comics]] universe.
+
+==History==
+While breaking into a safe in a building owned by Kyle Richmond, aka the super-hero [[Nighthawk (Marvel Comics)|Nighthawk II]], career criminal '''Anthony Davis''' discovered and fought against the hero. During the battle, an angry Nighthawk broke Davis' tooth and was sent to prison. Once in jail, it has been revealed that it took the prison dentist months to rebuild the tooth.
+
+The battle with Nighthawk at first taught Davis that he wasn't cut out for a life filled with crime. His mind changed after leaving prison, and he decided to hire the villain called the [[Tinkerer]], to build him a battlesuit so he could sell it to business contacts and as a [[Get-rich-quick scheme|get rich quick scheme]]. Though, upon testing the suit by himself, [[MACH-IV (Marvel Comics)|the Beetle]] broke into his workshop and the two battled, resulting in Davis becoming the Beetle's prisoner. The Beetle wanted Davis to wear the suit so they could fight [[Spider-Man]] together, and convinced Davis to do so because of the deadly explosive weapons built inside the suit. 
+
+Spider-Man easily defeated the Ringer despite his many weapons and was once again sent to jail. After next leaving prison, the Ringer avoided New York City and its super heroes and operated as a costumed criminal primarily in the Midwest. On a visit to the "bar with no name" in Medina County, Ohio, one of a number of similar secret meeting places for costumed criminals, the Ringer was contacted by Gary Gilbert, who was formerly the costumed terrorist called [[Firebrand (Marvel Comics)|Firebrand]]. Gilbert invited the Ringer to attend a meeting at the bar to discuss strategies for dealing with [[Scourge of the Underworld|Scourge]], the mysterious vigilante who had murdered a large number of costumed criminals. The Ringer came to the meeting, but, unfortunately for him, so did Scourge, disguised as the bartender. Scourge slaughtered the Ringer and all the other criminals who were present. 
+
+After his death, Davis was revealed to have a wife named Leila Davis, who put on his suit and continued her husband's criminal career.
+
+[[Advanced Idea Mechanics|AIM]] resurrected Anthony as the cyborg Strikeback.
+
+==Alternate versions==
+
+In ''[[Ultimate Spider-Man]]'' #91, Anthony Davis appeared as the Ringer yet again, but ended up defeated by both Spider-Man and [[Shadowcat]]. He was handed over to the police, and hasn't been heard of since.
+
+[[Category:Moon Knight villains]]
+[[Category:Spider-Man villains]]

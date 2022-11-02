@@ -1,0 +1,39 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Moonstone (comics).jpg|250px]]
+|caption=Moonstone.<br>Art by [[Tom Grummett]]
+|comic_color=background:#ff8080
+|character_name=Moonstone
+|real_name=Dr. Karla Sofen
+|publisher=[[Marvel Comics]]
+|debut=(cameo) ''[[Captain America]]'' (vol. 1) #192<br>(full) ''[[Hulk (comics)|Incredible Hulk]]'' #228
+|creators=Marv Wolfman and Frank Robbins
+|alliance_color=background:#cccccc
+|status=Comatose
+|alliances=
+|previous_alliances=[[Masters of Evil]], [[Thunderbolts (comics)|Thunderbolts]]
+|aliases=Meteorite
+|relatives= Karl August Sofen and Marion Sofen (parents)
+|powers=Super-strength, gravitational manipulation, able to alter her clothing to any form at will.
+|}}
+:''For the first Moonstone, Lloyd Bloch, see [[Nefarius]].''
+
+'''Moonstone''' (real name Dr. Karla Sofen) is a [[fictional character]], a [[supervillain]]ness and [[superhero]]ine in [[Marvel Comics]]' [[Marvel Universe]].
+
+While she nominally debuted in ''[[Captain America]]'' #192 as [[Doctor Faustus (comics)|Doctor Faustus]]' "moll," her first true appearance was in ''[[Hulk (comics)|Incredible Hulk]]'' #228. There, at the behest of the US Government who wished to move [[Nefarius|Lloyd Bloch]] to a conventional cell, she convinced him to give up his empowering alien gem by convincing him through halluncinogens and her training as a psychatrist that it was mutating him into a monster. Once he surrendered it, she proceeded to take it for herself and escape.
+
+She later joined the [[Masters of Evil]] in their destruction of [[Avengers Mansion]], and it was his knowledge of her psychiatric skill from this, despite their mutual loathing, that led [[Baron Zemo#Baron Helmut Zemo|Baron Helmut Zemo]] to recruit her when planning the [[Thunderbolts (comics)|Thunderbolts]] - a group of villains who would pose as heroes to win the trust of officialdom and the public. As part of the ruse, she took on the name '''Meteorite''' for the duration of the con, although she became the only one to both remain a Thunderbolt and return to her old name after the exposure of their plan, and the memory of the adulation had caused most of the team to turn against Zemo.
+
+When [[Hawkeye (comics)|Hawkeye]] imposed himself on the team as leader, she seduced him as part of a bid for power, but later found herself thinking genuinely heroic thoughts, which were eventually attributed to the wielder of the original power gem, of which hers was a fragment and sealed off from her.
+
+Her power levels raised dramatically once she absorbed a second alien gem, from the [[Counter-Earth (comics)|Counter-Earth]] counterpart of Bloch, but as of [[2004]]'s "[[Avengers (comics)|Avengers]]/Thunderbolts" limited series she lost both gems to Baron Zemo and when last seen was comatose.
+
+{{spoiler}}
+
+Moonstone is set to make a return in ''New Thunderbolts'' #14.
+
+
+
+[[Category:Avengers villains]]
+[[Category:Hulk villains]]
+[[Category:Marvel Comics Thunderbolts members]]
+[[Category:Masters of Evil members]]

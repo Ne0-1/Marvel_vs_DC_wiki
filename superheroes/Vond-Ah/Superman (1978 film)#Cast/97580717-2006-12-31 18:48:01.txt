@@ -1,0 +1,246 @@
+{{Infobox Film |
+  name     =Superman|
+  image          = Superman_ver1.jpg|
+caption= Original movie poster|
+  imdb_id        =0078346 |
+  writer         = '''Comic Book:'''<br />[[Jerry Siegel]]<br />[[Joe Shuster]]<br />'''Story:'''<br />[[Mario Puzo]]<br />'''Screenplay:'''<br />[[David Newman]]<br>[[Leslie Newman]]<br>[[Robert Benton]]<br>[[Mario Puzo]]<br>'''Creative Consultant:'''<br />[[Tom Mankiewicz]] |
+  starring       = [[Marlon Brando]]<br>[[Gene Hackman]]<br>[[Christopher Reeve]]<br>[[Ned Beatty]]<br>[[Jackie Cooper]]<br>[[Glenn Ford]]<br>[[Margot Kidder]]<br>[[Valerie Perrine]]<br>[[Marc McClure]]<br>[[Jeff East]] |
+  cinematography = [[Geoffrey Unsworth]] |
+  editing        = [[Stuart Baird]] |
+  director       = [[Richard Donner]] |
+  producer       = [[Ilya Salkind]]<br>[[Pierre Spengler]] |
+  distributor    = [[Warner Bros.]] |
+  released       = [[December 15]], [[1978]] |
+  runtime        = 143 min. |
+  country        = [[United Kingdom]]<br>[[United States]] |
+  language       = [[English language|English]] |
+  budget         =$55,000,000 |
+followed_by = ''[[Superman II]]''|}}
+
+'''''Superman''''' (also known as '''''Superman: The Movie''''', as it was called in pre-release advertising), is an [[Epic film|epic]] [[superhero film]] acclaimed as the first production that pioneered the modern film genre, released by [[Warner Bros.]] in [[1978 in film|1978]], and based on the popular [[DC Comics]] [[Superman|character of the same name]]. It was directed by [[Richard Donner]] and executive produced by [[Ilya Salkind]], with music by [[John Williams]].
+
+The movie was filmed and produced at the same time as its first [[sequel]]: ''[[Superman II]]'' ([[1980 in film|1980]]). There were two further sequels: ''[[Superman III]]'' ([[1983 in film|1983]]) and ''[[Superman IV: The Quest For Peace]]'' ([[1987 in film|1987]]), as well as [[Canceled Superman films|several canceled sequel attempts]] after 1987. ''Superman'' and ''Superman II'' are treated as a loose backstory to the 2006 film ''[[Superman Returns]]''. 
+
+'''Taglines:'''
+* ''You'll believe a man can fly.''
+* ''The movie that makes a legend come to life.''
+
+== Cast ==
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! Actor
+! Role
+|-
+| [[Marlon Brando]]
+| [[Jor-El]]
+|-
+| [[Gene Hackman]]
+| [[Lex Luthor]]
+|-
+| [[Christopher Reeve]]
+| [[Clark Kent]] / [[Superman]]
+|-
+| [[Margot Kidder]]
+| [[Lois Lane]]
+|-
+| [[Ned Beatty]]
+| [[Otis (Superman)|Otis]]
+|-
+| [[Jackie Cooper]]
+| [[Perry White]]
+|-
+| [[Marc McClure]]
+| [[Jimmy Olsen]]
+|-
+| [[Glenn Ford]]
+| [[Jonathan Kent]]
+|-
+| [[Phyllis Thaxter]]
+| [[Martha Kent]]
+|-
+| [[Valerie Perrine]]
+| [[Eve Teschmacher]]
+|-
+| [[Susannah York]]
+| [[Lara Lor-Van|Lara]]
+|-
+| [[Terence Stamp]]
+| [[General Zod]]
+|-
+| [[Sarah Douglas]]
+| [[Ursa (comics)|Ursa]]
+|-
+| [[Jack O'Halloran]]
+| [[Non (DC comics)|Non]]
+|-
+| [[Jeff East]]
+| Young Clark Kent
+|-
+| Diane Sherry
+| [[Lana Lang]]
+|}
+
+==Plot==
+{{spoiler}}
+
+Not unlike a play, ''Superman'''s story is divided into three separate acts. The first act deals with [[Superman]]'s journey from [[Krypton (comics)|Krypton]] to [[Smallville]], how he learns his identity, and his life as a [[Kansas]] farm-boy. The second act introduces Metropolis and the story's major characters and deals with Superman becoming a hero. The third act deals with Lex Luthor starting his real-estate plan he has been planning during the previous act and Superman disobeying his father's orders in order to save [[Lois Lane]].
+
+===Act I===
+[[image:Jorel_yahoo.jpg|thumb|right|200px|Jor-El and Kal-El.]]
+The planet Krypton is in danger of imminent destruction. Unable to convince Kryptonian elders, scientist [[Jor-El]] promises that neither he nor his wife, [[Lara]], will leave the planet. However, he sends his infant son, Kal-El, to [[Earth]] to ensure his survival. Then Krypton explodes while Kryptonians fall to their fiery deaths in the abysses. Kal-El's spaceship crash-lands three years later in Smallville, Kansas, in the year [[1951]]. The boy is found and adopted by a late-middle-aged childless couple, Jonathan and Martha Kent, who name him Clark.
+
+Clark is no ordinary boy: he is incredibly agile and strong. As he grows into an adult, he is well aware that these "gifts" make him stand out from humans, but nevertheless tries to fit in with his peers. Unfortunately, it's a source of terrible frustration he can only vent in secret such as kicking a [[football]] the distance of several miles or outracing a [[train]] on foot and beating it to the grade crossing. The passengers on the train include Lois Lane and her parents, as he arrives on foot in front of the Kent farm faster than his classmates reached that point by car. Clark's adoptive father lightly scolds him for "showing off", while Clark laments about having to limit himself so as not to expose his abilities. To console his son, Jonathan explains his longtime fear that Clark would have been "taken away" if anyone knew how he arrived or what he could do, and that he felt certain that he was put on this Earth for a reason. 
+
+Following the death of his adoptive father in [[1966]] after which a grieving Clark conveys helplessness about having "all [these] powers and I couldn't even save him", Clark hears the call of a mysterious green crystal hidden in his parent's barn. He realizes that it is time to discover his purpose, and departs on a journey to the Arctic. He uses the crystal to build the [[Fortress of Solitude]], a majestic crystal palace in the architectural style of his home planet, Krypton. Inside, Kal-El learns the reason he was transported to Earth and his future role on the planet from holographic recordings of his father. After 12 years of education and training within the Fortress of Solitude, he emerges garbed in a red cape and blue body suit with the El family symbol on the chest and flies off.
+
+===Act II===
+Clark returns to civilization, arriving in the city of [[Metropolis (comics)|Metropolis]] in [[1978]]. He's hired as a reporter for ''The [[Daily Planet]]'' newspaper by its editor-in-chief, [[Perry White]]. He meets [[Jimmy Olsen]], a teenaged photographer, and the paper's star journalist, Lois Lane, who is assigned to look after Clark. This puts the two in an initially uncomfortable relationship as, when Lois learns that Clark has been given her "city beat" to cover (wherein White points out Clark is the fastest typist he's seen in his 40 years in the business), she becomes upset and instigates several passive-aggressive moves against Clark intended to make him look foolish. Nonetheless, Clark becomes immediately infatuated with Lois, but is unable to properly gain her affection while in the bumbling guise of Clark Kent. It isn't long before Clark's true nature is unveiled when, in his blue suit and red cape, he publicly rescues Lois from a helicopter accident atop the [[Daily Planet]] building.
+[[image:supermanstand.jpg|thumb|left|250px|Superman.]]
+Following a series of incidents in which Clark in his yet-unnamed guise comes to the rescue and saves the day, Perry White issues to all his reporters to find out as much information as possible about this mysterious hero.  Lois receives an invitation to meet someone at her place, signed only "a friend." After waiting on the balcony of her apartment at the designated time that night, Clark arrives wearing his red cape and blue suit, ready for Lois to give him an interview. It is unbeknownst to her that the man she is interviewing is also Clark Kent. In the middle of the interview, he takes her with him on a flight to the skies, further solidifying an intimate relationship between them.  After trying to decide what he should be called, she finally decides upon the name, "Superman", using this as his title in the Daily Planet article that she writes about the interview, called "I Spent the Night With Superman: An Exclusive Interview", which brings him renowned fame throughout Metropolis.  Lois begins to feel that she is falling for Superman.  Clark debates whether or not to reveal himself as Superman to her, but is reluctant to pursue any sort of relationship.
+
+Meanwhile, super criminal [[Lex Luthor]] is intent on committing "the greatest real-estate swindle of all time", with the unwitting aid of the U.S. government and the test launching of two [[ICBM]]s. To accomplish this, Luthor hopes to cause a major [[earthquake]] in [[California]] by using the missiles, one of which he has programmed to hit the [[San Andreas Fault]] (the other is mistakenly programmed to hit [[Hackensack, New Jersey]], by his klutzy assistant, Otis). The quake will cause most of California to slide into the ocean, killing millions of people while simultaneously making the vast tracts of worthless [[desert]] land that he had quietly purchased skyrocket in value when it becomes the new [[West Coast of the United States]].
+
+===Act III===
+With Superman's fame rapidly spreading, Luthor perceives him to be a serious problem, and lures him with a threat to gas the population of Metropolis. Having succeeded in attracting his attention, he traps the superhero with a nodule of [[kryptonite]] — the only thing to which he is vulnerable. However, Superman effects an escape with the help of Luthor's assistant, Eve Teschmacher, who is both attracted to Superman and frightened for the fate of her mother, who happens to live in Hackensack.
+
+Superman keeps his promise and diverts the path of the Hackensack missile first, forcing it into space. In the meantime, the California missile hits the San Andreas Fault, triggering the massive earthquake Luthor had intended. The length of the fault is devastated by the initial quake, but Superman prevents the catastrophic landslide Luthor intended by plunging deep into the earth to shore up the fault line.  However, the quake's violent aftershocks still cause massive damage that creates multiple disasters. As a result, Superman must race throughout the state to prevent them.  Among the perils is an [[Amtrak]] train heading for a section of broken rail on a bridge, which Superman resolves by using his body to span the gap to prevent the train from crashing. He also lifts a school bus, which had fallen off the [[Golden Gate Bridge]], back on to it.  He also flies to various locations, helping people in trouble, one of them being Jimmy Olsen, who nearly falls off the [[Hoover Dam]] when it breaks open under the pressure of the aftershocks. 
+
+As he builds a natural dam from rocks and boulders to stop the flooding caused by the breaching of the Hoover Dam, Superman realizes that he has forgotten about Lois. He flies several miles and finally finds her car.  It had fallen into a crevasse that opened up behind it and closed again, trapping her inside and crushing her to death.  Superman pulls the car out of the crevasse, but it is too late.  
+
+Overcome with grief and anger, Superman flies into the upper atmosphere of Earth where he hears Jor El's voice forbidding him to "interfere with human history." Disobeying his father, Superman flies around the Earth, utilizing the planet's rotation to boost his speed until he is moving faster than the [[speed of light]], thus travelling back in time. This is visually represented by the Earth appearing to spin backwards.
+
+He stops at the time the earthquake began, and flies back to Lois, who is alive and well.  They exchange greetings and are about to kiss when suddenly, Olsen arrives, sarcastically thanking Superman for saving him from the earthquake aftermath but leaving him "in the middle of nowhere".  Superman bids farewell and flies off, with a task to finish.  Jimmy Olsen then mentions that it is unfortunate Clark is never here to see Superman, and it is this moment only that Lois suspects that Superman and Clark may be the same person, only to dismiss it as "the silliest idea". 
+
+Superman captures Luthor and Otis and delivers them to prison.  The prison warden thanks Superman for his efforts, while Superman flies off, ensuring that "we're all part of the same team".
+{{endspoiler}}
+
+==Production history==
+Although Warner Bros. had acquired DC Comics in the 1960s through a series of corporate mergers, there was little interest from the studio to exploit DC's most famous heroic character.  The father-and-son producing team of [[Alexander Salkind|Alexander]] and Ilya Salkind had enjoyed some success with European-based productions, and along with their long-time partner, producer [[Pierre Spengler]], signed a [[negative pickup deal]] with Warners, under which they themselves would assume responsibility for fronting the production costs.  This deal was consummated primarily on the basis that the film would potentially star Marlon Brando and Gene Hackman, two of the biggest marquee names of the mid-seventies — but in the early days of the project's development, no one was actually sure as to what part either actor would play. A relatively unknown [[Nick Nolte]] was signed for the part of Superman and in 1976 [[Mario Puzo]] was commissioned to write a screenplay.  Puzo left the project after submitting two drafts, and the Salkinds assigned the task of rewriting the material to [[Robert Benton]] and the husband-wife team of [[David Newman (filmmaker)|David Newman]] and [[Leslie Newman]].
+
+It was decided early in the process to shoot two films simultaneously. During the production of ''[[The Three Musketeers (1973 film)|The Three Musketeers]]'' (1973), the Salkinds had realized that there was enough footage for two films and split the film in two, releasing ''The Four Musketeers'' a year later. The joint production of ''Superman'' and ''Superman II'' would mark the first time this process was used intentionally. All actors' contracts have what is now known as the "Salkind clause", which stipulates how many films are being made. All performers on ''Superman'' were contractually obligated to ''Superman II'' as well. However, in this case, most of the simultaneously-shot footage was reportedly scrapped when [[Richard Lester]] was brought in to finish ''Superman II''.
+
+The Salkinds' original choice for director, veteran British helmer [[Guy Hamilton]], had to amicably leave the project, as the film, originally intended to have been shot at [[Cinecittà]] studios in Rome, Italy,  would now be shot at [[Pinewood Studios]] in Iver Heath, Buckinghamshire, England. However, due to director Hamilton's status as a tax exile, he could not be involved in the filming. In the end, Alexander Salkind made a personal phone call to Richard Donner and offered him the film, promising to pay him a fee of $1 million.  Although the filming dates for both Brando and Hackman had already been set, Donner was unhappy with the existing screenplay, feeling that it was too campy.  One of his first acts as director was to hire [[Tom Mankiewicz]] to substantially rewrite the script (in the opening titles Mankiewicz is listed as a 'Creative Consultant' because the [[Writers Guild of America|WGA]] did not want more than four people to receive screenplay credit).  With the delay in production, Nolte also left the project.
+
+[[Image:Sprmnmovie.jpg|thumb|240px|left|Publicity still emulating screen shot.]]
+[[Image:Superman movie vid cap1.JPG|thumb|240px|right|Actual screen shot for comparison.]]
+A talent search was made for an actress to play [[Lois Lane]], with most of the leading young names of the time being considered. An unknown stage actor named Christopher Reeve was hired to provide feedlines during auditions and it was Donner's wife who first pointed out that he was ideal for the role of Superman. The director and producers had originally thought a bodybuilder or athlete would be the first choice. In fact, people such as [[James Caan]], [[Burt Reynolds]], [[Charles Bronson]], [[Kris Kristofferson]], [[Paul Newman]], [[Robert Redford]], [[Arnold Schwarzenegger]], and even Ilya Salkind's then-wife's dentist, were among those tested for the role. But, in the end, Donner kept coming back to Reeve, who had only one other cinematic role (a supporting role in the 1978 [[disaster film]] ''[[Gray Lady Down]]'') and a television appearance in the soap opera ''[[Love of Life]]'' to his credit. Reeve was then hired to play the superhero.  One problem cropped up immediately: Reeve's lack of musculature.  Reeve steadfastly refused to wear a padded suit and undertook a strenuous regimen under [[UK|British]] [[bodybuilding|bodybuilder]] [[David Prowse]], who would soon become famous for playing the physical form of [[Darth Vader]] in ''[[Star Wars Episode IV: A New Hope]]''.  By the time filming began in March, 1977, Reeve had bulked up his 6'4" frame considerably.
+
+Close to $1 million of the budget had already been spent before Donner joined, attempting to design a way for Superman to fly — including animation and a remote control plane. As a tax break, shooting would, as noted, be headquartered at Pinewood Studios, with a second unit housed at nearby [[Shepperton Studios]] in Middlesex, England.  With Mankiewicz working on the script Donner realized that there was virtually nothing from Hamilton's tenure as director that he could use, and he set about putting together a new production team.  Before long, the film had the good fortune of securing [[John Barry (set designer)|John Barry]] as production designer. It was he who designed the crystalline world of Krypton. New York-based optical effects house [[R/Greenberg Associates]], who until then had done mostly advertising, was responsible for the opening credits sequence. Model effects were designed, directed and supervised by ''[[Thunderbirds (TV series)|Thunderbirds]]'' stalwart [[Derek Meddings]].
+
+[[Image:Superman movie vid cap2.JPG|thumb|75x|right|Superman logo in teaser trailer.]]
+As production dragged on through 1977 the studio became concerned — by that time, ''[[Star Wars]]'' had proven to be a big hit and Warners were not convinced the Salkinds' film would be as big of a draw. Donner soon commissioned an early [[teaser trailer]], also developed by R/Greenberg Associates, in which clouds raced by the viewer with the names of the all-star cast 'blasting' on to the screen, ending with the ''Superman'' shield exploding into view (a visual effect re-used in the actual film's opening credits). This teaser trailer was released in the second half of 1977 on the back of ''Star Wars'' and garnered an enthusiastic audience reaction that did much to keep the production going. It is available as a bonus feature on the DVD.
+
+==Reaction==
+The reaction was largely enthusiastic, with Christopher Reeve singled out for particular praise for his sincere performance as both Superman and the bumbling Clark Kent. The [[visual effects]] were also praised for their believability in contrast to those of previous low-budget productions of a similar genre. Meanwhile, [[John Williams]] added to his string of kudos for his [[film score|score]], which critics noted helped give an essential mythic grandeur to the story and character. (As with "Superman" scores past, the main theme centers on a musical [[triad]] that suggests the three syllables of the character's name). While the critics were divided over their preference for the reverent origin sequence in the first part, or the more lively later sequence of Superman beginning his career, it has been considered one of the best superhero movies ever made. Its financial side was also very successful grossing $134,218,018 in the U.S.,while grossing U.S.$166,000,000 in foreign tolls. Altogether it grossed U.S.$300,218,018. 
+
+The movie's legacy includes numerous television series, notably ''[[Superboy (TV series)|Superboy]]'' (produced, like the movie, by Alexander Salkind), ''[[Lois and Clark: The New Adventures of Superman]]'', and the current prequel series, ''[[Smallville (TV series)|Smallville]]'', which have all been influenced by the movie to some extent. A particular example of this influence is John Williams' main title composition, which is often played and parodied in movies and other popular media referring to superheroes or superstar athletes.
+
+In addition, the success of  film, which cost an enormous $55 million — at the time, big-budget movies usually cost about $20–$30 million — set a new standard for superhero movies which demanded similar production values and respect for their source material.  That respect became especially influential after the failure of the farcical ''[[Batman & Robin (1997 film)|Batman & Robin]]'' by [[Joel Schumacher]] suggested to many that the Donner film's spirit was the proper tone to use for the genre.
+
+Due to its high regard, the film's continuity is maintained with the 2006 film ''Superman Returns'', whose production design is heavily influenced by its forerunner. This is especially evident with the Fortress of Solitude, musical references and even the use of Marlon Brando as Jor-El.
+
+Tom Mankiewicz has described ''Superman'' as a three-act play, referring to Krypton as being "[[Shakespearean]]", comparing Smallville to the works of [[Andrew Wyeth]], and likening Metropolis to the pages of a comic book.
+
+''Superman'' received a "Special Achievement" [[Academy Awards|Academy Award]] for [[Academy Award for Visual Effects|Best Visual Effects]], in one of the years when there was no competition for the award.  It was nominated for [[Academy Award for Film Editing|Best Film Editing]], [[Academy Award for Original Music Score|Best Music, Original Score]] and [[Academy Award for Sound|Best Sound]].
+
+==Score==
+{{main|Superman music}}
+
+==Different versions==
+''Superman'' was originally released to theatres in December, 1978 with a running time of 143 minutes, edited from Richard Donner's original three-hour director's rough cut. In 1981, the rights to the movie reverted from Warner Bros. to Alexander Salkind, which allowed him to re-edit the film for international television distribution, including over 45 minutes of previously deleted footage and even some of John Williams' original score that had been left out of the theatrical cut, both elements restored to the film. This so-called "Salkind International Edit" runs 188 minutes. Due to a clause in the director's contract, Donner was excluded from the re-editing process. It was expanded in an attempt by the Salkinds to charge by the minute for television rights. [[American Broadcasting Company|ABC]], which had U.S. broadcast rights to the Salkinds' library, first aired ''Superman'' domestically in February, 1982 as a two-night event. ABC's 182-minute edit, which deleted a few short scenes deemed inappropriate for television, aired again in November of 1982. The ABC version was derived from the Salkind edit. Subsequently, both the theatrical and television versions were distributed in syndication by Warner Bros., which regained control of the film in 1985, but only the theatrical version was issued on home video until 2001, when the special edition DVD featured a 151-minute cut.
+
+In 1979, WCI Home Video (now [[Warner Home Video]]) issued ''Superman'' on [[VHS]] and [[Betamax]] and [[Laserdisc]].  However, only for the VHS and Betamax releases, the film was truncated to a length of 127 minutes, by way of time compression, as most scenes without dialogue were sped up, and a majority of the film's closing credits were deleted, instead replacing them with a truncated version consisting of the copyright notice, and a [[chyron]] of the credits taken from an 8mm release of selected scenes from the film. This time compression was necessary because of the technological limitations of videocassettes at the time and the unavailability of long-playing cassettes. The film would not be available in an uncompressed form until 1983, when Warner Bros. finally issued such a version on home video. This version was re-released to video in 1986. Another Laserdisc set of the film was released in 1990, which was color corrected and in widescreen format, and in its original theatrical version.
+
+In 1994, [[Los Angeles]] television station [[KCOP]] (at the time an independent station) aired the first U.S. broadcast of the complete Salkind edit (it has been believed to have been broadcast outside of the U.S. prior to 1994 since this cut was originally prepared in 1981 before ABC's original telecast).  The full expanded cut has unofficially been circulated on video among fans throughout the bootleg community, at conventions and, most recently, via Internet forums.
+
+==The restoration==
+[[image:Superman1newdvd.jpg|thumb|200px|2006 DVD rerelease.]]
+In 2000, director Richard Donner and [[film preservation|film restoration]] producer [[Michael Thau]] prepared a new 151-minute "Special Edition" originally for theatrical re-release.  Working from original film elements (which were beginning to deteriorate), the film went through a six-month restoration, with both color and sound rejuvenated (and with many new audio effects added, such as a different-sounding "whoosh" used for the opening credit items), and dirt that had been building up on the film over twenty years cleaned. Also, Donner selected eight of the 45-plus minutes that had been used for television release to be incorporated into this new cut. This version was slated for worldwide theatrical re-issue, but was instead released to video and, for the first time ever, on DVD, in the summer of 2001. This version has been seen on cable television and in revival film houses.
+
+The audio for this presentation of the movie is not a simple restoration. When inspecting materials for the restoration the original multi-channel soundtrack was deemed unusable for either theatrical or DVD release. The sound crew took on the job of re-recording the sound effects and mixing them in with the original dialogue and music tracks. Consequently, the soundtrack used for the DVD is an entirely new soundtrack. This caused a minor controversy in the DVD community as none of the original soundtrack mixes were made available until the 2006 4-disc DVD release (which utilized a 2.0 stereo mix from an older laserdisc release). However, the initial pressing of the 2006 DVD accidentally omitted the original audio track (and had a downmixed version of the 5.1 audio from the 2000 version in its place), but [[Warner Home Video]] offered replacement discs featuring the original audio track shortly after the DVD's release.
+
+On [[November 28]] [[2006]] Warner Home Video released ''[[The Christopher Reeve Superman Collection]]'', an 8-disc box set featuring the DVD debut of the original 1978 theatrical version of this film, the 2000 restored edition, the original theatrical ''[[Superman II]]'', and deluxe versions of ''[[Superman III]]'' and ''[[Superman IV: The Quest for Peace]]''. ''[[Superman II: The Richard Donner Cut]]'' was not included in this set.  In the UK this was released as a 9-disc box set addtionally containing the ''[[Superman II: The Richard Donner Cut]]''.
+
+A remastered version of the 143-minute theatrical cut was also prepared, and although this version had not been released on DVD, it had been seen on cable television. However, WB issued the theatrical cut for the first time on DVD as part of the studio's 14-disc box set, ''[[The Ultimate Superman Collection]]'', on [[November 28]] [[2006]].  There was also a "stand-alone" four-DVD set of the first film, which included all the material carried over from the 2001 disc (see below) in addition to the theatrical cut and new supplements.
+
+===2001 DVD Special Features===
+The DVD issued in 2001 is a double-sided disc.
+*Side A:
+**Feature presentation, with added scenes
+**Feature-length commentary with director [[Richard Donner]] and writer [[Tom Mankiewicz]]
+**Music-only audio track
+**Superman: The Legacy
+**Cast & Crew
+**Subtitles (in English, French, Spanish and Portuguese)
+*Side B:
+**Three behind-the-scenes documentaries (totalling over an hour; the first two hosted by [[Jimmy Olsen]] actor [[Marc McClure]] and the final one hosted by Roy Field but still voice-overed by [[Marc McClure]].
+***''Taking Flight: The Development of 'Superman'''
+***''Making 'Superman': Filming the Legend''
+***''The Magic Behind the Cape''
+**Deleted scenes
+**Awards
+**Screen tests
+**Music outtakes
+**Two theatrical trailers
+**Vintage TV spot
+
+==Trivia==
+*It was Marlon Brando's own idea for Jor-El to wear the recognizable 'S' symbol in the scenes on Krypton. The establishment of the 'S' emblem as the El family crest was a departure from the first three eras (Golden, Silver, Modern) of official DC Comics continuity, in which the 'S' emblem and costume were both created by Martha Kent (Mary Kent in the Golden Age) after Clark chose his hero name. However, in the 2003 series ''[[Superman: Birthright]]'', the 'S' symbol has been changed to represent a universal symbol of the planet Krypton, adorning their flags and military uniforms in holographic projections Clark finds contained in a device that came with him from Krypton. He chooses to wear the symbol to honor his Kryptonian heritage, and the name "Superman" is given to him by the newspapers.
+
+*Christopher Reeve reported the following anecdote in his autobiography. The idealistic young actor Reeve asked the seasoned veteran Hackman what his 'motivation' was in playing the role of Luthor. Hackman responded, 'You mean, ''besides'' the million dollars?'
+
+*As was his habit, Brando did not learn his lines, and they were read from cue cards spread around the set.
+
+*Gene Hackman would not wear a bald cap for the part of [[Lex Luthor]] (with the exception of a few scenes for the production of the second film), so Mankiewicz devised the notion of Luthor wearing several different wigs throughout the film.
+
+*During the Smallville segment, the original recording of "[[Rock Around the Clock]]" by [[Bill Haley & His Comets]] is heard on a car radio. This is significant as this is played at the beginning of Glenn Ford's final scene in the movie; Ford had starred in ''[[Blackboard Jungle]]'', the film that introduced "Rock Around the Clock" (and helped launch the [[rock and roll]] era). The expanded ABC edit of the film, however, replaces the song with another piece of music.
+
+*''Superman'' was the first film to feature a split-channel surround soundtrack — originally a 6-channel presentation. Dolby Digital sound made its debut in ''[[Batman Returns]]''. Both were produced by Warner Bros. and feature characters appearing in titles from DC Comics.
+
+*[[DC Comics]] held The Great Superman Movie Contest, where two people won bit parts in the movie. Two teenage boys, Edward Finneran from Massachusetts and Tim Hussey from California won the contest by cutting special letters out of comics and mailing them in.  They appear in the movie as 'special football players' in the scene where Clark is the equipment manager for the high school football team. As the team runs into the school (actually a local football team from rural Canada where the scene was shot), the two winners are identifiable as they go by together, wearing gray uniforms without numbers, while Ed says "See you later, Clark!".
+
+*Shortly thereafter, [[Kirk Alyn]] and [[Noel Neill]], who played the original Superman and Lois Lane in the [[Superman (serial)|movie serials]], also have cameos. They appear as the parents of Lois Lane as a child on a train, while a young Clark Kent speeds by.
+
+*As Richard Donner confirmed in the DVD audio commentary, he has a bit cameo in the shots of Clark getting caught in the ''Daily Planet'' doors: he is reflected in the glass.
+*At no point in the movie does Superman use his heat vision, one of his most famous [[Superman's powers and abilities|powers]].
+*Originally, there was a fourth Kryptonian villain imprisoned in the Phantom Zone with General Zod, an "evil prankster" named "Jak-El" (apparently a [[pun]] on the word jackal). Lex Luthor also had a second henchman in addition to Otis in this incarnation of the story, a [[Germany|German]] man named "Albert." Both of these characters appeared in the July, 1976 draft of the script by [[Mario Puzo]] (which can be found here: http://www.scifiscripts.com/scripts/superman_original.txt), but were dropped in subsequent drafts.
+
+==External links==
+{{wikiquote|Superman: The Movie}}
+*{{imdb title|id=0078346|title=Superman}}
+*[http://www.rottentomatoes.com/m/superman_the_movie/ ''Superman: The Movie'' at RottenTomatoes.com]
+*[http://thethunderchild.com/Reviews/Movies/ReeveSuperman/Superman.html The Superman Sourcebook, at The Thunder Child]
+*[http://www.gradingthemovies.com/html/mv/gtm_mv00625.shtml Family Movie Review for ''Superman'']
+*[http://www.supermancinema.co.uk/superman1/index.shtml Superman Cinema], a comprehensive authority for all the Superman movies
+*[http://www.chrisreevehomepage.com/m-movie1.html Movie Reviews Superman: The Movie] on the Christopher Reeve Homepage
+*[http://www.monitorduty.com/mdarchives/2005/07/why_you_should.shtml ''Why You Should Respect Christopher Reeve''] - an essay by Alan Kistler.
+*[http://www.movietourguide.com/Superman:_The_Movie/filming_locations MovieTourGuide.com - Maps and Directions to ''Superman: The Movie'' Filming Locations]
+*[http://www.supermanhomepage.com/movies/movies.php?topic=interview-salkind-SE Special Edition Superman DVDs on the Way]
+*[http://www.supermanhomepage.com/movies/movies.php?topic=m-movie1 Superman Homepage: Superman: The Movie - Synopsis/Review/Critique]
+*[http://www.cinemademerde.com/Essay-Themes_of_Superman.shtml Essay: The Themes of Superman (1978)]
+*[http://www.notstarring.com/movies/superman Complete list of actors who were considered for roles]
+*[http://redaura.morningchaser.org/superman Fanlisting for the film]
+*[http://superman.markshields.com/ Deleted scenes from Superman (1978) not restored in the 2000 DVD restoration]
+
+{{Superman in other media}}
+
+[[Category:1978 films]]
+[[Category:English-language films]]
+[[Category:Films directed by Richard Donner]]
+[[Category:Hugo Award Winner for Best Dramatic Presentation, Long Form]]
+[[Category:Best Science Fiction Film Saturn]]
+[[Category:Superman films]]
+[[Category:Warner Bros. films]]
+
+[[de:Superman (Film)]]
+[[es:Superman: La Película]]
+[[fr:Superman (film)]]
+[[ko:슈퍼맨 (영화)]]
+[[it:Superman (film)]]
+[[ja:スーパーマン (1978年の映画)]]
+[[pl:Superman (film)]]
+[[pt:Superman (filme)]]
+[[ru:Супермен (фильм)]]
+[[simple:Superman (1978 film)]]
+[[fi:Teräsmies-elokuvat]]
+[[sv:Superman - The Movie]]

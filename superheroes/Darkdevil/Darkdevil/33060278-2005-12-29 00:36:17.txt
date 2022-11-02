@@ -1,0 +1,33 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Darkdevil.png|250px]]
+|caption=Darkdevil, by [[Ron Frenz]]
+|comic_color=background:#ff8080
+|character_name=Darkdevil
+|real_name=Reilly Tyne
+|publisher=[[Marvel Comics]]
+|debut=''Spider-Girl'' #2
+|creators=[[Tom DeFalco]]<br>[[Pat Olliffe]]
+|alliance_color=background:#ffc0c0
+|status=Active
+|alliances=[[New Warriors (MC2)]] 
+|previous_alliances=
+|aliases=
+|relatives=[[Ben Reilly]] (father), [[Spider-Girl]] (cousin), [[Spider-Man|Peter Parker]] (uncle), [[Mary Jane Watson|Mary Jane Parker]] (aunt), [[Kaine]] (uncle, adoptive father),  [[Daredevil]], [[Zarathos]] (ambiguous relationships)
+|powers=Teleportation, ability to create flaming constructs (most commonly a [[billy club]])
+|}}'''Darkdevil''' (Reilly Tyne) is a [[fictional character]], a [[superhero]] in the "[[MC2]]" future of the [[Marvel Comics]] [[Marvel Universe|universe]]. He was created by [[Tom DeFalco]] and [[Pat Oliffe]] and first appeared in ''Spider-Girl'' #2.
+
+==Character biography==
+Reilly Tyne is the son of [[Ben Reilly]], the clone of [[Spider-Man]]. Before he reached his teens, his inherited powers began to kick in, but brought with them clone degeneration. [[Kaine]], the degenerated first clone of Peter Parker, found him, and placed him within a regeneration tank to slow the process.  Trying to kill two birds with one stone, and resurrect [[Daredevil]] - who had previously died saving Kaine - while healing Tyne, he summoned the demon [[Zarathos]].  Zarathos attempted to possess Tyne, but he was saved by the soul of Daredevil, who drove out Zarathos, although both Daredevil's soul and a piece of the demon remained within Tyne, and he was left with a demonic appearance and certain demonic abilities.
+
+Through meditation and concentration, he eventually learned to project a human appearance - but he now looked to be in his twenties, almost twice his actual age.  Following in both of Daredevil's paths, he studied law and became an attorney, while taking on a costume bearing a resemblance to Daredevil's and using his demonic abilities to fight crime as Darkdevil.
+
+==Bibilography==
+*''DarkDevil'' #1-3 ([[Marvel Comics]], November 2000 - January 2001)
+
+
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics titles]]
+[[Category:MC2]]
+
+
+{{Marvel-Comics-stub}}

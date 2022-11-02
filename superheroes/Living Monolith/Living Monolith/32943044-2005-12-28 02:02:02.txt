@@ -1,0 +1,30 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Monolith.png|200px]]
+|caption=The Living Monolith<br>Alan Davis, artist
+|comic_color=background:#ff8080
+|character_name=The Living Monolith
+|real_name=Ahmet Abdol
+|publisher=[[Marvel Comics]]
+|debut=''X-Men'' #54 (May, 1969)
+|creators=[[Roy Thomas]]<br>[[Neal Adams]]
+|alliance_color=background:#c0c0ff
+|status=inactive
+|alliances=
+|previous_alliances=Cult of the Living Monolith
+|aliases= 
+|relatives=
+|powers=absorb large amounts of cosmic radiation to increase his size, mass, strength, and resistance to injury, and the projection of energy as concussive force, intense heat, or sonic vibrations
+|}}
+
+'''The Living Monolith''' is a fictional [[supervillain]] in the [[Marvel Universe|Marvel Comics universe]].  He first appeared in ''X-Men'' #54 (1969).
+
+==Character biography==
+Ahmet Abdol was a professor of [[ancient Egypt]]ology who discovered he had the ability to manipulate [[cosmic energy]], mainly by absorbing it and projecting it as energy blasts. Deciding to use his powers for his own personal gain, Abdol created a cult around himself and set about his plan to rule the [[world]]. Abdol was the Living [[Pharaoh]] while in his normal appearance, but once he obtained enough cosmic energy, he would increase in size, mass, and power, thus becoming the Living [[Monolith]]. 
+
+Abdol discovered that another mutant, [[Havok]] (Alex Summers, brother to [[Scott Summers]] also known as Cyclops) could absorb and project cosmic energy more easily then Abdol could. Abdol kidnapped Havok and used him to increase his power. Abdol has mainly been an [[X-Men]] villain, usually using Havok to become the Living Monolith. He has also used other superheroes, including the [[Fantastic Four]] (who gained their super powers from exposure to cosmic rays). He even killed his own daughter to achieve his goal.
+Though he is usually the one pulling the strings, another X-Men villain, [[Apocalypse (comics)|Apocalypse]], wanted to use the Living Monolith to drain the powers of other superbeings. Abdol went on a rampage, and several Marvel heroes attempted to stop him. Eventually Abdol grew so large that [[Thor (comics)|Thor ]] had to throw him into outer space, where the Living Monolith eventually became a Living Planet, similar to Ego.
+
+The Living Monolith's history was later [[retcon]]ned.  It was revealed that Abdol's powers did not spring from an inherent [[mutant (fictional)|mutant]], but rather from a procedure performed on him by [[Mister Sinister]].  Sinister spliced certain x-genes from Alex Summers into his [[genome]], thus giving Abdol the ability to absorb cosmic energy.  Since his powers were genetically similar to Havok's, this explained why their abilities interfered with one another's.
+
+
+[[Category:X-Men villains]]

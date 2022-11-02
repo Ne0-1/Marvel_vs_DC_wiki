@@ -1,0 +1,31 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[image:Steviehunter1.jpg]]
+|caption=Stevie Hunter
+|comic_color=background:#365FB7
+|character_name=Stevie Hunter
+|real_name=Stevie Hunter
+|publisher=[[Marvel Comics]]
+|debut=''[[Uncanny X-Men]]'' #139 (November [[1980]])
+|creators=[[Chris Claremont]]<br>[[John Byrne]]
+|alliance_color=background:#8698B1
+|status=Inactive
+|alliances=[[X-Men]]
+|previous_alliances= N/A
+|aliases= N/A
+|relatives= N/A
+|powers= N/A
+|}}
+Stevie Hunter is a [[comic book]] character in [[Marvel comics]]. Her first appearance was in Uncanny X-men #139 as a surprise dance teacher for the newest X-Man/Student, [[Kitty Pryde]], a.k.a. [[Shadowcat (comics)|Shadowcat]]. She has continued to make some scattered appearance in X-Men comic books.
+
+==Character History==
+Stevie Hunter was a professional dancer, but an injury to her knee ruined her career and forced her to discontinue her dancing full time. As an alternative, she began teaching dance classes with the most notable student being [[Kitty Pryde]]. She later taught several [[New Mutants]] as well. She quickly became a best friend to Kitty, and on occasions made [[Storm (comics)|Storm]], who had unofficially taken up the mantle of Kitty's surrogate mother, slightly jealous of the attention that Kitty gave to her. 
+
+Stevie Hunter was, shortly after her first appearance, captured by [[Arcade (comics)|Arcade]], but was rescued by the [[X-Men]]. Though, at this time, Kitty was ill and did not participate in the mission.
+
+==External links==
+* [http://www.uncannyxmen.net/db/characters/showquestion.asp?fldAuto=1301 |Uncanny Xmen.net Database]
+
+
+{{Marvel-comics-stub}}
+[[Category:X-Men supporting characters|Hunter, Stevie]]
+[[Category:Fictional dancers|Hunter Stevie]]

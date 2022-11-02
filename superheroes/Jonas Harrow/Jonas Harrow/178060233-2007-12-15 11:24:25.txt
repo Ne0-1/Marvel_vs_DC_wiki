@@ -1,0 +1,47 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image =<!--  Commented out because image was deleted: [[image:Harrow.jpg|250px]] -->
+| caption =Jonas Harrow.<br>[[Leinil Francis Yu]].
+| comic_color = background:#ff8080
+| character_name =Jonas Harrow
+| real_name =Jonas Harrow
+| species=
+| publisher = [[Marvel Comics]]
+| debut = ''Amazing Spider-Man #114'' ([[October 1972]])
+| creators =[[Gerry Conway]]<br>[[John Romita, Sr.]]
+| alliance_color = background:#ffc0c0
+| status = Active
+| alliances =
+| previous_alliances =
+| aliases =
+| relatives =  
+| powers =Genius surgeon, geneticist, cyberneticist and machinesmith
+|}}
+
+'''Jonas Harrow''' is a [[fictional character]], a [[supervillain]] in the [[Marvel Comics]] Universe, in which he is an enemy of [[Spider-Man]]. His first appearance was in ''Amazing Spider-Man #114''.
+
+==Fictional character biography==
+
+Over two decades ago, Jonas Harrow was disgraced as a surgeon and expelled from the medical profession for unorthodox experiments. Happening upon a near-dead criminal, Harrow, entertaining half-hearted hopes of redemption, cybernetically restored the criminal, who became the gangster [[Hammerhead (comics)|Hammerhead]]. Harrow slid deeper into underworld research eventually seeking mind-controlling technology.
+
+In recent years, Harrow enhanced criminals to superhuman status for a fee, the hapless Megawatt his first known subject. When Hammerhead rose to prominence, Harrow observed his ex-patient's battles with Spider-Man, whom he perceived as a challenge. He enhanced another criminal, the mutant [[Kangaroo (comics)|Kangaroo]] (Frank Olver), who ungratefully scorned Harrow's schemes. Harrow continued providing services to villains like [[Living Laser]], but when [[Will o' the Wisp (comics)|Will o' the Wisp]] sought removal of his power, Harrow implanted a surgical device to extort him into theft.
+
+When the Wisp reveled while fighting the intervening Spider-Man, Harrow's device temporarily dissipated him. Using stolen information, Harrow developed a "variator ray" to control human emotion. By now obsessed with Spider-Man, he tested the device on the hero's self-appointed enemy, [[Daily Bugle]] publisher [[J. Jonah Jameson]], whom he drove to a nervous breakdown. Gloating, Harrow widened the ray's range to the victims, and he located and destroyed the ray. Undaunted, Harrow dared Spider-Man to confront him, but was defeated with one punch. Sentenced to [[Ryker's Island]] Prison, Harrow learned that inmate Armand DuBroth was blackmailing Warden Percy Rue into allowing DuBroth's use of the prison a base of criminal activities, including the release of select super-villains. Harrow became the latest beneficiary of DuBroth's scheme, but Spider-Man exposed the operation. Harrow went unheard for for years, although some incorrectly suspected him of being the Hobgoblin.
+
+Harrow accepted a [[Roxxon Oil]] contract to create synthetic automated soldiers; to this end, he again extorted industrial crimes from Will O'The Wisp. Surreptitiously seeking Spider-Man's help, the Wisp instead encountered the hero's clone [[Ben Reilly]], who removed Harrow's  implant when the Wisp assumed intangible form, but not before Harrow forced his catspaw to release [[Dragon Man]] from custody. When Harrow remotely guided the powerful android to him, Reilly and the Wisp followed and destroyed Harrow's base.
+
+Evading capture, Harrow studied Dragon Man in a subterranean facility, but a subway attack by the vampiric Bonham and his followers accidentally released Harrow's charge, which crashed into the battle Bonham's forces waged against [[She-Hulk]] and the [[Thing (comics)|Thing]]. Exposed during the fray and arrested, Harrow was soon at liberty, distributing advanced weapons on the black market to finance new and inhumane experiments. Experiencing chest pains, Harrow phoned for emergency medical assistance before collapsing, but the robots and cyborgs that defended his facility drove off rescuers. Recruited to penetrate the defenses, [[Iron Fist (comics)|Iron Fist]] escorted the stricken scientist to treatment and re-arrest.
+
+===New Avengers===
+Jonas Harrow has been hired by the [[Hood (comics)|Hood]] to take advantage of the split in the superhero community caused by the Superhuman Registration Act.<ref>New Avengers #35</ref>
+
+==Powers and abilities==
+Jonas Harrow is a genius surgeon, geneticist, cyberneticist and machinesmith. He requires medication for a heart condition.
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Harrow, Jonas}}
+
+[[Category:Fictional surgeons]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Supervillains without aliases]]

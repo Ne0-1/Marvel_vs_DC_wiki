@@ -1,0 +1,41 @@
+{{Superherobox| <!--Wikipedia:Wikiproject Comics-->
+|comic_color=background:#ff8080
+|character_name=Friday
+|image=[[Image:Friday2000.jpg|130px]]
+|caption=Smartship Friday, art by [[Colleen Doran]]
+|publisher=[[Marvel Comics]]
+|debut= ''Power Pack'' vol. 1 #1 (August 1984)
+|creators=[[Louise Simonson]]<br>[[June Brigman]]
+|alliances=[[Power Pack]]<br/>[[New Warriors]]
+|powers=interstellar flight
+|}}
+
+'''Smartship Friday''' is a fictional starship in the [[Marvel Universe]]. It first appeared in ''Power Pack'' #1 (Aug 1984) and was created by [[Louise Simonson]] and [[June Brigman]].
+
+==Fictional history==
+The [[Kymellian]] [[Aelfyre Whitemane]] owned this “smartship”, which named itself Friday after the character from [[Robinson Crusoe]]. A smartship is a starship which is controlled by a computer system so advanced that it is effectively sentient, with a human-like personality.
+
+After Whitemane was fatally wounded and had transferred his superhuman abilities into the four children who would become [[Power Pack]],<ref>''Power Pack'' (vol. 1) #1</ref> Friday devoted itself to their service, adopting the role of mentor to the fledgling superheroes. Power Pack often argued over the use of gender-specific pronouns for Friday (possibly prompted by Friday's constant statements of maternal love towards the children), speculating that though an artificial intelligence (and thus sexless) he/she may or may not have been female, but no decision was reached amongst themselves or by Friday one way or another.
+
+Friday was also used by the [[New Warriors]] during the period when [[Alex Power]] was a member of the team, but was destroyed in that series' final issue.<ref>''New Warriors'' (vol. 1) #75</ref> The artificial intelligence was later restored to another - more advanced - starship.<ref>''Power Pack'' (vol. 2) #3</ref>
+
+Friday delivered Alex Power to the Fantastic Four's headquarters when Alex joined the Future Foundation.<ref>''Fantastic Four'' #579</ref>
+
+==Other versions==
+
+===Marvel Adventures===
+Friday was and remains a regular cast member of the Marvel Adventures line of successful Power Pack children's digest collections, which feature the most recognisable (and lucrative) versions of the characters from their long and varied publication history. Because of the team's youthful status in these books, Friday's role is often that of a baffled, but well-meaning mentor, and its physical appearance is identical to its original body before it was destroyed in New Warriors #75.
+
+In the [[Marvel Adventures]] line of comics, Friday's voice was revealed to be identical to that of film actress [[Rosalind Russell]]<ref>''Power Pack: Day One'' #2</ref>
+
+==Footnotes==
+{{Reflist}}
+
+{{Power Pack}}
+
+[[Category:Characters created by Louise Simonson]]
+[[Category:Fictional spacecraft]]
+[[Category:Marvel Comics vehicles]]
+
+
+{{Marvel-comics-stub}}

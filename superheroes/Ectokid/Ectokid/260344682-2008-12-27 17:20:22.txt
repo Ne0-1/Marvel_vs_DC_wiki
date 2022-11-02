@@ -1,0 +1,54 @@
+{{Infobox comic book title <!--Wikipedia:WikiProject Comics--> 
+|title               = Ectokid
+|image               = Ectokid1.jpeg
+|caption             = ''Ectokid'' #1 (Sept. 1993). Cover art by [[Steve Skroce]]
+|schedule            = Monthly
+|ongoing             = y
+|Horror              = y
+|publisher           = [[Razorline]] ([[Marvel Comics]])
+|date                = September 1993 - May 1994
+|issues              = 9
+|main_char_team      =
+|writers             = [[James Robinson (comics)|James Robinson]]<br />[[Wachowski brothers|Larry Wachowski]]<br />[[Wachowski brothers|Andy Wachowski]]
+|artists             =
+|pencillers          = [[Steve Skroce]]
+|inkers              = [[Bob Dvorak (comics)|Bob Dvorak]]
+|letterers           = [[Gaspar Saladino]]
+|colorists           = [[John Kalisz]]
+|editors             = [[Marcus McLaurin]]
+|creative_team_month =
+|creative_team_year  =
+|creators            = [[Clive Barker]]
+|TPB                 =
+|ISBN                =
+|subcat              = Marvel Comics
+|sort                = {{PAGENAME}}
+}}
+'''''Ectokid''''' is a [[fantasy]] [[comic book]] series published by [[Marvel Comics]]' [[Razorline]] [[imprint]], created by filmmaker and [[horror fiction|horror]]/[[fantasy]] novelist [[Clive Barker]].
+
+==Publication history==
+''Ectokid'' ran nine issues (Sept. 1993 - May 1994) before being discontinued with the rest of the Razorline titles. The art for all nine issues was by [[penciller]] [[Steve Skroce]] and [[inker]] [[Bob Dvorak]]. The writing was split between [[James Robinson (comics)|James Robinson]] (issues #1-3) and [[Wachowski brothers|Larry Wachowski]] (issues #3-9), future co-creator of ''[[The Matrix]]'' film trilogy. Although uncredited, Wachowski's brother and filmmaking partner [[Wachowski brothers|Andy Wachowski]] co-wrote with him.<ref>[http://observer.guardian.co.uk/comment/story/0,6903,958269,00.html ''The Observer'' (Sunday, May 18, 2003): "Brothers Grim", by Akin Ojumu]</ref>
+
+Though carrying the [[Comics Code]] seal, ''Ectokid'' and the other Razorline titles were often racked with horror and unrated comics, a factor that entered into the imprint's demise.{{Fact|date=April 2008}} A subsequent one-shot, ''Ektokid Unleashed'' (Oct. 1994), was written by [[Dan Abnett]] and [[Andy Lanning]], with artwork by penciler [[Hector Gomez]] and inker [[John Strangeland]]. It included a prose short story starring another Razorline character, [[Saint Sinner (comics)|Saint Sinner]], written by [[Elaine Lee]].
+
+==Fictional character biography==
+''Ectokid'' is centered around 14-year-old Dextor Mungo, whose father was a ghost. Dex, as he's called, sees the world as it normally is through his right eye, but through his left he can see into the Ectosphere, a dimension similar to Earth but with a number of crucial differences. All the regular-Earth buildings are in the same places, but have a crusted and coral-covered appearance, and this world is populated by creatures and races out of myths, legends and nightmares.
+
+As Barker described, "''Ectokid'', which is perhaps the second weirdest of the bunch, is a kind of dream story for the 15-year-old that's still alive to me — the tale of an adolescent who lives in two worlds and has access to a whole other sphere of reality".<ref>[http://www.clivebarker.info/ints93b.html Official Clive Barker Resource]</ref>
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin}}
+* [http://www.internationalhero.co.uk/e/ectokid.htm Ectokid]  at the International Catalogue of Superheroes
+* [http://www.clivebarker.com/html/visions/bib/comics/ecto/index.html ''Ectokid''] at CliveBarker.com (unofficial site)
+* [http://www.lambiek.net/artists/s/skroce_steve.htm Steve Skroce] at [[Lambiek]]'s Comiclopedia
+* {{gcdb series|id=4692|title=''Ectokid''}}
+* [http://www.maelmill-insi.de/UHBMCC/SHOW.HTM?SerNr=1569 ''Ectokid''] at the Unofficial Handbook of Marvel Comics Creators
+* {{comicbookdb|type=title|id=4868|title=''Ectokid''}}
+{{refend}}
+
+[[Category:1993 comic debuts]]
+
+[[tl:Ectokid]]

@@ -1,0 +1,55 @@
+{{comics-tense-date|August 2006}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:AbeCornelius.jpg]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Doctor Cornelius
+|real_name=Abraham Cornelius
+|publisher=[[Marvel Comics]]
+|debut=''Marvel Comics Presents'' #73
+|creators= [[Barry Windsor-Smith]]
+|alliance_color=background:#cccccc
+|alliances=[[Weapon X]], Matsu'o Tsurayaba, [[Hand (comics)|The Hand]], [[Fenris (comics)|Fenris]]
+|aliases=
+|powers=none<br>baseline human
+|}}
+
+Doctor '''Abraham Cornelius''' is a fictional character who was first mentioned in Barry Windsor-Smith's eight page preview prequel chapter to the original [[Weapon X Saga]] in [[Marvel Comics]] Presents #72 but only first appeared in Marvel Comics Presents #73.
+
+==Character biography==
+Dr. Cornelius, one of the senior scientists for Weapon X, employed by the mysterious Professor.  Sometime after World War II, [[Wolverine (comics)|Wolverine]] was taken in by the project and Cornelius was assigned with the task of perfecting and using a technique that would bond the indestructible alloy [[adamantium (comics)|adamantium]] to human bone cells. This adamantium-bonding process was first created by [[Lord Dark Wind]] ([[Lady Deathstrike]]'s father), but was only put into use after being perfected by Cornelius when he succeeded in bonding Logan's skeleton with adamantium, and was indoctrinated into the Weapon X assassin program.
+
+Years later, Japanese crimelord Matsu'o Tsurayaba and his allies, including former Weapon X scientist Doctor Cornelius, resurrected the Russian super-soldier [[Omega Red]]. In order to stabilize his mutant power, Omega Red required the Carbonadium Synthesizer, a device stolen from him by Team X decades earlier. Omega Red captured Wolverine, who had the location of the C-Synthesizer buried in his memory, and several of Wolverine's teammates in the X-Men. [[Agent Zero|Maverick]] was hired by former Team X liaison Major Arthur Barrington to prevent Omega Red from obtaining the device, and he tracked another former Team X member, [[Sabretooth (comics)|Sabretooth]], to Omega Red's location. With Maverick's help, the X-Men were able to defeat the villains, and he subsequently killed Cornelius in an act of revenge.
+{{-}}
+
+==Ultimate Doctor Cornelius==
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:ultcornelius.jpg]]
+|caption=Disfigured Cornelius from Ultimate X-Men #68.  Art by [[Tom Raney]].
+|comic_color=background:#ff8080
+|character_name=Ultimate Doctor Cornelius
+|real_name=Abraham Cornelius
+|publisher=[[Marvel Comics]] ([[Ultimate Marvel]] Imprint)
+|debut=''Ultimate X-Men'' #8
+|creators= [[Mark Millar]]<br>[[Adam Kubert]]<br>based on Dr. Abraham Cornelius by [[Barry Windsor-Smith]]
+|alliance_color=background:#c0c0ff
+|alliances=[[Weapon X]], [[Sabretooth (comics)|Sabretooth]]<br>[[Kestrel (comics)|John Wraith]], [[Lady Deathstrike|Deathstrike]]
+|aliases=
+|powers=none<br>baseline human
+|}}
+In the Ultimate Marvel Universe, Doctor Cornelius plays a much larger role than his mainstream counter part.  He first appeared in the [[Ultimate X-Men]] story arc Return to Weapon-X.
+
+In this version, Doctor Cornelius along with his benefactor, Colonel [[Kestrel (comics)|John Wraith]] headed up the Weapon X Program.  Unlike his benefactor though, he does not seem to harbor any anti-mutant sentiments, but he merely wishes to conduct experiments on mutants to indulge his own curiosities.  The Weapon X Program was sanctioned by [[S.H.I.E.L.D.]] during the [[Gulf War]] and resulted with the creation of [[Wolverine (comics)|Wolverine]], which has been their greatest achievement ever.  After Wolverine escaped, Weapon X captured several other mutants to be his replacements and eventually captured the X-Men as well.  In their captivity, Cornelius augmented the [[Beast (comics)#Ultimate Beast|Beast]]'s natural abilities along with giving him a keen sense of smell.  This procedure caused Beast to transform even more by growing blue fur all over his body and growing claws on his hands and feet.  After Wraith was killed by [[Ultimate Nick Fury|Nick Fury]] and Weapon X was shut down by S.H.I.E.L.D., Cornelius' whereabouts were unknown.  It is not confirmed if he had anything to do with the rogue Weapon X agents led by Tara who hunted Wolverine down all over Manhattan and participated with the coup against the President of the United States.
+
+Later on, he recruited the [[quadriplegic]] [[Lady Deathstrike]] and offered her a chance of revenge against [[Storm (comics)|Storm]], the person who was responsible for her present condition.  He spliced some of Wolverine's DNA with hers which gave her a healing factor that was twice as fast as Wolverine's and also bonded her shattered body with adamantium.  Cornelius' true objective however was to capture Wolverine since he was accompanied by Storm at that time and he used that fact to manipulate Deathstrike.  His attempts, however, ended in failure with Deathstrike being captured and imprisoned in the [[Triskelion]] and his chopper being blown up.  He was presumed dead.
+
+It has recently been revealed that he survived the helicopter crash but has been horribly disfigured.  He is responsible for [[Sabretooth (comics)#Ultimate Sabretooth|Sabretooth]]'s latest attack on Wolverine in an effort to gain tissue samples from him.  He has stated that if he couldn't get Wolverine to do what they want, then they'll make their own Wolverine.  
+
+Apart from the scarring, Ultimate Doctor Cornelius resembles Professor Thorton, the original director of the Weapon X project in the mainstream universe.
+
+[[Category:Supervillains without aliases|Cornelius, Abraham]]
+[[Category:Wolverine villains|Corneliusm Abraham]]
+[[Category:Fictional doctors|Cornelius, Abraham]]
+[[Category:Fictional scientists|Cornelius, Abraham]]
+[[Category:Fictional evil scientists|Cornelius, Abraham]]
+[[Category:Weapon X|Cornelius, Abraham]]

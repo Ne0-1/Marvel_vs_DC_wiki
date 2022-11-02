@@ -1,0 +1,41 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Professor Power
+|real_name=Anthony Power
+|publisher=[[Marvel Comics]]
+|debut=''Marvel Team-Up'' vol. 1 #117
+|creators=
+|alliance_color=background:#cccccc
+|status=
+|alliances=
+|previous_alliances=[[Mutant Force]], [[Secret Empire]]
+|aliases=Professor, Number One
+|relatives=
+|powers=
+|}}
+'''Professor Power (Anthony Power)''' is a [[fictional character]] in the [[Marvel Comics]] Universe. His first appearance was in ''Marvel Team-Up vol. 1 #117''.
+
+==History==
+A former criminal mastermind, Anthony Power was also the former ally of [[Morgan MacNeil Hardy]] and [[August Masters]] as well as the [[Secret Empire]].  He transformed his mind into his son's body after son went insane.
+
+==Bibliography==
+*''Avengers West Coast Annual'' #7
+*''Captain America'' vol. 1 #264, 268, 338 ("died")
+*''Darkhawk Annual'' vol. 1 #1]
+*''Defenders'' vol. 1 #102, 104, 106, 123, 125-130, 149
+*''Iron Man Annual'' #13
+*''Marvel Team-Up'' vol. 1 #117-118, 124
+*''Official Handbook of the Marvel Universe'' vol. 2 #19
+*''Spectacular Spider-Man'' vol. 1 #197-198
+*''Spectacular Spider-Man'' vol. 2 #197-199
+*''Thunderbolts'' vol. 1 #33
+*''X-Factor Annual'' #9
+
+[[Category:Fictional terrorists]]
+[[Category:Brotherhood of Mutants members]]
+
+[[fi:Professori Power]]
+
+{{marvel-comics-stub}}

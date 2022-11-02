@@ -1,0 +1,59 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Mickey Fondozzi
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[The Punisher War Journal]]'' vol 1 #1 (March, 1992)
+| creators       = 
+| alter_ego      = 
+| full_name      =
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = <!-- optional -->
+| partners       = [[The Punisher]]
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = 
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = 
+| sortkey        = {{PAGENAME}}
+| addcharcat#    = 
+}}
+
+'''Mickey Fondozzi''' is a fictional [[Marvel Comics]] character and an ally of the [[Punisher]].  
+
+==Fictional character history==
+Before he encounters the Punisher, Mickey is working for the Carbone crime family. They believe that he is Italian-American; in actuality, he is Albanian.  
+
+He first meets the Punisher while leading a raid against a Chinese-Triad bank with four enforcers.  Punisher kills the enforcers but leaves Mickey alive.<ref>"Punisher War Zone" #1</ref> He then recruits Mickey to help set up the identity of Johnny Tower <ref>"Punisher War Zone" #2-3</ref>, which he uses to infiltrate the Carbone family. Mickeys fast-talking convinces Julian Carbone, the head of the family, that Johnny Tower is simple muscle. The Punisher is displeased that he has been cut out from much of the action by Mickey but is unable to do much about it.  
+
+When Julian discovers, he kidnaps both Punisher and Fondozzi. Punisher, however, is saved by [[Shotgun (comics)|Shotgun]], and the duo then rescues Mickey. Punisher and Shotgun then kill Julian, his brother and many of their associates. <ref>"Punisher War Zone" #4-6</ref>
+
+Mickey becomes deeply involved in the Punisher's attempt to bring down the criminal organization known as the [[Secret Empire]]. He ends up working closely with [[Microchip (comics)|Microchip]], a long term associate of the Punisher. Secret Empire agents kidnap the duo; a coincidence causes them to believe Mickey and Microchip are two of the leaders of the Empire. <ref>"Daredevil" #307-309; "Nomad" #4-6; "Punisher War Journal" #46-48</ref>
+
+Mickey and Microchip are monitoring the Punisher from afar during a mission to kill a collection of mob leaders in an otherwise empty office building. One mobster left compels Frank to blow the building. Mickey and his ally are well away from the surveillance van when cops surround it. Mickey encourages Microchip to detonate the van from afar in order to cover their tracks. Microchip refuses to kill innocent police officers. At this point, Mickey abandons him. {{Issue|date=January 2010}}
+
+For some time after this, Mickey helps the Punisher periodically. He eventually starts his own car lot, Mickey's Salvage, where he fenced stolen cars.  When he unwittingly sold a car belonging to [[Black Widow (Natalia Romanova)|Black Widow]], he was visited by Widow and [[Cloak and Dagger (comics)|Dagger]], at which juncture Dagger used one of her soul-cleansing daggers on him.  After that, he refused to cooperate with the Punisher, saying that he had "gone straight".<ref>''Marvel Knights #10 vol. 1 (April 2001)</ref>
+
+==In other media==
+In the 2004 film [[The Punisher (2004 film)|The Punisher]], the character of Micky Ducka, portrayed by [[Eddie Jemison]], is heavily based on Mickey Fondozzi.{{Citation needed|date=May 2010}}
+
+
+==Notes==
+<references/>
+
+==External links==
+*[http://marvel.wikia.com/Mickey_Fondozzi_(Earth_616) Mickey Fondozzi - Marvel Wiki]
+*[http://www.comicvine.com/mickey-fondozzi/29-11950/ Mickey Fondozzi - Comicvine]
+
+{{Punisher}}
+
+{{DEFAULTSORT:Fondozzi, Mickey}}
+[[Category:Comics characters introduced in 1992]]
+[[Category:Fictional mobsters]]
+[[Category:Marvel Comics characters]]
+[[Category:The Punisher]]

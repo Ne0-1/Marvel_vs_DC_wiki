@@ -1,0 +1,153 @@
+: ''For the Marduk album, see [[Nightwing (album)]]. For the current and most prominent holder of the Nightwing title, see [[Dick Grayson]] ''
+{{Infobox comics set and title
+<!--Wikipedia:WikiProject Comics-->
+<!--Character section-->
+<!-- |code_name  = Nightwing -->
+|image      = <!-- filename format only -->
+|noimage    = yes - Multiple characters with multiple looks. Get a consensus before adding an image here.
+|imagesize  = 
+|caption    = 
+|publisher  = [[DC Comics]]
+|debut      = '''Superman as Nightwing:'''<br />''Superman'' #158 (January 1963)
+|debutmo    = Jamuary
+|debutyr    = 1963
+|debutyr1   = 1977
+|creators   = Edmond Hamilton, Curt Swan
+|characters = [[Superman|Kal-El]]/[[Clark Kent]]<br />[[Van-Zee]]<br/>'''[[Dick Grayson]]'''<br />[[Nite-Wing|Tad Ryerstad]]<br />[[Jason Todd]]<br />[[Power Girl]]<br />[[Cheyenne Freemont]]
+|seealso    = 
+
+<!--Series section--> 
+<!-- |title               = -->
+|cvr_image           = Nightwing v1 1.jpg
+|cvr_caption         = ''Nightwing'' vol. 1, #1 (Sept, 1995).<br>Featuring the Dick Grayson version of hte characte.<br>Art by [[Brian Stelfreeze]].
+|schedule            = '''(vol 1)'''<br>Monthly<br>'''(vol 2)'''<br>Monthly (1-100, 107-)<br>Bi-weekly (101-106)
+|format              = '''(vol 1)'''<br>[[Limited Series]]<br>'''(vol 2)'''<br>[[Ongoing series]]
+|limited             = Y
+|ongoing             = Y
+|Superhero           = y
+|pub_series          = DC Comics
+|1stishhead          = vol 1
+|1stishyr            = 1995
+|1stishmo            = September
+|endishyr            = 1995
+|endishmo            = December
+|1stishhead1         = vol 2
+|1stishyr1           = 1996
+|1stishmo1           = October
+|endishyr1           = 
+|endishmo1           = 
+|issues              = '''(vol 1)'''<br>4<br>'''(vol 2)'''<br>151+ (includes an issue numbered 1000000)
+|main_char_team      = Dick Grayson
+|writers             = 
+|artists             = 
+|pencillers          = 
+|inkers              = 
+|letterers           = 
+|colorists           = 
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = 
+|TPB                 = 
+|ISBN                = 
+|nonUS               = 
+
+<!--Categories-->
+|cat                 = super
+|subcat              = DC Comics
+|altcat              = 
+|hero                = y
+|villain             = y
+|sortkey             = Nightwing
+|sort_title          = Nightwing
+}}
+'''Nightwing''' is a name used by at least six [[fictional character|fictional]] characters in the [[DC Comics]] [[DC Universe|Universe]]. Although originating with the [[Superman]] mythos, [[Dick Grayson]] (the first [[Robin (comics)|Robin]]) is the character most associated with the name "Nightwing". The alias is also frequently paired with "[[Flamebird]]", another title taken by several DC Comics characters.
+
+The name is originally used by the pre-[[Crisis on Infinite Earths|Crisis]] Superman, when he and [[Jimmy Olsen]] act as vigilantes during trips to the bottle city of [[Kandor]]. Later, Superman's cousin [[Van-Zee]] uses the name. Post-Crisis, Superman attributes the name to a historic [[Krypton (comics)|Kryptonian]] crimefighter. The Superman-related heroes serve as an inspiration for Dick Grayson when he sheds his Robin identity and assumes the name and a new costume in ''[[Teen Titans (comics)#A second series: New Teen Titans (vol. 2)|Tales of the Teen Titans]]'' #44 (1984).
+
+In the ''Nightwing'' [[comic book]] series, Grayson trains a killer who goes by the name of [[Nite-Wing]], but later must capture him when he realizes Nite-Wing's violent nature. "[[One Year Later]]" storylines in ''Nightwing'' and ''Supergirl'' feature characters [[Jason Todd]], Cheyenne Freemont, and [[Power Girl]] using the name "Nightwing".
+
+==Character history==
+===Superman===
+As first depicted in the story "Superman in Kandor" in ''[[Superman (comic book)|Superman]]'' (Vol. 1) #158 (January 1963), Nightwing is an alias used by [[Superman]] in [[Edmond Hamilton]]-penned pre-[[Crisis on Infinite Earths|Crisis]] adventures in the city of [[Kandor]], a [[Krypton (comics)|Kryptonian]] city that was shrunken and preserved in a bottle. 
+
+In Kandor, Superman has no [[Superpower (ability)|superpowers]] and, in the story, is branded an outlaw there due to a misunderstanding. To disguise themselves, Superman and [[Jimmy Olsen]] create vigilante identities inspired by [[Batman]] and [[Robin (comics)|Robin]]. Because neither bats nor robins lived on Krypton, Superman chooses the names of two birds owned by Superman's Kandorian friend [[Nor-Kan]]: "Nightwing" for himself and "Flamebird" for Olsen. The Dynamic Duo of Kandor create costumes evocative of the birds' plumage. Nightwing and Flamebird rename Nor-Kan's underground laboratory as the "Nightcave", and use it as their secret headquarters. They also convert Nor-Kan's automobile into their "Nightmobile", and use "jet-belts" to fly into battle. 
+
+[[Image:S158s2.png|thumb|left|225px|Superman and Jimmy as Nightwing and Flamebird respectively. From ''Superman'' #158 (1963). Art by [[Curt Swan]].]]In ''Jimmy Olsen'' #69 (June 1963), "The Dynamic Duo of Kandor" introduces Nightwing's dog Nighthound. In "The Feud Between Batman and Superman" in ''[[World's Finest]]'' #143 (August 1964), Batman and Robin themselves visit Kandor with Superman and Olsen and the two Dynamic Duos team up.
+
+In ''[[Superman Family]]'' #183 (May-June 1977), Superman's [[look-alike]] second cousin [[Van-Zee]] and his niece's husband [[Ak-Var]] take up the Nightwing and Flamebird identities. The vigilantes take on crime in their city as had Superman and Olsen before them. 
+
+In 2001's ''[[Superman: The Man of Steel]]'' #111, Superman and [[Lois Lane]] travel to Krypton. Labeled as criminals, Superman and Lois become fugitives, adopting the Nightwing and Flamebird identities to survive, just as had Superman and Olsen in ''Superman'' #158.
+
+[[Image:NightwingKandor.jpg|thumb|right|135px|[[Power Girl]] as Nightwing. Art by [[Ed Benes]].]]
+In Greg Rucka's Supergirl (Vol. 3) #6, Power Girl and Supergirl assume the identities of Nightwing and Flamebird in a story set in Kandor, just as in the original pre-crisis stories featuring Superman.
+
+Recently in 2008, ''[[Superman: New Krypton]]'' had Superman coming to terms with the death of his adoptive father while also dealing with 100,000 Kryptonians now living on Earth as a result of the shrunken cities that he recently recovered from Brainiac's ship which contained the lost Kryptonian city of Kandor. At the end of the fourth issue of the arc, a new Nightwing and Flamebird appear in Superman's Fortress of Solitude to stop two of [[Zod]]'s followers (who were living on Kandor) from releasing the Kryptonian General from his [[Phantom Zone]] imprisonment. While guarding the projector in order to prevent any Zod loyalists from freeing him from the Phantom Zone, both Flamebird and Nightwing exhibited powers that are not inherent to normal Kryptonians. Flamebird exhibits flames that project from her hands while Nightwing uses "natural tactile telekinesis". The pair seem to be stronger than normal Kryptonians as they knock out the two Zod loyalists with one blow a piece. In a later appearance, the duo is seen in [[Gotham City]]. Nightwing casually hovers in the sky as Flamebird instucts him to stop flying and states that he isn't "the only one with a secret to keep." Furthermore, unlike previous porayals, it seems Flamebird believes herself to be the dominant partner. The arc is ongoing.
+
+===Dick Grayson===
+{{main|Dick Grayson}}
+The teamup between both Nightwing and Flamebird teams along with their inspirations, Batman and Robin, for an adventure in Kandor proves important to the young [[Dick Grayson]]. When Dick later gives up his role as Robin in 1984, he recalls the Kandorian adventure and renames himself Nightwing, in homage to both Batman and Superman.{{issue}} After the events of ''Crisis on Infinite Earths'' re-boot the [[Timeline of the DC Universe|DC continuity]], Superman no longer has knowledge of Kandor; instead, he remembers Nightwing as an urban legend of Krypton, which he shares with a young Dick Grayson. Grayson, who considers Superman his favorite superhero, takes the identity in his honor.{{issue}}
+
+[[Image:TalesoftheTeenTitans059.png|thumb|right|150px|Dick Grayson in his original Nightwing costume. From ''Tales of the Titans'' #59 (1984).]]
+
+In [[Blüdhaven]], a sociopath named Tad Ryerstad becomes a superhero, inspired by the retired hero [[Tarantula (DC Comics)|Tarantula]]. He takes his name, [[Nite-Wing]], from an all-night deli specializing in chicken wings. Unstable, Nite-Wing beats people for minor offenses. Nite-Wing is shot on his first night out and Dick Grayson, as Blüdhaven's protector Nightwing, defends him from [[Blockbuster (comics)#Roland Desmond|Blockbuster]]'s gang, who think it is Nightwing who has been injured. After Nite-Wing is released from the hospital, he kills the gang who put him there. Not realizing how violent Ryerstad is, Grayson agrees to train him. The two attack Blockbuster's organization but are captured and separated. After an undercover FBI agent frees Nite-Wing, Ryerstad beats him to death, and when he realizes what he has done, Ryerstad flees. Nightwing tracks him down and incarcerates Nite-Wing.{{issue}}
+
+In the 2006 ''[[One Year Later]]'' storylines, multiple characters join Dick Grayson in using the name "Nightwing". [[Bruce Jones (comics)|Bruce Jones]]' ''Nightwing''{{issue}} run features [[Jason Todd]] prowling the streets of New York City under the guise of Nightwing, copying Grayson's costume. Additionally, a [[metahuman]] fashion designer named [[Cheyenne Freemont]] dons a modified Nightwing costume to help Grayson. In [[Greg Rucka]]'s ''Supergirl'' (Vol. 3) #6, [[Power Girl]] and [[Supergirl]] assume the identities of Nightwing and Flamebird in a story set in Kandor, just as in the original stories featuring Superman.
+
+In recent years the main Nightwing comic has sold poorly.  During DC's Infinite Crisis, DC considered killing Dick Grayson but at the last minute reconsidered this decision. {{Fact|date=August 2008}}
+
+An attempt to revitalize the character by bringing back the writer who wrote the original Robin-to-Nightwing story, [[Marv Wolfman]], had mixed response.{{issue}} The most recent change to writer [[Peter Tomasi]] and artist [[Rags Morales]] has done much to reassert the character, with him operating in New York as a respected solo hero, and taking full advantage of the fact that his early start makes him one of the most experienced superheroes, and one of the best connected; through his many former team-mates and the friends he has established in his career.
+
+==In other media==
+[[Image:Nightwing RIDE.jpg|left|170px|thumb|The Nightwing ride at [[Six Flags New England]].]]
+[[Dick Grayson]] is the only character to use the codename of "Nightwing" in media other than [[comic book]]s.
+
+[[Image:Nightwing01.jpg|right|thumb|150px|Nightwing from ''The New Batman Adventures''. Art by [[Bruce Timm]].]]
+
+Dick Grayson appears as Nightwing in ''[[The New Batman Adventures]]'', voiced by actor [[Loren Lester]], the actor who had voiced Grayson as [[Robin (comics)|Robin]] in ''[[Batman: The Animated Series]]''. Dick Grayson first appears in the end of the episode "Sins of the Father." Bruce, Barbara and Alfred react to the grown up crime fighter as Dick remarks "Hey, you can't stay a boy wonder forever." In "You Scratch My Back," Nightwing makes his full episode debut, and finds an unlikely ally in Catwoman in trying to expose a South American gun smuggling operation into Gotham City. This episode highlights Nightwing, hints at his relationship with Barbara and illustrates his tense relationship with Batman. The episode also contains a sequence - showing Nightwing in his loft headquarters and charging into the night on his motorcycle as his theme music plays... culminating in a shot where he stands silhouetted against the moon. The episode "Old Wounds" explains that Grayson, as Robin, fought with Batman over the latter's controlling nature and what the former saw as an unnecessarily harsh approach, causing Grayson to leave Gotham as a result. However, he returns years later as Nightwing. Although he works with Batman several times during the course of the series, he never fully reconciles with his former mentor. Nightwing also appears in series episodes Joker's Millions, Over The Edge, Animal Act, and Chemistry.
+
+[[Image:Batman & Robin Robin Suit.jpg|left|thumb|Robin's costume in ''[[Batman & Robin (film)|Batman & Robin]]'', similar to Nightwing.]]
+
+In the television series ''[[Batman Beyond]]'', which is set many years in the future, the Nightwing uniform (or at least one copy of it) still hangs in the Batcave.  [[Terry McGinnis]] (the new Batman) borrows the mask from that costume in the episode "Lost Soul," when the Batsuit is reprogrammed with the personality of a dead businessman.  In ''[[Batman Beyond: Return of the Joker]]'', McGinnis asks Commissioner Barbara Gordon (the former [[Batgirl]]) if all of the original Batman's associates were bitter when they left. She replies "...look up Nightwing someday.  Has ''he'' got stories," implying that he is still alive and using the identity in the timeframe of the series.  
+
+In the film ''[[Batman Forever]]'' Dick Grayson ([[Chris O'Donnell]]) suggests "Batboy, Nightwing..." as a name for himself. In the next film ''[[Batman & Robin]]'', the costume Robin wears closely resembles the costume in the Nightwing comic books, except the main symbol across his chest and arms is red instead of blue, the movie costume also includes a small cape.
+
+[[Image:Robinnightwing1.JPG|thumb|150px|Robin and the alternate future Nightwing from the ''Teen Titans'' animated series.]]
+
+Nightwing also has a cameo as a silhouette in the ''[[Justice League Unlimited]]'' episode "Grudge Match". As [[Black Canary]] enters [[Blüdhaven]], Nightwing can be seen on a rooftop next to two gargoyles.  
+
+In the ''[[Teen Titans (animated series)|Teen Titans]]'' [[animated series]] episode [[List of Teen Titans episodes#How Long is Forever?|"How Long is Forever?"]], Nightwing appears as the future identity of [[Robin in other media|Robin]]. He also appears in the ''[[Teen Titans Go!]]'' comic series based on the series.<ref>[http://teentitans.toonzone.net/index.php?content=ttgo/guide/31 Teen Titans guide]</ref>
+
+''[[The Batman (TV series)|The Batman]]'' [[animated series]] episode [[Artifacts (The Batman)|"Artifacts"]], set in the year 3027 with flashbacks to the year 2027. The flashback sequences feature Nightwing, voiced by [[Jerry O'Connell]]. Although Dick has been active for ten years as Nightwing, Batman and [[Oracle (comics)|Oracle]] persist in calling him "Robin." Nightwing later appears in season 5 in the episode "The Metal Face of Comedy" in his original Nightwing costume. In this episode, he is Dick Grayson's video game character in an online role playing game.
+
+[[Image:Nightwing TheBatman.JPG|thumb|left|150px|Nightwing, as he appeared on ''[[The Batman (TV series)|The Batman]]''.]]
+
+The Teen Titans story arc ''The Judas Contract'' in which Robin becomes Nightwing, is currently being adapted as a [[direct-to-video]] [[Teen Titans: The Judas Contract|movie]]. A planned 2008 release date has been delayed.
+
+In several [[Six Flags]] amusement parks, a ride called Nightwing is located in the DC Superheroes area.
+
+Nightwing appears in ''[[LEGO Batman: The Video Game]]'' for the Playstation 3 and Xbox 360.<ref>''Game Informer'' features a two-page gallery of the many heroes and villains who appear in the game with a picture for each character and a descriptive paragraph.  See "''LEGO Batman'': Character Gallery," ''Game Informer'' 186 (October 2008): 92.</ref> 
+
+Nightwing is set to appear in the upcoming video game ''[[DC Universe Online]]''.
+
+==Powers and Abilities==
+Nightwing (like his mentor Batman) has many different gadgets that he uses to defeat his enemies. Most of the gadgets are in the form of small boomerangs; some of them explode, some spread [[liquid nitrogen]] to freeze objects, and some are just sharp, which he uses to disarm but not kill. Along with his boomerangs he has a grappling gun, a taser and a retractable quarter staff which measures at six feet long at maximum length and one foot long at minimum length.  However, his main weapons of choice are Kali/Escrima sticks which he places in sheathes on his back. Nightwing has trained in many different martial arts including [[Hapkido]], [[Tae-Kwon-Do]], [[Jeet Kune Do]], [[Escrima]], [[Tai chi chuan|Tai chi]], [[Wing Chun]], [[Aikido]], [[Ninjutsu]], [[Kempo]], [[Karate]], [[Jujutsu]], and [[Judo]]. Nightwing is also an experienced gymnast and spent several years of his youth in the circus. Along with skills with gadgetry and martial arts, Nightwing is exceedingly intelligent. He uses his detective skills and tactics to out think physically superior opponents.
+
+==Other uses in comic books==
+* In the DC Comic "[[Tangent Comics]]" [[fifth-week event]], "Nightwing" is a mystical society.
+* In the [[Elseworlds]] series "[[Superman & Batman: Generations]]", "Knightwing" is the identity adopted by Clark Wayne ([[Superman]]'s biological grandson, adopted by Bruce Wayne, Jr.) after he grows out of the [[Robin (comics)|Robin]] identity.  Bruce had wanted Clark to take on the [[Batman]] identity, but Clark declines, saying that only true members of the Wayne family should be Batman, revealing that he knew he was adopted.  When Superman is brought back from the Phantom Zone and discovers the [[Ultra-Humanite]]'s cure for [[Kryptonite|Gold Kryptonite]], he gives some to Knightwing, which gives him [[Powers and abilities of Superman|powers comparable to his grandfather]], but weaker as he is only a quarter-Kryptonian.
+
+==References==
+{{reflist}}
+
+{{Batman}}
+
+[[Category:Fictional detectives]]
+[[Category:Fictional vigilantes]]
+
+[[es:Dick Grayson]]
+[[fr:Dick Grayson]]
+[[de:Nightwing]]
+[[it:Nightwing]]
+[[nl:Nightwing]]
+[[pt:Asa Noturna]]

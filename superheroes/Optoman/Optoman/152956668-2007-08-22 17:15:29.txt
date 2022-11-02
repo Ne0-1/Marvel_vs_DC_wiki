@@ -1,0 +1,28 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Optoman
+|real_name= unrevealed
+|species=[[Mutant (Marvel comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''X-Statix #1''
+|creators=
+|alliance_color=background:#ffc0c0
+|status= 
+|alliances=
+|previous_alliances=[[O-Force]]
+|aliases=
+|relatives=
+|powers= Ability to project paralyzing flashes from eyes
+|}}
+'''Optoman''' is a [[fictional character]], a [[Mutant (Marvel comics)|mutant]] in the [[Marvel Comics]] Universe. His first appearance was in ''X-Statix #1''.
+
+==Fictional character biography==
+Optoman is a member the mutant superhero team, [[O-Force]]. Like all potential recruits, Optoman had to compete in a live [[television program]], hosted by [[Solomon O'Sullivan]], to win a place on the O-Force team. It's unknown if Optoman lost or kept his mutant powers after the [[M-Day]].
+
+==Powers and abilities==
+Optoman could generate what appeared to be flashes of light from his eyes that can stun people.
+{{Marvel-comics-stub}} 
+[[Category:Marvel Comics supporting characters]]
+[[Category:Marvel Comics mutants]]

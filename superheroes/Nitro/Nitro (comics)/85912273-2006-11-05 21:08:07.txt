@@ -1,0 +1,56 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = [[Image:Nitrocw.jpg|300px]]
+| caption = Nitro<br>[[Steve McNiven]], artist
+| comic_color = background:#ff8080
+| character_name = Nitro
+| publisher = [[Marvel Comics]]
+| debut = ''[[Captain Marvel]]'' I #34 (1974)
+| creators = '''Writers:''' [[Jim Starlin]] (plot)<br> [[Steve Englehart]] (script)<br>'''Artist:''' Jim Starlin
+| alliance_color = background:#c0c0ff
+| real_name = Robert Hunter
+| status = Active
+| alliances =
+| previous_alliances =[[Defenders (comics)|Defenders]]
+| species = human mutate
+| aliases = <!-- optional -->
+| relatives = Mary Hunter (wife, deceased), Virginia Hunter (daughter)
+| powers = Can explode his own body mass at will for great destructive effect; after explosion, exists as diffuse gaseous form; can reform at will as long as all of his self is present
+}}
+'''Nitro''' is a [[fictional character|fictional]] [[supervillain]] in the [[Marvel Comics]] [[Marvel universe|universe]]. He first appeared in ''[[Mar-Vell|Captain Marvel]]'' (1st series) #34 (September 1974) and was created by [[Jim Starlin]].
+
+Nitro is best known for being part of the tragedy that started off Marvel's [[Civil War (comics)|Civil War]] [[Fictional crossover|crossover]]. He is also known by comic fans for playing a part in the death of the [[Kree]] superhero [[Mar-Vell]].
+
+==History==
+[[Image:Cm34.jpg|Cover to ''Captain Marvel'' #34, by Jim Starlin.|thumb|left]]
+Due to genetic alteration carried out on him by the [[Kree]] Lunatic Legion, ''Robert Hunter'' gained the ability to explode and reform himself at will. Some time later, he exposed [[Mar-Vell|Captain Marvel]] to a nerve gas, which later ultimately gave him cancer.  Since then he has clashed with Earth's superhumans, and been defeated by the "fractioning (separation) of his exploded mass" (essentially, if he can't reform himself after an explosion, he can't explode again).
+
+One such appearance was in the third volume of [[Iron Man]], where he was hired to kill Tony Stark.  A fight developed between Nitro and Iron Man.  Iron Man, whose sensors and telecommunications gear had been recently upgraded, noticed that every time he exploded, a high-frequency pulse was emitted by his body.  Experimenting, Iron Man duplicated the pulse, causing Nitro to explode.  After he exploded several times in a minute, he passed out from exhaustion (presumably, it takes energy to explode, and he could only spare so much before he passed out).  Iron Man handed him over to [[S.H.I.E.L.D.]], along with a recommendation on constructing a null-harness.  He was sent to prison.
+
+In ''[[Daredevil (Marvel Comics)|Daredevil]]'' v2 #26, Nitro was hired as a [[hit-man]] to kill [[Matt Murdock]], but Nitro was apprehended by police the next issue.
+
+===Civil War===
+{{spoiler}}
+As part of Marvel Comic's [[Civil War (comics)|Civil War]] event, the [[New Warriors]] performed a videotaped raid of a house containing the [[Cobalt Man]], [[Speedfreek]], [[Coldheart]] and Nitro, who had recently escaped from the [[Avengers (comics)|Ryker's Island Incident]]. The New Warriors attacked each member, with [[Namorita]] (the [[Namor|Sub-Mariner]]'s cousin) going after Nitro. Slamming him into a school bus, [[Namorita]] continued to taunt him until Nitro let off a massive explosion. This explosion apparently killed Namorita, [[Night Thrasher]], [[Microbe (comics)|Microbe]], and the supervillains he was with during the raid, along with sixty children at the nearby elementary school and the surrounding neighborhood in the town where the fight took place. 
+
+The aftermath was picked up by the superhero teams, who were already split over the issue of superhero registration, none more so than [[Spider-Man]], who was recently recruited by Iron Man into joining his side. [[Wolverine (comics)|Wolverine]] began hunting Nitro after he escaped in the back of a pickup truck. 
+
+Recently, Nitro was found by Wolverine and a group of [[S.H.I.E.L.D.]] agents, but Nitro used his powers to kill the S.H.I.E.L.D. agents, and seemingly kill Wolverine. Nitro then took a phone call to an unknown government official who may be involved in the Stamford Incident. After the phone call, however, Nitro found himself in the grip of a nearly fully regenerated, and enraged, Wolverine. As Wolverine pounded on him, theorizing correctly that Nitro's powers cannot affect anyone or anything in very close proximity, Nitro revealed that he had been taking [[Mutant Growth Hormone]] to increase his powers. Nitro also hinted that there was someone bigger behind the events of Stamford, but before the name was given, the two were confronted by the three mystery agents. They were revealed to be Atlantean royal guard sent by Namor to apprehend Nitro for the murder of Princess Namorita. 
+
+During his battle with Namor, Wolverine was knocked unconscious and the Atlanteans move Nitro to New Pangea for torture and interrogation. Wolverine pursued them in Tony Stark's armor and "negotiated" with Namor to see Nitro, only to find Nitro had killed his interrogators. Wolverine cut off Nitro's arm at the elbow, and as Nitro begged for mercy, Wolverine recanted on his promised protection. He allowed Namor to do what he wanted with Nitro. Nitro is currently a "guest" of Atlantis.
+
+==Trivia==
+
+*Nitro has not made an appearance in the [[Ultimate Marvel]] universe. However, there was a member of [[Magneto (comics)|Magneto's]] Brotherhood of Mutant Supremacy called Detonator, whose powers were the same as Nitro's. 
+
+*Despite a standing policy by Marvel and DC to not use their house villains as antagonists for the famous [[Hostess]] ads in the seventies, Nitro is one of the few who actually was used (possibly due to his obscurity) in an ad featuring Captain Marvel.
+
+==External links==
+* [http://www.marvel.com/universe/Nitro_(Robert_Hunter) Marvel.com's ''Marvel Universe'' bio on Nitro]
+* [http://www.comics.org/details.lasso?id=27730 ''Grand Comics Database'' article on comic containing Nitro's debut]
+* [http://i7.photobucket.com/albums/y263/lewispaul/nitro.jpg Nitro's Last Stand]
+*[http://seanbaby.com/hostess/v2captainmarvel04.htm Nitro's Hostess Ad]
+
+[[Category:Iron Man villains]]
+[[Category:Marvel Comics mutates]]
+[[Category:Fictional mass murderers]]
+[[Category:Fictional psychopaths]]

@@ -1,0 +1,40 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Crossfire
+|real_name=William Cross
+|publisher=[[Marvel Comics]]
+|debut= [[Marvel Two-in-One]] #52 (June, 1979)
+|creators= [[Steven Grant]]<br>[[Jim Craig (comics)|Jim Craig]]
+|alliance_color=background:#cccccc
+|status=unknown
+|alliances=
+|previous_alliances=
+|aliases=Prisoner V22503
+|relatives=Darren (cousin)
+|powers=Skilled in various arts of espionage,<br>Expert marksman,<br>Skilled in hand to hand combat}}
+
+'''Crossfire''' is the name of a [[supervillain]] in the [[Marvel Comics]] fictional [[Marvel Universe]]. He was created by writer [[Steven Grant]] and artist [[Jim Craig (comics)|Jim Craig]] in ''[[Marvel Two-in-One]]'' #52 (June 1979).
+
+==History==
+William Cross was born in [[Madison, Wisconsin]].
+
+A vengeful Crossfire stalked [[Hawkeye (comics)|Hawkeye]] and [[Mockingbird (comics)| Mockingbird]] to the estate of former film star Moira Brandon who helped the heroes recapture Cross and was then declared an honorary [[Avengers (comics)|Avenger]]. The criminal mercenary jugglers known as the [[Death-Throws]] freed Cross from police custody, but when he proved unable to pay them, they held him for ransom until [[Captain America]], Hawkeye, and Mockingbird captured the whole gang. Crossfire later escaped and placed a bounty on Hawkeye's arm, hoping to destroy the hero's archery skills and break his spirit. Cross and his small army of superhuman bounty hunters were defeated and captured by Hawkeye, Mockingbird, and [[Trick Shot (comics)|Trickshot]].
+
+At some point during one of his prison stays he befriended Vector of the [[U-Foes]] whose secret power nullification technology Cross had hoped to exploit. Recaptured following an encounter with [[S.H.I.E.L.D.]], Cross was imprisoned in the Vault where Rozalyn Backus (long since exonerated) was a member of the Vault's Guardsman force. Seemingly aiding and then foiling an escape plot by the U-Foes and Crossfire, Backus turned the criminals against each other, faked her own death, and stole a fortune in cash and goods from the criminals, including Vector's power nullification chamber (which Backus later claimed she secretly destroyed since she felt it was too dangerous to preserve). The criminals were later transferred to the new Raft super-prison and all escaped during [[Electro (comics)|Electro]]'s mass breakout, with Crossfire leading a gang of his fellow mind-manipulators: [[Controller (Marvel Comics)|Controller]], [[Corruptor]], [[Mandrill (comics)|Mandrill]], and [[Mister Fear]] (Alan Fagan). Pursuing Backus, the chamber and their grudges against each other, the U-Foes and Crossfire's gang fought a super-powered gang war in New York until the Avengers broke it up. Crossfire and his gang were recaptured (except the Corruptor) and Backus surrendered herself to the authorities.
+
+==Bibliography==
+*''Marvel Two-In-One'' #52
+*''Spider-Man: Breakout'' #1-5
+*''Hawkeye'' vol. 1 #2-4
+*''Avengers West Coast'' #100
+*''Captain America'' vol. 1 #317
+*''Avengers Spotlight'' #22-25
+*''Nick Fury: Agent of SHIELD'' vol. 3 #40-41
+*''Agent X'' #6
+*''New Avengers'' #1-4
+
+[[Category:1979 introductions]]
+[[Category:Avengers villains]]
+[[Category:Captain America villains]]

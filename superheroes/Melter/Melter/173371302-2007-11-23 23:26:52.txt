@@ -1,0 +1,41 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Melter.jpg|240px]]
+|caption=The Melter. Art by [[Bob Layton]].
+|comic_color=background:#ff8080
+|character_name=Melter
+|real_name=Bruno Horgan
+|publisher=[[Marvel Comics]]
+|debut=''[[Tales of Suspense]]'' vol. 1, #47 (Nov 1963)
+|creators=[[Stan Lee]] & [[Steve Ditko]]
+|alliance_color=background:#c0c0ff
+|status=Deceased
+|alliances=
+|previous_alliances= [[Masters of Evil]], [[Death Squad (comics)|Death Squad]], [[Justin Hammer]]
+|aliases= None
+|relatives=ex-wife (unnamed)
+|powers=Originally apparatus that projected beam that could "melt" iron<br>Later handheld weapon that could "melt" all matter
+|}}
+
+The '''Melter''' is a [[supervillain]] that appears in the [[Marvel Universe]], and is currently deceased. The character was created by [[Stan Lee]] and [[Sam Rosen (comics)|Sam Rosen]] and first appears in [[Tales of Suspense]] vol. 1, #47. 
+
+==Fictional character biography==
+'''Bruno Horgan''' is an industrialist who specializes in providing munitions for the [[United States]] government. Horgan is driven into [[bankruptcy]] when a government safety inspection team proves that he is using inferior materials. The defense contracts are awarded to his competitor - industrialist and inventor Anthony Stark, who is secretly the superhero [[Iron Man]]. Horgan then discovers that one of his faulty devices is capable of casting a beam capable of "melting" anything composed of [[iron]]. Horgan redesigns the device so that it can be strapped to his chest, and after donning a costume adopts the alias the Melter. Horgan then embarks on a campaign of industrial sabotage against Stark Industries, and comes into conflict with Iron Man. Despite damaging Iron Man's armor, the Melter is defeated on two separate occasions, even after upgrading his melting beam. <ref>''Tales of Suspense'' vol. 1, #47 + 89 - 90</ref>
+
+The Melter is then coerced by master villain [[Baron Zemo]] to join the supervillain [[Masters of Evil]] in a bid to destroy the superhero team the [[Avengers (comics)|Avengers]], of which Iron Man is an original member. The Masters of Evil, however, are defeated twice and the Melter is incarcerated. <ref>''Avengers'' vol. 1, #6 + 15</ref> The Melter later joins another version of the Masters of Evil formed by the robot [[Ultron]], but they are defeated when betrayed by the [[Black Knight (Dane Whitman)|Black Knight]]. <ref>''Avengers'' vol. 1, #54 - 55</ref> Some months later the Masters of Evil accidentally encounter the Avengers once more, and during the battle are defeated when surprised by several female super-heroines. <ref>''Avengers'' vol. 1, #83</ref>
+
+The Melter - along with fellow supervillains [[Blacklash|Whiplash]] and [[Man-Bull]] - is later recruited by other-dimensional villain the [[Black Lama]] to form the team the [[Death Squad (comics)|Death Squad]] and fight Iron Man. They are, however, defeated. <ref>''Iron Man'' vol. 1, #72</ref> The Melter has one more brief encounter with Iron Man before disappearing into obscurity. <ref>''Iron Man'' vol. 1, #92</ref> Several years later criminal mastermind [[Justin Hammer]] hires the Melter to join an army of supervillains and battle Iron Man, who subsequently beats the Melter twice in a matter of days. <ref>''Iron Man'' vol. 1, #123 - 124 + 127</ref>
+
+The Melter is then incarcerated for several years, and upon his release plans to attack the Avengers, but is killed by the assassin the [[Scourge of the Underworld]], who is disguised as the Melter's assistant. <ref>''Avengers'' vol. 1, #263</ref>
+
+==Powers and abilities==
+Horgan's first melting beam could affect [[iron]], while a later version could affect almost any substance. The melting effect did not appear to involve heat, but when used on a human being, the beam inflicts burns as opposed to truly melting.
+
+== References ==
+<div class="references-small">
+<references/>
+</div>
+
+[[Category:Marvel Comics supervillains]]
+
+[[fr:Melter]]
+[[pt:Magma (Marvel Comics)]]

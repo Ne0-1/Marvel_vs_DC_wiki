@@ -1,0 +1,82 @@
+{{Infobox comics set index <!--Wikipedia:WikiProject Comics-->
+<!-- |code_name  = Kid Flash -->
+|image      = 
+|imagesize  = <!-- default 250 -->
+|noimage    = Since the roving IP is conserned abourt confusing the more recent comics readers, no image should be used.
+|caption    = 
+|publisher  = [[DC Comics]]
+|debut      = ''[[Flash (comic book)|The Flash]]'' (vol. 1) #110
+|debutmo    = December
+|debutyr    = 1959
+|debutyr1   = 1996
+|debutyr2   = <!-- Bart adopted the codename well after his introduction -->
+|writer1    = [[John Broome (writer)|John Broome]]
+|artist1    = [[Carmine Infantino]]
+|characters = [[Wally West]]<br />[[Kid Flash (Iris West)|Iris West]]<br />'''[[Bart Allen]]'''
+|seealso    = [[Flash (comics)]]
+|cat        = super
+|subcat     = DC Comics
+|hero       = y
+|villain    = 
+|sortkey    = Kid Flash
+}}
+'''Kid Flash''' is the name of several [[fictional characters]] appearing in [[comic book]]s published by [[DC Comics]], originally created by [[John Broome (writer)|John Broome]] and [[Carmine Infantino]], as a junior counterpart to DC Comics [[superhero]] [[Flash (comics)|The Flash]]. The first incarnation of the character, '''[[Wally West]]''', debuted in ''The Flash'' (vol. 1) #110 (1959). The character, along with others like the first [[Donna Troy|Wonder Girl]], [[Garth (comics)|Aqualad]], and [[Roy Harper (comics)|Speedy]], was created in response to the success of [[Batman]]'s young sidekick [[Robin (comics)|Robin]]. These young heroes would later be spun off into their own superhero team, the [[Teen Titans]]. As Kid Flash, Wally West made regular appearances in Flash related comic books and other DC Comics publications from 1959 through the mid 1980s until the character was reinvented as the new version of The Flash.
+
+Later, well after Wally West had made a name for himself as the new Flash, the character of '''[[Bart Allen]]''', grandson of legendary Flash [[Flash (Barry Allen)|Barry Allen]], was brought into the past from his home in the future and served as the young hero '''Impulse'''. In 2003, with writer [[Geoff Johns]]' relaunch of a new ''Teen Titans'' volume, Bart donned the mantle of Kid Flash after being nearly killed by the assassin [[Deathstroke]]. As Kid Flash, Bart appeared in ''Teen Titans'' and ''The Flash'' (vol. 2) regularly until the ''[[Infinite Crisis]]'' event, where a disappearance of Wally West made Bart the fourth Flash. Apparently killed by the [[Rogues (comics)|Rogues]], Bart was resurrected in the 31st century by [[Legion of Super-Heroes]] member [[Brainiac 5]] and retook the mantle of Kid Flash.
+
+==Fictional character biographies==
+===Wally West===
+{{main|Wally West}}
+[[Image:Kid Flash Wally.jpg|thumb|150px|left|[[Wally West]] as the first Kid Flash. {{Descript-inner-art|[[Teen Titans|The New Teen Titans]]|1|31|May, 1983}}Art by [[George Pérez]].]]
+Outside of Iris West, Kid Flash was the first person to whom Flash revealed the secret of his double-identity (''Flash'' #120, May, 1961). In that story, the two speedsters were inadvertently thrown 25 million years into the past, where they battled a race of golden humanoids. It was only the first of many time-trips for the pair, who teamed up next to try out Flash's Cosmic Treadmill.<ref>''Flash'' #125, Dec. 1961</ref>
+
+Shortly after meeting Flash's friend Elongated Man,<ref>''Flash'' #130, Aug. 1962</ref> Kid Flash received his own unique uniform. The Flash, who had been toying with a new design for Wally, was inspecting an alien mind over-matter machine when, in a burst of light, the new costume sprang from his mind and onto the body of his protégé<ref>''Flash'' #135, Mar. 1963</ref>. Since the new outfit exposed Wally's bright red hair, FIash provided his costume-storage ring with a special instant-dye spray with which he could easily change his hair color, as Wally, to brown.<ref>''Flash'' #138, June, 1963</ref> 
+
+The boy speedster first met [[Dick Grayson|Robin]] and [[Garth (comics)|Aqualad]] in ''[[The Brave and the Bold]]'' #54 (June-July, 1964), in an adventure that would predicate the formation of the [[Teen Titans]] shortly thereafter. Kid Flash remained a member in good standing of that team, though his participation limited his involvement in solo adventures considerably. 18, Wally revealed his alter-ego to his parents Bob and Mary for the first time, chose his university (Taggart), and confided to the Flash his intentions to retire from super-heroing upon graduation from college so that he might live a normal life.
+
+As it happened, he left his crime-fighting career behind even before that,<ref>''New Teen Titans'' #39, Feb. 1984</ref> when he retired from the third incarnation of the Teen Titans for personal reasons, including a desire to devote more time to studying, to his new girlfriend Frances Kane, and because, as a result of his changing metabolism, he was beginning to lose his powers.
+
+Kid Flash came out of retirement to fight in the ''[[Crisis on Infinite Earths]]'', and was hit harder than anyone when the heroes found Flash's costume and ring and realized that their compatriot was dead. However, even though a blast from the Anti-Monitor reduced Wally's top speed to that of sound, it cured him of his metabolic malady. This, combined with the desire to honor his mentor and friend, caused Wally West to forevermore discard his Kid Flash identity and, instead, adopt the name and costume of Flash.<ref>''Crisis on Infinite Earths'' #12</ref> 
+{{-}}
+
+===Iris West===
+{{main|Kid Flash (Iris West)}}
+[[Kid Flash (Iris West)|Iris West]] is the Kid Flash that originally appeared in ''[[Kingdom Come (comics)|Kingdom Come]]'', a story set in the "near" future of the DC Universe. While this story has been treated as a separate continuity from the main DC Universe, versions of the character have been featured in time travel and [[Hypertime]] related stories.
+
+===Bart Allen===
+[[Image:Kid Flash Bart.jpg|thumb|150px|left|Bart as Kid Flash. {{Descript-inner-art|[[Teen Titans]]|3|4|Dec, 2003}}Art by [[Mike McKone]].]]
+{{main|Bart Allen}}
+Bart, the child from the future known as the hero '''Impulse''', was a founding member of [[Young Justice]]. Joining with [[Superboy (Kon-El)|Superboy]] and [[Robin (Tim Drake)|Robin]], the teen trio founded a new group of young heroes. After [[Max Mercury]] disappeared in the timestream, Bart took up residence in [[Keystone City]] with [[Jay Garrick]], the original Flash, and Jay's wife Joan.
+
+When a mysterious android from the future known as Indigo attacked the Titans and Young Justice, it resulted in the apparent deaths of [[Donna Troy]] and Omen. At Donna's funeral, [[Dick Grayson|Nightwing]] disbanded the Titans. The members of Young Justice, especially [[Cassie Sandsmark|Wonder Girl]], felt responsible for the tragic deaths.<ref>''Titans/Young Justice: Graduation Day'' #1-3, 2003</ref> This led Wonder Girl, Robin, Impulse and Superboy to form a new group of Teen Titans under the guidance of the more experienced [[Cyborg (comics)|Cyborg]], [[Starfire (comics)|Starfire]] and [[Beast Boy]].<ref>''Teen Titans'' (vol. 3) #1, July 2003</ref> Despite Wally West's misgivings, Bart accepted an invitation to join the new Teen Titans.<ref>''Teen Titans'' (vol. 3) #6, December 2003</ref>
+
+Bart was later injured when [[Deathstroke]] put a shotgun to his leg. Thankfully, his accelerated healing enabled a handful of surgeons to replace his kneecap with an artificial one, and Bart was back on his feet in a matter of hours. But the effects of this encounter were much more than physical. Feeling unsure, and tired of being underestimated, Bart went to the local public library and read every single book in the building. He retained that knowledge and balanced it with lack of experience. With a renewed sense of confidence, Bart left his impulsive rep behind and returned to the team as Kid Flash.<ref>''Teen Titans'' (vol. 3) #4, October 2003</ref>
+
+When [[Superboy-Prime]] ran amok during the ''[[Infinite Crisis]]'', Kid Flash and the super-speedsters raced to stop his rampage. While running to subdue the deranged Teen of Steel, Wally West disappeared in a burst of lightning. Meanwhile, the speedsters combined might defeated Superboy-Prime, but severed their connection to the Speed Force in the process. Bart returned to warn the heroes of Superboy-Prime's escape. But while mere moments had passed in the present, Bart returned from his time-bending journey four years older. Bart handed his grandfather’s costume to Jay Garrick, claiming he used up all his speed powers during the final battle.<ref>''Infinite Crisis'' #7, May 2006</ref>
+
+Bart still had his powers, but faced with the guilt over Superboy-Prime’s escape, he initially decided to retire his costume. He took a job as a factory worker in Keystone City, but soon realized he must use his abilities to protect innocents. Although Bart found new challenges in harnessing the speed force, he accepted his destiny as the latest Flash in the Allen family tradition. In his efforts to tame the speed force inside him, Bart turned to S.T.A.R. Labs intern, Valerie Perez, and their relationship quickly blossomed into a full-blown romance.<ref>''The Flash: The Fastest Man Alive'' #1, June 2006</ref>
+
+Once accepting the mantle of the Flash, Bart moved to [[Los Angeles, California]] and enrolled in the Police Academy. Robin asked him to join the Titans but Bart declined, saying he’d rather work towards membership in the [[Justice League|Justice League of America]]. Shortly after resuming the mantle, Iris Allen warned Bart that if he fought the newly formed league of Rogues, he would not survive. [[Inertia (DC Comics)|Inertia]], in a plan to steal the speed force energy for himself, manipulated the [[Rogues (comics)|Rogues]] into battle with Bart. As a depowered Bart fought valiantly against the combined might of the Rogues, he saw the spectre of the [[Black Flash]], and died as Iris Allen and Valerie Perez were left to mourn him.<ref>''The Flash: The Fastest Man Alive'' #13, July 2007</ref>
+
+Later on New Earth, during the ''[[Final Crisis]]'' storyline, [[Superman]] was called to the thirty-first century to assist the [[Legion of Super-Heroes]] in fending off Superboy-Prime, who was thrown to the future in the aftermath of the destruction of Earth-51 and the ''[[Sinestro Corps War]]''. Prime, raging about his minor place in history as a Superman rival, released the entire [[Legion of Super-Villains]] from the prison planet [[Takron-Galtos]] and waged war on Earth and the Legion. In response to this, Brainiac 5 summoned the Legions of Three Worlds (alternate earths) to combat Prime's forces. Revealing that the Legion had captured "living lightning" in the Legion's last trip to present Earth in ''[[The Lightning Saga]]'', Brainiac 5 had Legionnaire [[XS (comics)|XS]] run on the cosmic treadmill while the three [[Lightning Lad]]s activated the "lightning rod" to release the living lightning. Although he tried to stop them, Superboy-Prime was unable to stop the lightning from being unleashed. A fully formed alive-and-well Bart Allen, in his Kid Flash uniform, appeared before him.<ref>''[[Final Crisis: Legion of Three Worlds]]'' #3, Feb. 2009</ref>
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*{{comicbookdb|type=character|id=1274|title=Kid Flash (Wally West)}}
+*{{comicbookdb|type=character|id=29936|title=Kid Flash (Iris West)}}
+*{{comicbookdb|type=character|id=1283|title=Kid Flash (Bart Allen)}}
+
+{{Flash}}
+{{Teen Titans}}
+
+{{SIA|comics}}
+[[Category:Comic book sidekicks]]
+[[Category:Fictional vigilantes]]
+
+[[dv:ކިޑް ފްލޭޝް]]
+[[es:Kid Flash]]
+[[fr:Kid Flash]]
+[[it:Kid Flash]]
+[[pt:Kid Flash]]

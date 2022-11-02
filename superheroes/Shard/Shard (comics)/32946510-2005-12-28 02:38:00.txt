@@ -1,0 +1,29 @@
+{{Superherobox|
+image=
+
+|caption=
+|comic_color=background:#ff8080
+|character_name=Shard
+|real_name=Shard
+|publisher=[[Marvel Comics]]
+|debut=
+|creators=
+|alliance_color=background:#ffc0c0
+|status=Deceased
+|alliances=
+|previous_alliances=[[Xavier Security Enforcers]] (X.S.E.), [[X-Factor]]
+|aliases=
+|relatives=[[Bishop (comics)|Bishop]] (brother), [[Aliyah Bishop]] (niece, alternate reality), [[Gateway (comics)|Gateway]] (great-grandfather)
+|powers=Energy blasts, density control (holographic Shard only)
+|}}
+'''Shard''' is a [[fictional character]] in the  [[Marvel Comics]] [[Marvel Universe|universe]].  Shard was an officer in [[Xavier's Security Enforcers]] (X.S.E.) with her brother [[Bishop (comics)|Bishop]] in their native timeline in the 2080s.  Together, they were responsible for apprehending criminal mutants.  Shard died on a mission with her brother.
+
+Bishop eventually travelled back in time, to the present, in an effort to track down one of his time's most-wanted criminals, where he became stuck in the present day and became a member of the [[X-Men]], his idols.  Shard has also since been recreated in the present, as a computer construct, and became a clandestine member of the government-sponsored [[X-Factor]] team. After X-Factor disbanded in ''#149'', Shard was seen in an alternate future. She died there, as a hero, saving her brother Bishop (''Bishop: the Last X-Man #14).
+
+
+[[Category:Fictional time travelers]]
+[[Category:Marvel Comics mutants]]
+[[Category:X-Factor members]]
+
+
+{{Marvel-Comics-stub}}

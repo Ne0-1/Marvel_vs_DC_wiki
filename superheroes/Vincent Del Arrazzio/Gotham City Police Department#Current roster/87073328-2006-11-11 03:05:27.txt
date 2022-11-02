@@ -1,0 +1,41 @@
+{{Superteambox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:BatmanGothamCentralTPCVR.jpg|225px]]
+|caption=Cover to ''Gotham Central'' #1. Art by Michael Lark.
+|comic_color=background:#8080ff
+|team_name=Gotham City Police Department (GCPD)
+|publisher=[[DC Comics]]
+|debut=<!-- probably the first issue of Batman or the first time he appeared in Detective Comics -->
+|creators=[[Bob Kane]]
+|status=Hiring
+|base=[[Gotham City]]
+|alliance_color=background:#ffc0c0
+|members=[[James Gordon (comics)|James Gordon]] (Police Commissioner)<br />[[Harvey Bullock (comics)|Harvey Bullock]]<br />[[Maggie Sawyer]]<br />[[Dan Foley]]<br />Gerard "Jerry" Hennelly <br />[[Josie MacDonald]]<br />Nathan Driver<br />[[Romy Chandler]]<!-- needs more members --><br/>[[Michael Akins]]<br />[[Lt. Max Eckhardt|Max Eckhardt]] ([[Batman (film)|Movies]])<br /> [[Sarah Essen Gordon|Sarah Essen]]<br />[[Commissioner Gillian B. Loeb|Gillian Loeb]]<br /> David Flass <br /> [[Renee Montoya]]<br />[[Crispus Allen]]<br /> Ron Probson <br /> Nate Patton <br> MacKenzie "Hardback" Bock
+|memberlist= 
+|}}
+
+The '''Gotham City Police Department''' (GCPD) is a fictional police department servicing the city of [[Gotham City]] in the [[DC Universe]]. Acting as both ally and opponent of [[Batman]], the superhero long-established in Gotham, the GCPD has long been steeped in [[Political corruption|corruption]], with numerous officers both high-and-low ranking involved in bribery and even more serious offences such as drug-trafficking and murder. The strongest blow against [[police corruption]] came when an increasing amount of [[Conspiracy (crime)|conspiracy]] charges against [[Commissioner Gillian B. Loeb]] forced him to [[resign]] his position. The Falcone crime family, which had had a stranglehold on Gotham's underground for generations, finally crumbled when a series of killings shook the structure of the [[mafia]] [[organization]]. After the death of [[Carmine Falcone]], the mob lashed out in sloppy, retaliatory crimes, which, in combination with rising gang violence, severely crippled [[organized crime]] in Gotham City. Simultaneously, the ebbing presence of corrupt police officers allowed [[James Gordon (comics)|James Gordon]] to become the new commissioner, a man determined to eradicate crime wherever it existed. <!-- text taken from Gotham City article -->
+
+The GCPD has had a long [[love-hate relationship]] with the city's [[vigilante]] known as [[Batman]]. Commissioner Gordon went along with him because Batman got the job done. His successor, Commissioner [[Michael Akins]] has ordered the arrest of Batman and had the [[Bat-signal]] removed from the roof of [[Gotham Central]]. It has also been strongly implied that corruption and rot within the police department has again been significantly on the rise.
+
+{{spoiler}}
+As of DC's ''One Year Later'', James Gordon has been reinstated as Commissioner, along with [[Harvey Bullock (comics)|Harvey Bullock]] rejoining the force and the reinstatement of the Bat-Signal and relations with Batman. It is unknown what has happened to Commissioner Akins, but it is implied that, following revelations of massive corruption within the department, there has been a drastic cleaning-of-house within the department. 
+
+As of [[August 6]], [[2006 in literature|2006]], the weekly ''[[52 (comics)|52]]'' series, which reveals the events of the missing year, still has Akins as police commissioner. It is expected that his downfall will be explained in that series.
+
+==Divisions of GCPD==
+*'''Homicide Division'''  
+:The division that handles [[murder]]s and some of the more serious non-[[metahuman]] crimes in Gotham.  This is the division Gordon was a part of before becoming commissioner.
+*'''Major Crimes Unit'''
+:Led by Lt. [[Maggie Sawyer]], the MCU deals with the most serious crimes, often involving [[supervillains]] or politically sensitive cases. This division is the focus of the [[comic book]] [[book series|series]] ''[[Gotham Central]]''.
+*'''Quick Response Team'''
+:Led by Lt. [[Gerard "Jerry" Hennelly]], the QRT is the GCPD's [[SWAT]] unit.
+
+==See also==
+*''[[Batman: GCPD - Gotham City Police Department]]''
+*''[[Gotham Central]]''
+
+[[Category:Fictional law enforcement agencies]]
+[[Category:Gotham City Police Department members|*]]
+[[Category:DC Comics teams]]
+
+{{DC-Comics-stub}}

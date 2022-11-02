@@ -1,0 +1,47 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Madcap
+|real_name=Unrevealed
+|publisher=Marvel Comics
+|debut=''Captain America'' #307 (July [[1985]])
+|creators=
+|alliance_color=background:#c0c0ff
+|status=Alive
+|alliances=None
+|previous_alliances=None
+|aliases=None
+|relatives=Katy (sister, deceased)
+|powers=Accelerated [[Healing factor|regeneration and recovery]].<br>Limited emotion control.
+|}}
+
+'''Madcap''' is a [[fictional character]] in the [[Marvel Universe]].  He first appeared in ''Captain America'' #307 (July 1985).  He has clashed with [[Daredevil (Marvel Comics)|Daredevil]], [[Ghost Rider#Daniel Ketch|Ghost Rider]], [[Hawkeye (comics)|Hawkeye]], [[Nomad (comics)#Jack Monroe|Nomad]], the [[Power Pack]], and [[She-Hulk]].
+
+==Character History==
+Madcap's story begins with his entire community heading to a church picnic, when they are killed as their bus collides with a tanker truck full of Compound X07, an experimental nerve agent developed by [[Advanced Idea Mechanics|A.I.M.]].  There was one lone survivor, who was taken to a nearby [[hospital]].  When he awoke and discovered all other passengers on the bus had been killed (including his sister), the deeply religious man's mind shattered as his belief in a [[rationality|rational universe]] crumbled.
+
+Exiting the hospital, he attempted to commit [[suicide]] by throwing himself in front of moving traffic, but found his injuries almost instantaneously healed, pushing him further over the edge.  Stealing a garish costume and a toy [[soap bubble]] pistol, the newly-christened Madcap set out to convince others that life is entirely without reason.
+
+His run-in with [[Ghost Rider#Daniel Ketch|Ghost Rider]] ended with him becoming subject to the Penance stare ([[Ghost Rider#Daniel Ketch|Ghost Rider's]] unique ability to make people feel the pain of all those they have harmed) which had Madcap, feeling pain for the first time in years, promptly asking for more.
+His appearance in [[She-Hulk]] had a more comical tone. Writer [[John Byrne]] was using [[Sensational She-Hulk]] series as more of a comedy book, shown by her breaking the [[fourth wall]] oft and conversing with her writer/artist. When she got fed up with Madcap in her book, she quite literally ripped out a panel where he was featured, and shredded it. 
+The actual continuity of this event is ambiguous. Madcap's current fate is unknown.
+
+==Powers and Abilities==
+[[Madcap]] possesses two [[List of comic book superhero powers|superpowers]].  The first is his fantastic rate of [[Healing factor|regeneration and recovery]]: he heals from any physical injury almost instantly, and even if he sustains enough damage to kill him (such as having his neck snapped), he will [[resurrection|resurrect]] in a very short amount of time.  It is unknown if he can completely regrow [[dismemberment|severed limbs]]; however, given that he has on at least one occasion reformed after near-total incineration, this is very likely possible.  Linked to this is an inability to perceive [[Pain and nociception|pain]].
+
+His second power is a specialized form of emotion control that affects those he makes eye contact with.  It is for this reason that he wears his garish purple-and-yellow costume and uses a distracting bubble-gun -- to draw the attention of others towards him, so they can meet his gaze.  People affected by his power act in a [[drunkenness|euphoric, outlandish, uninhibited manner]].  This is rarely dangerous in and of itself (especially since Madcap cannot control ''how'' the person acts), though this can lead to extreme peril if the affected person decides to, for example, [[tap dance]] up the on-ramp of an [[freeway|interstate]].  The duration of the state seems to be approximately 15-30 minutes, though Madcap can keep a person "pleasantly loony" indefinitely if he continues to make eye contact with them.  Most of Madcap's adversaries at first mistakenly believe the cause of this madness to be the bubble-gun itself.
+
+==External links==
+*[http://www.leaderslair.com/marvelvillains/madcap.html Madcap's entry at Leader's Lair]
+*[http://www.marveldirectory.com/individuals/m/madcap.htm Madcap's entry at MarvelDirectory.com]
+*[http://www.geocities.com/marvel_villain/madcap/madcap.html Madcap's entry at Villains of Marvel Comics]
+
+[[Category:Daredevil villains]]
+[[Category:Ghost Rider villains]]
+[[Category:Captain America villains]]
+[[Category:Marvel Comics mutates]]
+[[Category:Suicidal fictional characters]]
+[[Category:Fictional characters with the power of accelerated healing]]
+
+{{Marvel-villain-stub}}

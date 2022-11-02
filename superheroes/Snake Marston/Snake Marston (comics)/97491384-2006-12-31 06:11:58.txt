@@ -1,0 +1,29 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Snake Marston
+|real_name=Sylvester Marston
+|publisher=[[Marvel Comics]]
+|debut=''[[Marvel Team-Up]]'' #136 (Dec 1983)
+|creators=[[David Michelinie]] and [[Ron Frenz]]
+|alliance_color=background:#cccccc
+|status=
+|alliances=
+|previous_alliances=[[Satan Squad]]<br>[[Enforcers (comics)|Enforcers]]
+|aliases=
+|relatives=
+|powers=human contortionist
+|}}
+
+'''Sylvester "Snake" Marston''' is a fictional character in the [[Marvel Comics Universe]] whose first appearance was in ''[[Machine Man]]'' (1st series) #16.  
+
+==Fictional character biography==
+Sylvester Marston was born in [[Ontario, Canada]].  He was a member of the [[Satan Squad]] and the [[Enforcers (comics)|Enforcers]]. Snake has not been seen since, and was presumed dead, following his impersonation by the [[Eel (comics)|Eel]] as part of a plot involving [[Daredevil (Marvel Comics)|Daredevil]], [[Mister Hyde (comics)|Mister Hyde]], and the Enforcers, but he has lately resurfaced as a member of the Government-sponsored [[Thunderbolts (comics)|Thunderbolts]] team.
+
+==Bibliography==
+*''Machine Man'' (1st series) #16
+
+{{Marvel-villain-stub}}
+
+[[Category:Spider-Man villains]]

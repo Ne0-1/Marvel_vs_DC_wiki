@@ -1,0 +1,50 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+|image= TheKing.jpg
+|converted= y
+|caption=
+|character_name=King Standish
+|publisher=[[DC Comics]]
+|debut=''[[Flash Comics]]'' #3 (March 1940)
+|creators=[[Gardner Fox]] (writer)<br/>[[William Smith]] (artist)
+|alter_ego=
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances=[[Office of Strategic Services]]
+|partners =
+|aliases=The King
+|powers= Master of [[disguise]]<br />Master [[illusionist]]
+|supports =<!--optional-->
+|}}
+
+'''King Standish''' is a [[fictional character]] in the [[DC Comics]] [[DC Universe|Universe]]. King Standish first appeared in ''[[Flash Comics]]'' (vol. 1) #3 (March 1940), and was created by [[Gardner Fox]] and [[William Smith]].
+
+==Fictional character biography==
+King Standish was young, rich master of disguise who vowed to stop crime. He was considered a criminal by the police and the underworld, while he was truly a crimefighter. Through time this bad reputation died, but not fully. Being such a skillful master of disguise, King could even fool his friends, however, he remained in disguise, allowing no one to know what he looked like. His actual face, nor his full name, is never revealed throughout his appearances. He sported a [[tuxedo]] with an opera cape, a [[top hat]] and a [[domino mask]], whenever making an appearance not in disguise.
+
+His most frequent adversary was the Witch, who rivaled in ability for disguise. He never turned her over to the police, since there was a mutual attraction. Although being on the opposite side, they both developed strong feelings to each other, despite that they never saw the actual face of the other. King attempted many times to bring her over to the side of the law and be a crimefighter, but failed.
+
+During World War II, he was contacted by Control and became a member of the [[Office of Strategic Services]]. The King remained a member of the OSS until the war was over. Later, he helped the [[Justice Society of America]] when Jacob Tolzmann became a supernatural threat. With [[Wesley Dodds|Sandman]] and the [[Sylvester Pemberton|Star Spangled Kid]] knocked out, King teamed up with their sidekicks', [[Sanderson Hawkins|Sandy]] and [[Pat Dugan|Stripesy]]. The King disguised himself as Tolzmann's father to distract him, allowing the sidekicks to defeat him.
+
+In ''Justice Society of America'' #29 (vol. 3), a new recruit to the team, [[King Chimera]], reveals a little bit about himself, saying his father was "King" Standish and that he met with a member of a secret order on a distant island to perfect the art of illusion, training himself to be a master illusionist. King Chimera mentioned his mother had a thing for older men, hinting The King and King Chimera's mother had an age difference, with The King being much older.<ref>''Justice Society of America'' #29 (vol. 3) (July 2009)</ref>
+
+King Standish's current activities and whereabouts have not been recorded, last appearing in ''[[Starman (comics)|Starman]]'' #66 (June 2000).
+
+==Powers and abilities==
+King Standish was a master of disguise, so good he could even fool his friends. He used [[hand-to-hand combat]] and occasionally guns. His son King Chimera revealed he perfected the art of illusion, training himself to be a master illusionist.
+
+==References==
+Who's Who 12 Feb 1986 The Unofficial Guide to the DC Universe
+<!--- See [[Wikipedia:Footnotes]] on how to create references using <ref></ref> tags which will then appear here automatically -->
+{{Reflist}}
+
+==External links==
+* [http://www.dcuguide.com/who.php?name=king The Unofficial King Biography]
+* [http://www.comicvine.com/the-king/29-61635/ The King at Comic Vine]
+* [http://dc.wikia.com/wiki/King_Standish_(New_Earth) The King at DC Wikia]
+<!--- Categories --->
+
+[[Category:Golden Age superheroes]]
+[[Category:Comics characters introduced in 1940]]
+[[Category:DC Comics characters]]
+[[Category:DC Comics superheroes]]
+[[Category:Characters created by Gardner Fox]]

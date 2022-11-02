@@ -1,0 +1,1454 @@
+{{Multiple issues|cleanup=June 2009|fansite=June 2009|in-universe=June 2009}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name=Jean Grey-Summers
+|image=JeanGreyPhoenix.jpg
+|imagesize=
+|converted=y
+|caption=Jean Grey-Summers as Phoenix.<br />{{Descript-inner-art|Astonishing X-Men|2|1|Sept 1999}}Art by [[Brandon Peterson]].
+|real_name=Jean Grey-Summers
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''X-Men'' #1 (Sep 1963)
+|creators=[[Stan Lee]]<br />[[Jack Kirby]]
+|alliances=[[X-Men]]<br />Phoenix Corps<br />[[Apocalypse: The Twelve|The Twelve]]<br />[[X-Factor (comics)|X-Factor]]<br />[[X-Terminators]]
+|aliases= [[Marvel Girl]], [[Phoenix Force (comics)|Phoenix]], Dark Phoenix, White Phoenix of the Crown, Redd Dayspring, Red
+|powers=[[Telepathy]]<br />[[psychokinesis|Telekinesis]]<br />[[Phoenix Force (comics)|Phoenix Force]] grants:
+*Ability to travel unaided through space and time
+*Ability to psionically manipulate matter and any form of energy
+*Ability to create powerful 'cosmic' fire
+|cat=super
+|subcat=Marvel Comics
+|hero=y
+|sortkey=Grey, Jean
+}}
+
+'''Jean Grey-Summers''' is a [[fiction]]al [[comic book]] [[Superhero#Female_superheroes|superheroine]] appearing in books published by [[Marvel Comics]]. She has been known under the aliases '''Marvel Girl'''  and later, '''[[Phoenix Force (comics)|Phoenix]]''' and '''Dark Phoenix''', and is best known as one of five original members of the [[X-Men]], for her relationship with [[Cyclops (comics)|Cyclops]], and for her central role and transformation in the classic X-Men storyline, "[[The Dark Phoenix Saga]]".
+
+Jean Grey-Summers is a [[Mutant (Marvel Comics)|mutant]] born with [[Telepathy|telepathic]] and [[Psychokinesis|telekinetic]] powers. Her powers first manifested when she saw her childhood friend being hit by a car. She is a caring, nurturing figure, but she also must deal with being an [[Mutant (Marvel Comics)#Omega-level mutants|Omega-level mutant]] and the physical manifestation of the cosmic [[Phoenix Force (comics)|Phoenix Force]]. She faces death several times in the history of the series, first in the classic "Dark Phoenix Saga" but due to her connection with the Phoenix Force, she, as her namesake implies, [[comic book death|rises from death]].
+
+Jean is an important figure in the lives of other Marvel universe characters, mostly the X-Men, including her husband Cyclops; her mentor and father-figure [[Professor X|Charles Xavier]]; her close friend and sometimes romantic interest [[Wolverine (comics)|Wolverine]]; [[Storm (Marvel Comics)|Storm]], who is her best friend and a sister-like figure; and genetic children [[Rachel Summers]], [[Nate Grey|X-Man]], and [[Cable (comics)|Cable]].
+
+The character is present for much of the X-Men's history, and she is featured in all three ''X-Men'' [[animation|animated series]] and several video games. [[Famke Janssen]] portrayed Jean in the [[X-Men (film series)|''X-Men'' films]]. She is a playable character in ''[[X-Men Legends]]'' (2004), ''[[X-Men Legends II: Rise of Apocalypse]]'' (2005), and ''[[Marvel Ultimate Alliance 2]]'' (2009), and appears as an enemy in the first ''[[Marvel: Ultimate Alliance]]''.
+In 2006, [[IGN]] rated Jean Grey #6 on their list of Top 25 X-Men from the past forty years.<ref name=IGNTop25>{{cite web
+| author = Hilary Goldstein
+| coauthors = Richard George
+| title = The Top 25 X-Men
+| work =
+| publisher = ign comics UK
+| date =
+| url = http://uk.comics.ign.com/articles/708/708826p4.html IGN.com Top 25 X-Men
+| format =
+| doi =
+| accessdate = 2009-05-29 <!-- date checked -->}}
+</ref>
+
+==Publication history==
+===Debut (1960s)===
+Created by writer [[Stan Lee]] and artist/co-writer [[Jack Kirby]], Jean first appeared as '''Marvel Girl''' in ''[[Uncanny X-Men|X-Men]]'' #1 (September 1963).  As the original team's sole female member, Marvel Girl was a regular part of the team through the series' publication.  Initially possessing the ability of telekinesis, the character was later granted the power of telepathy,<ref>{{Cite comic
+| writer = [[Roy Thomas]]
+| penciller = [[George Tuska]]
+| inker = [[John Tartaglione]]
+| story = X-Men
+| title = [[Uncanny X-Men|X-Men]]
+| volume = 1
+| issue = 43
+| date = April 1968
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> which would be retconned years later as a latent natural ability.<ref>{{Cite comic
+| writer = [[Chris Claremont]]
+| penciller = [[John Buscema]]
+| inker = [[Klaus Janson]]
+| story = Phoenix
+| title = [[Bizarre Adventures]]
+| volume = 1
+| issue = 27
+| date = July 1981
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>  She  begins a relationship with Scott Summers, which persists as her main romantic relationship throughout the ''X-Men'' franchise, though she would also harbor a secret attraction to fellow teammate [[Wolverine (comics)|Wolverine]].<ref name="CLSXMN1">{{Cite comic
+| writer = [[Chris Claremont]]
+| penciller = [[John Bolton (comics)|John Bolton]]
+| story = First Night
+| title = [[Classic X-Men]]
+| volume = 1
+| issue = 1
+| date = September 1986
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>
+
+==="The Dark Phoenix Saga" (1980s)===
+[[Image:UncannyXMen101.jpg|left|thumb|150px|Marvel Girl becomes Phoenix. (''[[Uncanny X-Men|X-Men]]'' vol. 1, #101) Art by [[Dave Cockrum]].]]Under the collaborative writing and artwork of [[Chris Claremont]] and [[John Byrne]] (respectively) in the 1980s, Marvel Girl would undergo a significant transformation from the X-Men's weakest member<ref name="XMN105">{{Cite comic
+| writer = Chris Claremont
+| penciller = Dave Cockrum
+| inker = Bob Layton
+| story = Phoenix Unleashed!
+| title = X-Men
+| volume = 1
+| issue = 105
+| date = June, 1977
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> to one of its most powerful in the ''Uncanny X-Men'' extended storyline "The Phoenix Saga".  In an attempt to save her fellow X-Men that renders her near death, Jean bonds with a cosmic entity called the "[[Phoenix Force (comics)|Phoenix Force]]" and gains immense powers, adopting the new codename "'''Phoenix'''".  This new identity and her immense abilities became the focus of another extended storyline, "[[The Dark Phoenix Saga]]", in which Jean becomes overwhelmed and corrupted by her god-like powers and transforms into a force of total destruction, now called "'''Dark Phoenix'''", consuming a star, inadvertently killing the inhabitants of the star's solar system, and jeopardizing the entire universe.  The storyline ends in Jean Grey's suicide, in a moment of regained control, to ensure the universe's safety.<ref name="DPS">{{cite book |title=X-Men: The Dark Phoenix Saga |first=Chris  |last=Claremont |publisher= Marvel Publishing |location=New York| isbn=0785122133 |year=1984}}</ref>  "[[The Dark Phoenix Saga]]" (including the earlier "Phoenix Saga") would become one of the most well-known and heavily referenced stories in mainstream American superhero comics, widely considered a classic.<ref name="Deeley">Deeley, Michael. [http://www.comicsbulletin.com/soapbox/99272726322238.htm "Silver Soapbox: Dark Phoenix: The Director's Cut," Comics Bulletin (June 16, 2001).] Accessed Apr. 12, 2009.</ref>
+
+When the first [[trade paperback]] of "The Dark Phoenix Saga" was published in 1984, Marvel also published a 48-page special issue titled "Dark Phoenix: The Untold Story."  A reprinting of ''Uncanny X-Men'' #137 was published, with new artwork and dialogue with the originally intended ending by Claremont and Byrne.  Along with the alternate ending were transcripts of the roundtable discussion between Shooter, Claremont, Byrne, editors [[Jim Salicrup]] and [[Louise Simonson|Louise Jones]], and inker [[Terry Austin (comics)|Terry Austin]] about the creation of the new Phoenix persona, the development of the story and what lead to its eventual change, and also Claremont and Byrne's plans for Jean Grey had she survived.<ref name="Deeley"/>
+[[Image:Phoenixconsumesstar.png|right|150px|thumb|Phoenix consumes a star, inadvertently killing billions of people.]]
+Claremont revealed that his and Byrne's motivation for Jean Grey's transformation into Phoenix was to create "the first cosmic superheroine" akin to [[Thor (comics)|Thor]].<ref name="DPT"/>  The two hoped that like Thor had been integrated into ''[[Avengers (comics)|The Avengers]]'' lineup, Phoenix would also become an effective and immensely powerful member of the X-Men.<ref name="DPT"/>  However, both Salicrup and Byrne had strong feelings against how powerful Phoenix had become, feeling that she drew too much focus in the book.<ref name="DPT"/>  Byrne worked with Claremont to effectively remove Phoenix from the storyline, initially by removing her powers. However, Byrne's decision to have Dark Phoenix destroy an inhabited solar system in ''Uncanny X-Men'' #135, coupled with the planned ending to the story arc, worried then-Editor-in-Chief [[Jim Shooter]], who felt that allowing Jean to live at the conclusion of the story was both morally unacceptable (given that she was now a "mass murderer")<ref name="Deeley"/> and also an unsatisfying ending from a storytelling point of view.<ref name="Deeley"/> Shooter publicly laid out his reasoning in the 1984 roundtable:
+<blockquote>
+I personally think, and I've said this many times, that having a character destroy an inhabited world with billions of people wipe out a starship and then—well, you know, having the powers removed and being let go on Earth. It seems to me that that's the same as capturing [[Hitler]] alive and letting him go live on Long Island. Now, I don't think the story would ''end'' there. I think a lot of people would come to his door with machine guns... .<ref name="DPT">{{Cite comic
+| writer = Chris Claremont; John Byrne; Jim Shooter; Jim Salicrup, Louise Jones; Terry Austin
+| penciller = John Byrne
+| inker =
+| story = The Dark Phoenix Tapes
+| title = Phoenix: The Untold Story
+| volume = 1
+| issue = 1
+| date = April, 1984
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>
+</blockquote>
+In ''The Dark Phoenix Tapes'', Claremont suggested that one of the creative team's questions that affected the story's conclusion was whether the Phoenix's personality and later descent into madness and evil were inherent to Jean Grey or if the Phoenix was itself an entity merely possessing her.<ref name="DPT"/>  The unclear relationship between Jean Grey and the Phoenix Force would continue to be a topic subject to different interpretations and explanations by various future writers and editors at Marvel Comics.  At the time of the Phoenix's creation, Byrne viewed it as an entity that entirely possessed Jean Grey, therefore absolving her of its crimes once it was driven out.<ref name="DPT"/>  Conversely, Shooter viewed Phoenix as an inherent and inseparable aspect of Jean Grey, meaning that the character was fully responsible for her actions as Phoenix.<ref name="DPT"/>  As a result, Shooter requested that Claremont and Byrne rewrite the last chapter of issue #137, to explicitly place in the story both a consequence and an ending commensurate with the enormity of Phoenix's actions.<ref name="DPT"/>
+
+The original ending was published in the one-shot ''Phoenix: The Untold Story'' in April, 1984. In the original ending, Jean is overpowered, captured, and subjected to a "psychic lobotomy," permanently leaving Jean without any of her telepathic or telekinetic powers. The concept that Byrne and Claremont had in mind was that her powers ended up being permanently suppressed, but with the threat always in the shadows of Phoenix returning. In the end, Jean is allowed to return to Earth with the rest of the X-Men, "cured" of the power and madness of Dark Phoenix.<ref name="DPT"/> Later plans stated by Claremont and Byrne also involved Magneto offering Jean the chance to restore her abilities, but with Jean proving herself in a heroic moment by choosing to remain depowered and eliminate the threat of Dark Phoenix returning to power.<ref name="DPT"/>  The one-shot also reveals the original splash page drawn for ''Uncanny X-Men'' #138, which shows Jean and Scott in a happier time, contrasted with the splash page actually published in issue #138 that shows Jean's funeral.<ref name="DPT"/>
+
+===Return to publication (1986)===
+[[Image:Xfactor1undecided.jpg|left|thumb|150px|The unfinished cover for ''X-Factor'' #1, before Bob Layton and Jackson Guice decided on the fifth female team member. (''[[X-Factor (comics)|X-Factor]]'' vol. 1, #1) Art by [[Jackson Guice]].]]
+After several years, Marvel decided to revive the character, but only after an editorial decree that the character be absolved of her actions during "The Dark Phoenix Saga".<ref name="Busiek">F, Elisabeth. [http://www.comiclist.com/index.php/news/interview-with-kurt-busiek-marathon-man "Interview With Kurt Busiek: Marathon Man" ComicList (April 27, 2009).] Accessed Jul. 9, 2010.</ref>  She reappears six years after "The Dark Phoenix Saga" in ''Avengers'' #263 (January, 1986) and is revived in ''Fantastic Four'' #286 (January, 1986), with the events of "The Dark Phoenix Saga" being retconned.  The events explain that the real Jean Grey was hidden away to heal from her injuries while the Phoenix Force inhabited a copy of her body, believing itself to be Jean Grey.  Future issues would further explore the details of the interaction and connection between Jean and the Phoenix Force.<ref name="CLSX8">{{Cite comic
+| writer = [[Chris Claremont]]
+| penciller = [[John Bolton (comics)|John Bolton]]
+| story = Phoenix
+| title = [[Classic X-Men]]
+| volume = 1
+| issue = 8
+| date = April 1987
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref><ref>{{Cite comic
+| writer = [[Chris Claremont]]
+| penciller = [[Mike Collins]]
+| inker = [[Josef Rubenstein]]
+| story = Flights of Angels
+| title = [[Classic X-Men]]
+| volume = 1
+| issue = 43
+| date = January 1990
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> The real Jean Grey awakens when her injuries are healed (though with lost access to her telepathy) and with no recollection or involvement in the events that occurred after meeting the Phoenix Force.<ref>{{Cite comic
+| writer = [[Chris Claremont]]
+| penciller = [[Chris Claremont]]
+| story = Like a Phoenix!
+| title = [[Fantastic Four]]
+| volume = 1
+| issue = 286
+| date = January 1986
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>
+
+Writer [[Kurt Busiek]] is credited as coming up with the plot to revive Jean Grey.<ref name="Busiek"/>  At the time, Jim Shooter ruled that the character could not be revived unless she was absolved of her genocidal actions.<ref name="Busiek"/>  Busiek, a fan of the original five X-Men, was displeased with the character's death and formulated various storylines that would have met Shooter's rule and allowed the character to return to the X-Men franchise.<ref name="Busiek"/>  He eventually shared his storyline idea with fellow writer [[Roger Stern]] who mentioned it to Byrne, who was in charge of illustrating the ''Fantastic Four'' at the time.<ref name="Busiek"/>  Both series writer [[Bob Layton]] and artist [[Jackson Guice]], who were developing the series ''[[X-Factor (comics)|X-Factor]]''—a team of former X-Men—had yet to settle on their fifth team member, initially considering [[Dazzler]].<ref name="5thmember">{{cite web |first=Brian |last=Cronin |url=http://goodcomics.comicbookresources.com/2008/06/26/comic-book-urban-legends-revealed-161/ |title=Comic Book Urban Legends Revealed #161 |work=Comic Book Urban Legends Revealed |publisher=[[Comic Book Resources]] |date=June 26, 2008 |accessdate=July 9, 2010}}</ref>  Layton opted to fill the open spot with Jean instead, and both he and Byrne submitted the idea to Shooter, who approved it.<ref name="Busiek"/>  Jean Grey's revival became a crossover plotline between the ''Avengers'' under Stern, ''Fantastic Four'' under Byrne, and ''X-Factor'' under Layton.<ref name="Busiek"/>  Busiek later found out that his idea had been used thanks to Layton, and was credited in ''Fantastic Four'' #286 and was paid for his contributions.<ref name="Busiek"/>  The decision to revive Jean Grey was controversial among fans, with some appreciating the return of the character and others feeling it weakened the impact of the "Dark Phoenix Saga"'s ending.<ref name="Busiek"/>  Busiek maintains that the idea that lead to Jean Grey's official return to Marvel Comics was merely a case of sharing his ideas with friends as a fan, and that he cannot be blamed by those who disliked her return because he neither formally pitched the idea to anyone nor gave it the final go ahead.<ref name="Busiek"/>
+
+In the comics, having been fully established as separate from the "Jean Grey" copy created and taken over by the Phoenix Force, Jean is "absolved" of involvement in the atrocities of "The Dark Phoenix" storyline, and she returns in the first issue of ''X-Factor'' (1st Series) only to find that the other members of the original X-Men have retired.<ref name="XFT1">{{Cite comic
+| writer = [[Bob Layton]]
+| penciller = [[Jackson Guice]]
+| inker = [[Josef Rubenstein]]
+| story = Third Genesis
+| title = [[X-Factor (comics)|X-Factor]]
+| volume = 1
+| issue = 1
+| date = February 1986
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>  Jean convinces the retired X-Men to found a new team, '''X-Factor''', to respond to growing anti-mutant sentiment and reuses the "Marvel Girl" codename.<ref name="XFT1"/>  The series also reunited Jean with Cyclops, who abandons his wife, [[Madelyne Pryor]]—a woman who looks uncannily like Jean—and their infant son, [[Cable (comics)|Nathan Christopher]], to run the X-Factor team.<ref name="XFT1"/>  Upon discovering that her former lover had established a family during her absence, Jean encourages Cyclops to return to his wife and child.<ref name="XFT8">{{Cite comic
+| writer = [[Bob Layton]]
+| penciller = [[Jackson Guice]]
+| inker = [[Josef Rubenstein]]
+| story = Third Genesis
+| title = [[X-Factor (comics)|X-Factor]]
+| volume = 1
+| issue = 8
+| date = February 1986
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref><ref name="XFT13">{{Cite comic
+| writer = [[Louise Simonson]]
+| penciller = [[Walter Simonson]]
+| inker = [[Dan Green (artist)|Dan Green]]
+| story = Third Genesis
+| title = [[X-Factor (comics)|X-Factor]]
+| volume = 1
+| issue = 13
+| date = February 1987
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>  However, finding their home abandoned, he believes Madelyne has left him and taken Nathan with her, prompting Scott to return to X-Factor and continue his relationship with Jean.<ref name="XFT13"/>
+
+The team's adventures continue throughout the series, culminating in the line-wide ''[[Inferno (Marvel Comics)|Inferno]]'' crossover.  Madelyne resurfaces, now nearly insane and with powers awakened by a demonic pact, calling herself the Goblyn Queen.<ref name="UNCXM240">{{Cite comic
+| writer = [[Chris Claremont]]
+| penciller = [[Mark Silvestri]]
+| inker = [[Dan Green (artist)|Dan Green]]
+| story = Strike the Match
+| title = [[Uncanny X-Men]]
+| volume = 1
+| issue = 240
+| date = January 1989
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>  During the crossover, the X-Men discover that Madelyne was a clone of Jean created by [[Mister Sinister]] and brought to life by the Phoenix Force after the events of "The Dark Phoenix Saga".  Sinister created her with the purpose of having a child with Scott Summers, as their genetic pool carried the potential to produce powerful mutant offspring.  This drives her completely insane and she plans to sacrifice her son to achieve greater power and forge her own destiny.<ref name="UNCXM241">{{Cite comic
+| writer = [[Chris Claremont]]
+| penciller = [[Mark Silvestri]]
+| inker = [[Dan Green (artist)|Dan Green]]
+| story = Fan the Flames
+| title = [[Uncanny X-Men]]
+| volume = 1
+| issue = 241
+| date = February 1989
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>  ''Inferno'' reunites Jean with the X-Men, who are happy to learn that she is alive, particularly Wolverine, reminding Jean of her unaddressed feelings for him.  At the conclusion of ''Inferno'', Jean and Madelyne confront each other, with Madelyne attempting to mind meld with Jean and kill them both.  Jean manages to survive only by absorbing the remnant of the Phoenix Force housed within Madelyne, giving her both Madelyne's memories and the Phoenix's memories from "The Dark Phoenix Saga".<ref name="XFT38">{{Cite comic
+| writer = [[Louise Simonson]]
+| penciller = [[Walter Simonson]]
+| inker = [[Dan Green (artist)|Dan Green]]
+| story = Duet!
+| title = [[X-Factor (comics)|X-Factor]]
+| volume = 1
+| issue = 38
+| date = March 1989
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>
+
+Claremont later commented on how Jean's revival affected his original plans for Madelyne Pryor, stating that the relationship between the two women was intended to be entirely coincidental.<ref name="SerieJournalen">Kristiansen, Ulrik & Rensenf, Tue S. [http://www.seriejournalen.dk/tegneserie_indhold.asp?art=&ID=32 "Interview with Chris Claremont" Serie Journalen (May 1, 1996).] Accessed Jul. 9, 2010.</ref>  He intended Madelyne only to look like Jean by complete coincidence and exist as a means for Cyclops to move on with his life and be written out of the ''X-Men'' franchise, part of what he believed to be a natural progression for any member of the team.<ref name="SerieJournalen"/>  Claremont expressed dismay that Jean's resurrection ultimately resulted in Cyclops abandoning his wife and child, tarnishing his written persona as a hero and "decent human being", and the "untenable situation" with Madelyne being dealt with by transforming her into a [[prolicide|prolicidal]] demonic villain and killing her off.<ref name="SerieJournalen"/>
+
+Soon after the beginning publication of ''X-Factor'', Marvel also reprinted and released the original ''X-Men'' series under the title "''Classic X-Men''".  These reissues paired the original stories with new vignettes, elaborating on plot points.  One such issue, ''Classic X-Men'' #8 (April 1987), paired the original ''X-Men'' #100 (August 1976) story of Jean Grey's disastrous return flight from space immediately preceding her transformation into Phoenix ("Love Hath No X-Man...") with the new story "Phoenix".  The story further supported the retcon establishing Jean Grey and the Phoenix Force as two separate entities.  The vignette elaborated on the events between ''X-Men'' #100 and ''X-Men'' #101: facing certain death from radiation poisoning, Jean Grey cries out for help to save the lives of her fellow X-Men.  Hearing her cry and sensing her intense passion for life and love for Scott and her friends, the Phoenix Force—the "sum and substance of life"—responds, offering to save her by bonding to her, coupling her humanity with its incredible power.  Jean accepts and immediately finds her consciousness in a duplicated body.  She places her former dying body, still containing a spark of her soul, in a healing cocoon.  The duplicate, now calling itself Phoenix, proceeds to the events depicted in the original ''X-Men'' #101 (October 1976) story "Like A Phoenix, From The Ashes!" with the cocoon sinking to the bottom of the Jamaica Bay to be discovered in '"Avengers'' #263.<ref name="CLSX8"/>
+
+===Return to the X-Men (1990s)===
+Following the conclusion of ''Inferno'', Jean continues to be a mainstay character throughout the rest of ''X-Factor'', rejecting a marriage proposal from Scott and meeting her alternate future daughter [[Rachel Summers]], whom she also rejects out of the feeling that they both suggest her life is predetermined.<ref name="XFT53">{{Cite comic
+| writer = [[Louise Simonson]]
+| penciller = Terry Shoemaker
+| inker = [[Allen Milgrom]]
+| story = Ghosts
+| title = [[X-Factor (comics)|X-Factor]]
+| volume = 1
+| issue = 53
+| date = April 1990
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref><ref name="XFTANN5">{{Cite comic
+| writer = [[Louise Simonson]]
+| penciller = [[Allen Milgrom]]
+| inker = [[Bob McLeod (comics)|Bob McLeod]]
+| story = Days of Future Present (Part 2)
+| title = [[X-Factor (comics)|X-Factor]]
+| volume = 1
+| issue = 5
+| date = January 1990
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>  She also regains her telepathy during a battle with the villain [[Psynapse (comics)|Psynapse]].<ref name="XFT65">{{Cite comic
+| writer = [[Jim Lee]], [[Whilce Portacio]], [[Chris Claremont]]
+| penciller = [[Whilce Portacio]]
+| inker = [[Art Thibert]]
+| story = Endgame, Part 1: Malign Influences
+| title = [[X-Factor (comics)|X-Factor]]
+| volume = 1
+| issue = 65
+| date = April 1991
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>
+
+''X-Factor'' (1st Series) ended its run featuring the original X-Men with ''X-Factor'' #70 (September, 1991), with the characters transitioning over to ''Uncanny X-Men'', explained in continuity as the two teams deciding to merge together.  The fourteen X-Men divide into two teams—"Blue" and "Gold"—led by Cyclops and [[Storm (Marvel Comics)|Storm]], respectively.  Jean is added to the Gold Team beginning in ''Uncanny X-Men'' #281 (October, 1991).<ref name="UNCXM281">{{Cite comic
+| writer = [[Jim Lee]], [[Whilce Portacio]], [[John Byrne]]
+| penciller = [[Whilce Portacio]]
+| inker = [[Art Thibert]]
+| story = Fresh Upstart
+| title = [[Uncanny X-Men]]
+| volume = 1
+| issue = 281
+| date = October 1991
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>  During this time, she is no longer given a codename, instead referred to by her full name, '''Jean Grey'''.  In ''Uncanny X-Men'' #308 (January 1994), Jean accepts a second marriage proposal from Scott and the two marry in ''X-Men'' #30 (March, 1994).  Jean and Scott were immediately featured in the four-part miniseries ''The Adventures of Cyclops & Phoenix'', where the two were psychically transported 2000 years into the future to raise Scott's son Nathan, who had been transported to the future as an infant in hopes of curing him of a deadly virus.  The series depicted the couple assuming the names Redd (Jean) and Slym (Cyclops) and raising Nathan Christopher for twelve years before being sent back into their bodies on their wedding honeymoon.  Before their return, Jean learns that Rachel had transported them to the future to protect Nathan, and per her request adopts the codename "Phoenix" once again to establish it as a symbol of good after all the bad it had caused.<ref name="TAoC&P">{{cite book |title=The Adventures of Cyclops and Phoenix |first=Scott  |last=Lobdell |publisher= Marvel Publishing |location=New York| isbn=0-7851-0171-3 |year=1994}}</ref>
+
+Jean continued to appear as a mainstay character in both ''[[X-Men (vol. 2)|X-Men]]'' and ''Uncanny X-Men'' including franchise-wide crossovers like "[[Phalanx Covenant|The Phalanx Covenant]]" and the line-wide crossover ''Onslaught'', which featured the manifestation of Charles Xavier's dark half.  The crossover revisited long untouched issues between Xavier and Jean, including Xavier's secret love for Jean mentioned in the original ''X-Men'' comic series decades earlier.<ref name="XMN53">{{Cite comic
+| writer = [[Mark Wade]]
+| penciller = [[Andy Kubert]]
+| inker = [[Cam Smith]], John Dell
+| story = False Fronts
+| title = [[X-Men (vol. 2)|X-Men]]
+| volume = 2
+| issue = 53
+| date = June 1996
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref><ref name="TXMN3">{{Cite comic
+| writer = [[Stan Lee]]
+| penciller = [[Jack Kirby]]
+| inker = [[Paul Reinman]]
+| story = Beware of...the Blob!
+| title = [[Uncanny X-Men|The X-Men]]
+| volume = 1
+| issue = 3
+| date = January 1964
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>  Jean also meets another alternate future child of hers and Scott: the immensely powerful [[Nate Grey|Nathan Grey]], who accidentally revives the psionic ghost of Madelyne Pryor, leading to another confrontation between the two women.<ref name="XMAN25">{{Cite comic
+| writer = [[Terry Kavanagh]]
+| penciller = [[Roger Cruz]]
+| inker = Bud LaRosa
+| story = Closer to the Lame
+| title = [[X-Man]]
+| volume = 1
+| issue = 25
+| date = March 1997
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>  While appearing in ''Uncanny X-Men'' and ''X-Men'', Jean grows more comfortable with her immense psychic powers and begins using the iconic green and gold Phoenix costume again.<ref name="UNCXM356">{{Cite comic
+| writer = [[Steve Seagle]]
+| penciller = [[Chris Bachalo]]
+| inker = Tim Townsend
+| story = Reunion
+| title = [[Uncanny X-Men]]
+| volume = 1
+| issue = 356
+| date = June 1998
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>  She also brings together a quick team of X-Men in the three-issue revival of the ''[[Astonishing X-Men]]'' title.<ref name="ASTXM1">{{Cite comic
+| writer = [[Howard Mackie]]
+| penciller = [[Brandon Peterson]]
+| inker = Tim Townsend, Dan Panosian
+| story = Call to Arms
+| title = [[Astonishing X-Men]]
+| volume = 2
+| issue = 1
+| date = September 1999
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>
+
+===New X-Men (2000s)===
+Following Cyclops' possession by the mutant villain [[Apocalypse (comics)|Apocalypse]] and disappearance in the conclusion of the crossover storyline "Apocalypse: The Twelve,"<ref name="Twelve">{{Cite comic
+| writer = [[Alan Davis]], [[Terry Kavanagh]]
+| penciller = [[Alan Davis]]
+| inker = [[Mark Farmer]]
+| story = The End of the World As We Know It (Part 2)
+| title = [[X-Men vol. 2|X-Men]]
+| volume = 2
+| issue = 97
+| date = February 2000
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref><ref name="AGES">{{Cite comic
+| writer = [[Alan Davis]], [[Terry Kavanagh]]
+| penciller = [[Alan Davis]]
+| inker = [[Mark Farmer]]
+| story = First and Last (Part 2)
+| title = [[X-Men vol. 2|X-Men]]
+| volume = 2
+| issue = 98
+| date = March 2000
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> Jean loses her telekinetic abilities and is left with increased psychic powers, the result of the "six month gap" in plot across the ''X-Men'' franchise created by the ''Revolution'' revamp.  During the ''Revolution'' event, all ''X-Men'' titles began six months after the events of ''Apocalypse: the Twelve'', allowing writers to create fresh situations and stories and gradually fill in the missing events of the previous six months of continuity.  Due to editing decisions following the success of the 2000 ''[[X-Men (film)|X-Men]]'', an explanation for Jean's altered powers was never explicitly made, though writer Chris Claremont revealed in interviews that it was intended to be an accidental power switch between fellow X-Man [[Psylocke]], explaining Psylocke's new telekinetic powers as well.
+
+Jean was next featured in the six-issue miniseries ''[[X-Men Forever]]'' written by [[Fabian Nicieza]], which was designed to tie up remaining plot lines.  During the series, Jean revisited many of the events involving the Phoenix Force and the series introduced the concept of "Omega level mutants", a category for mutants with unlimited potential, which includes Jean herself.<ref name="XMFRV">{{Cite comic
+| writer = [[Fabian Nicieza]]
+| penciller = [[Kevin Maguire (artist)|Kevin Maguire]]
+| inker = [[Andrew Pepoy]]
+| story = Chapter 3: All of God's Creatures...
+| title = [[X-Men Forever]]
+| volume = 1
+| issue = 3
+| date = March 2001
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>  Cable and Jean were the central characters in the 2001 miniseries ''[[X-Men: Search for Cyclops]]'' where the two believe Cyclops to be alive.  The two track Cyclops down and Jean is able to psychically free him from Apocalypse's possession.  The couple then return as mainstay characters in ''X-Men'' (2nd Series) once again.<ref name="XMSfC">{{Cite comic
+| writer = [[Joe Harris (filmmaker)|Joseph Harris]]
+| penciller = [[Tom Raney]]
+| inker = Scott Hanna
+| story = Book Four: Found!
+| title = [[X-Men: Search for Cyclops]]
+| volume = 1
+| issue = 4
+| date = March 2001
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>
+
+In June 2001, ''X-Men'' was retitled as ''New X-Men'' under writer [[Grant Morrison]].  The title consisted of a smaller team featuring Jean, Cyclops, Beast, Wolverine, [[Emma Frost]], and Charles Xavier.  The overarching plot focused on the team assuming the roles of teachers to a new generation of mutants at the Xavier Institute while navigating their personal relationships and dealing with newly emerging pro- and anti-mutant political sentiments.<ref name="NWXMNOMN">{{cite book |title=New X-Men Omnibus (Hardcover) |first=Grant  |last=Morrisson |publisher= Marvel Publishing |location=New York| isbn=0785123261 |year=2006}}</ref>  The series sees the return of Jean's telekinesis, her emerging ability to tap into the powers of the Phoenix Force once again, her assumption of the duties as headmistress of the Xavier Institute, and the failing of her marriage to Scott following his traumatic experience being possessed by Apocalypse.<ref name="NWXMNOMN"/>  Jean and Wolverine address their long-unspoken mutual attraction, deciding it is best not to act on their feelings, while Scott begins feeling further alienated from Jean and seeks consolation from Emma Frost to address his disillusionment and his experiences while possessed by Apocalypse.<ref name="NWXMNOMN"/>  These interactions lead to a "psychic affair" between Scott and Emma.  Jean's discovery of the psychic affair results in a confrontation between her and Emma, though ultimately Jean realizes that her marriage to Scott has run its course.<ref name="NWXMNOMN"/>  Jean also makes minor appearances in other titles during the ''New X-Men'' run, such as Chris Claremont's ''X-Treme X-Men'', occasionally lending support to the characters.<ref name="XTRXMN27">{{Cite comic
+| writer = [[Chris Claremont]]
+| penciller = [[Salvador Larroca]]
+| inker =
+| story = Day of the Dead
+| title = [[X-Treme X-Men]]
+| volume = 1
+| issue = 27
+| date = November 2002
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>
+
+''New X-Men'' concluded with Jean fully realizing and assuming the powers of the Phoenix under her complete control.  However, in the final chapters of ''New X-Men'', she is killed in battle by an impostor posing as Magneto.<ref name="NWXMNOMN"/>  The series also explored a dystopian future caused when Scott chooses not to run the Institute with Emma following Jean's death.  This alternate future timeline, called "Here Comes Tomorrow", was the closing chapter of Grant Morrisson's run on ''New X-Men''.<ref name="NWXMNOMN"/>  The story is eventually resolved by a resurrected Jean becoming the fully realized '''White Phoenix of the Crown''' and using the abilities of the Phoenix Force to reach back in time and influence Scott to accept Emma's offer to run the school together.<ref name="NWXMNOMN"/>  Scott and Jean's relationship ends with her death and he and Emma assume the duties of co-headmaster and co-headmistress of the Xavier Institute under writer [[Chuck Austen]]'s take over of ''New X-Men'' and its change over to ''[[X-Men vol. 2|X-Men]]'' under the editorial ''[[X-Men ReLoad]]'' decision.
+
+Jean and her connection with the Phoenix Force was examined again one year after the conclusion of ''New X-Men'' in ''[[X-Men: Phoenix – Endsong]]'' written by [[Greg Pak]] in 2005.<ref name="PHNXEND">{{cite book |title=X-Men: Phoenix—Endsong |first=Greg  |last=Pak |publisher= Marvel Publishing |location=New York| isbn=0785119248 |year=2005}}</ref>  In it, a fragmented Phoenix Force attempts to resurrect Jean, resulting in a struggle between herself and the X-Men as she attempts to control the "Dark Phoenix" persona.  The miniseries concluded with Jean resolving her relationship with Scott and moving on to a higher plane of existence with the Phoenix Force.<ref name="PHNXEND"/>  The Phoenix Force as its own entity continued to be explored in other later titles, such as ''[[X-Men: Phoenix – Warsong]]'' (2006) and [[Matt Fraction]]'s run on ''Uncanny X-Men'', with brief references to Jean.<ref name="UNCXM510">{{Cite comic
+| writer = [[Matt Fraction]]
+| penciller = [[Greg Land]]
+| inker = Jay Leistan
+| story =
+| title = [[Uncanny X-Men]]
+| volume = 1
+| issue = 510
+| date = July 2009
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>  At the 2010 [[San Diego Comic-Con]] X-Men panel, when asked whether or not Jean would return, editor Nick Lowe responded by saying "She's dead."<ref name="x-position">{{cite web
+| title = SDCC 2010: Marvel X-MEN Panel
+| publisher = Newsarama
+| date = 2010-07-23
+| url = http://www.newsarama.com/comics/sdcc-2010-Marvel-X-Men-panel-100723.html
+| accessdate = 2010-07-23
+}}</ref>
+
+==="Re-return" to publication===
+Regarding Jean's actual return to the ''X-Men'' franchise, Marvel indicated that Jean's eventual return is being discussed, but also stated that the return of Jean Grey was "a story Marvel does not want to rush."<ref>{{cite web
+| last = Manning
+| first = Shaun
+| title = CCI: The X-Men Panel
+| publisher = Comic Book Resources
+| date = 2008-07-25
+| url = http://www.comicbookresources.com/?page=article&id=17374
+| accessdate = 2009-05-29 <!-- date checked-->
+}}</ref>  Marvel also loosely tied questions regarding Jean Grey's eventual return to the events in 2007's ''[[X-Men: Messiah Complex]]'' in which a mutant girl named [[Hope Summers (comics)|Hope]]—who has red hair, green eyes, and immense mutant powers—is born<ref>{{cite web
+| last = Johnson
+| first = Alan
+| title = WonderCon '09 - X-Men Panel
+| publisher = Newsarama
+| date = 2009-03-01
+| url = http://www.newsarama.com/comics/090301-wondercon-xmen.html
+| accessdate = 2009-05-29 <!-- date checked-->
+}}</ref> and 2010's ''[[X-Men: Second Coming]]'' which sees both Hope's return as an adult and the return of the Phoenix Force.<ref name="X-Men: Kingbreaker">{{Cite comic
+| writer = [[Christopher Yost]]
+| penciller = Dustin Weaver; Paco Diaz
+| inker = Jaime Mendoza; Vicente Cifuentes
+| story = X-Men: Kingbreaker Part Four
+| title = [[X-Men: Kingbreaker]]
+| volume =
+| issue = 4
+| date = May 2009
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref><ref>{{cite web
+| last = Richards
+| first = Dave
+| title = Matt Fraction's 'Utopian' Vision
+| publisher = Comic Book Resources
+| date = 2009-12-21
+| url = http://www.comicbookresources.com/?page=article&id=24138
+| accessdate = 2010-02-25
+}}</ref>
+
+==Fictional character biography==
+===Background===
+Jean Grey was born the daughter of [[Dr. John Grey (comics)|Dr. John Grey]] and [[Elaine Grey]].  Before joining the X-Men, she lived with her family in [[Annandale-on-Hudson, New York]], where Dr. Grey worked as a history [[professor]] at [[Bard College]].
+
+Jean is the only member of her immediate family with mutant abilities (her niece and nephew, [[Joey Bailey|Joey]] and [[Gailyn Bailey|Gailyn]], are also revealed as mutants). Her powers first manifest at the age of ten, prematurely triggered when her best friend, Annie Richards, is hit by a car. As her friend lies dying, Jean instinctively links to her mind and senses what Annie feels when she dies, in doing so, the trauma of experiencing her friend's death nearly kills her, leaving her in a coma.{{Issue|date=September 2010}}
+
+===Help from Xavier===
+To rouse her out of her catatonic state, Jean's parents seek the expertise of specialists, of whom only [[Professor X|Professor Charles Xavier]] is able to help. Xavier uses Jean to help locate mutants with his [[Cerebro|Cerebro Machine]]. During one fateful session on the astral plane Jean senses young [[Cyclops (comics)|Scott Summers]] in the orphanage and an aspect of her mind, manifesting in the form of a golden Phoenix raptor, reaches out to him.<ref>{{Cite comic
+| writer = [[Chris Claremont]]
+| penciller = [[Mike Collins]]
+| inker = [[Josef Rubinstein]]
+| story = When Dreams Are Dust
+| title = Classic X-Men
+| volume =
+| issue = 42
+| date = Mid-December 1989
+| publisher = [[Marvel Comics]]
+| page =
+| panel =
+}}</ref> Xavier realizes that Jean's young mind cannot yet cope with her abilities, so he telepathically blocks her access to them, allowing her powers to evolve at a more natural pace. Jean develops her telekinetic powers at the age of 10.
+
+===Original X-Men===
+[[Image:Xavxmen.PNG|200px|right|Xavier with the original team of X-Men. Art by Jack Kirby.|thumb]]
+As a [[adolescence|teenager]], Jean leaves her parents to attend Xavier's [[X-Mansion|School for Gifted Youngsters]] and, using the codename "Marvel Girl", becomes the first female X-Man, joining the team on its first mission against [[Magneto (comics)|Magneto]].<ref>{{Cite comic
+| writer = [[Stan Lee]]
+| penciller = [[Jack Kirby]]
+| inker = [[Paul Reinman]]
+| story = X-Men
+| title = [[Uncanny X-Men|X-Men]]
+| volume = 1
+| issue = 1
+| date = September 1963
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> With the X-Men, she battles the team's earliest and most enduring threats, including Magneto's [[Brotherhood of Mutants|Brotherhood of Evil Mutants]],<ref>{{Cite comic
+| writer = Stan Lee
+| penciller = Jack Kirby
+| inker = Paul Reinman
+| story = The Brotherhood of Evil Mutants!
+| title = X-Men
+| volume = 1
+| issue = 4
+| date = March 1964
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> the [[Juggernaut (comics)|Juggernaut]],<ref>{{Cite comic
+| writer = Stan Lee
+| penciller = Jack Kirby; [[Alex Toth]]; [[Werner Roth (comics)|Werner Roth]]
+| inker =
+| story =
+| title = X-Men
+| volume = 1
+| issue = 12-13
+| date = July - September 1965
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> and the [[Sentinel (comics)|Sentinels]].<ref>{{Cite comic
+| writer = Stan Lee
+| penciller = Jack Kirby; Werner Roth
+| inker =
+| story =
+| title = X-Men
+| volume = 1
+| issue = 14-16
+| date = November 1965 - January 1966
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> She briefly leaves Xavier's school to attend Metro College.<ref>{{Cite comic
+| writer = [[Roy Thomas]]
+| penciller = Werner Roth
+| inker = [[Dick Ayers]]
+| story = The Plague of ... The Locust!
+| title = X-Men
+| volume = 1
+| issue = 24
+| date = September 1966
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> Back with the X-Men, she helps end the [[Factor Three]] conspiracy.<ref>{{Cite comic
+| writer = Roy Thomas
+| penciller = [[Ross Andru]]; [[Don Heck]]
+| inker =
+| story =
+| title = X-Men
+| volume = 1
+| issue = 37-39
+| date = October - December 1967
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> It is also revealed that she secretly aided Professor Xavier in his preparation to thwart the [[List of alien races in Marvel Comics#Z|Z'Nox]] invasion.<ref>{{Cite comic
+| writer = [[Dennis O'Neil]]
+| penciller = [[Neal Adams]]
+| inker = [[Tom Palmer (comics)|Tom Palmer]]
+| story = Before I'd Be Slave...
+| title = X-Men
+| volume = 1
+| issue = 65
+| date = February 1970
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> While on a mission that took them into space, Jean is observed by the Phoenix Force which is drawn to Jean's unlimited potential. Jean envisions her transformation into Phoenix but within an instant she cannot remember what she foresaw.<ref>{{Cite comic
+| writer = [[John Byrne]]
+| penciller = John Byrne
+| inker = [[Tom Palmer (comics)|Tom Palmer]]; [[Joe Sinnott]]
+| story =
+| title = X-Men: The Hidden Years
+| volume =
+| issue = 8-9
+| date = July - August 2000
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>
+
+===Second Genesis===
+The original team of X-Men is held captive by [[Krakoa]] the Living Island, so Xavier recruits a new team of X-Men to help save the others from Krakoa.<ref>{{Cite comic
+| writer = Chris Claremont; [[Len Wein]]
+| penciller = [[Dave Cockrum]]
+| inker = Peter Iro; Dave Cockrum
+| story = Second Genesis
+| title = [[Giant-Size X-Men]]
+| volume = 1
+| issue = 1
+| year = 1975
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> Most of the team's senior members then leave, including Jean.<ref>{{Cite comic
+| writer = Len Wein; Chris Claremont
+| penciller = Dave Cockrum
+| inker = [[Bob McLeod (comics)|Bob McLeod]]
+| story = The Doomsmith Scenario!
+| title = X-Men
+| volume = 1
+| issue = 91
+| date = August 1975
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> Scott feels that he belongs only with the X-Men, and this upsets Jean. However, she remains in contact with the X-Men and becomes best friends with Ororo Munroe ([[Storm (Marvel Comics)|Storm]]).
+
+===Phoenix===
+While Jean and Scott are having a romantic evening in [[Manhattan]], she, [[Wolverine (comics)|Wolverine]], and [[Banshee (comics)|Banshee]], are abducted by [[Sentinel (comics)|Sentinels]]. They are taken to an abandoned [[S.H.I.E.L.D.]] orbital platform under the command of the anti-mutant activist Steven Lang, who is plotting to unleash a new generation of Sentinels. The other X-Men, with the aid of Dr. Peter Corbeau, rescue them.<ref>{{Cite comic
+| writer = Chris Claremont
+| penciller = Dave Cockrum
+| inker = [[Sam Grainger]]
+| story = Merry Christmas, X-Men...
+| title = X-Men
+| volume = 1
+| issue = 98
+| date = April 1976
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> During the space station's destruction, the X-Men find that their shuttle has been damaged in an earlier fight with the Sentinels. The X-Men decide that someone must stay at the controls and pilot the ship, while everyone else remains in the shuttle's heavily-shielded life cell.
+
+Knowing no one else could survive long enough to pilot the shuttle to safety, Jean uses her telepathy on Dr. Corbeau to learn how to pilot the shuttle and her telekinesis to block the radiation as she pilots the ship back to Earth.<ref>{{Cite comic
+| writer = Chris Claremont
+| artist = Dave Cockrum
+| story = Greater Love Hath No X-Man...
+| title = X-Men
+| volume = 1
+| issue = 100
+| date = August 1976
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> Her telekinetic shields give way under the onslaught of the intense radiation. The strain of holding the solar radiation at bay with her powers destroys the psychic shields Xavier placed in her mind as a child, and Jean assumes her ultimate potential as a psychic, becoming an entity of pure thought. The shuttle crashes into a bay, and Jean telekinetically reforms her body and emerges from the water. Taking the code name of [[Phoenix Force (comics)|Phoenix]], Jean's psi-powers are now vastly stronger, and she manifests a fiery bird-shaped energy aura whenever she uses her powers to their fullest extent.<ref>{{Cite comic
+| writer = Chris Claremont
+| penciller = Dave Cockrum; John Byrne
+| inker =
+| story =
+| title = X-Men
+| volume = 1
+| issue = 101-108
+| date = October 1976 - December 1977
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> Phoenix healed the [[M'Kraan Crystal]] to keep the universe from being destroyed.
+
+===Dark Phoenix===
+In "[[The Dark Phoenix Saga]]", [[Mastermind (Jason Wyngarde)|Mastermind]] a.k.a. Jason Wyngarde tampers with Jean's mind, convincing her she's a Victorian aristocrat (and the Black Queen of the Hellfire Club) and that he is her husband.  She turns on her friends, but then loses control of her emotions and becomes the [[The Dark Phoenix Saga|Dark Phoenix]], attacking her friends and teammates and destroying a populated solar system's star. Jean regains her sanity long enough to commit suicide rather than risk becoming the Dark Phoenix again and killing anyone else.<ref>{{Cite comic
+| writer = Chris Claremont; John Byrne
+| penciller = John Byrne
+| inker =
+| story = [[The Dark Phoenix Saga]]
+| title = X-Men
+| volume = 1
+| issue = 129-138
+| date = January - September 1980
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>  After killing herself on the moon, Jean's soul awakens in the afterlife and is dressed in a White Phoenix costume.  [[Death (Marvel Comics)|Death]] greets Jean and tries to help her understand the Phoenix before fragments of her soul are sent back to Earth.<ref name="Classic43">{{Cite comic
+| writer = Chris Claremont
+| penciller = [[Mike Collins]]
+| inker = [[Josef Rubinstein]]
+| story = Flights of Angels
+| title = Classic X-Men
+| volume =
+| issue = 43
+| date = January 1990
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>
+
+Marvel editor Jim Shooter, in response to a question about the return of Jean Grey, responded, "Jean Grey is dead".{{Citation needed|date=January 2008}} For a while, Marvel stuck to this, although the interview in ''The Untold Story'' shows that Byrne had already given thought to a possible way to revive Jean (although the idea as it existed then was not expanded upon in the interview).
+
+===Return===
+A few years later, there was a desire to bring Jean Grey back to life, as part of the launch of the new ''[[X-Factor (comics)|X-Factor]]'' series. Editorially, it was decreed that this would only be allowed if Jean could be utterly absolved of the evil deeds of the ''Dark Phoenix Saga''.
+
+This absolution begins when the [[Avengers (comics)|Avengers]] find a strange pod lying on the bottom of Jamaica bay, which they send to [[Mister Fantastic|Reed Richards]] of the [[Fantastic Four]]. The pod cracks open and Jean emerges, with no memories from the time she flew the shuttle until she hatched from the cocoon, but the truth of Phoenix is now revealed. While dying upon the shuttle, Jean was, in fact, approached by a cosmic psychic entity known as the Phoenix Force, which duplicated Jean's form and merged with a portion of her soul/consciousness,  while Jean herself was sealed in a pod at the bottom of the bay to heal.<ref>{{Cite comic
+| writer = Chris Claremont
+| artist = [[John Bolton (comics)|John Bolton]]
+| story = Phoenix
+| title = Classic X-Men
+| volume =
+| issue = 8
+| date = April 1987
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> It was the Phoenix Force which became the Dark Phoenix and committed those evil actions, hence Jean was absolved of them and went on to found X-Factor with her original X-Men teammates.
+
+Jean is now without her telepathy, but her telekinesis is much more powerful. The former X-Men are contacted and she reunites with them.<ref>{{Cite comic
+| writer = John Byrne
+| penciller = John Byrne
+| inker = [[Terry Austin (comics)|Terry Austin]]
+| story = Like a Phoenix!
+| title = [[Fantastic Four]]
+| volume = 1
+| issue = 286
+| date = January 1986
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> Jean learns that the Phoenix Force merged with [[Rachel Summers]], her daughter from an [[Days of Future Past|alternate timeline]]. Jean initially rejected Rachel because of this, as she felt Rachel's existence was a constant reminder of the dark future she came from and feared could still come to pass. During the time in which Jean is thought dead, Scott meets a pilot named [[Madelyne Pryor]]. They marry and gave birth to a son, [[Cable (comics)|Nathan Christopher Charles Summers]]. When Scott hears Jean is alive, he leaves Pryor. Shortly afterward, he joins Jean and the other founding X-Men to create [[X-Factor (comics)|X-Factor]].<ref>{{Cite comic
+| writer = [[Bob Layton]]
+| penciller = [[Jackson Guice]]
+| inker = Bob Layton; Jackson Guice; [[Josef Rubinstein]]
+| story = Third Genesis
+| title = [[X-Factor (comics)|X-Factor]]
+| volume = 1
+| issue = 1
+| date = February 1986
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> Early in X-Factor's career, Jean first battles the mutants' nemesis, [[Apocalypse (comics)|Apocalypse]].<ref>{{Cite comic
+| writer = [[Louise Simonson]]
+| penciller = Jackson Guice
+| inker = [[Bob McLeod (comics)|Bob McLeod]]
+| story = Apocalypse Now!
+| title = X-Factor
+| volume = 1
+| issue = 6
+| date = July 1986
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>
+
+===Inferno===
+
+Scott calls Madelyne to try to persuade her to come to New York. When he receives no answer, he assumes that his wife had left him. In truth, [[Mister Sinister]] kidnapped Madelyne and Nathan. Mr. Sinister had created Madelyne from Jean Grey's DNA, believing the offspring of Jean Grey and Scott Summers would be a genetically superior mutant who possessed incredible powers.
+
+With her purpose fulfilled, Sinister turns Madelyne over to the [[Marauders (comics)|Marauders]]. The X-Men rescue her and she joins them. Wanting to rescue her son from Mr. Sinister, Madelyne makes a pact with demons, and using her despair, the goblins make her their queen, driving her insane. Madelyne attempts to sacrifice Nathan in a ritual that will bring the demons of Limbo into the world. Madelyne dies in a climactic battle with Jean after she links their minds and wills herself to die—hoping the link will kill Jean as well. Madelyne dies, and then the piece of Jean's consciousness that had merged with the Phoenix Force (which had migrated into Madelyne Pryor upon the death of the Phoenix) returned to Jean, granting her all the memories of both Madelyne and the Dark Phoenix.<ref>{{Cite comic
+| writer = Louise Simonson
+| penciller = [[Louise Simonson]]
+| inker = [[Al Milgrom]]
+| story = Duet!
+| title = X-Factor
+| volume = 1
+| issue = 38
+| date = March 1989
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> Jean now also contained a spark of the Phoenix Force but would later expel it while helping an alien world fend off a Celestial.<ref>{{Cite comic
+| writer = Louise Simonson
+| penciller = [[Rich Buckler]]
+| inker = Allen Milgrom
+| story = Judgement Day
+| title = X-Factor
+| volume = 1
+| issue = 50
+| date = January 1990
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> Her telepathy had also been restored to her by the villain Psynapse.<ref>''X-Factor'' (vol. 1) #68</ref>
+
+===Gold Team===
+
+Jean becomes a member of the X-Men's "Gold Team" led by Storm when X-Factor joins with Xavier.<ref>{{Cite comic
+| writer = [[Jim Lee]]; Chris Claremont
+| penciller = Jim Lee
+| inker = [[Scott Williams (comics)|Scott Williams]]
+| story = Rubicon
+| title = [[X-Men: Legacy|X-Men]]
+| volume = 2
+| issue = 1
+| date = October 1991
+| publisher = '''REQUIRED'''
+| location =
+| page =
+| panel =
+| id =
+}}</ref> When her physical body dies in a Sentinel attack, Jean survives by transferring her psyche into the body of the comatose Emma Frost. While in Emma's body, Jean uses telekinesis, an ability that Emma never used. Jean is later restored to her original body with the help of Xavier and [[Forge (comics)|Forge]].<ref>{{Cite comic
+| writer = Jim Lee; [[Whilce Portacio]]; John Byrne
+| penciller = Whilce Portacio
+| inker = [[Art Thibert]]
+| story = Fresh Upstart
+| title = The Uncanny X-Men
+| volume =
+| issue = 281
+| date = October 1991
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>  Jean is instrumental in saving Wolverine's life when Magneto rips the [[adamantium]] from his skeleton.<ref>{{Cite comic
+| writer = [[Fabian Nicieza]]
+| penciller = [[Andy Kubert]]
+| inker = Matt Ryan
+| story = Fatal Attractions: Dreams Fade
+| title = X-Men
+| volume = 2
+| issue = 25
+| date = October 1993
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref><ref>{{Cite comic
+| writer = [[Larry Hama]]
+| penciller = [[Adam Kubert]]
+| inker = [[Mark Farmer]]; [[Dan Green (artist)|Dan Green]]; Mark Pennington
+| story = Nightmares Persist
+| title = [[Wolverine (comics)|Wolverine]]
+| volume = 2
+| issue = 75
+| date = November 1993
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> Using her telekinesis, Jean holds Logan's body together and supports his healing factor.
+
+Later on after the death of Colossus' sister, Jean greatly comforts [[Jubilee (comics)|Jubilee]] showing a caring relationship between the two.<ref>''Uncanny X-Men'' #303</ref> When [[Sabretooth (comics)|Sabretooth]] comes to the mansion Jean once more comforts Jubilee as well as confronting Xavier about his decision.{{Issue|date=August 2009}} She then confronts Sabretooth and badly beats him while attacking him with her powers.{{Issue|date=August 2009}}
+
+With Cyclops, Jean later encounters [[Stryfe]] for the first time. Stryfe kidnaps the two and tortures them with the two later on escaping. They soon discover that Stryfe is in fact a clone of Cable, Scott's son.<ref>{{Cite comic
+| writer = Fabian Nicieza
+| penciller = [[Greg Capullo]]
+| inker = Harry Candelario
+| story = Jacklightning
+| title = [[X-Force]]
+| volume = 1
+| issue = 16
+| date = November 1992
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> Around this time Jean and Cyclops reconcile as Jean noticed that Cyclops was greatly attracted to Psylocke and was often thinking of her.{{Issue|date=August 2009}}
+
+Around this time Jean also places mental blocks in the mind of [[Jessica Jones]] to keep her from psychic trauma and influence from enemies like the [[Purple Man]].{{Citation needed|date=August 2009}}
+
+=== Marriage ===
+[[Image:ScottJeanWedding.jpg|thumb|right|250px|The wedding of Scott Summers and Jean Grey. X-Men #30, art by [[Andy Kubert]].]] Scott proposed to Jean, but she declined because the memories of him proposing to both Madelyne and The Phoenix kept haunting her.<ref>{{Cite comic
+| writer = Louise Simonson
+| penciller = Terry Shoemaker
+| inker = [[Al Milgrom]]
+| story = Ghosts
+| title = X-Factor
+| volume = 1
+| issue = 53
+| date = April 1990
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> He told her he would wait for her. Later, Jean proposes to Scott at Thanksgiving and he agrees with the two announcing it at dinner time.<ref>''Uncanny X-Men'' #308</ref> At the wedding Jean is saddened that Wolverine won't attend, but unknown to her, he watches from a distance. Scott and Jean get married, with Jean sharing a dance with Xavier while telekinetically holding him in the air. The two bid good-bye to the X-Men, and Jean throws the flowers, which are caught by Rogue,<ref>{{Cite comic
+| writer = Fabian Nicieza
+| penciller = Andy Kubert
+| inker = Matt Ryan
+| story = The Ties That Bind
+| title = X-Men
+| volume = 2
+| issue = 30
+| date = March 1994
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> but not before Jean apologized to [[Rachel Summers|Rachel]] and welcomed her into her life permanently.<ref>{{Cite comic
+| writer = [[Scott Lobdell]]
+| penciller = Ken Lashley
+| inker = Randy Elliott
+| story = Hello, I Must Be Going
+| title = [[Excalibur (comics)|Excalibur]]
+| volume = 1
+| issue = 75
+| date = March 1994
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>
+
+=== Honeymoon ===
+
+During their honeymoon, they are taken into the future to raise Scott's son [[Cable (comics)|Nathan]].<ref name="TAoC&P">{{Cite comic
+| writer = Scott Lobdell
+| penciller = [[Gene Ha]]
+| inker =
+| story =
+| title = [[The Adventures of Cyclops and Phoenix]]
+| volume =
+| issue = 1-4
+| date = May - August 1994
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> After returning, Jean resumes using the name Phoenix as an attempt to redeem both the entity and herself and to honor Rachel, who was presumed dead at the time,<ref>''Excalibur'' (vol. 1) #75</ref> but was later revealed to have been lost somewhere in the time-stream with the premature death of [[Apocalypse (comics)|Apocalypse]].<ref name="TAoC&P"/> Scott and Jean (along with Storm, Wolverine, and Cannonball) are captured and held prisoner by Bastion during Operation: Zero Tolerance, after which they decide to head off to Alaska in order for Scott to recuperate from his injuries.<ref>{{Cite comic
+| writer = Joe Kelly
+| penciller = Carlos Pacheco
+| inker = Art Thibert
+| story = A House in Order
+| title = X-Men (2nd series)
+| volume =
+| issue = 71
+| date = January 1998
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> In a further effort to redeem the name of Phoenix, Jean also adopted the classic green and gold Phoenix costume.<ref>{{Cite comic
+| writer = Steve Seagle
+| penciller = Chris Bachalo
+| inker = Tim Townsend
+| story = Prehistory
+| title = Uncanndy X-Men
+| volume =
+| issue = 354
+| date = April 1998
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>
+
+=== Power Switch ===
+
+During a battle with Apocalypse, Scott merged with the immortal mutant. Jean and [[Psylocke]] switch powers, and Jean adds Psylocke's telepathic powers to her own telepathy, as well as her shadow astral-form, while Psylocke gets Jean's telekinesis. Jean begins to manifest fiery Phoenix raptor effects as the physical manifestation of her powers. Jean also uses the Phoenix Force to witness humanity's possible evolution into Eternity and converses with Eternity itself when Prosh recruits her to help stop the Stranger from destroying the universe.<ref>{{Cite comic
+| writer = Fabian Nicieza
+| penciller = [[Fabian Nicieza]]
+| inker = [[Andrew Pepoy]]
+| story = Tomorrow Begins Today
+| title = X-Men Forever
+| volume =
+| issue = 6
+| date = June 2001
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> Jean learns that Cyclops is alive, and searches for him with her stepson Cable (Nathan).<ref>{{Cite comic
+| writer = Joseph Harris
+| penciller = Tom Raney
+| inker = Scott Hanna
+| story = Book One: Lost
+| title = X-Men: The Search for Cyclops
+| volume =
+| issue = 1
+| date = October 2000
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> Jean uses her increased telepathic powers to separate Cyclops' and Apocalypse's spirits.<ref>{{Cite comic
+| writer = Joseph Harris
+| penciller = Tom Raney
+| inker = Scott Hanna
+| story = Book Four: Found!
+| title = X-Men: The Search for Cyclops
+| volume =
+| issue = 4
+| date = March 2001
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>
+
+=== Marital Problems ===
+
+[[Image:Jeanscottemma.png|200px|thumb|left|Jean enters [[Emma Frost|Emma]]'s mind interrupting Scott and Emma's telepathic affair.<br /> Art by [[Phil Jimenez]].]]A combination of Jean's duties as headmistress of the Xavier Institute, her reemerging Phoenix powers, and Scott's temporary merger with Apocalypse drives a wedge between the couple. Jean attempts to rebuild the relationship, but Scott remains distant, refusing to sleep with her. Scott turns to [[Emma Frost]], who takes advantage of Scott's emotional problems, which leads to a telepathic extramarital affair.<ref>{{Cite comic
+| writer = [[Grant Morrison]]
+| penciller = [[Frank Quitely]]
+| inker =
+| story = The Prime of Miss Emma Frost
+| title = New X-Men
+| volume = 1
+| issue = 138
+| date = May 2003
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> When confronted by Jean, Scott claims that they shared "only thoughts" and that he had done nothing wrong; Jean, however, disagrees and demands that Emma explain herself, but Emma only jeers and insults her. Enraged, Jean unleashes the Phoenix power on Emma, rifling through her memories and forcing her to confront the truth about herself.
+
+Later, one of the [[Stepford Cuckoos]] shatters Emma's diamond form.  [[Beast (comics)|Beast]], under the belief that Emma can be saved, attempts to rebuild her from the shattered diamond.  Jean arrives and informs Hank that despite her malicious nature, Emma had truly fallen in love with her husband, and understanding that Emma can offer Scott something she can't, she uses her powers to fuse the diamond pieces of Emma's body together again and revives her.<ref>{{Cite comic
+| writer = Grant Morrison
+| penciller = [[Phil Jimenez]]
+| inker = [[Andy Lanning]]
+| story = [[Murder at the Mansion]] Part One: 'Shattered'
+| title = New X-Men
+| volume = 1
+| issue = 139
+| date = June 2003
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>
+
+=== Death ===
+
+Later, tricked by [[Xorn]], Wolverine and Phoenix are propelled towards the sun while on [[Asteroid M]]. About to die, Wolverine reluctantly stabs Phoenix so she will not have to die an agonizing death in the intense solar heat. Seconds before they collide with the sun, the Phoenix Force manifests within Jean, and she saves them both. She tells him that by killing her, he helped her release the "Phoenix Consciousness." Arriving on Earth, they battled Xorn (who had revealed himself to be Magneto but would later be [[retroactive continuity|retconned]] into an imposter), who then mortally injures Phoenix by transferring a large amount of electro-magnetic energy to her brain, inducing a "planetary-scale stroke." As Jean dies in Scott's arms, she tells him to live.<ref>{{Cite comic
+| writer = Grant Morrison
+| penciller = Phil Jimenez
+| inker = Andy Lanning; [[Simon Coleby]]
+| story = [[Planet X (comics)|Planet X]] Conclusion: Phoenix Invictus
+| title = New X-Men
+| volume = 1
+| issue = 150
+| date = February 2004
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> It was subsequently revealed that before she died, Jean created a holempathic matrix crystal for Rachel and imprinted it with her essence so that, no matter what happened to her physically, her soul would always be with her.{{issue|date=November 2010}}
+
+===Here Comes Tomorrow===
+{{Main|Here Comes Tomorrow}}
+Scott Summers' refusal of Emma Frost's offer to reopen Xavier's Institute after Jean's death creates a future timeline in which [[Beast (comics)|Hank McCoy]] reopens the school. Under the pressure, he takes the drug "''[[List of comic book drugs#Kick|Kick]]''", which is revealed to be the [[Particulate|aerosol]] form of the villain [[Sublime (comics)|Sublime]], who possesses Hank McCoy and drives him insane. 150 years later, the near-immortal Beast tries to resurrect Phoenix and use her to destroy every lifeform on Earth, except for the creatures created by Sublime itself, only to be defeated by Jean. Phoenix then carries out her disinfection and absorbs the future universe into the "''White Hot Room''", a higher [[plane (esotericism)|plane]] of [[reality]] with other Phoenix hosts and 'home' to the consciousness of the Phoenix Force. Jean wears a white variation of her Phoenix outfit and is revealed to be "''a White Phoenix of the [[Sahasrara|Crown]]''". Jean reaches back in time and telepathically urges Scott to live. Instead of refusing Emma and leaving the institute, Scott chooses to be with Emma and keep the Xavier Institute alive.<ref name="HCT">{{Cite comic
+| writer = Grant Morrison
+| penciller = Frank Quitely; [[Marc Silvestri]]
+| inker =
+| story = [[Here Comes Tomorrow]]
+| title = New X-Men
+| volume = 1
+| issue = 151-154
+| date = March - May 2004
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>
+
+===Endsong===
+{{Main|X-Men: Phoenix – Endsong}}
+The Shi'ar resurrect the Phoenix Force in an attempt to destroy it while it is weak. The Phoenix flees to earth and resurrects Jean in an attempt to make itself whole. Wolverine arrives and the two battle until they find themselves at the North Pole. Wolverine repeatedly kills Jean, weakening her and allowing her to gain control of herself and imprison herself in an iceberg. The Phoenix leaves Jean and takes control of Emma Frost, however Emma is not powerful enough and starts to burn up from controlling it. The X-Men free Jean from her prison with her ripping the Phoenix out from Emma. Jean reveals herself to be one being with the Phoenix saying they are the same and the two merge together once more. This causes her to become Dark Phoenix, but Emma Frost and the Stepford Cuckoos link all the past and present X-Men together to show their love for Jean. This causes Jean to become the White Phoenix and she saves the X-Men from the Shi'ar before returning to the White Hot Room.<ref>''X-Men: Phoenix - Endsong'' #1-5</ref>
+
+===Warsong===
+{{Main|X-Men: Phoenix – Warsong}}
+Writer [[Greg Pak]] has said that Warsong "is not another Jean Grey resurrection story. It's an essential Phoenix story, and therefore ultimately an essential tale for understanding Jean Grey." <ref>{{cite web
+| last = Singh
+| first = Arune
+| title = It's Not Over Till She Sings: Greg Pak Talks 'X-Men: Phoenix- Warsong'
+| publisher = Comic Book Resources
+| date = 2006-06-02
+| url = http://www.comicbookresources.com/?page=article&id=7204
+| accessdate = 2009-05-29 <!-- date checked-->
+}}</ref> Pak also stated that Warsong will lay the groundwork for the future of both Jean and the Phoenix. However the story only featured her telepathic voice talking to the Stepford Cuckoos as they flew over her grave and a flashback in the first issue. The rest of the series involved the Cuckoos encountering the fragment of the Phoenix's consciousness that visited them at the end of the Endsong miniseries. They merge with the fragment and gain Phoenix-level abilities, but later must imprison the Phoenix fragment in their diamond hearts, an ability they manifest after their origins—as cloned daughters of Emma Frost—are revealed.
+
+===X-Men Messiah Complex===
+{{Main|X-Men: Messiah Complex}}
+Since the events of [[Decimation (comics)|M-Day]], when most of mutantkind was depowered and no new mutant births occur, mutantkind is on the verge of extinction.  Cerebro then detects [[Hope Summers (comics)|a new mutant baby]] born in Cooperstown, Alaska.  Cerebro detects her and is partially destroyed by a tremendous outburst of power from the child. As the child has aged and grown, she has developed features distinctively similar to Jean Grey, including crimson red hair and green eyes.  As seen in ''Cable'' #5, a closeup of the baby's eyes show twin reflections of the Phoenix emblem in them.
+
+===Sisterhood of Mutants===
+Jean's clone, Madelyne Pryor, reappears in her new alias as the Red Queen, incorporeal and seeking to revive Jean Grey's body so that she may possess it and live again.<ref>''Uncanny X-Men'' #503</ref>  The Red Queen forms a Sisterhood of Mutants, consisting of [[Lady Mastermind]], her sister, [[Mastermind (Martinique Jason)|Martinique Jason]], [[Spiral (comics)|Spiral]], [[Chimera (comics)|Chimera]], [[Lady Deathstrike]], and a brainwashed Psylocke, attacking the X-Men at their new base in Graymalkin, with the goal of stealing a lock of Jean's hair that belongs to Wolverine.<ref>''Uncanny X-Men'' #509</ref><ref name=UXM510>''Uncanny X-Men'' #510</ref> During the attack, Lady Mastermind manages to hold Emma Frost within a psychic trap, however in the astral plane, Emma encounters a woman who resembles Jean Grey. Emma believes she is Madelyne, but the woman says that she isn't her, but is often confused to be her. She then uses her powers, a piece of the Phoenix Force, to free Emma from the psychic trap before disappearing.<ref name=UXM510/>  Having retrieved the lock of hair, the Red Queen uses it as a talisman to locate Jean's deceased body and arrives back at Westchester where she attempts to resurrect Jean's body and possess it. Unbeknown to her, [[Domino (comics)|Domino]], under Cyclops' orders, switches the bodies in Jean's grave before Madelyne arrives, and since any body besides Jean's cannot hold Madelyne's essence, the ritual fails and the Red Queen is sucked inside to an unknown fate.<ref>''Uncanny X-Men'' #511</ref>
+
+===Future Return===
+An interview panel at the [[San Diego Comic-Con International|San Diego Comic-Con]] confirmed that there are discussions going on at Marvel involving Jean's eventual return, however it also stated that it's a story Marvel doesn't want to rush.<ref>{{cite web
+| last = Manning
+| first = Shaun
+| title = CCI: The X-Men Panel
+| publisher = Comic Book Resources
+| date = 2008-07-25
+| url = http://www.comicbookresources.com/?page=article&id=17374
+| accessdate = 2009-05-29 <!-- date checked-->
+}}</ref>  At the San Francisco Wondercon, when asked about Jean's future Matt Fraction told the audience "There's a little girl with red hair and green eyes in the future that you should keep your eyes on" in reference to [[Hope Summers (comics)|Hope Summers]].<ref>{{cite web
+| last = Johnson
+| first = Alan
+| title = WonderCon '09 - X-Men Panel
+| publisher = Newsarama
+| date = 2009-03-01
+| url = http://www.newsarama.com/comics/090301-wondercon-xmen.html
+| accessdate = 2009-05-29 <!-- date checked-->
+}}</ref> In ''X-Men - Kingbreaker'' #4, Korvus' Blade of the Phoenix loses its power and Rachel's connection to the Phoenix Echo is somehow lost. As yet, no explanation was given for what happened except for Rachel who says "Please, not now… Mom.".<ref name="X-Men: Kingbreaker"/> What happened to the Phoenix Force will be examined after “War of Kings” is over<ref name="x-position">{{cite web
+| last = Tramountanas
+| first = George A.
+| title = X-POSITION: Dan Abnett & Andy Lanning
+| publisher = Comic Book Resources
+| date = 2009-04-21
+| url = http://comicbookresources.com/?page=article&id=20897
+| accessdate = 2009-04-22
+}}</ref> as additional vestiges of the Phoenix Force, including those housed within the Stepford Cuckoos, suddenly leave their hosts.<ref>''Uncanny X-Men'' #517</ref>
+
+==Romance==
+At the beginning of the series, Jean and Scott harbor a mutual [[Limerence|crush]] for a long time but neither is aware of the other's feelings (though the readers are made aware early on) and both are too shy to make a move. Jean once has a date with [[Warren Worthington III|Angel]], but insists on taking Scott along, which confuses and frustrates both men. For a while, Angel has feelings for Jean which lead to some bad moments between him and Scott. When Jean leaves to pursue [[higher education|tertiary education]] at Metro College, it further widens the gap between Scott and Jean; however, Jean and Scott later date openly. At one point, Professor X seems to have some romantic feelings for her.<ref>{{Cite comic
+| writer = Stan Lee
+| penciller = Jack Kirby
+| inker = Paul Reinman
+| story = Beware of the Blob!
+| title = X-Men
+| volume = 1
+| issue = 3
+| date = January 1964
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> However, he believes that he is not in a proper position to tell her; so he says nothing of it, instead channeling his energies into an increasingly intimate mentor/student relationship with Jean. This forces her to keep his secrets and, at one point, transfer his own power into her.
+
+Jean and Scott's relationship takes a brief step forward when the X-Men temporarily disband.  Jean works as a swimsuit model and Scott works as a radio announcer, and the two "pretend" to date.  After the X-Men reform, there are hints that they are more intimately involved, but the relationship is not "outed" for quite some time.
+
+When Jean "dies" and becomes Phoenix, her relationship with Scott changes because she has changed.  After they are separated in the [[Savage Land]] and each thinks the other is dead, Scott is unable to mourn her, and reasons it's because he no longer loves her.  Yet upon their reunion, to fight [[Proteus (comics)|Proteus]] at [[Muir Island]], the passion and relationship is rekindled.  Soon after, they psychically "marry" - joining parts of their minds together in a psychic bond.<ref>{{Cite comic
+| writer = Chris Claremont  ;John Byrne
+| penciller = John Byrne
+| inker = Terry Austin
+| story = Wolverine: Alone!
+| title = X-Men
+| volume = 1
+| issue = 133
+| date = May 1980
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>
+
+When [[Wolverine (comics)|Logan]] is introduced as part of the "next generation", they are both immediately drawn to one another, though Jean keeps her attraction to him secret in favor of her relationship with Scott.<ref name="CLSXMN1"/>  Through the series, Logan generally respects Jean's choice to be with Scott, and the two share a deep friendship which, despite a powerful emotional and physical attraction, is never consummated. In [[Grant Morrison]]'s ''New X-Men'' stories, Jean increasingly talks to Logan about her marital problems, culminating in a kiss between the two.  Immediately afterward, Logan tells her that it would never work between them and tries to help the married couple reconcile, even convincing Jean to return to Scott when Scott has a psychic affair with [[Emma Frost]].<ref name="NWXMNOMN"/> Immediately following Jean's death, Scott begins to date Emma due to a psychic suggestion left by Jean encouraging Scott to move on with his life and "live."<ref name="NWXMNOMN"/>  The other X-Men have difficulty eventually accepting Scott and Emma's relationship, due to their loyalty to Jean and a belief that Scott is disrespecting his marriage to Jean.<ref name="UNCXM156">{{Cite comic
+| writer = [[Chuck Austen]]
+| penciller = [[Salvador Larroca]]
+| inker = Danny Miki
+| story = Bright New Mourning, Part 2
+| title = [[New X-Men]]
+| volume = 1
+| issue = 156
+| date = June 2004
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>
+
+==Powers and abilities==
+Jean Grey is an [[Mutant (Marvel Comics)#Omega-level mutants|Omega-level mutant]], and is one of the physical hosts of the [[Phoenix Force (comics)|Phoenix Force]].
+
+===Telepathy===
+When her powers first manifest, Jean is unable to cope with her [[telepathy]], forcing [[Professor X]] to suppress her access to it altogether. Instead, he chooses to train her in the use of her [[psychokinesis|telekinesis]] while allowing her telepathy to grow at its natural rate before reintroducing it.<ref>{{Cite comic
+| writer = Scott Lobdell
+| penciller = Andy Kubert
+| inker = Cam Smith
+| story = They’re Baaack…
+| title = X-Men (2nd series)
+| volume =
+| issue = 46
+| date = November 1995
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> This is why in Jean's debut appearance as Marvel Girl, she is only capable of using her telekinetic powers.{{Citation needed|date=February 2007}} When the Professor hides to prepare for the [[List of alien races in Marvel Comics#Z|Z'Nox]], he reopens Jean's telepathic powers, which was initially explained as Xavier 'sharing' some of his telepathy with her.<ref>{{Cite comic
+| writer = Roy Thomas
+| penciller = Don Heck
+| inker = [[George Tuska]]
+| story = If I Should Die...!
+| title = X-Men
+| volume = 1
+| issue = 42
+| date = March 1968
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>
+
+Jean's telepathy allows her to read, influence, control, and communicate with the minds of others, project her mind into the [[astral plane]], and generate telepathic force blasts that can stun or kill others. Jean is one of the few telepaths skilled enough to communicate with animals (animals with high intelligence, such as [[dolphin]]s,<ref>{{Cite comic
+| writer = Chris Claremont
+| artist = John Bolton
+| story = Lifesigns
+| title = Classic X-Men
+| volume =
+| issue = 13
+| date = September 1987
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> [[dog]]s,<ref>{{Cite comic
+| writer = [[Chuck Austen]]
+| penciller = Romano Molenaar
+| inker = Danny Miki
+| story = Can They Suffer?
+| title = X-Men Unlimited
+| volume = 1
+| issue = 44
+| date = May 2003
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> and [[raven]]s<ref>{{Cite comic
+| writer = [[Steven T. Seagle]]
+| penciller = Dan Norton
+| inker = [[Dexter Vines]]; Scott Hanna
+| story = The Sky Is Falling
+| title = The Uncanny X-Men
+| volume =
+| issue = 357
+| date = July 1998
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>). She can also telepathically take away or control people's natural bodily functions and senses, such as sight, hearing, smell, taste, or even mutant powers. A side effect of her telepathy is that she is gifted with an [[eidetic memory]].<ref>{{Cite comic
+| writer = Scott Lobdell
+| penciller = [[Mel Rubi]]
+| inker =
+| story = Casualties of War
+| title = The Uncanny X-Men
+| volume =
+| issue = 344
+| date = May 1997
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref> Jean was able, through telepathic therapy with the comatose Jessica Jones, to grant Jessica immunity to the Purple Man's mind control abilities, despite his powers being chemical in nature rather than psychic.{{Issue|date=April 2010}}  When Jean absorbs [[Psylocke]]'s specialized telepathic powers, her own telepathy is increased to the point that she can physically manifest her telepathy as a psionic [[phoenix (mythology)|firebird]] whose claws can inflict both physical and mental damage.  Phoenix discovers that she can telepathically enhance the powers of other mutants.{{Issue|date=October 2009}} She briefly develops a psychic shadow form like Psylocke's, with a gold Phoenix emblem over her eye instead of the [[Crimson Dawn]] mark possessed by Psylocke, Jean briefly lost her telekinesis to Psylocke during this exchange, but her telekinetic abilities later came back in full at a far stronger level than before.
+
+===Telekinesis===
+Her telekinetic strength and skill are both of an extremely high level, capable of grasping objects in Earth orbit and manipulating hundreds of components in mid-air in complex patterns. She uses her telekinesis to often lift herself and others giving her the ability of levitation and flight. She also uses her telekinesis to create durable shields and energy blasts.  She later manifests a "telekinetic sensitivity" (called "the Manifestation of the Phoenix"{{Citation needed|date=April 2009}}) to objects in her immediate environment that lets her feel the texture of objects, their molecular patterns, feel when other objects come into contact with them, and probe them at a molecular level.
+
+===Phoenix Force===
+When possessed by or bonded with the [[Phoenix Force (comics)|Phoenix Force]], Jean's powers escalate to an incalculable level, allowing her to rearrange matter at a subatomic level, fly unaided through space, survive in any atmosphere, manipulate electromagnetic and cosmic energies for various effects and atmospheric disturbances. She also demonstrates this sub-molecular telekinetic power to change her Phoenix clothes into a set of street clothes.<ref>http://images2.wikia.nocookie.net/__cb20100516042744/marveldatabase/images/0/04/JeanGreyUXM131p6f2.PNG</ref> At this level, she is powerful enough to easily defeat a herald of Galactus.<ref>http://images4.wikia.nocookie.net/__cb20100512024010/marveldatabase/images/e/ef/JeanGreyUXM105p26f1n2.PNG</ref> She can also create [[Wormhole|stargates]] that can transport her to anywhere in the universe instantaneously.
+
+As the Phoenix, Jean can resurrect herself after death and is unaffected by the passage of time. Though initially perceived as "borrowing" the powers of the Phoenix Force, due to her original status as a host for the Force, they are entirely her own; [[Death (Marvel Comics)|Death]] itself has said that Jean is the rightful owner of those powers.<ref name="Classic43"/> She later becomes one with the Phoenix Force (as opposed to serving as its host) due to her status as an Omega-level mutant with unlimited potential, in which it was revealed that Jean holds the unique role of "White Phoenix of the Crown" among the many past, present, and future hosts of the Phoenix.<ref name="HCT"/> As the White Phoenix, Jean can manipulate and control whole timelines, as seen when she brought the alternate future of ''Here Comes Tomorrow'' into the White-Hot Room.<ref>{{Cite comic
+| writer = Grant Morrison
+| penciller = Frank Quitely; Marc Silvestri
+| inker =
+| story = Here Comes Tomorrow Conclusion: Rescue... and Emergency
+| title = New X-Men
+| volume = 1
+| issue = 154
+| date = May 2004
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>  The Phoenix Force allows Jean to revive, absorb, rechannel, and preserve the life-force of any kind of life-form, meaning that she can take life energy from one person and give it to others, heal herself with the same life energy, or even resurrect the dead, since the Phoenix is the sum of all life and death{{Citation needed|date=April 2009}}.
+
+===Innate traits and skills===
+Jean Grey is also a college graduate from Metro College with a select education in [[psychology]].{{Issue|date=July 2010}} Years later she finished her masters in Columbia University during her membership with the original X-Factor.{{Issue|date=September 2010}}
+
+==Ancestry==
+
+Introduced as a concept during ''[[Uncanny X-Men]]'' #125 (September, 1979), the villain [[Mastermind (Jason Wyngarde)|Mastermind]] attempted to turn Grey  into the Black Queen of the modern [[Hellfire Club (comics)|Hellfire Club]] by creating the illusion that she was living in the body of an ancestor named ''Lady Grey''.
+
+Later, [[Ben Raab]] and [[Charlie Adlard]] revisited the concept and in ''X-Men: Hellfire Club'' #2 (February, 2000) made Lady Grey a real ancestor of the character rather than simply an illusion. Her back story, as recounted by the narrative, places her as an influential member, possibly a Queen, of the [[Philadelphia]], [[Pennsylvania]] branch of the Club during the [[American Revolutionary War]].
+
+==Other versions==
+{{Main|Alternate versions of Jean Grey}}
+
+As a fictional character in the [[Marvel Universe]], Jean Grey appears in various alternate plot lines and fictional universes.
+
+==In other media==
+{{Main|Jean Grey in other media}}
+
+Jean Grey also appears in various media, such as animated programs, video games, films, and is sometimes referenced in pop culture.
+
+==See also==
+*[[End of Greys]]
+*[[Phoenix Force (comics)|Phoenix Force]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Marvelwiki|Phoenix_(Jean_Grey)|Phoenix (Jean Grey)}}
+
+{{X-Men}}
+
+{{DEFAULTSORT:Grey-Summers, Jean}}
+[[Category:Comics characters introduced in 1963]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Fictional activists]]
+[[Category:Fictional avatars]]
+[[Category:Fictional characters from New York]]
+[[Category:Fictional characters who have mental powers]]
+[[Category:Fictional mass murderers]]
+[[Category:Fictional models]]
+[[Category:Fictional schoolteachers]]
+[[Category:Fictional telepaths]]
+[[Category:Fictional women soldiers and warriors]]
+[[Category:Film characters]]
+[[Category:Marvel Comics characters who have mental powers]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics telepaths]]
+[[Category:Omega-level mutants]]
+
+[[da:Jean Grey]]
+[[el:Τζην Γκρέι]]
+[[es:Jean Grey]]
+[[fr:Strange Girl (X-Men)]]
+[[it:Jean Grey]]
+[[he:ג'ין גריי]]
+[[ka:ჯინა გრეი]]
+[[lt:Jean Grey]]
+[[hu:Jean Grey]]
+[[nl:Jean Grey]]
+[[pt:Jean Grey]]
+[[ro:Jean Grey]]
+[[ru:Джина Грей]]
+[[fi:Jean Grey]]
+[[sv:Jean Grey]]
+[[th:จีน เกรย์]]
+[[tr:Jean Grey]]

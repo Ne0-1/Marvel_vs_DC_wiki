@@ -1,0 +1,39 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=[[Image:Red9.jpg|250px]]
+|caption=Red Nine.<br>Art by [[Leinil Yu]].
+|comic_color=background:#ff8080 
+|character_name=Red Nine
+|real_name=Wallace Jackson
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Amazing Spider-Man]] #264'' (May 1985)
+|creators=[[Craig Anderson]]<br>[[Paty Cockrum]]
+|alliance_color=background:#c0c0ff
+|alliances=[[Avengers: The Initiative]]
+|aliases=
+|powers=Wears a costume which makes him able to fly, and gives him superhuman strength. The costume also gives him a force field protecting him from harm, and enables him to shoot energy bolts.
+|}} 
+
+'''Red Nine''' ('''Wallace Jackson''') is a fictional character in the [[Marvel Universe]]. He first appeared in ''[[Amazing Spider-Man]] #264'' (May 1985).
+
+==Fictional character biography==
+Wallace Jackson was a 16-year old, who wore a costume designed by his uncle who worked for NASA. He decided to come to New York City to play fight with his favorite superhero, [[Spider-Man]]. Spider-Man did his best to outsmart the kid, and they fought until they crashed through a window at the State Street Hospital. Red Nine had a high fever and passed out, so Spider-Man left him there. Red Nine woke up and looked for Spider-Man again, and this time Spider-Man destroyed Red Nine's costume, but Spider-Man later learned that Wallace helped a group of elderly patients against a mean hospital administrator.<ref>''The Amazing Spider-Man'' #264</ref>
+
+===Initiative===
+Red Nine appears in [[Camp Hammond]], as an official recruit for [[Avengers: The Initiative|the Initiative]], along with [[Ant-Man (Eric O'Grady)|Ant-Man]], [[Crusader (Marvel Comics)#Crusader (Skrull)|Crusader]], [[Melee (comics)|Melee]], [[Geldoff]], [[Dragon Lord (comics)#Tako Shamara|Dragon Lord]], [[Geiger (comics)|Geiger]], and [[Diamondback (comics)|Diamondback]].<ref>''Avengers: The Initiative'' #8</ref>
+
+He was one of the trainees that tried to defeat K.I.A., but lost.<ref>''Avengers: The Initiative'' #10</ref>.
+
+Later he took part at the clashes between the Earth's heroes and the Skrulls. After being surrounded by Super-Skrull troops in his first battle and saved by [[Nick Fury]]'s Secret Warriors, he and the Initiative trainees alongside him ([[Annex (comics)|Annex]], Crusader, Diamondback, Melee, [[Prodigy (comics)#Prodigy (Ritchie Gilmore)|Prodigy]], [[Sunstreak]]) regrouped and took part at the final combat against the invading aliens. He's last seen approaching the ship containing the human heroes that were replaced by the Skrull infiltrators.<ref>''Secret Invasion'' #8</ref>
+
+==Powers and abilities==
+Red Nine wears a costume which makes him able to fly, and gives him superhuman strength. The costume also gives him a force field protecting him from harm, and enables him to shoot energy bolts.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.marvunapp.com/Appendix/red9spdm.htm Red Nine at Marvel Appendix]
+* http://www.comics.org/details.lasso?id=40001
+
+[[Category:Marvel Comics superheroes]]

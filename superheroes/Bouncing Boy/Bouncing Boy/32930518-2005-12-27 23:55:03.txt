@@ -1,0 +1,30 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Bouncingboy.gif]]
+|caption=
+|comic_color=background:#8080ff
+|character_name=Bouncing Boy
+|real_name=Chuck Taine
+|publisher=[[DC Comics]]
+|debut=Action Comics #276 (May 1961)
+|creators=
+|alliance_color=background:#ffc0c0
+|status=Retired/[[retcon]]ned
+|alliances=[[Legion of Superheroes]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=Inflatable body, Electrical Invulnerability (while bouncing), Resistance to injury
+|}}
+'''Bouncing Boy''' is a fictional character in the [[DC Universe]], a member of the [[Legion of Super-Heroes]] in the 30th century. He is Chuck Taine of [[Earth]] and he has the power to inflate like a ball and bounce. He got his powers when he accidentally drank a super plastic formula which he thought was a soda pop. He first appeared in [[Action Comics]] 276 (May 1961).
+
+He married fellow Legionnaire [[Duo Damsel]] in Superboy and the Legion of Super-Heroes # 200 and then left active service as a Legionnaire to become a Legion reservist, appearing only sporadically thereafter until [[Zero Hour (comics)|Zero Hour]].
+
+In the post Zero Hour reboot continuity he was Charles Foster Taine (Chuck for short) who was the Legion's resident [[architect]] and engineer. He never got bouncing powers in this continuity, and was only an honourary member of the Legion.
+
+He has yet to appear in the most recent reimagining (2004).
+
+
+[[Category:Legion of Super-Heroes members]]
+
+
+{{DC-Comics-stub}}

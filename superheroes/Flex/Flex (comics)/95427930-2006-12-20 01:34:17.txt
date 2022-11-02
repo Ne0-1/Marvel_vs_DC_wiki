@@ -1,0 +1,41 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = 
+| caption = 
+| comic_color =background:#ff8080 
+| character_name =Flex 
+| real_name =Adrian Corbo
+| species=[[mutant (fictional)|Human Mutant]]
+| publisher =[[Marvel Comics]]
+| debut = ''[[Alpha Flight]]'' vol. 2 #1
+| creators = [[Steven T. Seagle]] (writer), [[Anthony Winn]] (artist) 
+| alliance_color =background:#ffc0c0 
+| status =Unknown 
+| alliances = 
+| previous_alliances =[[Beta Flight]], [[Alpha Flight]] 
+| aliases = 
+| relatives =Jared Corbo ([[Radius (comics)|Radius]], brother) 
+| powers = Transmutation of limbs into razor sharp weapons}} 
+
+'''Flex''' '''(Adrian Corbo)''' is a [[fictional character]], a [[superhero]] in the [[Marvel Comics]] [[Marvel Universe|universe]]. He is a former member of the superhero team [[Alpha Flight]], but later got downgraded to [[Beta Flight]]
+
+==Fictional character biography==
+Adrian and his older half-brother Jared (later codenamed [[Radius (comics)|Radius]]) were raised in the Hull House orphanage, which was actually a facility operated by the [[Canada|Canadian]] government's secretive Department H. While Adrian became shy, reserved and bookish, Jared became athletically inclined, aggressive, and arrogant. Both brothers manifested [[mutant (fictional)|mutant]] powers after puberty: Adrian gained the ability to transform parts of his body into blades, while Jared manifested a personal force field that could not be shut down. The brothers were recruited into a new incarnation of the Canadian superhero team Alpha Flight.
+
+They assisted the new Alpha Flight in battling several foes, including the [[Zodiac (comics)|Zodiac]], the [[Brass Bishop]], and Departent H's own power-mad leader, Jeremy Clarke, who died of radiation poisoning during a Zodiac raid on the Department H headquarters. Their Alpha Flight team fought several members of the original Flight and later teamed up with them to defeat a new [[Weapon X]], who had been created by a rogue Department H scientist. Both groups of Alphans merged into a unified Alpha Flight following this adventure. The Corbo brothers and several other members of the new team were later reassigned to Alpha Flight's trainee team, [[Beta Flight]].
+
+==Powers and abilities==
+Flex is a [[mutant (fictional)|mutant]] who can transform his limbs into massive, razor-sharp organic metal blades. It may be possible that he can transform his entire body into this substance.
+
+Adrian has the ability to "flex" parts of his body into thin sheets of organic metal, which are highly resistant to physical damage. Oftentimes he "flexes" his hands into sharp long blades, and has even been shown to flex his leg into a blade preventing someone to grab him. It's relatively thin, but by doing so he had the strength to send over 15 people into the air. Adrian's metal blades have been shown to cut through metal with ease and block laser and gunfire, but the overall strength and durability of his organic metal was never stated.
+
+==Notes==
+It was suggested that Hull House was a facility that collected the children of other superhumans. It was suggested that Jared's father was [[Unus the Untouchable]]; Adrian's father was never confirmed, although writer [[Steven Seagle]] has suggested that it was actually [[Wolverine (comics)|Wolverine]].
+
+==External links==
+*[http://alphanex.alphaflight.net/index.php/Flex AlphaFlight.net - Alphanex entry on Flex]
+*[http://www.uncannyxmen.net/db/characters/showquestion.asp?fldAuto=469 Uncannnyxmen.net character bio on Flex]
+
+[[Category:Marvel Comics superheroes]]
+[[Category:Fictional Canadians]]
+[[Category:Canadian superheroes]]
+[[Category:Marvel Comics mutants]]

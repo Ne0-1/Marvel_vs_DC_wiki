@@ -1,0 +1,55 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Microchip(comics).jpg|250px]]
+|caption=''The Punisher: The Origin of Microchip'' #1 (July 1993). Cover art by  Doug Braithwaite & Art Nichols.
+|comic_color=background:#ff8080
+|character_name=Microchip
+|real_name=Linus Lieberman
+|publisher=[[Marvel Comics]]
+|debut=[[The Punisher (1987 series)|''The Punisher'']] #4<br>(November 1987)
+|creators=[[Mike Baron ]]<br>[[Klaus Janson]] 
+|alliance_color=background:#ffc0c0
+|alliances=[[CIA]]
+|aliases=Chip
+|powers=No super powers:<br>[[Hacker (computing)|Hacker]]<br>Weapons expert<br>[[Mechanic]]
+|}}
+
+'''Linus "Microchip" Lieberman''' (often known as '''Micro''') is a [[fictional character|fictional]] [[comic book]] character in the [[Marvel Universe]]. Created by writer [[Mike Baron]] and artist [[Klaus Janson]], he first appeared in ''[[The Punisher (1987 series)|The Punisher]]'' #4 (Nov. 1987) as an ally of [[Punisher|The Punisher]] for many years. He assisted the Punisher by building weapons, supplying technology and providing friendship. Micro served as a cross between [[Q (James Bond)|Q]], from the [[James Bond]] novels and films and [[Alfred Pennyworth]], the loyal butler of [[Batman]].
+
+==Fictional character biography==
+Linus "Microchip" Leiberman was a legendary computer hacker in the early days of the hacking business, performing numerous scams and hacks still held in awe today, until one scam brought him too close to real-world criminals forcing him to go into "retirement" as a quiet unassuming businessman.  This ended when his nephew, attempting to follow in his favorite uncles footsteps, was caught and killed after accidentally hacking into the private computers of [[Wilson Fisk]], the Kingpin of Crime.  While personally investigating his nephews murder Leiberman met [[The Punisher]] and the two began working together.  Microchip's help proved invaluable to Castle working not just as a hacker and cyber-investigator but also helping Castle manage and launder his finances (taken from the criminals he terminated), set up and equip safehouses, train in more "specialized" skills useful for his war on crime, and obtain harder-to-get munitions and equipment.  Less obsessed with the war, Microchip also acted as a defacto councilor to Castle, encouraging him to take occasional vacations and breaks so as not to get burned out or crazed.
+
+===The Punisher War Zone===
+The Punisher's 1992 [[spin-off]] entitled, ''[[The Punisher War Zone]]'' was launched, written by [[Chuck Dixon]] and penciled by [[John Romita, Jr.]]. It later turned into an out-of-continuity anthology. The first issues included character arcs for Micro, where Linus goes so far as to see a [[psychiatrist]] and take up acting in [[theatre]] as part of his therapy. After Castle discovers this, the two have a disagreement and Micro goes into hiding, working as a barman.
+
+===Apparent death===
+Ultimately, Castle and Micro had one final fall out just before the cancellation of all three major Punisher titles in 1995. This fight came to an end in the closing issues of ''The Punisher War Journal'' (vol. 1). Micro had a falling out with Castle due to their disagreements over his methods, his feeling that Castle had lost sight of their original goals, and that Castle had gone over the edge. Soon after, Micro then tried to replace Castle with a new  handpicked "Punisher", former Navy Seal, Carlos Cruz. Micro and Castle eventually came face to face in one of Micro's safehouses in what appeared to be a final confrontation. A gun battle ensued between the two former partners. In the midst of this battle, Micro appeared to die at the hands of rogue [[S.H.I.E.L.D.]] agent "Stone Cold". Castle moved on, showing no remorse over the apparent demise of his former friend, noting that if Stone Cold had not finished Microchip off, he would have.
+
+==''MAX'' Imprint==
+Microchip was presumed-dead and attempts to pressure Castle into working for the [[Central Intelligence Agency|CIA's]] [[black ops]] unit to participate in the hunt for [[Osama bin Laden]]. The Punisher declines, as he prefers his autonomy to indentured service to an institution such as the government. Microchip confesses to Castle that the source of funding for the operation came from the CIA funneling arms and [[heroin]] out of [[Afghanistan]]. Castle gives Micro a chance he almost never gives anyone: the chance to run. Microchip declines, attempting to humanize Castle, and the two cooperate in a CIA/[[Mafia]] firefight. Taking a possibly mortal injury in the fight, Micro attempts to humanize Castle again, only to be met with a point-blank shotgun round to the head.
+
+==Other media==
+'''Animation'''
+* Microchip appeared with the Punisher in the 1990s ''[[Spider-Man: The Animated Series|Spider-Man]]'' cartoon voiced by [[Robert Axelrod (actor)|Robert Axelrod]]. His nickname was Chip, rather than Micro, and he tended to act as Frank's conscience, urging him to use the non-lethal weaponry.
+
+'''Films'''
+* Micro was included in an early draft of [[2004 in film|2004's]] ''[[The Punisher (2004 film)|The Punisher]]'' by [[Michael France]].<ref>{{cite web |url=http://www.comicbookresources.com/?page=article&id=3305 |title=Behind the scenes with "The Punisher", written by Michael France |accessdate=2007-09-03 |format= |work= }}</ref>
+* He is played by [[Wayne Knight]] in the [[2008 in film|2008]] [[Punisher: War Zone|Punisher War Zone]] film.
+
+'''Video games'''
+* Microchip had a [[Cameo appearance|cameo]] in the side-scrolling [[beat 'em up]] [[The Punisher (arcade game)|''Punisher'' arcade game]], in the continue screen, giving the Punisher [[CPR]].
+* Although not actually seen, Microchip can be heard talking with the Punisher in the ''[[Spider-Man (2000 video game)|Spider-Man]]'' game for the [[PlayStation]].
+
+==References==
+<references/>
+
+==External links==
+*[http://blaklion.best.vwh.net/jew.html Mikel Midnight's Jewish Supers List] ("Supers" ''[[sic]]'')
+
+{{Punisher}}
+[[Category:Marvel Comics characters]]
+[[Category:1987 comics characters debuts]]
+[[Category:Fictional engineers|Microchip (comics)]]
+[[Category:Fictional inventors|Microchip (comics)]]
+[[Category:Fictional characters from New York City|Microchip (comics)]]
+[[Category:The Punisher]]
+[[Category:Fictional hackers]]

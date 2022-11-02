@@ -1,0 +1,54 @@
+{{Infobox comic book title <!--Wikipedia:WikiProject Comics--> 
+|title               = Saint Sinner
+|image               = SaintSinner1.jpeg
+|caption             = ''Saint Sinner'' #1 (Octr. 1993). Cover art by Max Douglas
+|schedule            = Monthly
+|ongoing             = y
+|Horror              = y
+|Fantasy             = y
+|multigenre          = y
+|publisher           = [[Razorline]] ([[Marvel Comics]])
+|date                = October 1993 - April 1994
+|issues              = 7
+|main_char_team      = Philip Fetter
+|writers             = [[Elaine Lee]]
+|artists             = [[Max Douglas]]
+|pencillers          = [[Richard Pace (comics)|Richard Pace]]<br />[[Larry Brown (comics)|Larry Brown]]
+|inkers              = [[Max Douglas]]<br />[[Rick Bryant (comics)|Rick Bryant]]<br />[[Gabriel Morrissette]]
+|letterers           = [[Janice Chiang]]
+|colorists           = Christie Scheele<br />Maria Parwulski
+|editors             = [[Marcus McLaurin]]
+|creative_team_month =
+|creative_team_year  =
+|creators            = [[Clive Barker]]
+|TPB                 =
+|ISBN                =
+|subcat              = Marvel Comics
+|sort                = {{PAGENAME}}
+}}
+'''''Saint Sinner''''' is a [[horror fiction|horror]]/[[fantasy]] [[comic book]] published by [[Marvel Comics]] as a part of the [[Razorline]] [[imprint]]. All of the Razorline titles were creations of horror/fantasy writer and filmmaker [[Clive Barker]] and he described the series as "Saint Sinner is just a wild one, the series which hopefully will press the limits of what comics can do."<ref>[http://www.clivebarker.info/ints93b.html Interviews 1993 (Part Two)] at CliveBarker.info (official site)</ref>
+
+Aside from the title, it is unrelated to the Barker-produced [[telefilm]] ''[[Saint Sinner (film)|Saint Sinner]]''.
+
+==Publication history==
+''Saint Sinner'' was published for seven issues (Oct. 1993 - April 1994) before being discontinued with the rest of the Razorline titles. The writing for all seven issues was done by [[Elaine Lee]], with the art split between [[Max Douglas]] (first three issues), [[Richard Pace (comics)|Richard Pace]] (fourth-issue [[script breakdown|breakdowns]], finished by Douglas; fifth-issue pencils, inked by Douglas) and [[Larry Brown (comics)|Larry Brown]] (final two issues).
+
+The final release of the Razorline imprint was ''Ectokid Unleashed'', a 48-page one-shot that also contained a ''Saint Sinner'' [[prose]] short story by [[Elaine Lee]].
+
+==Fictional character biography==
+''Saint Sinner'' is centered on Philip Fetter, a man [[spiritual possession|possessed]] by both a [[demon]] and an [[angel]]. With the ability to evolve or regress anyone from superhuman to primal beast, Fetter travels the world changing lives.
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin}}
+* [http://www.clivebarker.info ''Revelations'' Official Clive Barker Resource]
+* [http://www.clivebarker.com/html/visions/bib/comics/saint/index.html ''Saint Sinner''] at CliveBarker.com (unofficial site)
+* [http://www.internationalhero.co.uk/s/saintsin.htm ''Saint Sinner''] at the International Catalogue of Superheroes
+* {{gcdb series|id=4729|title=''Saint Sinner''}}
+* [http://www.maelmill-insi.de/UHBMCC/SHOW.HTM?SerNr=1991 ''Saint Sinner''] at the Unofficial Handbook of Marvel Comics Creators
+* {{comicbookdb|type=title|id=2954|title=''Saint Sinner''}}
+{{refend}}
+
+[[Category:1993 comic debuts]]

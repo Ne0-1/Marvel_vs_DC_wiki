@@ -1,0 +1,29 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:PPSM3Cover.jpg|250px|]]
+|caption=Cover to ''[[Spectacular Spider-Man]]'' #3<br>Art by [[Sal Buscema]]
+|comic_color=background:#ff8080
+|character_name=Lightmaster
+|real_name=Dr. Edward Lansky
+|publisher=[[Marvel Comics]]
+|debut=''[[Spectacular Spider-Man|Peter Parker, the Spectacular Spider-Man]]'' #3
+|creators=
+|alliance_color=background:#cccccc
+|status=Unknown
+|alliances=
+|previous_alliances=One World Church
+|aliases=
+|relatives=
+|powers=Is composed of "hard light". Can control light and move at light speed.
+|}}
+'''Lightmaster''' (real name Dr. Edward Lansky) is a [[fictional character]], a [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]].
+
+He has fought [[Spider-Man]], [[Cloak and Dagger]] and, most recently, [[Cable (comics)|Cable]]. In his fight with Cable, he had been hired by the "One World Church" to distribute the Façade Virus, which the OWC intended to use to turn everyone blue and thus eliminate racial divides. Cable subverted his control and instead turned everyone pink for two days, before publically disabling the virus.
+
+==External link==
+*[http://spiderfan.org/characters/lightmaster.html Spiderfan.org bio of Lightmaster] (does not include his ''[[Cable & Deadpool]] appearance).
+
+
+[[Category:Spider-Man villains]]
+
+
+{{Marvel-Comics-stub}}

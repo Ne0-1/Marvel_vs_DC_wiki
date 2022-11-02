@@ -1,0 +1,94 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:Controller.gif|250px]]
+|caption= Controller
+|comic_color=background:#ff8180
+|character_name=Controller
+|real_name=Basil Sandhurst
+|publisher=[[Marvel Comics]]
+|debut=''[[Iron Man]]'' vol. 1 #12 (Apr 1969)
+|creators=[[Archie Goodwin (comics)|Archie Goodwin]] and [[George Tuska]]
+|alliance_color=background:#c0c0ff
+|alliances=[[New Enforcers]]
+|aliases=
+|powers=Wields control discs<br>[[Mind control]]<br>Ability to drain mental energy from controlled pawns to power & enhance [[power armor|exoskeleton]] 
+|}}
+
+'''Controller''' ('''Basil Sandhurst''') is a [[fictional character]], a [[supervillain]] appearing in the [[Marvel Universe]].  He specializes in [[mind control]], and is a frequent foe of [[Iron Man]].
+
+==Fictional character biography==
+Basil Sandhurst was born in [[Kittery Point, Maine]]. Sandhurst worked as an electro-mechanical/chemical research scientist. His obsession with control brought his downfall as a scientist when his refusal to obey ethical restraints got him banned from most research facilities. Sandhurst was prone to fits of rage, and in an attempt to calm him, his brother Vincent inadvertently triggered a lab explosion, crippling Basil. Vincent, guilt-ridden, outfitted Basil with an automated lab, in which Basil bonded a super-strong exoskeleton to his body, powered by the cerebral energies from those around him using his slave discs. As the Controller, he planned to invade and enslave New York City, but [[Iron Man]] and [[S.H.I.E.L.D.]] agent [[Jasper Sitwell]] foiled his scheme and left Controller comatose.<ref>''Iron Man'' #12</ref> The Controller eventually came out of his coma and took over the Pinewood Sanitarium. He created an improved set of equipment but was again defeated by Iron Man.<ref>''Iron Man'' #28</ref>
+
+Months later, he was released from prison by the alien [[Thanos]], who upgraded his technology. Thanos promised Controller rulership of Earth, and so he began enslaving dozens of operatives. He invaded [[Avengers Mansion]] and defeated the [[Avengers (comics)|Avengers]] and [[Mar-Vell|Captain Mar-Vell]], and abducted Lou-Ann Savannah. The Controller's egotistical displays endangered Thanos's security, and when the Controller failed to defeat Thanos's enemy, Captain Marvel, the alien left him for dead.<ref>''Captain Marvel'' #28, 30</ref> The Controller went underground for years, upgrading via Stark technology stolen from [[Justin Hammer]], and eventually enslaved a cult. He set the [[Blood Brothers (comics)|Blood Brothers]] against Iron Man and [[Daredevil (Marvel Comics)|Daredevil]]. Iron Man defeated him and imprisoned him in a vat of experimental plastic, but he escaped. Alongside one of the Blood Brothers, he fought Iron Man, but Iron Man defeated him once more and he was confined to the [[Vault (comics)|Vault]].<ref>''Iron Man'' #89-91</ref> He eventually broke out of jail, only to be defeated by Iron Man again. During the "[[Acts of Vengeance]]," the Controller escaped from the Vault and at the behest of the [[Red Skull]], he enslaved [[Namor|Namor the Sub-Mariner]] and set him against [[Captain America]]. He unsuccessfully attempted to control [[Loki (comics)|Loki]] at the behest of the Red Skull, and unsuccessfully attempted to aid the Red Skull against [[Magneto (comics)|Magneto]]. He was ultimately defeated by Captain America.<ref>''Captain America'' #365-367</ref>
+
+Revived by the world-conquering [[Master of the World (comics)|Master of the World]], the Controller became the Master's pawn against the Avengers and [[Heroes for Hire]]. Abandoned after a later defeat, the Controller, in an ironic nod to his many hospitalizations, acquired his own clinic, where he influenced the wealthy to do his bidding. However, the Controller could not resist enslaving [[Iron Man|Tony Stark]] as well, leading to his latest defeat by Iron Man.
+
+Returned to [[The Raft (comics)|The Raft]], the Controller escaped with dozens of others but was recaptured during a clash with the [[U-Foes]] and [[Avengers (comics)|Avengers]].<ref name="Avengers.">{{
+cite book
+|title=The New Avengers: Most Wanted Files
+
+}}</ref>
+
+The [[Hood (comics)|Hood]] has hired him as part of his criminal organization to take advantage of the split in the superhero community caused by the Superhuman Registration Act. He appears as part of the Hood's alliance with super-powered heroes; the grouping is intent on defeating the Skrull invasion force of New York City.<ref>"[[Secret Invasion]]" #6</ref>
+
+[[Maria Hill]] found the Controller holed up in the basement of a Futurepharm facility in Austin, Texas, while on orders from Tony Stark.<ref>''Invincible Iron Man'' #11</ref>  He had been abducting members of the local populace for months to bolster a new army and attempted to brainwash Hill as well.  However, she resisted his efforts and freed his drones, sabotaging the entire operation.<ref>''Invincible Iron Man'' #13</ref>
+
+The Controller gave White Fang a new suit so that she could kill the Hood.<ref>''Dark Reign: The Hood'' #3</ref>
+
+==Powers and abilities==
+The Controller designed his armored exoskeleton, which is micro-surgically attached to his body from head to toe and grants him mobility, as well as superhuman strength and endurance. He uses "slave discs" to control others, using the micro-circuitry in his helmet to drain cerebral energy from his victims to power his exoskeleton and magnify its strength and duplicate his victim's abilities. He has limited psychokinetic and telepathic abilities, the ability to control the actions of any one person wearing one of his slave discs, and the ability to fire mental bolts of force from his helmet. He can psionically control "weak-willed" subjects even without his discs. He flies via boot-jets and has employed image inducers, stun mists, and other technology as needed.<ref name="needed.">{{
+
+cite book
+|title=The New Avengers: Most Wanted Files
+
+}}</ref>
+
+The Controller originally used a mental wave absorbatron to convert cerebral energies for use by his exoskeleton, though this device was rendered obsolete after [[Thanos]] improved the Controller's equipment. The discs now increase his physical attributes in geometric progression to numbers of victims wearing slave discs, and he was able to control the actions of all persons wearing the discs.
+
+The Controller is a highly skilled chemist and mechanical engineer, with a college degree in chemistry and electrical and mechanical engineering.
+
+==Other versions==
+===Earth X===
+Sandhurst was mentioned as one of the many who were killed when [[Norman Osborn]] rose to power.<ref>''Earth X'' #5</ref>
+
+==In other media==
+===Television===
+* The Controller appeared as a guest villain in the ''[[Iron Man (TV series)|Iron Man]]'' episode "Armor Wars" part 1 voiced by [[Jamie Horton (actor)|Jamie Horton]]. His slave discs were based on the Iron Man technology which allowed him to mentally control his armor which he used on executives who visited the Center for Achievement and [[Bliss (spa)|Bliss Spa]]. Iron Man defeated him and placed a Negator Pack on his armor.
+* Controller appears in the ''[[Iron Man: Armored Adventures]]'' episode "Ready, A.I.M., Fire" voiced by [[Michael Kopsa]]. In this version, Basil Sandhurst is a skilled chemist working for [[Advanced Idea Mechanics|A.I.M.]] and he's one of the scientists that were working on the [[MODOK]] project. He wears a business suit and uses his slave discs, activated with Tony Stark's help, to become the Controller. Iron Man defeats him after Controller enslaves [[War Machine|Rhodey]], [[Pepper Potts]], [[Happy Hogan]], and [[Mandarin (comics)|Gene Khan]]. He swears revenge against Iron Man. To keep himself useful to A.I.M., Basil tells A.I.M.'s Scientist Supreme that he is still needed to help complete the MODOK project. In "Designed Only For Chaos," Controller is seen activating MODOK and is knocked out by MODOK who identifies that Controller will turn against A.I.M. to improve his Controller Disks. In "Uncontrollable," Controller assumes his signature costume and posture look and pursues [[Hulk (comics)|Hulk]] and [[Rick Jones (comics)|Rick Jones]] in order to use them in his revenge against A.I.M. only to end up controlling Iron Man in his Dynamo Buster Armor. Controller uses Iron Man in the armor to attack A.I.M. and manages to defeat MODOK. With help from the Hulk, Rhodey, Pepper, and Rick manage to defeat Controller and free Iron Man from his control, who then intends to help Hulk "smash" the bad guy. The two advancing heroes make Controller faint from fear.
+
+===Video games===
+* In the [[Data East]] [[beat 'em up]] ''[[Captain America and the Avengers]]'', there are two Controllers (named Control in the game) you face before [[Crossbones (comics)|Crossbones]] in the final level.
+* The Controller appears in the ''[[Iron Man (video game)|Iron Man]]'' video game voiced by [[Jim Ward (voice actor)|Jim Ward]]. An [[Advanced Idea Mechanics|A.I.M.]] agent, the Controller commanded an attack on a U.S. military ship in the Arctic. When Iron Man tried to stop his actions, the Controller used his powers to confuse him. However, Stark manages to outsmart him and stop his attack.
+
+==Bibliography==
+* ''Avengers Unplugged'' #5
+* ''Avengers: Deathtrap: The Vault''
+* ''Captain America'' vol. 1 #365-367
+* ''Captain Marvel'' vol. 1 #28-30
+* ''Heroes for Hire'' vol. 1 #1-4
+* ''Invincible Iron Man #11
+* ''Iron Man Annual'' #15
+* ''Iron Man'' vol. 1 #12-13, 28, 88-89, 91, 225-226, 292-293
+* ''Iron Man'' vol. 3 #12-13
+* ''New Avengers'' #1-4
+* ''Spider-Man: Breakout'' #1-5
+* ''Web of Spider-Man''#99-100
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.com/universe/Controller Controller] at Marvel.com
+* [http://www.marveldirectory.com/individuals/c/controller.htm Controller at MarvelDirectory.com]
+
+{{Iron Man}}
+
+[[Category:Comics characters introduced in 1969]]
+[[Category:Characters created by Archie Goodwin]]
+[[Category:Fictional characters from Maine]]
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics supervillains]]
+
+[[fr:Contrôleur (comics)]]
+[[fi:Kontrolloija (sarjakuvahahmo)]]
+[[tl:Controller (Marvel Comics)]]

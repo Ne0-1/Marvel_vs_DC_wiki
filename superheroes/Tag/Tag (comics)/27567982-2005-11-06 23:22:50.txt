@@ -1,0 +1,27 @@
+{{Superherobox| <!--Part of Wikipedia:WikiProject Comics-->
+image=[[Image:Tag (comics).png|250px]]
+|caption=Tag, by [[Clayton Henry]]
+|comic_color=background:#ff8080
+|character_name=Tag
+|real_name=Brian Cruz
+|publisher=[[Marvel Comics]]
+|debut=''New Mutants'' (volume 2) #7
+|creators=[[Nunzio DeFilippis]]<br>[[Christina Weir]]<br>[[Carlo Barberi]]
+|alliance_color=background:#ffc0c0
+|status=Powerless
+|alliances=[[Xavier Institute]], [[Hellions]] squad
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=Can "tag" a person, forcing others to run away from the subject.
+|}}
+'''Tag''' is a [[fictional character]], a [[mutant (fictional)|mutant]] in the [[Marvel Universe]], one of the student body in the [[X-Men|Xavier Institute]], and a member of the [[Hellions]] squad therein. His real name is Brian Cruz, and he first appeared in ''New Mutants'' (volume 2) #7.
+
+==Powers==
+
+Tag could "tag" other people, causing them to emit a psionic signal compelling others to run away from the tagged subject.  His powers were removed during the 2005 miniseries "House of M", in which Brian and several other mutants were turned into "baseline" humans.
+
+{{Marvel-Comics-stub}}
+[[Category:Hellions members]]
+[[Category:Marvel Comics mutants]]
+[[Category:Xavier Institute Student Body]]

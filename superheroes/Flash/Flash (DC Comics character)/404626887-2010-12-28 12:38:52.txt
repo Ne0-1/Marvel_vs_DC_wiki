@@ -1,0 +1,297 @@
+{{Redirect6|The Flash|the live-action series|The Flash (TV series)|other uses|Flash (disambiguation)}}
+{{Infobox comics set and title
+<!--Wikipedia:WikiProject Comics-->
+<!--Character section-->
+|code_name  = Flash
+|image      = Flash Pack.jpg
+|imagesize  = 
+|caption    = [[Jay Garrick]], [[Bart Allen]], and [[Wally West]] on the cover to ''The Flash'' (vol. 2) #208.<br>Art by [[Michael Turner (comics)|Michael Turner]].
+|publisher  = [[DC Comics]]
+|debut      = ''[[Flash Comics]]'' #1
+|debutmo    = January
+|debutyr    = 1940
+|debutyr1   = 1956
+|debutyr2   = <!-- Wally and Bart did not initially debut as the Flash -->
+|writer1    = [[Gardner Fox]]
+|artist1    = [[Harry Lampert]]
+|characters = [[Flash (Jay Garrick)|Jay Garrick]]<br />[[Flash (Barry Allen)|Barry Allen]]<br /> [[Wally West]]<br />[[Bart Allen]]
+|seealso    = 
+
+<!--Series section-->
+|title               = The Flash'' or ''Flash
+|cvr_image           = Flash v1 105.jpg
+|cvr_caption         = ''The Flash'' vol. 1, #105 (Feb-Mar, 1959).<br>Featuring the Barry Allen version of the character and the original [[Mirror Master]].<br>Art by [[Carmine Infantino]].
+|schedule            = '''(vol 1)'''<br>Bi-monthly (105<ref>The numbering was continued from ''[[Flash Comics]]'' which had ceased publication in 1949.</ref> -113, 217-232)<br>8 times a year (114-157, 233-246)<br>9 times a year (158-216)<br>Monthly (247-350)<br>'''(vol 2 & ...: The Fastest Man Alive)'''<br>Monthly
+|ongoing             = Y
+|Superhero           = y
+|pub_series          = DC Comics
+|date                = '''(vol 1)'''<br>February-March [[1959 in comics|1959]]&nbsp;— October [[1985 in comics|1985]]<br>'''(vol 2)'''<br>June [[1987 in comics|1987]]&nbsp;— March [[2006 in comics|2006]]; October [[2007 in comics|2007]]&nbsp;— February [[2009 in comics|2009]]<ref>This volume was canceled in 2006 and replaced with a third volume, sub-titled "The Fastest Man Alive". When that volume was canceled after 13 issues, the title was again revived, but picked up the numbering from the second volume.</ref><br>'''(...: The Fastest Man Alive)'''<br>August 2006&nbsp;— August 2007
+|1stishyr            = 1959
+|1stishyr1           = 1987
+|1stishyr2           = 2006
+|issues              = '''(vol 1)'''<br>246 and 1 Annual<br>'''(vol 2)'''<br>249 (including #0 and #1/2) and 13 Annuals<br>'''(...: The Fastest Man Alive)'''<br>13
+|main_char_team      = '''(vol 1)'''<br>Barry Allen<br>'''(vol 2)'''<br>Wally West<br>'''(...: The Fastest Man Alive)'''<br>Bart Allen
+|writers             = 
+|artists             = 
+|pencillers          = 
+|inkers              = 
+|letterers           = 
+|colorists           = 
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = 
+|TPB                 = 
+|ISBN                = 
+|nonUS               = 
+|cat                 = 
+|subcat              = All-American Publications
+|subcat_pub          = DC Comics
+|altcat              = 
+|hero                = 
+|villain             = 
+|sortkey             = Flash
+|sort_title          = Flash
+|addcharcat1         = DC Comics superheroes
+}}
+The '''Flash''' is a name shared by several fictional [[comic book]] [[superhero]]es from the [[DC Comics]] [[DC Comics Universe|universe]].  Created by writer [[Gardner Fox]] and artist [[Harry Lampert]], the original Flash first appeared in ''[[Flash Comics]]'' #1 (January 1940).<ref name="dc-ency">{{Cite book | last = Jimenez | first = Phil | author-link = Phil Jimenez | contribution = The Flash | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 124–127  | publisher = [[Dorling Kindersley]] | place = New York  | year = 2008 | isbn = 0-7566-4119-5 | oclc = 213309017 | postscript = <!--None-->}}</ref>
+
+Nicknamed the '''Scarlet Speedster''', all incarnations of the Flash possess "[[List of comic book superpowers#Superhuman speed|super-speed]]", which includes the ability to run and move extremely fast, use [[List of comic book superpowers#Superhuman reflexes|superhuman reflexes]] and seemingly violate certain [[Physical law|laws of physics]]. Thus far, four different [[Character (arts)|characters]]—each of whom somehow gained the power of "super-speed"—have assumed the identity of the Flash: [[Flash (Jay Garrick)|Jay Garrick]] (1940–present), [[Flash (Barry Allen)|Barry Allen]] (1956–1985, 2008–present), [[Wally West]] (1986–2006, 2007–present), and [[Bart Allen]] (2006–2007, 2009-present). Before Wally and Bart's ascension to the mantle of the Flash, they were both Flash proteges under the same name '''[[Kid Flash]]'''.
+
+The second incarnation of the Flash, [[Barry Allen]], is generally considered the first hero of the [[Silver Age of comic books]] and the superhero has remained one of DC's most popular ever since.  Each version of the Flash has been a key member of at least one of DC's three premier teams: the [[Justice Society of America]], the [[Justice League]], and the [[Teen Titans]].  Wally West has recently rejoined the Justice League, and Barry Allen recently returned to life in the pages of ''[[Final Crisis]]''.
+
+The Barry Allen version of the character (with Wally West elements) was featured in [[The Flash (TV series)|a live action television series]] in 1990, starring [[John Wesley Shipp]].  The Wally West version of the Flash (but with many elements of Barry Allen's story) is featured in the [[animation|animated series]] ''[[Justice League (animated series)|Justice League]]''.
+
+The Flashes have often been close friends with the various men who have been the [[Green Lantern]]; the most notable friendships have been forged between Jay Garrick and [[Alan Scott]] (the Golden Age Green Lantern), Barry Allen and [[Hal Jordan]] (the Silver Age Green Lantern) and Wally West and [[Kyle Rayner]] (the modern Green Lantern), as well as Jordan's friendship with West. 
+
+== Publication history ==
+=== Golden Age ===
+The Flash [[First appearance|first appeared]] in the [[Golden Age of comic books|Golden Age]] ''Flash Comics'' #1 (Jan. 1940), from [[All-American Publications]], one of three companies that would eventually merge to form [[DC Comics]].  Created by writer Gardner Fox and artist Harry Lampert, this Flash was '''[[Flash (Jay Garrick)|Jay Garrick]]''', a college student who gained his speed through the inhalation of [[hard water]] vapors.
+
+Jay Garrick was a popular character in the 1940s, supporting both ''Flash Comics'' and ''All-Flash Quarterly'' (later published bi-monthly as simply ''All-Flash''); co-starring in ''[[Comic Cavalcade]]''; and being a charter member of the [[Justice Society of America]], the first superhero team, whose adventures ran in ''[[All Star Comics]]''.  With superheroes' post-war decline in popularity, ''Flash Comics'' was canceled with issue #104 (1949).  The Justice Society's final Golden Age story ran in ''All Star Comics'' #57 (1951; the title itself continued, as ''All Star Western'').
+
+=== Silver Age ===
+In 1956, DC Comics successfully revived superheroes, ushering in what became known as the [[Silver Age of comic books]].  Rather than bringing back the same Golden Age heroes, DC reimagined them as new characters for the modern age.  The Flash was the first revival, in the aptly named tryout comic book ''[[Showcase (comic book)|Showcase]]'' #4 (Oct. 1956).
+
+This new Flash was '''[[Barry Allen]]''', a police scientist who gained super-speed when bathed by chemicals after a shelf of them was struck by lightning.  He adopted the name ''The Flash'' after reading a comic book featuring the Golden Age Flash.<ref name="dc-ency"/>  After several more appearances in ''Showcase'', Allen's character was given his own title, ''The Flash'', the first issue of which was #105 (resuming where ''Flash Comics'' had left off).
+
+The Silver Age Flash proved popular enough that several other Golden Age heroes were revived in new incarnations (see: [[Green Lantern]]). A new superhero team, the [[Justice League|Justice League of America]], was also created, with the Flash as a main, charter member.
+
+=== "The Flashes of Two Worlds" ===
+
+The Flash also introduced a much-imitated plot device into superhero comics when it was revealed that Garrick and Allen existed on fictional [[Parallel universe (fiction)|parallel world]]s.  Their powers allowed them to cross the dimensional boundary between worlds, and the men became good friends.  ''[[Flash of Two Worlds]]'' (''The Flash'' (vol. 1) #123) was the first crossover in which a Golden Age character met a Silver Age character.  Soon, there were crossovers between the entire Justice League and the Justice Society; their respective teams began an annual get-together which endured from the early 1960s until the mid-1980s.
+
+Allen's adventures continued in his own title until the advent of ''[[Crisis on Infinite Earths]]''.  ''The Flash'' ended as a series with issue #350.  Allen's life had become considerably confused in the early 1980s, and DC elected to end his adventures and pass the mantle on to another character.  Allen died heroically in ''Crisis on Infinite Earths'' #8 (1985).  Thanks to his ability to travel through time, he would continue to appear occasionally in the years to come.
+
+=== Modern Age ===
+
+The third Flash was '''[[Wally West]]''', introduced in ''The Flash'' (vol. 1) #110 (Dec. 1959) as '''[[Kid Flash]]'''.  West, Allen's nephew by marriage, gained the Flash's powers through an accident identical to Allen's.  Adopting the identity of Kid Flash, he maintained membership in the [[Teen Titans]] for years.  Following Allen's death, West adopted the Flash identity in ''Crisis on Infinite Earths'' #12 and was given his own series, beginning with ''The Flash'' (vol. 2) #1 in 1987.<ref name="dc-ency"/>  Many issues began with the [[catchphrase]]: "My name is Wally West.  I'm the fastest man alive."
+
+Due to the ''[[Infinite Crisis]]'' miniseries and the "[[One Year Later]]" jump in time in the [[DC Universe]], DC canceled ''The Flash'' (vol. 2) in January 2006 at #230.  A new series, ''The Flash: The Fastest Man Alive'', began on June 21, 2006.  The initial story arc of this series, written by [[Danny Bilson]] and [[Paul De Meo]] with art by Ken Lashley, focused on '''Bart Allen''''s acceptance of the role of the Flash. 
+
+''Flash: Fastest Man Alive'' was canceled with issue #13.  In its place ''The Flash'' (vol. 2) was revived with issue #231, with [[Mark Waid]] as the initial writer.  Waid also wrote ''All-Flash'' #1, which acted as a bridge between the two series.<ref>{{cite web| url = http://www.newsarama.com/heroes_philly07/DC/flash.html| title = "Mark Waid Returns to ''The Flash''"| accessdate = 2007-07-15| last = Rogers| first = Vaneta |date=2007-07-15| publisher = Newsarama |archiveurl = http://web.archive.org/web/20070702073031/http://www.newsarama.com/heroes_philly07/DC/flash.html <!-- Bot retrieved archive --> |archivedate = 2007-07-02}}</ref>  DC had solicited ''Flash: Fastest Man Alive'' through issue #15.  ''All Flash'' #1 replaced issue #14 and ''The Flash'' (vol. 2) #231 replaced issue #15 in title and interior creative team only.  The covers and cover artists were as solicited by DC, and the information text released was devoid of any plot information.<ref>{{cite journal | year = 2007 | month = May | title = DC Universe | journal = Previews | volume = 17 | issue = 5 | page = 82 }}</ref><ref>{{cite journal | year = 2007 | month = June | title = DC Universe | journal = Previews | volume = 17 | issue = 6 | page = 86}}</ref>
+
+In [[2009 in comics|2009]], Barry Allen made a full fledged return to the DCU-proper in ''[[The Flash: Rebirth]]'', a six-issue miniseries by [[Geoff Johns]] and [[Ethan Van Sciver]].<ref>{{cite web|url=http://www.comicsbulletin.com/news/121695829519539.htm |title=SDCC News: Johns and Van Sciver Announce Flash Rebirth: News Bulletins |publisher=Comics Bulletin |date=2008-07-24 |accessdate=2010-09-14}}</ref>
+
+==Fictional character biographies==
+While several other individuals have used the name Flash, these have lived either on other parallel worlds, or in the future.  Garrick, Allen and West are the best-known exemplars of the identity. 
+
+===Jay Garrick===
+{{Main|Flash (Jay Garrick)}}
+
+'''Jason Peter "Jay" Garrick''' was a college student in January 1940 who accidentally inhaled heavy water vapors after falling asleep in his laboratory where he had been smoking.  As a result, he found that he could run at superhuman speed and had similarly fast reflexes.  After a brief career as a [[college football]] star, he donned a red shirt with a lightning bolt and a stylized metal helmet with wings (based on images of the Greek deity [[Hermes]]), and began to fight crime as the Flash.  His first case involved battling the "Faultless Four", a group of blackmailers.  Jay kept his identity secret for years without a mask by continually vibrating his body while in public so that any photograph of his face would be blurred.  Although originally from [[Earth-Two]], he was incorporated into the history of [[List of DC Multiverse worlds|New Earth]] following the ''[[Crisis on Infinite Earths]]'' and is still active as the Flash operating out of Keystone City.  He is a member of the [[Justice Society of America|Justice Society]].
+
+===Barry Allen===
+{{Main|Flash (Barry Allen)}}
+'''Bartholomew Henry "Barry" Allen''' is a [[police]] scientist who has a reputation for being very slow, deliberate, and frequently late, which frustrated his fiancée, [[Iris West Allen|Iris West]]. One night, as he was preparing to leave work, a lightning bolt shattered a case full of chemicals and spilled them all over Allen. As a result, Allen found that he could run extremely fast and had matching reflexes. He donned a set of red tights sporting a lightning bolt (reminiscent of the original), dubbed himself the Flash (after his childhood hero, Jay Garrick), and became a crimefighter active in [[Central City (DC Comics)|Central City]].  In his civilian identity, he stores the costume compressed in a special ring via the use of a special gas that could compress cloth fibers to a very small fraction of their normal size.
+
+Allen sacrificed his life for the universe in the 1985 maxi-series ''[[Crisis on Infinite Earths]]'', and remained dead for over twenty years after that story's publication. With the 2008 series ''[[Final Crisis]]'', Allen returned to the DC Universe and returned to full prominence as the Flash in the 2009 series ''[[The Flash: Rebirth]]'', which was soon after followed by a new volume of ''[[The Flash (comic book)#Volume 3 (2010-Current)|The Flash]]'' ongoing series, where Allen's adventures as the Scarlet Speedster are currently published.<ref name="J&V">{{cite web|url=http://www.newsarama.com/comics/080724-comiccon-flash-rebirth.html |title=SDCC '08 - Johns & Van Sciver Talk Flash: Rebirth |publisher=Newsarama.com |date= |accessdate=2010-09-14}}</ref><ref name="vol3no1">{{Cite comic|Writer = Johns, Geoff|Title = The Flash|Volume = 3|Issue = 1|Date = April 2010|Publisher = DC Comics}}</ref>
+
+===Wally West===
+{{Main|Wally West}}
+'''Wallace Rudolph West''' is the nephew of Iris West and Barry Allen by marriage, and was introduced in ''The Flash'' (vol. 1) #110 (1959).  When West was about ten years old, he was visiting his uncle's police laboratory, and the freak accident that gave Allen his powers repeated itself, bathing West in electrically charged chemicals.  Now possessing the same powers as his uncle, West donned a copy of his uncle's outfit and became the young crime fighter '''Kid Flash'''.  After the events of ''Crisis on Infinite Earths'', where Barry Allen was killed, Wally took over as the fastest man alive. Following the events of ''Infinite Crisis'', Wally, his wife Linda, and their twins left Earth for an unknown dimension.
+
+Wally, his wife and twins were pulled back from the [[Speed Force]] by the [[Legion of Super-Heroes]] at the conclusion of ''[[The Lightning Saga]]''.<ref>''Justice League of America'' (vol. 2) #10</ref>  This set the stage for Wally West's return as the Flash after the events of ''The Flash: Fastest Man Alive'' #13 (see Bart Allen), in ''All Flash'' #1, and with ''The Flash'' (vol. 2) series, which resumed with issue #231 in August 2007. It subsequently ends with issue #247, and West, along with all the other ''Flash'' characters, play a large role in 2009's ''[[The Flash: Rebirth]]''<ref name="J&V" />
+
+===Bart Allen===
+{{Main|Bart Allen}}
+'''Bartholomew Henry "Bart" Allen II''' is the grandson of Barry Allen and his wife Iris.  Bart suffered from accelerated aging and, as a result, was raised in a [[virtual reality]] machine until Iris took him back in time to get help from the then-current Flash, Wally West.  With Wally's help, Bart's aging slowed, and he took the name '''Impulse'''.  After he was shot in the kneecap by [[Deathstroke]], Bart changed both his attitude and his costume, taking the mantle of '''Kid Flash'''.  During the events of ''Infinite Crisis'', the [[Speed Force]] vanished, taking with it all the speedsters save Jay Garrick.  Bart returned, four years older, and for a year claimed that he was depowered from the event.  However, the Speed Force had not disappeared completely, but had been absorbed into Bart's body; essentially, he now contained all of the Speed Force.
+
+Bart's costume as the Flash was a clone of his grandfather's, similarly stylized to Wally West's. Not long after taking the mantle of the Flash, Bart was killed by the Rogues in the 13th (and final) issue of ''The Flash: The Fastest Man Alive''.  However, he was later resurrected in the 31st century in ''[[Final Crisis: Legion of 3 Worlds]]'' #3 by [[Brainiac 5]] to combat [[Superboy-Prime]] and the [[Legion of Super-Villains]]. Writer [[Geoff Johns]] confirmed that Bart will return to the past and play a large role in ''[[The Flash: Rebirth]]''.<ref>{{cite web|url=http://www.comicbookresources.com/?page=article&id=19927 |title=NYCC - DC Universe Panel - CBR |publisher=Comicbookresources.com |date= |accessdate=2010-09-14}}</ref>
+
+===Others to carry the mantle of the Flash===
+====Jesse Chambers====
+{{Main|Jesse Chambers}}
+Daughter of the speedster [[Johnny Quick (Johnny Chambers)|Johnny Quick]], '''Jesse Chambers''' becomes a speeding superhero like her father.  She later meets Wally West, the Flash, who asks her to be his replacement if something were to happen to him (as part of an elaborate plan on his part, trying to force Bart Allen to take his role in the legacy of the Flash more seriously).  She briefly assumes the mantle of the Flash, after Wally enters the Speed Force.<ref>''Flash'' (vol. 2) #97–99.</ref>
+
+====Unnamed Allen of the 23rd century====
+The '''father of Sela Allen''', his wife and daughter were captured by [[Cobalt Blue]].  He is forced to watch his wife die and his daughter become crippled.  As he and [[Max Mercury]] kill Cobalt Blue, a child takes the gem and kills Allen.  This Flash is one of the two destined Flashes to be killed by Cobalt Blue.
+
+====Sela Allen====
+[[Image:Flash Sela.png|thumb|left|'''Sela Allen''' as the Flash of the 23rd century.]]
+'''Sela Allen''' is an ordinary human in the 23rd century until Cobalt Blue steals electrical impulses away from her, causing her to become as slow to the world as the world is to the Flash.  Hoping to restore her, her father takes her into the Speed Force.  When her father is killed, she appears as a living manifestation of the Speed Force, able to lend speed to various people and objects, but unable to physically interact with the world.<ref name="dc-ency"/>
+
+====John Fox====
+[[Image:Flash Fox.png|thumb|150px|'''John Fox''' as the Flash of the 27th century.]]
+When [[Manfred Mota]] resurfaces in the 27th century, '''John Fox''', a [[tachyon]] scientist, travels back in time to gain aid from the three Flashes who had defeated Manfred before. Fox fails to make contact, but the time travel leaves him with super speed.<ref name="dc-ency"/>  He uses a combination of various previous Flash costumes to create his own costume.  After defeating Mota, he is sidelined by the invention of Speed Metal.  He began searching the timestream for a time where he could belong, briefly replacing a time-displaced Wally West in the 20th century before finally settling in the year 85,265, where he joined the [[Justice Legion Alpha|Justice Legion]].  In issue #2 of the 2007 ''[[Booster Gold]]'' series, there is a panel depicting [[Terry Thirteen|Dr. Thirteen]]'s group breaking the [[fourth wall]] by complaining about the Architects' only using popular "fellows" in new comics; John Fox was mentioned by name.
+
+====Blaine Allen====
+[[Image:Flash Blaine.png|thumb|left|150px|'''Blaine Allen''' as the Flash of the 28th century.]]
+'''Blaine Allen''' and his son live on the colony world of Petrus in the 28th century.  In an attempt to end the Allen blood line, Cobalt Blue injects Allen's son Jace with a virus.  Lacking super speed, Jace was unable to shake off the virus.  In despair, Blaine takes his son to the [[Speed Force]] in the hopes that it would accept him.  It takes Blaine instead and grants super speed to Jace so that he can shake off the sickness.<ref name=sf1>''Speed Force'' #1 (November 1997)</ref>
+
+====Jace Allen====
+'''Jace Allen''' gains super speed when his father brings him into the [[Speed Force]] to attempt to cure him of a virus injected into his body by Cobalt Blue in an attempt to end the Allen bloodline.<ref name=sf1 /> In memory of his father, Jace assumes the mantle of the Flash and continues the feud against Cobalt Blue.<ref>''Flash v2'' #145 (February 1999)</ref>
+
+====Kryad====
+After an alien creature invaded Earth, a history buff named '''Kryad''' travels back in time from the 98th century to acquire a [[Green Lantern]] [[power ring (weapon)|power ring]].  He fails, so he tries to capture the Flash's speed instead.  After being beaten by Barry Allen (''The Flash'' (vol. 1) #309, May 1982), he travels back further in time and uses the chemicals from the clothes Barry Allen was wearing when he gained his powers.  Kryad sacrifices his life to defeat the alien creature.
+
+====Bizarro Flash====
+Bizarro-Flash was created when [[Bizarro]] cloned Flash. He had a costume the reverse colors of Flash's, however he had a gavel symbol because Flash was holding one when he was cloned. The modern version of Bizarro Flash has the symbol of a thunderbolt-shaped mustard stain.
+
+==Powers and abilities==
+{{Original research|section|date=October 2007}}
+All incarnations of the Flash can move, think, and react at superhuman speeds. Some, notably later versions, can vibrate so fast that they can walk through walls, travel through time and can also lend and borrow speed. Furthermore, all members have an invisible aura around their bodies that prevents themselves and their clothes from being affected by [[air friction]] as they move at high speed.
+
+On several occasions, the Flash has raced against [[Superman]], either to determine who is faster or as part of a mutual effort to thwart some type of threat; these races, however, often resulted in ties because of outside circumstances. However, after the [[DC Universe]] revision after ''[[Crisis on Infinite Earths]]'', The Flash does successfully beat Superman in a race in ''Adventures of Superman'' #463 with the explanation that Superman is unused to running at high speed for extended periods of time since flying is more versatile and less strenuous, which means the far more practiced Flash has the advantage. After [[Final Crisis]] in [[The Flash: Rebirth|Flash: Rebirth #3]] the Flash is shown as being much faster than Superman, easily outstripping him as Superman tries to keep up with him. He claims that those times that the races between them were close were "for charity".
+
+Speedsters may at times use the ability to speed-read at incredible rates and in doing so, process vast amounts of information.  Whatever knowledge they acquire in this manner is usually temporary (Bart Allen seems to be the exception, though in earlier years, Max Mercury believed that Bart's speed learning would not stick).
+
+Flashes and other super-speedsters also have the ability to speak to one another at a highly accelerated rate. This is often done to have private conversations in front of non-fast people (as when Flash speaks to Superman about his ability to serve both the [[Teen Titans|Titans]] and the JLA in ''The Titans'' #2).  Speed-talking is also sometimes used for comedic effect where Flash becomes so excited that he begins talking faster and faster until his words become a jumble of noise (Wally West once became so surprised that he generated a small sonic boom with his voice).
+
+==Other versions==
+[[Image:Flash Rei.png|thumb|Tanaka Rei from ''Legends of the DC Universe: Crisis on Infinite Earths''. Art by Paul Ryan and Bob McLeod.]]
+In the final issue of ''[[52 (comic book)|52]]'', a new Multiverse is revealed, originally consisting of 52 identical realities.  Among the parallel realities shown is one designated "Earth-2".  As a result of [[Mister Mind]] "eating" aspects of this reality, it takes on visual aspects similar to the pre-Crisis Earth-2, including the Flash among other Justice Society of America characters.  The names of the characters and the team are not mentioned in the panel in which they appear, but the Flash is visually similar to the Jay Garrick Flash.<ref>
+{{Comic book reference | title=[[52 (comic book)|52]] | issue=52 |date=May 2, 2007 | publisher=[[DC Comics]] | page=13 | panel=3 }}</ref>
+Based on comments by [[Grant Morrison]], this alternate universe is not the pre-Crisis Earth-2.<ref>{{cite web
+| url = http://forum.newsarama.com/showthread.php?t=111900
+| title = "the 52 exit interviews: grant morrison"
+| accessdate = 2007-05-12
+| last = Brady
+| first = Matt
+|date=2007-05-08
+| publisher = Newsarama
+}}</ref>
+
+A variant of the Flash - a superfast college student named Mary Maxwell - was seen in the Elseworld book ''[[Just Imagine...|Just Imagine]] Stan Lee Creating The Flash.''
+
+===Tanaka Rei===
+The Flash of [[Multiverse (DC Comics)#Earth-D|Earth-D]], Rei was a [[Japanese people|Japanese]] man who idolized Barry Allen, whose stories only existed in comic books on this world.  Rei was inspired by Allen to become the Flash, much like Allen was inspired to become the Flash by his idol, Jay Garrick.  Allen and Rei met during the "Crisis on Infinite Earths" when Barry was coming back from the 30th century and arrived in the wrong universe.  As Earth-D was under attack by the shadow demons, Barry called on the Justice League and Tanaka called on the Justice Alliance, his world's version of the Justice League.  They built a [[cosmic treadmill]] and were able to evacuate much of Earth-D's population.  The Justice League left, but 39 seconds later, Earth-D perished. 
+
+Rei made his only appearance in ''Legends of the DC Universe: Crisis on Infinite Earths'' (February 1999).  The story was written by [[Marv Wolfman]], with art by [[Paul Ryan (comics)|Paul Ryan]] (pencils) and Bob McLeod (ink).
+
+===Lia Nelson===
+[[Image:Tangent Flash.jpg|left|thumb|180px|Lia Nelson, the Tangent reality's Flash]]
+The young, female Flash of the [[Tangent Comics|Tangent]] Universe is not a [[Speedster (comics)|speedster]], but instead "the first child born in space" and a being made up of and able to control light.  As a side effect, she can move at the speed of light, which actually makes her faster than most of the other [[Post-Crisis]] Flashes, as only [[Wally West]] has ever survived a light-speed run without becoming trapped in the [[Speed Force]].<ref>
+{{Comic book reference | title=The Flash| issue=1 |date=December 1997 | publisher=[[Tangent Comics]] }}</ref> She recently reappeared in ''Justice League of America'' #16, somehow summoned out of the paper 'green lantern' of her universe - an artifact that survived the Crisis that erased the Tangent Universe from existence.<ref>
+{{Comic book reference | title=[[Infinite Crisis]] | issue=7 |date=2006 | publisher=[[DC Comics]] }}</ref>  Lia Nelson also appeared in ''Countdown: Arena'' battling two versions of the Flash from other Earths within the [[Multiverse (DC Comics)|Multiverse]].<ref>{{Comic book reference | title=[[Countdown: Arena]] | issue=3 |date=2007 | publisher=[[DC Comics]] }}</ref>  In the 52-Earth Multiverse, the Tangent Universe is designated [[List of DC Multiverse worlds|Earth-9]].
+
+===''Superman & Batman: Generations 2''===
+
+In ''[[Superman & Batman: Generations#Generations 2|Superman & Batman: Generations 2]]'', three different Flashes appear: Wally West as [[Kid Flash]] in 1964, Wally's cousin Carrie as Kid Flash in 1986, and Jay West, the son of Wally and his wife Magda as the fifth Flash in 2008.  Barry Allen makes a cameo appearance out of costume in 1964.
+{{-}}
+
+==Awards==
+
+The comics and characters have been nominated for and won several awards over the years, including:
+* ''1961 [[Alley Award]] for Best Cover'' (''The Flash'' (vol. 1) #123)
+* ''1961 Alley Award for Best Single Comic'' (''The Flash'' (vol. 1) #123 by Gardner Fox and [[Carmine Infantino]])
+* ''1963 Alley Award for Cross-Over of DC Heroes'' for ''[[The Brave and the Bold]]'' (with [[Hawkman]])
+* ''1964 Alley Award for Best Short Story'' ("Doorway to the Unknown" in ''The Flash'' (vol. 1) #148 by [[John Broome (writer)|John Broome]] and Carmine Infantino).
+* ''2008 Salou Award for Best Super Hero'' (''Flash - Danny Holmes'' by BUAFC)
+
+==In other media==
+{{Main|Flash in other media}}
+{{unreferenced|section|date=December 2010}}
+Throughout his 60 year history, the Flash has appeared in numerous media.  The Flash has been included in multiple animated features, such as ''[[Superfriends]]'' and ''[[Justice League (animated series)|Justice League]]'', as well as his own [[The Flash (TV series)|live action television series]] and some guest star appearances on ''[[Smallville]]''.  There are numerous video games that feature the character. 
+
+In the ''Challenge of the Superfriends'' series which ran from 1978-1979, he appears in every episode and has spoken lines in only twelve out of the sixteen episodes of the series.  He also had two arch enemies from the Legion of Doom, [[Captain Cold]] and [[Gorilla Grodd]].
+
+The Flash also appeared for one season (1990-1991) on the CBS network starring double-[[Emmy Award]] winner [[John Wesley Shipp]] as [[Barry Allen]].  Produced by Danny Bilson and [[Paul DeMeo]], the series was a mild amalgamation of the Barry Allen and [[Wally West]] versions of the comics in that the female lead was [[Tina McGee]] (portrayed by [[Amanda Pays]]) and Wally's need for large amounts of food after expending so much energy running all over [[Central City (DC Comics)|Central City]] was transferred to Barry.  After his lightning-induced chemical accident, Barry got into crime fighting after the death of his police officer brother, Jay; it is presumed that Jay was named for the original comic book Flash, [[Jay Garrick]].  A handful of the Scarlet Speedster's rogues gallery made guest appearances throughout the series: Captain Cold ([[Michael Champion]]) ("Captain Cold"), [[Mirror Master]] ([[David Cassidy]]) ("Done With Mirrors"), and the [[Trickster (comics)|Trickster]] ([[Mark Hamill]]) ("The Trickster" and "Trial of the Trickster").  The Flash also fought a clone of himself who wore a blue costume.
+
+A few episodes were written by comics legend [[Howard Chaykin]] and the TV costume was designed by [[Dave Stevens]] (''[[The Rocketeer]]'').  While a critical success and vigorously backed by the network, the series had the dubious distinction of being aired against ratings powerhouses ''[[The Cosby Show]]'' on [[NBC]] and [[Fox Broadcasting Company|Fox]]'s ''[[The Simpsons]]''. ''The Flash'' was preempted by Christmas specials and the [[Desert Storm]] war in Iraq, and constantly moved all over the schedule{{Citation needed|date=January 2010}}, and was cancelled after its first and only season.  Warner Brothers released the series in a 6-disc DVD box set on January 10, 2006.
+
+The series' main musical theme was composed by Danny Elfman, with the remainder of the episodes' music being composed by Shirley Walker (this collaboration would also occur on ''[[Batman: The Animated Series]]''). When the Flash made a guest appearance in the ''[[Superman: The Animated Series]]'' episode 'Speed Demons', Walker incorporated some of the themes from the live-action series into the episode.
+
+In the music scene, the band [[Jim's Big Ego]] released a song called "The Ballad of Barry Allen" on their album "They're Everywhere". The song portrays Barry as a tragic character, whose perception of the world is so accelerated that all of reality appears to proceed at a snail's pace, causing him to gradually slip into depression. The band's frontman, [[Jim Infantino]], is the nephew of Flash co-creator [[Carmine Infantino]], who provided the cover art for the same album. 
+
+The Flash is a playable character in the [[Mortal Kombat]] and [[DC Comics]] crossover game ''[[Mortal Kombat vs. DC Universe]]''.  The first official render for The Flash was released to the public on Monday July 7, 2008.  From his bio we know that Flash in MK vs DC is Barry Allen.
+
+==In popular culture==
+
+Numerous references to the Flash are presented on the television show ''[[The Big Bang Theory]]''.
+
+The MegaMan character QuickMan happens to look a lot like the Flash due to his red and yellow color scheme.
+
+The [[first appearance]] of The Flash is one of the most valuable comic books in the world. In 2006, a near-pristine copy of Flash Comics #1 was sold in a [[Heritage Auctions|Heritage]] Auction for $273,125. The same book was then sold privately for $450,000 in 2010. <ref>{{cite web|url=http://itsalljustcomics.com/2010/03/16/edgar-churchmile-high-flash-comics-1-sells-for-450000/ |title=Edgar Church/Mile High Flash Comics #1 Sells for $450,000 » It's All Just Comics » Blog Archive |publisher=Itsalljustcomics.com |date=2010-03-16 |accessdate=2010-09-14}}</ref>
+
+==Rogues==
+{{Main|Rogues (comics)}}
+{{See also|List of Flash enemies}}
+Like [[Batman]], the Flash has a reputation for having fought a distinctive and memorable [[rogues gallery]] of supervillains.  In the Flash's case, some of these villains have adopted the term "Flash's Rogues Gallery" as an official title, and insist on being called "Rogues" rather than "supervillains" or similar names.  At times, various combinations of the Rogues have banded together to commit crimes or take revenge on the Flash, usually under the leadership of Captain Cold.
+
+The Rogues are known for their communal style relationship, socializing together and operating under a strict moral code, sometimes brutally enforced by [[Captain Cold]]. Such "rules" include "no drugs" and, except in very dire situations or on unique occasions, "no killing".
+
+Considering the blue collar nature of the Flash's Rogues, more than a few have protested the inclusion of [[Professor Zoom]] and [[Abra Kadabra (comics)|Abra Kadabra]], often labeling them [[Psychosis|psychotic]], as time travel generally works against their crimes and, at least in the original Zoom's case, they found him dangerous and too willing to kill.
+
+In contrast, several new Flash villains have been considered Rogues, including [[Murmur (DC Comics)|Murmur]], [[Double Down (comics)|Double Down]], and [[Peek-a-Boo (comics)|Peek-A-Boo]], but they play second fiddle to new incarnations of [[Captain Boomerang]], [[Zoom (comics)|Zoom]], [[Mirror Master]], and [[Inertia (DC Comics)|Inertia]] (a variation on [[Reverse-Flash]], clone of [[Bart Allen|Impulse]]).
+
+==Notes==
+
+{{Reflist}}
+
+==References==
+{{More footnotes|section|date=November 2009}}
+*[http://www.newsarama.com/comics/030930-Replacement-Flash.html Replacement Heroes: The Flash], [[Newsarama]], March 30, 2009
+<!-- The items below aren't a correct use of this kind of section and these should be turned into footnotes -->
+* ''Flash: Re-Birth'' (2009 mini-series)
+*[http://www.hyperborea.org/flash/ Hyperborea.org: Flash]
+* "How Do You Kill A Legend?" ''The Flash'' (vol. 1) #309 (May 1982) - [[Cary Bates]]
+* "Chain Lightning Part 2: Time Like a River..." - ''The Flash'' (vol. 2) #146 (March 1999), [[Mark Waid]] and [[Brian Augustyn]]
+* "Chain Lightning Part 3: Shooting the Rapids..." - ''The Flash'' (vol. 2) #147 (April 1999), Mark Waid and Brian Augustyn 
+* "Generations" - ''Flash 50th Anniversary Special'' (1990), Mark Waid 
+* "Race Against Time Part 3: Speed Metal" - ''The Flash'' (vol. 2) #115 (July 1996), Mark Waid
+*''DC One Million'' #1 (November 85,271/1998) - [[Grant Morrison]]
+* "The Sacrifice" - ''Speed Force'' #1 (November 1997), Mark Waid and Brian Augustyn
+
+==External links==
+{{Portalbox|United States|Comics}}
+* {{official|http://www.dccomics.com/sites/theflash/}}
+* {{imdb character|0000203|The Flash}}
+* [http://dc.wikia.com/wiki/Flash The Flash] at the DC Comics Database
+* {{dmoz|Arts/Comics/Titles/F/Flash|The Flash}} <!-- Following: [[WP:ELMAYBE]]. It might be worth cleaning up the links below by submitting them to DMOZ and/or use as footnotes -->
+* [http://www.fourthhorsemanpress.com/Flash/ Crimson Lightning] - An online index to the comic book adventures of the Flash.
+* [http://www.monitorduty.com/2005/12/alan-kistlers-profile-on-the-flash-part-1 Alan Kistler's Profile On: The Flash] - An analysis of the history of the Flash by comic book historian Alan Kistler.
+* [http://www.toonopedia.com/flash1.htm Golden Age Flash Toonopedia entry]
+* [http://www.toonopedia.com/flash2.htm Silver Age Flash Toonopedia entry]
+* [http://www.monitorduty.com/2005/10/alan-kistlers-guide-to-the-crisis-phases-1-6 Alan Kistler's Guide To The Crisis]
+* [http://www.hyperborea.org/flash/ The Flash: Those Who Ride The Lightning] - Fan site with information about the super-speed characters of the DC Universe.
+* [http://darkmark6.tripod.com/flashind.html Index to Barry Allen's Earth-One adventures]
+* [http://comicfoundry.com/?p=1513 comicfoundry.com] Conversation with Flash writers Danny Bilson and Paul DeMeo about Bart Allen as the new Flash
+
+{{Flash}}
+
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics characters with accelerated healing]]
+[[Category:DC Comics metahumans]]
+
+[[bg:Светкавицата]]
+[[ca:Flash (còmic)]]
+[[cs:Flash (komiks)]]
+[[de:Roter Blitz]]
+[[es:Flash (cómic)]]
+[[fr:Flash (DC comics)]]
+[[it:Flash (fumetto)]]
+[[he:פלאש (קומיקס)]]
+[[ka:ფლეში (კომიქსი)]]
+[[hu:Flash (DC Comics)]]
+[[nl:Flash (DC Comics)]]
+[[ja:ザ・フラッシュ]]
+[[oc:Flash (DC comics)]]
+[[pt:Flash (DC Comics)]]
+[[ru:Флэш (DC Comics)]]
+[[sc:Flash]]
+[[simple:The Flash]]
+[[fi:Salama (sarjakuvahahmo)]]
+[[sv:Flash (Blixten)]]
+[[tr:Flash (hayalî karakter)]]
+[[zh:閃電俠]]

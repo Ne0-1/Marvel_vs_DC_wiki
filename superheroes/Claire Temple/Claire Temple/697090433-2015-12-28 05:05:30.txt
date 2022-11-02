@@ -1,0 +1,78 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Claire Temple
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[Marvel Comics]]
+| debut          = 
+| first_series   = 
+| first_episode  = 
+| first_comic    = 
+| creators       = 
+| voiced_by      = 
+| based_on       = 
+| alter_ego      = 
+| full_name      =
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = <!-- optional -->
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = Trained nurse
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = 
+| sortkey        = Claire Temple
+| addcharcat#    = 
+}}
+
+'''Claire Temple''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Fictional character biography==
+Claire Temple is the ex-wife of [[Bill Foster (comics)|Bill Foster]] and a romantic interest of [[Luke Cage]]. In her earliest portrayals, she was a nurse for Dr. Noah Burstein and his 42nd Street Storefront Clinic.<ref>*{{ Cite comic
+ | writer=[[Archie Goodwin (comics)|Goodwin, Archie]]
+ | penciller=[[George Tuska|Tuska, George]]
+ | inker=[[Billy Graham (comics)|Graham, Billy]]
+ | letterer=[[John Costanza|Costanza, John]]
+ | editor=Lee, Stan
+ | story=Vengeance is Mine!
+ | title=[[Hero for Hire]]
+ | volume=1
+ | issue=2
+ | date=August 1972 
+ | publisher=[[Marvel Comics]]
+ | location=[[New York, NY]]
+ }}</ref> Claire encountered an injured Luke Cage and the two soon became romantically involved.{{issue|date=February 2015}} Claire left Luke temporarily when her ex-husband Bill Foster asked her to help him in Los Angeles.{{issue|date=February 2015}} Despite Claire's pleas for Cage not to follow her, Luke did pursue Claire to California and helped free her ex-husband from the [[Circus of Crime]].{{issue|date=February 2015}} Luke and Claire reconciled and the two returned to New York City.{{issue|date=February 2015}}
+
+Claire grew tired of Luke's constant exposure to dangers and the two separated.{{issue|date=February 2015}} Claire went on to become a doctor and served as such in the New York City area.{{issue|date=February 2015}}
+
+==Powers and abilities==
+Claire Temple is a trained nurse.
+
+==In other media==
+===Television===
+In the Netflix series ''[[Daredevil (TV series)|Daredevil]]'', [[Rosario Dawson]] plays a version of the character that is a composite of Claire Temple and [[Night Nurse (comics)|Night Nurse]].<ref>{{cite web|url=http://time.com/3774475/rosario-dawson-netflix-daredevil/|title=Rosario Dawson on Being a Hero, Not a Love Interest, in Netflix’s Daredevil|publisher=[[Time (magazine)|Time]]|last=Dockterman|first=Eliana|date=April 8, 2015}}</ref>
+
+Dawson reprised her role in ''[[Jessica Jones (TV series)|Jessica Jones]]''<ref name="DawsonJJ">{{cite web|url=http://www.etonline.com/news/169023_jessica_jones_showrunner_confirms_daredevil_crossover/|title='Jessica Jones' Showrunner Teases a Super Suit for Krysten Ritter, Confirms 'Daredevil' Crossover|last=Boone|first=John|publisher=[[Entertainment Tonight]]|date=July 30, 2015|accessdate=July 31, 2015|archiveurl=http://www.webcitation.org/6aQCuGzZ7|archivedate=July 31, 2015|deadurl=no}}</ref> She appears in the episode "AKA Smiles" where she helps Jessica Jones tend to Luke Cage's injuries.
+
+Dawson will reprise her role in ''[[Luke Cage (TV series)|Luke Cage]]''.<ref>http://www.comicbookresources.com/article/netflixs-luke-cage-adds-rosario-dawson-theo-rossi</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{comicbookdb|type=character|id=26672|title=Claire Temple}}
+
+{{Luke Cage}}
+
+{{DEFAULTSORT:Temple, Claire}}
+[[Category:Characters created by Archie Goodwin]]
+[[Category:Characters created by George Tuska]]
+[[Category:Comics characters introduced in 1972]]
+[[Category:Fictional nurses]]
+[[Category:Marvel Comics characters]]
+
+{{Marvel-char-stub}}

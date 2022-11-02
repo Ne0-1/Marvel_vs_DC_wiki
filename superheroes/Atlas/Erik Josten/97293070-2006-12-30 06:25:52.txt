@@ -1,0 +1,44 @@
+{{cleanup-date|January 2006}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Atlas (comics).png|240px]]
+|caption=Atlas, from the cover of ''New Thunderbolts'' #12<br>Art by [[Tom Grummett]].
+|comic_color=background:#ff8080
+|character_name=Atlas 
+|real_name=Erik Josten
+|publisher=[[Marvel Comics]]
+|debut=''Avengers'' (first series) #21 (1965) (as Power Man)<br>''Spectacular [[Spider-Man]]'' (first series) #49 (1980) (as Smuggler)<br>''[[Iron Man]] Annual'' #7 (as Goliath)<br>''Thunderbolts'' (first series) #1 (as Atlas)
+|creators=Stan Lee, Jack Kirby
+|alliance_color=background:#ffc0c0
+|alliances=[[Thunderbolts (comics)|Thunderbolts]]<br>[[Lethal Legion]]<br>[[Masters of Evil]]
+|aliases=[[Power Man]], Smuggler, Goliath III.
+|powers=Mass and size manipulation<br>Superhuman strength|}}
+
+:''This article is about the Marvel Comics character Atlas. For the comic book series by Dylan Horrocks see [[Atlas (comic series)]], for companies of that name, see [[Atlas Comics (1950s)]] or [[Atlas/Seaboard Comics]]''.
+
+'''Atlas''' ('''Erik Josten'''), formerly '''Power Man''', '''Smuggler''' and '''Goliath''', is a [[fictional character]], a former [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]] and member of the [[Thunderbolts (comics)|Thunderbolts]].
+
+==Fictional character history ==
+
+Josten was originally a mercenary who was convinced by the [[Enchantress (Marvel Comics)|Enchantress]] to undergo the same 'ionic-ray' treatment (from a machine invented by [[Baron Zemo]]) as [[Wonder Man]], making Josten super-strong. Taking the name Power Man, he became the Enchantress's partner for a while, but later struck out on his own. He became a professional supervillain, joining such teams as the [[Lethal Legion]] and the [[Masters of Evil]]. 
+
+Eventually, Josten met [[Luke Cage]], a hero who for a brief time had assumed the name Power Man. The two fought; Cage won. 
+
+[[Image:PowerMan21.jpg|thumb|200px|left|How super-characters settle trademark issues: ''Luke Cage, Power Man'' #21 (Oct. 1974). Cover art by [[Ron Wilson (disambiguation)|Ron Wilson]] and [[Frank Giacoia]].]]
+
+Josten's powers were greatly reduced when [[Count Nefaria]] stole them (along those of the his other superhuman underlings.) His strength fading, he changed his costume and became a smuggler, taking the unimaginative name [[Smuggler (comics)|the Smuggler]].
+
+Later, he gained the ability to grow to giant size from the criminal [[Doctor Malus]], who used a sample of [[Henry Pym]]'s growth serum. He then took on the name '''Goliath''', a name used previously by [[superheroes]] (see [[Goliath (comics)|Goliath]], [[Black Goliath]]) and again changed his costume.
+
+Josten joined a new version of the Masters of Evil, founded by the second Baron Zemo. During his time with this group, Josten was one of the villains who invaded Avengers Mansion and beat [[Hercules (comics)|Hercules]] severely <!--phrase "nearly to death" requires explanation, as he's a demigod-->. When Zemo decided to disguise the Masters as a superhero team called The [[Thunderbolts (comics)|Thunderbolts]], Josten created the original identity (and costume) of Atlas. However, like most of the Thunderbolts, Atlas began to enjoy public admiration, and eventually reformed to become a genuine superhero, even after the Thunderbolts' criminal past was publicly revealed. After absorbing the energy from one of Nefaria's weapons, an "ionic bomb", Josten mutated into an "ionic energy creature" similar to what Wonder Man had become. In this form, he came to inhabit the body of [[Dallas Riordan]], a woman he loved. 
+
+When they were separated, Dallas took the ionic energy, leaving Josten powerless, a situation which lasted until [[Fixer (comics)|Fixer]] gave him a new dose of Pym particles.  This lasted until the end of the ''Avengers/Thunderbolts'' limited series, when Erik asked Henry Pym to remove the particles from his system.
+
+However, in ''New Thunderbolts'' #1, he regained the ability to change his size, by reclaiming the ionic energy from Dallas, leaving her a paraplegic again.
+
+==External links==
+*[http://www.marvel.com/universe/Atlas_%28Erik_Josten%29 Atlas (Erik Josten) on the Marvel Universe Character Bio Wiki]
+*[http://www.marveldirectory.com/individuals/a/atlas.htm Atlas - Marveldirectory]
+
+[[Category:Marvel Comics mutates]]
+[[Category:Masters of Evil members]]
+[[Category:Fictional characters with the power to change their size|Josten, Erik]]

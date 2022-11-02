@@ -1,0 +1,33 @@
+{{Superherobox|
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Overmind
+|real_name=Grom
+|publisher=[[Marvel Comics]]
+|debut=[[Fantastic Four]] (1st series) #113 ''(August 1971)''
+|creators=[[Stan Lee]] & [[John Buscema]]
+|alliance_color=background:#ffc0c0
+|status=active
+|alliances=[[Thunderbolts (comics)|Thunderbolts]]
+|previous_alliances=Eternals of Eyung, the Psychics, [[Defenders (comics)|Defenders]]
+|aliases=
+|relatives=
+|powers=Transform psionic energy<br>Superhuman strength
+|}}
+
+'''Overmind''' is a [[villain]] in the [[Marvel Comics]] universe. 
+
+==History==
+The Overmind is an alien belonging to the Eternals of Eyung, and was born several millenia ago. He became evil and destroyed a number of alien planets in his wake. He even attacked the Eternals themselves but was defeated. Angry, he decided that the next planet he had to destroy should be planet Earth. There he was discovered by the [[Fantastic Four]], who eventually defeated the mad alien.
+
+Returning to space, he became lonely. Discovered by the alien known as Null, Null took control of the Overmind and sent him back to Earth to battle the original team of Defenders. They returned Grom to normal and invited him to stay with them. Overmind accepted and for a time became an ally to the Defenders. However the Eternals wouldn't leave him alone and sought vengeance, and Overmind seemingly died in a void. 
+
+Overmind was revealed to be alive when a group of Psychics seemed to live in his head. He was located by [[Quasar (comics)|Quasar]] and the [[Squadron Supreme]]. The heroes freed Overmind from the Psychic's influence, though he went in a coma afterward. Waking up from his coma Overmind apparently believed himself to be a true villain and joined the [[Mad Thinker]]'s quest in defeating the Fantastic Four once and for all, and became part of the organization the Mad Thinker had forged out of the FF's greatest foes.
+
+Escaping before the Fantastic Four could defeat him, Overmind was once again mind controlled, this time by the [[Purple Man]] who ordered him to spy on the [[Thunderbolts]]. When the Thunderbolts arrived to save the day, they defeated Purple Man, but Overmind had vanished from sight. He was eventually located during the [[Civil War (comics)|Civil War]] event, found by [[Baron Zemo]] and his Thunderbolts. He was forced to join the group or else face jail time. 
+
+{{Marvel-villain-stub}}
+
+[[Category:1971 introductions]]
+[[Category:Fantastic Four villains]]

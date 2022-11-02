@@ -1,0 +1,489 @@
+{{otheruses}}
+{{Out of date|date=March 2012}}
+{{Infobox comics set and title
+<!--Wikipedia:WikiProject Comics-->
+<!--Character section-->
+<!-- |code_name           = Nightwing -->
+|image               = Nightwing v1 1.jpg
+|noimage             = yes - Multiple characters with multiple looks. Get a consensus before adding an image here.
+|imagesize           =
+|caption             =
+|publisher           = [[DC Comics]]
+|debut               = '''Superman as Nightwing:'''<br />''Superman'' #158 (January [[1963 in comics|1963]])
+|writer1             = [[Edmond Hamilton]]
+|artist1             = [[Curt Swan]]
+|characters          = [[Superman|Kal-El]]/[[Clark Kent]]<br />[[Nightwing#Van-Zee|Van-Zee]]<br/>'''[[Dick Grayson]]'''<br />[[Nite-Wing|Tad Ryerstad]]<br />[[Jason Todd]]<br />[[Power Girl|Kara Zor-L/Karen Starr]]<br />[[Cheyenne Freemont]]<br />[[Chris Kent (comics)|Lor-Zod/Chris Kent]]
+|seealso             =
+
+<!--Series section-->
+<!-- |title               = Nightwing -->
+|cvr_image           = 
+|cvr_caption         = ''Nightwing'' (vol. 1) #1 (September 1995)<br>Featuring the Dick Grayson version of the character.<br>Art by [[Brian Stelfreeze]].
+|schedule            = '''(vol 1)'''<br>Monthly<br>'''(vol 2)'''<br>Monthly (1-100, 107-153)<br>Bi-weekly (101-106)<br>'''(vol 3)'''<br>Monthly
+|format              = '''(vol 1)'''<br>[[Limited Series]]<br>'''(vol 2)'''<br>[[Ongoing series]]<br>'''(vol 3)'''<br>[[Ongoing series]]
+|limited             = Y
+|ongoing             = Y
+|Superhero           = y
+|pub_series          = DC Comics
+|1stishhead          = vol 1
+|1stishyr            = 1995
+|1stishmo            = September
+|endishyr            = 1995
+|endishmo            = December
+|1stishhead1         = vol 2
+|1stishyr1           = 1996
+|1stishmo1           = October
+|endishyr1           = 2009
+|endishmo1           = February
+|1stishhead2         = vol 3
+|1stishyr2           = 2011
+|1stishmo2           = September
+|endishyr2          = present
+|issues              = '''(vol 1)'''<br>4<br>'''(vol 2)'''<br>154 (includes an issue numbered 1000000)<br>'''(vol 3)'''<br>11 (As of July 2012)
+|main_char_team      = Dick Grayson
+|writers             = [[Chuck Dixon]]<br />[[Devin Grayson]]<br />[[Bruce Jones (comics)|Bruce Jones]]<br />[[Marv Wolfman]]<br />[[Peter Tomasi]]
+|artists             = [[Scott McDaniel]]<br />[[Greg Land]]<br />Trevor McCarthy<br />[[Rick Leonardi]]<br />[[Patrick Zircher]]<br />[[Mike Lilly]]<br />[[Phil Hester (comics)|Phil Hester]]<br />Joe Dodd<br />[[Dan Jurgens]]<br />[[Jamal Igle]]<br />[[Rags Morales]]<br />[[Don Kramer]]
+|pencillers          =
+|inkers              =
+|letterers           =
+|colorists           =
+|editors             =
+|creative_team_month =
+|creative_team_year  =
+|creators_series     =
+|TPB                 =
+|ISBN                =
+|nonUS               =
+|cat                 = super
+|subcat              = DC Comics
+|altcat              =
+|hero                = y
+|villain             = y
+|sortkey             = Nightwing
+|sort_title          = Nightwing
+}}
+'''Nightwing''' is a name that has been used by several [[fictional character|fictional]] characters in the [[DC Comics]] [[DC Universe|Universe]]. It was conceived as a [[Kryptonian]] analogue to the character of [[Batman]], with Nightwing's frequent partner [[Flamebird]] based on [[Robin (comics)|Robin]]. The Nightwing persona originates with a Kryptonian vigilante taking the name of the "nightwing", a bird native to the planet Krypton.
+
+Prior to DC's [[retcon|continuity-altering]] 1985 limited series, ''[[Crisis on Infinite Earths]]'', the Nightwing identity was depicted as an invention of [[Superman]]'s during a time when he and [[Jimmy Olsen]] act as vigilantes in the Kryptonian city of [[Kandor]]; Superman draws inspiration from his encounters with Batman and Robin. Post-''Crisis'', the name is attributed to a historic Kryptonian crimefighter; this hero serves as an inspiration for [[Dick Grayson]] when he sheds his Robin identity and assumes the name and a new costume. Grayson was featured in an ongoing ''Nightwing'' series between 1996 and 2009.
+
+==Fictional character biography==
+===Pre-Crisis===
+====Superman====
+Nightwing is first depicted in the story "Superman in Kandor" in ''[[Superman (comic book)|Superman]]'' (vol. 1) #158 (January 1963).  It is an alias used by [[Superman]] in pre-[[Crisis on Infinite Earths|Crisis]] adventures written by [[Edmond Hamilton]].  These stories are set in the city of [[Kandor]], a [[Krypton (comics)|Kryptonian]] city that was shrunken and preserved in a bottle. In Kandor, Superman has no [[Superpower (ability)|superpowers]]; in the story, he is branded an outlaw there due to a misunderstanding. To disguise themselves, Superman and [[Jimmy Olsen]] create vigilante identities inspired by [[Batman]] and [[Robin (comics)|Robin]]. Because neither Batman nor Robin lived on Krypton, Superman chooses the names of two birds owned by Superman's Kandorian friend Nor-Kan: "Nightwing" for himself and costumes evocative of the birds' plumage. Nightwing and Flamebird rename Nor-Kan's underground laboratory as the "Nightcave", and use it as their secret headquarters. They also convert Nor-Kan's automobile into their "Nightmobile", and use "jet-belts" to fly into battle.
+[[Image:Superman v1 158.png|thumb|left|Superman and Jimmy as Nightwing and Flamebird respectively. From ''Superman'' #158 (1963). Art by [[Curt Swan]].]]
+In ''Jimmy Olsen'' #69 (June 1963), "The Dynamic Duo of Kandor" introduces Nightwing's dog Nighthound. In "The Feud Between Batman and Superman" in ''[[World's Finest Comics|World's Finest]]'' #143 (August 1964), Batman and Robin themselves visit Kandor with Superman and Olsen and the two Dynamic Duos team up.
+
+====Van-Zee====
+In ''[[Superman Family]]'' #183 (May/June 1977), Superman's [[look-alike]] second cousin Van-Zee and his niece's husband Ak-Var take up the Nightwing and Flamebird identities. The vigilantes take on crime in their city as had Superman and Olsen before them.
+
+====Dick Grayson====
+Both Nightwing and Flamebird team up with Batman and Robin for an adventure in Kandor that proves important to the young [[Dick Grayson]]. [[Fictional history of Dick Grayson#Nightwing|When Dick later gives up his role as Robin in 1984]], he recalls the Kandorian adventure and renames himself Nightwing, in homage to both Batman and Superman.<ref>''Tales of the Teen Titans'' #44 (July 1984)</ref> After the events of the ''Crisis on Infinite Earths'' re-boot of the [[DC Universe]], Superman no longer has knowledge of Kandor; instead, he remembers Nightwing as an urban legend of Krypton, which he shares with a young Dick Grayson.<ref>''Nightwing'' (vol. 2) #102 (March 2005)</ref>
+
+===Post-Crisis===
+====Kryptonian mythological figure====
+Post-Crisis, there is a different originator of the Nightwing identity. Several hundred years before the birth of [[Kal-El]], there was an unnamed Kryptonian man who was cast out from his family and decided to take on crime as the vigilante Nightwing.<ref>''Secret Files and Origins'' #1 (October 1999)</ref> When Superman tells Dick Grayson of this story, Dick takes the name for himself.
+
+====Dick Grayson====
+{{Main|Dick Grayson}}
+[[Image:nw41.jpg|thumb|right|175px|Dick Grayson in his Nightwing costume from ''Nightwing'' #41 (March 2000).<br />Pencils by [[Greg Land]].]]
+
+[[Fictional history of Dick Grayson#Post-Crisis|Dick Grayson became Nightwing]] after he was dismissed from the role of Robin at eighteen. Grayson's Flamebird was [[Bette Kane]]. He was featured in a ''Nightwing'' series from 1996 to 2009; after Wayne's [[comic book death|apparent death]], Grayson became the new Batman, subsequently retiring his Nightwing mantle temporarily.
+
+Grayson's Nightwing costume was a high-tech suit specially designed for his high-flying [[acrobatics|acrobatic]] style. His gauntlets and boots each contained eight compartments in which he could store items. They had a self-destruct feature built into them, similar to the ones in [[Batman's utility belt]], and, as another security measure, the suit contained a one-use-only [[taser]] charge, which automatically emitted a high-voltage electrical shock when someone attempted to tamper with either the boots or gauntlets. Each gauntlet's sections could contain a wide array of equipment, such as sonic or smoke pellets, modified [[batarang]]s ("Wing-Dings"), knockout gas capsules, throwable tracers, and a sedative-tipped dart launcher. The right gauntlet was also equipped with a 100,000-volt [[Electroshock weapon|stun gun]]. Like the gauntlets, his boot compartments could carry vital equipment such as [[Flare (pyrotechnic)|flares]], a [[rebreather]] as protection against any airborne non-contact toxins, a mini-computer equipped with [[fax]], [[modem]], [[GPS]], and a minidisk re-writable drive. Other items were [[Lock picking|lock picks]], a [[first-aid kit]], a mini-[[cellphone]], flexi-cuffs, [[antitoxin]] assortment, wireless listening devices, and a small flashlight. After coming to New York, Dick added a black utility belt to his costume, eliminating the need for his boots and gauntlets. Held in spring-loaded pouches in the back of his costume, Dick carried a pair of [[Eskrima]] truncheons made from an unbreakable polymer that were wielded as both offensive and defensive weapons. Some depictions displayed these tools with the mechanism to shoot a grappling hook attached to a swing line (like [[Daredevil (Marvel Comics)|Daredevil]]'s [[Club (weapon)|billy clubs]]), while, in other instances, he was either seen using a "line gun" like the one Batman uses or using the grappling/swing lines either stored in or able to be launched from his gauntlets. Other versions, particularly [[Batman: Arkham City]], depict the clubs as having electrically charged tips, acting like stun sticks. Together, they can emit a radial pulse of electricity to knock opponents off their feet. The clubs could also be thrown with such skill by Grayson (and possibly due to their design) that they would ricochet off walls and objects to hit multiple targets, then return to his hands.
+
+====Superman====
+In 2001's ''[[Superman: The Man of Steel]]'' #111, Superman and [[Lois Lane]] travel to a [[Krypton (comics)#Revisiting Krypton|version of Krypton]] later revealed to have been created by the villainous [[Brainiac (comics)#Brainiac 13|Brainiac 13]] and based on Jor-El's favorite period in Kryptonian history.<ref name="action793">{{Cite comic
+ | writer = [[Joe Kelly (comics)|Kelly, Joe]]
+ | penciller = [[Pasqual Ferry|Ferry, Pascual]]<!--spelled "Pascual" in comic's credits-->
+ | inker = [[Cam Smith|Smith, Cam]]
+ | story = Return to Krypton II, Part Four: Dream's End
+ | title = [[Action Comics]]
+ | issue = 793
+ | date = September 2002
+ | publisher = DC Comics
+ | location = New York
+ | page = 20
+ }}</ref> Labeled as criminals, Superman and Lois become fugitives, adopting the Nightwing and Flamebird identities to survive, just as had Superman and Olsen in ''Superman'' #158.<ref name="mos111">{{Cite comic
+ | writer = [[Mark Schultz (comics)|Schultz, Mark]]
+ | penciller = [[Doug Mahnke|Mahnke, Doug]]
+ | inker = Nguyen, Tom
+ | story = Return to Krypton Part Three: The Most Dangerous Kryptonian Game
+ | title = [[Superman: The Man of Steel]]
+ | issue = 111
+ | date = April 2001
+ | publisher = DC Comics
+ | location = New York
+ }}</ref>
+
+====Tad Ryerstad====
+In [[Blüdhaven]], a sociopath named [[Nite-Wing|Tad Ryerstad]] becomes a superhero, inspired by the retired hero [[Tarantula (DC Comics)|Tarantula]]. He takes his name, "Nite-Wing", from an all-night deli specializing in chicken wings. Unstable, Nite-Wing beats people for minor offenses. Nite-Wing is shot on his first night out and Dick Grayson, as Blüdhaven's protector Nightwing, defends him from [[Blockbuster (DC Comics)#Roland Desmond|Blockbuster]]'s gang, who think it is Nightwing who has been injured. After Nite-Wing is released from the hospital, he kills the gang who put him there. Not realizing how violent Ryerstad is, Grayson agrees to train him. The two attack Blockbuster's organization, but are captured and separated. After an undercover [[Federal Bureau of Investigation|FBI]] agent frees Nite-Wing, Ryerstad beats him to death, and when he realizes what he has done, Ryerstad flees.<ref>''[[Birds of Prey (comics)|Birds of Prey]]'' #20</ref> Nightwing subsequently tracks down and incarcerates Nite-Wing.<ref>''Nightwing'' (vol. 2) #47</ref> In prison, Ryerstad is cell-mates with [[Torque (comics)|Torque]] (Dudley Soames), but the two escape by drugging the prison guard [[Amygdala (comics)|Amygdala]].
+
+====Jason Todd====
+[[Bruce Jones (comics)|Bruce Jones]]' ''Nightwing'' (vol. 2) #118-122<ref>{{cite web| url=http://www.dccomics.com/dcu/comics/?cm=6772 | title=Nightwing: Brothers in Blood | publisher=DC Comics | accessdate=September 14, 2010}}</ref> run features [[Jason Todd]] prowling the streets of New York City under the guise of Nightwing, copying Grayson's costume.
+
+====Cheyenne Freemont====
+[[Image:CFreemont HCV.jpg|185px|thumb|left|Cheyenne Freemont as Nightwing counterpart.]]
+The "[[One Year Later]]" storyline features a [[metahuman]] fashion designer named '''Cheyenne Freemont''' donning a modified Nightwing costume to help Grayson.
+
+====Power Girl====
+[[Image:Nightwing Kandor.jpg|thumb|right|[[Power Girl]] as Nightwing. Art by [[Ed Benes]].]]
+In Greg Rucka's ''[[Supergirl]]'' (vol. 5) #6, [[Power Girl]] and Supergirl assume the identities of Nightwing and Flamebird in a story set in Kandor, just as in the original pre-Crisis stories featuring Superman.
+
+====Chris Kent====
+{{Main|Chris Kent (comics)}}
+
+Chris Kent, son of [[General Zod]], was Nightwing during ''[[Superman: New Krypton]]''.  In that storyline, Superman was coming to terms with the death of his adoptive father; he was also dealing with 100,000 Kryptonians now living on Earth, which he had released from the bottled cities on [[Brainiac (comics)|Brainiac]]'s ship (the same ship that contained the lost Kryptonian city of Kandor). At the end of the fourth issue of the arc, a new Nightwing and Flamebird appear in Superman's [[Fortress of Solitude]] to stop two of Zod's followers (who were living in Kandor) from releasing the Kryptonian General from his [[Phantom Zone]] imprisonment. While guarding the projector in order to prevent any Zod loyalists from freeing him from the Phantom Zone, both Flamebird and Nightwing exhibit powers that are not inherent to normal Kryptonians. Flamebird projects flames from her hands, and Nightwing uses "natural tactile [[telekinesis]]". The pair seems to be stronger than normal Kryptonians: they knock out the two Zod loyalists with one blow apiece. In a later appearance, the duo is seen in [[Gotham City]]. Unlike previous portrayals, it seems Flamebird believes herself to be the dominant partner. When the Kryptonians led by Zod and Alura flee to a new Krypton orbiting the Sun, Nightwing and Flamebird stay in Gotham. In ''Action Comics'' #875, that Nightwing is revealed as the son of Zod and Ursa, [[Chris Kent (comics)|Chris Kent]]. The "Nightwing" identity is revealed to be based on a mythical Kryptonian creature, whose existence is intertwined with that of its partner beast, the Flamebird. Inside the [[Phantom Zone]] Chris' mind interfaced with a piece of [[Brainiac (comics)|Brainiac]] technology, awakening a long-dormant connection to the Nightwing, and linking his mind to that of [[Thara Ak-Var]], who had a connection to the Flamebird.<ref>''Action Comics'' Annual #12</ref>
+
+==Other uses in comic books==
+* In the DC Comics "[[Tangent Comics]]" [[fifth-week event]], "Nightwing" is a mystical society.
+* In the [[Elseworlds]] series ''[[Superman & Batman: Generations]]'', "Knightwing" is the identity adopted by Clark Wayne ([[Superman]]'s biological grandson, adopted by Bruce Wayne, Jr.) after he grows out of the [[Robin (comics)|Robin]] identity. Bruce had wanted Clark to take on the [[Batman]] identity, but Clark declines, saying that only true members of the Wayne family should be Batman, revealing that he knew he was adopted. When Superman is brought back from the Phantom Zone and discovers the [[Ultra-Humanite]]'s cure for [[Kryptonite|Gold Kryptonite]], he gives some to Knightwing, which gives him [[Powers and abilities of Superman|powers comparable to his grandfather]], but weaker as he is only a quarter-Kryptonian.
+* [[Barbara Gordon]] will appear as Nightwing alongside Batman when the character makes his long-awaited appearance in the ''[[Smallville]]'' universe in the "Detective" story arc of the ''[[Smallville_season_11#Other_media|Smallville: Season 11]]'' series.<ref>{{cite news|author=Rich Sands|url=http://www.tvguide.com/News/Smallville-Season-11-1048845.aspx/ |title=''Smallville'' Season 11 Comic Book Welcomes Batman -- and Nightwing! |publisher=[[TV Guide]] |date=June 14, 2012 |accessdate=June 14, 2012}}</ref> This role was originally to be filled by [[Stephanie Brown (comics)|Stephanie Brown]], but DC editorial withdrew permission to use the character after her appearance had already been announced and solicited, necessitating Gordon again replace her. <ref>http://www.bleedingcool.com/2012/07/20/reading-between-the-lines-over-stephanie-brown-and-dc-comics/</ref>
+
+==Ongoing series==
+===Story arcs===
+Based on Nightwing's increasing popularity, DC Comics decided to test the character's possibilities with a one-shot book and then a miniseries.
+
+First, in ''Nightwing: Alfred's Return'' #1 (1995), Grayson travels to [[England]] to find [[Alfred Pennyworth|Alfred]], who resigns from Bruce Wayne's service following the events of ''KnightSaga''. Before returning to Gotham City together, they prevent a plot by British [[terrorist]]s to destroy the undersea "[[Channel Tunnel]]" in the [[English Channel]].
+
+Later on, with the ''Nightwing'' miniseries (September 1995 to December 1995, written by [[Dennis O'Neil]] with [[Greg Land]] as artist), Dick briefly considers retiring from being Nightwing forever before family papers uncovered by Alfred reveal a possible link between the murder of the [[Flying Graysons]] and the Crown Prince of Kravia. Journeying to Kravia, Nightwing (in his third costume) helps to topple the murderous Kravian leader and prevent an ethnic cleansing, while learning his parents' true connection to the Prince.
+
+====Blüdhaven====
+In 1996, following the success of the miniseries, DC Comics launched a monthly solo series featuring Nightwing (written by [[Chuck Dixon]], with art by [[Scott McDaniel]]), in which he patrols Gotham's neighboring municipality of [[Blüdhaven]].
+
+At Batman's request, Dick journeys to this former whaling town-turned-industrial center to investigate a number of murders linked to Gotham City gangster [[Black Mask (comics)|Black Mask]]. Instead, he finds a city racked by police corruption and in the grips of organized crime consolidated by Roland Desmond, the gargantuan genius [[Blockbuster (DC Comics)#Roland Desmond|Blockbuster]].
+
+With a defenseless city to call his own, Nightwing decides to remain in Blüdhaven until Blockbuster's cartel is broken. This allows him to be close enough to Gotham to still be part of the [[Batman family]], and far enough as well to have his own city, adventures and enemies. He takes a job as a bartender to keep his ear to the ground and worked closely with Oracle (Barbara Gordon) in an effort to clean up the town. Blockbuster places a sizable contract on Nightwing's head shortly thereafter, while Grayson plies the unscrupulous Blüdhaven Police Inspector [[Torque (DC Comics)|Dudley Soames]] for information on the kingpin's dealings. Also during his time in Blüdhaven, Nightwing helps train a violent but enthusiastic street fighter called [[Nite-Wing]].
+
+====''Last Laugh'' and killing the Joker====
+When the Joker is told he is dying by his doctor, he unleashes Joker juice on the inmates at the Slab, causing a breakout. At the end of the arc, Nightwing is responsible for killing the Joker against the wishes of Batman and Oracle. Nightwing becomes depressed and Oracle tries to bring him out of it.<ref>''Birds of Prey'' #37</ref> Soon after, Batman manages to resuscitate the Joker.
+
+====Leader of the League====
+Sometime after "No Man's Land" ends, the JLA disappears on a mission to locate [[Aquaman]] and Atlantis (The Obsidian Age). Before they vanish, Batman instigates a contingency plan, in which a handful of heroes would be assembled to create a new JLA, consisting of Nightwing, [[Green Arrow]], [[Ray Palmer (comics)|the Atom]], [[Hawkgirl#Kendra Saunders|Hawkgirl]], [[Major Disaster]], [[Faith (comics)|Faith]], [[Firestorm (Ronnie Raymond)|Firestorm]] and [[Etrigan the Demon|Jason Blood]]. Nightwing is chosen to be leader until the original JLA are found, leading the group against the powerful Atlantean sorceress [[Gamemnae]] and helping to revive Aquaman to ask for his help in sinking Atlantis, but subsequently returns to the reserve list.
+
+====''Graduation Day'' and the Outsiders====
+For several years, Nightwing leads various incarnations of the Titans and becomes the most respected former sidekick in the DC Universe. However, in the ''[[Titans/Young Justice: Graduation Day]]'' [[fictional crossover|crossover]], a rogue [[Superman]] android kills [[Lilith (DC Comics)|Lilith]] and [[Donna Troy|Troia]], an event that tears apart both Young Justice and the Titans. At Troia's funeral, Dick declares he is tired of seeing friends die and disbands the team, officially ending the Titans. A few months later, Arsenal persuades Nightwing to join a new pro-active crime-fighting team: the [[Outsiders (comics)|Outsiders]], who would hunt villains, acting as co-workers rather than an extended family. He reluctantly accepts.
+
+''Outsiders'' writer [[Judd Winick]] takes a more Batman-like approach with Nightwing as team-leader, making him refuse any other kind of relation with his teammates than the direct work.
+
+====Death of Blockbuster====
+Dick plays a key role in exposing the corruption in the Blüdhaven Police Department. Despite reaching his original goals, Dick continues as a police officer during the day while spending nights as Nightwing, pushing himself to his limits and straining his relationships. The line between his police work and his [[vigilantism]] began to blur, and ultimately Amy Rohrbach (his friend and superior officer, who knew his secret identity) fires him rather than let him continue using questionable methods.
+
+Wrongfully blaming Nightwing for the death of his mother, the mob boss Blockbuster bombs Dick Grayson's apartment complex and promises to kill anyone in Dick's life. When the vigilante [[Tarantula (DC Comics)#Catalina Flores|Tarantula]] arrives, Nightwing chooses not to stop her when she shoots the villain dead.<ref>''Nightwing'' (vol. 2) #93</ref> He enters in a catatonic state after this action, and Tarantula takes advantage of his emotional trauma to have non-consensual sex with him—a rape. At length, Nightwing shakes himself from his depression and takes responsibility for his inaction. He captures Tarantula and turns himself in to the police. Amy, however, feels the world needs Nightwing free and so prevents him from being charged.
+
+Dick has destroyed the police corruption and removed the greater part of organized crime from this city, but his role in Blockbuster's death is still a source of tremendous guilt for him. He retires from crime fighting, with Tim Drake and [[Cassandra Cain]] as his replacements.
+
+Grayson moves to New York, where he works closely with the Outsiders. After "insiders" threaten both the Outsiders and the newest incarnation of Teen Titans, however, Nightwing realizes that the team has gotten "too personal" and quits.
+
+====''Infinite Crisis'' and ''52''====
+Due to a crisis of conscience, Dick adopts the new villainous persona of '''[[Dick Grayson|Renegade]]''' in order to infiltrate [[Lex Luthor]]'s [[Secret Society of Super-Villains]]. This ruse includes Nightwing aligning himself with his long-time enemy [[Deathstroke]] in order to track the manufacturing and distribution of Bane's venom serum and to keep tabs on the Society's activities in Gotham and [[Blüdhaven]]. He also begins training (and subtly converting) Deathstroke's daughter, [[Rose Wilson|Ravager]].
+
+Deathstroke takes revenge on Nightwing when Blüdhaven is destroyed by the Society. The Society drops the super villain [[Chemo (comics)|Chemo]] on the city, killing 100,000 people. Dick tries to rescue survivors but is overcome by radiation poisoning; only to be rescued himself by [[Batman]]. Nightwing confides that he let [[Blockbuster (DC Comics)|Blockbuster]] die and asks Batman to forgive him. Batman tells him that his forgiveness doesn't matter; Dick has to move beyond Blockbuster's death. Inspired by his mentor, he proposes to Barbara Gordon, who tearfully accepts his proposal with a kiss.
+
+Batman then entrusts Nightwing to alert other heroes about the danger that the Crisis poses. Dick flies to [[Titans Tower]], but due to the chaos resulting from the Blüdhaven disaster, the [[OMAC (comics)|OMAC]] onslaught and other Crisis related events, the only hero who answers his call is [[Superboy (Kon-El)|Conner Kent]]. Together, they locate and attack [[Alexander Luthor, Jr.|Alexander Luthor]]'s tower, the center of the Crisis, only to be repelled by [[Superboy-Prime]]. Prime is ready to kill Nightwing when Conner intervenes, sacrificing himself to destroy the tower, ending the destruction of the Universe.
+
+During the [[Battle of Metropolis]], Nightwing suffers a near-fatal injury from Alexander Luthor when he attempts to save Batman's life. Originally, the editors at DC intended to have Dick Grayson killed in ''Infinite Crisis'' as ''[[Newsarama]]'' revealed from the DC Panel at WizardWorld Philiadelphia:<ref>[http://www.newsarama.com/WWPhilly06/DC/DCUPanel.html WizardWorld Philadelphia: DCU panel]{{Dead link|date=September 2010}}</ref>
+
+{{cquote|It was again explained that Nightwing was originally intended to die in ''Infinite Crisis'', and that you can see the arc that was supposed to end with his tragic death in the series. After long discussions, the death edict was finally reversed, but the decision was made that, if they were going to be keeping him, he would have to be changed. The next arc of the ongoing series will further explain the changes, it was said.}}
+
+Saved by the Justice Society, Nightwing recovers with Barbara at his side. As soon as he's able to walk again, Batman asks him to join him and Robin in retracing Bruce's original journey in becoming the Dark Knight. While Nightwing is hesitant, due to his engagement with Barbara, she encourages him to go and returns his engagement ring so he can make an honest decision for himself. Barbara feels that it is important he rediscover himself, and until he does they're not yet ready to be married. They part on good terms, though before he departs Dick leaves her an envelope containing a photograph of them as Robin and Batgirl, along with the engagement ring on a chain and a note promising he'll come back to her one day.<ref>''Nightwing'' Annual #2</ref>
+
+Soon after his journey with Batman and Robin ends, Nightwing returns to Gotham, following Intergang's trail. He works with the new [[Batwoman]] and [[Renee Montoya]] to stop Intergang from destroying Gotham, shutting off dozens of fire-spewing devices spread across the city.
+
+===="One Year Later"====
+{{Main|One Year Later}}
+One year later, Dick Grayson returns to [[New York City]] (his previous home base with the Teen Titans) in order to find out who has been masquerading as Nightwing. The murderous impostor turns out to be the former [[Robin (comics)|Robin]], [[Jason Todd]]. Grayson leads the [[Outsiders (comics)|Outsiders]] once again, operating undercover and globally.
+
+Nightwing follows an armored thief named Raptor, whom he suspects is responsible for series of murders. Later, Raptor himself is murdered in a manner similar to the other victims by an unseen contract killer, who proceeds to bury Grayson alive. Nightwing frees himself, wondering the relation between his experience and a [[Monitor (comics)|mysterious voice]] who tells him that he is "supposed to be dead". Nightwing is having trouble finding things to keep him busy during the day due to the cast on his right arm. Incapacitated from his injuries, he tries without luck to find jobs and continues to research into the mysterious assassin.
+
+At one point, Dick agrees to attend a party for Bruce and their relationship seems to flourish. Bruce praises Dick for his success on the Raptor case, and also mentions to look into the Landman Building which hosted ex-Lexcorp scientists; most likely those who worked on the Raptor project. Dick also continues to keep a close brotherly relationship with Tim Drake, and helps Tim deal with his many losses during the last year.
+
+After dealing with the Raptor issue, NYC is plagued by a villainous duo called Bride and Groom. Nightwing begins pursuit of these two after some grisly murders, including that of the Lorens family (close friends of his after the Raptor incident). Dick began to get obsessed with finding them, not knowing how far he was willing to go to take them down. Eventually, he formed a makeshift team with some "villains" to find them. They located them, and after killing some of his "team," Nightwing chased them to a cave, where Bride began a cave-in and the two are trapped there.
+
+Nightwing, along with a group of former Titans, are summoned again by Raven to aid the current group of Teen Titans battle against Deathstroke, who was targeting the latest team in order to get at his children, Ravager and the resurrected [[Jericho (comics)|Jericho]]. Nightwing and the other former Titans continue to work with the current team soon after the battle with Deathstroke so as to investigate the recent murder of Duela Dent.
+
+When the Outsiders were targeted by Checkmate, Nightwing agrees that his team will work with the organization, so long as their actions in Africa are not used against them in the future. The mission however does not go as well as intended, resulting in Nightwing, the Black Queen and Captain Boomerang being captured by [[Chang Tzu]]. Later, Batman is called in by Mister Terrific who then rescues Nightwing and the others. Afterwards, Nightwing admits to Batman, that while he accepts that he is an excellent leader, he is not suited to lead a team like the Outsiders, and offers the leadership position to Batman.
+
+Batman accepts the position; however he feels that the team needs to be remade, in order to accomplish the sorts of missions that he intends them to undertake. As such, he holds a series of try outs for the team. The first audition involves Nightwing and Captain Boomerang who are sent to a space station under attack by [[Chemo (comics)|Chemo]]. During the mission, a confrontation erupts between Nightwing and Boomerang, who has grown tired of fighting for redemption from people like Batman and Nightwing. After taking a beating from Nightwing, he manages to throw him into a shuttle heading for Earth and quits the team. Afterwards, Nightwing furiously confronts Batman. Batman does not deny his actions, and states that this is the sort of thing that the new Outsiders will have to deal with. At this, Nightwing resigns completely from the Outsiders, which Batman feels is best, judging Nightwing too good for that sort of life.
+
+In order to help himself regain a sense of purpose, Nightwing opted to stay in New York City again, and play the role of the city's protector. He takes on a job as a museum curator; and uses the museum as his new base of operations. During his short time there, Dick finds himself once again confronted with Two-Face, who years ago delivered Dick's greatest defeat. This time however, Dick soundly defeats Two-Face.
+
+===="Titans Return"====
+Nightwing joins a new team of Titans, with the same roster of the [[Teen Titans#New Teen Titans|New Teen Titans]], to stop an as of yet unnamed offspring of [[Trigon (comics)|Trigon]] from enacting his vengeance over [[Raven (comics)|Raven]] and the Titans, of every generation. Nightwing yet again leads the team, and they manage to stop the sons of Trigon from accomplishing their first attempt at global destruction and again a few days later.
+
+Following the defeat of Trigon's sons, the Titans are approached by Jericho who had been stuck inhabiting the body of Match, Superboy's clone. The Titans managed to free Jericho, but found themselves once again in trouble, due to the fact the Jericho's mind had become splintered due to all the bodies he had possessed in the past. Torn between evil and good, Jericho possesses Nightwing's body in order to keep from being captured. During this time, Jericho forces Nightwing to relive all of his greatest pains. Soon after the JLA arrived intent on taking Jericho in. Unfortunately they fail to apprehend him.
+
+Following this, Nightwing decides to leave the team again, due to the events of the "[[Batman R.I.P.]]" storyline, and due to Batman's apparent death, Nightwing feels his attention should be better aimed at protecting Gotham City.
+
+===="Batman R.I.P" and "Battle for the Cowl"====
+As a precursor to "[[Batman R.I.P.]]", at the New York Comic Con 2008, DC Comics gave away pins featuring Nightwing, Jason Todd, and Hush with the words "I Am Batman" beneath them.
+During the storyline, Nightwing is ambushed by the International Club of Villains. He is later seen in Arkham Asylum, frothing at the mouth and presumably drugged, believed by the staff to be Pierrot Lunaire, a member of the Club. Scheduled for an experimental [[lobotomy]] by Arkham himself, he's spared by the ICoV taking hold of the Asylum, wanting to use him and Jezebel Jet, Bruce's fianceè at the time, as bait.
+
+As Jezebel's capture is revealed to be a [[red herring (idiom)|red herring]], due to her being a part of the Black Glove, Nightwing's lobotomy is still pending, but he manages to escape by besting Le Bossu, and joining the fray between the Batman Family, the International Club of Heroes and the Black Glove itself. While he's forced to witness Batman's dragging down Simon Hurt's helicopter and seemingly die in a fiery explosion with his foe, he's shown holding Batman's cape, discarded during the fight.
+
+Following the events of Batman's apparent death during ''[[Final Crisis]]'', Nightwing has closed down shop in New York so as to return to Gotham. He has opted to give up on having a normal job, and instead intends to put all his effort into protecting the city. After his returns he confronts Two-Face and Ra's al Ghul, proving two of his mentor's greatest enemies that he is an equal to Batman after he defeated them. He also finds himself being tasked to raise Bruce's biological son [[Damian Wayne|Damian]] with Alfred.
+
+During the events of the ''Battle for the Cowl'', Nightwing is said to have become unapproachable and less emotional. He is seen by the Bat-Suit display cases, still mourning the loss of Batman. Nightwing is said to be resisting the idea that someone needs to take up the mantle of Batman, in spite of arguments from Robin and Alfred Pennyworth that it is necessary.<ref>''Batman: Battle for the Cowl'' #1</ref> It is later revealed he has no objections to becoming the new Batman, but was ordered not to in Bruce's prerecorded message for him, saying that Nightwing and Robin could carry the torch.
+
+Robin later informs Grayson that someone is masquerading as Batman, using similar weaponry to their own. Nightwing is later forced to rescue Damian after he is ambushed by Killer Croc and Poison Ivy. However, Nightwing's glider is shot down, and the two are forced to crash land into a skyscraper. In order to give Damian time to escape, Nightwing offers himself up to the hit squad that is after them. He is about to be shot when he is rescued in a hail of gunfire by the Batman impersonator.
+
+This eventually leads to Dick confronting [[Jason Todd]], who has been posing as Batman. After a long battle between the two, Jason refuses Dick's help, while hanging on to a protruding ledge over Gotham's bay, Jason lets himself fall into the water.<ref>''Batman: Battle for the Cowl'' #2</ref> After returning to the cave, Dick assumes the identity of Batman, with Damian as the new Robin.<ref>''Batman: Battle for the Cowl'' #3</ref>
+
+====''Flashpoint'' and ''Night of Owls''====
+After the events of ''Flashpoint'' as part of the [[2011 DC Universe reboot]], Grayson returns to the role of Nightwing. He remains in Gotham after his stint as Batman while covering for Bruce Wayne while he was "away". He returned with a new costume in red and black reflecting what he previously wore while working with the villain Deathstroke.<ref>''Nightwing'' #1 (2011)</ref> Dick, along with all other members of the Batfamily, are a few years younger. Despite being in his early twenties as opposed to his mid-late twenties, he is drawn a bit shorter than in his pre-relaunch frame. This is likely due to adding believability to his acrobat past.<ref>http://www.comicvine.com/news/whats-changed-and-whats-the-same-in-batman-1-spoilers/143603/</ref>
+
+====The New 52====
+On September 21, 2011 DC Comics relaunched ''Nightwing'' with issue #1 as part of [[The New 52]], in which Dick Grayson resumes the role of Nightwing following the return of Bruce Wayne. The new costume has changed the color of the "Nightwing symbol" from blue to red, and the emblem rolls over the shoulders, rather than traveling down the arm onto the middle and ring fingers. The costume has also shifted from a skin-tight unitard look to an armored, full body suit, with spiked gauntlets such as Batman's rather than simply long gloves.<ref>[http://insidepulse.com/2011/06/07/dc-comics-relaunch-nightwing-writer-kyle-higgins-all-a-twitter-about-dick-grayson-time-travel DC Comics Relaunch: Nightwing Writer Kyle Higgins All A-Twitter About Dick], ''Inside Pulse'', June 7, 2011</ref> The new series, written by Kyle Higgins, opens with Grayson having returned to Gotham, when Haly's Circus comes to town. Through a series of events, Grayson inherits the circus and is working through internal struggles with his past as he investigates the secrets the circus has brought about.<ref>Nightwing #1-6 (September 2011-February2012)</ref>
+
+===Collected editions===
+After a 4-issue miniseries, and as commented above, in 1996 DC launched a monthly solo series featuring Dick Grayson as Nightwing that ended in February 2009. During DC's ''Infinite Crisis'', DC considered killing Dick Grayson, but at the last minute reconsidered this decision.<ref>''Batman'' #687</ref> An attempt to revitalize the character by bringing back the writer who wrote the original Robin-to-Nightwing story, [[Marv Wolfman]], had mixed response.{{Issue|date=April 2009}} The final change to writer [[Peter Tomasi]] and artist [[Rags Morales]] did much to reassert the character, with him operating in New York as a respected solo hero, and taking full advantage of the fact that his early start makes him one of the most experienced superheroes, and one of the best connected thanks to his many former teammates and the friends he has established in his career. ''Nightwing'' has now been canceled, with Dick Grayson having become the new Batman. With his new position, this leaves the Nightwing name available to Christopher Kent, Superman's foster son.
+
+Nightwing has also starred in several miniseries and one-shots. This material has been collected in several [[trade paperback (comics)|trade paperbacks]].
+
+{| class="wikitable"
+|-
+! Title !! Material collected !! ISBN
+|-
+! colspan="3" | Pre-series trade paperbacks
+|-
+| '''Nightwing: Ties That Bind'''
+| ''Nightwing: Alfred's Return'' #1; ''Nightwing'' #1-4 (miniseries)
+| {{ISBNT|978-1563893285}}
+|-
+! colspan="3" | Regular series trade paperbacks
+|-
+| '''Nightwing: A Knight in Blüdhaven'''
+| ''Nightwing'' #1-8
+| {{ISBNT|978-1563894251}}
+|-
+| '''Nightwing: Rough Justice'''
+| ''Nightwing'' #9-18
+| {{ISBNT|978-1563895234}}
+|-
+| '''Nightwing: Love and Bullets'''
+| ''Nightwing'' #1/2, #19, #21-22, #24-29
+| {{ISBNT|978-1563896132}}
+|-
+| '''Nightwing: A Darker Shade of Justice'''
+| ''Nightwing'' #30-39; ''Nightwing: Secret Files and Origins'' (one-shot)
+| {{ISBNT|978-1563897030}}
+|-
+| '''Nightwing: The Hunt for Oracle'''
+| ''Nightwing'' #41-46; ''[[Birds of Prey (comic)|Birds of Prey]]'' #20-21
+| {{ISBNT|978-1563899409}}
+|-
+| '''Nightwing: Big Guns'''
+| ''Nightwing'' #47-50; ''Nightwing: Secret Files and Origins'' (one-shot); ''Nightwing 80-Page Giant'' (one-shot)
+| {{ISBNT|978-1401201869}}
+|-
+| '''Nightwing: On the Razor's Edge'''
+| ''Nightwing'' #52, #54-60
+| {{ISBNT|978-1401204372}}
+|-
+| '''Nightwing: Year One'''
+| ''Nightwing'' #101-106
+| {{ISBNT|978-1401204358}}
+|-
+| '''Nightwing: Mobbed Up'''
+| ''Nightwing'' #107-111
+| {{ISBNT|978-1401209070}}
+|-
+| '''Nightwing: Renegade'''
+| ''Nightwing'' #112-117
+| {{ISBNT|978-1401209087}}
+|-
+| '''Nightwing: Brothers in Blood'''
+| ''Nightwing'' #118-124
+| {{ISBNT|978-1401212247}}
+|-
+| '''Nightwing: Love and War'''
+| ''Nightwing'' #125-132
+| {{ISBNT|978-1401214630}}
+|-
+| '''Nightwing: The Lost Year'''
+| ''Nightwing'' #133-137, Annual #2
+| {{ISBNT|978-1401216719}}
+|-
+| '''Nightwing: Freefall'''
+| ''Nightwing'' #140-146
+| {{ISBNT|978-1401219659}}
+|-
+| '''Nightwing: The Great Leap'''
+| ''Nightwing'' #147-153
+| {{ISBNT|978-1401221713}}
+|-
+! colspan="3" | Dick Grayson as Batman
+|-
+| '''[[Batman: Battle for the Cowl]]'''
+| ''Batman: Battle for the Cowl'' #1-3; ''Gotham Gazette: Batman Dead?''; ''Gotham Gazette: Batman Alive?''
+| HC: {{ISBNT|978-1401224165}}<br>SC: {{ISBNT|978-1401224172}}
+|-
+| '''Batman: Long Shadows'''
+| ''Batman'' #687-691
+| HC: {{ISBNT|978-1401227197}}<br>SC: {{ISBNT|978-1401227203}}
+|-
+| '''[[Batman and Robin (comic book)|Batman and Robin]]: Batman Reborn'''
+| ''Batman and Robin'' #1-6
+| HC: {{ISBNT|978-1401225667}}<br>SC: {{ISBNT|978-1401229870}}
+|-
+| '''[[Batman and Robin (comic book)|Batman and Robin]]: Batman vs. Robin'''
+| ''Batman and Robin'' #7-12
+| HC: {{ISBNT|978-1401228330}}
+|-
+| '''Batman: Life After Death'''
+| ''Batman'' #692-699
+| HC: {{ISBNT|978-1401228347}}
+|-
+| '''Batman: Time and the Batman'''
+| ''Batman'' #700-703
+| HC: {{ISBNT|978-1401229894}}
+|-
+| '''[[Batman and Robin (comic book)|Batman and Robin]]: Batman Must Die!'''
+| ''Batman and Robin'' #13-16
+| HC: {{ISBNT|978-1401230913}}
+|-
+! colspan="4" | Miscellaneous
+|-
+| '''Nightwing/Huntress'''
+| ''Nightwing/[[Huntress (Helena Bertinelli)|Huntress]]'' #1-4 (miniseries)
+| {{ISBNT|978-1401201272}}
+|-
+! colspan="4" |[[ The New 52]]
+|-
+| '''Nightwing Vol. 1: Traps and Trapezes'''
+| ''Nightwing'' (vol. 3) #1-7
+| {{ISBNT|978-1401237053}}
+|}
+
+Issues #19-20 are collected in ''[[Batman: Cataclysm]]''.<ref>{{Cite book | title=Batman: Cataclysm | publisher=DC Comics | date=June 1, 1999 | isbn=978-1-56389-527-2}}</ref> Issue #53 is collected in ''Batman: Officer Down''.<ref>{{Cite book | title=Batman: Officer Down | publisher=DC Comics | date=August 1, 2001 | isbn=978-1-56389-787-0}}</ref> Most of the issues of ''Nightwing'' #61-100 have yet to be compiled into a trade paperback. Issues #65-66 are collected in ''[[Bruce Wayne: Fugitive#Bruce Wayne: Murderer?|Bruce Wayne: Murderer?]]''<ref>{{Cite book | title=Batman: Bruce Wayne - Murderer? | publisher=DC Comics | date=August 1, 2002 | isbn=978-1-56389-913-3}}</ref> Issues #68-69 are collected in ''[[Bruce Wayne: Fugitive]], Vol. 1''.<ref>{{Cite book | title=Batman: Bruce Wayne - Fugitive, Vol. 1 | publisher=DC Comics | date=December 1, 2002 | isbn=978-1-56389-933-1}}</ref> Issues #96-98 are part of the "[[Batman: War Games]]" story arc.<ref>{{Cite book | title=Batman: War Games, Act One - Outbreak | publisher=DC Comics | date=March 1, 2005 | isbn=978-1-4012-0429-7}}</ref><ref>{{Cite book | title=Batman: War Games, Act Two - Tides | publisher=DC Comics | date=July 1, 2005 | isbn=978-1-4012-0430-3}}</ref><ref>{{Cite book | title=Batman: War Games, Act Three - Endgame | publisher=DC Comics | date=October 1, 2005 | isbn=978-1-4012-0431-0}}</ref> Issues #138-139 are collected in ''[[The Resurrection of Ra's al Ghul]]''.<ref>{{Cite book | title=Batman: The Resurrection of Ra's Al Ghul | publisher=DC Comics | date=May 12, 2009 | isbn=978-1-4012-2032-7}} (TPB). ISBN 978-1-4012-1785-3 (Hardcover. May 20, 2008).</ref> The last issue in the series is #153.
+
+;Prestige one-shots
+* ''Nightwing: The Target''
+* ''Batman/Nightwing: Bloodborne''
+===Other collected editions===
+* ''Batman: Cataclysm'' (Nightwing Vol. 2 #19-20)
+* ''Batman: New Gotham, Vol. 2: Officer Down'' (Nightwing Vol. 2 #53)
+* ''Bruce Wayne: Murderer?'' (Nightwing #65-66)
+* ''Batman: Bruce Wayne: Fugitive'' (Nightwing Vol. 2 #68-69)
+* ''Batman War Games Act One'' (Nightwing Vol. 2 #96) 
+* ''Batman War Games Act Two'' (Nightwing Vol. 2 #97) 
+* ''Batman War Games Act Three'' (Nightwing Vol. 2 #98) 
+* ''Batman: The Resurrection of Ra's al Ghul'' (Nightwing Vol. 2 #138-139)
+
+==Writers==
+The following writers have been involved in the ongoing ''Nightwing'' series:
+{| class="wikitable"
+|-
+! Writer !! Tenure !! Issues written
+|-
+| [[Chuck Dixon]]
+| 1996–2002
+| #1-52, #54-70
+|-
+| Chuck Dixon, [[Scott Beatty]]
+| 2005
+| #101-106
+|-
+| [[Devin Grayson]]
+| 2001–2006
+| #53, #71-100, #107-117
+|-
+| [[Bruce Jones (comics)|Bruce Jones]]
+| 2006
+| #118-124
+|-
+| [[Marv Wolfman]]
+| 2006–2007
+| #125-137
+|-
+| [[Fabian Nicieza]]
+| 2007
+| #138-139
+|-
+| [[Peter Tomasi]]
+| 2008–2009
+| #140-153
+|-
+! colspan="3" | Miscellaneous
+|-
+| Devin Grayson
+| 1997
+| ''Nightwing'' Annual #1
+|-
+| [[Marc Andreyko]]
+| 2007
+| ''Nightwing'' Annual #2
+|}
+
+==In other media==
+{{See also|Robin in other media|Dick Grayson#In other media}}
+To date, [[Dick Grayson]] has been the only character to use the codename "Nightwing" outside [[comic book]]s.
+
+===''Batman Forever''===
+Nightwing is made reference to in the film ''[[Batman Forever]]'' when Robin, Dick Grayson (played by [[Chris O'Donnell]]) suggests "Batboy, Nightwing..." as a name for himself. In the next film ''[[Batman & Robin (film)|Batman & Robin]]'', the costume Robin wears closely resembles the costume of Nightwing from the comic books, except the main symbol across his chest and arms is red instead of blue and this costume includes a small cape.
+
+===DC Animated Universe===
+[[Image:Nightwing TNBA.jpg|right|thumb|150px|Nightwing from ''The New Batman Adventures''. Art by [[Bruce Timm]].]]
+* Grayson appears as Nightwing in ''[[The New Batman Adventures]]'', voiced by actor [[Loren Lester]], the actor who had voiced Grayson as [[Robin (comics)|Robin]] in ''[[Batman: The Animated Series]]''. Grayson's Nightwing debuts in the end of the episode "Sins of the Father". Bruce, Barbara and Alfred react to the grown up crime fighter as Dick remarks "Hey, no one can be a boy wonder forever." In "You Scratch My Back", Nightwing makes his full episode debut, and finds an unlikely ally in [[Catwoman]] in trying to expose a South American gun smuggling operation into [[Gotham City]]. This episode highlights Nightwing, hints at his relationship with Barbara and illustrates his tense relationship with Batman. The episode also contains a sequence - showing Nightwing in his loft headquarters and charging into the night on his motorcycle as his theme music plays, culminating in a shot where he stands silhouetted against the moon. The episode "Old Wounds" explains that Grayson, as Robin, fought with Batman over the latter's controlling nature and what the former saw as an unnecessarily harsh approach, causing Grayson to leave Gotham as a result. However, he returns years later as Nightwing. Although he works with Batman several times during the course of the series, he never fully reconciles with his former mentor. Nightwing also appears in series episodes "Joker's Millions", "Over the Edge", "Animal Act", and "Chemistry".
+
+* In the television series ''[[Batman Beyond]]'', which is set many years in the future of earth 12, the Nightwing uniform (or at least one copy of it) still hangs in the Batcave. [[Batman (Terry McGinnis)|Terry McGinnis]] (the new Batman) borrows the mask from that costume in the episode "Lost Soul", when the Batsuit is reprogrammed with the personality of a dead businessman. In ''[[Batman Beyond: Return of the Joker]]'', McGinnis asks Commissioner Barbara Gordon (the former [[Batgirl]]) if all of the original Batman's associates were bitter when they left. She replies "...look up Nightwing someday. Has ''he'' got stories," implying that he is still alive and using the identity in the timeframe of the series.
+
+* Nightwing also has a cameo in the ''[[Justice League Unlimited]]'' episode "Grudge Match". As [[Black Canary]] enters [[Blüdhaven]], Nightwing can be seen on a rooftop next to two gargoyles.
+
+===Teen Titans===
+In the ''[[Teen Titans (animated series)|Teen Titans]]'' [[animated series]] episode [[List of Teen Titans episodes#Season 2: 2004|"How Long is Forever?"]], Nightwing appears as the future identity of [[Robin in other media|Robin]]. He also appears in the ''[[Teen Titans Go!]]'' comic series based on the series.<ref>{{cite web|url=http://teentitans.toonzone.net/index.php?content=ttgo/guide/31 |title='&#39;Teen Titans Go!'&#39; guide |publisher=Teentitans.toonzone.net |date= |accessdate=2010-09-29}}</ref>
+
+===The Judas Contract===
+The Teen Titans story arc ''The Judas Contract'', in which Robin becomes Nightwing, was planned to be adapted as a [[DC Universe Animated Original Movies]] [[direct-to-video]] [[Teen Titans: The Judas Contract|movie]]. However, it has been put on hold.
+
+===The Batman===
+''[[The Batman (TV series)|The Batman]]'' [[animated series]] episode "[[Artifacts (The Batman)|Artifacts]]", in a different storyline where he still works with Batman, set in the year 3027 with flashbacks to the year 2027. The flashback sequences feature Nightwing, voiced by [[Jerry O'Connell]]. Although Dick has been active for ten years as Nightwing, Batman and [[Barbara Gordon|Oracle]] persist in calling him "Robin." Nightwing later appears in season 5 in the episode "The Metal Face of Comedy" in his original Nightwing costume. In this episode, he is Dick Grayson's video game character in an [[online role playing game]].
+
+===Batman: The Brave and the Bold===
+Robin makes his transcendence to Nightwing in the end of the episode "Sidekicks Assemble!" in the animated series ''[[Batman: The Brave and the Bold]]'' and appears as Nightwing in later episodes.
+
+===Young Justice===
+Beginning in the season 2 premiere "Happy New Year", an 19-year old Dick Grayson is seen as Nightwing, voiced by [[Jesse McCartney]]. In season 2, Nightwing has become leader of The Team, assigning missions to his friends and sometimes fighting side by side with them.
+
+===Batman: Under The Red Hood===
+Grayson appears again as Nightwing in the 2010 direct-to-film animated movie ''[[Batman: Under The Red Hood]]''. In the movie he is voiced by actor [[Neil Patrick Harris]].
+
+===Nightwing===
+There was a plan Nightwing series from Ki Hyun Ryu along with a [[Bat Family]] series. 
+<ref> [http://www.comicbookmovie.com/animated_features/news/?a=64996 Ki Hyun Ryu's Scrapped Designs For A Nightwing And Bat-Family Animated Series] </ref>
+
+===''Smallville''===
+While not appearing in the ''[[Smallville]]'' television series, a female Nightwing appears in the comic book continuation, ''Smallville Season Eleven''. This new Nightwing is [[Barbara Gordon]] rather than the usual Dick Grayson.<ref>[http://www.dccomics.com/comics/smallville-season-11-2012/smallville-season-11-5 DC Comics]</ref> Though, originally, Nightwing was planned to be Stephanie Brown.<ref>{{cite web|last=Melrose|first=Kevin|title=SDCC ’12 {{!}} DC confirms Stephanie Brown won’t appear in Smallville|url=http://robot6.comicbookresources.com/2012/07/sdcc-12-dc-confirms-stephanie-brown-wont-appear-in-smallville/|work=Comic Book Resources|publisher=ROBOT 6|accessdate=24 November 2012|date=July 14, 2012}}</ref> 
+
+===Video games===
+*Nightwing appears in ''[[LEGO Batman: The Video Game]]''.<ref>{{Cite journal | title=''LEGO Batman'': Character Gallery | journal=[[Game Informer]] | issue=186 | date=October 2008 | page=92}} Features a two-page gallery of the many heroes and villains who appear in the game with a picture for each character and a descriptive paragraph.</ref> as a playable character
+*Nightwing appears in ''[[Batman: Rise of Sin Tzu]]'' as a playable character.
+*Nightwing also appears in the MMORPG game ''[[DC Universe Online]]''. Nightwing will assist the player in a battle against Bane if the player is using a Hero character, or he will attack the player if using a Villain Character. Nightwing is also one of the many characters than can be unlocked to use in PVP Legends matches.
+*The [[Dick Grayson]] Nightwing is a downloadable character in ''[[Batman: Arkham City]]''.
+*Nightwing is a playable [[downloadable content|DLC]] character in ''[[Lego Batman 2: DC Super Heroes]]''.
+*Nightwing will appear as a playable fighter in ''[[Injustice: Gods Among Us]]''.<ref>http://www.theverge.com/gaming/2012/7/11/3153746/injustice-gods-among-us-adds-two-new-heroes-cyborg-and-nightwing</ref>
+
+===Rides===
+[[Image:Nightwing ride.jpg|left|170px|thumb|Entrance to one of the Nightwing rides at [[Six Flags]].]]
+A Nightwing ride was in operation at Six Flags New England
+
+==References==
+{{Reflist|2}}
+
+{{Batman}}
+{{Batman publications}}
+
+[[Category:DC Comics characters]]
+[[Category:DC Comics aliens]]
+[[Category:Kryptonians]]
+[[Category:2011 comic debuts]]
+[[Category:Fictional vigilantes]]
+
+[[de:Nightwing]]
+[[it:Nightwing]]
+[[he:נייטווינג]]
+[[nl:Nightwing]]
+[[pt:Asa Noturna]]
+[[ru:Найтвинг]]
+[[simple:Nightwing]]
+[[sv:Nightwing]]
+[[tl:Nightwing]]

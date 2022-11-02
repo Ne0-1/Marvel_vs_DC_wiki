@@ -1,0 +1,62 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image= <!-- Deleted image removed: [[Image:Fantastic Four-1978.jpg|250px]] -->
+|caption=H.E.R.B.I.E. with the Fantastic Four
+|comic_color=background:#ff8080
+|character_name=H.E.R.B.I.E.
+|real_name=Humanoid Experimental Robot B-Type Integrated Electronics 
+|publisher=[[Marvel Comics]]
+|debut=''[[Fantastic Four]]'' #209 (August 1979)
+|creators=[[Stan Lee]] and [[Jack Kirby]]
+|alliance_color=background:#ffc0c0
+|status=Active
+|alliances=[[Fantastic Four]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=Ability to connect to any computer system, electricity generators,<br>Lasers,<br>Various hidden tools and features
+|}}
+
+'''H.E.R.B.I.E.''' ('''Humanoid Experimental Robot, B-type, Integrated Electronics''') is a [[fictional character]], a [[robot]] and an ally of the [[Fantastic Four]] in the [[Marvel Universe]]. The character was initially conceived for the [[Fantastic Four (1978 TV series)|1978 ''Fantastic Four'' animated series]] and was integrated into the comics continuity shortly afterwards.
+
+==Fictional character biography==
+H.E.R.B.I.E. was created by [[Mister Fantastic]] and Master Xar of the [[Xandar]]ians, who hoped that the robot could aid their search for [[Galactus]], who they sought for aid in defeating the villain known as the [[Sphinx (comics)|Sphinx]]. 
+
+What neither of the creators realized, however, was that [[Doctor Sun]], an enemy of Master Xar who had his consciousness trapped within Xandarian computers, was able to escape by jumping from the computer to H.E.R.B.I.E.'s body. The little robot was his sleeper agent, whom he could control whenever he wished. Although an alien pirate mysteriously died in H.E.R.B.I.E.'s presence, and the villain [[Blastaar]] suddenly escaped from the [[Negative Zone]], nobody suspects that H.E.R.B.I.E. was responsible.
+
+After Sun's attempt to assassinate the Fantastic Four with Blastaar failed, Dr. Sun reveals himself at last, trapping the [[Invisible Woman]] and the [[Human Torch (Johnny Storm)|Human Torch]] within the [[Baxter Building]]'s security system and besting Mister Fantastic and [[Thing (comics)|the Thing]] with H.E.R.B.I.E.'s weapons. He then abandons H.E.R.B.I.E.'s body and transfers his consciousness into the Baxter Building's main computer, which would allow him to control the entire building, and all of the weaponry within. Fortunately, Mister Fantastic is able to lock Dr. Sun away from the rest of the computer system, but H.E.R.B.I.E., now himself again, realizes that Dr. Sun could always simply return to his body. Not wanting the villain to cause any more trouble, the little robot heroically throws himself into the computer, destroying it, Dr. Sun, and himself.<ref>Fantastic Four #217</ref>
+
+Later, Franklin is shown with another H.E.R.B.I.E robot, that Ben refers to as a 'flying frog'. It is explained that this one had been built partly to keep an eye on Franklin's developing powers. Said powers fluctuate due to Franklin's failure to solve a [[Rubik's Cube]] and a nearby TV show urging someone to 'grow up'. The resulting power surge destroys H.E.R.B.I.E. <ref>Fantastic Four #244</ref>
+
+Other H.E.R.B.I.E. robots are eventually built throughout the years, serving general duties around the Baxter Building. Most recently, on the pages of ''[[Marvel Knights]] Fantastic Four'', H.E.R.B.I.E. has served as the guardian and companion for young [[Franklin Richards]].
+
+==Character history==
+When the Fantastic Four property was made into an animated series in 1978, the character of the Human Torch was unable to be used, as at the time the character had been optioned separately for use in a solo movie (which never materialized). A popular [[urban myth]] contends that the Torch was replaced due to fears that children might attempt to emulate him by setting themselves on fire, but that is not true.
+
+Needing a fourth member to round out the team, [[Stan Lee]] pitched the idea for a cute robot sidekick, and artist [[Dave Cockrum]] was commissioned to design it. However, Cockrum disliked the character so much he was eventually replaced by [[Jack Kirby]], who first designed and illustrated the Fantastic Four a decade previous. On the Fantastic Four cartoon, H.E.R.B.I.E. was voiced by [[Frank Welker]]. Shortly after the cartoon premiered, the little robot was introduced to the comics continuity by writer [[Marv Wolfman]] and artist [[John Byrne]]. As within the Marvel Universe, the Fantastic Four have marketed their likenesses for a successful in-universe comic series -- H.E.R.B.I.E.'s physical appearance was likewise explained as being based on the animated series based on that comic.
+
+==Other versions==
+
+===Franklin Richards: Son of a Genius===
+[[Image:Frichardsherbie.jpg||Art by [[Chris Eliopoulos]]|thumb|150px|left]]In the humorous, out-of-[[continuity]] series ''Franklin Richards: Son of a Genius'', H.E.R.B.I.E. is portrayed as the fully intelligent and beleaguered nanny of a mischievous, [[Calvin (Calvin and Hobbes character)|Calvin]]-esque [[Franklin Richards]], and is forced to aid Franklin in stopping/cleaning up after any number of fiascoes caused by Franklin's use without permission of his father's (Mister Fantastic) hi-tech inventions.  Though this H.E.R.B.I.E. can be high-strung and even neurotic at times it is also capable of level-headed thought and quick action in an emergency; H.E.R.B.I.E.'s efforts are often all that keep Franklin from punishment for abusing his father's equipment.
+
+===Ultimate H.E.R.B.I.E.===
+In the setting of Marvel's [[Ultimate Marvel|Ultimate]] comics, versions of H.E.R.B.I.E. appear as a numbered series of small, hovering helper robots in the series, as well as a few oversized mech-like guard drones.
+
+==In other media==
+* H.E.R.B.I.E. appears in the 2006 version of [[Fantastic Four: World's Greatest Heroes|The Fantastic Four]] TV series voiced by [[Samuel Vincent]]. In this version H.E.R.B.I.E. is not a robot, but a [[supercomputer]] that monitors Mr. Fantastic's lab.
+
+* A deactivated H.E.R.B.I.E. makes a cameo in the extended cut of the 2005 [[Fantastic Four (2005 film)|Fantastic Four]] film.
+
+* He's parodied in [[The Venture Brothers]] as "[[H.E.L.P.eR.]]".
+
+==Notes==
+{{reflist}}
+
+==External links==
+*[http://marvel.com/universe/H.E.R.B.I.E. H.E.R.B.I.E. on the Marvel Universe Character Bio Wiki]
+
+[[Category:Comic book characters originally created in other media]]
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics supporting characters]]
+
+[[nl:H.E.R.B.I.E.]]

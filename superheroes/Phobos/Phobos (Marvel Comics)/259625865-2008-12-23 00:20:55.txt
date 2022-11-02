@@ -1,0 +1,65 @@
+{{refimprove|date=December 2008}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| character_name = Phobos
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Doctor Strange|Dr. Strange]], Sorcerer Supreme'' #32 (August 1991)
+| creators       = [[Roy Thomas]]<br />[[Jean-Marc Lofficier]]
+| alter_ego      = 
+| full_name      = Alexander Aaron
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = [[Olympians (Marvel Comics)|Olympians]]<br />[[Mighty Avengers]]<br />[[Secret Warriors]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = 
+| cat            = super
+| subcat         = Marvel Comics
+| hero           = y
+| villain        = 
+| sortkey        = {{PAGENAME}}
+}}
+'''Phobos''' is a [[Marvel Comics]] character, who first appeared in ''[[Doctor Strange|Dr. Strange]], Sorcerer Supreme'' #32 (August 1991) in a story written by [[Roy Thomas]] and [[Jean-Marc Lofficier]].
+
+Phobos is the son of [[Ares (Marvel Comics)|Ares]] and is a member of the [[Secret Warriors]].
+
+==Publication history==
+Phobos first appeared in the "A Gathering of Fear" storyline in ''[[Dr. Strange, Sorcerer Supreme]]''<ref>''Doctor Strange'' (vol. 3), started off as ''Doctor Strange, Sorcerer Supreme'', renamed ''D. Strange, Sorcerer Supreme'' in issue #4</ref> #32 (August 1991) written by [[Roy Thomas]] and [[Jean-Marc Lofficier]]. They reappeared in "The Great Fear" storyline in DS:SS #39 (March 1992).
+
+Phobos first appeared in the ''Ares'' limited series in 2006. The character would reappear in the [[Secret Invasion]] crossover storyline, first in ''[[Mighty Avengers]]'' and then the ''Secret Invasion'' limited series. They will also appear in the [[Dark Reign (comics)|Dark Reign]] storyline, starting in the one-shot "Dark Reign: New Nation."
+
+==Fictional character biography==
+Phobos and his brother [[Deimos (Marvel Comics)|Deimos]] are sons of [[Ares (Marvel Comics)|Ares]] and [[Nox (Marvel Comics)|Nox]] (posing as [[Venus (Marvel Comics)|Venus]]) but were killed by [[Thor (Marvel Comics)|Thor]] and [[Hercules (Marvel Comics)|Hercules]] in their first appearance.<ref>''Doctor Strange: Sorcerer Supreme'' #32 (August 1991)</ref> Later the [[Fear Lords]] release so much fear that Nox is able to bring her sons back, creating them from the [[Darkforce]] but they were eventually defeated again.<ref>''Doctor Strange: Sorcerer Supreme'' #39 (March 1992)</ref>
+
+Area' son is next seen as a young boy, Alexander Aaron.<ref>''Ares'' #1 (March 2006)</ref> Alexander was taken from his father by [[Zeus (Marvel Comics)|Zeus]], and then kidnapped by the Japanese god [[Amatsu-Mikaboshi (comics)|Amatsu-Mikaboshi]]. Mikaboshi trained and manipulated him for years, under the guise of a mother-figure, turning him into a deadly swordsman. He was saved from the evil deity when the combination of Zeus and Ares's influences removed his brainwashing.{{issue}}
+
+Alexander killed Mikaboshi with one swipe of his grasscutter blade.{{issue}}
+
+It has been revealed that Alexander is actually the Greek god of fear, Phobos, reborn.<ref>''[[Mighty Avengers]]'' #13 (July 2008)</ref>
+
+He has been recruited by [[Nick Fury]] for his team of [[Secret Warriors]].<ref> ''Secret Invasion'' #{{issue}}</ref>
+
+==Powers and abilities==
+
+The power of fear making the victim run for their lives as well as attacking their partners.
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin}}
+*[http://www.marvunapp.com/Appendix/demphb.htm Phobos] at the Appendix to the Handbook of the Marvel Universe
+*{{comicbookdb|type=character|id=12841|title=Phobos}}
+{{refend}}
+
+==External links==
+*[http://marvel.com/universe/Phobos Phobos] at the Marvel Universe
+
+
+{{Marvel-Comics-stub}}
+
+[[Category:1991 comics characters debuts]]
+[[Category:Greco-Roman mythology in Marvel Comics]]

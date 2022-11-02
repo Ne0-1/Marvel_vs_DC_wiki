@@ -1,0 +1,39 @@
+{{short description|Marvel Comics superhero}}
+{{Superherobox|
+image=
+|caption=
+|character_name=Father Time
+|real_name=Larry Scott
+|publisher=[[Timely Comics]]/[[Marvel Comics]]
+|debut=''[[Captain America Comics]]'' #6 (Sept. 1941)
+|creators=[[Stan Lee]] & [[Al Avison]]
+|alliances=[[Crazy Sues]]
+|aliases=
+|powers= 
+|}}
+
+'''Father Time''' ('''Larry Scott''') is a [[fictional character|fictional]] [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character was created by writer [[Stan Lee]] and artist [[Al Avison]] and first appeared in ''[[Captain America Comics]]'' #6 (Sept. 1941),<ref>[http://www.comics.org/details.lasso?id=1639#4 Grand Comics Database: ''Captain America  Comics'' #6 (Sept. 1941)]</ref> published by Marvel predecessor [[Timely Comics]] during the period fans and historians call the [[Golden Age of comic books]].<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=19}}</ref>
+
+==Publication history==
+In addition to his appearances in ''Captain America'' issues #6-12, he also appeared in ''[[Mystic Comics]]'' #10 and ''[[Young Allies (Marvel Comics)|Young Allies]]'' #3.<ref>{{cite book |last1=Benton |first1=Mike |title=Superhero Comics of the Golden Age: The Illustrated History |date=1992 |publisher=Taylor Publishing Company |location=Dallas |isbn=0-87833-808-X |url=https://archive.org/details/superherocomicso0000bent/page/154 |access-date=8 April 2020 |pages=155-156}}</ref>
+In 2011 he appeared again in ''All-Winners Squad: Band of Heroes'' as a member of the war time team [[Crazy Sues]].{{cn|date=May 2020}}
+
+A different, non-superhero Father Time appeared as a character in the [[Blonde Phantom]] story "Doomed for Death" in ''Blonde Phantom Comics'' #22 (March 1949).
+
+[[Hawkeye (Clint Barton)|Hawkeye]] (Clint Barton), the superhero archer of the team the [[Avengers (comics)|Avengers]], disguised himself as an unrelated character named Father Time in the 50th-anniversary issue ''Captain America'' #383 (March 1991). Another [[Father Time (DC Comics)|unrelated character of the same name]] appears  in [[DC Comics]].
+
+==Fictional character biography==
+Larry Scott is introduced as he works against time to save his wrongfully accused father from being hanged, but he is only seconds too late to prevent his father's death.<ref>{{cite book |last1=Steranko |first1=Jim |title=The Steranko History of Comics, vol 1 |date=1970 |publisher=Supergraphics |page=65}}</ref> Donning a hooded cloak and wielding a scythe, Larry takes on the name Father Time and seeks to make time work against criminals, rather than the innocent.<ref>{{cite book |last1=Nevins |first1=Jess |title=Encyclopedia of Golden Age Superheroes |date=2013 |publisher=High Rock Press |isbn=978-1-61318-023-5 |page=97}}</ref>
+
+==References==
+{{reflist}}
+
+{{GoldenAge}}
+
+[[Category:Comics characters introduced in 1941]]
+[[Category:Golden Age superheroes]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Timely Comics characters]]
+
+
+{{Marvel-hero-stub}}

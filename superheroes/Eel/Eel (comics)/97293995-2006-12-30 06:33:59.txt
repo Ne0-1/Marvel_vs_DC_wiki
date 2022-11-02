@@ -1,0 +1,59 @@
+'''The Eel''' is the name used by two [[supervillain]]s in the [[Marvel Universe]]. 
+
+==Eel I==
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Eel I
+|real_name=Leopold Stryke
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Strange Tales]]'' #112 (Sep 1963)
+|creators=[[Stan Lee]] and [[Steve Ditko]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Serpent Squad]], partner of the [[Porcupine (comics)|Porcupine]], agent of [[Count Nefaria]] and the [[Cowled Commander]]
+|previous_alliances=
+|aliases=
+|relatives=[[Viper (comics)|Jordan Stryke]] (brother, deceased)
+|powers=
+|}} 
+
+The original Eel first appeared in ''[[Strange Tales]]'' #112 (September 1963). '''Leopold Stryke''' and his brother Jordan, who was the original [[Viper (comics)|Viper]], were members of the first [[Serpent Squad]]. Stryke was also a teammate of [[Plantman]], [[Scarecrow (Marvel Comics)|Scarecrow]], [[Unicorn (comics)|Unicorn]] and [[Porcupine (comics)|Porcupine]] when they worked for [[Count Nefaria]]. He was killed in the [[Madripoor]] Bloodsport Tournament by [[Toad (comics)|Toad]].
+
+==Eel II==
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Eel II
+|real_name=Edward Lavell
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Power Man and Iron Fist]]'' #92 (Apr 1983)
+|creators=[[Kurt Busiek]] and [[Denys Cowan]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=worked freelance for the [[Hammerhead (comics)|Hammerhead]] family of the [[Maggia]], and for [[Nightshade (Marvel Comics)|Nightshade]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+The second Eel was a member of the second [[Crimson Cowl]]'s [[Masters of Evil]]. He has recently been apprehended by the [[Thunderbolts (comics)|Thunderbolts]].
+
+==Powers and Abilities==
+
+Both Eels wore special suits that were coated with an extremely slippery [[gel]], and could generate a powerful [[electrical shock]]. 
+
+==External link==
+* [http://www.marveldirectory.com/individuals/e/eeli.htm Eel (I) at MarvelDirectory.com]
+
+[[Category:1963 introductions]]
+[[Category:Spider-Man villains]]
+[[Category:Masters of Evil members]]
+
+
+{{Marvel-villain-stub}}

@@ -1,0 +1,27 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8180
+|character_name=Malekith the Accursed
+|real_name=Malekith
+|publisher=[[Marvel Comics]]
+|debut=''Thor'' #344
+|creators=
+|alliance_color=background:#c0c0ff
+|status=Deceased
+|alliances=
+|previous_alliances=[[Loki (comics)|Loki]], [[Surtur (comics)|Surtur]]
+|aliases=Angel, Master of the Hounds, Dark Elf, Balder
+|relatives=
+|powers=Superhuman strength and resilience.<br>Dark Faerie Magic.<br>Can summon The [[Wild Hunt]].
+|}}
+
+'''Malekith the Accursed''' is a [[supervillain]] in the [[Marvel Universe]].  He is lord of the [[Svartálfar|Dark Elves]] of [[Svartalfheim (comics)|Svartalfheim]], and has come into conflict with [[Thor (Marvel Comics)|Thor]].  He once wielded the [[Casket of Ancient Winters]].
+
+==External link==
+*[http://www.immortalthor.net/bio-malekith.html Malekith at ImmortalThor.net]
+
+{{Marvel-villain-stub}}
+
+[[Category:Fictional magic users]]
+[[Category:Thor villains]]

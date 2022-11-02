@@ -1,0 +1,54 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = [[Image:micromax-excalibur.jpg|150px]]
+| caption = 
+| comic_color =background:#ff8080 
+| character_name =Micromax 
+| real_name =Scott Wright 
+| species=[[Mutant (Marvel comics)|Human Mutant]]
+| publisher =[[Marvel Comics]] 
+| debut = ''Excalibur'' vol. 1 #44 (December 1991)
+| creators = [[Alan Davis]]
+| alliance_color =background:#ffc0c0 
+| alliances =MI-16
+| previous_alliances =[[Excalibur (comics)|Excalibur]], R.C.X., F.I.6, Brand Corporation
+| aliases =Mr. Right
+| powers =Mass and size manipulation<br.>Strength proportionate to size}}
+
+'''Micromax''' ('''Scott Wright''') is a [[fictional character]], a [[Mutant (Marvel comics)|mutant]] [[superhero]] of the [[Marvel universe]].  He first appeared in ''Excalibur'' vol. 1 #44.
+
+==Fictional character biography==
+Scott Wright was first seen mistaking [[Rachel Summers]] for a burglar. He later was back up for a disastrous mission with his superior officer Brigadier Theobold Blott, several psychics and a team of F.I.6 'Mediators'. They were assigned to track down the perpetrator of the previous thefts and they encountered [[Necrom]] a powerful sorcerer. Micromax was the only one to survive the mission, due to his shrinking abilities. He shrunk too fast and passed out. Necrom came away with the impression Micromax has very little viable life force. He later helped Excalibur's member [[Kylun]] and [[Feron]] battle Necrom, using his powers to grow to a massive size and crush Necrom, stunning him temporarily and allowing the other heroes to mount an offense.  
+
+Micromax later participates in battling the threat from the politician Orpington Smythe. Smythe was using manipulation, torture and murder in an attempt to control all the governmental agencies that dealt with super-powered happenings. Excalibur and a mutiny from within Smythe's own ranks eventually end his threat.
+
+After a few missions with Excalibur, he resigns from the FI6 police of the [[United Kingdom]] [[force]] to join the [[Brand Corporation]] in [[New Jersey]]. He keeps using his super-hero identity from time to time, and even helps the [[Avengers (comics)|Avengers]] face the invasion of [[Kang the Conqueror]].
+
+Though very few people were originally aware of this, Micromax is actually an out of shape middle-aged man whose powers make him able to look like a younger, athletic person.
+
+===Civil War/The Initiative===
+It is revealed that Micromax has formed a policing force against unruly mutants. This team is fronted by [[Bishop (comics)|Bishop]] with the support of [[Sabra (comics)|Sabra]]. Micromax is therefore associated with Iron Man's side<ref>David Hine; ''[[Civil War (comics)|X-Men: Civil War]]'' #1; September 2006</ref>.
+
+He becomes involved in a battle with [[X-Force]] & the surviving original [[X-Men]] over the fate of the '198', a group of mutants being forcibly detained on the grounds of the [[X-Mansion]]. During the fight he is stabbed in the chest by [[Shatterstar]]. The 198 escape. He receives medical attention and survives the attack <ref>[[Anthony_Flamini|Flamini, Anthony]] & Byrd, Ronald; ''Civil War: Battle Damage Report''; March 2007</ref>.
+
+Scott has been identified as one of the 142 registered superheroes who appear to have registered as part of the [[Avengers: The Initiative]]<ref>[[Avengers: The Initiative]] #1</ref>. <ref>[http://www.marvel.com/news/comicstories.947 Avengers: The Initiative #1 Character Map]</ref> 
+ 
+However, considering that Micromax is a citizen and agent of The British government, The Initiative should have no effect on his status.
+
+==Powers and abilities==
+As a former special agent, Micromax no doubt has received police and possibly special ops training. As for mutant powers, it was long thought that they consisted exclusively of the ability to increase, decrease or redistribute his body mass, allowing for dramatic size change. During the recent Civil War incident in which he was stabbed, it was however finally publicly revealed that he is a shapeshifter, and that not only his size change ability, but also his supposedly "normal", fit appearance actually resulted from shapeshifting. Micromax's real appearance is revealed to be that of a pot-bellied [[dwarfism|dwarf]].
+
+==Footnotes==
+{{reflist}}
+
+==External links==
+*[http://www.marvunapp.com/Appendix3/micromax.htm A profile of him]
+*[http://marvel.com/universe/Micromax Micromax on the Marvel Universe Characters Bio Wiki]
+
+[[Category:British superheroes]]
+[[Category:Fictional British people]]
+[[Category:Fictional characters who can change their size]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]]
+
+[[pt:Micromax]]

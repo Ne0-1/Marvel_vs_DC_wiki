@@ -1,0 +1,36 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[image:samsawyer.jpg]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Happy Sam Sawyer
+|real_name=Samuel Sawyer
+|publisher=[[Marvel Comics]]
+|debut=''Sgt. Fury and the Howling Commandos'' vol. 1 #1
+|creators=
+|alliance_color=background:#cccccc
+|status=Deceased
+|alliances=
+|previous_alliances=[[Howling Commandos]]
+|aliases=
+|relatives=
+|powers=
+|}}
+'''General Samuel "Happy Sam" Sawyer''' is a [[fictional character]] in the [[Marvel Comics]] Universe. His first appearance was in ''Sgt. Fury and the Howling Commandos vol. 1 #1''.
+
+==History==
+'''Happy Sam Sawyer''' was formerly a member of Finley's Flying circus alongside [[Nick Fury]] and [[Red Hargroves]].  During his years as a circus performer, he was nicknamed Happy Sam by Fury and Hargroves.  During [[World War II]], he helped organise the [[Howling Commandos]], the [[Deadly Dozen]] and led the [[Maulers]] and the [[Missouri Marauders]].  In modern times, [[Baron Strucker]] created an LMD of Sawyer that attacked the original Howling Commandos as well as [[Captain America]].  Sawyer would sacrifice himself when the LMD detonated itself while trying to gain missile navigation override codes in ''Captain America'' vol. 1 #274.
+
+==Bibliography==
+*''Captain America'' vol. 1 273-274 (death)
+*''Marvel Comics Presents'' #77
+*''Marvel Fanfare'' vol. 1 #10
+*''Sgt. Fury and his Howling Commandos'' #1, 7
+
+{{marvel-comics-stub}}
+
+[[Category:Fictional World War II veterans|Sawyer]]
+[[Category:World War II fictional beings|Sawyer]]
+[[Category:Marvel Comics heroes, non-superpowered|Sawyer]]
+[[Category:Marvel Comics supporting characters|Sawyer]]
+[[Category:Fictional soldiers|Sawyer]]
+[[Category:Fictional circus performer|Sawyer]]

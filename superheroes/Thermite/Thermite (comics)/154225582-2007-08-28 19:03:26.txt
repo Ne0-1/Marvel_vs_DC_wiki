@@ -1,0 +1,28 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Thermite
+|real_name=Sam Yurimoto
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Squadron Supreme]]'' #10 (Jun 1986)
+|creators=[[Mark Gruenwald]] and [[Paul Ryan (comic artist)|Paul Ryan]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Squadron Supreme]], [[Nighthawk (Marvel Comics)|Nighthawk’s]] [[America Redeemers|Redeemers]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''Thermite''' is a [[fictional character]], owned by [[Marvel Comics]] who exists in the universe of the [[Squadron Supreme]].
+
+==Fictional character biography== 
+Thermite was recruited by [[Nighthawk (Marvel Comics)|Nighthawk]] into his [[America Redeemers|Redeemers]] to oppose his former group, the [[Squadron Supreme]].  Along with four other members  of the Redeemers ([[Redstone (comics)#Squadron Supreme|Redstone]], [[Moonglow (comics)|Moonglow]], [[Inertia (Marvel Comics)#Inertia (Squadron Supreme)|Inertia]], and [[Haywire (comics)|Haywire]]), Thermite infiltrated the Squadron and served for about a month before the Redeemers openly opposed the Squadron.  He was killed when his regulator pack was damaged in a collision with the [[Whizzer#Stanley Stewart (Earth-712)|Whizzer]].
+
+==Powers and abilities==
+Thermite could project intense heat from the left side of his body, and intense cold from the right.  He needed a regulator pack to control his body temperature at the interface between his two sides of his body.
+
+[[Category:Marvel Comics mutates]]

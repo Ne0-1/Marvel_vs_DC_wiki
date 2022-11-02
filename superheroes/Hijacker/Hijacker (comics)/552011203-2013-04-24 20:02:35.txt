@@ -1,0 +1,53 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Hijacker
+|real_name=Howard Mitchell
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Tales to Astonish]]'' #40 (Feb 1963)
+|creators=[[Stan Lee]], [[Larry Lieber]] and [[Jack Kirby]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''Hijacker''' is a [[Fictional character|fictional]] [[American comic book]] character owned by [[Marvel Comics]] who exists in that company's [[Marvel Universe]].
+
+Hijacker was a gimmick-laden villain who specialized in stealing technology for later resale in criminal auctions.
+
+==Publication history==
+Hijacker first appeared in ''[[Tales to Astonish]]'' #40 (February 1963), and was created by [[Stan Lee]], [[Larry Lieber]] and [[Jack Kirby]].
+
+The character subsequently appears in ''Marvel Two-In-One'' #24 (February 1977), #96 (February 1983), and ''Captain America'' #319 (July 1986), in which he was killed by the [[Scourge of the Underworld]].
+
+==Fictional character biography==
+Hijacker was first defeated by [[Henry Pym|Ant-Man]],<ref>''Tales to Astonish'' #40</ref> and later by [[Bill Foster (comics)|Black Goliath]] and the [[Thing (comics)|Thing]].<ref>''Marvel Two-In-One'' #24</ref>  He was good at last-moment “rabbits out of the hat” tricks that no one expected. He returned for vengeance on the Thing after the hero was hospitalized. He used a tank similar in appearance to his last one, but it was not as durable and [[Iron Man]] made quick work of it.<ref>''Marvel Two-In-One'' #96</ref> 
+
+Hijacker attended the “Bar With No Name” massacre. Without his gimmicks and protection, he proved easy prey for the [[Scourge of the Underworld]].<ref>{{cite comic|writer = [[Mark Gruenwald]]|penciller = [[Paul Neary]]|inker = [[Dennis Janke]]|story = Overkill|title = [[Captain America]]|volume = 1|issue = 319|date = July 1986|publisher = Marvel Comics}}</ref>
+
+Hijacker was later among the eighteen criminals, all murdered by the Scourge, to be resurrected by [[Hood (comics)|Hood]] using the power of [[Dormammu]] as part of a squad assembled to eliminate the [[Punisher]].<ref>''Punisher'' Vol. 7 #5</ref> He carries over a dozen different kinds of gases in his backpack, and has his giant impenetrable tank.<ref>http://www.comicbookresources.com/news/preview2.php?image=previews/marvelcomics/punisher/villains/PunisherVillains-6.jpg</ref> Hijacker chases the Punisher in his tank, but the Punisher escapes by using Pym particles to shrink down and get into the tank; after taking control of the tank, Punisher crashes it into the building where [[Basilisk (comics)|Basilisk]] was holding [[G. W. Bridge]] and uses the gases on Basilisk.<ref>''Punisher'' Vol. 7 #9</ref>
+
+In the cleanup following [[Spider-Island]], he attempted an opportunistic bank heist, but was noticed and pursued by [[Venom (comics)|Venom]]. During the chase, he accidentally ran over a mother and her child, causing [[Flash Thompson|Flash]] to lose his temper and bite Hijacker's head off.<ref>''Venom'' (2011) #9</ref>
+
+==Equipment==
+Hijacker gained his abilities from his heavy body-suit, which provided the power for his weapons. His heavy, brown, reinforced fabric suit provided protection against physical, energy, heat, fire, and cold attacks.  When sealed with his odd-looking helmet, Hijacker had his own 4-hour oxygen supply and was immune to gases.
+
+Hijacker’s main weapon was a multifunction gun called a “Vario-Blaster,” attached to the belt of his outfit by a cable.  With his weapon, Hijacker could fire: “nuclear flame,” knock-out nerve gas, damaging projectiles, “ionic blasts,”, and an “activator beam” which activated any nearby machinery.
+
+Hijacker’s “Crime-Tank” was a heavily armored fort on spiked treads.  This mobile base was an off-road vehicle, and had electromagnets as weapons. This tank was destroyed by the Thing and Black Goliath.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix/hijacker.htm|Hijacker}}
+*http://en.marveldatabase.com/Howard_Mitchell_%28Earth-616%29
+
+[[Category:Comics characters introduced in 1963]]
+[[Category:Marvel Comics supervillains]]

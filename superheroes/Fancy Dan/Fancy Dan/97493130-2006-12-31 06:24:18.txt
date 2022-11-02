@@ -1,0 +1,27 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Fancy Dan
+|real_name=Daniel Brito
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Amazing Spider-Man]]'' #10 (Mar 1964)
+|creators=[[Stan Lee]] and [[Steve Ditko]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Enforcers (comics)|Enforcers]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''Fancy Dan''' is a fictional character in the [[Marvel Universe]].
+
+Daniel Brito was born in [[Brooklyn, New York]].  Along with [[Montana (comics)|Montana]] and the original [[Ox (comics)|Ox]], he was a founding member of the [[Enforcers (comics)|Enforcers]].  He has great proficiency with [[judo]] and [[karate]].
+
+
+{{Marvel-villain-stub}}
+
+[[Category:Spider-Man villains]]

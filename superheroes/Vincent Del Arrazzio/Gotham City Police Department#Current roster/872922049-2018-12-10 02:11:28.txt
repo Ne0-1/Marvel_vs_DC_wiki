@@ -1,0 +1,333 @@
+{{Multiple issues|
+{{refimprove|date=August 2012}}
+{{Primary sources|date=October 2018}}
+{{update|date=February 2016}}
+}}
+{{Infobox comics organization <!--Wikipedia:WikiProject Comics-->
+|image=File:GCPD Detective Comics 990.png
+|imagesize= 300
+|caption=Gotham City Police Department Headquarters in ''Detective Comics'' #990 (December 2018). Art by Stephen Segovia.
+|publisher=[[DC Comics]]
+|debut=<!-- probably the first issue of Batman or the first time he appeared in Detective Comics -->
+|creators=[[Bob Kane]]<br>[[Bill Finger]]
+|type=Law enforcement agency
+|business=
+|organisation=
+|organization=y
+|base=[[Gotham City]]
+|owners=[[James Gordon (comics)|James Gordon]] (Police Commissioner)<br>[[Maggie Sawyer]]
+|employees=[[Harvey Bullock (comics)|Harvey Bullock]]<br>[[Gotham Central|Major Crimes Unit]]
+|fullroster=
+|cat=law enforcement agencies
+|subcat=DC Comics
+|sortkey=Gotham City Police Department
+|}}
+The '''Gotham City Police Department''' ('''GCPD''') is a fictional [[police]] department appearing in [[American comic book]]s published by [[DC Comics]]. The GCPD services [[Gotham City]] and is typically depicted in stories featuring the [[superhero]] [[Batman]].
+
+{{TOC limit|3}}
+
+==History of GCPD==
+===Police corruption===
+Acting as both ally and opponent of [[Batman]], the superhero long-established in Gotham, the GCPD has long been steeped in [[Political corruption|corruption]], with numerous officers both high-and-low ranking involved in bribery and even more serious offenses such as drug-trafficking and murder.
+
+The strongest blow against [[police corruption]] came when an increasing amount of [[Conspiracy (crime)|conspiracy]] charges against [[Gillian B. Loeb|Commissioner Gillian B. Loeb]] forced him to [[resign]] his position, replaced by Peter Grogan. The Falcone crime family, which has had a stranglehold on Gotham's underground for generations, finally crumbled when a series of killings shook the structure of the [[mafia]] [[organization]]. After the death of [[Carmine Falcone]], the mob lashed out in sloppy, retaliatory crimes which, in combination with rising gang violence, severely crippled [[organized crime]] in Gotham City. Simultaneously, the ebbing presence of corrupt police officers allowed [[James Gordon (comics)|James Gordon]] to become the new commissioner, a man determined to eradicate crime wherever it existed.
+
+The GCPD has had a long [[love-hate relationship]] with the city's [[vigilante]] known as [[Batman]]. Commissioner Gordon went along with him because Batman got the job done. His successor, Commissioner [[Michael Akins]] ordered the arrest of Batman and had the [[Bat-signal]] removed from the roof of [[Gotham Central]]. Corruption and rot within the police department also rose during Akins' tenure as Commissioner.
+
+===Current status===
+As of DC's ''One Year Later'', James Gordon has been reinstated as Commissioner, along with [[Harvey Bullock (comics)|Harvey Bullock]]. Harvey came back on disciplinary probation after helping expose a criminal drug ring. Relations with Batman, including the Bat-Signal, have been established once more. Other characters from ''[[Gotham Central]]'' have appeared in the recent ''[[Tales of the Unexpected (comics)|Tales of the Unexpected]]'' miniseries, featuring [[Crispus Allen]] as the [[Spectre (comics)#Crispus Allen|Spectre]]. Thus far, Detective Driver has appeared in a speaking role. It is unknown what has happened to Commissioner Akins, but it is implied that, following revelations of massive corruption within the department, there has been a drastic cleaning-of-house within the department.
+
+[[Batwoman|Kate Kane]] referred to Akins as police commissioner in the weekly ''[[52 (comics)|52]]'' series, which reveals the events of the missing year. A later issue, however, showed a brief snapshot of Commissioner Gordon's welcome back party. The circumstances of Akins's departure and Gordon's reinstatement have yet to be explained. [[Maggie Sawyer]] is still the commander of the MCU department, and has ended her relationship with former lover Toby Raines.{{Citation needed|date=February 2008}}
+
+==Divisions and personnel==
+{{catseealso|Gotham City Police Department officers}}
+===Homicide Division===
+'''Homicide Division''': The division that handles [[murder]]s and some of the more serious non-[[metahuman]] crimes in Gotham. This is the division Gordon was a part of before becoming commissioner. Former private investigator [[Jason Bard]] is now working on homicide cases for this division.
+{|class="wikitable sortable"
+|-
+!width="20%"|Name
+!width="15%"|Title
+!width="30%"|Role
+!width="17%"|Medium
+!width="20%"|Note(s)
+|-
+| [[James Gordon (comics)|James Gordon]] || [[Police commissioner|Police Commissioner]] || Highest-ranking official in the G.C.P.D. || [[Detective Comics]] || Formerly a Police Detective,<br>Lieutenant then Captain.
+|-
+| Mackenzie "Hardback" Bock || [[Chief of police|Chief of Police]] || Former head of O.C.C.B.<br>(Organized Crime Control Bureau) || ||
+|-
+| Carlos Alvarez || Police Detective<br />(Robbery precinct) || || [[Catwoman#List of Catwoman titles|Catwoman]] comics ||
+|-
+| [[Batman and Robin (comic book)|Lieutenant Bilbao]] || Police Lieutenant || || | [[Batman and Robin (comic book)|Batman and Robin comics]] ||
+|-
+| Gerard "Jerry" Hennelly || Police Lieutenant || Head of the Quick Response Team<br>(G.C.P.D.'s renamed S.W.A.T. team) || || Took over the role from<br />Howard Branden.
+|-
+| [[Gotham Central|Donald Peak]] || Police Officer || || [[Gotham Central]] comics || Former partner of Andy Kelly.
+|-
+| [[Gotham Central|Rebecca Mulcahey]] || Police Officer (Corrupt) || || [[Gotham Central]] comics || Lover of Jim Corrigan.
+|-
+| [[Red Robin (comic book)|Officer Xue]] || Police Officer || || [[Red Robin (comic book)|Red Robin comics]] ||
+|-
+| [[Gotham Central|Nora Fields]] ||  || Supervisor of Gotham City's [[Coroner]]'s Office || [[Gotham Central]] comics || Widow of Charlie Fields.
+|-
+| [[Gotham Central|Stacy]] || [[Secretary]] || Administrative Secretary to Commissioner<br />James Gordon || [[Gotham Central]] comics || Civilian employee.
+|}
+
+===Major Crimes Unit===
+'''Major Crimes Unit''': Led by Capt. [[Maggie Sawyer]], who previously served in [[Metropolis (comics)|Metropolis]] in a similar position with that city's police, the MCU deals with the most serious crimes, often involving [[supervillains]] or politically sensitive cases. This division is the focus of the [[comic book]] [[book series|series]] ''[[Gotham Central]]''.
+{|class="wikitable sortable"
+|-
+!width="18%"|Name
+!width="28%"|Title
+!width="12%"|Role
+!width="15%"|Medium
+!width="30%"|Note(s)
+|-
+| [[Gotham Central|David Cornwell]] || Police Lieutenant, Major Crimes Unit || Second in<br>command of the<br>Major Crimes Unit || [[Gotham Central]] comics || Commander of the second (night) shift, successor of deceased Lt. Probson.
+|-
+| [[Gotham Central|Josh Azeveda]] || [[Detective]], Major Crimes Unit || || [[Gotham Central]] comics || Partnered with Trey Hartley.
+|-
+| [[Gotham Central|Joely "Joe" Bartlett]] || Detective, Major Crimes Unit || || [[Gotham Central]] comics || Partnered with Vincent Del Arrazzio.
+|-
+| [[Harvey Bullock (comics)|Harvey Bullock]] || Detective, Major Crimes Unit || || [[Detective Comics]] || Restored to duty under severe scrutiny.
+|-
+| [[Gotham Central|Thomas "Tommy" Burke]] || Detective, Major Crimes Unit || || [[Gotham Central]] comics || Partnered with Dagmar Procjnow.
+|-
+| [[Gotham Central|Romy Chandler]] || Detective, Major Crimes Unit || || [[Gotham Central]] comics || Partnered with Takahata.
+|-
+| [[Gotham Central|Eric Cohen]] || Detective, Major Crimes Unit || || [[Gotham Central]] comics || Partnered with Andi Kasinsky.
+|-
+| [[Gotham Central|Nelson Crowe]] || Detective, Major Crimes Unit || || [[Gotham Central]] comics || Partnered with Jackson Davies.
+|-
+| [[Gotham Central|Jackson "Sarge" Davies]] || Detective Sergeant, Major Crimes Unit || || [[Gotham Central]] comics || Partnered with Nelson Crowe.
+|-
+| [[Gotham Central|Vincent Del Arrazzio]] || Detective Sergeant, Major Crimes Unit || || [[Gotham Central]] comics || Partnered with Joely Bartlett.<br>Associate of the [[Huntress (Helena Bertinelli)|Huntress]].
+|-
+| [[Gotham Central|Marcus Driver]] || Detective, Major Crimes Unit || || [[Gotham Central]] comics || Partnered with Josephine MacDonald.
+|-
+| Nicholas "St. Nick" Gage || Detective, Major Crimes Unit || || || Gotham PD's newest recruit who has just transferred from [[Coast City]] Police Department. He is a supporting character of [[Stephanie Brown (comics)|Batgirl VI]].
+|-
+| [[Gotham Central|Trey Hartley]] || Detective, Major Crimes Unit || || [[Gotham Central]] comics || Partnered with Josh Azeveda.
+|-
+| [[Gotham Central|Andi Kasinsky]] || Detective, Major Crimes Unit || || [[Gotham Central]] comics || Partnered with Eric Cohen.
+|-
+| [[Gotham Central|Josephine "Josie Mac" MacDonald]] || Detective, Major Crimes Unit || || [[Gotham Central]] comics || Partnered with Marcus Driver.<br>Possesses the psychic ability<br>to find lost people and objects.
+|-
+|[[Renee Montoya]] || Detective, Major Crimes Unit. || ||[[Detective Comics]] || Pre-Flashpoint, partnered with [[Crispus Allen]] and resigned after his death and became the [[Question (comics)|Question]]. Retconned and re-introduced as Harvey Bullock's new partner in the [[New 52]].
+|-
+| [[Gotham Central|Dagmar "Dag" Procjnow]] || Detective, Major Crimes Unit || || [[Gotham Central]] comics || Partnered with Thomas Burke.
+|-
+| [[Gotham Central|Detective Takahata]] || Detective, Major Crimes Unit || || [[Gotham Central]] comics || Partnered with Romy Chandler.
+|-
+| [[Red Robin (comic book)|Roman Cavallo]] || Detective, Major Crimes Unit || || [[Red Robin (comic book)|Red Robin]] comics || Partnered with Marcus Wise. Is Corrupt.
+|-
+| [[Red Robin (comic book)|Marcus Wise]] || Detective, Major Crimes Unit || || [[Red Robin (comic book)|Red Robin]] comics || Partnered with Roman Cavallo.<br />Is Corrupt.
+|}
+
+===Quick Response Team===
+'''Quick Response Team''': Led by Lt. Gerard "Jerry" Hennelly, the QRT is the GCPD's [[SWAT]] unit.
+
+===Former members===
+[[File:Gotham City Police Department.jpg|thumb|upright|right|The Gotham City Police Department with the [[Bat-Signal]] on the cover of ''Gotham Central'' #1. Art by Michael Lark.]]
+''Note: The following are either deceased or have been dismissed from the Gotham City Police Department.''
+
+* [[Michael Akins]] - Succeeded Gordon as commissioner, left GCPD during the [[One Year Later|one-year gap]] under unknown circumstances.
+* [[Crispus Allen]] - Detective, Major Crimes Unit. Partnered with Renee Montoya. Killed by Jim Corrigan, now the [[Spectre (comics)|Spectre]].
+* Howard Branden - Former leader of the GCPD's S.W.A.T. team in ''Year One'', underneath the corrupt administration of Commissioner Gillian B. Loeb.
+* [[Jim Corrigan]] - Corrupt [[Crime scene investigator|CSI]] who killed Crispus Allen. Killed by Allen's son. He is not to be confused with the Jim Corrigan that worked as the Spectre.
+* [[Gotham Central|Roger DeCarlo]] - Corrupt officer. Killed by [[Poison Ivy (comics)|Poison Ivy]] after accidentally killing one of her orphans and attempting to cover it up.
+* [[Sarah Essen Gordon]] - Major Crimes Unit commander, wife of Commissioner Gordon. Killed by [[Joker (comics)|the Joker]] during ''[[No Man's Land (comics)|No Man's Land]]''.
+* [[Gotham Central|Charlie Fields]] - Detective, Major Crimes Unit. Partnered with Marcus Driver. Killed by [[Mr. Freeze]].
+* [[Arnold John Flass|Arnold Flass]] - Gordon's corrupt partner, Detective, fired. Killed by [[Hangman (DC Comics)|the Hangman]].
+* Hugh Foley - Opposed Jim Gordon, killed by Billy Pettit during ''No Man's Land'' when he was attempting to seek help from Gordon against the Joker.
+* Jack Grogan - Corrupt commissioner after Loeb and before Gordon, dismissed.
+* Jamie Harper - Detective Specialist. Associate of [[Tim Drake|Robin III]], grandniece of [[Guardian (DC Comics)|James Harper]],<ref>''Detective Comics'' #819</ref> dating [[Jason Bard]]. Has since transferred to the Metropolis [[Science Police]].
+* Andy Howe - Briefly served as police commissioner after Mayor Krol fired Gordon.
+* [[Gotham Central|Andrew "Andy" Kelly]] - Police Officer, partnered with Don Peak. Transformed into a monster by [[Doctor Alchemy]] and killed in self-defense by Peak.
+* David King - Police Captain, former ally of Gordon, killed during ''Year Three''.
+* Stan Kitch - Former lieutenant, now a defense attorney.
+* [[Gillian B. Loeb]] - Corrupt commissioner in ''Year One'', dismissed and later murdered by the Hangman. In the New 52, Loeb instead resigns after Black Mask murders several corrupt cops under his command and Loeb feels partly responsible for allowing his department to become corrupt.<ref>''Detective Comics (vol. 2) #25</ref> In [[Christopher Nolan]]'s [[The Dark Knight (film)|The Dark Knight]], Loeb was a legitimate cop who was murdered by [[Joker (comics)|Joker]] when poison was put into his drink.
+* [[Ballistic (DC Comics)|Kelvin Mao]] - Police Officer, Tactical Unit. Became the superhero known as Ballistic, murdered by [[Superboy-Prime]].
+* [[Officer Merkel|Stan Merkel]] - Watch Commander/Patrolman, friend of Gordon. Killed by the Hangman during ''[[Batman: Dark Victory]]''.
+* [[Gotham Central|Timothy Munroe]] - Corrupt police officer. Killed by [[Poison Ivy (comics)|Poison Ivy]] after accidentally killing one of her orphans and attempting to cover it up.
+* [[List of minor DC Comics characters#Chief O'Hara|Clancy O'Hara]] - Police Chief around the time Gordon had just initially became Commissioner. First victim of the [[Hangman (DC Comics)|Hangman]] at the start of ''[[Batman: Dark Victory]]''.
+* [[Gotham Central|Nate Patton]] - Detective, Major Crimes Unit. Partnered with Romy Chandler. Killed by the Joker.
+* Billy Pettit - Head of SWAT team, went insane. During No Man's Land he and several other officers broke away from Jim Gordon who considered his actions too soft.<ref>''[[Batman: Shadow of the Bat]]'' #88</ref> Pettit later killed a fellow police officer for an imagined betrayal. An enraged [[Huntress (Helena Bertinelli)|Huntress]] quickly subdued him for this and tried to talk some sense into him, only for the Joker to shoot and kill Pettit from behind.
+* [[Gotham Central|Ronald Probson]] - Major Crimes Unit commander, killed by the Joker.
+* Jordan Rich - Corrupt police officer who shot Jim Gordon. Killed indirectly by Harvey Bullock in retaliation.
+* Raymond Wills - Detective, [[Internal affairs (law enforcement)|Internal Affairs Division]]. Was taken hostage by the Joker's men. Resigned after his rescue.
+* [[Maggie Sawyer|Margaret "Maggie" Sawyer]]- Transferred back to Metropolis PD during the [[DC Rebirth]] event. <ref>''[[Action Comics]]'' (vol. 1) #957</ref>
+
+===Commissioners===
+(In tenure list)
+*'''Commissioner McKeever''' — He is mentioned in [[Batman: The Black Mirror]], (''Detective Comics'' #875; May 2011). At this time James Gordon is still Lieutenant.
+* '''Commissioner Gillian B. Loeb''' — The corrupt commissioner of police during the first year of Batman’s operation in Gotham.
+* '''Commissioner Jack Peter Edward Grogan''' - He was Commissioner after Loeb and before Gordon. He was mentioned in the last page of Miller's ''Batman: Year One'' and has a one panel appearance in the ''Catwoman Year One Annual'' and also in ''Batman: The Man Who Laughs'' and ''Batman and the Monster Men'' #1.
+* '''Commissioner James Gordon''' — Replaced Grogan and worked with Batman in trying to clean up the Gotham police department. When he retired, he handed the GCPD over to Michael Akins, only to take the job back some years later. The father of Barbara Gordon, the original Batgirl and later Oracle.
+* '''Commissioner Vane'''- Former Chief Inspector, only served as commissioner briefly when Gordon was demoted to patrolman in ''Detective Comics'' #121. During his brief tenure, he oversaw [[Dr. Hurt]]'s experiments.
+* '''Commissioner Peter Pauling''' — Another corrupt commissioner, appointed by Mayor [[Hamilton Hill (comics)|Hamilton Hill]]. Like Hill, he was working for Rupert Thorne. Pauling issued a shoot-to-kill order for any police officer who spotted Batman, and secretly tried to have Gordon, who was working as a private detective, killed. Pauling eventually died at Thorne's hands and a desperate Mayor Hill re-instated Commissioner Gordon. Pauling may not have existed in the [[Crisis on Infinite Earths#Post-Crisis|Post-Crisis]] DC universe.
+* '''Commissioner Sarah Essen Gordon''' — The wife of James Gordon, appointed Commissioner by Mayor Krol while her husband was demoted. This put a great strain on her relationship with her husband and they split up for a while. Although she had previously been a critic of the Batman, she agreed to Mayor Krol's instructions that she use him.  Mayor Krol sacked her after he lost his re-election bid against Marion Grange, replacing her with Andy Howe.
+* '''Commissioner Andy Howe''' — A lawyer who served briefly as Commissioner during the lame-duck Mayoralty of Armand Krol. (''Detective Comics'' #693, January 1996) When the "Clench" virus was released in Gotham and the city descended into anarchy, most police officers ignored Howe and took orders from James Gordon, at that point a private citizen. Howe lost his job when Marion Grange became Mayor and immediately re-instated James Gordon. (''Robin'' #28, April 1996)
+* '''Commissioner Michael Akins''' — Took over from James Gordon. After the events of the [[Batman: War Games|War Games]] arc, Akins declared all vigilante actions were now illegal, and issued a shoot-to-kill order for any sight of Batman or his associates. He left the position under unspecified circumstance.
+* '''Interim Commissioner Jack Forbes''' - Took over after James Gordon was arrested for the death of 162 people due to a train crash in ''[[Batman Eternal]]'' #1. Appointed by Mayor Hady at the behest of Carmine Falcone and devoted the GCPD to stopping Batman. He even went as far as releasing criminals apprehended by Batman. Exposed by Jason Bard and arrested for his connections to Falcone.
+* '''Commissioner [[Jason Bard]]''' - Cop from [[Detroit]] whose partner was killed during an incident botched by a Batman impostor who transferred to Gotham under James Gordon's behest just before his arrest. Masterminded the downfall of Forbes and took over as Commissioner. However, Bard was actually working with [[Hush (character)|Hush]] and as a result, destroyed evidence of Gordon's innocence, put Gotham into [[martial law]], used the press of girlfriend [[Vicki Vale]] and created an uneasy relationship with the [[Bat Family]]. After failing to take down Batman, Bard realized the error of his ways and attempted to liberate Gordon.
+* '''Commissioner [[Maggie Sawyer]]''': After Bard leaves the position, Maggie Sawyer took over the job.  However, she missed the Major Crimes Squad and following the return of Batman, she stepped down to return to Major Crimes and handed the job back to Gordon.
+
+====Non-canon====
+* '''Commissioner Ellen Yindel''' - Replaces Gordon in the non-canon ''[[Batman: The Dark Knight Returns]]''. In the sequel, ''[[Batman: The Dark Knight Strikes Again]]'', she resigns.
+
+====Alternate Universe====
+* '''Commissioner Tolliver''' - Police commissioner in the alternate 1889 of ''[[Gotham by Gaslight]]''. He is mayor when Batman first emerges and defeats [[Jack the Ripper]]. Claiming the victory as his own, Tolliver is then elected mayor in the sequel, ''Master of the Future''.
+
+===Gotham City FBI===
+The '''Gotham City Federal Bureau of Investigation''' [[FBI field office|field office]] is also featured in the fictitious [[Gotham City]] {{citation needed|date=May 2014}}. The Gotham City FBI personnel are shown using black vehicles with red emergency lights {{citation needed|date=May 2014}}.
+
+==In other media==
+===Film===
+====Serials====
+All other depictions of Batman have portrayed the Gotham City Police Department in some form or another. The 1940s [[Batman (serial)|Batman serials]] has actor [[Lyle Talbot]] in the role of Commissioner Gordon in each one. No other members of the force are shown. However, his appearance of Gordon having a feather-duster mustache was later adapted to the comics.
+
+====Batman Anthology (1989-1997)====
+All the [[Tim Burton]]/[[Joel Schumacher]] series seemed to give little depiction on the GCPD at all. In ''[[Batman (1989 film)|Batman]]'', Gordon is portrayed by [[Pat Hingle]], while the usually corrupt Harvey Bullock is replaced with [[William Hootkins]]' [[Max Eckhardt|Lt. Max Eckhart]] (who is killed by [[Joker (comics)|Jack Napier]] prior to his accidental transformation). Hingle also appeared in ''[[Batman Returns]]'', ''[[Batman Forever]]'', and ''[[Batman & Robin (film)|Batman & Robin]]''.
+
+====The Dark Knight trilogy====
+In the Nolan films, the GCPD acts as both an ally and an opponent to Batman, however, they play a much greater pivotal role than other depictions of the force.
+
+;''[[Batman Begins]]'':
+In ''[[Batman Begins]]'', the GCPD plays a pivotal role throughout the course of the film, as one of the forces against Batman under the direction of the staunchly vigilante-opposed Commissioner [[Gillian B. Loeb]] (played by [[Colin McFarlane]]). While other members of the GCPD are also present, two well-known detectives among them are featured; [[James Gordon (comics)|James Gordon]] (played by [[Gary Oldman]]) and his partner [[Arnold Flass]] (played by [[Mark Boone Junior|Mark Boone, Jr.]]). While Gordon is portrayed as one of the few honest police officers in the department, Flass is portrayed as being corrupt and dealing extensively with the local [[mafia]] and Loeb, though clearly displeased with the arrival of Batman, does not seem to possess any corrupt tendencies evident in the source material.
+
+Considering that the film captures the early appearances of the Batman, there is much fear and skepticism among the rank and file about whether the Batman exists and if he is even human. Gordon, who had met Batman before he had adopted the Batman motif, not only realizes he is human, but recognizes the necessity of his actions. Gordon continues to work with him through his early weeks in operation. Batman, who trusts Gordon, a good cop he met during his childhood after his parents murder, includes him in his plan to save Gotham from the [[League of Assassins|League of Shadows]]' fear toxin attack on the Narrows. At the end of the film, Batman's actions have sparked a change in the city and the cops' morality, leading to Gordon being promoted to Lieutenant.
+
+;''[[The Dark Knight (film)|The Dark Knight]]'':
+In ''[[The Dark Knight (film)|The Dark Knight]]'', Gordon is reassigned as commanding officer of the Major Crimes Unit (MCU), a newly formed division of the GCPD created to combat the Gotham crime syndicates and thwart terrorist attacks. Three detectives of this unit are featured; Gerard Stephens (played by [[Keith Szarabajka]]), Michael Wuertz (played by [[Ron Dean]]) and Anna Ramirez (played by [[Monique Curnen]]), among others.
+
+Relations between the DA's office and the police, especially between Gordon and [[Two-Face|Harvey Dent]], remains tense throughout most of the film, with corruption in the rank and file; and even within Gordon's unit, being a key source of this conflict in ''The Dark Knight'', with Dent suspecting that Ramirez and Wuertz are corrupt (based on his investigations while working in Internal Affairs, immediately before his election to District Attorney). In response to Dent's "attacks" on the police department and the actions of the League of Shadows from the first film, Loeb set up the Major Crimes Unit within the GCPD to counter possible terrorist attacks as well as rid the city of its organized crime. In the Major Crimes Unit, acceptance of the Batman, though reluctant, is growing. By the end of the film, Batman is framed for the violent actions of Harvey Dent and the police force turns against him.
+
+;''[[The Dark Knight Rises]]'':
+In ''[[The Dark Knight Rises]]'', the GCPD has successfully eradicated the city's organized crime under "The Dent Act," as most remain oblivious to Harvey Dent's crimes. Gordon remains in guilt over letting Batman taking the fall for Dent, and waiting for a chance to admit the truth to the city. Rookie MCU detective [[Robin in other media#The Dark Knight Rises|John Blake]] (played by [[Joseph Gordon-Levitt]]) becomes aware of the truth, and also has deduced Batman's identity beforehand, eventually becomes a friend and ally of Gordon and Batman, as well as serving as their liaison. Blake is also later promoted from patrol cop to detective after Gordon sees his intelligence and dedication, thus allowing him to report directly to the commissioner. Gordon's deputy commissioner Peter Foley (played by [[Matthew Modine]]), though not corrupt, is determined to capture Batman, to the point that when Batman crashes the police chase of Bane and some of his henchmen following Bane's robbery of the stock exchange, Foley issues orders for the police participating in the chase to pursue Batman instead. As a result, Bane ends up escaping while his henchmen are captured.
+
+[[Bane (comics)|Bane]] and the [[League of Assassins|League of Shadows]] later use explosive-laced concrete to trap most of the force underground for months until they are freed by Batman and his allies. Bane also discovers the truth of the circumstances behind Harvey Dent's death and reveals it to the GCPD and the rest of the city, thus ending the manhunt against Batman. However, this also is used by Bane to break the criminals imprisoned under the Dent Act out of prison and wreak havoc around Gotham, much to both the police and the citizens' misfortune. Eventually, the police department are instrumental of the League of Shadows' defeat, though Foley and many officers are killed in action. The GCPD, with the aid from Batman and his allies, has successfully captured the surviving League of Shadows members and Gotham's criminals, restoring order back to the city.
+
+Blake resigns himself from the police department following Batman's apparent death and after receiving a set of coordinates left by the Dark Knight, the young detective discovers the [[Batcave]] beneath [[Wayne Manor]].
+
+=====Uniforms=====
+The GCPD in the Nolan films is heavily modeled on the [[New York City Police Department]]. Patrol cars are painted in a modified version of a paint job used by the NYPD in the 1980s and 1990s. In a flashback scene shortly after the deaths of Bruce's parents in ''Batman Begins'', Gordon and other officers are shown wearing sky blue uniforms, similar to those worn by the NYPD from the 1970s through the mid-1990s. In all present-day scenes, patrol officers wear black uniforms. The text on patrol officers' shoulder patches, as well as various modified versions of the logo such as the seal used on SWAT trucks, establish the force as being first established in 1820.<ref>[http://www.therpf.com/showthread.php?t=161325 Dark Knight Rises GCPD Vehicles Reference pics]</ref>
+
+====DC Extended Universe====
+The GCPD appears briefly in the extended cut of ''[[Batman v Superman: Dawn of Justice]]'' and reappears once again for ''[[Justice League]]''. For the new standalone Batman movie, it is possible that the GCPD will make another appearance.
+
+====''[[Batman: Year One (film)|Batman: Year One]]''====
+The GCPD appear as an opponent to Batman. During the events of ''Year One'', Batman wasn't trusted, he doesn't have a relationship with GCPD and Gotham City doesn't consider him a hero. Although many of the GCPD officers are revealed to be corrupt, Lt. James Gordon builds a partnership with Batman.
+
+====''Justice League: War''====
+Some GCPD helicopters chase Batman, [[Green Lantern]], and a [[Parademon]] but are unable to catch up with the trio.
+
+====''Son of Batman''====
+The GCPD appear in ''[[Son of Batman]]''.
+
+====''Batman Bad Blood''====
+The GCPD make a brief appearance in ''[[Batman: Bad Blood]]''.
+
+===Television===
+====Live-action====
+=====''[[Batman (TV series)|Batman (1966 series)]]''=====
+{{main|Batman (TV series)}}
+The 1960s [[campy]] [[Batman (TV series)|Batman]] featured [[Neil Hamilton (actor)|Neil Hamilton]] as Commissioner Gordon and [[Stafford Repp]] as Chief O'Hara. Both are depicted as being dependent on Batman and Robin to help solve cases. Gordon even keeps a link to the [[Batcave]] called "the [[Batphone]]" on his desk. In the early episodes it's implied that they only call them in for the so-called "arch-criminals" as the police can handle the more mundane ([[murder]], [[burglary]], [[arson]], etc.). But as the show progressed, they became even more dependent on them to solve problems. This is most greatly shown in one episode, when Batman appears to be missing, Gordon laments that the police will have to solve a case "ourselves." Commissioner Gordon and Chief O'Hara would always be seen with a bunch of police officers when it comes to arresting the arch-criminals upon their defeat.
+
+=====''[[Birds of Prey (TV series)|Birds of Prey]]'' (2002 series)=====
+'''Detective Jesse Reese''' - Was played by [[Shemar Moore]]. Is an honest cop in New Gotham who learns of the Birds of Prey and begins to help them. He later enters into a relationship with Huntress. It is later revealed that Reese's birthname was Jesse Hawke, son of crime boss Al Hawke, who became a police officer to atone for his family's sins. This version of the GCPD does have a corruption problem (though it is unclear how bad since a few other honest officers have cameos) and appears to no longer have Jim Gordon at its head.
+
+=====[[Gotham (TV series)|Gotham (2014 series)]]=====
+{{main|List of Gotham characters}}
+In the series, most of the department is corrupt, with very few honest GCPD officers, including James Gordon, Sarah Essen, Renee Montoya, Crispus Allen, and Nathaniel Barnes.<ref>{{cite web|url=https://variety.com/2015/tv/news/michael-chiklis-cast-gotham-1201545334/|title=Michael Chiklis Joins Cast of ‘Gotham’|author=Debra Birnbaum|work=variety.com}}</ref>
+
+James Gordon, one of the few honest police officers of the GCPD, is the central character of the series and one of his intentions is to wipe out the corruption of every single police officer working there, including his partner, Harvey Bullock. Overtime, many police officers grow distant from Gordon as he attempts to uphold the law rather than break it, much to the frustration of Bullock. After capturing Jack Buchinsky following his attack on the GCPD, Gordon investigated a conspiracy involving Commissioner Loeb and Arnold Flass, leading to the former assigning him to the case of the Ogre, who targets the loved ones of police officers, leading to Gordon killing the serial killer and then enlisting the help of Oswald Cobblepot to force Loeb to resign. After the Maniax's attack on the GCPD left Sarah Essen dead <ref>Woodruff, Ken (writer) & Bailey, Rob (director) (September 28, 2015). "Rise of the Villains: Knock, Knock". Gotham. Season 2. Episode 2. FOX.</ref>, Nathaniel Barnes was assigned to the position of Captain and he and Gordon worked together to rid the department of corruption whilst assembling a Strike Force too <ref>Cannon, Danny (writer) & Scott, T.J. (director) (October 12, 2015). "Rise of the Villains: Strike Force". Gotham. Season 2. Episode 4. FOX.</ref>. After a chain of events lead to Gordon being targeted by a resurrected and delusional Theo Galavan, who became the ancient warrior called Azrael <ref>Barnes, Jim & Woodruff, Ken (writers) & Kondracki, Larysa (director) (May 2, 2016). "Wrath of the Villains: Azrael". Gotham. Season 2. Episode 19. FOX.</ref>, the GCPD was once again attacked by the latter and Barnes was seriously wounded, leading to Bullock becoming acting-Captain. Barnes briefly returned but was infected with the Alice Tetch Virus, which was then released all over the city by the [[Court of Owls]] <ref>Hull, Robert (writer) & Bailey, Rob (director) (June 5, 2017) "Heroes Rise: Heavydirtysoul" Gotham. Season 3. Episode 22. FOX.</ref>, forcing the GCPD to contain the situation whilst a cure was procured and Bullock became the new Captain. However, Cobblepot collaborated with the reluctant GCPD under "Pax Penguina" as criminals were issued licenses to enable them to commit crimes, much to Gordon's chagrin <ref>Stephens, John (writer) & Cannon, Danny (director) (September 21, 2017). "A Dark Knight: Pax Penguina". Gotham. Season 4. Episode 1. FOX.</ref>. Bullock, who had the department's best interests at heart, began to take money from Cobblepot and issued releases for detained criminals with licenses. Soon after, [[Professor Pyg]] began to terrorize Gotham and abducted numerous police officers who were Cobblepot's bagmen and murdered them. The GCPD teamed up with Cobblepot to capture the Pyg, who took advantage of Bullock's reckless actions to ambush them and slaughter dozens of police officers whilst the former accidentally shot a police officer disguised as Pyg himself. Gordon rescued them and his bravery earned him praise from the department, who rejected the licenses and Gordon was promoted to Captain, causing Bullock to resign from the GCPD in disgrace. However, Sofia Falcone had intended for Gordon to become the Captain to actually control him otherwise there will be chaos instead, forcing Gordon to reluctantly take the blame and become a hero for the city. After Sofia is placed into a coma, Gordon is forced to live with his debt by Bullock, who believed that the department needed someone to look up to.
+
+====Animated====
+{{Rewrite section|date=August 2016}}
+=====DC Animated Universe=====
+;''[[Batman: The Animated Series]]'':
+In the acclaimed [[animated television series]], ''[[Batman: The Animated Series]]'', the GCPD characters are given more attention such as in "P.O.V", where the major characters of the force in the series participate in a detailed debriefing of an incident. One of the most important contributions from the animated series to the Batman universe is the introduction of [[Renee Montoya]] (first as a uniformed officer, then a detective), which would later become a first-grade character in the ''GCPD'' comic books. In the printed [[DC Universe]], her presence was so solidly incorporated that she later retired from the Department to assume the identity of [[Question (comics)|the Question]].
+; ''Batman Beyond'':
+In this animated series ''[[Batman Beyond]]'', James Gordon's daughter Barbara Gordon (former Batgirl in ''Batman: The Animated Series'') serves as the new commissioner.
+
+====''[[Batman: Gotham Knight]]''====
+Gordon, Ramirez, and Crispus Allen all appear in three of the shorts in ''[[Batman: Gotham Knight]]'' (which bridges the gap between ''Batman Begins'' and ''The Dark Knight'') consisting of ''Crossfire'', ''In Darkness Dwells'', and ''Deadshot''.
+
+Gordon was voiced by [[Jim Meskimen]], Ramirez was voiced by [[Ana Ortiz]], and Allen was voiced by [[Gary Dourdan]].
+
+====''The Batman''====
+On the animated series [[The Batman (TV series)|''The Batman'']], the focus of the GCPD in the first two seasons is on Detectives Ellen Yin (voiced by [[Ming-Na Wen]]) and Ethan Bennett (voiced by [[Steve Harris (actor)|Steve Harris]]) prior to his [[Clayface]] transformation. The corruption on the force is attributed to Chief Angel Rojas (voiced by [[Edward James Olmos]] in the first appearance, [[Jesse Corti]] in later appearances), who appeared often in those seasons.  They served as recurrent antagonists in the first two seasons under Chief Rojas' leadership. However, in the Season 2 finale, [[James Gordon (comics)|Jim Gordon]] (voiced by [[Mitch Pileggi]]), recently appointed Commissioner, calls off the manhunt and forms an alliance with Batman to help keep Gotham safe for his daughter, Barbara. Two episodes of the cartoon series featured another detective of the Gotham City Police Department named Cash Tankinson (voiced by [[Patrick Warburton]]). Neither Rojas nor Yin has been seen since then, though [[Artifacts (The Batman)|one episode that take places in the future]] implies that sometime between now and then, Yin will replace Gordon as Commissioner and Bennet becomes Chief of Police.
+
+====''Beware the Batman''====
+The GCPD appears in ''[[Beware the Batman]]''. James Gordon worked as a police lieutenant and was distrustful towards Batman until he helped save his daughter from Tobias Whale and Phosphorus Rex. During the part where the League of Assassins had control over the Ion Cortex and shut down Gotham City's power, James Gordon became the police commissioner when Commissioner Correa was killed by the League of Assassins.
+
+==Members in other media==
+Each of the different media appearances introduce a member of the Gotham City Police Department that is exclusive to the project:
+
+===In films===
+====The Dark Knight Trilogy====
+=====''[[The Dark Knight (film)|The Dark Knight]]'' (2008 film)=====
+:* '''Detective Anna Ramirez''' (portrayed by [[Monique Curnen]]) - A corrupt police detective- although she only gave in to the mob's demands to pay her sick mother's hospital bills rather than out of more selfish motives- involved in the scarring of Harvey Dent and the death of Rachel Dawes by the Joker. She also appeared in ''[[Batman: Gotham Knight]]'', voiced by [[Ana Ortiz]]. The commentary on the ''[[Batman: Gotham Knight]]'' DVD, indicates she might be loosely inspired by Renee Montoya. She received a head injury from Dent after he cracked her head with the bottom of his revolver. Her fate is unknown, but it's implied from Gordon that she didn't survive her trauma, though she might not have regained consciousness yet.
+:* '''Detective Mike Wuertz''' (portrayed by [[Ron Dean]]) - A corrupt police detective involved in the scarring of Harvey Dent and the death of Rachel Dawes by the Joker. He is later killed when Dent shoots him in the head with a revolver as one of his first actions as Two-Face.
+:* '''Detective Gerard Stephens''' (portrayed by [[Keith Szarabajka]]) - An honest police detective, if not aversed in the field of police brutality. He assists in faking Gordon's death, and is later seen guarding the Joker in an interrogation room, informing the Joker that he has been a cop long enough to distinguish between punks who commit crimes for kicks and the sick animals like the Joker who enjoy it, although he's tricked into attacking the Joker, who holds him hostage temporarily during his escape from custody.
+
+=====''[[The Dark Knight Rises]]'' (2012 film)=====
+:* '''Officer/Detective John Blake''' (portrayed by [[Joseph Gordon-Levitt]]) - An earnest beat cop who was promoted by James Gordon after being attacked by Bane's forces. Originally, an orphan, he had deduced Batman's true identity as Bruce Wayne and befriended him before the attack on Gotham. After Batman "sacrifices himself" to destroy a neutron bomb, John Blake (whose real first name is [[Robin (comics)|Robin]]), is seen entering the [[Batcave]].
+:* '''Deputy Commissioner Peter Foley''' (portrayed by [[Matthew Modine]]) - Second-in-command and close friend to Gordon. Foley is shown as being quite ambitious and initially doesn't believe an injured Gordon's assertions about Bane raising an army underneath the streets of Gotham. He is eager to capture Batman, something he believes Gordon was never capable of, even when Bane is the more immediate and obvious target, to the point that he inadvertently lets Bane escape when Batman crashes the police pursuit following Bane's robbery of the stock exchange. He is one of the few officers who was not trapped underground after Bane triggered multiple explosions in the underground tunnels. Though initially aiding Gordon and other members of the resistance, Foley later refuses to take part in the final push against Bane's forces, fearing for his own safety after what Bane did to those special forces members. However, he relents and joins in the riot between the cops and [[Bane (comics)|Bane]]'s army. Foley manages to kill Bane's lieutenant, Barsad, with a submachine gun, but is then killed by automatic fire from Talia's escaping Tumbler.
+:* '''Officer Tyler Ross''' (portrayed by [[Reggie Lee (actor)|Reggie Lee]]) - Blake's patrol partner who is trapped underground after the explosion in the sewers, and communicates with Blake during the revolution by passing notes through a sewer grate. He is shot dead by a League of Shadows mercenary when Blake is trying to pull him out of a sewer manhole cover.
+
+====''[[Batman (1989 film)]]''====
+:* '''[[Lt. Max Eckhardt|Lieutenant Max Eckhardt]]''' (portrayed by [[William Hootkins]]) - A corrupt cop echoing some of the [[Crisis on Infinite Earths|Pre-Crisis]] aspects of Harvey Bullock. He is killed by Jack Napier at [[Ace Chemicals]] (called Axis Chemicals in the film).
+
+===In television===
+====''[[Batman (TV Series)|Batman]] (1966 series)''====
+:* '''[[Chief Miles O'Hara|Chief O'Hara]]''' (portrayed by [[Stafford Repp]]) - The chief of police.
+
+====''[[Batman: Mystery of the Batwoman]]'' (2003 film)====
+:* '''Detective Sonia Alcana''' (voiced by [[Elisa Gabrielli]]) - She is Harvey Bullock's partner in the film. While investigating the identity of the new vigilante [[Batwoman]], Alcana is one of Batman's suspects. Batman rescued Alcana once from a fire set by [[Rupert Thorne]]'s men nine years prior of the film. Sonia was actually one of the three women that operated at Batwoman alongside Dr. Roxanne Ballantine (whose fiancé was framed for a crime by Penguin) and Kathleen Duquesne (who wanted to end the criminal career of her father Carlton Duquesne). She later resigns upon claiming to be the only one that worked as Batwoman in order to protect the reputation of the Gotham City Police department
+
+====''[[The Batman (TV series)|The Batman]]'' (2004 series)====
+:* '''Chief Angel Rojas''' (voiced by [[Edward James Olmos]] in the first appearance, [[Jesse Corti]] in later appearances) — The Chief of Police. For Chief Rojas, The Batman is nothing less than a black eye to his police force. Believing there is no room for vigilante justice in Gotham, Rojas has made capturing the Dark Knight a top priority.
+:* '''Detective Ellen Yin''' (voiced by [[Ming-Na Wen]]) — Given her name and the events of the episode, "Artifacts", she could be a loose adaptation of Ellen Yindel from ''[[Batman: The Dark Knight Returns]]''. She was Batman's first ally in the Gotham City Police Department before James Gordon came into view.
+:* '''Detective Ethan Bennett''' (voiced by [[Steve Harris (actor)|Steve Harris]]) — He is a childhood friend of Bruce Wayne's. Due to a chemical created by the Joker, he becomes the first Clayface for this series and is later cured in "Clayfaces."
+:* '''Detective Cash Tankinson''' (voiced by [[Patrick Warburton]]) - He is a bumbling detective who was Yin's partner for the episode "JTV." Cash later returned in the episode "Cash for Toys" where he was assigned to be Bruce Wayne's personal bodyguard after he was targeted by Cosmo Krank.
+
+====''[[Beware the Batman]]'' (2013 series)====
+:* '''Commissioner Correa''' (voiced by [[Carlos Ferro (American actor)|Carlos Ferro]]) - He was the police commissioner of the Gotham City Police Department until he was killed by two ninjas of the League of Assassins upon not giving in to Ra's al Ghul's demands. Due to his death, James Gordon was sworn in as the new police commissioner.
+:* '''Officer Dombrowski''' (voiced by [[James Arnold Taylor]]) - A police officer that worked for the Gotham City Police Department.
+:* '''Officer O'Brien''' (voiced by [[Michael Patrick McGill]]) - A police officer that worked for the Gotham City Police Department.
+:* '''Officer Rodriguez''' (voiced by [[Carlos Ferro (American actor)|Carlos Ferro]]) - A police officer that worked for the Gotham City Police Department.
+:* '''Detective Marcie Brown''' (voiced by [[Tara Strong]]) - A police detective that worked for the Gotham City Police Department.
+
+====''[[Gotham (TV series)|Gotham]]'' (2014 TV series)====
+{{expand section|date=May 2018}}
+:* '''Andrew Dove''' (portrayed by [[James Mount]]) - A police officer who later became an informant to the Cult of Jerome.
+:* '''Ben Mueller''' (portrayed by [[Laurence Mason]]) - A detective that once investigated the Ogre.
+:* '''Bill Cranston''' (portrayed by [[James Colby]]) - A corrupt police lieutenant. He was killed by Balloonman.
+:* '''Campos''' (portrayed by Flora Diaz) - A detective.
+:* '''Derek Delaware''' (portrayed by [[Niko Nicotera]]) - A detective in the GCPD's Narcotics Department.
+:* '''Franks''' (portrayed by Michael Barra) - A member of the Gotham City Police Department. He once showed up late to stop Zaardon and is later among the police officers that were temporarily mind-controlled by Ivy Pepper.
+:* '''Nathaniel Barnes''' (portrayed by [[Michael Chiklis]]) - A former Marine who became the Captain of the Gotham City Police Department days after Sarah Essen was killed by Jerome Valeska. He later falls victim to the Alice Tetch Virus that causes him to target the guilty under the name of Executioner.
+:* '''Reynolds''' (portrayed by Harry Sutton Jr.) - The police commissioner who succeeded Sarah Essen. He and Archbishop McGregor were killed by Jerome Valeska's neck bombs during his ransom demand of Bruce Wayne and Jeremiah Valeska.
+:* '''Strike Force''' - A group of trained police officers that were assembled by Nathaniel Barnes.
+:** '''Carl Pinkney''' (portrayed by Ian Quinlan) – One of the several young police trainees to join Captain Nathaniel Barnes' strike force. He is killed by Edward Nygma using a crowbar on him to frame Gordon for the murder.
+:** '''Josie Mac''' (portrayed by [[Paulina Singer]]) - A member of the GCPD's Strike Force.
+:** '''Luke Garrett''' (portrayed by [[Lenny Platt]]) – One of the several young police trainees to join Captain Nathaniel Barnes' strike force. He gets burned by Firefly during her fight with Gordon and Bullock where he later died in the hospital.
+:** '''Sal Martinez''' (portrayed by Lucas Salvagno) – One of the several young police trainees to join Captain Nathaniel Barnes' strike force. He is later killed by Tabitha Galavan when he tried to arrest her during the fight between Oswald Cobblepot's gang and the Gotham City Police Department.
+:* '''Vanessa Harper''' (portrayed by Kelcy Griffin) - A detective who transferred to the main precinct from the 3-5.
+
+==See also==
+* ''[[Batman: GCPD - Gotham City Police Department]]''
+* ''[[Gotham Central]]''
+
+==References==
+{{Reflist|30em}}
+
+{{Batman}}
+{{Batman characters}}
+{{Gotham}}
+
+[[Category:Gotham City Police Department officers| ]]
+[[Category:1939 in comics]]
+
+[[de:Gotham City (Comics)#Die Polizei von Gotham City]]

@@ -1,0 +1,287 @@
+{{Multiple issues|
+{{Mergefrom|Fate (comics)|date=April 2012}}
+{{Expert-subject|comics|date=November 2012}}
+{{Copyedit|date=December 2012}}
+{{In-universe|date=December 2012}}
+{{Tense|date=December 2012}}
+}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[File:allStars3.jpg|250px]]
+|caption=Kent Nelson and Hector Hall from the promotional art for ''JSA: All-Stars'' #3 (Sept. 2003) cover, by [[John Cassaday]] and [[Mark Lewis (artist)|Mark Lewis]].
+|character_name=Doctor Fate
+|real_name=- Kent Nelson<br> - Eric & Linda Strauss<br> - Inza Cramer Nelson<br> - [[Fate (comics)|Jared Stevens]]<br> - [[Hector Hall]]<br> - Kent V. Nelson<br> - Khalid
+|publisher=[[DC Comics]]<br>[[Vertigo Comics|Vertigo]]
+|debut='''(Kent, Inza)'''<br>''[[More Fun Comics]]'' #55 (May 1940)<br />'''(Strauss)'''<br> ''Doctor Fate'' (vol. 1) #1 (July 1987)<br>'''(Hall)'''<br> (as Doctor Fate) ''[[Justice Society of America#JSA (1999 - 2006)|JSA]]'' #3 (Oct. 1999)<br>'''(Kent V.)'''<br>''[[Countdown to Mystery]]'' #1 (Nov. 2007)<br />'''(Khalid)'''<br>''Earth 2'' #9 (Feb. 2013)
+|creators='''(Kent, Inza)'''<br>[[Gardner Fox]] (writer)<br>Howard Sherman (artist)<br>'''(Strauss)'''<br>[[J. M. DeMatteis]] (writer)<br>[[Shawn McManus]] (artist)<br>'''(Kent V.)'''<br>[[Steve Gerber]] (writer)<br>[[Justiniano]] (artist)<br>'''Khalid'''<br>[[James Robinson (comics)|James Robinson]] (writer)<br>[[Nicola Scott]] (artist)
+|alliances='''(Kent)'''<br>[[All-Star Squadron]]<br>[[Justice Society of America]]<br>'''(Kent, Strauss)'''<br>[[Justice League]]'''<br>(Hall)'''<br>Justice Society of America<br>[[Sentinels of Magic]]'''<br>(Kent V.)'''<br>Justice Society of America 
+|aliases='''(Kent, Strauss, Inza, Hall)'''<br/>[[Lords of Chaos and Order|Nabu]]
+|powers=Manipulation of the [[Magic in fiction|magics]] of Order.
+}}
+
+'''Doctor Fate''' (also known by the [[diminutive]], '''Fate''') is the name of several fictional characters in the [[DC Universe]] who are a succession of [[Magician (fantasy)|sorcerers]]. The original version of the character was created by writer [[Gardner Fox]] and artist Howard Sherman, and first appeared in ''[[More Fun Comics]]'' #55 ([[1940 in comics#May|May 1940]]).
+
+==Publication history==
+<!--as per exemplar, real world history of the characters' use-->
+''More Fun Comics'' #55 (May 1940) introduced the first Doctor Fate in his own self-titled six page strip. After a year with no background, his alter ego and origins were shown in ''More Fun Comics'' #67 (May 1941). At this point, the character was shown to be Kent Nelson, the son of [[Archaeology|archaeologist]] Sven Nelson who died after Kent opened the tomb of the ancient wizard Nabu. The orphaned boy was trained by Nabu in the arts of [[magic (paranormal)|magic]].<ref name="dc-ency">{{Cite book|last=Beatty|first=Scott|author-link=Scott Beatty|contribution=Doctor Fate|editor-last=Dougall|editor-first=Alastair|title=The DC Comics Encyclopedia|page=103|publisher=[[Dorling Kindersley]]|place=New York|year=2008|isbn=0-7566-4119-5|oclc=213309017}}</ref>
+
+Visually, the character was unusual in that he wore a full face [[helmet]] in his earliest appearances. His love interest was known variably as Inza Cramer,<ref name="dfarchives">''The Golden Age Doctor Fate Archives'' (DC Comics), June 2007</ref> Inza Sanders,<ref name="dfarchives"/> and finally Inza Carmer,<ref name="dfarchives"/> which was amended to Inza Cramer in the [[Silver Age of Comic Books|Silver Age]].<ref name="showcase55-56">{{Comic book reference|writer=[[Gardner Fox|Fox, Gardner]]|penciller=[[Murphy Anderson|Anderson, Murphy]] |inker=Anderson, Murphy|story=|title=[[Showcase (comics)|Showcase]]|volume=1|issue=55-56|date=March/April & May/June, 1965|publisher=[[DC Comics]]|page=|panel=}}</ref> His enemies included (in order of first appearance) [[Wotan (comics)|Wotan]], [[Ian Karkull]], [[Nergal]],<ref name="mf67">''More Fun Comics'' #67 (May 1941)</ref> Mr. Who, The Clock, The Octopus, Mad Dog, and various mad scientists, mobsters, and thugs.
+
+When the [[Justice Society of America]] was created for ''[[All Star Comics]]'' #3 (Winter 1940), Doctor Fate was one of the characters [[DC Comics#The Golden Age|National Comics]] used for the joint venture with [[All-American Publications]]. He made his last appearance in the book in issue #21 (Summer 1944), virtually simultaneously with the end of his own strip in ''More Fun Comics'' #98 (July - Aug. 1944).
+
+In ''More Fun Comics'' #72 (Oct. 1941) Doctor Fate's appearance was modified, exchanging the full helmet for a half-helmet so his lower face was exposed, and the focus of the strip shifted away from its supernatural tone to more standard superhero action instead. In ''More Fun Comics'' #85 (Nov. 1942), the character became a medical doctor. The character's popularity waned faster than many of his contemporaries', and the strip was cancelled before the end of World War II with ''More Fun Comics'' #98 (July - Aug. 1944).
+
+Doctor Fate was revived along with many other Justice Society members in the 1960s through the annual team-ups with the [[Justice League|Justice League of America]]. These stories established that the two teams resided on [[Multiverse (DC Comics)|parallel worlds]]. Unlike many of his JSA teammates, Doctor Fate did not have an analogue or counterpart among the Justice League.
+
+Aside from the annual JSA/JLA team-ups in ''Justice League of America'', DC featured the original Doctor Fate in other stories through the 1960s and 1970s. These included a two-issue run with [[Hourman]] in ''[[Showcase (comics)|Showcase]]'' #55-56, wherein it was revealed Kent Nelson and Inza Cramer had married since the end of the Golden Age;<ref name="showcase55-56"/> appearances with [[Superman]] in ''[[World's Finest Comics]]'' (#208, Dec. 1971) and ''[[DC Comics Presents]]'' (#23, July 1980); with [[Batman]] in ''[[The Brave and the Bold]]'' (#156, Nov. 1979); and a solo story in ''[[1st Issue Special]]'' #9 (Dec. 1975), written by [[Martin Pasko]] and drawn by [[Walt Simonson]]. With this story, Pasko introduced the concept that Nabu's spirit resided in the helmet and took control of Nelson whenever the helmet was donned.
+
+In the early 1980s [[Roy Thomas]] incorporated the retcon that Nabu inhabited the helmet into his ''[[All-Star Squadron]]'' series, set during [[World War II]], as an explanation for the changes in Doctor Fate's helmet and powers.<ref name="ass23">''All-Star Squadron'' #23 (July 1983)</ref>
+
+Kent and Inza, now combining into one Doctor Fate, featured in a series of back-up stories running in ''The Flash'' from #305 (Feb. 1982) to #313 (Sept. 1982) written by [[Cary Bates]] and drawn by [[Keith Giffen]], with Pasko taking over as writer in issue #306, (aided by [[Steve Gerber]] from #310 to #313). In 1985, DC collected the back-up stories, a retelling of Dr. Fate's origin by [[Paul Levitz]], [[Joe Staton]] & [[Michael Netzer|Michael Nasser]] originally published in ''Secret Origins of Super-Heroes'' (Jan. 1978) (''DC Special Series'' #10 in the indicia), the aforementioned Pasko/Simonson story from ''1st Issue Special'' #9, and a Doctor Fate tale from ''More Fun Comics'' #56 (June 1940), in a three-issue [[limited series]] titled ''The Immortal Doctor Fate''.
+
+Following 1985's ''[[Crisis on Infinite Earths]]'', Doctor Fate briefly joined the Justice League.<ref>''Legends'' #6 (April 1987)</ref> Soon after, Inza committed suicide and Kent Nelson died of old age and the mantle of Doctor Fate was passed to a pair of humans, Eric and Linda Strauss, (who merged into one being to become Doctor Fate), in a ''Doctor Fate'' limited series.<ref name="Fate1987">''Doctor Fate'' (vol. 1) #1-4 (July - Oct. 1987)</ref> DC then featured Eric and Linda in a ''Doctor Fate'' ongoing series by DeMatteis and [[Shawn McManus]].<ref>''Doctor Fate'' (vol. 2) #1 (Winter 1988)</ref>
+
+[[William Messner-Loebs]] became the series’ writer with issue #25, now starring a resurrected Kent and Inza.<ref name="df25">''Doctor Fate'' (vol. 2) #25 (Feb. 1991)</ref> The series and character shifted so that Inza inherited the Doctor Fate mantle and starred in a series of stories in which she tried to change the world for the better using her powers.<ref>''Doctor Fate'' (vol. 2) #25-36 (Feb. 1991 - Jan. 1992)</ref>
+
+When the series ended with issue #41,<ref>''Doctor Fate'' (vol. 2) #41 (June 1992)</ref> DC retired the Doctor Fate character, replacing the Nelsons with a new character, Jared Stevens, who was introduced in a self-titled series called "Fate" launched in the wake of ''Zero Hour'' in 1994.<ref>''Fate'' #0 (Oct. 1994)</ref> Jared was a smuggler whose weapons were Doctor Fate's transformed helmet and amulet. Both ''Fate'' and its follow up ''The Book of Fate'' were canceled after relatively short runs.<ref name="fate">''Fate'' #0-23 (Oct. 1994 - Sept. 1996)</ref><ref name="bookoffate">''The Book of Fate'' #1-12 (Feb. 1997 - Jan. 1998)</ref>
+
+In 1999 during the revival of the Justice Society in ''[[Justice Society of America#JSA|JSA]]'', DC allowed the character to be reworked; Jared Stevens was killed<ref name="jsa1">''JSA'' #1 (August 1999)</ref> and the mantle of Doctor Fate, along with a restored helmet and amulet, was passed to a new character, in this case a reincarnated Hector Hall, son of the Golden Age [[Hawkman (Carter Hall)|Hawkman]] and [[Hawkgirl]].<ref name="jsa4">''JSA'' #4 (Nov. 1999)</ref> In addition to appearing in ''JSA'', DC published a self-titled, five-issue limited series featuring Hall<ref>''Dr. Fate'' (vol. 3) #1-5 (Oct. 2003 - Feb. 2004)</ref> and positioned him as a prominent magical character in various company-wide event stories.
+
+The character was again set up for change during the ''[[Day of Vengeance]]'' limited series,<ref>''Day of Vengeance'' #2 (July 2005)</ref> part of the lead in to the 2005 company-wide event story, ''[[Infinite Crisis]]''. This included both Hall<ref>''JSA'' #77-80 (Nov. 2005 - Feb. 2006)</ref> and Nabu<ref>''Day of Vengeance: Infinite Crisis Special'' #1 (March 2006)</ref> being killed off and Doctor Fate's helmet being sent to find a new wearer.
+
+In early 2007 DC published a bi-weekly run of one-shot comics featuring the helmet passing through the hands of various magical characters. These included [[Detective Chimp]]; [[Ibis the Invincible]]; [[Sargon the Sorcerer]]; [[Zauriel]]; and [[Black Alice (comics)|Black Alice]].<ref>{{cite web|last=Brady|first=Matt|title=Dr. Fate's Helmet Tours the DCU Before Return Next Spring|publisher=Newsarama|date=2006-10-12|url=http://forum.newsarama.com/showthread.php?t=87428|accessdate=2007-02-11}}</ref>{{dead link|date=May 2011}} The one-shots were intended to be followed by a new ''Doctor Fate'' ongoing series in April 2007, written by [[Steve Gerber]] and illustrated by [[Paul Gulacy]], featuring Kent V. Nelson, Kent Nelson's grandnephew, as the helmet's new wearer.<ref>{{cite web|last=McLauchlin|first=Jim|title=A Twist of Fate|publisher=Wizard|date=2006-12-03|url=http://www.wizarduniverse.com/magazine/wizard/002578766.cfm|accessdate=2007-02-11|archiveurl=http://web.archive.org/web/20071212102237/http://www.wizarduniverse.com/magazine/wizard/002578766.cfm|archivedate=2007-12-12}}</ref><ref>{{cite web|url=http://www.stevegerber.com/sgblog/?p=283 |title=stevegerblog " Blog Archive " Some Thoughts on Doctor Fate - Part 1 |publisher=Stevegerber.com |date=2007-03-03 |accessdate=2011-01-16}}</ref> 
+
+However, the series was delayed due to extended production and creative difficulties. Steve Gerber revealed in an interview with [[Newsarama]] that the story intended for the first arc of the ''Doctor Fate'' ongoing series was being reworked to serve as the main story for ''Countdown to Mystery'', a dual-feature eight issue mini-series with Eclipso as the second story.<ref>{{cite web|title=DC Announcement|publisher=stevegerblog|date=2007-06-15|url=http://www.stevegerber.com/sgblog/2007/06/15/dc-announcement/|accessdate=2007-08-07|archiveurl=http://web.archive.org/web/20070927200602/http://www.stevegerber.com/sgblog/2007/06/15/dc-announcement/|archivedate=2007-09-27}}</ref><ref>{{cite web|title=Heroes Con/WW: Philly '07 - DC's Counting on More Countdown|publisher=Newsarama|date=2007-06-17|url=http://forum.newsarama.com/showthread.php?t=116743|accessdate=2007-08-07}}</ref>{{dead link|date=May 2011}} The first issue of ''Countdown to Mystery'', with art by [[Justiniano]] and Walden Wong rather than Gulacy, was released in November 2007. Due to Steve Gerber's passing, the seventh issue was written by [[Adam Beechen]] using Gerber's notes. The final issue was written by Beechen, [[Gail Simone]], [[Mark Waid]], and [[Mark Evanier]], who each wrote a different ending to the story.<ref>{{cite web|url=http://www.comicbookresources.com/news/newsitem.cgi?id=13096|title=CBR News: WonerCon: DC Nation Panel|publisher=Comic Book Resources|date=2008-02-22|accessdate=2011-01-16}}</ref>
+
+The Kent V. Nelson version of the character then appeared in the ''Reign in Hell'' mini-series<ref>''Reign in Hell'' #1-8 (Nov. 2008 - April 2009)</ref> and in ''Justice Society of America'' (vol. 3) #30, featuring in the book until its cancellation with #54 in August 2011.
+
+A brand new Doctor Fate named Khalid will make his first appearance in ''Earth 2'' #9 in February 2013 as part of DC Comics' ''[[The New 52|New 52]]'' revamp of its comic book line.<ref>[http://www.comicbookresources.com/?page=article&id=42596 DC Comics Solicitations for March, 2013 - Comic Book Resources]</ref><ref>[http://www.dccomics.com/comics/earth-2-2012/earth-2-9 Earth 2 #9 solicitation - DCComics.com]</ref><ref>[http://www.comicbookresources.com/?page=article&id=42513 Robinson Unleashes Fury, Doctor Fate on "Earth 2" - Comic Book Resources]</ref>
+
+==Fictional character biographies==
+
+===Kent Nelson===
+Kent Nelson, the twelve year-old son of American archaeologist Sven Nelson, accompanied his father on an expedition to the Valley of [[Ur]] in [[Mesopotamia]] in 1920. When Kent opened the [[tomb]] of the ancient Egyptian wizard Nabu, a poisonous gas was released which killed Sven. Nabu took pity on the orphaned Kent and raised him for twenty years, teaching him the skills of a wizard before giving him a mystical helmet, [[amulet]] and cloak of his own creation. Nabu then merged his spirit with the helmet, allowing him to possess Kent every time he wore it. Kent first met his love interest Inza Cramer and first encountered his arch nemesis Wotan in [[Alexandria]], [[Egypt]] in 1940 while on his way back to the United States.<ref name="dc-ency"/><ref name="mf67"/><ref name="ass47">''All-Star Squadron'' #47 (July 1985)</ref><ref name="firstissue">''1st Issue Special'' #9 (Dec. 1975)</ref><ref name="dcspecial">''DC Special Series'' #10 (Jan. 1978)</ref><ref name="secretorigin">''Secret Origins'' (vol. 2) #2 (March 1988)</ref>
+
+[[File:More Fun Comics 61.jpg|thumb|200px|left|Cover to ''[[More Fun Comics]]'' #61 (Nov. 1940), showing Kent Nelson as Doctor Fate. Art by Howard Sherman.]]
+
+In 1940, Kent returned to the United States and moved into an [[Invisibility|invisible]] tower in [[Salem, Massachusetts]]. From this sanctum, he embarked on a career fighting crime and supernatural evil as the hero Doctor Fate.<ref name="dc-ency"/>
+
+In late 1940, Doctor Fate co-founded the [[Justice Society of America]].<ref>{{Comic book reference|writer=[[Gardner Fox|Fox, Gardner]]|penciller=Hibbard, Everett|inker=|story=|title=[[All Star Comics]]|volume=1|issue=3|date=Winter, 1940|publisher=[[DC Comics]]|page=1-4|panel=}}</ref> He remained active with the group up to the middle of the decade, resigning in 1944 and going into retirement the same year.<ref>''All-Star Comics'' #21 (Sum. 1944)</ref><ref>''More Fun Comics'' #98 (July - Aug. 1944)</ref> In 1942, Kent enlisted in the [[United States Army|U.S. Army]] and served as a [[Paratrooper]] during World War II.<ref>''All-Star Comics'' #11 (Sept. 1942)</ref>
+
+In 1942, Kent switched to a half-helmet when he felt Nabu's spirit starting to take control him through the Helm of Nabu.<ref name="ass23"/> The change, while stripping Kent of most of his magical powers, left him in full control of his actions and still more than a normal human.<ref name="mf72">''More Fun Comics'' #72 (Oct. 1941)</ref> Shortly thereafter, Kent lost the Helm when it was stolen by a [[supervillain]] and both the Helm and the thief were thrown into an alternate dimension.<ref>{{Comic book reference|writer=[[Roy Thomas|Thomas, Roy]]|penciller=Howell, Richard|inker=Forton, Gerald|story=By Hatred Possessed!|title=[[All-Star Squadron]]|volume=1|issue=28|date=Dec. 1983|publisher=[[DC Comics]]|page=19-23|panel=}}</ref> During the time he wore the half-helmet, Kent acquired a medical license and became an intern at the Weatherby Free Clinic<ref>''More Fun Comics'' #85 (Nov. 1942)</ref> but abandoned his medical career and became an archaeologist like his father when he married Inza in 1947.<ref name="flash306">''Flash'' (vol. 1) #306 (Feb 1982)</ref>
+
+When the Justice Society reformed in the modern era, Kent returned as well, rejoining his old teammates and once again using the Helm of Nabu.<ref name="jla21">''Justice League of America'' #21 - 22 (Aug - Sept. 1963)</ref> However, Doctor Fate's activities were less than public. These included assisting fellow JSA member [[Hourman]] against [[Solomon Grundy (comics)|Solomon Grundy]] and the [[Psycho-Pirate]],<ref name="showcase55-56"/> and teaming up on various occasions with [[Superman]]<ref>{{Comic book reference|writer=[[Len Wein|Wein, Len]]|penciller=[[Dick Dillin|Dillin, Dick]]|inker=[[Joe Giella|Giella, Joe]]|volume=1|issue=208|date=Dec. 1971|story=Peril of the Planet-Smashers!|title=[[World's Finest Comics]]|publisher=[[DC Comics]]|page=|panel=}}</ref><ref>{{Comic book reference|writer=[[Dennis O'Neil|O'Neil, Denny]]|penciller=[[Joe Staton|Staton, Joe]]|inker=Coletta, Vince|story=The Curse Out of Time!|title=[[DC Comics Presents]]|volume=1|issue=23|date=July 1980|publisher=[[DC Comics]]|page=|panel=}}</ref> and [[Batman]].<ref>{{Comic book reference|writer=[[Cary Burkett|Burkett, Cary]]|penciller=[[Don Newton|Newton, Don]]|inker=[[Bob Smith (comics)|Smith, Bob]]|story=Corruption|title=[[The Brave and the Bold]]|volume=1|issue=156|date=Nov. 1979|publisher=[[DC Comics]]| page=|panel=}}</ref> At the same time, Kent had to fuse with his wife Inza in order to become Doctor Fate.<ref>''Flash'' (vol. 2) #305 - 313 (Feb. 1982 - Sept. 1982)</ref>
+
+Sometime later, Kent became the sole wearer of the Helm again and joined the reformed Justice League.<ref>{{Comic book reference|writer=[[John Ostrander|Ostrander, John]], [[Len Wein|Wein, Len]]|penciller=[[John Byrne (comics)|Byrne, John]]|inker=[[Karl Kesel|Kesel, Karl]], Janke, Dennis|story=Finale!|title=[[Legends (comics)|Legends]]|volume=1|issue=6|date=Apr. 1987|publisher=[[DC Comics]]|page=|panel=}}</ref> Soon after, Kent and Inza passed away from old age when the magic they had used to keep themselves young throughout the decades failed.<ref name="dc-ency"/>
+
+During the ''[[Blackest Night]]'' event, Kent was briefly resurrected as a member of the [[Black Lantern Corps]].<ref>''Blackest Night'' #4 (Dec. 2009)</ref>
+
+===Eric and Linda Strauss===
+[[File:Drfateinzanelson.jpg|thumb|''Justice League America'' #31 (Oct. 1989): Linda Strauss as Doctor Fate. Cover Art by [[Adam Hughes]].]]
+
+After Kent and Inza's deaths Nabu began searching for a successor, eventually choosing Eric Strauss and his stepmother Linda.<ref>''Doctor Fate'' (vol. 1) #1 (July 1987)</ref> Nabu aged Eric to adulthood and bound Eric & Linda together so that they had to merge to become Doctor Fate, but could live separately when Fate was not needed.<ref name="dc-ency"/> Nabu then possessed Kent's corpse so he could personally advise Eric and Linda.<ref>''Doctor Fate'' (vol. 1) #4 (Oct. 1987)</ref> The three of them operated out of Linda's apartment due to the destruction of the tower.{{Citation needed|date=November 2012}} Eric, Linda and Nabu were soon joined by a friendly demon they dubbed Petey and a lawyer named Jack C. Small who provided moral support and assisted them in their battles.<ref>''Doctor Fate'' (vol. 2) #2 (Dec. 1988)</ref>
+
+Eric was later killed on [[Apokolips]] during a battle with [[Desaad]], (disguised as [[Darkseid]]), forcing Linda to become Doctor Fate on her own.<ref>''Doctor Fate'' (vol. 2) #12 (Dec. 1989)</ref> Linda was killed soon after by the [[Lords of Chaos and Order#Lords of Chaos|Lords of Chaos]]. Eric and Linda's souls were then reincarnated in the bodies of Eugene and Wendy DiBellia while Nabu reincarnated into Eugene and Wendy's unborn child.<ref name="df24">''Doctor Fate'' (vol. 2) #24 (Jan. 1991)</ref>
+
+===Inza Nelson===
+Kent and Inza, whose souls had been inhabiting a fantasy world within the amulet, were resurrected in new younger bodies.<ref name="df24"/> However, only Inza was able to become Doctor Fate.<ref name="df25"/> While acting as Doctor Fate, Inza became more proactive and reckless in the use of her powers, which led to her and Kent separating for a while.<ref>''Doctor Fate'' (vol. 2) #26 - 32 (March 1991 - Sept. 1991)</ref>
+
+The Nelsons then learned that a Lord of Chaos named T'Giian had possessed the Helm of Nabu, providing Inza with magic derived from Chaos instead of Order, which was the reason that Kent and Inza couldn't merge to become Doctor Fate.<ref>''Doctor Fate'' (vol. 2) #34 (Nov. 1991)</ref> Kent reunited with Inza and helped her defeat T'Giian. Inza then learned that her new powers came from the Earth itself rather than the magic of Order and Chaos.<ref>''Doctor Fate'' (vol. 2) #35 (Dec. 1991)</ref>
+
+After defeating T'Giian, the Nelsons started merging as the male Doctor Fate again, but the two of them could become separate Doctor Fates if the situation called for it. When operating as separate Doctor Fates, Inza wore the Helm of Nabu and Kent's original costume while Kent wore the half-helmet and costume he used in the late 1940s.<ref>''Doctor Fate'' (vol. 2) #36 (Jan. 1992)</ref>
+
+Sometime later, the Nelsons, along with the rest of the JSA, faced the supervillain [[Hank Hall#Zero Hour: Extant|Extant]] during [[Parallax (comics)|Parallax]]'s attempt to [[Zero Hour: Crisis in Time|change the history of the universe]]. Extant used his time manipulation powers to rapidly age most of the JSA to their proper physical ages, splitting Kent and Inza into separate beings and scattering the helmet, amulet, & cloak throughout [[spacetime]]. The aged and depowered Nelsons retired and returned to Salem.<ref>{{Comic book reference|writer=[[Dan Jurgens|Jurgens, Dan]]|penciller=Jurgens, Dan|inker=|story=|title=[[Zero Hour (comics)|Zero Hour]]|volume=1|issue=4-0|date=Sept. 1994|publisher=[[DC Comics]]|page=|panel=}}</ref>
+
+===Jared Stevens===
+:{{Main|Fate (comics)}}
+[[File:Fatejaredstevens.jpg|thumb|160px|''Fate'' #1 (Nov. 1994) featuring Jared Stevens. Cover art by [[Anthony Williams (comics)|Anthony Williams]] and [[Andy Lanning]].]]
+
+Soon after the Nelsons retired, a smuggler named Jared Stevens discovered the helmet, amulet, and cloak in a tomb in Egypt. The Nelsons attempted to retrieve the artifacts from Jared, only to be murdered by two demons sent to retrieve them. During the battle, the amulet exploded and branded an ankh tattoo over Jared's eye, forcing him to use the cloak as a bandage round his right arm due to injuries and melt the helmet down into a knife for protection. After defeating the demons, Jared was contacted by Nabu, who attempted to make him the new Doctor Fate. However, Jared refused and escaped, becoming a demon hunter under the alias "Fate".<ref name="dc-ency"/> 
+
+Jared then went on several adventures combating the supernatural, at one point teaming up with the supernatural rock band [[Scare Tactics (comics)|Scare Tactics]].<ref name="fate"/><ref name="bookoffate"/> Jared was later killed by [[Mordru]] as part of his attempt to claim Doctor Fate's mantle and artifacts for himself.<ref name="jsa1"/>
+
+===Hector Hall===
+{{Expand section|1=<nowiki />
+*brief paragraph covering Hector's membership in the JSA
+|date=November 2012}}
+
+:{{Main|Hector Hall}}
+[[File:drfate4.jpg|thumb|150px|left|Panel from ''JSA'' #4 (November 1999) featuring Hector Hall as Doctor Fate. Art by Stephen Sadowski and [[John Kalisz]].]]
+
+Aware of Mordru's intentions, Nabu planned ahead to ensure that his Helm and the mantle of Doctor Fate would pass to a reincarnated Hector Hall. This plan preceded the rebirth of the Justice Society, which acted to protect the newly reborn Hector.<ref>''JSA'' #2 (Sept. 1999)</ref>
+
+Hector's new body was the biological son of Hank Hall and Dawn Granger, agents of both Chaos and Order once known as [[Dove (Dawn Granger)|Hawk and Dove]], which made Hector an agent of balance instead of one side or the other.<ref>''JSA'' #46 (May 2003)</ref>
+
+The [[Spectre (comics)|Spectre]], attempting to expunge evil by extinguishing magic, confronted Hector during his rampage and banished Hector and his [[Fury (DC Comics)#Lyta Trevor-Hall|wife]] to a snowy mountain landscape for all eternity. The two later gave up on the mortal world forever, joining their [[Daniel Hall (comics)|son]] in the Dreaming.<ref>{{Comic book reference|writer=[[Keith Champagne|Champagne, Keith]]|penciller=[[Don Kramer|Kramer, Don]]|inker=|story=|title=[[Justice Society of America|JSA]]|volume=1|issue=79-80|date=Jan. and Feb. 2006 |publisher=[[DC Comics]]|page=|panel=}}</ref>
+{{-}}
+
+===Nabu===
+[[File:NabuMordru.png|thumb|200px|Nabu confronts [[Mordru]] without the use of a host body in a panel from ''JSA'' #80 (Feb. 2006). Art by [[Don Kramer]].]]
+
+Unaware of Hector's disappearance, his teammates in the JSA traveled to the tower hoping to enlist Hector's aid to travel to the Fifth Dimension and rescue [[Jakeem Thunder]]. In the tower, the Justice Society found the helmet, amulet, and cloak, but not Hector. [[Sandy Hawkins|Sand]] donned the helmet in order to allow Nabu to speak to them.<ref>''JSA'' #78 (Dec. 2005)</ref> At the same moment, however, Mordru appeared at the tower and removed the helmet from Sand, allowing Nabu to manifest through the helmet without needing a host body.<ref>''JSA'' #79 (Jan. 2006)</ref> Nabu defeated Mordru and the JSA offered him membership, but Nabu declined, sensing a [[Infinite Crisis|crisis]] was coming that would require his help elsewhere, and disappeared.<ref>''JSA'' #80 (Feb. 2006)</ref>
+
+During the last hours of the Ninth Age of Magic, Nabu called together Earth's remaining magicians to deal with the Spectre and reconstruct the Rock of Eternity. Nabu personally confronted and goaded the Spectre into fatally wounding him.<ref name="dc-ency"/> This act caused the Presence to take notice and send the Spectre to his new host. As a result of Nabu's death, the Ninth Age of Magic ended and the Tenth Age began.
+
+Before his death, Nabu gave the helmet to [[Detective Chimp]] to pass on to a new wearer, telling him that even though Nabu's spirit would no longer be contained within it, the helmet would still have certain abilities. After Detective Chimp found that the helmet would not fit him, he asked [[Captain Marvel (DC Comics)|Captain Marvel]] to throw the helmet randomly into space, allowing the helmet to find its new owner. After traveling across the universe, the rigors of space warped the helmet to resemble Kent Nelson's half-helmet from the 1940s before plummeting back to Earth.<ref>{{Comic book reference|writer=[[Bill Willingham|Willingham, Bill]]|penciller=[[Justiniano]]|inker=|story=The Ninth Age of Magic|title=[[Day of Vengeance]] [[Infinite Crisis]] Special|volume=1|issue=1|date=March, 2006|publisher=[[DC Comics]]|page=|panel=}}</ref>
+
+===''52''===
+{{Main|52 (comics)}}
+While the helmet was still travelling through space, on Earth, [[Felix Faust]] disguised himself as the helmet in an attempt to trick [[Elongated Man|Ralph Dibny]] into trading his soul for Faust's freedom from [[Neron]]. Faust manipulated Dibny by telling him how to resurrect his dead wife Sue.<ref name="ft42">''52'' #42 (Feb. 2007)</ref> During his masquerade, Faust killed [[Tim Trench]] and fooled the [[Shadowpact]].<ref>''52'' #18 (Aug. 2006)</ref> Dibny discovered Faust's deception and sacrificed himself to bind Faust and Neron to the tower, resulting in his own death.<ref name="ft42"/>
+
+===Helm of Nabu===
+[[File:DrFateVol4No1.jpg|left|Promotional art for ''Doctor Fate'' (vol. 4) #1, by [[Paul Gulacy]].|thumb]]
+
+The real helmet resurfaced a [[One Year Later|year]] after Nabu's death, still resembling the half-helmet that Kent Nelson wore during the late 1940s, and crossed paths with various heroes ([[Detective Chimp]],<ref>''The Helmet of Fate: Detective Chimp'' #1 (Jan. 2007)</ref> [[Ibis the Invincible]],<ref>''The Helmet of Fate: Ibis the Invincible'' #1 (Jan. 2007)</ref> [[Sargon the Sorcerer]],<ref>''The Helmet of Fate: Sargon the Sorcerer'' #1 (Feb. 2007)</ref> [[Black Alice (comics)|Black Alice]],<ref>''The Helmet of Fate: Black Alice'' #1 (Feb. 2007)</ref> and [[Zauriel]]<ref>''The Helmet of Fate: Zauriel'' #1 (March 2007)</ref>), before falling into the hands of Doctor Kent V. Nelson, Kent Nelson's grandnephew, who became the new Doctor Fate.<ref name="dc-ency"/>
+
+===Kent V. Nelson===
+[[File:Countdown to Mystery 1 textless.jpg|thumb|right|Promotional artwork for ''[[Countdown to Final Crisis|Countdown to Mystery]]'' #1 (Nov. 2007), featuring Kent V. Nelson as Doctor Fate. Art by [[Justiniano]].]]
+Doctor Kent V. Nelson, a divorced and out of work psychologist, found the Helm of Nabu in a dumpster, still in its half-helmet shape, and put it on, causing it to revert to its original form and clothing him in Doctor Fate's costume. After encountering and fighting off a demon called Negal, Kent used the helmet’s magic for gambling, meeting an occult bookstore owner named Maddy and a comic book writer named Inza Fox. Inza was later killed by turning into water after taking a shower. Kent, turning to alcoholism to cope, gave the helmet to Maddy, only to then be captured by Negal along with Maddy. Kent managed to overcome his depression, helping Maddy with her despair and restoring Inza to life, defeating Negal with his new found optimism.<ref name="mystery">''Countdown to Mystery'' #1-8 (Nov. 2007-July 2008)</ref>
+
+Kent later helped a group of magic-using heroes escape from [[Hell (DC Comics)|Hell]]<ref>''Reign in Hell'' #8 (April 2009)</ref> and helped the Justice Society fight of a supervillain attack, joining the team soon afterwards.<ref>''Justice Society of America'' (vol. 3) #30 (Oct. 2009)</ref> Kent's magic saved [[Mister Terrific (Michael Holt)|Mister Terrific]]'s life after his stabbing by [[Jeremy Karne|Kid Karnevil]].<ref>''Justice Society of America'' (vol. 3) #33 (Jan. 2010)</ref> Kent remained a member of the JSA after the team is split into two and is briefly possessed by [[Mordru]] before leaving Earth to hone his spell-casting abilities.<ref>''Justice Society of America'' (vol. 3) #35 (March 2010)</ref> Kent later returned to help the team take down Scythe in Monument Point,<ref>''Justice Society of America'' (vol. 3) #44 (Dec. 2010)</ref> and severed Lightning's soul from her body to save her from an implanted micro-bomb.<ref>''Justice Society of America'' (vol. 3) #47 (March, 2011)</ref> Kent then reappeared with an ankh mark burned on his face,<ref>''Justice Society of America'' (vol. 3) #50 (June, 2011)</ref> but recovered in time to help restore Lightning's soul to her body<ref>''Justice Society of America'' (vol. 3) #51 (July, 2011) </ref> and help the team take down D'arken.<ref>''Justice Society of America'' (vol. 3) #54 (Oct. 2011)</ref>
+
+===Khalid===
+
+==Powers and abilities==
+===Pre-''New 52''===
+{{Expand section|1=<nowiki />
+* All of Doctor Fate's powers and weaknesses from the Golden Age, Silver Age, Bronze Age, and Modern Age
+|date=November 2012}}
+
+All versions of Doctor Fate use the Helm of Nabu<ref name="ass47"/><ref name="secretorigin"/>/Helmet of Fate<ref name="mystery"/><ref name="helmetoffate">''Helmet of Fate: Detective Chimp'' #1, ''Helmet of Fate: Ibis the Invincible'' #1, ''Helmet of Fate: Sargon the Sorcerer'' #1, ''Helmet of Fate: Black Alice'' #1, and ''Helmet of Fate: Zauriel'' #1 (Jan. - March 2007)</ref> (which lets Nabu's spirit possess<ref name="ass47"/><ref name="firstissue"/><ref name="dcspecial"/><ref name="secretorigin"/> or advise the wearer<ref name="jsa4"/> and grants the wearer magical knowledge on its own without Nabu's spirit),<ref name="mystery"/><ref name="helmetoffate"/> the Amulet of Anubis<ref name="ass47"/><ref name="firstissue"/> (which houses the souls of all previous Doctor Fates<ref>''JSA'' #63 (Sept. 2004)</ref> and the [[Lords of Chaos and Order#Lords of Order|Lords of Order]] in their original energy forms),<ref>''JSA'' #42 (Jan. 2003)</ref> and the Cloak of Destiny.<ref name="ass47"/>
+
+The Helm of Nabu/Helmet of Fate grants the wearer various magical abilities,<ref name="ass47"/><ref name="secretorigin"/><ref name="mystery"/> including super-strength,<ref name="dfarchives"/> spell-casting,<ref name="dfarchives"/> telepathy,<ref name="dfarchives"/> the ability to convert matter into energy,<ref name="dfarchives"/> energy absorption,<ref name="dfarchives"/> the ability to convert energy into matter,<ref name="dfarchives"/> wind manipulation,<ref name="dfarchives"/> fire manipulation,<ref name="dfarchives"/> lightning manipulation,<ref name="dfarchives"/> telekinesis,<ref name="dfarchives"/> invulnerability,<ref name="dfarchives"/> immortality,<ref name="dfarchives"/> flight,<ref name="dfarchives"/> magnetism,<ref name="dfarchives"/> light/energy projection,<ref name="dfarchives"/> intangibility,<ref name="dfarchives"/> invisibility,<ref name="dfarchives"/> darkness manipulation,<ref name="dfarchives"/> creating solid objects,<ref>''Justice League of America'' (vol. 1) #30 (Sept. 1964)</ref><ref name="jla38">''Justice League of America'' (vol. 1) #38 (Sept. 1965)</ref> visions of people's fates<ref name="fp1">''Flashpoint: Deadman and the Flying Graysons'' #1 (June 2011)</ref> (including their own),<ref>''JSA: All-Stars'' (vol. 1) #3 (Sept. 2003)</ref> and the ability to transfer their powers to someone else.<ref name="dfarchives"/> However, the wearer is unable to counteract spells that have already been cast and in effect.<ref name="jla38"/> Without the Helm, the wearer loses all of their abilities except for their flight, super-strength, invulnerability,<ref name="dc-ency"/><ref name="ass23"/><ref name="mf72"/> and telekinesis.<ref name="mf67"/> The Helm also instantly clads the wearer in Doctor Fate's costume and vestments, including the amulet and cloak, the second the wearer puts it on.<ref name="Fate1987"/><ref name="dcspecial"/><ref name="secretorigin"/><ref name="mystery"/>
+
+===''The New 52''===
+
+==Other versions==
+===Pre-Crisis===
+====Doctor Chaos (Earth-1)====
+[[File:Doctorchaosdcu0.jpg|thumb|200px|Doctor Chaos. Art by [[Kurt Schaffenberger]]]]
+In the Earth-1 universe, Professor Lewis Lang and his assistant Burt Belker discovered a helmet in the Valley of Ur in Mesopotamia that was identical to the Helm of Nabu on Earth-2 except for its' blue color. This helmet contained a Lord of Chaos that went on to possess Burt and turn him into the sorcerer Doctor Chaos, whose costume was identical to Doctor Fate's except for a reversed color scheme. [[Superboy (Kal-El)|Superboy]] confronted Doctor Chaos and removed the helmet from Burt, jettisoning it into space.<ref>''New Adventures of Superboy'' #25 (Jan. 1982)</ref>
+
+===Post-Crisis===
+====Future (''Books of Magic'')====
+When [[Timothy Hunter]] was being guided through the world of magic by the [[Phantom Stranger]], the two of them observed Kent, though he was unaware of their presence.<ref>''Books of Magic'' (vol. 1) #1 (March. 1991)</ref> Sometime later, [[Mister E]] showed a future version of the Helm to Hunter which resembled a human skull, killed any of its worshippers who wore it, and had given up on the war between Order & Chaos and life itself. Mister E revealed that he planned to kill Doctor Fate in the past and destroy the Helm but was stopped by the Justice League.<ref>''Books of Magic'' (vol. 1) #4 (June 1991)</ref>
+
+====Earth-2====
+As a result of [[Mister Mind and the Monster Society of Evil|Mister Mind]] "eating" aspects of the fifty-two identical realities that make up the new [[Multiverse (DC Comics)|Multiverse]], one of them, designated Earth-2, took on visual aspects similar to the pre-''Crisis'' Earth-Two, such as the Justice Society of America being this world's premier super team.<ref>{{Comic book reference|title=[[52 (comic book)|52]]|issue=52|date=May 2, 2007|publisher=[[DC Comics]]|page=13|panel=3}}</ref><ref>{{cite web|url=http://forum.newsarama.com/showthread.php?t=111900|title=The 52 Exit Interviews: Grant Morrision|accessdate=2007-05-12|last=Brady|first=Matt|date=2007-05-08|publisher=Newsarama|archiveurl=http://web.archive.org/web/20070510031223/http://forum.newsarama.com/showthread.php?t=111900|archivedate=2007-05-10}}</ref>
+
+This version of Doctor Fate (based upon the Kent Nelson version of the character) along with the Spectre, suspected something awry with Power Girl's mysterious reappearance.<ref>''Justice Society of America Annual'' #1 (2008)</ref>
+
+====Earth-20====
+During Mandrakk's rampage across the Multiverse, the heroes briefly passed through Earth-20.<ref>''Final Crisis: Superman Beyond'' #1 (Aug. 2008)</ref> While there, they are seen by Doc Fate, a hero described as 'a cross between Doctor Fate and Doc Savage'. Doc Fate is based in a windowless Manhattan skyscraper and is the leader of the Society of Super-Heroes, a group of 'pulp'-style mystery men consisting of Immortal Man, the Mighty Atom, Lady Blackhawk, the Green Lantern, and the Bat-Man.<ref>''Final Crisis: Secret Files'' #1 (Feb. 2009)</ref>
+
+====Earth-22 (''Kingdom Come'')====
+The ''[[Kingdom Come (comics)|Kingdom Come]]'' universe features a version of Nabu who is able to channel his consciousness through the helmet and cloak without the need for a host body. This version of Fate sided with Batman's group and was amongst the survivors at the end of the final battle.<ref>''Kingdom Come'' #1-4 (May-August 1996)</ref>
+
+====Doctor Strangefate====
+Doctor Strangefate is a sorcerer from the [[Amalgam Comics]] universe; he is an [[Amalgamation (fiction)|amalgamation]] of Doctor Fate and [[Marvel Comics]]'s [[Doctor Strange]] & [[Professor X|Charles Xavier]].<ref>''Doctor Strangefate'' #1 (April, 1996)</ref>
+
+====''Flashpoint''====
+In the alternate timeline of the ''[[Flashpoint (comics)|Flashpoint]]'' event, Kent Nelson works as a fortune teller in Haley's Circus. Kent tells his co-worker, trapeze artist [[Deadman|Boston Brand]], of his vision of [[Dick Grayson]]'s death.<ref name="fp1"/> The circus is then attacked by the [[Amazons (DC Comics)|Amazons]] who are looking to steal the Helm of Nabu. Kent is impaled and killed by an Amazon before the circus workers escape with the Helm with the help of Resistance member [[Count Vertigo|Vertigo]].<ref>''Flashpoint: Deadman and the Flying Graysons'' #2 (July 2011)</ref> With Boston's help, Dick escapes the Amazons' slaughter of the other circus workers and meets up with the Resistance, using the Helm as the new Doctor Fate.<ref>''Flashpoint: Deadman and the Flying Graysons'' #3 (August 2011)</ref>
+
+==In other media==
+===Television===
+{{Plot|section|date=November 2012}}
+* [[DC animated universe]]:
+** The Kent Nelson version of Doctor Fate appears in the ''[[Superman: The Animated Series]]'' episode "The Hand of Fate", with Kent voiced by [[George DelHoyo|George Del Hoyo]] and Inza voiced by [[Jennifer Lien]]. Superman seeks Fate's help when a supernatural threat named Karkull (whom Fate has defeated previously) seizes the ''[[Daily Planet]]''. Fate, depicted as middle-aged, refuses to get involved because he is tired of the eternal struggle between "good" and "evil". Superman's insistence on returning to fight on his own, despite his success being unlikely, inspires Fate to join the "good fight" again.
+** Doctor Fate and Inza reappeared in the ''[[Justice League (TV series)|Justice League]]'' episode "The Terror Beyond", with Kent now voiced by [[Oded Fehr]] and Inza now voiced by [[Jennifer Hale]]. Doctor Fate and [[Aquaman]] help [[Solomon Grundy (comics)|Solomon Grundy]] escape from the authorities so they can enact an age-old spell to save this dimension from an invasion by the Old Ones, creatures based on the writings of [[H. P. Lovecraft]].<ref>{{cite web|url=http://jl.toonzone.net/ichthultu/ichthultu.htm |title=Ichthultu - The Justice League Watchtower|publisher=Jl.toonzone.net|date=|accessdate=2011-01-16}}</ref> They are stopped by the League and end up fighting the Old Ones leader Ichthultu (a variant of [[Cthulhu]]) in their own dimension.
+** Oded Fehr and Jennifer Hale reprised their roles as Doctor Fate and Inza in ''[[Justice League Unlimited]]''. Fate maintained a loose relationship with his fellow superheroes (lack of prior communication being the reason for the struggles between him and the League in "Terror"), including joining the expanded League. However, he maintains his own team within the League, consisting of himself, Aquaman, and Ivo's android [[Amazo]] (whom Doctor Fate prevented the Green Lantern Corps from vanquishing as seen in "The Return").
+*** The Earth of this Doctor Fate is Earth-12 in the DC Multiverse.<ref>''DC Nation'' column #89 (Nov. 28, 2007)</ref>
+
+* Doctor Fate appears in the ''[[Batman: The Brave and the Bold]]'' episode "The Eyes of Despero!", voiced by [[Greg Ellis (actor)|Greg Ellis]]. He teams up with [[Batman]] to stop Wotan from robbing the Library of Infinity. Prior to the mission, Batman gave Doctor Fate [[boxing]] lessons to help him defend himself should he lose his powers. This comes in handy when Wotan removes Doctor Fate's helmet and ends up getting knocked out by Doctor Fate. In "The Fate of Equinox," Doctor Fate investigates universal disturbances caused by [[Libra (DC Comics)|Equinox]] and helps Batman defeat him by absorbing the powers of other heroes and passing them on to Batman, later assisting in the final fight. A younger version of Doctor Fate also appears in a small cameo role in "The Siege of Starro" Pt. 1 where he is shown battling [[Per Degaton]] alongside the JSA in the 1940s. In this appearance, Fate is shown sporting his short-lived half-helmet.
+** The Earth of this Doctor Fate is Earth-23 within the DC Multiverse.<ref>Shown in the ''[[Batman: The Brave and the Bold]]'' episode "Deep Cover for Batman!".</ref>
+
+* [[File:Smallville-Brent Stait as Doctor Fate.jpg|120px|thumb|right|[[Brent Stait]] as Doctor Fate on ''Smallville''.]] Actor [[Brent Stait]] played Kent Nelson/Doctor Fate in the ''Smallville'' two-part episode "[[Absolute Justice]]".<ref>{{cite web|author=Eric Goldman|url=http://tv.ign.com/articles/103/1036548p1.html|title=Exclusive: Two of Smallville's Justice Society - TV News at IGN|publisher=Tv.ign.com|date=2009-10-19|accessdate=2011-01-16}}</ref> This was the first live action appearance of the character. In the episode, Fate is a member of the JSA who has the ability to teleport himself and others and can see the "fates" of everyone except himself. However, Kent claimed that he saw too much and that the knowledge drove him insane. After the group disbanded due to the actions of the government agency [[Checkmate (comics)|Checkmate]], Kent spent his time "scrounging around the streets, looking for the secrets of the universe in trash cans" and carrying the Helmet of Nabu in a bag. Years later, after several members of the JSA were targeted and killed by [[Icicle (comics)|Icicle]], Kent was brought back to their old headquarters by their leader, Carter Hall, who convinced him to don the Helmet once more and become Doctor Fate. Fate later reveals to Clark that his destiny is far more important than anyone else's, revealing that he will lead the new generation of heroes as Hawkman did his, subsequently informing Clark that he will ultimately triumph over Lex Luthor and informs Lois that she is the one the 'savior' will need. After searching for Icicle with John Jones, Fate was able to sympathize with the Martian for he too had a family. Fate managed to restore John's powers just moments before he was killed by Icicle, sacrificing his life to restore Jones's powers. His helmet was stolen by Icicle but the JSA managed to retrieve it thanks to Jones' restored powers, keeping it safe to wait for a successor. Actress Erica Carroll played Inza in a flashback scene that showed Kent being taken to a psychiatric institution. The Helmet of Nabu reappeared in the season 10 episode "Lazarus" when [[Chloe Sullivan]] uses it in order to track down the whereabouts of the missing Oliver Queen.<ref>{{cite web|last=Ausiello|first=Michael|url=http://ausiellofiles.ew.com/2010/08/11/ask-ausiello-spoilers-greys-glee-90210/|title=Ask Ausiello: Spoilers on 'Grey's,' 'Chuck,' 'Glee,' '90210,' 'Pretty Little Liars,' and more! &#124; Ausiello &#124; EW.com|publisher=Ausiellofiles.ew.com|date=2010-08-11|accessdate=2011-01-16}}</ref>
+
+* Doctor Fate appears in the ''[[Young Justice (TV series)|Young Justice]]'' animated series. He first appears in the episode "Denial", with Kent Nelson voiced by [[Edward Asner]] and Nabu voiced by [[Kevin Michael Richardson]]. Kent Nelson is described by [[Red Tornado]] as being 106-years old & a founding member of the Justice Society of America. In the episode, Kent is kidnapped by [[Klarion the Witch Boy]] and [[Abra Kadabra (comics)|Abra Kadabra]] (both of whom seek to steal the Helmet of Fate). While using the helmet's powers to protect himself, Kent tells Wally to believe in magic before he passes away. After Nelson's death, [[Wally West]] briefly dons the helmet and becomes Doctor Fate, his consciousness watching from inside the helmet along with Kent's, while Nabu possesses his body to defeat Klarion and Abra Kadabra. Though Kent states that he wishes to ascend to Heaven in order to be with his deceased wife Inza, he ultimately chooses to remain inside the helmet until Wally can find a worthy successor host for Nabu. Also in the episode, as an [[in-joke]], [[Aqualad (Jackson Hyde)|Aqualad]] refers to Doctor Fate as "Earth's Sorcerer Supreme" (a title traditionally attributed to [[Marvel Comics]]'s resident sorcerer [[Doctor Strange]]). In "Revelation", Aqualad puts on the Helmet of Fate as a last resort to defeat the [[Injustice League]]. Nabu then fights Wotan, Doctor Fate's traditional [[archenemy]], before the arrival of the [[Justice League]] puts an end to the battle once and for all. Though Wally fears that Nabu will force him to be his host forever, Aqualad is released shortly thereafter, crediting Kent Nelson with convincing Nabu to let him go (just as he did for Wally in "Denial"). In the episode "Misplaced," Klarion, with the help of a team of evil sorcerers, splits the Earth into two dimensions; one containing adults and the other children. [[Zatanna]] is forced to don the helmet in order to defeat Klarion. However, once the two worlds merge back together, [[Zatara]] then offers to become Nabu's new host in order to free his daughter, becoming the new Doctor Fate. Nabu reveals that he has released Kent's spirit and as such, he will no longer intervene for those trapped in the helmet. In "Agendas," Doctor Fate is seen with the Justice League while they discuss adding new members to the team and opposes Zatanna's admittance to the League. Wonder Woman then claims that Zatara is influencing Nabu from within the helmet which he unconvincingly denies. In "Usual Suspects", Doctor Fate is shown at a press conference with the Justice League, where he formally joins the team.
+** The Earth of this Doctor Fate is Earth-16 within the DC Multiverse.<ref>[http://uk.tv.ign.com/articles/110/1108218p1.html SDCC 10: Young Justice is Assembled - TV News at IGN]</ref>
+
+* Doctor Fate appears in ''[[Mad (TV series)|Mad]]'' voiced by [[Kevin Shinick]]. In episode 22, Doctor Fate is seen partaking in a musical called "Smallville: Turn off the Clark." In episode 46, Doctor Fate joins the other superheroes in a musical number that asks Superman, Wonder Woman, and Batman on why they are called "Super Friends." In his part, Doctor Fate states that they "say they don't charge minors, but then you bill [[Captain Marvel (DC Comics)|Shazam]]."
+
+* Doctor Fate will appear in a series of animated shorts as part of the ''[[DC Nation Shorts|DC Nation]]'' block on Cartoon Network.<ref>[http://spinoff.comicbookresources.com/2012/02/21/first-look-supergirl-wonder-girl-and-batgirl-from-dc-nation-shorts/ First Look: Supergirl, Wonder Girl and Batgirl From DC Nation Shorts « Spinoff Online – TV, Film and Entertainment News Daily]</ref>
+
+===Film===
+* Doctor Fate appears as a member of the [[Justice Society of America|JSA]] in the opening credits of the ''[[Justice League: The New Frontier]]'' animated film.
+
+*An evil Doctor Fate from a parallel Earth appears briefly in the ''[[Justice League: Crisis on Two Earths]]'' animated film as part of Superwoman's group of underlings.
+
+===Video games===
+* Doctor Fate has a prominent role in the ''[[DC Universe Online]]'' online game. He acts as a boss fight and Bounty for the villains and helps the Hero character to prevent [[Brother Blood]] from raising [[Trigon (comics)|Trigon]] in midtown [[Metropolis (comics)|Metropolis]]. In the game, Fate is aligned with [[Wonder Woman]] and is a member of the [[Sentinels of Magic]] alongside [[Zatanna]] and [[Raven (comics)|Raven]]. He also gives the Hero character the mission to free the [[Spectre (comics)|Spectre]] from [[Eclipso]]'s control. In the DLC "Hand of Fate" Doctor Fate and Felix Faust became playable avatars in PVP Legends. The DLC also added new multiplayer missions, called Operations, which involve Fate and Faust leading teams of player heroes and villains.
+
+===Merchandising===
+[[File:Dr Fate Mattel Figure.jpg|thumb|''Justice League Unlimited'' action figure by [[Mattel]].]]
+* To date, six versions of Doctor Fate have been made available in [[action figure]] form, with most versions being the Kent Nelson incarnation of the character.
+** The first Doctor Fate toy was released in 1985 under the second wave of Kenner's ''[[Super Powers Collection]]''. The Super Powers Collection version also included a mini-comic book. In the book, Doctor Fate was forced to fight Superman and the [[Martian Manhunter]] who had fallen under control of Darkseid and were sent by him to collect Doctor Fate's artifacts.
+** ''[[DC Direct]]'' released the second version in 2000 as part of the ''Mystics, Mages and Magicians'' collection.
+** The third was released with the ''Justice League Unlimited'' series several times as a single figure and as part of three-pack collections. Also, Minimates has released a two-pack featuring Doctor Fate and Power Girl.
+** ''[[DC Direct]]'' released the fourth version in December 2007 with its second wave of ''[[DC: The New Frontier]]'' action figures.
+** ''[[DC Universe Classics]]'' released two Doctor Fate toys in Series 8 - Giganta series,<ref>[[DC Universe Classics#Wave Eight - Giganta (April 2009)|Wikipedia Entry on Series 8 Giganta Series with List of Figures]]</ref> Classic Kent Nelson version, with regular yellow armor, and a "Chase" variant Modern Hector Hall version, with gold accent armor and helm. This series was released April 2009.
+**A "Dr. Fate versus Wotan" two-pack set was released in December 2009 as part of the ''[[Batman: The Brave and the Bold]]'' toyline.
+* DC Direct announced at the 2004 San Diego [[Comic-Con International]] that it would release a full-size replica of Doctor Fate's helmet and amulet in 2005.<ref>{{cite web|title=2004 San Diego Comic Con International: DC Direct|publisher=Raving Toy Maniac|date=|url=http://www.toymania.com/toyshows/sdcc04/cc04dcd2.shtml|accessdate=2007-02-11}}</ref> By May 2006, DC Vice President for Design and DC Direct Creative Georg Brewer reported that "in order to fulfill the creative goals for the piece and keep it affordable, we had to pull it to work through some production issues".<ref>{{cite web|title=View From the Inside: Final Thoughts|publisher=Newsarama|date=2006-05-01|url=http://www.newsarama.com/forums/showthread.php?t=69091|accessdate=2009-05-24}}</ref>{{Dead link|date=November 2011}} In September 2006, the DC website wrote that DC Direct "hope(s) to have this great replica ready in 2007",<ref>{{cite web|title=Ask DC Direct: #9|publisher=Time/Warner|date=2006-09-13| url=http://www.dccomics.com/news/?nw=6439|accessdate=2007-02-11}}</ref>{{Dead link|date=November 2011}} and the helmet was displayed with upcoming items during the February 2007 Toy Fair.<ref>{{cite web|title=DC Direct Gallery|publisher=Action Figure Insider|date=2007-04-02|url=http://www.actionfigureinsider.com/tf2007/dcdirect.shtml|accessdate=2009-05-24}}</ref> As of October 2012, the replica is still not yet available for purchase.
+
+==References==<!--Citations need turning into "Cite comic" templates-->
+{{Citation style|section|date=December 2012}}
+{{Reflist|2}}
+
+==External links==
+{{External links|section|date=November 2012}}
+<!--======================== {{No more links}} ============================
+    | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. Wikipedia  |
+    | is not a collection of links nor should it be used for advertising. |
+    |                                                                     |
+    |           Excessive or inappropriate links WILL BE DELETED.         |
+    | See [[Wikipedia:External links]] & [[Wikipedia:Spam]] for details.  |
+    |                                                                     |
+    | If there are already plentiful links, please propose additions or   |
+    | replacements on this article's discussion page, or submit your link |
+    | to the relevant category at the Open Directory Project (dmoz.org)   |
+    | and link back to that category using the {{dmoz}} template.         |
+    ======================= {{No more links}} =============================-->
+
+*[[DCDatabase:Doctor Fate|Doctor Fate at the DC Database]]
+*[http://www.comicsarchives.org/JSA%20FAct%20File/DRFATE.html JSA Fact File: Doctor Fate]
+*[http://www.dcindexes.com/indexes/indexes.php?character=59 Earth-2 Doctor Fate Index]
+* [http://web.archive.org/web/20090625052039/http://forum.newsarama.com/showthread.php?t=129681Newsarama Interview: Meeting the Doctor with Steve Gerber (9-17-2007)] retrieved from Wayback Archive.
+* [http://www.mykey3000.com/cosmicteams/profiles/drfate.html Cosmic Teams: Doctor Fate]
+* [http://www.dcuguide.com/who.php?name=doctorfate DCU Guide: Doctor Fate (Kent Nelson)]
+* [http://www.dcuguide.com/who.php?name=doctorfate4 DCU Guide: Doctor Fate (Hector Hall)]
+*{{comicbookdb|type=character|id=360|title=Doctor Fate (Kent Nelson)}}
+*{{comicbookdb|type=character|id=438|title=Doctor Fate (Eric & Linda Strauss)}}
+*{{comicbookdb|type=character|id=439|title=Doctor Fate (Inza Nelson)}}
+*{{comicbookdb|type=character|id=440|title=Doctor Fate (Hector Hall)}}
+*{{comicbookdb|type=character|id=15268|title=Doctor Fate (Kent V. Nelson)}}
+*{{comicbookdb|type=storyarc|id=1905|title=''The Helmet of Fate''}}
+*[http://www.comics.org/search.lasso?type=title&query=Fate&sort=chrono&Submit=Search Grand Comics Database: Doctor Fate entries]
+*[http://pc59te.dte.uma.es/cdb/series/dc/fate.htm Andrew Bistak's Summary of Fate and The Book of Fate]{{dead link|date=May 2012}}
+*[http://www.comics.org/series.lasso?SeriesID=4953 Grand Comics Database Project: Fate]
+*[http://www.comics.org/series.lasso?SeriesID=12021 Grand Comics Database Project: The Book of Fate]
+*[http://www.toonopedia.com/fate.htm Toonopedia: Doctor Fate]
+*{{IMDb character|0049939|Doctor Fate}}
+
+{{Earth-Two}}
+{{GoldenAge}}
+
+[[Category:Characters created by Gardner Fox]]
+[[Category:Comics characters introduced in 1940]]
+[[Category:DC Comics characters who use magic]]
+[[Category:DC Comics superheroes]]
+[[Category:DC Comics titles]]
+[[Category:Earth-Two]]
+[[Category:Fictional archaeologists]]
+[[Category:Fictional doctors]]
+[[Category:Fictional soldiers]]
+[[Category:Fictional sorcerers]]
+[[Category:Golden Age superheroes]]
+[[Category:Mythology in comics]]
+[[Category:Smallville characters]]
+
+[[de:Doctor Fate]]
+[[es:Dr. Fate]]
+[[fr:Doctor Fate]]
+[[it:Dottor Fate]]
+[[nl:Dr. Fate]]
+[[pt:Senhor Destino]]
+[[sc:Dottor Fate]]
+[[fi:Tohtori Kohtalo]]
+[[sv:Doctor Fate]]
+[[tl:Doctor Fate]]

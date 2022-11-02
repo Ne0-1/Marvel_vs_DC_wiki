@@ -1,0 +1,7 @@
+#REDIRECT [[List of Agents of S.H.I.E.L.D. characters#Jemma Simmons]]
+{{pp-vandalism|small=yes}}
+
+{{Redirect category shell|
+{{R from fictional character|Agents of S.H.I.E.L.D.}}
+{{R to section}}
+}}

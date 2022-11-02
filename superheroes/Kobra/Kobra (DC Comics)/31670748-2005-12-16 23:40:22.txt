@@ -1,0 +1,36 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Kobra.png|250px]]
+|caption=Cover to ''Kobra'' #5. Art by Rich Buckler.
+|comic_color=background:#8080ff
+|character_name=Kobra
+|real_name=Jeffrey Franklin Burr
+|publisher=[[DC Comics]]
+|debut=''Kobra'' #1
+|creators=[[Jack Kirby]]
+|alliance_color=background:#c0c0ff
+|status=Deceased
+|alliances=
+|previous_alliances=
+|aliases=Lord Naga,
+|relatives=Jason Burr (deceased)
+|powers=
+|}}
+
+'''Kobra''' is a [[DC Comics]] [[supervillain]]. Created by [[Jack Kirby]], he first appeared in his own title, ''Kobra'' #1, cover dated March 1976.
+|
+==History==
+Kobra is an international terrorist who has crossed paths with the majority of Earth's costumed heroes during his attempts to usher in an age of chaos. He recently kidnapped the former hero [[Air Wave]] and used him to seize control of the world's media and satellite resources, intending to destroy a number of major world cities. However, in a demonstration of his power, he incidentally killed Terri Rothstein, [[Atom Smasher]]'s mother, ensuring the [[Justice Society of America]]'s involvement.
+
+He guest-starred in JSA #49, which featured his trial. He shrugged off claims of terrorism, claiming to be an enlightened soul(a [[bodhisattva]]) trying to free souls from their karmic debt by random acts of violence. Following this, his followers threatened to kill the media outside the courthouse with [[bioengineering|bioengineered]] [[suicide bomb]] [[implant|implants]]. He escaped immediately prior to the Princes of Darkness storyline, causing Atom Smasher to leave the team. Soon afterwards, Atom Smasher and Black Adam tracked him down to his headquarters in the [[Himalaya Mountains]], killed his honor guard, and ripped his heart out.
+
+However, the organization Kobra survived this, and has been gaining converts. In [[Identity Crisis (comics)|Identity Crisis]], it was revealed that DCU prisoners, as well as Evangelical [[Christianity]] and [[Islam]], sometimes give their lives over to Kobra, to the general disgust of the DC's superheroes.
+
+==Other Media==
+A future version of Kobra (or, at least, his organization) appeared in three episodes of [[Batman Beyond]].
+
+In ''[[Justice League Unlimited]]'', Kobra appears as a member of [[Gorilla Grodd]]'s [[Legion of Doom]].
+
+{{DC-Comics-stub}}
+[[Category:Justice Society villains]]
+[[category:villain groups]]
+[[Category:DC Comics titles]]

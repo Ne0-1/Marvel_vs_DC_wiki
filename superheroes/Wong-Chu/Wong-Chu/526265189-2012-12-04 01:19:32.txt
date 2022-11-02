@@ -1,0 +1,54 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+noimage=yes
+|caption=
+|comic_color=background:#8080ff
+|publisher=[[Marvel Comics]]
+|debut=[[Tales of Suspense]] #39
+|creators=[[Stan Lee]], [[Jack Kirby]], [[Don Heck]]
+|character_name=Wong-Chu
+|alliance_color=background:#c0c0ff
+|real_name=
+|alliances=
+|aliases=
+|powers=Expert martial artist
+|}}
+'''Wong-Chu''' is a [[Marvel Comics]] supervillain. He was the first villain that [[Iron Man]] faced.
+
+==Fictional character biography==
+Wong-Chu once served as a commander for the Vietnamese congress during the [[Vietnam War]]. When a reckless American contingent triggered a booby trap in the Vietnamese jungles while testing a new weapon, one of Wong-Chu's commanders found a survivor in the form of [[Iron Man|Tony Stark]]. Wong-Chu reviewed the unconscious civilian's papers and learned that Stark was a famous weapons inventor. Wong Chu's assistant Hsaio informed him that the shrapnel in Stark's heart should kill him within the week. Wong-Chu tried to capitalize on this by telling Stark that he was dying and that, if he created a powerful new weapon for ''him,'' then his surgeons would save him. Stark realized that Wong-Chu was lying, thinking that if they could have removed the shrapnel then they would have done it ''then'' so that Stark might live long enough to continue to develop weapons for them. Hoping that his last act would be to defeat Wong-Chu, Stark pretended to agree. Wong-Chu then supplied whatever tools and scrap iron Stark might require, and eventually lent the American the assistance of his own manservant, [[Ho Yinsen]], a once highly respected and brilliant Nobel laureate physicist. Tony and Yinsen needed six days to complete the weapon Stark ''was'' building, the very first suit of Iron Man's armor. On the seventh day, the two finished the Iron Man armor just as Stark's condition became critical, and he could no longer stand. Stark was no sooner outfitted in his new armor for the first time and beginning to recharge it than the alarm they had installed earlier in the week went off, warning them that Wong-Chu was approaching. Yinsen ran outside, distracting the guards long enough to give Iron Man time to charge his armor. Wong-Chu killed Yinsen as Iron Man finished charging his armor, but failed to notice that Stark was in the Iron Man armor, and hiding on the ceiling. Unable to find Stark, Wong-Chu had Hsaio prepare his favorite sport, which involved wrestling with the local peasants. (At the start of the story, he was shown offering to free the village if he could be beaten in wrestling.) After defeating a peasant, Wong-Chu demanded the next challenger, and a man in heavy clothing challenged him. To his dismay, the next challenger ended up being Stark, in the Iron Man armor, who ended up defeating Wong-Chu. After small arms fire failed to kill Iron Man, who used a crude repulsor mechanism to turn away heavy artillery, Wong-Chu made an attempt to call for backup over the loudspeaker in a nearby observation tower. This failed because Iron Man interfered with it and instead sent out a message for the guards to flee. Wong-Chu then tried to escape Iron Man and kill the prisoners. But instead, he was killed in an ammo dump explosion that Iron Man caused.<ref>Tales of Suspense #39</ref>
+
+It was later revealed that Wong-Chu had never been his own boss, but instead had been a pawn of the evil [[Mandarin (comics)|Mandarin]], a bigoted "yellow supremacist" who in time became Iron Man's greatest enemy, and had been the Starks's greatest enemy for his entire life before this, all the time.<ref>Iron Man #267</ref>
+
+It is revealed that Wong-Chu survived the munitions shed explosion and that Yinsen's brain was preserved alive, salvaged by an interdimensional merchant called Doctor Midas. Doctor Midas sold Yinsen's brain in an auction to Wong-Chu. Iron Man helps the Sons of Yinsen defeat Wong-Chu where Wong-Chu is beheaded by one of the Sons of Yinsen. Iron Man recovered Yinsen's brain after that.<ref>''Iron Man'' Vol. 3 #31-32</ref> Wong-Chu's brain was resurrected and placed in a robotic body.<ref>Iron Man Annual Vol. 1 2000</ref>
+
+==Known abilities==
+Though Wong-Chu possessed no super-human powers, he was a highly skilled [[martial artist]].
+
+==In other media==
+===Television===
+* In the ''[[Iron Man (TV series)|Iron Man]]'' episode titled "The Origin of Iron Man," the Mandarin, not Wong-Chu, was the one who injured and abducted Tony Stark, then tried to extort him into providing him with weapons.
+
+* In ''[[Marvel Anime|Marvel Anime: Iron Man]]'' episode "A Twist of Memory, A Turn of a Mind," the Middle-Eastern terrorist '''Righella''' (voiced by [[Vic Mignogna]] in the English version) is the one who shoots down Tony Stark's helicopter and abducts him so that he can make weapons for Righella's terrorist group.
+
+===Film===
+* Wong-Chu appears in ''[[The Invincible Iron Man (film)|The Invincible Iron Man]]'' voiced by [[James Sie]].
+
+* In the 2008 live action ''[[Iron Man (film)|Iron Man]]'' movie, '''Raza''' (played by [[Faran Tahir]]) is the [[Afghanistan]] version of Wong-Chu and serves as the secondary antagonist. In the beginning of the movie, Raza (who has a single red ring that he rubs with his other hand and makes references to Genghis Khan) was a leader of the '''Ten Rings''', the terrorist group led by the Mandarin that held Tony Stark and [[Ho Yinsen|Yinsen]] captive. After he gunned down an armed Yinsen, Raza was scarred by Stark (in the first completed Iron Man armor) when he shot a missile at a cave wall right beside Raza's face. Sometime later, Raza had the Ten Rings recover the original armor's remains. After showing his benefactor [[Iron Monger|Obadiah Stane]] the remains, Raza talked about having an army of armored soldiers. However, Stane betrayed Raza by paralyzing him and presumably had Raza killed.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://marvel.wikia.com/Wong-Chu_(Earth-616) Wong-Chu] at Marvel Wikia
+* [http://www.comicvine.com/wong-chu/29-66473/ Wong-Chu] at Comic Vine
+
+{{Iron Man}}
+
+[[Category:Fictional Chinese people]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Comics characters introduced in 1963]]
+[[Category:Film characters]]
+[[Category:Fictional warlords]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Don Heck]]

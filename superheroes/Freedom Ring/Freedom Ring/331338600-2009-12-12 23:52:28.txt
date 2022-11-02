@@ -1,0 +1,61 @@
+{{Superherobox
+|image=[[Image:Freedomring.png|150px]]
+|caption=Freedom Ring<br>Art by [[Andy Kuhn]]
+|comic_color=background:#ff8080
+|character_name=Freedom Ring
+|real_name=Curtis Doyle
+|publisher=[[Marvel Comics]]
+|debut=''Marvel Team-Up'' #20
+|creators=[[Robert Kirkman]]<br>[[Andy Kuhn]] 
+|alliance_color=background:#ffc0c0
+|status=deceased
+|powers=Superhuman strength, stamina, speed and physical resistance,<br>Reality manipulation
+|}}
+
+'''Freedom Ring''' (real name '''Curtis Doyle''') is a [[fictional character|fictional superhero]] in the [[Marvel Comics]] [[Marvel universe|universe]], created by writer [[Robert Kirkman]]. Curtis first appeared in ''[[Marvel Team-Up]]'' #20, becoming Freedom Ring in the next issue.
+
+==Fictional character biography==
+
+After the ''Master of the Ring'' story arc in Marvel Team-Up ended, [[Captain America]] and [[Wolverine (comics)|Wolverine]] showed up.  Cap told everyone he would take the reality-altering ring that the [[Ringmaster (comics)|Ringmaster]] was wearing into [[S.H.I.E.L.D.]] custody.  Unfortunately, [[Advanced Idea Mechanics|A.I.M.]] sent a group of soldiers called a M.O.D.O.C. ('''M'''ilitary '''O'''peratives '''D'''esigned '''O'''nly for '''C'''ombat) Squad to fight Cap for an unknown reason. Although, it can be speculated that they were probably trying to get the Cosmic Cube fragment set in the ring.
+
+The ring falls out of the pouch that Cap was supposed to bring it to S.H.I.E.L.D. in, but he doesn't notice.
+
+The ring is eventually found by Curtis Doyle, whose friend Troy calls the ring a "free, dumb ring".  This comment gives Curtis for his superhero name.  He discovers that the ring gives him the ability to alter reality when he accidentally creates an ice cream sundae.  He runs away terrified, but when he returns, he finds that the sundae has disappeared without a trace.  He calls Troy, and later, they have a long night of super-power practice.
+
+The next day while Curtis was on a date with Jeffrey, a waiter from a diner that he frequented, the [[Abomination (comics)|Abomination]] attacked nearby and Curtis ran off to fight him.  While fighting Abomination along with [[Spider-Man]] and the [[X-Men]], Curtis was seriously injured.  Spider-Man rushed him to the hospital while the X-Men defeated the Abomination.
+
+Curtis recovers, but is told he will never walk again. Troy helps him return home, and Curtis uses the ring to restore his legs. Going after Troy, who just left, he finds that his neighbor is an undercover [[Skrull]] who was sent to monitor the [[Avengers (comics)|Avengers]] just before they [[Avengers (comics)#"Avengers Disassembled"|disassembled]]. Losing track of them, the Skrull turned his spy equipment towards his neighbors. He knows everything about Curtis, and having decided to become a Superhero himself (dubbed the [[Crusader (Marvel Comics)#Crusader (Skrull)|Crusader]]), asks Curtis if he wishes to be his partner.
+
+Curtis is unsure, given what happened with the Abomination, but the Crusader convinces Curtis that he can do it, because if he fixed his legs, he can make himself stronger and faster, and less reliant on conjuring up the right item. Curtis agrees, making himself stronger, and practices with the Crusader for two weeks. In a later battle with [[Iron Maniac]]<ref>''[[Marvel Team-Up]]'' vol. 3 #24</ref>, who had just defeated Spider-Man and [[Wolverine (comics)|Wolverine]] and was currently facing [[Captain America]], [[Luke Cage]] and [[Spider-Woman (Jessica Drew)|Spider-Woman]] Curtis reveals the source of his power. Though he had caused the villain's limbs to remain still, Curtis did not expect Iron Maniac's armor to expand outwards. His ring finger is sliced off and his body is pierced multiple times.
+
+Captain America defeats the Iron Maniac by bouncing his shield off the villain's head, thus fracturing his skull. It is too late to save Curtis, who is dead. Captain America notes that they didn't even know him and yet he saved them all by buying them time to recover.
+
+Troy acquires the ring and establishes a super-hero persona of his own.
+
+==Powers and abilities==
+[[Image:CurtisDoyle.PNG|thumb|right|222px|Curtis Doyle as depicted by [[Andy Kuhn]]]]
+Curtis Doyle originally had no inherent super-powers on his own, however the character comes into possession of a ring crafted from a fragment of a destroyed [[Cosmic Cube]] which allows the wearer to alter reality within a radius of roughly 15 feet (4.6m) around him, giving him a {{convert|30|ft|m|adj=on}} sphere of reality he can alter<ref>''Marvel Team-Up'' #20</ref>.
+
+After his first attempt as Freedom Ring, he altered his physiology to give himself superhuman strength, stamina, durability and enhanced speed.
+
+==Robert Kirkman on Freedom Ring's character==
+Curtis's death was met with some negative reactions, including accusations of homophobia from gay comic book sites [http://www.gayleague.com/forums/display.php?id=453 Gay League] and [http://www.prismcomics.org/display.php?id=1304 Prism Comics], specifically because [[Joe Quesada]] touted him as Marvel Comics' leading gay hero a month prior to his death. 
+
+Robert Kirkman commented on the controversy, stating "Freedom Ring was always planned as an inexperienced hero who would get beaten up constantly and probably die. I wanted to comment on the fact that most superheroes get their powers and are okay at it... and that's not how life works. During working on the book, I was also noticing that most gay characters... are all about being gay. Straight characters are well-rounded characters who like chicks. So I wanted to do a well-rounded character who just happened to like dudes. Then I decided to combine the two ideas. In hindsight, yeah, killing a gay character is no good when there are so few of them... but I really had only the best of intentions in mind."<ref name=autogenerated1>Robert Kirkman. [http://www.imagecomics.com/messageboard/viewtopic.php?t=20996 Image Comics Community - Freedom Ring Controversy] ''http://www.imagecomics.com Image Comics'' March 25, 2005.  Accessed November 4, 2008.</ref>
+
+Kirkman later stated, "Frankly, with the SMALL amount of gay characters in comics in general, and how unfortunate the portrayals have been thus far, whether intentional or not--I completely understand the backlash on the death of Freedom Ring, regardless of my intentions. If I had it to do all over again... I wouldn't kill him. I regret it more and more as time goes on. I got rid of what? 20% of the gay characters at Marvel by killing off this ONE character. I just never took that stuff into consideration while I was writing."<ref name=autogenerated1/>
+
+==Footnotes==
+<div class="references-small">
+<references/>
+</div>
+
+==References==
+{{reflist}}
+
+[[Category:Marvel Comics superheroes]]
+[[Category:LGBT characters in comics]]
+[[Category:Marvel Comics characters with superhuman strength]]
+
+[[fr:Anneau de la liberté]]
+[[tl:Freedom Ring]]

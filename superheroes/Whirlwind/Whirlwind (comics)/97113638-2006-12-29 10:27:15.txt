@@ -1,0 +1,53 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:MarvelWhirlwind.jpg|300px]]
+|caption=
+|comic_color=background:#ff8080
+|character_name=Whirlwind
+|real_name=David Cannon
+|species=[[mutant (fictional)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Tales to Astonish]]'' #50 (December [[1963]])
+|creators= [[Stan Lee]] (writer), [[Jack Kirby]] (artist) 
+|alliance_color=background:#c0c0ff
+|status=Active
+|alliances=[[Thunderbolts (comics)|Thunderbolts]]
+|previous_alliances=[[Masters of Evil]]
+|aliases=Human Top
+|relatives=
+|powers=Superhuman strength, balance, agility and speed
+|}}
+
+'''Whirlwind''' is a [[fictional character]] in the [[Marvel Universe]]. Usually a nemesis of the [[Avengers (comics)|Avengers]], he is a [[mutant (fictional)|mutant]] with superhuman strength, speed, and balance.
+
+==History==
+From ''X-Men: The 198 Files'', covering mutants who retained their powers after the [[Decimation (comics)|Decimation]] of the mutant population: 
+
+"'''David Cannon''' began his criminal career under the alias the Human Top.  Born a mutant, Cannon discovered at an early age that he could cause his body to move at great speeds.  Cannon used his abilities early on in support of a life of crime and was later recruited into several incarnations of the [[Masters of Evil]] which has seen him opposed by the [[Avengers (comics)|Avengers]], primarily [[Hank Pym]] and the [[Wasp (comics)|Wasp]], numerous times.  During this period, Cannon added a vicious new element to his costume in the form of ten-inch saw blades crafted by the [[Tinkerer]].  Other past associations have seen Cannon working for the likes of [[Count Nefaria]] and the [[Red Skull]]. Recently, Cannon's obsession with the Wasp of the Avengers led to his brutally murdering several [[prostitutes]], indicating that his mental state may now be cause for concern."
+
+The government classifies him as a mid-level, or 'Significant,' security threat in these files, the same ranking applied to characters like [[Colossus (comics)|Colossus]], [[Beast (comics)|Beast]], and [[Lady Mastermind]].
+
+Recently, in ''[[Daughters of the Dragon]]'' #3, Whirlwind was caught in a deluge of paste from the gun of the criminal [[Trapster]] and ripped his own spine apart in horrific fashion. However, in ''[[Thunderbolts]]'' #104 he was seen to have survived, having been forced to join [[Baron Zemo]]'s team.
+
+==Powers==
+Superspeed, normally used to spin rapidly, so as to create a [[Dust devil|whirlwind]] (hence the name).  However, he has demonstrated ground speed sufficient to outrace [[Quicksilver (comics)|Quicksilver]]. While whirling, he is hard to grapple with or hold on to, and the air moving around him creates a cushion-like effect which protects him from conventional physical attacks.
+
+After some time Whirlwind had updated his abilities by the use of wrist-mounted buzzsaws and [[shuriken|throwing stars]]. When Whirlwind uses his power, the blades will attain a deadly velocity, making them more dangerous than when being used by normal humans.
+
+==Trivia==
+For most of Whirlwind's early history in the Marvel Universe, his costume included a very large, domed green helmet (shaped like an upside down top).  During Marvel's [[Heroes Reborn]] event, the alternate reality version of Whirlwind wore a much more streamlined costume featuring multiple bladed edges.  Curiously, when the story ended and the missing heroes all returned to the 616 Marvel Universe, the "normal" Whirlwind had retained the redesign and has ever since.
+
+==In Other Media==
+In the [[1994]] ''[[Iron Man]]'' [[animated series]], Whirlwind served as one of the minions of [[Mandarin (comics)|the Mandarin]]. He also appears in episode six of ''[[The Avengers: United They Stand]]'' as a member of the [[Masters of Evil]].  He was also one of the bosses in the video game [[Captain America and the Avengers]].
+
+==External links==
+*[http://www.marveldirectory.com/individuals/w/whirlwind.htm Whirlind at MarvelDirectory.com]
+
+{{Marvel-villain-stub}}
+
+[[Category:1963 introductions]]
+[[Category:Fictional characters who can move at superhuman speeds]]
+[[Category:Iron Man villains]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutants]]
+[[Category:Masters of Evil members]]
+[[Category:The 198 Files]]

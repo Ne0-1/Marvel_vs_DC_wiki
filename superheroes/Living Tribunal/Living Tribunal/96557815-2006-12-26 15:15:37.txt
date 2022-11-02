@@ -1,0 +1,49 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:ST158.jpg|260px|The first full appearance of the Living Tribunal. Art by Bill Everett]]
+|caption=The Living Tribunal
+|comic_color=background:#ff8080
+|character_name=Living Tribunal
+|real_name=
+|publisher=[[Marvel Comics]]
+|debut= (Cameo) ''[[Strange Tales]]'' vol. 1, #157 (June, [[1967]])
+|creators=[[Stan Lee]] <br> [[Marie Severin]] <br> [[Herb Trimpe]]
+|alliance_color=background:#cccccc
+|status=Active
+|alliances= [[One-Above-All]]
+|previous_alliances= Unknown
+|aliases= None known
+|relatives= None
+|powers= [[Omnipotence]] - apparently capable of anything
+|}}
+
+The '''Living Tribunal''' is a [[Marvel Comics]] [[cosmic entity]] and first appeared in [[Strange Tales]] vol. 1, #157 (cameo - first full appearance next issue). The Tribunal is a nigh - [[omnipotence|omnipotent]] entity empowered by an unknown force to oversee the realities that constitute the Multiverse, from the mainstream  universe ([[Earth-616|616]]) to all the alternate realities (eg. [[What If (comics)|What If]] ) and pocket universes (eg. [[Earth X]] ).
+
+The Living Tribunal rarely appears and only then in exceptional circumstances, such as when passing judgement on Earth, <ref>''Strange Tales'' vol.1, #157 - 163</ref> monitoring the actions of other cosmic deities <ref>''Rom'' vol. 1, #41</ref> or acting as a referee on matters affecting an entire universe. <ref>''Warlock and the Infinity Watch'' vol. 1, #1</ref>
+
+The Living Tribunal's power is apparently limitless, as the entity is capable of nullifying the combined power of the [[Infinity Gems]]. <ref>''Warlock and the Infinity Watch'' vol. 1, #1</ref> The Living Tribunal has only been surpassed once: [[Thanos]] of Titan becomes one with the entire universe through the use of an artifact called the [[Heart of the Universe]] and even the Living Tribunal is apparently powerless to stop him. <ref>''Marvel Universe:The End'' #1 - 6</ref> It is uncertain as to whether this was the true Living Tribunal or merely an avatar, as the entity is supposedly beyond the beings and artifacts of any one universe. 
+
+== Appearance ==
+
+The Living Tribunal has three faces, although only one is fully visible, with the other two being partially and completely covered respectively. The three faces represent Equity, Necessity and Vengeance and correspond to the three prime cosmic beings (and their counterparts) in all universes.
+
+In the primary Marvel universe these beings are:
+
+* Equity - [[Galactus]]
+
+* Necessity - [[Eternity (Marvel Comics)|Eternity]] / [[Infinity (Marvel Comics)|Infinity]]
+
+* Vengeance - [[Death (Marvel Comics)|Death]] / [[Oblivion (comics)|Oblivion]]
+
+'''Note:''' 
+
+The fourth side of the Living Tribunal's head is a void. The Tribunal once stated that it ''could'' have represented the cosmic entity the [[Stranger (comics)|Stranger]], but the latter refused. <ref>''Silver Surfer'' vol. 3, #31</ref>
+
+== References ==
+<references/>
+
+
+==External links==
+*[http://www.knightmare6.com/faq/cosmic_entities_marvel Knightmare6.com; Marvel Cosmic Entities]
+*[http://www.drstrange.nl/drstrange/sanctum/book/livingtribunal.htm Doctor Strange; Living Tribunal]
+
+[[Category:Marvel Comics cosmic entities]]

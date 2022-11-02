@@ -1,0 +1,37 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Morgan le Fay
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''Black Knight'' #1 (May 1955)<br>first modern appearance: Spider-Woman #2
+|creators=[[Stan Lee]] and [[Joe Maneely]]
+|alliance_color=background:#c0c0ff
+|alliances=Leader of the Sixth Century cult of [[Darkhold]]ers, former ally of [[Doctor Doom]]
+|aliases=
+|powers=
+|}} 
+
+'''Morgan le Fay''' is a fictional character in the {{Marvel Universe}}, based loosely on the [[Morgan le Fay]] of [[Arthurian]] legend.   In this version of the character, she is the half-elven half-sister of the mythic Arthur. Her elven heritage granted her immortality, and she used this time to master the mystic arts. She occasionally tries to take over the world. She has been an opponent of [[Avengers (comics)|The Avengers]], and in the 1970s, she was the major villain in the original [[Spider-Woman]] comic, and was opposed by a reincarnation of her "ancient foe" and former lover [[Magnus (Marvel Comics)#Magnus the Sorcerer|Magnus]]. She was a member of the [[Darkhold]]ers for a time.
+
+==Fictional character biography==
+She served as the villain that reunited the [[Avengers (comics)|Avengers]] (ironically, she did so in the manner of [[Loki (comics)| Loki]], the Norse god whose actions created the Avengers in the first place). Using the monsters of [[Norse mythology]], she and [[Mordred (comics)|Mordred the Evil]] lured the [[Scarlet Witch]] (and a team of Avengers) to [[Tintagel]] in Cornwall. There, she kidnapped the Scarlet Witch and used her reality-warping powers to 'bridge the gap' between her elven magic and an [[Asgardian]] [[doomsday device]] known as the [[Twilight Sword (comics) | Twilight Sword]]. Using the Sword, she remade reality: the world was now a [[Middle Ages]] equivalent of itself, except that she ruled the world, and had done so for some time. However, the Avengers stepped in and freed the Scarlet Witch, thus negating the original spell the others were based on, and restoring reality.
+
+==External links==
+*[http://www.camelot4colors.com/whoswho.htm#Morgan%20le%20Fey A brief overview], with links to more detailed treatments, at ''Camelot in Four Colors''
+*[http://www.marvunapp.com/Appendix2/morganlefay.htm A profile of the Marvel Comics version]
+
+
+{{DEFAULTSORT:Le Fay, Morgan}}
+
+[[Category:Arthurian characters|Morgan le Fay]]
+[[Category:Fictional hybrids]]
+[[Category:Fictional shapeshifters]]
+[[Category:Fictional telepaths]]
+[[Category:Fictional witches]]
+[[Category:Magic users in comics]]
+[[Category:Marvel Comics characters who can fly]]
+[[Category:Marvel Comics immortals]]
+[[Category:Marvel Comics supervillains]]

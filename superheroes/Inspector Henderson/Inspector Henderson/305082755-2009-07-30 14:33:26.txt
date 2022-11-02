@@ -1,0 +1,45 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name = Inspector Henderson
+| publisher = [[DC Comics]]
+| debut = First appeared on ''[[The Adventures of Superman (radio)|Superman radio series]]'' c. 1940s<br />Comics: ''[[Action Comics]]'' #440 (October 1974)
+| creators = 
+| alter_ego = 
+| full_name = William Henderson
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = <!-- optional -->
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports= [[Superman]]
+| powers = 
+}}
+'''Inspector William Henderson''' is a supporting character in [[Superman]] comics published by [[DC Comics]].
+
+Inspector Henderson first appeared in the 1940s ''[[The Adventures of Superman (radio)|Superman radio series]]'', in which he was Superman's police contact. He was subsequently introduced in a similar role in the 1950s ''[[Adventures of Superman (TV series)|Adventures of Superman]]'' [[television]] series, where he was played by [[Robert Shayne]].<ref name="LightningBolts">"Lightning Bolts," ''Black Lightning'' #3 (July 1977).</ref> Mainly used as a sounding board in that capacity, the only detail about Henderson's personal life that was revealed was that he had a son named Ray.<ref name="LightningBolts" />
+
+It took a while longer for Inspector Henderson to be introduced in the comics, however; his first appearance there was in ''[[Action Comics]]'' #440 in October 1974, once again as Superman's main police contact. He also appeared in issues of the ''[[Black Lightning]]'' series.<ref name="LightningBolts" />
+
+In the 1980s ''[[Superboy]]'' comics, Inspector Henderson was introduced in that series as "Detective-Sergeant" Henderson, where he was visiting [[Smallville (DC Comics)|Smallville]] in an unsuccessful attempt (for the time being, anyway) to convince Superboy to relocate to [[Metropolis (comics)|Metropolis]].
+
+Since [[John Byrne]]'s 1986 ''[[Man of Steel]]'' miniseries, Inspector Henderson's role has been reduced somewhat, in favor of newer characters [[Dan Turpin]] and [[Maggie Sawyer]]. Currently, Henderson is Metropolis' [[police commissioner]]. 
+
+''[[Supergirl]]'' #37 (March 2009) introduces Inspector Mike Henderson, an African-American detective who is the new head of the Metropolis Metacrimes Division, one of two units replacing Sawyer and Turpin's Special Crimes Unit (the other being the [[Science Police]]).
+
+==In other media==
+Inspector Henderson has also appeared in the 1990s live-action television series ''[[Lois and Clark: The New Adventures of Superman]]''. In most of his appearances he was played by [[Richard Belzer]], however the role was played by [[Mel Winkler]] (who reprised the role—as Commissioner Henderson—in an episode of the 1990s cartoon ''[[Superman: The Animated Series]]'') and [[Brent Jennings]], prior to Belzer's assumption of the role. A recurring character during ''Lois and Clark'''s first season, Inspector Henderson did not appear in subsequent seasons.
+
+As noted above, actor Mel Winkler appeared in ''Superman: The Animated Series'' as Henderson, appearing briefly in the episode "Feeding Time".
+
+== References ==
+{{reflist}}
+
+==External links==
+* [http://superman.nu/wiki/index.php/Inspector_Bill_Henderson Supermanica entry on the comics' Pre-Crisis Bill Henderson]
+{{Superman}}
+{{DEFAULTSORT:Henderson, Bill}}
+[[Category:DC Comics characters]]
+[[Category:Fictional police officers]]
+[[Category:1974 comics characters debuts]]
+[[Category:Fictional African-Americans]]
+[[Category:Fictional police detectives]]

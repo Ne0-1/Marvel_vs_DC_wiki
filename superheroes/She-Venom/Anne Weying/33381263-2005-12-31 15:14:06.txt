@@ -1,0 +1,29 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:bova.jpg]]
+|caption=She-Venom
+|comic_color=background:#ff8080
+|character_name=She-Venom
+|real_name=Anne Weying
+|publisher=[[Marvel Comics]]
+|debut=As Anne Weying, Amazing Spider-Man 375, As "She-Venom," Venom: Sinner Take All 2.
+|creators=
+|alliance_color=background:#cccccc
+|status=Deceased
+|alliances=
+|previous_alliances=
+|aliases=Anne Brock
+|relatives=Eddie Brock ([[Venom (comics)|Venom]], Ex-Husband)
+|powers=A human host linked to an alien symbiote whose previous link with Spider-Man created the equivalents of his abilities.<br>In addition, the being can produce its webbing, change its appearance and cannot be detected by Spider-Man's spider-sense
+|}}
+
+She-Venom is a [[fictional character]] in [[Marvel comics]]. She is the wife of Venom.
+
+==Character History==
+
+Anne Weying first appeared in Amazing Spider-Man 375. She was Venom's ex-wife, who was a lawyer. She helped out Spider-Man by sharing some of Eddie's history with him. Later, she followed Spider-Man to the amusement park where Venom had Peter's (fake) parents and managed to convince Eddie to give up his vendetta. Later, Sin-Eater II shot Anne, who became She-Venom. In Amazing Spider-Man (vol 2.) 19, Anne Weying commited suicide.
+
+==Powers and abilities==
+
+She-Venom posseses all the powers the original Venom has, including suit generated webbing, shape-shifting, superstrength and the inability to be detected by [[Spider-Man]]'s "spider-sense".
+
+[[Category:Marvel Comics aliens]]

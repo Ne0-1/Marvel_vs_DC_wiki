@@ -1,0 +1,39 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Vvostokdcu0.jpg|225px]]
+|caption=Cover of Showcase Presents #96,</br> art by [[Jim Aparo]]
+|character_name=Valentina Vostok
+|publisher=[[DC Comics]]
+|debut=''[[Showcase (comics)|Showcase]]'' #94 (August 1977)
+|creators=[[Paul Kupperberg]] (writer)</br>[[Joe Staton]] (artist)
+|real_name=Valentina Vostok
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances=[[Checkmate (comics)|Checkmate]]<br>[[Doom Patrol]]<br>[[Soviet Air Force]]<br>[[United States Secret Service|US Secret Service]]
+|aliases=Negative Woman
+|supports=<!--optional-->
+|powers=Experienced espionage operative.
+|}}
+
+'''Valentina Vostok''' (alternately spelled Vostock) is a [[fictional character]] by [[DC Comics]]. She first appeared in ''[[Showcase (comics)|Showcase]]'' #94, (August 1977), and was created by [[Paul Kupperberg]] and [[Jim Aparo]].
+
+==Fiictional character biography==
+Lt. Col. Valentina Vostok of the [[Soviet Air Force]] chose to defect to the [[USA]], stealing an experimental Russian fighter plan in order to accomplish this. The plane malfunctioned en route and she crash-landed at the spot where the original [[Doom Patrol]] had apparently perished and was infused with the energy being which formerly inhabited the body of the Patrol's [[Negative Man]]. 
+
+Inevitably, she became '''Negative Woman''' and was recruited for the second Doom Patrol for several years. While on the team she had a brief affair will her teammate [[Joshua Clay]]. Later, the energy being eventually quit her body and returned to Larry Trainor (Negative Man), whereupon she began to work for the American secret services, being involved in a number of US government departments until she ended up in [[Checkmate (comics)|Checkmate]]. Her current whereabouts are unknown.
+
+==Powers and abilities==
+*Valentina formerly possessed a radioactive 'soul-self', and was capable of flight, intangibility and could generate minor explosions upon contact with positive energy. She no longer possesses these abilities.
+
+==See also==
+*[[List of Russian superheroes]]
+
+==External links==
+*[http://www.dcuguide.com/who.php?name=valentinavostok DCU Guide: Valentina Vostok]
+
+{{-}}
+{{DC-Comics-stub}}
+
+[[Category:1977 introductions]]
+[[Category:DC Comics superheroes]]
+[[Category:Fictional Russians|Vostok, Valentina]]
+[[Category:Russian superheroes|Vostok, Valentina]]

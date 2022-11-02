@@ -1,0 +1,28 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Ezekiel
+|real_name=Ezekiel Sims
+|publisher=Marvel Comics
+|debut=''Amazing Spider-Man'' (vol. 2) #30
+|creators=[[J. Michael Straczynski]]<BR>[[John Romita Junior]]
+|alliance_color=background:#cccccc
+|status=Deceased
+|alliances=[[The Spider Society]]
+|previous_alliances=None
+|aliases=
+|relatives=
+|powers=Spider-like physical abilities similar to those of [[Spider-Man]]
+|}}
+
+'''Exekiel Sims'''  is a [[fictional character]] in the [[Spider Man]] comics books.
+
+He was a rich businessman who, in his younger years, [[ritual]]istically gained powers similar to those of [[Spider-Man]]. He used his powers to found a corporation.
+
+Ezekiel, in his 50s, contacted Spider-Man and explained to him the nature of animal totems: people who gain supernatural abilities from a mystic link with certain animals. He suggested that the spider that bit Peter Parker was not mutated by the radiation, but actually trying to give Peter its powers before the radiation killed it. This meant that Spider-Man was now part of the supernatural food chain, and became a target for other totems and beings who feed on totem. 
+ 
+Later, Ezekiel attempted to direct the consequences of gaining his powers onto Spider-Man himself, before finally sacrificing himself to save Spider-Man.
+
+{{Marvel-Comics-stub}}
+[[Category:Spider-Man supporting characters]]

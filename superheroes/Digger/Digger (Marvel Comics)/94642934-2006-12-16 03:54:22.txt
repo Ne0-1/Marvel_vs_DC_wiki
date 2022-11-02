@@ -1,0 +1,40 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Digger
+|real_name=Roderick Krupp
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Tower of Shadows]]'' #1 (Sep 1969)
+|creators=[[Jim Steranko]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Night Shift (comics)|Night Shift]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''Digger''' (real name '''Roderick Krupp''') is a [[fictional character|fictional]] [[comic book]] character in the [[Marvel Comics]] [[Marvel universe|universe]].
+
+==Publication history==
+Originally designed as one of the hosts of the [[horror fiction|horror]] [[anthology]] series ''[[Tower of Shadows]]'' and its sister title, ''[[Chamber of Darkness]]'', both beginning in 1969, Digger's role was similar to that of ''[[Tales from the Crypt (comic)|Tales from the Crypt]]'' 's [[Crypt Keeper]] of the 1950s [[EC Comics]] and later [[HBO]] [[television series]]. Digger would provide a page or two of introductory material leading into the story itself.
+
+In ''[[Captain America]]'' #329 (1987), Digger was brought back along with other lesser-known characters as part of the [[supervillian]] team the [[Night Shift (comics)|Night Shift]], where it was explained he made his home in the [[California]] building called the Tower of Shadows, which the team now used as headquarters. The story further explained that he amused himself with the horror stories he found there, and that his nickname came from telling these stories to victims as he buried them alive.
+
+==Powers==
+Digger has a slightly superhuman level of strength.
+
+==Trivia==
+*Although Marvel.com gives Digger's skin colour as officially green, throughout the character's existence a certain number of panels &mdash; and the Marvel.com image itself &mdash; have seen him coloured blue.
+
+==References==
+*[http://www.marvel.com/universe/Digger_%28Roderick_Krupp%29 Digger profile at Marvel.com]
+*''Tower of Shadows'' #1-9
+
+[[Category:Marvel Comics characters]]
+[[Category:Horror hosts]]
+
+{{Marvel-Comics-stub}}

@@ -1,0 +1,36 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Punchout
+|real_name=
+|species=[[Mutant (Marvel comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''Uncanny X-Men'' #235 (1988)
+|creators=[[Chris Claremont]]<br>[[Rick Leonardi]]
+|alliance_color=background:#ffc0c0
+|alliances=[[Press Gang (comics)|Press Gang]]<br/>[[Genoshan Magistrates]]
+|aliases=
+|powers=Superhuman strength and resistance
+|}}
+
+'''Punchout''' is a [[fictional character]], a [[Mutant (Marvel Comics)|mutant]] in the [[Marvel Comics]] Universe. Her first appearance was in ''Uncanny X-Men #235''.
+
+==Fictional character biography==
+
+The super-strong mutant known only as Punchout was a member of the super-powered [[Press Gang (comics)|Press Gang]], law enforcers, from the island nation of [[Genosha]].
+
+After repeated disruptions to the Genoshan government, the island fell into a civil war.{{Issue|date=May 2010}} Punchout stayed with a small group of Press Gang members, fighting against the rebels. In one battle, she was knocked down by [[Jennifer Ransome]].{{Issue|date=May 2010}}
+
+With the genocide of the entire Genoshan population by [[Sentinel (comics)|Sentinels]] controlled by [[Cassandra Nova]],{{Issue|date=May 2010}} Punchout's final fate is unknown. It is unknown if she retained or lost her mutant powers during the [[Decimation (comics)|M-Day]].
+
+==Powers and abilities==
+She has superhuman strength and stamina, high resistance to physical injury and temperature extremes.
+
+{{DEFAULTSORT:Punchout (Comics)}}
+[[Category:Comics characters introduced in 1988]]
+[[Category:Characters created by Chris Claremont]]
+[[Category:Genoshans]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]

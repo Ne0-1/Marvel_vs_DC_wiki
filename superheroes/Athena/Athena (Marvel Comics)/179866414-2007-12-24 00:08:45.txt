@@ -1,0 +1,35 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Athena
+|real_name=Pallas Athena
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Thor (Marvel Comics)|Thor]]'' #164 (May 1969)
+|creators=[[Stan Lee]] and [[Jack Kirby]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Olympians (comics)|Olympian Gods]]
+|previous_alliances=
+|aliases=Minerva
+|relatives=
+|powers=
+|}} 
+
+'''Athena''' is a fictional character in the [[Marvel Universe]].
+
+Athena is the goddess of wisdom and war in the [[Olympians (comics)|Olympian pantheon]].
+
+Athena is the mistress of many forms of knowledge.  She is an extraordinary hand-to-hand combatant, swordswoman, and combat strategist, superior even to [[Ares (Marvel Comics)|Ares]].
+
+Athena is not to be mistaken for the [[Eternal (comics)|Eternal]] [[Thena]].
+
+[[Zeus (Marvel Comics)|Zeus]] is her father.
+
+==External links==
+*[http://www.marvunapp.com/Appendix/athenami.htm Athena at the Marvel Universe Appendix]
+*http://en.marveldatabase.com/Pallas_Athena_%28Earth-616%29
+
+
+[[Category:Marvel Comics Olympians]]

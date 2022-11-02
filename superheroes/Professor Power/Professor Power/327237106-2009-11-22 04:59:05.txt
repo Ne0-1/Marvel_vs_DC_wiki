@@ -1,0 +1,64 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Professor Power
+|real_name=Anthony Power
+|publisher=[[Marvel Comics]]
+|debut=''[[Marvel Team-Up]]'' vol. 1 #117 (May 1982)
+|creators=[[J. M. DeMatteis]] and [[Herb Trimpe]]
+|alliance_color=background:#cccccc
+|alliances=[[Mutant Force]]<br/>[[Secret Empire]]
+|aliases=The Professor, Number One
+|powers=
+|}}
+
+'''Professor Power''' ('''Anthony Power''') is a [[fictional character]] in the [[Marvel Comics]] Universe. His first appearance was in ''Marvel Team-Up vol. 1 #117'', although individuals working for him appear before then.
+
+==Fictional character biography==
+Anthony Power was born in the town of [[Norfolk, Virginia]].  He was originally a historian and teacher, and an advisor to the President of the United States of America. He became a criminal mastermind as '''Professor Power''', the head of a subversive organization and the leader of an unnamed army of right-wing extremists. Power, working behind the scenes, assembled a group of telepaths which was used by his ally [[Morgan MacNeil Hardy]] to restructure American society, until Hardy was foiled by [[Captain America]].<ref>''Captain America'' #264</ref> [[August Masters]], also working on behalf of Power, was revealed as the head of a secret project involving telepaths.<ref>''Defenders'' #102</ref> Masters' men, posing as federal agents, captured [[Nighthawk (Marvel Comics)|Richmond]].<ref>''Defenders'' #104</ref> Masters attempted to launch this psionic attack against the U.S.S.R., but battled Captain America, [[Daredevil (Marvel Comics)|Daredevil]], and the [[Defenders (comics)|Defenders]].<ref>''Captain America'' #268; ''Defenders'' #106</ref>
+
+Professor Power used robots to test the capabilities of [[Spider-Man]] and [[Wolverine (comics)|Wolverine]].<ref>''Marvel Team-Up'' #117</ref> Aided by the [[Fixer (comics)|Fixer]], Power captured [[Professor X]] and attempted to add his mental powers to [[Mentallo]]'s. Power intended to then have Mentallo cure his catatonic son, Matthew, but was battled by Spider-Man.<ref>''Marvel Team-Up'' #118</ref> Professor Power's mind was then transferred into Matthew's body encased in a battle-suit, and he battled Spider-Man and the [[Beast (comics)|Beast]].<ref>''Marvel Team-Up'' #124</ref>
+
+As '''Number One''', Professor Power was also the founder of the third [[Secret Empire]]. He sent Harridan, Seraph, and [[Cloud (comics)|Cloud]] to abduct the [[Vision (Marvel Comics)|Vision]], but was foiled by the Defenders.<ref>''Defenders'' #123</ref> He sent [[Mad Dog (comics)|Mad Dog]] and [[Resistants (comics)|Mutant Force]] to disrupt the wedding of [[Daimon Hellstrom]] and [[Patsy Walker]], and they battled the Defenders.<ref>''Defenders'' #125</ref> Professor Power had double agents in the New York [[S.H.I.E.L.D.]] headquarters free [[Gargantua (comics)|Leviathan]], Mad Dog, and Mutant Force from S.H.I.E.L.D. custody, and sent Leviathan against the Defenders.<ref>''Defenders'' #126</ref> Power was then revealed as a member of the Secret Empire, and sent [[Mandroid]]s to recapture the escaped Cloud.<ref>''Defenders'' #127</ref> Power captured the Defenders,<ref>''Defenders'' #128</ref> and unsuccessfully attempted to brainwash them into killing the [[New Mutants]] in revenge against Professor X. Power launched a subliminal mind-control satellite in an attempt to start World War III.<ref>''Defenders'' #129</ref> The satellite was destroyed, and his consciousness was telepathically merged with his son's by [[Moondragon]], resulting in catatonic madness.<ref>''Defenders'' #130</ref>
+
+Some time later, Power was abducted from S.H.I.E.L.D. custody and brought back to his castle in the Adirondack Mountains in New York State, and revived by his followers. Power was apparently beaten to death in battle with [[U.S. Agent|Captain America]] (John Walker).<ref>''Captain America'' #338</ref> Power was later seen alive, however. Among the other superheroes Professor Power has battled with are [[Darkhawk]], [[Iron Man]], [[X-Men]] and [[X-Factor (comics)|X-Factor]].
+
+===Civil War===
+Professor Power is a self-confessed loser at the wake of [[Stilt-Man]]. Almost all of the supervillains at the wake were the victims of murder/attempted murder. The [[Punisher]] disguised himself as a barman, poisoned drinks, and then blew up the bar.<ref>''[[The Punisher War Journal]]'' vol. 2 #4</ref>
+
+===Nomad: Girl Without A World===
+Professor Power resurfaced in disguise as a high school teacher at the school which [[Nomad (comics)#Rikki Barnes|Rikki Barnes]] of Counter-Earth has been attending under the alias of Rikki Baines, performing mind-control experiments on the student body.<ref>''Nomad: Girl Without A World'' #3</ref>
+
+==Powers and abilities==
+Professor Power was originally a normal human with a gifted intellect. He is an excellent long-range planner, and battle strategist, and has degrees in history and political science.
+
+His scientists designed for him a battle suit of full body armor capable of flight via jet engines attached to it, and an electron-beam (fired from his right forefinger).
+
+When Professor Power was in Matthew Power's body, he possessed superhuman strength.
+
+==Bibliography==
+*''Avengers West Coast Annual'' #7
+*''Captain America'' vol. 1 #264, 268, 338 ("died")
+*''Darkhawk Annual'' vol. 1 #1]
+*''Defenders'' vol. 1 #102, 104, 106, 123, 125-130, 149
+*''Iron Man Annual'' #13
+*''Marvel Team-Up'' vol. 1 #117-118, 124
+*''Nomad:  Girl Without A World'' #3, 4
+*''Official Handbook of the Marvel Universe'' vol. 2 #19
+*''Spectacular Spider-Man'' vol. 1 #197-198
+*''Spectacular Spider-Man'' vol. 2 #197-199
+*''Thunderbolts'' vol. 1 #33
+*''X-Factor Annual'' #9
+
+==References==
+{{reflist}}
+
+==External links==
+*{{marvunapp|http://www.marvunapp.com/Appendix3/professorpowerdef.htm}}
+
+
+[[Category:Fictional characters from Virginia]]
+[[Category:Marvel Comics supervillains]]
+
+[[fi:Professori Power]]

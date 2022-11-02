@@ -1,0 +1,43 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+|image= [[Image:Invaders-36.jpg|250px]]
+|caption= The ''Iron Cross'' battles ''[[Namor the Sub-Mariner]]'' on the cover of ''[[Invaders (comics)|Invaders]]'' #36 (Jan. 1979). Art by [[Alan Kupperberg]].
+|comic_color=background:#ff8080 
+|character_name=Iron Cross
+|real_name=Helmut Gruler
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Invaders (comics)|Invaders]] #35'' (Dec. 1978)
+|creators=[[Roy Thomas]]<br>[[Alan Kupperberg]]
+|alliance_color=background:#c0c0ff
+|alliances=
+|aliases=
+|powers=
+|}} 
+'''Iron Cross''' is a [[fictional character]] that appears in [[comic book]]s published by [[Marvel Comics]]. The character first appears in ''[[Invaders (comics)|Invaders]]'' #36 (Jan. 1979) and was created by [[Roy Thomas]] and [[Frank Robbins]].
+
+==Fictional character biography==
+Helmut Gruler is a [[World War II]] [[Germany|German]] [[soldier]] that first appears in the title ''[[Invaders (comics)|Invaders]]''. Gruler volunteers to wear [[armor]] created by Professor Franz Schneider for use against the [[Allies of World War II|Allied]] forces. Using the alias ''Iron Cross'', the character creates havoc until apparently killed during a battle with [[superhero]] team the ''Invaders''.<ref>''Invaders'' #35 - 37 (Dec. 1978 - Feb. 1979)</ref>
+
+The character reappears in the modern Marvel universe in the title ''[[Midnight Sons Unlimited]]'', having apparently been saved and sustained by his armor.<ref>''Midnight Sons Unlimited'' #9 (May 1995)</ref> The Iron Cross is revealed in the [[limited series]] to be a founding member of the modern version of the ''[[V-Battalion]]'', a secret group dedicated to hunting down [[war criminals]]. The character apparently dies preventing the spread of [[nanotechnology]] throughout the world by [[terrorist]] organization [[HYDRA]].<ref>''Citizen V and the V-Battalion'' #1 - 3 (June - Aug. 2001)</ref>
+{{-}}
+
+==Powers and abilities==
+Helmut Gruler wears an advanced suit of armor provides superhuman strength, durability and [[flight]] via boot jets. The armor also several offensive features, and is capable of releasing [[electrical current]], [[sleeping gas]] and an inky fluid similar to that discharged by an [[octopus]]. The suit provides some [[longevity]] by sustaining Gruler's body.
+
+==In other media==
+===Video games===
+* Iron Cross appears as a villain in the video game ''[[Captain America: Super Soldier]]'', voiced by [[Michael Donovan]].<ref>http://xbox360.ign.com/articles/112/1125597p1.html#ixzz11WLb93H2 ''Captain America: Super Soldier Announced"</ref> He is shown working with Arnim Zola when it comes to obtaining the DNA sample of Captain America. After Captain America destroys the upgraded super-soldier serum that Red Skull was about to receive from Arnim Zola, Red Skull orders Iron Cross to kill Captain America while he and Arnim Zola get away. Captain America defeats Iron Cross.
+
+==References==
+{{reflist}}
+
+{{Invaders}}
+
+[[Category:Characters created by Roy Thomas]]
+[[Category:Comics characters introduced in 1979]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Nazis in comic book fiction]]
+
+{{Marvel-villain-stub}}
+
+[[tl:Iron Cross (Marvel Comics)]]

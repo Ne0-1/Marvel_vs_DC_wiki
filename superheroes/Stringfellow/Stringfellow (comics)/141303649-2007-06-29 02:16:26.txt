@@ -1,0 +1,27 @@
+{{Superherobox| 
+image=
+|caption= 
+|comic_color=background:#ff8080
+|character_name=Stringfellow
+|publisher=[[Marvel Comics]] 
+|debut=''[[X-Treme X-Men]]'' #35
+|creators=
+|real_name=unrevealed
+|alliance_color=background:#ffc0c0
+|status=
+|alliances=
+|previous_alliances=[[X-Corporation]]
+|relatives=
+|powers=
+|}} 
+'''Stringfellow''' is a [[fictional character]], a [[Mutant (Marvel comics)|mutant]] in the [[Marvel Comics]] Universe. His first appearance was in ''[[X-Treme X-Men]]'' #35.
+
+==Fictional character biography==
+Stringfellow is a mutant with the ability to cause others' bodies to become super elastic. Serving as [[Sunspot (comics)|Sunspot]]’s personal bodyguard, Stringfellow used his abilities on the X-Man [[Rogue (comics)|Rogue]] when she crashed an [[X-Corporation]] party. Following the events of [[Decimation (comics)|M-Day]] where [[Scarlet Witch]] removed the mutant genome from over 90% of the world's mutant population, it is unknown whether Stringfellow retained his superhuman powers.
+
+==Powers and abilities==
+He mentally cause organic beings to lose all rigidity in their physical structure, making them collapse like loose, pliant bands of flesh .
+
+[[Category:Marvel Comics supporting characters]]
+[[Category:Fictional bodyguards]]
+[[Category:Marvel Comics mutants]]

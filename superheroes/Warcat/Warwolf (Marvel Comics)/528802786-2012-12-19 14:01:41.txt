@@ -1,0 +1,39 @@
+{{mergeto|List of Marvel Comics characters: W|date=December 2012}} 
+
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:NFHowlingCommandoes.jpeg|200px]]
+|caption=Warwolf leads the ''Howling Commandos'' in wolf form.
+|comic_color=background:#ff8080
+|character_name=Warwolf
+|real_name=Vince "Vic" Marcus
+|publisher=[[Marvel Comics]]
+|debut=''Nick Fury’s Howling Commandos'' #1
+|creators=
+|alliance_color=background:#cccccc
+|alliances=[[S.H.I.E.L.D.]]<br>[[Nick Fury's Howling Commandos|Howling Commandos]]
+|aliases=
+|powers=In human form: Long lifespan <br> In wolfen form:Superhuman strength, enhanced senses, deadly claws and fangs
+|}}
+
+'''Warwolf''' ('''Vince "Vic" Marcus''') is a fictional character in the [[Marvel Comics]] Universe who first appeared in ''Nick Fury’s Howling Commandos'' #1.
+
+==Fictional character biography==
+''Vince Marcus'' is a member of [[S.H.I.E.L.D.]]'s [[Howling Commandos]] Monster Force.  He is the field commander.  It is unknown yet when he joined SHIELD or why he is nicknamed Warwolf.{{issue|date=December 2012}}
+
+He has fought with guns and also used his claws to inflitrate the "Lords of Lightning",  a doomsday cult and led the assault on Stonehedge when Merlin and faeries were bringing their world into ours.{{issue|date=December 2012}}
+
+==Notes==
+*On '''Earth-Deathlok''', there is a character known as '''Warwolf'''.  He first appeared in ''Astonishing Tales'' #26
+*A member of [[Cybertek]] is known as ''Warwolf'' who first appeared in ''Deathlok'' vol. 2 #1.
+*A group of extradimensional former agents of [[Mojo (comics)|Mojo]] are known as the [[Warwolves]] who first appeared in ''Excalibur Special Edition'' #1.
+
+==Bibliography==
+*''Nick Fury's Howling Commandos'' #1-6
+
+==References==
+{{reflist}}
+
+[[Category:Fictional werewolves]]
+[[Category:Marvel Comics supporting characters]]
+
+{{Marvel-char-stub}}

@@ -1,0 +1,32 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Flashback
+|real_name=Gardner Monroe
+|species=[[mutant (fictional)|Human Mutant]]
+|publisher=[[Marvel Comics]] 
+|debut=''[[Alpha Flight]]'' vol. 1 #1
+|creators=
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=[[Beta Flight]]
+|aliases=
+|relatives=
+|powers=cause temporal counterparts.
+|}} 
+'''Flashback (Gardner Monroe)''' is a fictional [[mutant (fictional)|mutant]] character in the [[Marvel Comics]] Universe. His first appearance was in ''Alpha Flight (1st series) #1''.
+==Character history==
+Flashback was once a member of [[Beta Flight]] who was then recruited by Jerry Jaxon into [[Omega Flight]], a team put together to gain revenge on [[Guardian (Marvel Comics)|James MacDonald Hudson]], [[Alpha Flight]].
+
+During Alpha Flight's second encounter with Omega Flight, one of Flashback's duplicates was killed by [[Box (comics)|Box]] I after Delphine Courtney used it as a shield against the attack. It was not long after that time caught up with Flashback and he became the future self that was killed, resulting in his death.
+
+==Powers==
+He was a mutant with the psionic ability to cause temporal counterparts of himself from alternate future timelines to appear in the present and to control them. Each duplicate appeared in a reverse-colour version of the original Flashback's costume. These counterparts vanished whenever Flashback was rendered unconscious.
+
+{{Marvel-Comics-stub}}
+
+[[Category:Marvel Comics mutants]]
+[[Category:Fictional Canadians]]
+[[Category:Canadian superheroes]]

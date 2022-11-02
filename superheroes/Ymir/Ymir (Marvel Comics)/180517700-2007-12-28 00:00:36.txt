@@ -1,0 +1,50 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = [[Image:Avengersvs.Ymir.jpg]]
+| caption = Ymir is summoned back to Earth in ''Avengers'' vol. 1, #61. Art by [[John Buscema]].
+| character_name = Ymir 
+| publisher = [[Marvel Comics]]
+| debut = ''Journey Into Mystery'' vol. 1, #97 (Oct 1963)
+| creators = [[Stan Lee]] and [[Jack Kirby]]
+| alter_ego = 
+| full_name =
+| species = <!-- optional -->
+| homeworld =Asgard
+| alliances = <!-- optional -->
+| aliases = Aurgelmir
+| supports=<!--optional-->
+| powers =Superhuman strength and durability<br>Generate intense cold<br>Regeneration
+}}
+
+'''Ymir''' is a [[fictional character]] who appears in the [[Marvel Universe]]. Based on the frost giant [[Ymir]] of [[Norse mythology]], the character is a perennial foe of the Thunder God [[Thor (Marvel Comics)|Thor]]. 
+
+==Fictional character biography==
+Formed at the beginning of creation, Ymir considers all other forms of life &mdash; with the exception of his kin the [[Giants (Marvel Comics)|Frost Giants]] &mdash; to be abhorations that must be destroyed. Ymir's actual history in the Marvel universe is complicated by the fact that the mythical [[Hyborian Age]] &mdash; in which the adventures of the barbarian [[Conan (comics)|Conan]] are set &mdash; forms part of the history of [[Earth-616]]. During this time, Ymir is worshipped by proto-Vikings called the [[Æsir|Aesir]] and [[Vanir]], who live to the north of a realm called [[Cimmeria (Conan)|Cimmeria]]. In the [[Robert Ervin Howard|Robert E. Howard]] short story [[The Frost Giant's Daughter]], Conan has an encounter with a female called Atali and her two brothers, who are apparently the children of Ymir.<ref>''Savage Tales'' vol. 1, #1</ref> 
+
+Thousands of years later the [[Sons of Satannish]] briefly call Ymir &mdash; and [[Surtur (comics)|Surtur]] &mdash; to Earth, before they are banished again by the [[Avengers (comics)|Avengers]].<ref>''Avengers'' vol. 1, #61</ref>
+
+==Powers and abilities==
+The [[Marvel Universe]] version appears as a gigantic being composed of ice and is over 1,000 feet tall. Ymir possesess strength and durability exceeding even that of the Asgardian Thunder God [[Thor (Marvel Comics)|Thor]]. He also has the ability to generate intense, deadly cold and regeneration from as little as a particle of ice. Ymir also carries a huge icicle which functions as a club. Ymir is an ancient being whose thinking is rather limited: his energies are devoted to destruction and little else. This may in fact be Ymir's Achilles Heel, and the reason why [[Odin (Marvel Comics)|Odin]] and his two brother gods, Ville and Ve, are able to first defeat him.<ref>''Journey Into Mystery'' vol. 1, #97</ref>
+
+==Other versions==
+===Ultimate Ymir===
+Ymir makes a cameo in appearance in the Ultimate universe, fighting the Ultimates alongside the fire demon [[Surtur (comics)|Surtur]]. <ref>''[[Ultimates]]'' vol. 2, #13</ref>
+
+
+==In other media==
+
+=== Television ===
+* Ymir appeared in an episode of ''[[Spider-Man and His Amazing Friends]]'' voiced by [[John Stephenson (actor)|John Stephenson]].
+
+===Video games===
+* Ymir appears as a villain in the video game ''[[Marvel: Ultimate Alliance]]'' voiced by [[Paul Eiding]].
+
+== References ==
+<div class="references-small" style="-moz-column-count:2; column-count:2;">
+<references/>
+</div>
+
+{{Thor}}
+
+[[Category:Marvel Comics supervillains]]
+
+[[fi:Ymir (sarjakuvahahmo)]]

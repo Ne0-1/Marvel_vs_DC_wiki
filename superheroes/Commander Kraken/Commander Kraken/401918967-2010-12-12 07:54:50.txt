@@ -1,0 +1,50 @@
+{{Superherobox| 
+image=|image=[[Image:Cm.Kraken.jpg|249px|]]
+|caption=Commander Kraken makes his first appearance battling Prince Namor, from ''Sub-Mariner'' #27
+|comic_color=background:#ff8080 
+|character_name=Commander Kraken
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Sub-Mariner]] #27'' (Jul 1970)
+|creators=[[Roy Thomas]] and [[Sal Buscema]]
+|alliance_color=background:#c0c0ff
+|alliances=[[HYDRA]]
+|aliases=
+|powers=
+|}}
+ 
+'''Commander Kraken''' is a fictional character in the [[Marvel Universe]].
+
+==Publication history==
+Commander Kraken first appeared in ''[[Sub-Mariner]] #27'' (July 1970), and was created by [[Roy Thomas]] and [[Sal Buscema]].
+
+The character subsequently appeared in ''The Cat'' #3 (April 1973), ''Iron Man'' #93 (December 1976), and was killed by the [[Scourge of the Underworld]] in ''Captain America'' #319 (July 1986).
+
+Commander Kraken received an entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #16.
+
+==Fictional character biography==
+Commander Kraken was a self-styled modern-day [[pirate]] who first encountered and fought [[Namor|Namor the Sub-Mariner]] with the help of a [[Kraken (Marvel Comics)|Kraken]], gigantic octopus. He later underwent plastic surgery which drastically altered his appearance, sold his services to [[HYDRA]] and became their Naval Action Division Leader.{{Issue|date=April 2009}} He fought Namor and [[Iron Man]] but lost against them.{{Issue|date=April 2009}}
+
+Later, Commander Kraken was invited to a meeting organized by Gary Gilbert, who wanted to discuss counter-measures against the threat by the [[Scourge of the Underworld]] at the "Bar With No Name". Kraken attended and was shot dead along with all the other criminals present by the Scourge himself, who had infiltrated the meeting as the bartender.<ref>''Captain America'' #319 (July 1986)</ref>
+
+Someone that looks like Commander Kraken is seen attending a meeting of the heads of HYDRA. This hasn't been confirmed if the original was brought back to life or if it's a new Commander Kraken.<ref>''Secret Warriors #2''</ref>
+
+Commander Kraken is among the dead characters seen in Erebus when [[Hercules (Marvel Comics)|Hercules]] travels to the Underworld.<ref>''Incredible Hercules'' #129</ref>
+
+==Powers, abilities, and equipment==
+Commander Kraken had a hook on his left hand that was capable of emitting an electrical shock, but HYDRA later replaced this with a functional bionic hand. His left leg was also bionic, and allowed him to fly. His electro-sword was capable of firing electricity and could reflect force and energy attacks.
+
+Commander Kraken also used squid-shaped submarines with tentacles.
+
+==References==
+{{reflist}}
+
+[[Category:Characters created by Roy Thomas]]
+[[Category:Characters created by Sal Buscema]]
+[[Category:Comics characters introduced in 1970]]
+[[Category:Fictional pirates]]
+[[Category:Marvel Comics supervillains]]
+
+[[fr:Commandant Kraken]]
+[[tl:Commander Kraken]]

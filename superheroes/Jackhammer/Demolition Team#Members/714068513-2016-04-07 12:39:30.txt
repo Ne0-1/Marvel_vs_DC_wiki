@@ -1,0 +1,46 @@
+{{Infobox comics organization
+<!--Wikipedia:WikiProject Comics-->
+<!-- |name= -->
+|image=Demolitionteam.png
+|imagesize=
+|caption=The Demolition Team, art by [[Dave Gibbons]]
+|publisher=[[DC Comics]]
+|debut=''[[Green Lantern]]'' vol. 2 #176<br />May (1984)
+|creators=[[Len Wein]] and [[Dave Gibbons]]
+|base=
+|members=Hardhat<br />Jackhammer<br />Rosie<br />Scoopshovel<br />Steamroller
+|cat= teams
+|subcat=DC Comics
+|hero=
+|villain=y
+|sortkey=Demolition Team
+|}}
+The '''Demolition Team''' are [[fictional character]]s, a team of [[comic book]] [[mercenary|mercenaries]] in the [[DC Comics]] [[DC Universe|universe]]. They first appeared in ''[[Green Lantern]]'' #176 (May 1984) and were created by [[Len Wein]] and [[Dave Gibbons]].<ref name="dc-ency">{{Citation | last = Greenberger | first = Robert | author-link = Robert Greenberger | contribution = Demolition Team | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 98  | publisher = [[Dorling Kindersley]]  | place = New York  | year = 2008 | isbn = 0-7566-4119-5 | oclc = 213309017}}</ref>
+
+==Fictional character history==
+In their initial appearance, the Demolition Team were hired by [[Congressman]] Jason Bloch to destroy the [[Los Angeles]] branch of Ferris Aircraft. The Ferris employees were virtually defenseless against the team and their state-of-the-art weaponry provided by the [[Monitor (comics)|Monitor]]. Help finally arrived in the form of the mysterious [[Carol Ferris|Predator]] who defeated the entire team unaided.<ref name="dc-ency"/> It is assumed the Demolition Team were sent to [[prison]] soon after the incident.
+
+The Demolition Team returned several years later with updated technology only to be handily defeated by the [[Blood Pack (comics)|Blood Pack]] after attacking a [[nuclear power plant]] in [[Germany]]. Hardhat later appeared committing crimes in [[Opal City]].
+
+Rosie, together with several other scientific geniuses and cybernetic beings (Automan, Brainstorm, [[Doctor Cyber]], Ford, and [[Emil Hamilton]]), was for a brief period part of the composite cybernetic being known as '''Enginehead'''. However (if this story is still canon), the being seems to have been divided into the individual personalities again shortly after the events of the series ''Enginehead'' 1&ndash;6 (2004).
+
+Most of the team met their end at the hands of the [[OMACs]] during the events of ''[[The OMAC Project]]'', but Hardhat was seen alive in [[Infinite Crisis]] #7. He is participating in the 'Battle of Metropolis', which was a supervillain first step to conquer the world.<ref name="dc-ency"/>
+
+Still later, Hardhat was seen among the "forgotten characters" of [[Limbo (DC Comics)|Limbo]]. Other notables include [[Ace the Bat-Hound]], [[Geist (DC Comics)|Geist]], [[Gunfire (comics)|Gunfire]] and Merryman of the [[Inferior Five]]. As Merryman explains, Hardhat and all the other inhabitants came here to a realm of 'no stories' because they were forgotten about in the real world. They all are rescued by Superman and assist in the battle against the cosmic threat of Mandrakk.<ref>"Final Crisis Superman Beyond 3D" #1-2 (October 2008)</ref>
+
+==Members==
+*'''Hardhat''' - former heavyweight [[boxing]] palooka from [[New York City]]. His powered helmet and harness made him into a human [[juggernaut]], currently a resident of [[Limbo (DC Comics)|Limbo]].
+*'''Jackhammer''' - former [[Oil platform|oil rig]] worker from [[Houston]]. He carried a larger, more powerful version of a [[jackhammer]] capable of untold destruction. He is not to be confused with a similarly named character (real name Jackson Hammersmith) who employed an armor suit with two hydraulically charged hammer pistons against Superman while he had been weakened by [[Blaze and Satanus|Lord Satanus]] and Syren for a time.
+*'''Rosie''' - leader of the Demolition Team. A former, no-nonsense bar owner in [[New Orleans]], she brandished a rapid-fire hot [[rivet]] gun.
+*'''Scoopshovel''' - former professional [[jai-alai]] player from [[San Diego]]. His [[hydraulic]] power-arm allowed him to dig up almost anything.
+*'''Steamroller''' - a former [[motorcycle]] stunt rider from [[Chicago]]. He rode a compact version of a [[steamroller]] that could flatten buildings.
+
+==In other media==
+*The Demolition Team appear in the fourth season of ''[[Arrow (TV series)|Arrow]]''.
+
+==References==
+{{reflist}}
+
+[[Category:Comics characters introduced in 1984]]
+[[Category:DC Comics supervillain teams]]
+[[Category:Characters created by Len Wein]]

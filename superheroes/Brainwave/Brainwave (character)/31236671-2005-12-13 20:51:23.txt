@@ -1,0 +1,29 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:]]
+|caption=
+|comic_color=background:#8080ff 
+|character_name=Brainwave
+|real_name='''(I)''' Henry King Sr.<br>'''(II)''' Henry King Jr.
+|publisher=[[DC Comics]]
+|debut='''(I)''' ''All-Star Comics'' #15 ([[February]]/[[March]] [[1943]])<br>'''(II)''' ''All-Star Squadron'' #24 ([[August]], [[1983]])
+|creators='''(I)''' Unknown<br>'''(II)''' [[Roy Thomas]]<br>[[Jerry Ordway]]<br>[[Mike Machlan]]
+|alliance_color=background:#cccccc
+|status='''(I)''' Deceased<br>'''(II)''' Inactive
+|alliances=None
+|previous_alliances='''(I)''' [[Injustice Society]]<br>'''(II)''' [[Black Adam]], [[Infinity, Inc.]] 
+|aliases='''(II)''' Brainwave Jr.
+|relatives='''(I)''' Merry Pemberton King (Merry, Girl of 1000 Gimmicks, wife), [[Star-Spangled Kid|Sylvester Pemberton, Jr.]] (brother-in-law)<br>'''(II)''' Merry Pemberton King (Merry, Girl of 1000 Gimmicks, mother), [[Star-Spangled Kid|Sylvester Pemberton, Jr.]] (uncle)
+|powers=telepathy and telekinesis
+|}}
+
+'''Brainwave''' or '''Brain Wave''' is a name shared by two characters in the [[DC Comics]] [[DC Universe|Universe]].
+
+==Brainwave I==
+The original (usually called Brain Wave) was Henry King, a [[super-villain]] who used his [[psionic]] powers to battle the [[Justice Society of America]] in the [[1940s]]. He was a member of the [[Injustice Society]].
+
+==Brainwave II==
+'''Brainwave II''' (Henry “Hank” King Jr.) is a [[DC Comics]] [[superhero]], sometimes [[supervillain]], who is the son of the original, from whom he inherited his powers. Created by [[Roy Thomas]], [[Jerry Ordway]] and [[Mike Machlan]], he first appeared in ''[[All-Star Squadron]]'' #24 ([[1983]]). Originally called ''Brainwave Jr.'', Hank was a founding member of [[Infinity, Inc.]] He dropped the "Jr." from his name some time after his father's death.
+
+{{DC-Comics-stub}}
+[[Category:Justice Society villains]]
+[[Category:Infinity Inc. members]]

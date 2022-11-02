@@ -1,0 +1,45 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Machine Teen preview.jpg|250px]]
+|caption=Machine Teen
+|comic_color=background:#ff8080
+|character_name=Machine Teen
+|real_name=A.D.A.M<BR>(''Autonomosly Decislve Automated Meachanism'')
+|publisher=Marvel Comics
+|debut=Machine Teen #1
+|creators=Marc Sumerak<BR>Mike Hawthorne
+|alliance_color=background:#ffc0c0
+|status=active
+|alliances=Adam Aaronson
+|previous_alliances=
+|aliases=
+|relatives=Dr.Aaron Isaace<BR>aka.Isaac Aaronson ("Father"/Maker)
+|powers=[[robot]]
+|}}
+
+'''Machine Teen''' was a [[comic book]] published by [[Marvel Comics]], loosely based on [[Machine Man]] and created by [[Marc Sumerak]] and [[Mike Hawthorne]]. It was published as a five issue [[mini-series]] and carried the [[Marvel Next]] logo.
+
+The main character of Machine Teen is '''Adam Aaronson''', a high school student. He has a good life: he is captain of the all-star football team, a straight 'A' student and is liked by everyone. However, he discovers that he is really a [[robot]] created by the man he thought was his father, Isaac Aaronson.
+
+
+== Character history ==
+
+Some years ago, Aaron Isaacs, a pioneering programmer and engineer in the field of [[robotics]], made a breakthrough in [[Artificial intelligence]] making the ''Autonomosly Decislve Automated Meachanism''. But when he discovered his employer Holden Radcliffe had destroyed his work, Isaacs went on the run. He changed his name to Isaac Aaronson and built Adam, a [[Beta version]] of his A.I. project. Adam was programmed with false memories of a normal childhood and dead mother. Adam has a series of debilitating [[seizure]]s caused by a logic loop in his program and suffers memory loss, systems overload and, finally, a total shutdown. Adam, having no idea what he is, acts like a normal teenager, and starts dating schoolmate Carly Whitmere. Adam's best friend, J.T. Hunt, knows he is a robot.
+
+== Story Summary:''History 101001'' ==
+
+{{spoiler}}
+
+After winning a high school [[American football|football]] game, people start asking questions about Adam. Initially, the vice-principal thinks Adam is taking [[steroids]] or [[illegal drugs]], a notion started by Adam's high school rival, Ricky Sims. Adam has a seizure and suffers a memory blackout. During a fight in a back alley with Ricky Sims, Adam breaks his hand and suffers another seizure. Ricky goes to Officer Michaels (who works for Aaronson's former employer Holden Radcliffe) and tells him Adam is a robot. Michaels, in turn, tells Radcliffe. Isaac Aaronson fixes Adam's hand, and tells him the truth. Adam, confronted with this information, becomes enraged and runs away. Seeing that Aaronson is alone, Michaels captures him and attacks Adam. Adam then goes to J.T. Hunt, who knows he is a robot, seeking help. After the Holden Radcliffe agents take Adam's "father" away, Adam and J.T. Hunt start looking for him. The Holden Radcliffe Corporation is bent on getting their "stolen property" (Adam) back. Carly Whitmere, (Adam's girlfriend) unknowingly helped Radcliffe agents capture Adam. Radcliffe tries to hack into Adam and take control of him, however, he cannot. Adam manages to escape from Radcliffe, along with his father and friends, by tricking him, making Radcliffe believe that he has control over Adam. Aaronson escapes with Adam's computer core, which sets off a self-destruct sequence. Adam explodes, and Radcliffe is caught in the explosion. One year later, Adam is rebuilt, entering a new highschool, Edison High School and starts a new life.
+
+==House of M==
+
+During the [[House of M]] event, Adam and his father joined up with [[Advanced Idea Mechanics]] after their lab was destroyed in an explosion by reactionary mutants.
+
+==Reprint==
+*[[List of Marvel Digests]] ''Machine Teen: History 101001'' 
+== Web site ==
+*[http://www.ugo.com/channels/comics/features/marvelnext/machineteen.asp Interview with ''Machine Teen'' writer Mark Sumerak]
+
+[[Category:Marvel Next]]
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics titles]]

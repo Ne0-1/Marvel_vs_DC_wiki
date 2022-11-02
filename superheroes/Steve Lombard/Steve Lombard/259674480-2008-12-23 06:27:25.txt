@@ -1,0 +1,49 @@
+{{Superherobox| <!--This box is part of Wikipedia:WikiProject Comics. See that article for details-->
+|image = Steve Lombard.jpg
+|imagesize =150px
+|converted = y
+|caption=Steve Lombard from ''Action Comics Annual #11 (May 2008)''
+|comic_color=background:#8080ff
+|character_name=Steve Lombard
+|publisher=[[DC Comics]]
+|debut=''[[Superman (comic book)|Superman]]'' #264 (June 1973)<ref name="superman264" />
+|creators=[[Elliot S. Maggin]]<br />[[Curt Swan]]
+|full_name=Steven Lombard
+|affiliations= [[Daily Planet]]<br />[[Metropolis (comics)#People and culture|Galaxy Broadcasting]]
+|powers=None
+|supports=[[Superman]] 
+|}}
+'''Steve Lombard''' is a fictional [[DC Comics]] character appearing in ''[[Superman]]'' comics.  He first appeared in ''Superman'' #264 (June 1973) in a story written by [[Elliot S. Maggin]] and penciled by [[Curt Swan]].
+
+==Fictional character biography==
+===Pre-[[Crisis on Infinite Earths]]===
+[[Image:Lombard.jpg|thumb|left|Steve Lombard's first appearance.  Art by [[Curt Swan]]]]
+In [[Pre-Crisis]] continuity, Steve "The Slinger" Lombard is a former [[quarterback]] for the fictional [[NFL]] team the [[Metropolis (comics)|Metropolis]] Meteors.  Steve injures his knee while saving a baby falling from a building.  An experimental radiation treatment cures his knee injury, but also produces an energy being that resembles Lombard.  The energy being responds to Lombard's thoughts, and begins scoring touchdowns in his place.  At first taking credit for the energy being's performance, Lombard is forced to confess the truth after the energy being goes on a rampage and has to be stopped by Superman.  He is subsequently hired by [[Morgan Edge]] to become a sportscaster for Galaxy Broadcasting, working alongside anchor [[Clark Kent]] on the Six O'Clock News.<ref name="superman264">{{Cite comic | writer = Cary Bates | penciller = Curt Swan | inker = Murphy Anderson | story = Secret of the Phantom Quarterback! | title = '''Superman''' | volume = 1 | issue = 264 | date = '''June 1973''' | publisher = '''DC Comics''' | location =  | page =  | panel =  | id = }}</ref>.  
+
+Steve is portrayed as brash and overly self confident, and often plays pranks on Clark Kent (referring to him by the unflattering nickname "Clarkie"). However, Steve also considers Clark one of his few real friends, since he takes Steve's attitude in stride and never bears him a grudge. When Steve is tracked to Clark's apartment by a super-powered enemy (a former college roommate who did not shrug off Steve's pranks nearly as well as Clark does), Steve forces Clark to safety before confronting his opponent, although Clark, naturally, returns as Superman to rescue Steve.<ref>{{Cite comic | writer = Cary Bates | penciller = Curt Swan | inker = Dave Hunt | story = Steve Lombard -- Down, Out, and Dead? | title = '''Superman''' | volume = 1 | issue = 384 | date = '''June 1983''' | publisher = '''DC Comics''' | location =  | page =  | panel =  | id = }}</ref>.
+
+===Post-Crisis===
+Lombard was not part of the original reboot of the ''Superman'' storyline that began in [[John Byrne]]'s 1986 ''[[The Man of Steel]]'' mini-series.  His first [[Post-Crisis]] appearance is as a news anchor on WGBS-TV during the ''[[Doomsday (comics)|Doomsday]]'' storyline, in ''The Adventures of Superman'' #497 (December 1992). 
+
+As of the [[June 2008]] storyline, Lombard works for the ''[[Daily Planet]]'', as the editor of the Sports section<ref>
+{{Cite comic | writer = Geoff Johns | penciller = Gary Frank | inker = Jonathan Sibal | story = Brainiac, Part 1: First Contact | title = '''[[Action Comics]]''' | volume = | issue = 866 | date = '''August 2008''' | publisher = '''DC Comics''' | location =  | page =  | panel =  | id = }}</ref>. [[Perry White]] states Steve Lombard has recently returned to the paper, so it can be assumed that Steve used to work there before leaving to work for WGBS. ''Action Comics Annual'' #11 (May 2008) gives the following information on Steve: "''Sports Reporter. Steve Lombard played Football in High School, College, and briefly for the pros. He sees himself as a man's man, everything Clark Kent isn't in fact. He's a walking encyclopedia of sports trivia and put-downs. Lombard can't figure out why [[Lois Lane]] doesn't throw herself at him.''" It is also stated that Steve Lombard often butts heads with [[Ron Troupe]] on nearly everything. He again exibits the personality and the mannerism of a stereotypical [[jock (athlete)|jock]], brash, loud and overconfident, putting brawns over brains and constantly attempting rude advances to [[Cat Grant]] and [[Lois Lane]], oblivious to the snappy remarks he gets back, and the clever ways Ron and Clark use to underline his brashness.
+
+==Alternate versions==
+Steve Lombard appears as a minor supporting character in [[Grant Morrison]]'s limited series ''[[All Star Superman]].''  This incarnation works as a sportswriter at the ''Daily Planet.''  His character and appearance are similar to that of the post-Crisis Lombard.  In ''All-Star Superman'' #7, Steve proves immune to the [[Bizarro]] virus due to his use of [[steroids|performance enhancing drugs]].<ref>{{Cite comic | writer = Grant Morrison | penciller = Frank Quitely | inker = Jamie Grant | story = Episode 7: Being Bizarro  | title = '''[[All Star Superman]]''' | volume = | issue = 7| date = '''June 2007''' | publisher = '''DC Comics''' | location =  | page =  | panel =  | id = }}</ref>.
+
+==Appearances in Other Media==
+
+The character of Steve Lombard is scheduled to appear in "Requiem," the fourteenth episode from [[Smallville]]'s eighth season. He will be played by actor [[Ray Galletti]].
+
+==References==
+{{reflist}}
+
+==External Links==
+*[http://www.dcuguide.com/who.php?name=stevelombard Steve Lombard at the Unofficial Guide to the DC Universe]
+*[http://supermanica.info/wiki/index.php/Steve_Lombard Steve Lombard entry at Supermanica website]
+
+{{Superman}}
+
+{{DEFAULTSORT:Lombard, Steve}}
+[[Category:DC Comics characters|Lombard, Steve]]
+[[Category:Fictional reporters|Lombard, Steve]]

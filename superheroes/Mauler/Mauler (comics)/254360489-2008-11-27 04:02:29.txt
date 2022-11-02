@@ -1,0 +1,59 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Mauler
+|real_name=Aaron Soames
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Daredevil (Marvel Comics)|Daredevil]] #167'' (Nov 1980)
+|creators=[[David Michelinie]] and [[Frank Miller (comics)|Frank Miller]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=former employee of the Cord Conglomerate
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|noimage=yes
+|}} 
+
+'''Mauler''' is a name used by three [[fictional character]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]].  "MAULER" is also an acronym for the suit of [[power armor]] the characters wore, standing for '''M'''obile '''A'''rmored '''U'''tility '''L'''aser-guided '''E'''-beam, '''R'''evised.
+
+==Publication history==
+Aaron Soames first appeared as the Mauler in ''[[Daredevil (Marvel Comics)|Daredevil]] #167'' (November 1980), and was created by [[David Michelinie]] and [[Frank Miller (comics)|Frank Miller]]. Soames died in his first appearance.
+
+After Soames's death, the armor was briefly used by Turk Barrett in ''Daredevil'' #176 (November 1981).
+
+Brendan Doyle later first appeared in the Mauler armor in ''Iron Man'' #156 (March 1982), and was created by [[David Michelinie]], [[John Romita, Jr.]], and [[Pablo Marcos]]. The character subsequently appeared in ''Marvel Team-Up'' #136 (December 1983), ''Spectacular Spider-Man'' #122 (January 1987), ''Iron Man'' #225 (December 1987), ''Alpha Flight'' #113 (October 1992), ''Iron Man: The Legend'' #1 (September 1996), ''Civil War: War Crimes'' #1 (February 2007), and ''Avengers: The Initiative'' #13 (July 2008).
+
+[[War Machine|James Rhodes]] also wore the armor once, pretending to be a criminal, in ''Iron Man Annual'' #16.
+
+The first Mauler, Aaron Soames, received an entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #18.
+
+==Fictional history==
+The armor was developed by [[Cord Conglomerate]], under contract with the [[United States]] Government.  The first wearer of the suit was disgruntled Cord employee '''Aaron Soames''', <ref>''Daredevil'' v1 #167</ref> who had been deprived of his pension when his legal records were accidentally destroyed and Cord refused to acknowledge his claim. While trying to take revenge on Cord, Soamess came to blows with [[Daredevil (Marvel Comics)|Daredevil]]. Finally cornering Cord in front of the hero, he took his revenge - but not by killing his target. Rather, he destroyed Cord's ID cards and legal papers from his wallet, symbolically paying back his ex-employer for his betrayal. But right afterwards, he was killed by a group of security men firing a concussion beam which pierced his armor. Daredevil (in his civilian identity) was one of the few mourners at Soames's funeral.
+
+The suit was later stolen and used by a small-time thug, '''Turk Barrett'''.<ref>Daredevil #176</ref>  Because of these and other breaches of security at Cordco facilities, the [[United States Department of Defense|Department of Defense]] cut their funding, and Cordco was eventually bought up by [[Stark International]].  Mercenary '''Brendan Doyle''' was contacted by an imprisoned Cordco CEO and instructed to steal the armor and destroy all records of it.  Doyle did succeed in stealing the suit, but was prevented from completing his assignment by [[War Machine|Jim Rhodes]].  Later, during the '''''[[Armor Wars]]''''' saga, Doyle surrendered the Mauler suit to Stark without a fight, realizing he could not win against [[Iron Man]].  As Iron Man left with the armor, Doyle mused that he could find another armored suit.
+
+Brendan Doyle used the armor later in the service of one [[Daniel Steyr]]. Steyr wanted to obtain [[Spider-man]]'s webbing so that he could create better armor for law enforcement and the military. Brendan was told to wait during a function that Steyr's company was going to have for the police, which would "sponsor" something bigger and better than Spider-man's webbing. It was to be held by then part-time [[Avengers (comics)|Avenger]], [[Wonder Man]]. Spidey was intrigued and asked [[J. Jonah Jameson]] for permission to come, which Jameson granted. During the proceedings, Spider-Man and Wonder Man were attacked by Doyle. The two joined forces and managed to stop Doyle, who left after Steyr died saving a police officer's life. Doyle later clashed with Spider-Man while attacking a hospital. Doyle was trying to retrieve his infant son, who his ex-girlfriend (the child's mother) was trying to keep from him.
+
+===Civil War===
+In [[Civil War: War Crimes]], Brendan Doyle was recently visible among an army of super-villains organized by [[Hammerhead (comics)|Hammerhead]] that was captured by [[Iron Man]] and SHIELD agents.
+
+===Initiative===
+After the Civil War he joined [[Firebrand (Marvel Comics)#Firebrand (Broxtel)|Firebrand]], [[Cobra (comics)#Klaus Voorhees|King Cobra]], and [[Mister Hyde (comics)|Mister Hyde]] to attack Yellowjacket, Constrictor and other Initiative staff and trainees, but failed and were captured.<ref>''Avengers: The Initiative'' #13</ref>
+
+==Powers and abilities==
+The Mauler [[power armor]] provided protection from physical and energy attacks, boosted the wearer's strength and stamina to superhuman levels, and slightly boosted the wearer's reflexes/coordination.  Internal life support systems could keep a wearer functional for several days.  Electric, air-breathing [[turbine]]s in the calves allowed the wearer to fly.  On the right arm, a solid state [[laser]] cannon was mounted, as well as an electron [[Particle beam|particle gun]] (which used the laser cannon in short-pulse mode as a guide).  The left palm could generate a high-frequency electric shock.
+
+==References==
+{{reflist}}
+
+==External links==
+*http://www.marvunapp.com/Appendix4/maulersoames.htm
+
+
+
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics supervillains]]

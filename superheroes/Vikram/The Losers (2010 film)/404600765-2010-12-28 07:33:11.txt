@@ -1,0 +1,334 @@
+{{Infobox film
+| name           = The Losers
+| image          = TheLosersPoster2.jpg
+| image size     =
+| alt            = A group of six looking down from above, with the word "Losers" in the center.
+| caption        = Theatrical poster.
+| director       = [[Sylvain White]]
+| producer       = {{ubl|[[Joel Silver]]|[[Akiva Goldsman]]|Kerry Foster}}
+| screenplay     = {{ubl|[[Peter Berg]]|[[James Vanderbilt]]}}
+| based on       = {{ubl|''[[The Losers (Vertigo)|The Losers]]'' by|[[Andy Diggle]]}}
+| narrator       =
+| starring       = {{ubl|[[Jeffrey Dean Morgan]]|[[Zoe Saldana]]|[[Chris Evans (actor)|Chris Evans]]|[[Idris Elba]]|[[Columbus Short]]|Óscar Jaenada|[[Jason Patric]]|[[Holt McCallany]]|[[Peter Macdissi]]}}
+| music          = [[John Ottman]]
+| cinematography = Scott Kevan
+| editing        = David Checel
+| studio         = {{ubl|[[Warner Bros. Pictures]]|[[DC Entertainment]]|[[Dark Castle Entertainment]]|Weed Road Pictures}}
+| distributor    = Warner Bros. Pictures {{small|(United States)}}<br />[[Optimum Releasing|StudioCanal]] {{nowrap|{{small|(United Kingdom)}}}}
+| released       = {{Film date|2010|04|23}}
+| runtime        = 103 minutes
+| country        = {{FilmUS}} <br />{{FilmCanada}}
+| language       = English
+| budget         = $25 million<ref name="mojo" /><ref name="the-numbers" /><ref name="latimes">{{cite news | url = http://latimesblogs.latimes.com/entertainmentnewsbuzz/2010/04/box-office-back-up-plan-train-your-dragon-kick-ass.html | title = Movie Projector: 'Dragon' will breathe fire again |last=Horn |first=John | work = [[Los Angeles Times]]| publisher = [[Tribune Company]] |date=April 22, 2010 |accessdate=May 9, 2010 }}</ref>
+| gross          =$29,369,932<!-- (Worldwide) --><ref name="mojo" /><ref name="the-numbers">{{cite web | title = The Losers | url = http://www.the-numbers.com/movies/2010/LOSRS.php | work = The Numbers | accessdate = 2010-05-20 }}</ref>
+| preceded by    =
+| followed by    =
+}}
+'''''The Losers''''' is a 2010 American action-comedy film based on the adaptation of [[Vertigo (DC Comics)|Vertigo]] comic book [[The Losers (Vertigo)|series of the same name]] by Andy Diggle.  Directed by [[Sylvain White]], the film features an [[ensemble cast]] that includes [[Jeffrey Dean Morgan]], [[Zoe Saldana]] and [[Chris Evans (actor)|Chris Evans]].
+
+The film received mixed or average reviews from critics and drew comparisons to ''[[The A-Team (film)|The A-Team]]'', a remake of which was released shortly after ''The Losers'' premiered.<!-- Box office summary in a sentence? -->
+
+== Plot ==
+{{copyedit|section|date=December 2010}}
+{{unclear|section|date=December 2010}}
+Clay, Jensen, Roque, Pooch and Cougar are members of an elite [[United States Special Forces]] team sent into the [[Bolivia]]n jungle on a search-and-destroy mission. Upon painting their target for an air strike, Cougar spots children being moved into the camp. Their attempts at aborting the strike are met with resistance, and upon destruction of the targeting equipment, it's revealed that their remote commander is codenamed Max, and that he has no intention of aborting the strike. Against orders, Clay moves the team into the compound to rescue the children, finding all but one. Clay finds the last child guarded by the mission's primary target, and Clay shoots him. The team and the children escape the compound in a  school bus, narrowly escaping the strike. Reaching their pickup location, Clay opts to airlift the children out of the area instead of the team. But Max, believing the team to be on board the helicopter, orders it destroyed.
+
+Presumed dead, the team is stranded in Bolivia, where they now make a living for fixing [[cockfights]].  They are contacted by Aisha, a woman who knows how to get to Max and who offers to help them as long as they make sure he dies. After the team agrees to what Aisha describes as "essentially a suicide mission", Aisha smuggles them into the [[United States]]. Aisha reveals Max will travel via armored convoy in Miami, and the team hijacks a helicopter to use in kidnapping him. The mission proceeds as planned, but Pooch is identified by Wade, Max's head of security. They discover that the convoy was not carrying Max, but a computer hard drive. Jensen cannot crack the encryption on the secure hard drive.
+
+In [[Dubai]], Max meets with clients who are having "moral issues" with Max's plans. After negotiations, they agree to help. Max intends to purchase an environmentally friendly bomb called a snuke, with the power equivalent to a nuclear weapon but with no fall-out, and intends to sell it to any customer who agrees to use it rather than hold it as a deterrent against attack.
+
+Clay and the team find the encryption key to the hard drive is held at the headquarters of a global manufacturing conglomerate. Jensen breaks in disguised as a courier to steal the algorithm needed to crack the encryption. Barely making it out, Jensen cracks it and finds that the hard drive contains information that can only be extracted at certain locations possessing access and the encryption key. A log of past extractions is found on the drive, revealing that the most frequently used location is in the Port of Los Angeles.  The team assumes this is Max's home base.
+
+Max's clients procure his weapons, but as it is a "difficult" process, they raise the price of the exchange. Max realizes he cannot get the funds, but knows he can trick Clay and the team into doing it for them.
+
+Jensen discovers that Max possesses $400 million that originally belonged to the man Clay shot in Bolivia, and that the man originally intended the money to go to his daughter, Aisha.  The team rushes to warn Clay, but Aisha escapes after shooting Jensen in the arm.  Knowing Aisha could ruin them, Clay and the team decide to hit Max's building in the Port of L.A. They infiltrate the location, but as the team gets into position they are systematically captured, with Clay being knocked out by Roque.
+
+Roque, being dismayed with not capturing Max in Miami, had contacted Wade to make a deal: he turns over the team and gets to walk. While Clay is loaded into a van, he reveals that Roque betrayed them to the rest of the team, and the team is lined up to be executed, and Pooch is shot in both legs for his defiance. Moments before being shot, Cougar spots Aisha upon a rooftop with an rocket launcher. Aisha fires the weapon and distracts the guards, allowing Cougar and Jensen to disable them, and move Pooch to a safe location to be bandaged. Meeting up with Aisha, Clay is forced to reveal that he shot her father. She states that after they kill Max, they're going to finish their business.
+
+Roque sees the team has escaped and attempts to hijack Max's plane full of money. Clay catches and fights Roque while the team chases Max. Wade sees Roque attempting escape and chases after him on a Ducati motorcycle, but Cougar shoots out the engine, launching Wade into the plane's engine and the bike into the cockpit, apparently killing Roque. Clay corners Max on top of a crane only to see that Max is holding a "dead man's switch" for an onsite activated Snuke. Max throws the switch off the crane into the water, forcing Clay to choose between killing Max and catching the switch. Clay dives into the water for the switch and manages to deactivate it. Max escapes and later calls Clay to gloat, but Clay points out that now he knows what Max looks like, and they'll be seeing him again.
+
+==Cast==
+* [[Jeffrey Dean Morgan]] as [[The Losers (Vertigo)#Characters|Franklin Clay]]. Morgan took the role of leader very seriously and was on set every day, even if he was not in the scene.<ref>{{cite web 
+| date = April 22, 2010 
+| author = Ian Caddell 
+| title = Jeffrey Dean Morgan gambles on The Losers 
+| url = http://www.straight.com/article-318920/vancouver/morgan-gambles-losers 
+}} 
+</ref>
+* [[Idris Elba]] as [[The Losers (Vertigo)#Characters|William Roque]] 
+* [[Zoe Saldana]] as [[The Losers (Vertigo)#Characters|Aisha al-Fadhil]] 
+* [[Chris Evans (actor)|Chris Evans]] as [[The Losers (Vertigo)#Characters|Jake Jensen]] 
+* [[Columbus Short]] as [[The Losers (Vertigo)#Characters|Linwood "Pooch" Porteous]] 
+* [[Óscar Jaenada]] as [[The Losers (Vertigo)#Characters|Carlos "Cougar" Alvarez]] 
+* [[Jason Patric]] as [[The Losers (Vertigo)#Characters|Max]]
+* [[Holt McCallany]] as [[The Losers (Vertigo)#Characters|Wade]]
+* [[Peter Macdissi]] as Vikram
+
+==Production==
+===Development===
+In 2007 it was announced that a movie adaptation is in development with a screenplay by [[Peter Berg]] and James Vanderbilt, to be directed by [[Tim Story (film director)|Tim Story]] for [[Warner Bros.]]<ref>{{cite news
+| date = June 8, 2007
+| first1 = Pamela | last1 = McClintock
+| first2 = Michael | last2 = Fleming
+| title = Tim Story to direct 'Losers'
+| url = http://www.variety.com/article/VR1117966583.html
+| work = [[Variety (magazine)|Variety]]
+| pages =
+| publisher =
+| accessdate = 2007-06-08
+}}
+</ref>
+In October 2008 ''[[Variety (magazine)|Variety]]'' reported that [[Sylvain White]] had now taken the director's chair, with [[Dark Castle Entertainment]] acting as the financiers.<ref>{{cite news
+| date = November 6, 2008
+| last = Fleming  | first = Michael | coauthors =
+| title = Sylvain White to direct 'The Losers'
+| work = [[Variety (magazine)|Variety]]  | pages =   | language =   | publisher =
+| url = http://www.variety.com/article/VR1117995421.html
+| accessdate = 2008-11-06
+}}
+</ref>
+
+In February 2009, it was reported that [[Jeffrey Dean Morgan]] would headline the upcoming adaptation playing Clay. In March 2009, it was confirmed that [[Columbus Short]] will play Pooch, [[Idris Elba]] will play Roque and [[Zoe Saldana]] will play Aisha, [[Chris Evans (actor)|Chris Evans]] playing Jensen, and Óscar Jaenada playing Cougar. In August 2009, it was announced that [[Jason Patric]] will play Max.<ref>{{cite news
+| date = 2009-07-13
+| author = Michael Fleming
+| title = Jason Patric joins 'Losers'
+| url = http://www.variety.com/article/VR1118007244.html
+| work = [[Variety (magazine)|Variety]]
+| accessdate = 2009-07-15
+}}
+</ref>
+
+{{Anchors|Writing}}
+White explained how he worked closely with the creators of the comic book to recreate the visual tone of the story.<ref name="mtv-splashpage">{{cite web
+| date = 2010-03-24
+| author = Rick Marshall
+| title = 'The Losers' Director On Creator Collaboration, Scheduling, And His Favorite Scenes
+| url = http://splashpage.mtv.com/2010/03/24/the-losers-creator-collaboration-scheduling-favorite-scenes/
+| work = MTV Splashpage
+| publisher = [[Viacom]]
+}}
+</ref> The film adapts the first two volumes of the comic book, "Ante Up"<ref><!-- cite comic -->''Ante Up'' (collects #1-6, 158 pages, [[2004 in comics|2004]] ISBN 1-40120-198-9)</ref> and "Double Down"<ref><!-- cite comic -->''Double Down'' (with Shawn Martinbrough, collects #7-12, 144 pages, 2004 ISBN 1-40120-348-5)</ref> and tells the story in a more linear way than in the comic books. Elements of the story have been left out instead of trying to squeeze the whole story into one film and the director would like to tell the rest of the story if the film does well at the box office.<ref name="mtv-splashpage2">{{cite web
+| date = 2010-04-23
+| author = Rick Marshall
+| title =  'The Losers' Director On Where The Movie And Comics Connect, Revealing The Villain, And Potential Sequels!
+| url = http://splashpage.mtv.com/2010/04/23/the-losers-director-on-where-the-movie-and-comics-connect-revealing-the-villain-and-potential-sequels/
+| work = MTV Splashpage
+| publisher = [[Viacom]]
+}}
+</ref>
+
+=== Filming ===
+Filming for ''The Losers'' began in [[Miami, Florida]] and [[Puerto Rico]] in July 2009.<ref>{{cite web |first= |last= | url= http://www.hollywoodreporter.com/hr/content_display/news/e3i7c23ccda60974aa212e4b64a53d2e876 |title= The Losers | publisher=[[Hollywood Reporter]] |date= |accessdate=}} {{Dead link|date=May 2010}} {{Subscription required}}</ref>
+Many of the movie's scenes were filmed in many of Miami's neighborhoods such as [[Brickell]], [[Downtown Miami]], [[Midtown Miami]] and [[South Beach]]. City scenes were shot in the Downtown Miami area, with driving scenes in the city filmed along [[Brickell Avenue]] and near the [[Adrienne Arsht Center for the Performing Arts]].
+
+Filming in Puerto Rico included scenes at the [[Arecibo Observatory]], Port of San Juan and the [[Milla de Oro]] area of [[Hato Rey, Puerto Rico]].
+
+== Marketing ==
+<!-- Artwork -->
+Promotional artwork for the film was released at [[Comic Con]], the poster was drawn in the style of the comic book by series artist [[Jock (comics)|Jock]], and was later recreated photographically with the cast from the film and used as the theatrical release poster.<ref>{{cite web 
+| date = 2010-01-30
+| author = Peter Sciretta
+| title = New Promo Photo for The Losers Recreates Comic Con Teaser Poster
+| url = http://www.slashfilm.com/2010/01/30/new-promo-photo-for-the-losers-recreates-comic-con-teaser-poster/ 
+| work = Slashfilm
+}}</ref>
+
+A four minute preview of the film was shown at [[WonderCon]].<ref>{{cite web 
+| date = April 22, 2010 
+| author = Rocco Passafuime
+| title = Jeffrey Dean Morgan interview for The Losers 
+| url = http://www.thecinemasource.com/blog/interviews/jeffrey-dean-morgan-interview-for-the-losers/#page3
+| work = The Cinema Source
+| pages = 3
+}} 
+</ref>
+
+<!-- Comic book -->
+A special "double volume" [[The_Losers_(Vertigo)#Collected_editions|collected edition]] graphic novel was released to tie in with the film adaptation collecting including the volumes ''Ante Up'' and ''Double Down''. A second book to collect the rest of the series was also released.<ref>''Book 1'' (collects #1-12, 304 pages, ISBN 1-4012-2733-3). ''Book 2'' (collects #13-32, 480 pages, ISBN 1-4012-2923-9)</ref>
+
+==Release==
+In June 2009, Warner Bros. set a tentative release date of April 9, 2010 for the film.<ref>{{cite web | url= http://www.comingsoon.net/films.php?id=50350 | title=The Losers | publisher=ComingSoon.net | accessdate=2009-06-25}}</ref>  
+The release date was then pushed back to June 4, 2010, to avoid going up against ''[[Clash of the Titans (2010 film)|Clash of the Titans]]'' also from Warner Bros.<ref>{{cite web
+| date = February 14, 2010
+| author = Ian Mason
+| title = 'The Losers' release date put back
+| url = http://www.digitalspy.co.uk/movies/news/a203145/the-losers-release-date-put-back.html
+}}
+</ref>
+The trailer for the film was released online January 29, 2010, and was shown in theaters with ''[[Edge of Darkness (2010 film)|Edge of Darkness]]''.<ref>{{youtube|o_K6y8ihyi8|The Losers Trailer (2010)}} {{Retrieved | accessdate = 2010-05-20 }}</ref>
+An official photo for the film was released online.<ref><!-- see [[Template:External media]] -->[http://www.omelete.com.br/images/galerias/thelosers/05.jpg Promotion photograph of cast]</ref> The release date was subsequently moved up to April 23, 2010.<ref>{{cite web
+| title =  The Losers Release Date Moved (Again)
+| date = 2010-02-17
+| author = BrentJS
+| url = http://www.reelzchannel.com/movie-news/5867/the-losers-release-date-moved-again
+| quote = it's likely that Warner is looking to avoid a box-office shootout with [[The A-Team (film)|The A-Team]], which opens on June 11th.
+| accessdate = 2010-05-20
+}}
+</ref><ref>{{cite web
+| date = February 16, 2010
+| author = Ronnita Miller
+| title = THE LOSERS’ release date moved again
+| url = http://gordonandthewhale.com/the-losers-release-date-moved-again/
+| quote =
+}}
+</ref>
+
+==Reception==
+=== Critical response ===
+{{Anchors|Critics}}
+The film has received mixed reviews. It holds an approval rating of 47% on [[Rotten Tomatoes]] based on 146 reviews, with a consensus stating ''The Losers'' is loud, fast, and unrelentingly violent, but it's also funny and well-acted, which will make all the difference for some action fans."<ref>{{cite web
+| title = The Losers Movie Reviews
+| url = http://www.rottentomatoes.com/m/1226860-losers/
+| work = [[Rotten Tomatoes]]
+| publisher = [[Flixster]]
+| accessdate = 2010-06-03
+}}
+</ref>
+Review aggregation website [[Metacritic]] assigned the film a weighted average score of 44% based on 32 reviews from selected critics.<ref>{{cite web
+| title = The Losers Reviews
+| url = http://www.metacritic.com/film/titles/losers
+| work = [[Metacritic]]
+| publisher = CBS
+| accessdate = 2010-06-03
+}}
+</ref>
+
+[[Roger Ebert]] gave the film 3 and a half stars, writing "''The Losers'' knows what it's doing and how to do it. Sylvain White doesn't have a lot of credits but he knows how to direct and not trip over his own feet. The movie gets the job done, and the actors show a lot of confidence in occupying that tricky middle ground between controlled satire and comic overkill. It's fun."<ref>{{cite news
+| date = April 21, 2010
+| author = [[Roger Ebert]]
+| title = The Losers (2010)
+| url = http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20100421/REVIEWS/100429990
+| accessdate = 2010-05-20
+| work=Chicago Sun-Times
+}}
+{{Rating|3.5|4}}
+</ref>
+Cindy White of [[IGN]] gave the film 4/5.<ref>{{cite web
+| date = 2010-04-22
+| author = Cindy White
+| title = The Losers Review. Making action movies fun again.
+| url = http://movies.ign.com/articles/108/1085647p1.html
+| work = [[IGN]]
+| publisher = [[News Corporation]]
+}}
+{{Rating|4|5}}
+</ref>
+
+Michael Phillips writes "The movie is all revenge, all the time" but complains that the film is a lesser version of ''The A-Team''.<ref>{{cite news
+| date =
+| author = Michael Phillips
+| title = 'The Losers': Another comic book makes the big screen
+| url = http://www.chicagotribune.com/entertainment/sc-mov-0420-quarter-losers-20100422,0,4825545.column
+| work=Chicago Tribune
+}}
+<!-- {{Rating|2.5 stars out of ... ??? --></ref> Phillips gave the film 2 and 1/2 stars.
+Peter Debruge of ''[[Variety (magazine)|Variety]]'' criticized the film as "the sort of the sort of pyro-heavy exercise parodied in ''[[Tropic Thunder]]''. He notes that casting against type helps make the team more memorable but complains that despite the polished production the film offers only a hollow junk-food high.<ref>{{cite news
+| date = April 21, 2010 <!-- date in print -->
+| author = Peter Debruge
+| title = The Losers Review
+| url = http://www.variety.com/review/VE1117942597.html
+| work=Variety
+}}
+</ref>
+John Anderson describes the film as a good idea pushed to excess, and with all the freshness of last week's salad bar.<ref>{{cite news
+| date = April 23, 2010
+| author = John Anderson
+| title = Only Action Clichés Win in 'Losers'
+| url = http://online.wsj.com/article/SB10001424052748703876404575199903883041696.html
+| newspaper = Wall Street Journal
+}}
+</ref>
+Scott Tobias of [[The AV Club]] complains about the lack of humility or self-deprecation in the heroes despite their title. He notes how the film tries so strenuously to be cool and describes the film as nothing more than style for its own sake.<ref name="avclub">{{cite web
+| date = April 22, 2010
+| author = Scott Tobias
+| title = The Losers
+| url = http://www.avclub.com/articles/the-losers,40403/
+| work = [[The AV Club]]
+| publisher = [[The Onion]]
+}}
+Rating: D
+</ref>
+Kyle Smith of the ''[[New York Post]]'' lambasts the film giving it half a star out of 4. He describes Zoe Saldana as a [[femme fatale|femme banale]], saying actors Jeffrey Dean Morgan, Idris Elba, deserved better and Chris Evans deserved worse. He dismisses the film as [[G.I. Joe: The Rise of Cobra|G.I. Joke]], [[The A-Team (film)|The D-Team]], and says that even though the film tries to do so little, it still falls so short.<ref>{{cite news
+| date = April 23, 2010
+| author = Kyle Smith
+| title = 'The Losers' is a no-win situation
+| url http://www.nypost.com/p/entertainment/movies/no_win_situation_ck3uSWcYtuS0ZnsazoFIAJ
+| newspaper = [[New York Post]]
+}}
+{{Rating|0.5|4}}
+</ref>
+
+Phelim O'Neill of ''The Guardian'' newspaper gave the film 3 stars out of 5. He notes similarities to the A-Team and criticises the film for being full of action movie cliches. He praises the film for the lighter comedic touches, and overall describes it as big dumb fun.<ref>
+{{cite news
+| date = Thursday 27 May 2010
+| author = Phelim O'Neill
+| title = The Losers
+| url = http://www.guardian.co.uk/film/2010/may/27/the-losers-film-review
+| newspaper = The Guardian
+| location = London
+}}
+{{Rating|3|5}}
+</ref>
+His colleague Philip French of ''[[The Observer]]'' described the film as being in "A-Team territory" with the action sequences being well enough put together but that it was all done far better in Walter Hill's ''[[Extreme Prejudice (film)|Extreme Prejudice]]''.<ref name="observer">
+{{cite news
+| date = Sunday 30 May 2010
+| author = Philip French
+| title = The Losers
+| url = http://www.guardian.co.uk/film/2010/may/30/philip-french-the-losers-film-review
+| newspaper = The Observer
+| publisher = [[The Guardian]]
+| location=London
+}}
+</ref>
+
+=== Box office ===
+The film played in 2,936 theaters and earned $9,406,348 on its opening weekend at the box office at #4.<ref name="mojo-weekend">{{cite web
+| title = The Losers (2010) - Weekend Box Office Results
+| url = http://www.boxofficemojo.com/movies/?page=weekend&id=losers.htm
+| work = [[Box Office Mojo]]
+| publisher = Amazon
+| accessdate = 2010-05-20
+}}
+</ref><!-- In line with predictions --><ref name="latimes" />
+The film went on to earn $23.5 million in the United States and more than $5 million internationally for a worldwide total of over $29 million. Added to this, it made over $8.2 million on DVD sales in the USA alone, giving it a minimum earning of $37.6 million - a profit of over $12.6 million before worldwide DVD sales.<ref name="mojo">{{mojo title|losers|The Losers}} [[Amazon.com]] {{Retrieved | accessdate = 2010-08-14 }}</ref>
+
+== Home media ==
+{{Anchors|DVD|Video}}
+In the United States, the DVD release date for the film was July 20, 2010.<ref>[http://www.amazon.com/Losers-Zoe-Saldana/dp/B002ZG99G8 The Losers (2010)]</ref>
+
+== References ==
+{{Reflist|2}}
+
+==External links==
+{{Wikiquote|The Losers}}
+{{Commons category}}
+* {{Official website|http://www.the-losers.com}}
+* {{imdb title|0480255|The Losers}}
+* {{rotten-tomatoes|1226860|The Losers}}
+* {{metacritic film|losers|The Losers}}
+* {{mojo title|losers|The Losers}}
+
+{{DC Comics films}}
+{{Dark Castle Entertainment}}
+{{Sylvain White}}
+{{CinemaofCanada}}
+{{Use mdy dates|date=August 2010}}
+
+{{DEFAULTSORT:Losers}}
+[[Category:2010 films]]
+[[Category:American films]]
+[[Category:English-language films]]
+[[Category:Canadian films]]
+[[Category:2010s action films]]
+[[Category:American action films]]
+[[Category:Dark Castle Entertainment films]]
+[[Category:Films based on Vertigo titles]]
+[[Category:Warner Bros. films]]
+
+[[es:The Losers (película)]]
+[[fa:بازنده‌ها (فیلم)]]
+[[fr:The Losers]]
+[[it:The Losers (film)]]
+[[ja:ルーザーズ]]
+[[pt:Os Perdedores (filme)]]
+[[ru:Лузеры (фильм)]]

@@ -1,0 +1,57 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name=Baron Von Blitzschlag
+|image=BVonBlitzschlag.jpg
+|imagesize=250
+|converted=y
+|caption=Baron Werner Von Blitzschlag.<br>Art by [[Stefano Caselli]].
+|real_name=Werner Von Blitzschlag
+|publisher=[[Marvel Comics]]
+|debut=''Avengers: The Initiative'' # 1<br> (April 2007)<br>
+|creators= [[Dan Slott]]<br> [[Stefano Caselli]] 
+|alliances=[[Avengers: The Initiative]]<br/>[[Nazi Party]]<br/>[[Commission on Superhuman Activities]]
+|aliases=
+|supports=
+|powers= Genius level intellect and an ability to generate and control electricity
+|cat=super
+|subcat=Marvel Comics
+|villain=y
+|sortkey=Blitzschlag, Baron Von
+}}
+'''Baron Werner Von Blitzschlag''' is a [[comic book]] [[Character (arts)|character]] in [[Marvel Comics]]' main [[Shared universe|shared]] [[Marvel Universe|universe]]. Created by writer [[Dan Slott]] and artist [[Stefano Caselli]], the Baron's last name is [[German language|German]] for "Lightning-Strike." 
+
+== Publication history==
+
+Character creator Dan Slott describes<ref>{{cite web|url=http://www.comicbookresources.com/?page=article&id=9844|title=In the Army Now: Slott Talks "Avengers: The Initiative"|publisher=[[Comic Book Resources]]|date=2007-04-03|accessdate=2008-05-30}}</ref> Baron Von Blitzschlag as {{cquote|A Nazi supervillain that you've never seen. He's someone who had off panel run-ins with guys like the [[Whizzer (Robert Frank)|Whizzer]], [[Miss America (Marvel Comics)|Miss America]], and [[Thin Man (comics)|Thin Man]]. But no one really remembers him. The way he works in this book is that he's one of the guys in [[Hank Pym]]'s lab in [[Avengers: The Initiative|the Initiative]]. You read stuff like '[[Civil War (comics)|Civil War]]' and you see that they're making heroes like [[The Order (comics)#The Initiative|the new Champions]]. And that's one of the places he comes in. The Baron is a [[Nazi]] [[geneticist]] who is helping out the Initiative in the same way [[Wernher von Braun]] was helping out the [[NASA]] space program. As much as we hate the Nazis and they were awful human beings, we used guys who worked on the [[V2 rocket|V-2 rockets]] to help us put men on the moon and the Russians were using them too. There's something like that going on in the Initiative but I can't say any more about it.}}
+
+Originally, Blitzschlag's role was going to be filled by the pre-existing character [[Arnim Zola]], but this was changed due to [[Ed Brubaker]]'s plans for the character in ''[[Captain America]]''. <ref>{{cite web|url=http://forum.newsarama.com/showthread.php?t=138571|title=CHRISTOS GAGE JOINS DAN SLOTT ON THE INITIATIVE|publisher=[[Newsarama]]|date=2007-12-05|accessdate=2008-05-25}}</ref>
+
+==Fictional character biography==
+During [[World War II]], Baron Werner Von Blitzschlag was a Nazi supervillain who fought [[superhero]]es such as the Black [[Captain America]] [[Isaiah Bradley]], [[Whizzer (Robert Frank)|Whizzer]], [[Miss America (Marvel Comics)|Miss America]], and [[Thin Man (comics)|Thin Man]].<ref name=ati15>''Avengers: The Initiative'' #15</ref>
+
+Following the conclusion to [[Civil War (comics)|Civil War]], Baron Von Blitzschlag is recruited into [[Avengers: The Initiative|The Initiative]]  and works at [[Camp Hammond]], seemingly taking the position as the head of scientific research. He sits in on training sessions and is particularly interested in the development of [[Trauma (comics)|Trauma]]'s abilities. 
+
+Following the death of [[MVP (comics)|MVP]], Von Blitzschlag is asked to perform the autopsy. After discovering MVP's naturally formed peak human abilities, he argues with [[Hank Pym]] over whether exploiting MVP's genetic material in order to create more [[superheroes]] is [[medical ethics|ethical]]. After Pym laments the fact that he has to work with a former [[supervillain]] and Nazi, Von Blitzschlag points out Pym's role in a number of "villainous" acts including the creation of [[Ultron]] and the [[Thor (Marvel Comics)|Thor Clone/Cyborg]] from [[Civil War (comics)|Civil War]], finishing by saying "Don't hate me Herr Pym, for I am your greatest fan!".
+
+When the  Vulturions (criminals using the flying technology created by the original [[Vulture (comics)|Vulture]]) stole a briefcase containing classified research on [[gamma ray|gamma radiation]] from Von Blitzschlag, he attempted to stop them, and displayed a power to generate electricity. However, he was unable produce more than an electric glow around his hand, indicating that his powers are extremely weakened.
+
+It is later revealed that Von Blitzschlag used MVP's body to clone several duplicates, three of which are currently serving as the [[Scarlet Spiders]] who treat Blitzschlag as a father figure.
+
+When a new clone of MVP interfaced with [[Armory (comics)|Armory's]] Tactigon weapon, he remembered the death of the original like it was his own. Subsequently, the clone went on a mad rampage, during which he threw a gurney at the Baron. Von Blitzschlag got up severely injured reactivating his powers to keep himself alive and able to send [[Cloud 9 (comics)|Cloud 9]], [[Hardball (comics)|Hardball]], and [[Komodo (comics)|Komodo]] on a mission to stop the mad clone, known as KIA.
+
+Wounded during the mission, he's left [[wheelchair]] bound and relying on a life-supporting apparatus powered by his own bioelectricity. He asks for a [[Purple Heart]] medal for being wounded in service, but he's refused by [[Nighthawk (Marvel Comics)|Nighthawk]], due to his past as a Nazi.
+
+When [[War Machine|Jim Rhodes]]' life support is rendered unable to sustain his life functions due to a [[Skrull]] attack during the [[Secret Invasion]], Von Blitzschlag is willing to share his energy to keep Rhodes alive until the crisis is resolved. <ref name=ati15 />
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{refbegin}}
+*{{comicbookdb|type=character|id=13733|title=Baron Von Blitzschlag}}
+{{refend}}
+
+
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics supervillains]]
+
+[[Category:Nazis in comic book fiction]]

@@ -1,0 +1,41 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+|character_name=Straw Man
+|image=[[File:StrawMan.jpg]]
+|imagesize = 250
+|caption=
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Dead of Night (comics)|Dead of Night]] #11'' (Aug 1975)
+|creators=[[Scott Edelman]] and [[Rico Rival]]
+|alliances=
+|aliases=Scarecrow
+|powers=Superhuman Strength <br> Invulnerable, except towards fire<br>Fear inducement<br>Plant manipulation<br>Portal creation<br>Weather manipulation
+|cat=super
+|subcat=Marvel Comics
+|villain=yes
+|sortkey={{PAGENAME}}
+}} 
+{{citations|date=October 2009}}
+The '''Scarecrow''', later named '''Straw Man''', is a [[fictional character]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]].  He is an extra-dimensional magical entity (possibly a [[Demons (Marvel Comics)|demon]]) which takes vengeance on its enemies, and was invited by [[Dweller-in-Darkness]] to join the [[Fear Lords (comics)|Fear Lords]], but he betrayed them to [[Doctor Strange]].
+
+==Publication history==
+He was created by [[Scott Edelman]] and [[Rico Rival]] in ''[[Dead of Night (comics)|Dead of Night]]'' #11 (it was intended for ''Scarecrow'' #1, which even made it to subscription pages, but that series did not happen).  The story by Edelman and [[Ruben Yandoc]] for ''Scarecrow'' #2 appeared in [[Marvel Spotlight]] #26, and was eventually concluded by [[Bill Mantlo]] in ''[[Marvel Two-in-One]]'' #18 with art by [[Ron Wilson (comics)|Ron Wilson]], [[Jim Mooney]], and [[Dan Adkins]].  He lives inside a [[palimpsest]] painting of a laughing Scarecrow purchased by Jess Duncan and opposes the centuries-old Cult of Kalumai.  [[Gil Kane]] and [[Berni Wrightson]] provided cover art.
+
+Many years later, he was brought back in the pages of ''[[Dr. Strange, Sorcerer Supreme]]'' #31, by [[Jean-Marc Lofficier]], [[Roy Thomas]] and [[Dann Thomas]], with art by [[Larry Alexander]], in which he took on the name "Straw Man" to differentiate himself from the costumed killer the [[Scarecrow (Marvel Comics)|Scarecrow]].  He subsequently appeared in issues #38, and #40, written by the same and drawn by [[Geof Isherwood]], meeting [[Daredevil (Marvel Comics)|Daredevil]] in the latter issue.
+
+Scarecrow did not speak in his early appearances, but in his later appearances he most certainly did, and he pretended to be a newscaster named Skirra Corvus, [[Latin]] for "Scarecrow."
+
+==References==
+{{refbegin}}
+*{{Marvunapp|http://www.marvunapp.com/Appendix/strawman.htm|Straw Man}}
+*{{comicbookdb|type=character|id=8666|title=Straw Man}}
+{{refend}}
+
+{{Marvel Mystic}}
+
+[[Category:Comics characters introduced in 1975]]
+[[Category:Fear Lords]]
+
+
+{{Marvel-Comics-stub}}

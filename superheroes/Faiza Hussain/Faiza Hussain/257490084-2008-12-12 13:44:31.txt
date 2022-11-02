@@ -1,0 +1,51 @@
+{{Refimprove|date=May 2008}}
+{{update}}
+{{Infobox superhero <!--Wikipedia:WikiProject Comics-->
+|character_name=Faiza Hussain
+|image=[[image:Faiza Hussain.jpg|250px]]
+|caption=Faiza Hussain.<br>Art by [[Bryan Hitch]].
+|publisher=[[Marvel Comics]]
+|debut=''Captain Britain and MI: 13'' #1 ([[May 15]], [[2008]])
+|creators=[[Paul Cornell]]<br>[[Leonard Kirk]]
+|alter_ego = Faiza Hussain
+|full_name = 
+|species   =  Human
+|homeworld = <!-- optional -->
+|alliance_color=background:#ffc0c0
+|alliances=
+|partners  = <!-- optional -->
+|supports  = <!-- optional -->
+|aliases   =  <!-- optional: actual identities the character uses, not nicknames -->
+|powers=Control over living organisms to an unknown extent
+|}}
+
+'''Dr. Faiza Hussain'''<ref name="CB&MI13#1">{{Comic book reference | Writer = [[Paul Cornell]] | Penciller = [[Leonard Kirk]] | Inker = [[Jesse Delperdang]] | Story = The Guns Of Avalon | Title = [[Captain Britain and MI: 13]] | Issue = 1 | Date = July 2008 | Publisher = [[Marvel Comics]] | }}</ref>, is a [[fictional character|fictional]] [[comic book]] character within [[Marvel Comics]]' [[shared universe]] the [[Marvel Universe]]. Hussain was created by writer [[Paul Cornell]], first penciled by [[Leonard Kirk]]. First appearing in ''[[Captain Britain and MI: 13]]'' #1 (May 2008), Faiza Hussain is used as a the title's "[[Point of view (literature)|point of view character]]"<ref name="MarvelBI">[http://www.marvel.com/news/comicstories.3312.British_Invasion "British Invasion"], [[Marvel.com]], March 24, 2008</ref>.
+
+==Characterization==
+Cornell has been aided in the development of this character by a panel of Muslim ladies
+<ref name="DBS">[http://www.comicbookresources.com/?page=article&id=12839 DAMN BLOODY SKRULLS: CAPTAIN BRITAIN AND MI: 13], [[Comic Book Resources]], April 29, 2008</ref>; Mona Bayoumi, Safiya Sayed Baharun, Farida Patel, and Sohere Roked<ref name="CB&MI3#2">{{Comic book reference | Writer = [[Paul Cornell]] | Penciller = [[Leonard Kirk]] | Inker = [[Jesse Delperdang]] | Story = The Guns Of Avalon | Title = Captain Britain and MI: 13 | Issue = 2 | Date = August 2008 | Publisher = [[Marvel Comics]] | }}</ref>. 
+
+Faiza Hussain, originally written in early scripts as "Fai'''s'''a", is named after the former [[England cricket team|England]] [[cricket]] Captain [[Nasser Hussain]]<ref name="DBS"/> and   although she is a [[British Muslim]] character, creator Paul Cornell has stated he doesn't want Faiza to be a pillar for the entire British Muslim community.
+{{cquote|I think superheroes are too prone to being standard bearers for whole communities|30px|30px|Paul Cornell<ref name="PConFH">[http://www.comicbookresources.com/?page=article&id=12839 Super Spy Weekend: Faisa Hussain], [[Comic Book Resources]], March 9, 2008</ref>}}
+Not wanting her to say anything religious until in a situation where an everyday religious person would and steering her away from the normal [[cliche]]s associated with Muslim characters.
+
+==Fictional character biography==
+Faiza Hussain is the only daughter of a family of [[Pakistan]]i heritage who live in [[Chelmsford]] in [[Essex]]<ref name="PConFH"/>. A [[London]] based [[Muslim]] doctor, and [[United Kingdom|British]] [[superhero]] [[fangirl]], Hussain initially gets caught up in the [[Skrull|Skrull's]] [[Secret Invasion|invasion]] as she is performing battlefield triage while the Skrull attack is going on around her<ref name="CB&MI13#1"/>. While attending to the wounded, alongside the [[Black Knight (Dane Whitman)|Black Knight]], Faiza Hussain is struck by a Skrull laser weapon, this weapon seemingly gives Hussain powers which she uses to help Black Knight fend off more Skrulls<ref name="CB&MI3#2"/>.
+
+After the defeat of the Skrulls, Faiza Hussain became the wielder of [[Excalibur]]<ref name="CBMI4">{{Comic book reference | Writer = [[Paul Cornell]] | Penciller = [[Leonard Kirk]] | Inker = [[Jesse Delperdang]]| Story = The Guns Of Avalon | Title = Captain Britain and MI: 13 | Issue = 4 | Date = October 2008 | Publisher = [[Marvel Comics]] | }}</ref> and joined MI-13 as Black Knight's [[steward]]<ref name="CBMI5">{{Comic book reference | Writer = [[Paul Cornell]] | Penciller = [[Pat Olliffe]] | Inker = [[Paul Neary]]| Story = Hell In Birmingham | Title = Captain Britain and MI: 13 | Issue = 5 | Date = November 2008 | Publisher = [[Marvel Comics]] | }}</ref>.
+
+==Powers and abilities==
+Faiza Hussain is a trained doctor<ref name="CB&MI13#1"/> and appears to have a wide knowledge of the superhuman population. Although being an unpowered character in the first issue, Paul Cornell stated Faiza's power(s) would manifest during the first few issues of Captain Britain and MI: 13<ref name="PConFH"/>. In issue 2 this came to pass, when Faiza Hussain showed an extreme level of control over [[biological organism]]s, she was able to disassemble a human body into its component parts while keeping the subject alive and stopped a horde of Skrulls by stopping the bodies from being able to move<ref name="CB&MI3#2"/>. The extent and classification of these powers are yet to be revealed but Black Knight described them as purely defensive<ref name="CBMI5"/>.
+
+==Notes==
+{{reflist|1}}
+
+==References==
+{{refbegin}}
+*{{comicbookdb|type=character|id=20916|title=Faiza Hussain}}
+{{refend}}
+
+{{DEFAULTSORT:Hussain, Faiza}}
+[[Category:Marvel Comics characters]]
+
+[[Category:Fictional doctors]]

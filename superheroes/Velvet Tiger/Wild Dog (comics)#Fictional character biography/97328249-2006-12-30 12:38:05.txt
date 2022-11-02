@@ -1,0 +1,43 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Wilddog.jpg|200px]]
+|caption=Wild Dog #1 by [[Terry Beatty]]
+|comic_color=background:#8080ff
+|character_name=Wild Dog
+|real_name=Jack Wheeler
+|publisher=[[DC Comics]]
+|debut=''Wild Dog'' #1 September ([[1987]])
+|creators=[[Max Allan Collins]]<br>[[Terry Beatty]]
+|alliance_color=background:#c0c0ff
+|status=Active
+|alliances=
+|previous_alliances=
+|aliases=
+|powers=None, a street level vigilante. 
+|}}
+
+'''Wild Dog''' is the name of a [[DC Comics]] character created by [[Max Allan Collins]] and [[Terry Beatty]]. 
+ 
+==Fictional character biography==
+He first appeared in a four issue miniseries in 1987.  Issue #1 is cover dated September 1987, the series is credited to Max Collins, Terry Beatty and Dick Giordiano.  After his mini series, he appeared in a strip in ''[[Action Comics]] Weekly'', starting with #601 in May of 1988.  His strip lasted until issue #640 (March, 1989). He was an auto mechanic named Jack Wheeler from the Quad Cities dedicated to fighting terrorism and urban crime. His actions in the beginning were mainly directed against domestic American terrorists led by the "Committee for Social Change".
+
+Armed with a [[Jatimatic GG-95 SMG PDW]] and a pair of electrified "shock gloves", his costume consisted of camouflage pants, a college football jersey emblazoned with a snarling dog and a hockey mask (reminiscent of [[Jason Voorhees]]) to conceal his identity. 
+
+The series was an attempt to bring a very down to earth anti-[[Punisher]] style vigilante into DC's stable of characters. He doesn't wear superhero styled long-johns or battle high-tech international mercenaries, he was a street level vigilante in a small town. He wore the costume he did because it fit over and hid his protective body armor. He is sometimes considered a precursor to several of DC's later, more realistic takes on the superhero or vigilante character such as [[Hitman (comics)|Hitman]] which emerged nearly a decade later.
+
+=== Recently ===
+{{see also|Infinite Crisis}}
+Wild Dog was last seen, alongside the current [[Vigilante (comics)|Vigilante]] and the current [[Crimson Avenger]], on a rooftop in the great [[Battle of Metropolis]], raining bullets down on the [[Trigger Twins]] and others in ''[[Infinite Crisis]]'' #7.
+
+==Trivia==
+* A possible sidelong reference to Wild Dog was the character "Watchdog" from the short piece 'History Lesson' (Detective Comics #758), in which Gotham Police Chief Michael Akins discusses the limitations of such a character, as a way of explaining his antipathy towards Batman.
+
+==See also==
+*[[Nite-Wing]]
+*[[Casey Jones (TMNT)|Casey Jones]]
+
+==External links==
+* [http://www.dcuguide.com/who.php?name=wilddog Wild Dog entry at DCU Guide]
+
+[[Category:DC Comics titles]]
+[[Category:DC Comics superheroes]]
+[[Category:Fictional_vigilantes]]

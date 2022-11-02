@@ -1,0 +1,26 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Steel_comic_1.jpg|250px]]
+|caption=''Steel, The Indestructible Man'' #1
+|comic_color=background:#8080ff
+|character_name=Commander Steel
+|real_name=Henry Heywood
+|publisher=[[DC Comics]]
+|debut=''Steel, The Indestructible Man'' #1
+|creators=Gerry Conway
+|alliance_color=background:#ffc0c0
+|status=Deceased
+|alliances=[[All-Star Squadron]]
+|previous_alliances=
+|aliases=Steel
+|relatives=Hank Heywood III (grandson)
+|powers=Cyborg, great strength, limited invulnerability, limited superspeed
+|}}
+
+'''Commander Steel''' is a [[fictional character]] and a [[superhero]] who first appeared in ''Steel, The Indestructible Man'' #1 in 1978, published by [[DC Comics]]. Created by [[Gerry Conway]] and [[Don Heck]], the stories were set in [[World War II]]. He was originally called Steel, but was later renamed Commander Steel by [[Franklin D. Roosevelt|President Roosevelt]].
+
+He was a member of the [[All-Star Squadron]].
+
+{{DC-Comics-stub}}
+
+[[Category:All-Star Squadron members]]
+[[Category:Justice League (animated) members]]

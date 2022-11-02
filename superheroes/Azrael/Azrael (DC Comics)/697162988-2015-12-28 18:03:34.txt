@@ -1,0 +1,165 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name = Azrael
+|image          = Swordazrael1.jpg
+|converted      = y
+|caption        = Cover to ''Batman: Sword of Azrael'' #1 (1992).<br>Art by [[Joe Quesada]] and [[Kevin Nowlan]].
+|real_name      = Jean-Paul Valley Jr.<br>Michael Washington Lane
+|publisher      = [[DC Comics]]
+|debut          = '''As Azrael''':<br>''Batman: Sword of Azrael'' #1<br>(October 1992)<br>'''As Batman''':<br>''Batman'' #489 (February 1993)
+|creators       = '''Jean-Paul Valley''':<br>[[Denny O'Neil]]<br>[[Joe Quesada]]<br>'''Michael Washington Lane''':<br>[[Grant Morrison]]
+|alliances      = [[The Sacred Order of Saint Dumas]]<br>[[Batman supporting characters|Batman Family]]<br>[[Black Lantern Corps]]
+|aliases        = [[Batman (set index)|Batman]]
+|powers         =
+*Military- and police-trained tactician, computer expert, and hand-to-hand combatant
+*Artificially enhanced physiology, combat skills, and intelligence
+*Wears special "Suit of Sorrows" armor; bestows enchanced strength, stamina, and speed
+*Uses the "Sword of Sin"; stated as "burns with the souls of the damned"
+|cat            = super
+|subcat         = DC Comics
+|hero           = y
+|villain        = 
+|sortkey        = Azrael (comics)
+|}}
+
+'''Azrael''' is the name of two [[fictional]] [[superhero]]es in the [[DC Universe|DC Comics universe]]. Azrael is from a group of assassins who were created by [[The Sacred Order of Saint Dumas]] to "enforce God's Will". The name is taken from the name for the traditional [[Azrael|Angel of Death]].
+
+==Publication history==
+The character first appeared in the series ''Batman: Sword of Azrael'',<ref>{{cite book|last=Manning|first= Matthew K.|last2=Dolan|first2=Hannah, ed.|chapter= 1990s|title = DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]] |year=2010 |isbn= 978-0-7566-6742-9 |page= 255 |quote = Azrael, one of the most important characters of the modern Batman mythos, was dropped right under the noses of an unsuspecting reading populace in the debut issue of ''Batman: Sword of Azrael'' by esteemed bat-scribe Denny O'Neil, talented young penciler Joe Quesada, and inker extraordinaire Kevin Nowlan. }}</ref> as Jean-Paul Valley, in 1992.
+
+He then became a supporting character in the monthly [[Batman]] titles, eventually taking over the role of Batman<ref>Manning "1990s" in Dolan, p. 260: "By ''Batman'' #500, the last chapter of the 'Knightfall' saga by writer Doug Moench and artist Jim Aparo and Mike Manley, Azrael was truly his own [version of] Batman."</ref> through the "[[Knightfall]]", "Knightquest", and "KnightsEnd" story arcs. Writer/co-creator [[Denny O'Neil]] admitted to difficulty with Azrael's transition from villain to hero: "If I'd known he was to become a monthly character, I might have set him up differently ... The problem is that I had to turn a bad guy into a real hero, not just an anti-hero or lead. It's possible to do that, but it's difficult to retain the original characterization. You almost have to change his personality."<ref>{{cite news | last = Shutt | first= Craig | date = August 1997 | title = Villain Turned Hero: Azrael | work = [[Wizard (magazine)|Wizard]] | issue = 72 | page = 39}}</ref>
+
+The subsequent ''[[Azrael (comic book)|Azrael]]'' series, chronicling Valley's battles against the Order of St. Dumas, ran for 100 issues between 1995 and 2003. Starting with issue #47, it was retitled ''Azrael: Agent of the Bat'' in an attempt to boost sales by tying the series in with the rest of the Batman [[mythology|mythos]], including Azrael as part of the team of Batman, [[Robin (comics)|Robin]], and the new [[Batgirl]] ([[Cassandra Cain]]).
+
+Michael Lane is the next ''Azrael'' introduced as part of the [[Battle for the Cowl]] storyline in a three-issue mini-series written by [[Fabian Nicieza]].<ref>[http://comics.ign.com/articles/939/939673p1.html Batman: Battle for the Cowl - Enter Azrael], [[IGN]], December 18, 2008</ref><ref>[http://www.comicbookresources.com/?page=article&id=19314 Fabian Nicieza Unleashes Azrael], [[Comic Book Resources]], December 29, 2008</ref>
+
+==Fictional character biography==
+
+===Jean-Paul Valley===
+Jean-Paul Valley, a university graduate student of [[computer science]] in [[Gotham City]], is unaware that he is the latest in a line of [[assassination|assassin]]-[[Criminal|enforcers]] for "[[The Sacred Order of Saint Dumas]]", a sinister religious [[secret society]]. For most of his life, he has been [[brainwashing|brainwashed]] with ''The System'', a deep level of [[Operant conditioning|psychological conditioning]].
+
+Valley only learns of this upon the death of his father, who was also his predecessor, at which time his conditioning is activated and he is called upon to take up the mantle of Azrael.<ref>batman: Sword of Azrael # 1</ref> When he is sent by the Order to kill a weapons dealer, a rogue member of the Order who had turned against the others and killed his father, he crosses paths with Batman, also investigating the death of Valley's father. He works with [[Alfred Pennyworth]] to find the weapons dealer after he has captured Bruce Wayne, using the Batman costume to kill the other Order members. As Valley works with Alfred, demonstrating a detective's intuition in tracking Lehah's movements and later risking himself to rescue Bruce despite his traditional mission of vengeance, he is shown the error of his ways and decides to fight alongside Batman against the criminals of Gotham, rejecting his "birthright" and seeking Batman's help in breaking his conditioning to forge his own destiny.
+
+His name is not revealed to Alfred and Bruce until the end of the story, at which point he claims it was his father's name too. However a later storyline in his solo series stated his father's name to be Ludovic Valley.<ref name="dc-ency">{{Cite book | last = Wallace | first = Dan | author-link = | contribution = Azrael | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | page = 33 | publisher = [[Dorling Kindersley]] | place = London | year = 2008 | isbn = 0-7566-4119-5 | postscript = <!--None-->}}</ref>
+
+Valley is given a job as a security guard at [[WayneTech]] headquarters, and also becomes an [[apprentice]] crimefighter alongside Batman and Robin, learning basic detective work.
+
+[[File:Detective Comics 667.jpg|thumb|130px|left|''[[Detective Comics]]'' #667 (1993). Art by [[Kelley Jones]].]]
+Valley plays a pivotal role in the "[[Batman: Knightfall|Knightfall]]" [[story arc]] (1993–1994), in which he stands in as Batman after Bruce Wayne is defeated and [[paralysis|paralyzed]] at the hands of [[Bane (comics)|Bane]]. He decides that Bruce's tactics as Batman are obsolete and believes that he must fight criminals on their terms which makes him far more brutal and merciless, often even showing little regard for innocent bystanders. Against Bruce Wayne's orders, Valley fights and defeats Bane, wearing enhanced battle-armor he designed and built under the influence of the System after he was narrowly defeated by Bane in their first confrontation.<ref>Batman # 500</ref> His performance as Batman is influenced by his Azrael conditioning. He grows increasingly violent and delusional, allowing the mass murderer [[Abattoir (comics)|Abattoir]] to fall to his death, thereby also allowing one of Abattoir's still-living hostages to die.<ref>Batman # 508</ref> Valley also has control problems with [[Robin (Tim Drake)|Tim Drake]]'s partnership, which climax when Valley almost strangles him to death and bans him from the [[Batcave]]. He seals off the Batcave from [[Wayne Manor]] and the Drake property, and eschews working with [[Commissioner Gordon]] and the Gotham police. Valley also suffers from continuous hallucinations of both his father and St. Dumas who tell him that he is the real Batman and that he must avenge his father's death.
+
+Initially, Wayne is impressed enough with Valley's results to let him remain as Batman, but when Drake tells Wayne of Abattoir's death, he resolves to reclaim the Batman mantle. With his back repaired thanks to the sacrifice of Doctor [[Shondra Kinsolving]], and his fighting instincts rehabilitated after lessons with [[Lady Shiva]], Wayne goes after Valley to reclaim his identity. After a prolonged battle, stretching from a mobster's penthouse to Gotham Bridge before culminating in a final showdown in the Batcave. Bruce tricks Valley into removing his armor, excluding his helmet (with night-vision lenses engaged), and then exposes him to bright sunlight - the shock snaps Valley out of his delusional state. He apologizes and asks for his forgiveness, which Bruce accepts, recognizing his own role in Valley's descent into madness during his time as Batman, but tells him to leave immediately. Valley subsequently departs Wayne Manor after acknowledging Bruce Wayne as the true Batman.<ref name="dc-ency" />
+
+Valley lives among the [[homelessness|homeless]] population of Gotham for several weeks, befriending an [[alcoholic]] former [[psychiatrist]] named Brian.
+
+Valley is sought out by Bruce Wayne who feels responsible for his mental breakdown after attaining and losing the mantle of Batman. Bruce grants him a small fortune in money, information on the Order of St. Dumas' whereabouts and resources to explore his origins. Along with Brian, he discovers the evil conspiracies within the order of St. Dumas, and they help a nun named Sister Lilhy escape. With the help of [[Ra's al Ghul]] he discovers that he is a genetically engineered [[in vitro fertilisation|test tube baby]], and his [[gene]]s have been [[genetic engineering|spliced]] with those of animals.
+
+He returns to Gotham for several crossover events, including [[Underworld Unleashed]], [[Batman: Contagion|Contagion]], [[Batman: Legacy|Legacy]], and [[Batman: Cataclysm|Cataclysm]]. He also discovers that his father's killer, Carlton LeHah, is still alive. Valley attempts to regain Batman's trust after the events of KnightsEnd. Batman, who feels responsible for Valley, especially after realizing that he gave him very little training and support decides to give Azrael missions to carry out to test him and prove himself. The first of these missions is to defeat a resurfaced Bane, but it is not until Azrael saves the lives of a group of U.S. senators (one of which tries to plead to congress for the funds to rebuild Gotham City after its devastating earthquake) that Batman begins to fully trust him again. Prior to those events, Batman sent Azrael after Nicholas Scratch who was planning to kill another senator who wanted the federal money to save Gotham City. While pursuing Scratch, Azrael was framed for the senator's murder after he was strangled to death moments before Azrael arrived to save him.
+
+After being framed, Azrael is given a new costume designed by Batman and uses it for a time, especially during the "No Man's Land" storyarc. Azrael helps Batman maintain a chaotic Gotham City, often with the assistance of the new Batgirl and protects [[Leslie Thompkins]]' medical clinic inside of No Man's Land. After foiling Scratch's plan of framing him for murder Azrael returns to his original costume and battles supposed [[hallucination]]s that are supposed to represent both his father and St. Dumas himself. Toward the end of the series, Azrael is plagued by apparently [[supernatural]] occurrences in the form of possible [[miracle]]s.
+
+Azrael is seemingly killed in the series' final issue, shot with two specially-coated bullets while battling Scratch and LeHah. Scratch was arrested, and LeHah falls into the river with Azrael. However, Azrael's body is never recovered.<ref name="dc-ency" /> His death went unconfirmed for several years. In ''Booster Gold'' (vol. 2) #10, a note can be seen written on time traveler Rip Hunter's [[chalk board]] reading "Jean-Paul Valley Lives!". In the following issue, another note says "Azrael comes and goes." Azrael appears in ''[[Blackest Night]]'' #4 (October 2009) as an [[zombie|undead]] member of the [[Black Lantern Corps]]; although at first it had not been confirmed whether it was Jean-Paul Valley or another Azrael (such as Ludovic Valley, who died in Gotham City). However, it was later revealed, in the index section of the Blackest Night tabloid vol.1, that it was in fact Jean-Paul.<ref>{{Cite comic|writer=[[Geoff Johns|Johns, Geoff]]|title=[[Blackest Night]]|Volume = 1|Issue = 4|date=October 2009|publisher=[[DC Comics]]}}</ref>
+
+Jean-Paul Valley makes a cameo at Batman's funeral service in [[Neil Gaiman]]'s 2009 story, ''[[Batman: Whatever Happened to the Caped Crusader?]]'', a story which is [[metaphysics|metaphysical]] in nature.
+
+===Michael Lane===
+In 2009, a mini-series titled ''Azrael: Death's Dark Knight''<ref name="09Miniseries">[http://www.newsarama.com/comics/120810-DiDio-20.html Newsarama.com : Dan DiDio: 20 Answers, 1 Question - Batman and More], [[Newsarama]]</ref> was produced as a tie-in to the [[Battle for the Cowl]] crossover event, with a later regular series.
+
+The new Azrael is [[Batman and Son#Aftermath|the Third "Ghost of Batman"]] to undergo [[Doctor Hurt]]'s experiments; an ex-cop named '''Michael Washington Lane'''. He is approached by the Order of Purity to reclaim the mantle of Azrael after the Order's latest Azrael went mad and killed an undercover police officer. On his first night as Azrael he fights [[Talia al Ghul]] with her team of mercenaries led by [[Merlyn (DC Comics)|Merlyn]] and later encounters [[Dick Grayson|Nightwing]].<ref>''Azrael: Death's Dark Knight'' #1-#3 (May 2009 - July 2009)</ref> After convincing Nightwing that he was not responsible for the murdered police officer, Nightwing persuades Talia to allow Michael to keep the Suit of Sorrows. In ''Batman And The Outsiders'' (vol. 2) #14, the character is displayed as a charming man who undergoes various purification rituals, overseen by the Order of Purity.<ref name="Batman And The Outsiders #14">{{Cite comic | writer = [[Frank Tieri (comics)|Tieri, Frank]] | penciller = [[Ryan Benjamin (comics)|Benjamin, Ryan]] | inker = [[Saleem Crawford|Crawford, Saleem]] | story = A Family Affair | title = Batman and the Outsiders | volume = 2 | issue = 14 | date = February 2009 | publisher = [[DC Comics]] | location = | page = | panel = | id =}}</ref>
+
+Ra's al Ghul later attempts to manipulate Lane into destroying Gotham by having him commit suicide and be subsequently resurrected by the Suit, which was dipped in a Lazarus Pit. Lane worked with metahuman Crusader to 'judge' [[Dick Grayson|Batman]], [[Catwoman]] and [[Tim Drake|Red Robin]] for their past 'sins'- including the insane obsession of Selina's sister that Selina is 'possessed', Robin not showing due reverence when he destroyed a church window to save hostages, and a childhood incident where Dick let another circus performer get assaulted because he was jealous- and to determine if Gotham should be saved. Although Lane is manipulated into perceiving the Bat-Family as having failed his tests, Batman convinces Lane to use his swords to test himself, revealing Ra's' plan in time for Lane to stop the planned destruction of new metahuman Fireball. Ra's' intended for Azrael to detonate Fireball and make it appear as though Gotham had been destroyed by terrorists, inciting a wave of violence that would cleanse Earth and allow Ra's to take control.
+
+====The New 52====
+Michael Lane has appeared in [[the New 52]] (a reboot of the DC Comics universe). Michael Lane was originally featured in [[Batwoman]] issue #2 as a cameo, which was written before the relaunch but published after, however the art was edited in order to remove him.<ref>{{cite web|last=Johnston|first=Rich|title=Batwoman #2 Deletes Azrael And Lady Blackhawk From The DC Universe|url=http://www.bleedingcool.com/2011/10/07/batwoman-2-deletes-azrael-and-lady-blackhawk-from-the-dc-universe/|publisher=Bleeding Cool}}</ref> Regardless, Michael Lane appeared in issue #10 of [[Batman Incorporated|Batman, Inc]]. His absence from Batman's organization is explained by his choosing seclusion and daily prayer as a way of repenting for all that he did as a tool of Ra's Al Ghul and Doctor Hurt, believing himself to hold an important role in the apocalypse.
+
+==Powers and abilities==
+{{refimprove section|date=February 2012}}
+The source of Azrael's abilities is a post-hypnotic training regimen known as The System. The details of The System are never fully explained, but it is understood that training begins before birth and includes genetic modification, prenatal electric shock, and the use of apes as surrogate mothers. The end result is a human being who is inhumanly strong and fast and has a raging split personality triggered by the donning of the Azrael costume. The split personality is apparently coached to believe it is an actual [[Bible|Biblical]] [[angel]] of vengeance. His weapons include wrist-mounted swords which ignite flames and can also be launched from the gauntlets. Azrael also dons bullet- and flame-proof armor.
+
+In addition to Azrael's enhanced strength and speed he also possess enhanced agility, reflexes, durability and stamina. He has been shown to be able to still fight at heightened levels even when fatigued. This fact is exemplified when Azrael was able to defeat Bane when he was suffering from both extreme exhaustion and [[Venom (DC Comics)|Venom]] withdrawal.<ref>Azrael # 39</ref> He has also been shown to be able to resist an even more potent version of the Venom drug, having been able to break its vast addiction in only one night. Azrael is also a superior fighter. Although he lacks technique and style in his fighting moves he makes up for it with his speed, reflexes and agility. Azrael has been able to match [[Deathstroke]] in a sword duel and has even defeated Batman in hand-to-hand combat.<ref>Azrael # 99</ref>
+
+It is implied towards the middle of the series that all Azraels have been imparted with some form of The System, but that the training and genetic tampering have been updated and changed significantly in the Order's 500-year history. The System also somehow separates an Azrael's civilian identity from his powers, in that they are only super strong or super fast while in costume. However, towards the end of his life Jean-Paul was able to manifest these abilities while in his normal personality.
+
+Azrael is also an expert with computers. When he was first introduced in ''Batman: Sword of Azrael'' #1, it was revealed that Jean-Paul was studying computer programming in college and during Knightquest he frequently dealt with Tim Drake's (then newly appointed as Robin) attempts to hack the Batcave's computer system successfully, once stating that Tim was overconfident in his abilities and that a far more experienced hacker now inhabited the cave.
+
+Jean-Paul also trained as a detective when he was with Batman's team, although he also demonstrated some deductive ability during his early days as Azrael when working with Alfred and Nomez to track down Lehah and the captured Bruce.
+
+===Equipment===
+Azrael's original costume consists of special red and gold armor. After becoming an "Agent of the Bat", he dons silver and black armor with a red cape and a stylized red bat symbol on the chest. Later on, he dons red armor with golden gauntlets, boots, shoulder pads and a blue cape. He sometimes carries a flaming sword, and also uses two retractable daggers hidden in the gauntlets of his costume. On page 71 of the updated edition of ''Batman: The Ultimate Guide to the Dark Knight'', Scott Beatty implied that Azrael's changing costumes were reflections of the changes in Azrael's life from an agent of St. Dumas to an agent of the Batman to his own man.<ref name="dc-ency" /> The gauntlets were taken by Kate Spencer, the current [[Manhunter (Kate Spencer)|Manhunter]], and are used in her outfit.
+
+==Other versions==
+Valley and Lane are not the only bearers of the name Azrael in the DC Universe:
+
+* Valley's father (Jean-Paul/Ludovic Valley) was the previous Azrael, as seen in ''Batman: Sword of Azrael'' (referenced by his son as having the same name) and, with more detail, in ''Azrael Annual #1'' (identified as just Ludovic Valley).
+
+* A Chinese man, supposedly given the same training as Valley and an identical costume, is briefly under the control of the Order. Also, the position of the order's enforcer has been passed on since medieval times.
+
+* Earlier on in the ''Azrael'' series, another man is supposedly selected and trained in the same way as Valley and the Chinese Azrael to be Valley's replacement. He is defeated by Valley and supposedly falls to his death, only to resurface in Gotham at one point wearing one of Valley's 'Batman' armors and engaging in underground fights.
+
+* There was a character Azrael who was briefly associated with the [[Teen Titans]] and who is otherwise unrelated to the character introduced in the Batman comics.[http://comicbookdb.com/character.php?ID=518]
+
+* In [[The Multiversity]]: The Just, which takes place on the alternate Earth-16 where the grown sidekicks and children of superheroes live on an Earth free of crime due to the efforts of their parents years earlier, Damian Wayne, the new Batman has a variation of Jean Paul's Azrael suit in a glass display in the Batcave.
+
+==In other media==
+{{refimprove section|date=February 2012}}
+
+===Television===
+* Azrael will appear in season 2 of ''[[Gotham (TV series)|Gotham]]''.<ref>{{cite web|url=http://tvline.com/2015/07/14/gotham-season-2-spoilers-bat-cave-azrael/|title=Gotham Cast, EP: Season 2 Is 'What the Show Should Have Been All Along'|author=Team TV Line|work=tvline.com}}</ref><!-- ref text does not mention Azrael or even St. Dumas. Needs a proper video reference with time offset -->{{cn|date=December 2015}}
+
+===Video games===
+* Azrael is a character that can be officially created after obtaining all the mini-kits for the hero chapters of the game in ''[[Lego Batman: The Videogame]]'' in the character customization feature. The [[Nintendo DS]] version also features him and can be unlocked and made available to purchase after all the levels have been completed and True Hero has been achieved on all of them.
+
+* Azrael appears in ''[[Lego Batman 2: DC Super Heroes]]''.
+
+* Jean-Paul Valley Azrael, Michael Lane Azrael and Azrael Batman are all playable characters in ''[[Scribblenauts Unmasked: A DC Comics Adventure]]''.
+
+====Batman Arkham====
+The Michael Lane incarnation of Azrael is a supporting character in the ''[[Batman Arkham]]'' series where he is voiced by [[Khary Payton]].
+
+* In ''[[Batman: Arkham City]]'', this Azrael wears an amalgamation of Jean-Paul Valley's and Michael Lane's Azrael armors as he has the latter's crusader-esque look and the former's wrist-mounted flaming blade. His character profile states he is the Michael Lane incarnation. His first appearance is at the beginning of the game, standing on a rooftop, watching as Bruce Wayne is being sent into Arkham City. If Batman chooses to pursue him, he leaves symbols in his standing spots that are revealed to be a map leading to the destination of a final symbol. When Batman discovers it, Azrael appears and reveals that he is a member of The [[The Sacred Order of Saint Dumas|Order of St. Dumas]] and delivers him a cryptic message about the impending dark future of Batman and Gotham City. Furthermore, Batman has apparently never heard of the Order of St. Dumas, even though [[Bane (comics)|Bane]] alluded to ''Knightfall'' in [[Batman: Arkham Asylum|the previous game]]. Azrael gives Batman a message that dark days are coming and that Batman will be the one to close the Gates of Hell. He also states that from the ashes of Arkham, the fires will rage and Gotham will burn, taking Batman with it. Batman says in response that he "[does not] believe in fairy tales". Nevertheless, stating that the message has been delivered, Azrael leaves stating to Batman that they will meet again. Close inspection of the other side of the church the final symbol is on will reveal a stained glass window that shows what appears to be a white version of Azrael.
+
+* The [[PlayStation 3]] edition of ''[[Batman: Arkham Origins]]'' features the ''Knightfall'' DLC pack containing an alternate Batman outfit based on Jean-Paul Valley's Batsuit, as well as challenge maps based on ''Batman: Knightfall''.<ref>{{cite web| first = Sinan| last = Kubba | url =http://www.joystiq.com/2013/06/11/batman-arkham-origins-ps3-knightfall-content-detailed/ | title=Batman: Arkham Origins PS3 'Knightfall' content detailed | publisher =AOL |work= Joystiq| date=June 11, 2013 | accessdate=June 12, 2013 |archiveurl= http://www.webcitation.org/6HKFd6Z3L |archivedate=June 12, 2013 |deadurl=no}}</ref>
+
+* The character later returned in ''[[Batman: Arkham Knight]]'', where his outfit is now primarily white with red patches. He is on a new mission from the Order of St. Dumas, which is to become Batman's successor. After Lane is put through several trials, Batman eventually discovers the Order wants Lane to kill him and become Gotham City's guardian when it comes to his final trial. They had planted a microchip in his brain subtly controlling his actions. Lane is then given two options by the player: kill Batman or spare him. If he choses to kill Batman, Azrael is subdued by Batman and incarcerated at the Gotham City Police Department. Lane reveals himself to be a religious zealot, completely in line with the Order's creed, claiming evil has flourished under Batman's tenure and he must die so that divine justice can save the city. Azrael develops an animosity toward [[Deacon Blackfire]] as both villains consider themselves to be God's rightful representative. If he chooses to spare Batman, he enters the elevator to leave the clock tower, either immediately or after picking up and breaking his own sword (it seemed to have some kind of control over him). Proud, Batman shakes his hand after he enters the elevator, telling Lane that he made the right choice. Lane explains that he only follows the will of God, not the manipulations of man, and that the Order will answer for their crimes.
+
+==Collected Editions==
+* ''Batman: Contagion'' (Azrael #15)
+* ''Batman: No Man's Land'' Vol. 1 (Azrael: Agent of the Bat #51-55)
+* ''Batman: No Man's Land'' Vol. 2 (Azrael: Agent of the Bat #56)
+* ''Batman: No Man's Land'' Vol. 3 (Azrael: Agent of the Bat #58)
+* ''Batman: No Man's Land'' Vol. 4 (Azrael: Agent of the Bat #59-61)
+* ''Batman: Sword of Azrael'' (#1-#4) [1993] - ISBN 1-56389-100-X
+* ''Knightfall''
+* ''Azrael: Angel in the Dark'' (Azrael vol2 #1-#6) [2010] - ISBN 978-1-4012-2874-3 
+* ''Batman: Gotham Shall Be Judged'' (Azrael vol2 #14-#18) [2012] - ISBN 978-1-4012-3378-5
+* ''Azrael: Death's Dark Knigh'' (#1-#3)
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://worldofblackheroes.com/2011/06/10/azrael-michael-washington-lane/ World of Black Heroes: Azrael Michael washington lane Biography]
+* [[DCDatabase:Jean-Paul Valley (New Earth)|Azrael (Jean-Paul Valley) at the DC Database Project]]
+* [[DCDatabase:Jean-Paul Ludovic Valley (New Earth)|Azrael (Jean-Paul Ludovic Valley, the father) at the DC Database Project]]
+* [[DCDatabase:Michael Lane (New Earth)|Azrael (Michael Lane) at the DC Database Project]]
+* [http://www.batmanytb.com/bios/heroes/azrael/index.php Azrael Biography] at Batman Myth.com
+* {{comicbookdb|type=character|id=519|title=Azrael (Jean-Paul Valley)}}
+* {{gcdb series|id=5221|title=''Azrael Annual''}}
+
+{{Batman}}
+
+[[Category:1992 comics debuts]]
+[[Category:Comics characters introduced in 1992]]
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics martial artists]]
+[[Category:DC Comics titles]]
+[[Category:Fictional characters with multiple personalities]]
+[[Category:Fictional assassins]]
+[[Category:Fictional vigilantes]]
+[[Category:Fictional genetically engineered characters]]
+[[Category:Fictional African-American people]]
+[[Category:Fictional police officers]]
+[[Category:Characters created by Dennis O'Neil]]
+[[Category:Characters created by Joe Quesada]]
+[[Category:Characters created by Grant Morrison]]
+[[Category:Fictional knights]]

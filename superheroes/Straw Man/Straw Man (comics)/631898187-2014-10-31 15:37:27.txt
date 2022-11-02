@@ -1,0 +1,44 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+|character_name=Straw Man
+|image=[[File:StrawMan.jpg]]
+|imagesize = 250
+|caption=
+|alter ego= 
+|species=
+|publisher=[[Marvel Comics]]
+|debut= ''Dead of Night'' #11 (August 1975)
+|creators=[[Scott Edelman]] and [[Rico Rival]]
+|alliances=
+|aliases=Scarecrow,  Skirra Corvus
+|powers=Superhuman Strength <br> Invulnerable, except towards fire<br>Fear inducement<br>Plant manipulation<br>Portal creation<br>Weather manipulation
+|cat=super
+|subcat=Marvel Comics
+|villain=yes
+|sortkey=Straw Man (comics)
+}}
+
+The '''Scarecrow''', later named '''Straw Man''', is a [[fictional character]], a super villain appearing in the [[Marvel Comics]] [[Marvel Universe|universe]].
+
+==Publication history==
+The Scarecrow was created by [[Scott Edelman]] and [[Rico Rival]] and first appeared in ''Dead of Night'' #11 (August 1975).<ref name="DoN11">{{cite comic| writer= [[Scott Edelman|Edelman, Scott]]|penciller= [[Rico Rival|Rival, Rico]]|inker= Rival, Rico|story= Enter: The Scarecrow|title= Dead of Night|issue= 11|date= August 1975}}</ref> [[Gil Kane]] and [[Bernie Wrightson]] provided the cover art. The Scarecrow character originally was scheduled to appear as a feature in ''[[Monsters Unleashed]]'' and ''[[Werewolf by Night|Giant-Size Werewolf]]'' but both of those series were cancelled before the Scarecrow feature could appear. It was then rescheduled for ''Dead of Night''<ref>{{cite comic| writer= Edelman, Scott|story= A Bit of Rag and a Clump of Straw (text article)|title= Dead of Night|issue= 11|date= August 1975}}</ref> and after that series was cancelled as well, the character was to have a self-titled ''Scarecrow'' series but it was not published.<ref>{{cite comic| writer= Edelman, Scott|story= [[Comic book letter column|letter column]]|title= Marvel Spotlight|issue= 26|date= February 1976}}</ref> Edelman and artist [[Ruben Yandoc]] produced a follow-up story which appeared in ''[[Marvel Spotlight]]'' #26 (February 1976),<ref name="Spotlight">{{cite comic| writer= Edelman, Scott|penciller= [[Ruben Yandoc|Yandoc, Ruben]]|inker= Yandoc, Ruben|story= Death Waters of the River Styx|title= [[Marvel Spotlight]]|issue= 26|date= February 1976}}</ref> and was eventually concluded by [[Bill Mantlo]] in ''[[Marvel Two-in-One]]'' #18 (August 1976)<ref name="TwoinOne">{{cite comic| writer= Edelman, Scott; [[Bill Mantlo|Mantlo, Bill]]|penciller= [[Ron Wilson (comics)|Wilson, Ron]]|inker= [[Jim Mooney|Mooney, Jim]]; [[Dan Adkins|Adkins, Dan]]|story= Dark, Dark Demon-Night!|title= [[Marvel Two-in-One]]|issue= 18|date= August 1976}}</ref>
+
+Many years later, he was brought back in the pages of ''[[Doctor Strange|Dr. Strange, Sorcerer Supreme]]'' #31 (July 1991)<ref>{{cite comic| writer= [[Roy Thomas|Thomas, Roy]]; [[Dann Thomas|Thomas, Dann]]; [[Jean-Marc Lofficier|Lofficier, Jean-Marc]]|penciller= [[Larry Alexander (comics)|Alexander, Larry]]|inker= [[Tony DeZuniga|DeZuniga, Tony]]|story= TBOTV: A Gathering of Fear, Part 1|title= [[Doctor Strange|Doctor Strange, Sorcerer Supreme]]|issue= 31|date= July 1991}}</ref> in which he took on the name "Straw Man" to differentiate himself from the costumed killer the [[Scarecrow (Marvel Comics)|Scarecrow]].  He subsequently appeared in issues #38<ref>{{cite comic| writer= Thomas, Roy; Thomas, Dann; Lofficier, Jean-Marc; Lofficier, Randy|penciller= [[Geof Isherwood|Isherwood, Geof]]|inker= [[Jim Sanders III|Sanders III, Jim]]|story= Fear Itself The Great Fear, Part 1 of 3|title= Doctor Strange, Sorcerer Supreme|issue= 38|date= February 1992}}</ref> and #40 meeting [[Daredevil (Marvel Comics)|Daredevil]] in the latter issue.<ref name="DS40">{{cite comic| writer= Lofficier, Jean-Marc; Lofficier, Randy; Thomas, Roy; Thomas, Dann|penciller= Isherwood, Geof|inker= Sanders III, Jim|story= From Hope and Fear Set Free...The Great Fear, Part 3 of 3|title= Doctor Strange, Sorcerer Supreme|issue= 40|date= April 1992}}</ref>
+  
+Scarecrow did not speak in his early appearances, but in his later appearances he did and he pretended to be a newscaster named Skirra Corvus, [[Latin]] for "Scarecrow."
+
+==Fictional character biography==
+The Scarecrow is an extra-dimensional magical entity (possibly a [[Demons (Marvel Comics)|demon]]) which takes vengeance on its enemies. He lives inside a [[palimpsest]] painting of a laughing Scarecrow purchased by Jess Duncan and opposes the centuries-old Cult of Kalumai.<ref name="DoN11" /> The Scarecrow battled demons at a police station to recover the Horn of Kalumai, which would have allowed Kalumai to travel to earth.<ref name="Spotlight" /> Kalumai later spread his influence through the painting into a man who was then mutated in a fiery creature, and who fought the [[Thing (comics)|Thing]] and the Scarecrow.<ref name="TwoinOne" /> The Straw Man was invited by the [[Dweller-in-Darkness]] to join the [[Fear Lords (comics)|Fear Lords]], but he betrayed them to [[Doctor Strange]].<ref name="DS40" /> During the "[[Fear Itself (comics)|Fear Itself]]" event, Straw Man fought against [[Nightmare (comics)|Nightmare]]'s attempt to use the fear brought by the Serpent to become the King of Fear.<ref>{{cite comic| writer= [[John Denning|Denning, John]]|penciller= [[Richard Elson|Elson, Richard]]|inker= Elson, Richard|story= The Terrorism Myth Conclusion|title= [[Journey into Mystery]]|volume= 4|issue= 636|date= June 2012}}</ref>
+
+==References==
+{{reflist|2}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix/strawman.htm|Straw Man}}
+*{{comicbookdb|type=character|id=8666|title=Straw Man}}
+* [http://www.oelib.com/mtio/mtio18.html ''Marvel Two-in-One'' #18] at ''Marvel Two-in-One'' The Thing and The Ever-Lovin' Blue-Eyed Home Page!
+
+{{Marvel Mystic |state=collapsed}}  
+
+[[Category:Comics characters introduced in 1975]]
+[[Category:Fear Lords]]
+[[Category:Fictional scarecrows]]

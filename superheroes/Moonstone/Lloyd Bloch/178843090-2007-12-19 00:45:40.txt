@@ -1,0 +1,33 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Cap 170.gif|200px|Moonstone on the cover of ''Captain America'' #170]]
+|caption='''Moonstone/Nefarius''' <br>Gil Kane, Art
+|comic_color=background:#ff8080
+|character_name=Nefarius
+|real_name=Lloyd Bloch
+|publisher=[[Marvel Comics]]
+|debut=''Captain America'' #169 (1974)
+|creators=[[Stan Lee]] (story) & [[Jack Kirby]] (art)
+|alliance_color=background:#c0c0ff
+|status=Deceased
+|alliances=
+|previous_alliances=Maggia
+|aliases=Moonstone
+|relatives=
+|powers=(As Nefarius) Seemingly unlimited superhuman Strength, speed and Stamina, laser-vision, invulnerability<br>(As Moonstone) Gravimetric powers derived from alien gem
+|}}
+
+'''Nefarius''' ('''Lloyd Bloch'''), previously known as '''Moonstone''', is a [[fictional character]], a [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]].  He first appeared in ''Captain America'' #169 (1974) and was created by [[Stan Lee]] and [[Jack Kirby]].
+
+==Fictional character biography==
+He was a [[Captain America]] villain affiliated with the [[Secret Empire]], set up by them to take Captain America's place as America's 'symbolic' hero, after the Empire had damaged Cap's reputation by accusing him of vigilantism and framing him for the death of small-time criminal the [[Tumbler (comics)|Tumbler]].  He was empowered by a stone found in the Moon's surface, hence his codename. During the Secret Empire's 'attack' on the White House, he claimed that he could not defeat their plans, intending to discourage resistance from the public, but he was subsequently attacked and defeated by Captain America while the [[Falcon (comics)|Falcon]], [[Cyclops (comics)|Cyclops]] and [[Jean Grey|Marvel Girl]] took out the rest of the Empire's soldiers. After the Secret Empire's defeat he was arrested, and eventually had his alien gem stolen from him by his psychiatrist, [[Moonstone (comics)|Karla Sofen]], who convinced him that it was turning him into a monster, and she subsequently became the second Moonstone.
+
+Bloch later resurfaced with ionic powers similar to those of [[Wonder Man]], bearing the new codename "Nefarius" and claiming to be the son of [[Count Nefaria]]. He planned to take revenge on Sofen, but was apparently killed by Nefaria, when he drained the ionic energy from him.
+
+During the [[Thunderbolts (comics)|Thunderbolts]]' sojourn on [[Counter-Earth (comics)|Counter-Earth]], Sofen encountered Bloch's counterpart who went by the codename '''[[Phantom Eagle]]'''. The alternate Bloch became obsessed with Moonstone and began experiencing psychotic episodes and was exposed as a [[serial killer]]. Sofen proceeded to steal his equivalent stone too.
+
+==External links==
+*[http://www.marvunapp.com/Appendix/commitca.htm#moonstone Information on the first Moonstone at Marvel Universe appendix]
+
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics characters with superhuman strength]]

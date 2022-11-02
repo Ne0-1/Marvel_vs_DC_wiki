@@ -1,0 +1,28 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:ASM073CVR_160ref.jpg|250px]]
+|caption=Art by John Romita
+|comic_color=background:#8080ff
+|character_name=Man Mountain Marko
+|real_name=Michael Marko
+|publisher=[[Marvel Comics]]
+|debut=
+|creators=
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Silvermane (comics)|Silvermane]], [[Maggia (comics)|The Maggia]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=Super-human strength
+}}
+
+'''Man Mountain Marko''' is the name of a [[Marvel Comics]] supervillain.  Michael "Man Mountain" was a member of [[The Maggia]].  He was introduced as the right hand man of [[Silvermane]] in the 73rd [[Amazing Spiderman]] comic.  He was established as a second rate villain immediately, having only one superpower.  He was allied with Silvermane, [[Caesar Cicero]], [[Eel]], and [[Nightshade]].  his enemies are Spiderman, [[Power Man]], [[Ironfist]], [[Thunderbolt]], and [[Boomerang]].
+
+==History==
+{{section-stub}}
+
+==Other Media==
+Man Mountain Marko appeared in the 1981 ''[[Spider-Man (1981 TV series)]]'' cartoon voiced by [[Jack Angel]].
+
+{{Marvel-Comics-stub}}
+[[category:Spider-Man villains]]

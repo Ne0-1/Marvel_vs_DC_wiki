@@ -1,0 +1,75 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image= Vibe.jpg
+|imagesize= 125
+|converted = y
+|caption = Vibe from ''Legends'' #1 (November 1986),</br> artist [[John Byrne]]
+|character_name = Vibe
+|real_name = Paco Ramone
+|publisher=[[DC Comics]]
+|debut = ''[[Justice League of America|Justice League of America Annual]]'' #2, (November 1984)
+|creators = [[Gerry Conway]] (writer)</br>Chuck Patton (artist)
+|Base of operations = 
+|species   = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances = [[Justice League]]<br/>Los Lobos<br/>[[Black Lantern Corps]]
+|partners  = <!-- optional -->
+|supports  = <!-- optional -->
+|aliases   =  <!-- optional: actual identities the character uses, not nicknames -->
+|powers = sonic vibration manipulation, seismic powers
+|cat = super
+|subcat = DC Comics
+|hero = y
+|villain = 
+|sortkey = {{PAGENAME}}
+}}
+
+'''Vibe''' is a [[fictional character]], a [[comic book]] [[superhero]] published by [[DC Comics]]. He first appeared in ''[[Justice League of America|Justice League of America Annual]]'' #2 (November 1984), and was created by [[Gerry Conway]] and Chuck Patton.
+
+==Fictional character biography==
+===Paco Ramone===
+Paco Ramone's career as Vibe began shortly after [[Aquaman]] disbanded the original [[Justice League]]. When young Paco heard that a  [[Justice League#Detroit| new Justice League]] was forming in his own backyard of Detroit, he decided to give up his position as the leader of a local street gang, Los Lobos, to join up.<ref>As seen in ''Justice League of America Annual'' #2 (November 1984)</ref> What made Ramone a candidate was  [[metahuman]] ability to emit powerful vibratory shockwaves. 
+
+Vibe's presence on the team caused Aquaman and the [[Martian Manhunter]] to harbor some strong doubts about the new JLA, particularly after he got the League involved in a rumble with a rival gang.<ref>As seen in ''Justice League of America'' #233 (December 1984)</ref> However, Vibe soon proved his mettle during the League's battles against [[Cadre (comics)|Cadre]],<ref>As seen in ''Justice League of America'' #233-236 (December 1984-February 1985)</ref> Anton Allegro,<ref>As seen in ''Justice League of America'' #237-239 (July-September 1985)</ref> and [[Amazo]].<ref>As seen in ''Justice League of America'' #241-243 (August-October 1985)</ref> He stayed with the League through the ''[[Crisis on Infinite Earths]]'' crossover, when his powers played a vital role in defeating Despero.<ref>As seen in ''Justice League of America'' #254 (September 1986)</ref>
+
+During Darkseid's assault on Earth during the ''[[Legends (comics)|Legends]]'' mini-series, the Justice League of America was disbanded and Paco left his JLA comrades to seek the familiar solace of the streets. Vibe was attacked by one of [[Professor Ivo]]'s androids, and  became the first Justice League member to be killed in the line of duty.<ref>{{Cite comic
+ | Writer = 
+ | Penciller = [[Luke McDonnell|McDonnell, Luke]]
+ | Inker = [[Bob Smith|Smith, Bob]]
+ | Story = [[J.M. DeMatteis|DeMatteis, J.M.]]
+ | Title = Justice League of America
+ | Issue = 258
+ | Date = January, 1987
+ | Publisher = DC Comics
+ | Page = 
+ }}</ref> The Martian Manhunter brought Vibe's body back to the League's mountain sanctuary, where Vibe was laid to rest in a [[cryonics|cryogenic]] chamber. However, Paco's dead form has twice been resurrected by evil-doers.<ref>As seen in ''JLA Annual'' #2 (1998)</ref><ref>As seen in ''Martian Manhunter'' vol. 2 #12 (November 1999)</ref>
+
+====Trinity====
+In the recent ''[[Trinity (comic book)|Trinity]]'' maxi-series, reality is altered, and a living Paco is shown as a member of the '''The League''', an underground version of the Justice League.<ref>As seen in ''Trinity'' #25 (November 2008)</ref> However, soon after [[Superman]], [[Batman]] and [[Wonder Woman]] return, his head is disintegrated by an energy blast, thus killing him again.
+
+===Armando Ramone===
+One of Vibe's younger brothers, Armando, developed a similar set of vibratory powers and joined [[Booster Gold]]'s team of heroes, the  [[The Conglomerate (comics)|Conglomerate]], using the code names '''Reverb''' and later '''Hardline'''.<ref>As seen in ''Justice League Quarterly'' #1 (Winter 1990)</ref>
+He now owns a dance club named Reverb in the Little Tachyon section of Old Town Metropolis <ref>As seen in [[Superman]] Annual #14 </ref>.  (His last name is misspelled as "Remone" in this issue.)
+
+===Blackest Night===
+In an ''Justice League of America'' tie-in to the ''[[Blackest Night]]'' crossover, Vibe was reanimated as a member of the [[Black Lantern Corps]], rising from his coffin in the [[Hall of Justice (comics)|Hall of Justice]].<ref>''Justice League of America'' (vol. 2) #39 (November 2009)</ref> Alongside the Black Lantern [[Commander Steel|Steel]], Vibe attacked his former teammates, [[Gypsy (comics)|Gypsy]] and [[Vixen (comics)|Vixen]], until [[Doctor Light (Kimiyo Hoshi)|Doctor Light]] destroyed him.<ref>''Justice League of America'' (Vol. 2) #40 (December 2009)</ref>
+
+==Other versions==
+Vibe has a major role in an issue of the ''Justice League Unlimited'' comic book series where he stopped [[Doctor Sivana]]'s plan to rebuild [[Mister Atom]].
+
+==Other media==
+===Television===
+Vibe has made several appearances in the show ''[[Justice League Unlimited]].'' He was often seen next to other members of the Detroit League but he did not get a major role in any episode.  His most prominent action is helping rescue civilians in the New Mexico city attacked in "Flashpoint".  He is shown with fellow Detroit-era members Vixen, Steel and Gypsy in the final "curtain call".
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*[http://www.mykey3000.com/cosmicteams/profiles/vibe.html Cosmic Teams: Vibe (Paco Ramone)] 
+*[http://www.dcuguide.com/who.php?name=vibe DCU Guide: Vibe (Paco Ramone)] 
+*[http://www.dcuguide.com/who.php?name=hardline DCU Guide: Hardline (Armando Ramone)]
+
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics superheroes]]
+[[Category:Fictional characters from Michigan]]
+[[Category:1984 comics characters debuts]]
+[[Category:Fictional orphans]]

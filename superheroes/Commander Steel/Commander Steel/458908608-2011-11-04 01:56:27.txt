@@ -1,0 +1,137 @@
+'''Commander Steel''' (also '''Steel''' or '''Citizen Steel''') is the name of three [[fictional character]]s, [[superhero]]es published by [[DC Comics]], all members of the same family. The first Steel appeared in ''Steel, The Indestructible Man'' #1 (1978) published by DC Comics, and was created by [[Gerry Conway]] and [[Don Heck]].<ref>{{cite book|last=McAvennie|first= Michael|last2=Dolan|first2=Hannah, ed.|chapter= 1970s|title = DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]] |year=2010 |isbn= 978-0-7566-6742-9 |page= 177 |quote = Thanks to scripter Gerry Conway and artist Don Heck, the red, white, and blue shone like never before - on the steel-alloyed suit of the World War II cyborg, Steel.}}</ref> His stories were set in [[World War II]]. The two later characters called Steel are his grandsons.
+
+==Publishing history==
+Steel first appeared in a series set in 1939, ''Steel: The Indestructible Man'', written by [[Captain America]] writer [[Gerry Conway]]. The series was canceled after five issues, and Steel later made a guest-appearance in ''[[Justice League of America]]''.<ref>{{Cite comic | Writer = [[J. M. DeMatteis|DeMatteis, J. M.]] | Penciller = [[Luke McDonnell|McDonnell, Luke]] | Inker = [[Steve Montano|Montano, Steve]]  | Story = Flesh! | Title = Justice League of America | Volume = 1 | Issue = 260 | Date = March, 1987 | Publisher = [[DC Comics]] | Page = 22-23 | Panel = | ID = }}</ref> He made a prominent appearance many years later in four issues of the ''Eclipso'' ongoing series, where he was killed. After this, he appeared in issue #2 of the 2010 series, ''DC Universe: Legacies'', which chronicled the superheroes of the 1940s. Steel or Commander Steel also appeared in and was a memeber of the World War II era All Star Squadron comics.
+
+Starting in 1984, the second Steel appeared as one of the lead characters in ''Justice League of America'',<ref>{{cite book|last=Manning|first= Matthew K.|last2=Dolan|first2=Hannah, ed.|chapter= 1980s|title = DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]] |year=2010 |isbn= 978-0-7566-6742-9 |page= 209 |quote = The prestigious Justice League of America got a bit easier to join, thanks to writer Gerry Conway and artist Chuck Patton. Marking the debut of camouflaging hero Gypsy, the shockwave-casting Vibe, and the second generation hero Steel, this landmark comic saw many of the more famous League members step down in order to make way for a younger roster to carry on their legacy.}}</ref> until its cancellation during the ''[[Legends (comics)|Legends]]'' crossover in 1987. He made a single appearance several years later in issue #38 of ''Justice League America'', a continuation of ''[[Justice League International]]'', where he was killed off. In 2006, he played a leading posthumous role in a single story arc of ''[[JLA Classified]]'', which chronicled a previously unrevealed adventure of the Detroit-era JLA. In 2010, he played a major role in the two-issue ''Justice League of America'' (vol. 2) tie-in to ''[[Blackest Night]]'', where he was temporarily resurrected.
+
+The third Steel made his debut in the 2007 relaunch of ''Justice Society of America'', where he appeared for several years until the team was split into two separate groups by writers [[Bill Willingham]] and [[Matt Sturges]]. He currently appears as one of the lead characters in ''[[JSA All-Stars]]''.
+
+==Fictional character biography==
+===Henry Heywood===
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image= [[Image:Steelindestructman1 1978.jpg|200px]]
+|caption= ''Steel, The Indestructible Man'' # 1, artist [[Don Heck]]
+|character_name = Commander Steel
+|publisher = [[DC Comics]]
+|debut = ''Steel, The Indestructible Man'' # 1 (March 1978)
+|creators = [[Gerry Conway]] (writer)<br>[[Don Heck]] (artist)
+|real_name = Henry "Hank" Heywood
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances =[[United States Marine Corps]]<br/>[[All-Star Squadron]]<br/>[[Shadow Fighters (comics)|Shadow Fighters]]
+|aliases =Steel
+|supports = <!-- optional -->
+|powers = Cyborg, great strength, limited invulnerability, limited superspeed
+|}}
+
+The World War II version of the character, Henry Heywood, enlisted in the U.S. Marine Corps prior to the United States involvement in the war, but was injured when saboteurs, spearheaded by the man who would become [[Baron Blitzkrieg]], attacked his base. Heywood had been a biology student under the tutelage of Doctor Gilbert Giles, and his former professor performed extensive surgery on him, enhancing his damaged body with mechanized steel devices that gave him superhuman strength, speed, and durability.  At the request of Doctor Giles, Heywood kept his newfound gifts a secret, and was returned to service in a desk position.<ref name="dc-ency">{{Cite book  | last = Wallace | first = Dan | author-link = | contribution = Commander Steele | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | page = 86  | publisher = [[Dorling Kindersley]]  | place = New York  | year = 2008 | isbn = 0-7566-4119-5 | oclc = 213309017}}</ref> Frustrated at his inability to help more directly, Heywood adopted the masked-hero persona "Steel", and was attempting to steal armaments from the military base where he worked—to send to those more directly in the war's fray—when some [[fifth column]]ist saboteurs broke into the base. Heywood defeated the saboteurs,<ref>{{Cite comic | Writer = [[Gerry Conway|Conway, Gerry]] | Penciller = [[Luke McDonnell|McDonnell, Luke]] | Inker =  [[Don Heck|Heck, Don]] | Story = From Hell is Forged ...A Hero! | Title = Steel: The Indestructible Man | Volume = 1 | Issue = 1 | Date = March, 1978 | Publisher = [[DC Comics]] | Page = 18 | Panel = 4 | ID = }}</ref> and embarked on a career fighting foreign threats and other criminals before America went to war.
+
+Heywood entered more directly into [[World War II]] as a secret weapon before he allied himself with the [[All-Star Squadron]]. In that time he was commissioned '''Commander Steel''' by <!-- Has this been retconned? -->[[Winston Churchill|British Prime Minister Winston Churchill]]<!-- I just checked in All-Star Squadron #8, and during an attempted assassination of British Prime Minister Winston Churchill Hank Heywood (Steel) leaped in front of the laser beam aimed at Churchill and prevented the assassination.  In return Churchill honoured Heywood by dubbing him Commander Steel, so in the original timeline it was Churchill, not FDR who first called Heywood, Commander Steel, instead of Steel -->. His membership in the Squadron was only for a brief period as ''[[Crisis on Infinite Earths]]'' caused him to shift from his native [[DC Multiverse|Earth-Two]] to the Post-Crisis Earth, wherein he retired from his superhero career as there were no active costumed heroes at that time on his new home.
+
+Years later, as a wealthy industrialist, he incorporated the same mechanized components into his grandson, Hank Heywood III.
+
+After his grandson's death, Heywood resumed the mantle of Commander Steel and died battling the supervillain [[Eclipso]], while a member of the [[Shadow Fighters (comics)|Shadow Fighters]]. He did come to a heroic end - detonating the Sunburst 300 (a device meant to destroy Eclipso) as his teammate [[Nemesis (DC Comics)#Tom Tresser|Nemesis]] escaped.<ref name="dc-ency"/>
+{{-}}
+
+===Hank Heywood III===
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = [[Image:Steel-heywood.jpg|250px]]
+| caption = Art by [[Tom Derenick]].
+| character_name = Steel
+| publisher = [[DC Comics]]
+| debut = ''Justice League of America Annual'' # 2 (1984)
+| creators = [[Gerry Conway]]
+| alter_ego = Henry "Hank" Heywood III
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = [[Justice League]]  
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers =[[Superhuman strength]], limited invulnerability, limited superspeed
+|}}
+The second Steel was the late '''Henry "Hank" Heywood III'''. Commander Steel, a wealthy industrialist, incorporated the same mechanized components into his grandson, much to his grandson's disapproval. Heywood III was a "[[Justice League Detroit]]" team member, and was mortally wounded in battle against an android belonging to one of the team's classic foes, [[Professor Ivo]].<ref>{{Cite comic | Writer = [[J. M. DeMatteis|DeMatteis, J. M.]] | Penciller = [[Luke McDonnell|McDonnell, Luke]] | Inker = [[Steve Montano|Montano, Steve]] | Story = Flesh! | Title = Justice League of America | Volume = 1 | Issue = 260 | Date = March, 1987 | Publisher = [[DC Comics]] | Page = 16-20 | Panel = | ID = }}</ref> His body remained preserved in the JLA Bunker until it was discovered and destroyed by [[Despero]].
+
+Although it was originally stated that Heywood performed unnecessary surgeries on his grandson, it was later revealed in ''Justice League of America'' #260 that if he hadn't made his grandson into Steel, "''Hank would have been dead... years ago.''"<ref name=dead>{{Cite comic | Writer = [[J. M. DeMatteis|DeMatteis, J. M.]] | Penciller = [[Luke McDonnell|McDonnell, Luke]] | Inker = [[Steve Montano|Montano, Steve]] | Story = Flesh! | Title = Justice League of America | Volume = 1 | Issue = 260 | Date = March, 1987 | Publisher = [[DC Comics]] | Page = 22 | Panel = | ID = }}</ref> This is questionable, as Hank later remarked that his grandfather may have been driven insane by the metal in his skull.<ref>''Justice League of America'' (vol. 2) #40</ref>
+
+In a ''Justice League of America'' tie-in to the ''[[Blackest Night]]'' crossover, Steel was reanimated as a member of the [[Black Lantern Corps]] in the [[Hall of Justice (comics)|Hall of Justice]].<ref>''Justice League of America'' (vol. 2) #39 (November 2009)</ref> Alongside the Black Lantern [[Vibe (comics)|Vibe]], Steel attacked his former teammates, [[Gypsy (comics)|Gypsy]] and [[Vixen (comics)|Vixen]], until [[Doctor Light (Kimiyo Hoshi)|Doctor Light]] destroyed him.<ref>''Justice League of America'' (Vol. 2) #40 (December 2009)</ref> During a later battle between the Justice League and [[Crime Syndicate of America]] at the Hall of Justice, Steel's remains were destroyed by [[Superwoman#Crime Syndicate of America|Superwoman]]. The villainess even went so far as to use one of Steel's severed legs as a club, which she proceeded to use to bludgeon [[Donna Troy]].<ref>''Justice League of America'' (vol. 2) #51</ref>
+{{-}}
+
+===Nathan Heywood===
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| title = 
+| image = [[Image:Citizensteel.jpg|250px]]
+| imagesize = 190
+| caption = Art by [[Alex Ross]].
+| character_name = Citizen Steel
+| publisher = [[DC Comics]]
+| debut = ''Justice Society of America'' (vol. 3) # 1 (February 2007)
+| creators = [[Geoff Johns]]<br>[[Alex Ross]]
+| alter_ego = Nathan Heywood
+| full_name = 
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = [[Justice Society of America]]
+| aliases =
+| supports=<!--optional-->
+| powers = [[Superhuman strength]], invulnerability, organic metal skin}}
+The relaunched ''Justice Society of America'' features another member of the Heywood family. During an interview to [[Newsarama]], new series writer [[Geoff Johns]] announced him as a brand new character with new powers.<ref>{{cite web |url=http://forum.newsarama.com/showthread.php?t=79802 |title= Newsarama |accessdate= |work= |publisher= |date= }}</ref> He debuted in ''Justice Society of America'' #2 with the name of '''Nathan "Buckeye" Heywood'''.
+
+Nathan is the grandson of Henry Heywood and cousin of Henry Heywood III. Formerly a football star at [[The Ohio State University]], Nathan retired after shattering his [[patella|kneecap]] and having his leg amputated due to an undiagnosed infection. The incident left Nathan addicted to [[painkillers]].
+
+While attending a Heywood family reunion, he is attacked by the Fourth Reich, a team of metahuman [[Neo-Nazi]]s ordered by [[Vandal Savage]] to wipe out the bloodlines of [[Golden Age of Comic Books|Golden Age]] heroes. The Fourth Reich fails to completely destroy the Heywood bloodline, as both Nathan and a few children manage to survive. Both Nathan's brother and mother are turned to metal statues by the villain Reichsmark. Nathan jams his crutch into Reichsmark's mouth, causing him to spit liquid metal blood onto Nathan. [[Hawkman (Carter Hall)|Hawkman]] takes him to [[Doctor Mid-Nite#Pieter Cross|Dr. Mid-Nite]], who notes that the metal is being absorbed by Nathan's skin.
+
+Later, it is revealed that the metal has grown out from where Nathan's amputated leg once was, forming metallic bone, muscles, and flesh. Waking in his hospital room, Nathan is shown to have superhuman strength. Dr. Mid-Nite informs Nathan that he is now a being of living steel, due to an unknown reaction to Reichsmark's blood. However, the steel tissues do not give Nathan tactile response, meaning he cannot feel textures or temperatures, nor gauge exerted pressures, and his weight has greatly increased, causing his footsteps to crack the ground. He is given a costume, a "second skin" of a stainless steel alloy developed by Dr. Mid-Nite and [[Mister Terrific (Michael Holt)|Mr. Terrific]] specifically to restrict his movements and reduce his strength to a more manageable level. They chose the costume's colors because of Heywood's heritage. He then joins the Justice Society to defeat the Fourth Reich.<ref name="dc-ency"/> Afterwards, the press asks if he is the new Commander Steel. Nathan denies it, saying that he is just an ordinary citizen, and so he is christened "Citizen Steel" by [[Power Girl]].<ref>{{Cite comic|writer = |penciller = |inker =  |story =  |title = Justice Society of America |volume = |issue = 7 |date = |publisher = [[DC Comics]]|location = |page = |panel = |id =}}</ref>
+
+When the Third World survivor [[Gog (comics)|Gog]] appears, Nathan is one of the JSA members who sides with him, hoping that Gog can restore his sense of touch.<ref>''Justice Society of America'' (vol. 3) #19</ref> It is later revealed that Gog is rooting himself into the Earth, which would cause its destruction if he ever left, and when the unconverted JSAers battle him, they are blown away by winds created by Gog. Nathan alone is able to withstand the winds. Gog offers Nathan his greatest wishes fulfilled if he sides with him and worships him, but Nathan refuses, and joins the fight against him. For this act, Gog induces excruciating pain in Nathan.<ref>''Justice Society of America'' (vol. 3) #21</ref> Nathan then tears off his suit and unleashes his full strength against Gog, actually managing to topple the giant, which gives Gog's former herald [[Lance (DC Comics)|Magog]] the chance to cut off his head and send him to the [[Source Wall]].<ref>''Justice Society of America'' (vol. 3) #22</ref>
+
+Following Gog's defeat, Nathan takes time off from the JSA to be with his family. This consists of survivors of the attack on the reunion, various children, most of whom call him 'Uncle Nathan'<ref>''Justice Society of America'' (vol. 3) #23</ref> or 'Uncle Nate'.<ref>''Justice Society of America'' (vol. 3) #9</ref>
+
+During the events of ''[[Blackest Night]]'', Nathan helps fight off the hordes of Black Lanterns attacking Manhattan. He tries to help Power Girl during her battle with the newly reanimated [[Superman (Earth-Two)|Kal-L]], but is knocked aside by the hero, who mockingly refers to him as a "paperweight" compared to him.<ref>''Blackest Night: JSA'' #3</ref>
+
+Following the split in the Justice Society, Nathan opted to join Power Girl's more youth-oriented team of ''[[JSA All-Stars]]''.<ref>''JSA All-Stars'' #1</ref>
+
+==Powers and abilities==
+Originally Commander Steel could only lift 1,000 pounds, but when he appeared in the pages of the ''[[All Star Squadron]]'' he was attributed 'super human' strength without an exact limit.  He is by no means as strong as [[Superman]] or [[Wonder Woman]], but he is able to hold his own with [[Robotman (comics)|Robotman]] and [[Baron Blitzkrieg]].
+
+Citizen Steel's metallic body grants him superhuman strength and allows him to take direct blows from opponents as powerful as [[Gog (comics)|Gog]], and remain standing, and in turn knocking him to the ground - the only one in the JSA able to do so. His alloy suit limits his strength to controllable levels but a cost of slowing him down. Upon removing his suit, he is able to unleash his full strength without a speed penalty.<ref>{{Cite comic | writer =  | penciller =  | inker =  | story =  | title = Justice Society of America | volume =  | issue = 15 | date =  | publisher = [[DC Comics]] | location =  | page =  | panel =  | id = }}</ref>
+
+==In other media==
+===Television===
+[[File:Csteel.jpg|thumb|right|Commander Steel in ''[[Justice League Unlimited]]'' in the series finale episode "Destroyer".]]
+*Hank Heywood appeared several times as Commander Steel in the ''[[Justice League Unlimited]]'' series. Aside from a few grunts, Commander Steel never spoke throughout the entire series. In the [[series finale]] episode, "Destroyer", he saved [[Hawkgirl]] from being killed by a [[Parademon]] by [[Captain America | throwing a shield]] at it. Also in "Destroyer", he is seen running down the Metro Tower stairs with [[Vibe (comics)|Vibe]], [[Vixen (comics)|Vixen]], and [[Gypsy (comics)|Gypsy]], the four characters created by [[Gerry Conway]].<ref>{{cite web|url=http://www.youtube.com/watch?v=sap4fPgZzIc&feature=channel |title=Commander Steel in "Destroyer" |publisher=Youtube.com |date= |accessdate=2011-01-15}}</ref>
+* In [[Batman: The Brave and the Bold]] episode "Powerless", he is referred to in [[Aquaman]] sings his rousing of heroism he appears as Commander Steel as one of the heroes.
+
+===Toys===
+*The original Commander Steel, Henry Heywood, was the first figure released in the [[DC Universe Classics#Wave Eight|eighth wave]] of the [[DC Universe Classics]] line.
+
+Commander Steel was also released through the Mattel Justice League Unlimited line, coming in a six-pack with Superman, Crimson Fox, B'Wanna Beast, Deadman, and Vibe.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.toonopedia.com/steel1.htm Steel] at [[Don Markstein's Toonopedia]]
+*{{DCDP|Commander Steel (Hank Heywood)|Steel}}
+
+[[Category:Fictional commanders|Steel]]
+[[Category:United States-themed superheroes]]
+[[Category:Earth-Two]]
+[[Category:Fictional amputees]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics superheroes]]
+[[Category:Fictional cyborgs]]
+[[Category:Fictional players of American football]]
+[[Category:1978 comic debuts]]
+[[Category:Comics characters introduced in 1978]]
+[[Category:Comics characters introduced in 1984]]
+[[Category:Comics characters introduced in 2007]]
+[[Category:Characters created by Don Heck]]
+[[Category:Characters created by Gerry Conway]]
+[[Category:Characters created by Geoff Johns]]
+[[Category:Characters created by Alex Ross]]
+
+[[it:Comandante Acciaio]]
+[[pt:Comandante Gládio]]
+[[tl:Commander Steel]]

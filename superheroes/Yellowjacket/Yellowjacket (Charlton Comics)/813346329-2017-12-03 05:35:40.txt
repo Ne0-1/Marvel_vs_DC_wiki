@@ -1,0 +1,51 @@
+{{refimprove|date=February 2017}}
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = [[File:Yellowjacketcomics3.jpg|200px]]
+| caption = Yellowjacket, on the cover to ''Yellowjacket Comics'' #3 (November 1944)
+| character_name = Yellowjacket
+| publisher = [[Charlton Comics]]
+[[DC Comics]]
+| debut = ''Yellowjacket Comics'' #1 (September 1944)
+| creators =
+| alter_ego = Vince Harley
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = <!-- optional -->
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| relatives =
+| supports=<!--optional-->
+| powers = Ability to control [[yellowjacket]]s.
+}}
+'''Yellowjacket''' is a fictional [[super-hero]], and the first to be published by the company that would become [[Charlton Comics]]. He first appeared in ''Yellowjacket Comics'' #1 (September 1944)
+
+== Publication history ==
+Yellowjacket starred in his own title, ''Yellowjacket Comics'', which was published for ten issues from 1944 to 1946. There was no artist or writer credited for the stories. These ten issues were published by "E. Levy/Frank Comunale", which later became Charlton. When the title was renamed ''Jack in the Box'', Yellowjacket appeared in the first issue, #11. He also appeared in ''TNT Comics'' #1, which was published by "Charles Publications".
+
+Due to copyright laws at the time of his inception, Yellowjacket lapsed into the public domain on the 28th anniversary of his initial published appearance.
+
+Yellowjacket finally makes his [[DC Comics]] debut in [[Grant Morrison]]'s [[The Multiversity]] series. He is the first superhero on Earth 4, as well as the father of the [[President of the United States]] on that Earth.<ref>{{cite web|url=http://www.avclub.com/article/morrison-and-quitely-tackle-watchmen-and-modern-su-212146|title=Morrison and Quitely tackle Watchmen and modern superheroes in Pax Americana|date=21 November 2014|work=avclub.com}}</ref>
+
+== Fictional character biography ==
+Yellowjacket's secret identity is crime writer, Vince Harley. After a group of jewel robbers attempted to kill him by pouring a box of [[yellowjacket]]s on him, he found that he had gained the ability to control the insects, and used that ability to fight crime while wearing a yellow costume with a black and yellow striped cape resembling the markings of said insect.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.internationalhero.co.uk/y/yelljack.htm Yellowjacket's page at International Superheroes]
+* [http://www.majorspoilers.com/archives/3982.htm A Hero History Of Yellowjacket]
+* [http://www.toonopedia.com/yelojakt.htm Yellowjacket (1944)] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6bTBTlVk7 Archived] from the original on September 11, 2015.
+
+[[Category:Charlton Comics superheroes]]
+[[Category:Charlton Comics titles]]
+[[Category:Golden Age superheroes]]
+[[Category:Fictional writers]]
+[[Category:1944 comics debuts]]
+[[Category:Comics characters introduced in 1944]]
+[[Category:American comics characters]]
+[[Category:Fictional American people]]
+[[Category:Public domain comics]]
+
+
+{{comics-char-stub}}

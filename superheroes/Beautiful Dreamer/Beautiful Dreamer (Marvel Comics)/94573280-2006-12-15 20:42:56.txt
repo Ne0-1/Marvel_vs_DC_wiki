@@ -1,0 +1,32 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Beautiful Dreamer
+|real_name=''unrevealed''
+|species=[[mutant (fictional)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Power Pack]]'' (1st series) #12
+|creators=[[Louise Simonson]]<br>[[June Brigman]]
+|alliance_color=background:#ffc0c0
+|status=[[Decimation (comics)|Depowered]]
+|alliances=[[The 198]]
+|previous_alliances=[[Morlocks (comics)|Morlocks]]
+|aliases=
+|relatives=
+|powers=Psionically alter the memories via her special "dream smoke".
+|}}
+
+'''Beautiful Dreamer''' is a fictional [[mutant (fictional)|mutant]] character in the [[Marvel Comics]] Universe. Her first appearance was in ''[[Power Pack]]'' #12.
+
+==Fictional character history==
+The woman mutant only known as Beautiful Dreamer was among the few members of the [[Morlocks (comics)|Morlocks]] to survive the [[Marauders (comics)|Marauders]]' "[[Mutant Massacre]]", during which most members of her community were killed. Since the original [[X-Factor (comics)|X-Factor]] team rescued her from the massacre, Beautiful Dreamer has returned to the tunnels beneath [[New York]], and has kept a low profile. Beautiful Dreamer's real name and her past prior to joining the Morlocks remain unknown. She followed the terrorist Morlock leader [[Masque (comics)|Masque]] for a time and committed criminal acts by manipulating others with her mental powers at his behest. However, Beautiful Dreamer's primary motivation for doing so, as with most of her fellow Morlocks, is presumed to be her desire for company and community. Beautiful Dreamer is one of the 198 mutants who have retained their powers after the events of [[Decimation (comics)|M-Day]].
+
+==Powers== 
+She possesses the ability to psionically alter the memories of others using her special "dream smoke" as a focus.
+
+{{Marvel-comics-stub}}
+
+[[Category:Morlocks members]]
+[[Category:Marvel Comics mutants]]
+[[Category:The 198 Files]]

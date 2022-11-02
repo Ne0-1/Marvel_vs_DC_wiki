@@ -1,0 +1,61 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Bova
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[The Avengers (comic book)|Giant-Size Avengers]]'' #1 (August 1974)
+| creators       = [[Roy Thomas]]<br>[[Rich Buckler]]
+| alter_ego      = 
+| full_name      = Bova Ayrshire
+| species        = Uplifted [[Guernsey cattle|Guernsey Cattle]]
+| homeworld      = <!-- optional -->
+| alliances      = [[New Men (Marvel Comics)|New Men]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = The Old Woman on the Hill
+| powers         = 
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = 
+| sortkey        = 
+| addcharcat#    = 
+}}
+'''Bova''' is a fictional character from [[Marvel Comics]].
+
+==Publication history==
+{{expand-section|date=March 2016}}
+Bova first appeared in ''[[The Avengers (comic book)|Giant-Size Avengers]]'' #1 and was created by [[Roy Thomas]] and [[Rich Buckler]].
+
+==Fictional character biography==
+Bova is one of the [[New Men (Marvel Comics)|New Men]] (creatures genetically engineered by the [[High Evolutionary]]) where she was uplifted from a [[Guernsey cattle]].
+
+A woman named Magda—pregnant with twins [[Quicksilver (comics)|Pietro Maximoff]] and [[Scarlet Witch|Wanda Maximoff]]—takes sanctuary at [[Wundagore|Mount Wundagore]] in [[Transia]], the home of the High Evolutionary, after seeing her husband [[Magneto (comics)|Magnus]] use his magnetic powers for the first time.  Fearing that Magnus would discover the children, Magda leaves the sanctuary and dies of exposure to the elements. The twins are attended by Bova. Bova soon assists the [[World War II]] superheroine [[Miss America (Marvel Comics)|Miss America]] through labor, but the birth results in a stillborn child and Miss America loses her own life in the process.  Bova hides the truth from her husband [[Whizzer (Robert Frank)|Robert Frank]] and claims that only the mother has died, and that he now has twin children. Frank is shocked at the death of his wife and flees at super speed.<ref name="Avengers' 1979">{{cite comic |writer=[[Mark Gruenwald|Gruenwald, Mark]], [[Steven Grant|Grant, Steven]], and [[David Michelinie|Michelinie, David]] |penciller=[[John Byrne (comics)|Byrne, John]] |inker[[Dan Green (artist)|Green, Dan]] |story=The Yesterday Quest! |title=The Avengers |issue=185 |date=July 1979}}</ref><ref>{{cite comic |writer=Gruenwald, Mark, Grant, Steven, and Michelinie, David |penciller=Byrne, John |inker=Green, Dan |story=Nights of Wundagore! |title=The Avengers |issue=186 |date=August 1979}}</ref><ref>{{cite comic |writer=Gruenwald, Mark, Grant, Steven, and Michelinie, David |penciller=Byrne, John |inker=Green, Dan |story=The Call of the Mountain Thing! |title=The Avengers |issue=187 |date=September 1979}}</ref> Bova therefore serves as the foster mother to Pietro and Wanda. She was also used by the High Evolutionary to raise and nurture the young New Men as their [[nanny]].<ref>''[[Avengers (comics)|Giant-Size Avengers]]'' #1 (Aug. 1974)</ref>
+
+Wanda and Pietro—as adults, now known as the superheroes the Scarlet Witch and Quicksilver—are abducted by Django Maximoff and taken to Wundagore. Wanda is temporarily possessed by the [[Demons in the Marvel Universe|demon]] [[Chthon (Marvel Comics)|Chthon]], but after being released is advised by Bova that neither Frank nor Maximoff is their biological father.<ref name="Avengers' 1979"/> [[Modred the Mystic]] had been under Chthon's control, and with Chthon's defeat Modred was mentally damaged by the battle, and was left with the intellect of a child. He lost his sanity and knowledge of magic, and was left in the care of Bova.<ref>''Avengers'' #185–187</ref>
+
+During the [[limited series]] ''Vision and the Scarlet Witch'', Magneto forces Bova to reveal the truth about his missing children, who are revealed to be Pietro and Wanda.  When Magneto injured Bova and destroyed her cottage, Modred wandered away, subconsciously seeking his native England.<ref>''Vision and the Scarlet Witch'' #1–4 (Nov. 1982 – Feb. 1983)</ref>
+
+After the High Evolutionary nearly lost his life at the hands of the [[Man-Beast]], New Men Delphis and Bova assist the Evolutionary and he was able to restore himself to an un-evolved human state and mental stability using Isotope G.<ref>''Heroes for Hire & Quicksilver Annual 1998''</ref>
+
+Bova also serves as a nanny for [[Spider-Woman (Jessica Drew)|Jessica Drew]] as revealed in ''Spider-Woman: Origin''.<ref>''Spider-Woman: Origin'' (2005) #2</ref>
+
+==Powers and abilities==
+Bova possesses dense horns, has a solid frame, and possesses some degree of super-strength.
+
+Bova's skills include cooking, nursing, and caretaking.
+
+==In other media==
+===Television===
+* Bova appears in the ''[[X-Men (TV series)|X-Men]]'' episode "Family Ties". [[Quicksilver (comics)|Quicksilver]] and [[Scarlet Witch]] came to Wundagore to find Lady Bova, who reveals that [[Magneto (comics)|Magneto]] is responsible for their mother's death.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix2/bovanewmen.htm|Bova}}
+
+[[Category:Fictional genetically engineered characters]]
+[[Category:Marvel Comics characters]]

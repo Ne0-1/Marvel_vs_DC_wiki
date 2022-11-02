@@ -1,0 +1,57 @@
+{{Superherobox| <!--This box is part of Wikipedia:WikiProject Comics. See that article for details-->
+|image=[[image:Mister Negative.jpg|250px]]
+|caption=Mr. Negative.<br>Art by [[Steve McNiven]].
+|character_name=Mister Negative
+|real_name=Martin Li
+|publisher=[[Marvel Comics]]
+|debut=''[[Amazing Spider-Man]]'' #546 (Jan 2008)
+|creators=[[Dan Slott]]<br>[[Steve McNiven]]<br>[[Phil Jimenez]]
+|alter_ego =
+|alliances =
+|aliases = 
+|powers = [[Super-strength]], ability to swap between a [[monochromatic]] and regular appearance.
+}}
+
+'''Mister Negative''' ('''Martin Li''') is a [[Fictional character|fictional]] [[Marvel Comics]] [[supervillian]] created by [[Dan Slott]], [[Steve McNiven]], and [[Phil Jimenez]]. He is a new enemy of [[Spider-Man]] and The [[Punisher]]. Mister Negative was introduced in a cameo in ''Amazing Spider-Man: Swing Shift'' (May 2007); a [[Free Comic Book Day]] issue set after the events of ''[[Spider-Man: One More Day]]''. Mister Negative's first full appearance came in ''[[Amazing Spider-Man]]'' #546 (Jan 2008); the start of the [[Spider-Man: Brand New Day|''Brand New Day'']] storyline.
+
+Mister Negative is the first villain in the ''[[Spider-Man: Brand New Day|Brand New Day]]'' storyline of [[Spider-Man]]<ref>[http://www.cnn.com/2008/SHOWBIZ/books/01/17/spider.man.single.ap/index.html?iref=newssearch Oh no! Is it splitsville for Spider-Man and MJ?]</ref><ref>"[http://www.usatoday.com/life/books/news/2008-01-09-spider-man-marriage_N.htm?loc=interstitialskip&POE=click-refer Comic fans fume as Marvel erases Spidey-MJ marriage]" By David Colton, ''USA TODAY''</ref>, immediately following the events of [[Spider-Man: One More Day|''One More Day'']]. His connection to Peter Parker's Aunt May, through his legit cover, and his possession of Spider-Man's blood alludes to a possible conflict in the future.
+
+==Fictional character biography==
+Martin Li is a seemingly good willed [[philanthropist]] who runs a soup kitchen in [[Chinatown]], the F.E.A.S.T. Project (Food, Emergency Aid, Shelter and Training), where (Spider-Man) [[Peter Benjamin Parker|Peter Parker]]'s [[Aunt May]] volunteers.<ref name="ASM546">''Amazing Spider-Man'' #546 (January 2008)</ref>  Neither Peter nor May are aware of Li's dual identity as a [[Chinatown]] crime boss under the name '''Mister Negative'''.<ref name="ASM548">''Amazing Spider-Man'' #548 (January 2008)</ref>  Despite being a crime lord, Li is a seemingly kind and generous man.  The F.E.A.S.T. Project has displayed healing powers for people of various illnesses, although the cause of this healing has yet to be revealed.  
+
+It is possible that Li's Mister Negative persona is due to some sort of split personality disorder, and this theory is widely held among readers. He invited Eddie Brock into a room he considers his "Sanctuary", resembling an office done in Feng Shui, where he has a Go board on a table where every day he moves a white piece.  He claims that some days he enters to find a black piece has been moved.  It does not bother him, as he "has learned to enjoy the game." <ref name="ASM569">''Amazing Spider-Man'' #569 (August 2008)</ref>   The name "negative" implies an opposite.  As both Li and Mister Negative, he is involved with several running plotlines in the Amazing Spider-Man.
+
+During the first story of the [[Spider-Man: Brand New Day|''Brand New Day'']], Mister Negative first comes into conflict with Spider-Man when he makes a power play toward taking control of [[New York]]'s criminal underworld by attempting to wipe out all existing members of a Karnelli and [[Maggia (comics)|Maggia]] crime families using a [[DNA]] specific [[bioweapon]] called the "Devil's Breath".<ref>''Amazing Spider-Man'' #546-548</ref>
+ 
+Martin Li endorses Bill Hollister for mayor of New York City, putting him against Randall Crowne, who has him added to a list of opponents (many of whom become targets of the villain [[Menace (comics)|Menace]]). It also causes him to become the target of a smear campaign by Dexter Bennet, editor of the [[Daily Bugle|DB]] and supporter of Randall Crowne.<ref>''Amazing Spider-Man'' #558</ref> 
+
+Mister Negative later recruits [[Hammerhead (comics)|Hammerhead]] and offers to put his brain in a new robotic adamantium skeleton after having been shot point blank in the head by [[Underworld (comics)| Underworld]].<ref> Amazing Spider-Man EXTRA!, July 2008</ref>
+
+Mister Negative eventually comes across [[Eddie Brock|Eddie Brock]] and gives him a job at his soup kitchen. A touch of him causes his cancerous cells to completely disappear. Also, the remains of the [[Venom (comics)|Venom]] [[Symbiote (comics)|symbiote]] fuse with Brock's white blood cells, causing him to become Anti-Venom during a conflict with [[Mac Gargan]], the current Venom.<ref>''Amazing Spider-Man'' #569</ref>  After the F.E.A.S.T center is torn apart during the fight between the two, Li discovers from a group of sweatshop workers (from a shop owned by Crowne) that they were experimented on with drugs from Oscorp, although the ramifications of this have yet to be seen.<ref>''Amazing Spider-Man'' #572</ref>
+
+==Powers and abilities==
+As Mister Negative, Li's appearance resembles that of a [[photographic negative]]. He also speaks in a reverse colored text bubble.
+
+Mr. Negative charges up a knife with black electrical energy<ref name="ASM546"/> and transforms into his civilian identity in the same manner.<ref name="ASM548"/>  During an encounter in ''Amazing Spider-Man'' #548, Spider-Man notes that Mr. Negative possesses some degree of superhuman strength. 
+
+Mr. Negative also seems to hold some sort of power over cells, as seen in ''[[The Amazing Spider-Man (comic book)|The Amazing Spider-Man]]'' #568, where a simple touch completely cures [[Eddie Brock]] of his [[cancer]], and combines the remnants of the [[Venom (comics)|Venom]] symbiote in his blood with his white blood cells, creating a new symbiote named [[Anti-Venom]].
+
+Mr. Negative is often accompanied by several [[Henchmen#In_popular_culture|henchmen]], known as his '''Inner Demons''',<ref name="ASM547">''Amazing Spider-Man'' #547 (January 2008)</ref> who wear Dragon style masks and use [[high tech]] electrified versions of Japanese weapons including the [[Bō]] and [[Nunchaku]].
+
+Mr. Negative has also access to advanced technology and secret laboratories, in which he's able to give his subject medical care far more advanced than the one available to the general public <ref> Amazing Spider-Man EXTRA!, July 2008</ref>.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.comicvine.com/mister-negative/49969/ Mister Negative (comicvine.com)]
+
+{{Spider-Man}}
+
+[[Category:Fictional characters from New York City]]
+[[Category:Fictional mobsters]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Spider-Man]]
+
+[[it:Mister Negativo]]

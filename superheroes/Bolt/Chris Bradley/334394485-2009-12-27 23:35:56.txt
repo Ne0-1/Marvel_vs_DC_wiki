@@ -1,0 +1,60 @@
+{{Infobox comics character  <!--Wikipedia:WikiProject Comics-->
+|character_name = Chris Bradley
+|image=BoltComics.jpg
+|converted=y
+|caption =Bolt, from ''New Warriors'' (vol. 2) #5. <br />Pencils by [[Karl Kerschl]] and [[Chris Renaud (artist)|Chris Renaud]]. 
+|real_name = Christopher "Chris" Bradley
+|species=[[Mutant (Marvel comics)|Human Mutant]]
+|publisher = [[Marvel Comics]]
+|debut = ''X-Men Unlimited'' vol. 1 #8 (October, 1995)
+|creators = [[Howard Mackie]] (writer), [[Tom Grummett]], Dan Lawlis (co-artists)
+|alliances = [[New Warriors]]<br />[[Underground (comics)|Underground]]<br />[[Gene Nation]]
+|aliases = [[Bolt (comics)|Bolt]], [[Maverick (comics)|Maverick]]
+|powers = Able to generate and control electricity (electrokinesis)
+|cat=super
+|subcat=Marvel Comics
+|hero=y
+|sortkey=Bradley, Chris
+}}
+'''Christopher Bradley''', formerly known as '''Bolt''' and '''Maverick''', is a [[fictional character]], a young [[Mutant (Marvel comics)|mutant]] in the [[Marvel Universe]], who first appeared in ''[[X-Men Unlimited]]'' #8. 
+
+==Fictional character biography==
+===Legacy Virus===
+Chris Bradley was first introduced as a young boy who began suffering from increasingly painful headaches.  The headaches accumulated into his electrical mutant powers which manifested and grew out of control in the middle of a class at school, leaving him unconscious.  He was rescued, however, by [[Jean Grey]] and [[Gambit (comics)|Gambit]], who had been sent by Professor Xavier to keep an eye on him and approach him should his powers reveal themselves.  After taking him home, the [[X-Men]] offered him training at the [[X-Mansion|Xavier Institute for Gifted Youngsters]].  At first Chris was reluctant, but after being shunned by his best friend, agreed to join the school.{{issue}}
+
+Chris spent several weeks at the school, quickly developing close friendships with the X-Men, particularly [[Iceman (comics)|Iceman]], whose own youthful personality seemed to connect well with Chris'.  However, when the [[Beast (comics)|Beast]] ran a medical test on Chris, it was revealed that he was infected with the [[Legacy Virus]], which would eventually kill him.  Chris was afraid of what his future would hold, but Iceman and the other X-Men offered him aid should he ever need it.{{issue}}
+
+Unfortunately, during the [[Operation: Zero Tolerance|X-Men: Zero Tolerance storyline]], in which the mutant hating Bastion began to target the X-Men, they lost touch with Chris.  This left Bradley hurt with feelings of abandonment, particularly as his illness was growing steadily worse.{{issue}}
+
+===New Warriors/Bolt===
+He soon found a mentor in [[David North (comics)|Maverick]] who was also suffering from the Legacy Virus.{{issue}}  Chris stayed with him for a while before joining the [[New Warriors]].{{issue}} After the break-up of his New Warriors team, he teamed up again with Maverick.{{issue}}
+
+===Maverick===
+When Maverick disappeared and was believed dead, Bolt took the Maverick alias for himself and joined the [[Underground (comics)|Underground]], a group founded by [[Cable (comics)|Cable]] to battle [[Weapon X]] and expose its existence. Following the group's defeat, Chris remained in the Underground, though it was taken over by [[Marrow (comics)|Marrow]] and remade into a new incarnation of the extremist mutant supremacist group [[Gene Nation]]. Chris did not leave as he wanted to undermine Gene Nation from within and preventing its terrorist attacks, though he was ultimately killed by his former mentor himself, now bearing the codename "Agent Zero", who did not find out Chris had been the new Maverick until it was too late.  Ironically, disgusted by Agent Zero and not wanting to know his true identity, Chris died in his arms, stating that he took on Maverick's persona in order to ensure that his mentor's name would live on and that he wanted his mentor to be proud of him.<ref>''Weapon X'' (2nd series) #20-21</ref>
+
+===Return===
+Chris appears to have been resurrected in X-force 22 by means of the [[Techno-organic virus#The Transmode Virus|Transmode Virus]] to serve as part of [[Selene (comics)|Selene]]'s army of deceased mutants.  Under the control of Selene and [[Eli Bard]], he takes part in the assault on the mutant nation of [[Utopia (comics)|Utopia]].<ref name ="XFv3i22">''X-Force'' (3rd Series) #22, February 2010</ref> The story is ongoing.
+
+==Powers and abilities==
+Bolt can project and control electricity, an ability he primarily manifests as devastating electrical blasts which he fires from his hands, but he can also surround himself with an energy shield that shocks anyone who touches, conduct electricity through metal objects, or short-circuit electronic devices. When he fully powers up his body is surrounded by a blazing aura that obscures his features, giving him the appearance of being composed of electricity. When he originally manifested his powers he surrounded his entire high school in a massive electrical field, but hasn't shown that level of power since.
+
+==In other media==
+===Film===
+* [[Dominic Monaghan]] plays Chris Bradley/Bolt in the 2009 film ''[[X-Men Origins: Wolverine]]''. At first, it was reported he was going to play [[Barnell Bohusk]] in the movie, but it was later revealed he was going to play Bolt.<ref>[http://xmenfilms.net/blog/?p=3886]</ref> Bradley is not mentored by David North, but is his teammate. Bradley is a part of [[Team X (comics)|Team X]], alongside [[Wolverine (comics)|James Howlett]], [[Sabretooth (comics)|Victor Creed]], [[David North (comics)|Agent Zero]], [[Blob (comics)|Fred Dukes]], [[Kestrel (Marvel Comics)|John Wraith]] and [[Deadpool (comics)|Wade Wilson]], and is led by Maj. [[William Stryker]]. He has the ability to control anything electric, and in that capacity pilots the airplane that transports him and his teammates.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.uncannyxmen.net/db/spotlight/showquestion.asp?faq=10&fldAuto=144 '''UncannyX-Men.net''' Spotlight On... Bolt]
+{{X-Men_film_series}}
+
+{{DEFAULTSORT:Bradley, Chris}}
+[[Category:1995 comics characters debuts]]
+[[Category:Marvel Comics mutants]]
+[[Category:Film characters]]
+[[Category:Fictional technopaths]]
+
+[[it:Bolt (fumetto)]]
+[[pt:Chris Bradley]]
+[[fi:Chris Bradley]]

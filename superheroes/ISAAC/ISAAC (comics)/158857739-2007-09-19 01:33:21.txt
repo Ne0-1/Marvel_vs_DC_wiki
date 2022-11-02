@@ -1,0 +1,30 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=ISAAC
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Iron Man]] #55'' (Feb 1973)
+|creators=[[Jim Starlin]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Eternal (comics)|Eternals]]
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''ISAAC''' is a fictional character in the [[Marvel Universe]].
+
+ISAAC is an English version of an acronym in the language of the [[Eternal (comics)|Eternals]] of [[Titan (Marvel Comics)|Titan]] standing for: Integral Synaptic Anti-/Anionic Computer.
+
+ISAAC is a complex computer system which fills almost the entire interior of Titan.  ISAAC controls Titan's artificial environment and all mechanical operations on Titan.  ISAAC can create semi-humanoid androids through which it can speak and act.  For a time, [[Thanos]] had reprogrammed ISAAC to menace the Eternals of Titan, but the computer was restored to its original benevolent programming.
+
+==External links==
+*http://www.marvunapp.com/Appendix2/isaactitan.htm
+
+
+[[Category:Marvel Comics Eternals]]

@@ -1,0 +1,36 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image =[[Image:Vundabar panel.JPG|250px]] 
+| caption = 
+|comic_color=background:#8080ff
+| character_name =Virman Vundabar 
+| real_name =Virmin Vundabarr
+| publisher =[[DC Comics]] 
+| debut = ''Mister Miracle'' (vol. 1) #5 (December 1971)
+| creators =[[Jack Kirby]] 
+|alliance_color=background:#c0c0ff
+| alliances =[[New Gods]] of [[Apokolips]] 
+| aliases = 
+| powers = Expert strategist. Highly developed mechanical expertise. 
+}}
+
+'''Virman Vundabar''' is one of the [[New Gods]], a [[Race (fantasy)|fictional race]] created by [[Jack Kirby]] for [[DC Comics]]. A resident of [[Apokolips]], he is a minion of [[Granny Goodness]], and models his personality and schemes on [[Prussia]]n military appearance and precision. He is a nemesis of [[Mister Miracle]]. His niece, Malice, is a junior member of the [[Female Furies]] who can control a shadow monster named Chessure. He is occasionally (as in the [[Elseworlds|Elesworld]] Superman: The Dark Side) depicted as a double of [[Adolf Hitler]].
+
+== Trivia ==
+The name "Vundabar" is a corruption of the German word "wunderbar", which means "wonderful". This name was given to him by [[Granny Goodness]].
+
+== Other Media ==
+Vundabar has appeared in an episode of ''[[Justice League Unlimited]]''. In that episode, he was in control of [[Apokolips]] when [[Darkseid]] disappeared and held [[Kalibak]] as a prisoner. He was voiced by [[Arte Johnson]]. He also makes a cameo appearance in the Justice League Unlimited episode ''Alive'', where he tried to take over Apokolips from Granny Goodness and the Female Furies.
+
+== Note ==
+His name has varied over the years between ''Vundabar'' and ''Vunderbarr''.  His name in his first appearance was Vundabar.
+
+[[Category:1971 introductions]]
+[[Category:Fictional extraterrestrial species]]
+[[Category:New Gods of Apokolips]]
+[[Category:Justice League villains]]
+
+
+[[fr:New Gods]]
+
+
+{{DC-Comics-stub}}

@@ -1,0 +1,61 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=[[Image:Iron_Man_239.jpg|225px]]
+|caption =Cover of Iron Man #239. Jackson Guice (Pencils) and Bob Layton (Inks).
+| comic_color =background:#ff8080
+| character_name =Ghost
+| real_name =Unknown
+| publisher =Marvel Comics
+| debut =Iron Man #219 (Jun 1987)
+| creators =[[David Michelinie]] and [[Bob Layton]]
+| alliance_color =background:#c0c0ff
+| status =Active
+| alliances =None
+| previous_alliances =None
+| aliases =None
+| relatives =None
+| powers =[[Invisibility]], [[List of comic book superpowers|Phasing Ability]], [[Stealth technology|Stealth Technology]]
+}}
+
+'''Ghost''' is a [[supervillain]] from [[Marvel Comics]]. The first appearance of this character is in ''[[Iron Man]]'' #219.
+
+==Character history==
+
+Virtually nothing is known as yet about the true identity of the Ghost. He claims to have been a business executive at one time. The Ghost seeks to destroy various corporations through sabotage, and is apparently most interested in attacking those dealing in electronics and high technology. He is willing to do this without financial recompensation, but often hires himself out to corporations that wish to destroy rival companies. The Ghost is a brilliant [[inventor]], [[technician]], [[engineer]], [[demolition|demolitions expert]], and [[computer scientist]].
+
+===The Accutech Merger===
+
+He was initially hired by '''Carrington Pax''', a leading exeuctive of the [[Roxxon]] Oil Corporation, to destroy Accutech Research and Development. Accutech was trying to develop a beta particle generator and when they refused to sell it to Roxxon, the Ghost was hired to drive Accutech into bankruptcy. '''Tony Stark''' was interested in acquiring Accutech's technology and bought the company. Investigating a disturbance at the new facility as '''[[Iron Man]]''', he first met the Ghost.
+
+===The Electronica Fabrizzi===
+
+{{section-stub}}
+
+==Powers and abilities==
+
+The Ghost wears a [[battlesuit]] that is powered by [[electricity]] and is controlled by mental commands through [[cybernetic]] circuits. His battlesuit allows him  to become invisibile and the ability to phase through objects, but not at the same time. He is also undetectable by most scanning devices.
+
+The Ghost uses an array of weaponry including handguns that fire electrical charges and handguns that fire concussive blasts. He also uses explosive devices including bombs activated by sound.
+
+==Bibliography==
+
+*''Iron Man'' (1st series) #219-#221, #239-#240
+*''[[Amazing Spider-Man]] Annual'' #25
+*''Spectacular Spider-Man Annual'' #11
+*''Web of Spider-Man'' Annual #7
+*''Amazing Spider-Man'' (2nd series) #16
+*''Iron Man'' (3rd series) #42-45
+
+==References==
+
+*''The Official Handbook Of The Marvel Universe: Update'' '89 (Volume 3) 
+
+==External links==
+*[http://www.comicboards.com/marvelguide Marvel Guide:An UnOfficial Handbook to the Marvel Universe]
+*[http://www.comics.org/ The Grand Comics Database Project]
+*[http://www.marvunapp.com/ The Marvel Appendix]
+
+[[Category:Iron Man villains]]
+[[Category:Spider-Man villains]]
+
+
+{{Marvel-villain-stub}}

@@ -1,0 +1,60 @@
+{{Superherobox| <!--Part of Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Hermod
+|full name= Hermod
+|publisher=[[Marvel Comics]]
+|debut=''[[Thor (Marvel Comics)|Thor]]'' #274 (Aug 1978)
+|creators=[[Roy Thomas]] and [[John Buscema]]
+|species = [[Asgardians (comics)|Asgardian]]
+|homeworld = [[Asgard (comics)|Asgard]]
+|alliances = [[Asgard (comics)|Asgard]]
+|aliases = Howard "Howie" Barker
+|supports=
+|powers = Superhuman speed, strength, stamina, and durability
+}}
+'''Hermod''' is a [[fictional character]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]], based on the [[Hermóðr]] of [[Norse mythology|Norse myth]].
+
+==Publication history==
+Hermod first appeared in ''[[Thor (Marvel Comics)|Thor]]'' #274-275 (August–September 1978), and was adapted from mythology by [[Roy Thomas]] and [[John Buscema]].
+
+The character subsequently appeared in ''Thor Annual'' #7 (1978), ''Thor'' #294-295 (April–May 1980), 300-301 (October–November 1980), 306 (April 1981), ''Avengers'' #249 (November 1984), ''Thor'' #350-352 (December 1984-February 1985), 359 (September 1985), ''Marvel Super-Heroes'' #9 (April 1992), ''Impossible Man Summer Vacation Spectacular'' #2 (September 1991), ''Thor'' #454 (November 1992), #474 (May 1994), and ''Journey Into Mystery'' #504-513 (December 1996-October 1997).
+
+Hermod appeared as part of the "Asgardians" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #1.
+
+==Fictional character biography==
+Hermod is a young god who is shrouded in mystery. It is known, however, that [[Odin (comics)|Odin]] will usually employ Hermod as a messenger because of his great speed. Hermod's greatest mission was when he traveled to Hel in order to ask the goddess [[Hela (comics)|Hela]] for information on how to revive [[Balder (comics)|Balder the Brave]].{{Issue|date=July 2010}}
+
+During the ''[[Fear Itself (comics)|Fear Itself]]'' storyline, Hermod was among the few Asgardians who agreed with Thor and helped Loki, [[Sif (comics)|Sif]], and the [[Warriors Three]] into freeing Thor after Odin imprisoned him for objecting to his plans to raze the Earth in order to eliminate the [[Serpent (comics)|Serpent]]. When Hermod offered to help Thor escape to Midgard, Odin found out about this.<ref>''Fear Itself'' #3</ref> Odin returns to Asgard with the corpse of the Serpent sealing off Asgard from Hermod and a number of other Asgardians who are left on Earth.<ref>''Fear Itself'' #7</ref>
+
+==Genealogy==
+Hermod's family tree as it appears in ''Thor'' #500 (July 1996);<ref>''Thor'' vol.1, #500 (July 1996)</ref>
+
+{{Thor family tree}}
+
+==Powers and abilities==
+Hermod possesses normal strength, stamina, and durability for an Asgardian god. He is presumably resistant to all terrestrial poisons and diseases and has some resistance to magic. He also can run at speeds far exceeding those of other Asgardian gods.
+
+==In other media==
+===Television===
+* Hermod appears in the ''[[Guardians of the Galaxy (TV series)|Guardians of the Galaxy]]'' episode "Asgard War Part One: Lightnin' Strikes," voiced by [[Troy Baker]]. He is among the Asgardians that are still on Asgard at the time when Thor was leading some Asgardians in their war against Spartax. When Hermod asks Loki what he plans to do when Thor returns and finds that he has run Asgard in his place, Loki claims to Hermod and the other Asgardians present that Thor won't be coming back ever.
+
+===Video games===
+* Hermod appears in the video game ''[[Marvel: Ultimate Alliance]]'', voiced by [[Josh Keaton]]. He has special dialogue with Thor where it is mentioned that Hermod evaded capture. When not talking to a character he runs around the area. To talk to him, the player must summon him on a part of the porch or wait till he moves near them.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://marvel.com/comics/Thor The Official Site for Thor Comics]
+* {{Marvelwiki|Hermod|Hermod}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix/hermodthor.htm|Hermod}}
+* [http://www.marveldirectory.com/individuals/h/hermod.htm Hermod at MarvelDirectory.com]
+
+{{Thor}}
+
+[[Category:Marvel Comics Asgardians]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with superhuman strength]]
+
+{{Marvel-char-stub}}

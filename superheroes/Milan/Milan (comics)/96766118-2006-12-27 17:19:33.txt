@@ -1,0 +1,32 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|comic_color=background:#ff8080
+|character_name=Milan
+|real_name=Fransisco Milan
+|species=[[mutant (fictional)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''Uncanny X-Men'' #300
+|creators=
+|alliance_color=background:#ffc0c0
+|status=Deceased<br><small> (killed by [[Holocaust (comics)|Holocaust]])</small>
+|alliances=
+|previous_alliances=[[Acolytes (comics)|Acolytes]]
+|aliases=
+|relatives=
+|powers=Communication with electronic devices.
+|}}
+'''Francisco Milan''' was a fictional member of the [[Acolytes (comics)|Acolytes]] in [[Marvel Comics]]. He first appeared in ''[[Uncanny X-Men]]'' #300.
+
+==History ==
+'''Milan''' was one of the Acolytes who helped kidnap [[Moira MacTaggert]], until she was later rescued by the [[X-Men]]. He later died on [[Avalon (comics)|Avalon]], the homebase of the Acolytes, when [[Holocaust (comics)|Holocaust]] attacked it in ''X-Men'' (2nd series) #42.
+
+== Powers and abilities ==
+
+Milan had the ability to interface directly (and communicate) with machinery. This was usually achieved by plugging a computer data cable into one eye of his visor.
+
+{{Marvel-villain-stub}}
+
+[[Category:Acolytes members]]
+[[Category:Marvel Comics mutants]]
+[[Category:X-Men villains]]

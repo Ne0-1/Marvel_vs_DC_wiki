@@ -1,0 +1,315 @@
+: ''Spider-Man is a Marvel Comics character. For other uses see [[Spider-Man (disambiguation)]].''
+{{Superherobox| <!--This box is part of Wikipedia:WikiProject Comics. See that article for details-->
+image=[[Image:Spider-Man50.jpg|250px]]
+|caption=''Amazing Spider-Man'' #50, Vol. 2.<br>Art by [[J. Scott Campbell]]
+|comic_color=background:#ff8080
+|character_name=Spider-Man
+|real_name=Peter Benjamin Parker
+|publisher=[[Marvel Comics]]
+|debut=''[[Amazing Fantasy]]'' Vol. 1 #15 (August, 1962)
+|creators=[[Stan Lee]]<br>[[Steve Ditko]]
+|alliance_color=background:#ffc0c0
+|status=Active
+|alliances=[[Avengers (comics)|Avengers]]
+|previous_alliances=[[Daily Bugle]]
+|aliases=Spidey, Wall-Crawler, Webhead, Webslinger, Your Friendly Neighborhood Spider-Man, Riccochet, Prodigy, Dusk, Hornet, Captain Universe, Man-Spider, Amazing Bag-Man, The "Other" 
+|relatives=Richard Parker (father, deceased), Mary Parker (mother, deceased), [[Uncle Ben|Benjamin Parker]] (uncle, deceased), [[Aunt May|May Reilly Parker]] (aunt), [[Mary Jane Watson|Mary Jane Watson-Parker]] (wife), [[Spider-Girl|May Parker]] (daughter, presumed deceased), [[Ben Reilly]] (clone, deceased), [[Kaine]] (clone), [[Spidercide (comics)|Spidercide]] (clone, deceased), [[Gwen Stacy]] (long-term girlfriend, deceased)
+|powers=Ability to stick to solid surfaces, super-strength, precognitive "spider-sense", superhuman speed, reflexes, and agility, "webbing" both synthesized and organic. 
+|}}
+'''Spider-Man''' is a [[fictional character]], the [[alter ego]] of '''Peter Benjamin Parker''' and a [[Marvel Comics]] [[superhero]] created by writer [[Stan Lee]] and artist [[Steve Ditko]].  He [[first appearance|first appeared]] in the [[comic book]] ''[[Amazing Fantasy]]'' #15 (August, 1962), with a cover drawn by [[Jack Kirby]]. He has since become one of the world's most popular superheroes. 
+
+The character expanded the dramatic potential of the [[fantasy]] and superhero [[Genre|subgenres]] by having a strong focus on a younger, more troubled character and his personal struggles.  Since his creation, his popularity has led to many of the superheroes who predated him being reworked with more complex personas.
+
+Along with [[Superman]] and [[Batman]], Spider-Man is one of the most recognizable of all superheroes. Through the years, he has appeared in many media, including several [[animated series]], a daily and Sunday [[comic strip]] and, recently, two very successful [[film]]s, with a third one in production.
+
+Meanwhile, Marvel has published multiple ongoing comic book series featuring the character, the flagship title being ''[[The Amazing Spider-Man]]''. Over the last 40 years, Peter Parker has grown from a shy high-school student to a troubled college undergrad to a married man, but the core of the character has remained the same.
+
+==Publication history==
+===Creation of character===
+Various accounts of the character's creation have been given.
+
+[[Image:AmazingFantasy15.jpg|left|thumb|''Amazing Fantasy'' #15 (Aug. 1962), the first appearance and origin story of Spider-Man. Cover art by [[Jack Kirby]] (penciler) and [[Steve Ditko]] (inker).]]
+
+Speaking in the 1980s, Stan Lee said the idea for the series sprang out of the apparent increased teenage interest in the new Marvel characters.  He wanted to create a character that could cater to them specifically. One influence Lee has described, for the character's name at least, is the non-superpowered [[pulp magazine]] crimefighter [[The Spider]]. <!--See "Discussion at [[Tarantula (DC Comics)|Tarantula]] before insertion of this unsupported claim: ", and perhaps from a minor spider-themed character, the [[Tarantula (DC Comics)|Tarantula]], from [[DC Comics]]."--> In the ''Spider-Man'' movie DVD extras, ''Stan Lee's Mutants, Monsters and Marvels'' and elsewhere, Lee said he was inspired by seeing a fly climb up a wall. When discussing this in documentaries, he often comments "I've told this story so many times, it may actually be true." Originally, Lee assigned [[Jack Kirby]] to illustrate the story, but after seeing sample pages, decided Kirby's style was "too 'larger than life'" for what he wanted. Lee turned to artist Steve Ditko, who found the concept particularly appealing and developed a visual motif Lee found satisfactory.
+
+Kirby stated in a 1982 interview in ''Will Eisner's Spirit Magazine'' that Lee had minimal involvement in the creation of the character. "Spider-Man was discussed between [[Joe Simon|Joe [Simon]]] and myself. It was the last thing Joe and I had discussed. We had a strip called the, or a script, called 'The Silver Spider'. The Silver Spider was going into a magazine called ''Black Magic''. ''Black Magic'' folded with [[Crestwood]] [Simon & Kirby's 1950s comics company] and we were left with the script. I believe I said this could become a thing called Spider-Man, see, a superhero character. I had a lot of faith in the superhero character that they could be brought back ... and I said Spider-Man would be a fine character to start with. But Joe had already moved on. So the idea was already there when I talked to Stan." {{fn|1}}
+[[Image:AmazingSpider-Man1.jpg|right|thumb|''The Amazing Spider-Man'' #1 (March 1963). Cover art by [[Jack Kirby]] (penciler) and [[Steve Ditko]] (inker).]]
+
+Simon, in his 1990 autobiography, disputes this account. "[T]here were a few holes in Jack's never-dependable memory. For instance, there was no ''Black Magic'' involved at all. ... Jack brought in the Spider-Man logo that I had loaned to him before we changed the name to The Silver Spider. Kirby laid out the story to Lee about the kid who finds a ring in a spiderweb, gets his powers from the ring, and goes forth to fight crime armed with The Silver Spider's old web-spinning pistol. Stan Lee said, 'Perfect, just what I want.' [After obtaining permission from publisher [[Martin Goodman]],] Lee told Kirby to pencil-up an origin story. Kirby...using parts of an old rejected superhero named Night Fighter...revamped the old Silver Spider script, including revisions suggested by Lee. But when Kirby showed Lee the sample pages, it was Lee's turn to gripe, He had been expecting a skinny young kid who is transformed into a skinny young kid with spider powers. Kirby had had him turn into...Captain America with cobwebs. ... He turned Spider-Man over to Steve Ditko, who ... ignored Kirby's pages, tossed the character's magic ring, web-pistol and goggles ... and completely redesigned Spider-Man's costume and equipment. In this life, he became high-school student Peter Parker, who gets his spider powers after being bitten by a radioactive spider. ... Lastly, the Spider-Man logo was redone and a dashing hyphen added." {{fn|2}}
+
+Elsewhere, Simon gave additional details. "In the late 1950s, [[Archie Comics]] asked me to create a new line of superheroes. I gave the Silver Spider sketches to Jack Kirby and I changed the name again, this time to [[The Fly (Archie Comics)|The Fly]]. Jack held onto the sketches and when Stan Lee asked Jack for new ideas, Jack brought the original Spider-Man pages to Marvel Comics. [Later,] Stan handed the pages over to Steve Ditko. Ditko, on first seeing those pages, commented, 'This is Joe Simon's Fly.' Steve Ditko worked up his own version of the character's costume. [http://www.simoncomics.com/jsmag.htm] 
+
+Ditko's recollections in ''Comic Book Artist'' #3 (Winter 1999) were similar. Much earlier, in a rare comtemporaenous account, Ditko specified his and Lee's contributions, in a mail interview with Gary Martin published in ''Comic Fan'' #2 (Summer 1965), and reprinted at the defunct but cached site [http://tinyurl.com/9qboj ditko.comics.org] Excerpt:
+<blockquote>
+GARY - Who originated Spider-Man?
+<br>
+STEVE - Stan Lee thought the name up. I did costume, web gimmick on wrist & spider signal.
+</blockquote>
+
+When publisher Goodman was eventually presented with the concept, he was resistant to the unorthodox ideas of a teenage hero with a troubled personal life, but allowed the character to be used as a cover story for a dying [[comics anthology|anthology]] title, ''[[Amazing Fantasy]]'', since content mattered little for a title slated to be cancelled. The story was published in issue #15, and months later, sales figures indicated that the cover story was unexpectedly popular. Goodman called for a regular series for the character.
+
+Will Murray in ''[[Comic Book Marketplace]]'' #44, suggested that Lee originally might have been considering Spider-Man's debut for the anthology ''[[Tales of Suspense]]'' rather than ''[[Amazing Fantasy]]''. Murray based this on the launch pattern of several Marvel characters at the time, including [[Thor (Marvel Comics)|Thor]] (in ''[[Journey into Mystery]]''), [[Ant-Man]] (in ''[[Tales to Astonish]])'' and a solo [[Human Torch]] feature (in ''[[Strange Tales]]''), as well as on the production numbers for individual stories. He speculated that Goodman's skepticism about the feature, and a possible attempt to revitalize ''Amazing Fantasy'', led to Spider-Man appearing there. Although another issue of ''Amazing Fantasy'' was in production, he says, the title was cancelled to clear a space in the limited distribution schedule for another series.
+
+===Spider-Man and the Comics Code===
+In 1971, Spider-Man was the first comic to challenge the rigid [[Comics Code]]. Previously, it was totally forbidden to show any use of drugs, even in a totally negative context. However, Amazing Spider-Man #96-98 featured a [[story arc]] that showed the negative effects of [[drug abuse]] (a storyline conceived at the request of government drug-prevention authorities). Most notably, [[Harry Osborn]] started taking pills and became so ill that - when Spider-Man fought Norman Osborn, a.k.a. the [[Green Goblin]] - Peter vanquished Norman by simply showing him his sick son. The three comics were sold without the Comics Code approval, but met with such critical acclaim that the industry's self-censorship was undercut.
+
+==Character history==
+{{cleanup-date|November 2005}}
+
+===Early life===
+'''Peter Benjamin Parker''' was born to Richard Parker and his wife Mary Fitzpatrick-Parker, both of whom were agents of the [[Central Intelligence Agency|CIA]] and later of [[S.H.I.E.L.D.]] (a fictional secret agency). Their last assignment was the infiltration of the criminal organization of Albert Malik, the third [[Red Skull]]. Malik found out about their plans and arranged a plane-crash that resulted in their deaths, although this [[retconned]] backstory was not known at the time of the creation of Spider Man's character.
+
+The infant Peter Parker was left in the care of his [[Uncle Ben]] and [[Aunt May]] (Richard's older brother Benjamin Parker and his wife May Reilly Parker), who lived in the [[Forest Hills]] neighborhood of [[Queens]], [[New York, New York|New York]]. Though Peter was always loved by the aging couple, he was unpopular among those of his own age. Over time he grew to be a lonely, timid [[teenager]]. The exceptionally bright Peter showed more interest in his studies, especially [[science]], than in any kind of social life. He was often the target of jokes by more popular fellow students like [[Flash Thompson]], the high school's star athlete. In addition, Aunt May made him wear non-prescription glasses to protect his eyes, since she was worried that his constant reading would have a negative effect on his eyesight. When these glasses were broken in a schoolyard fight with Flash Thompson, he didn't bother to get new ones, since they were never really needed in the first place and only made him look awkward. (Note: In virtually all retellings of his origin, Peter's eyesight really was poor and somehow got fixed by the spider bite, but this is not the case in the original comic book series.)
+
+===Spider bite===
+When he was 15 years old, Parker attended a science exhibition where he was bitten by a [[spider]] which had been [[radiation|irradiated]]. The spider bite gave Parker an array of [[#Powers and abilities|spider-like powers]]. These powers included the ability to cling to walls and ceilings, super-human strength, and an extra-sensory "Spider Sense".
+
+In addition to his physical powers, Peter Parker successfully designed and utilized mechanical "web-shooters" of his own design to spin webs in a variety of ways. In current Spider-Man [[Continuity (fiction)|continuity]], he produces his webs from organic [[spinneret]]s in his wrists and no longer requires the mechanical web shooters, most likely to bring character recognition inline with fans who mainly know him from his movie incarnation.
+
+His legal guardian and beloved Uncle Ben was later killed by a thug that Peter had allowed to escape. Realizing that stopping the thief when he had the chance would have prevented his uncle's murder, Spider-Man devoted himself to fighting injustice, driven by the realization that "with great power there must also come great responsibility."
+
+===Problems as Spider-man===
+Spider-Man consistently tries to do the right thing, but is viewed with suspicion by many authority figures. He is often considered little more than a costumed menace himself, largely thanks to a smear campaign by [[J. Jonah Jameson]], publisher of the ''[[Daily Bugle]]''. Ironically, Parker has spent much of his life working, off-and-on, as a [[freelance]] [[photographer]] for Jameson, selling photographs of himself as Spider-Man.
+
+Despite having amazing spider-like abilities, Spider-Man cannot solve his emotional and personal problems with his super powers. Frequently, his powers complicate his relationships (especially when he unknowingly gained the [[Captain Universe]] powers which made him irritable due to his advanced Spider-Sense, the mistakes he had made during his time as Captain Universe caused the world to hate him thus adding more pressure than he could handle), his responsibilities as a student (in the earlier stories) and his varied careers as a photographer for the ''Daily Bugle'' and as a teacher at his old high school.  His relationships with his Aunt, his co-workers, his best friends, and most importantly, his love interests, have always been hampered by his secret life as a masked super-hero.  Although these problems have pushed him to the edge numerous times, he has always continued on as Spider-Man because of his strong belief that ''"with great power comes great responsibility"'', the immortal words which his Uncle Ben instilled in him when he was a youth.  This moral continues to serve as the major theme of Spider-Man's story.
+
+Spider-Man has amassed a slew of major enemies over the years, most taking a particular interest in harming the hero, and some even targeting Peter Parker himself.  His amazing abilities, combined with his natural intelligence and inclination towards science, have allowed him to emerge victorious against these odds on a great number of occasions. Oddly enough, his most notable ability, that of generating webs, was not originally a superpower. The instincts he learned from the spider that bit him combined with his bent for chemistry, enabled him to concoct a webslinging device that he wore on his wrists. The first exception to this was the movie version of the story, in which his famous webbing emanates naturally from his wrists. Shortly after the second film, the Spider-Man of the comics was captured by a supervillain named Queen and during this incident gained some "upgrades" to his powers, including not only new, organic webbing, but a spider-sense made more sensitive in ways yet to be disclosed.
+
+As originally conceived by Stan Lee and Steve Ditko, Peter Parker was something of an [[Everyman]] character. However, as with many characters published for many years and handled by multiple creators, Spider-Man's history is convoluted. He continued working as a freelance photographer for the ''Daily Bugle'' and living with his elderly and somewhat fragile Aunt May until he graduated from high school. He then enrolled in the fictional [[Empire State University]] where he befriended [[Harry Osborn]] — who was in fact the son of his archenemy the [[Green Goblin]] — and [[Gwen Stacy]], with whom he would have a lengthy romance before the Goblin killed her.
+
+After years of single living, interspersed with several romantic relationships, including the  cat burglar and sometime crimefighter <!--description from the Black Cat's own entry--> [[Black Cat (comics)|Black Cat]], Parker became serious with longtime girlfriend, [[Mary Jane Watson]], a [[fashion]] model and [[Actor|actress]] when she returned after a lengthy absence with a newly revealed maturity which included keeping her knowledge of Peter's secret identity secret since the beginning of his career. Eventually, the two married, but the stresses of Parker's dual identity, combined with Mary Jane's tempestuous career, led to a separation, though the couple later reconciled.
+
+===Clone Saga===
+:''Main article: [[Clone Saga]]''
+
+In one of the most controversial stories of the 1990s, Marvel reintroduced a short-lived clone of Spider-Man, now calling himself [[Ben Reilly]], who after fighting alongside Parker for a time as the '''Scarlet Spider''' became Spider-Man himself. Eventually, the original Goblin was resurrected (a controversial issue in and of itself) to kill Reilly and make Parker once more "the one, true Spider-Man."
+
+===Recent years===
+Peter's life had begun to calm down in recent years, until a villain named Morlun, and an ally named Ezekiel (possessing the same powers as Peter) appeared. Ezekiel explained that the spider that bit Peter was a mystical spider, which wanted to pass it's powers onto someone before the radiation killed it. Morlun had come to New York for that reason: He feeds off the powers possesed by 'Spider-People'. After a fight between Peter and Morlun that spanned New York, wherein Morlun severely beat Peter—whose attacks had no effect on Morlun—Peter fell back onto his last plan: Morlun wanted only pure spider-blood, so Peter injected another dose of radiation into his bloodstream, attempting to 'poison' his powers. The plan was a success, and Peter battled Morlun again, and aided by the impurity in his blood, defeated the villain, which led to Morlun's apparent death at the hands of his own lackey.
+
+Currently, Parker works as a science teacher for his old high school. In 2004, an altercation with a former classmate turned superhuman, Charlie Weiderman, led to the arson of both Peter's apartment and Aunt May's house. Thanks to Spider-Man's membership in the latest incarnation of the Marvel Universe superhero team the [[Avengers (comics)|Avengers]], Peter, Mary Jane and Aunt May were able to move into [[Iron Man|Tony Stark]]'s Stark Tower.
+
+{{spoiler}}
+
+===Spider-Man: The Other===
+:''Main article: [[Spider-Man: The Other]]''
+
+In a 2005 story arc spanning several Spider-Man comics, Spider-Man finds himself losing some of his abilities and afflicted by blackouts and stomach pains, and when given a once-over by several experts, they find he is dying from what [[Doctor Strange]] discovers to be a curse.
+
+Shortly afterward, Peter is confronted by [[Morlun]]. Taking advantage of Spider-Man's weakened condition, Morlun rips Peter's eye from its socket, eats it, and beats him near to death before the police arrive to discover him bruised and bloodied on the floor.
+
+Morlun then visits the dying Spider-Man in a hospital bed to feed off his life-force. Briefly interrupted by Mary Jane, rushing to her husband's bedside, Morlun turns upon Mary-Jane and breaks her arm. Peter then suddenly wakes up, and using the last of his strength, the savage, animalistic spider-side of himself takes over, and attacks Morlun, pinning the villain and impaling his arms to the floor and bites into Morlun's neck, killing him. Reverting to normal, Peter says goodbye to MJ and dies in her arms, only to rip from his skin and hide in a web-cocoon the next day.
+
+Later on Peter's spirit speaks with his spider side which explains that he has had more advanced powers . Peter emerges from the cocoon and heads home to see Mary Jane and May.
+
+==Appearance==
+===Costumes===
+[[Image:BenR_SpiderMan.jpg|thumb|[[Ben Reilly]] as Spider-Man, showing his version of the costume.]] Although the details and proportions have changed somewhat over the years, with a few notable exceptions, Spider-Man's costume has remained fairly consistent. The standard costume is a form-fitting fabric covering his entire body. From the waist down, it is dark blue (or sometimes even black, depending on the colorist), except for mid-calf boots with a black web pattern on a red background. From the waist up, the fabric is the red-and-black web pattern, except for his back, sides, and insides of his upper arms, which are dark blue. There is a large red spider outline on his back, and a smaller black spider emblem on his chest. The mask has large white eyes rimmed with black, that allow him to see but hide his eyes. He is sometimes depicted with "under-arm webbing" connecting his arms to his torso.
+
+Several alterations occurred when Ben Reilly replaced Peter Parker in the role. He placed more emphasis on the spider on the chest, making it large enough to cover the entire torso. Instead of a large red spider on his back, the web pattern and spider emblem were repeated there. The gloves had web-shooters on the outside, and the web design on the boots and gloves was partially replaced with dark blue.
+
+[[Image:Secretwar8.jpg|thumb|left|The Black Spider-Man costume]]The most significant alteration to Spider-Man's costume came about in the mid-1980s, after his return from the [[Secret Wars]]. He appeared in an almost all-black costume, with a large white spider emblem on the chest and back, and with built-in webshooters on the back of his hands. The costume turned out to be a living symbiotic creature, capable of generating its own webbing and improving most of Spider-Man's abilities. Spider-Man rejected the symbiote after finding out it was alive and trying to merge with him. He did however wear a non-living version of the black costume until the new occupant of the living costume, [[Venom (comics)|Venom]], frightened Mary Jane so badly that she could no longer stand to see Peter in the non-living black costume.
+
+==Powers, abilities and equipment==
+===Powers and abilities===
+Peter Parker became Spider-Man when he was bitten by an [[irradiated]] spider, causing a variety of changes in his body which gave him his superpowers.
+
+Spider-Man gained the ability to adhere to any smooth surface using any part of his body. With this, he is able to support something many times his own weight while clinging to a hard vertical surface such as the side of a building. It follows that he can grip an object with any part of his body with this talent. While the exact nature of this has never been pinned down in comics (and various attempts to explain it have contradicted one another), in the live-action movies Peter is shown to have barbed hairs or bristles similar to those of real spiders which extend or retract through his skin. At one point in the comic series, it was suggested that his ability to adhere to surfaces was due to the fact that he could create a field of static electricity around his body. This posited explanation became crucial in his fight against the villain Electro, who used his powers of electricity to nullify Spider-Man's "sticking power."  However, at another time, it was implied that his "sticking power" was somehow based on his pores actually being the important element, and Spider-Man had been momentarily subdued using a gaseous fog that supposedly "plugged" his pores.
+
+He is super-strong, allowing him to lift objects many times his own body weight, and the muscles in his legs have developed to the point where he can jump the distance of several city blocks in a single bound, or multiple stories straight up. Another aspect of his physical prowess is his superhuman agility and amplified reflexes. This allows him to outmaneuver foes and to dodge automatic gunfire. <!-- **Do NOT insert numbers, be it ten tons, fifteen tons, ten stories, five stories. The long-standing consensus is not to mention these in Wikipedia comics articles as they are never held to in-story.** -->
+
+His bodily tissues are substantially more durable and resistant to impact or trauma than an ordinary human, making it more  difficult to injure him, although he is certainly not invulnerable. His recovery time from injury is somewhat faster than that of an ordinary human, although not nearly as much as those with true [[healing factor]]s. He can also recover from poisons, but he is not immune to natural diseases. His vision also lost its [[myopia]] as a result of the spider bite. 
+
+It was revealed in the story arc "Evolve or Die" that Spider-Man enters a state of dormancy and sheds his skin and outer tissues, just like an actual Spider, at least once in his life time. During this time his body regenerates any damaged or deteriorated tissues such as an eye lost in a battle with Morlun. However, this is not a regenerative healing factor as it only occurs once during his life cycle. Spider-man's recent intermittent black outs and loss of superpowers was the result of the involuntary attempt of his body to enter hibernation, which Parker was simply too stubborn to allow (though it did occur after he seemingly died). Tony Stark, not familiar with his unique physiology, was led to believe that Spider-Man was fatally ill after analyzing a blood sample. Likewise, Doctor Strange somehow discerned that it was the work of a curse (which is accurate considering Spider-Man's plight is not unlike a curse in many ways).
+
+Apart from his physical abilities, Peter has prodigious aptitude in the physical sciences. In the comics, he has a facility for [[chemistry]] and [[physics]], and later pursues a graduate degree in [[biochemistry]] from Empire State University. In the recent films, he maintains his superb intellect with a mastery of [[physics]] and a degree from [[Columbia University]].
+
+====Spider-sense====
+Spider-Man's most subtle power is his spider-sense. A form of [[clairvoyance]] or sixth sense, it unconsciously activates and alerts him to any threat to himself, manifesting as a tingling at the back of his skull. While it cannot tell him of the exact nature of the threat, Spider-Man can judge the severity of it by the intensity of the tingling.
+
+The spider-sense not only alerts Spider-Man to threats to his physical safety, but it also warns him to threats to his privacy such as being observed while changing identities. Spider-Man also uses the spider-sense as a means to time his evasive maneuvers to the point where he can avoid multiple gunshots or [[machine gun]] fire. When combined with his superhuman reflexes and agility, this makes him an extremely difficult target to shoot in combat and formidable in close quarters.
+
+Although his spider-sense has saved his life innumerable times, Spider-Man has learned the hard way that it can be beaten. For instance, the Green Goblin once secretly attacked him with a gas that temporarily suppressed this perceptive ability, allowing the supervillain to shadow him and learn his secret identity. Additionally, the alien symbiote [[Venom (comics)|Venom]] and its offspring [[Carnage (comics)|Carnage]] are not recognized by the spider-sense. This is believed to have been caused by the Venom symbiotes' bonding with Peter Parker. The spider-sense recognizes both as a part of Parker's physical body. For instance if Peter were to slap or punch himself his spider-sense would not perceive the act as a threat and would not activate. Ben Reilly did not suffer from this problem as he never bonded with the symbiote. The ability to avoid Parker's spider-sense gives some supervillains an edge that Spider-Man often has trouble countering. 
+
+The fact that it is nonspecific has also been used directly against Spider-Man at times. In one issue of "What if...?", the [[Punisher]] successfully kills Spider-Man by hiding bombs in a mannequin made to look like Dr. Octopus. Spider-Man approached the mannequin, believing his spider-sense to be warning him about a long-known enemy, learning only too late that it was actually warning him of the explosives as they went off almost in his face.
+
+The phrase "My spider-sense is tingling" has since become an often [[parody|parodied]] [[catchphrase]] in American [[pop culture]].
+
+Spider-Man has honed this sense to allow him to have 360 vision which ties in with the mystical [[totemistic]] side of his powers. This ability is like a spider's as spiders can see all around them.
+
+In comics, the activation of the spider-sense is often shown by wavy lines emanating from Peter's head, with his mask occasionally being half-drawn as an additional cue.
+
+===Equipment===
+Although he is usually of limited financial means, Spider-Man has developed personal equipment that plays an important role in his superhero career. Every so often he will concoct a special armor or web fluid for a specific threat. For example, he donned a padded suit to battle Electro; and a very short-lived armored suit in Web of Spider-Man #100.
+
+====Web-shooters====
+Spider-Man's web-shooters are one of the character's most distinguishing traits. They are wrist mounted devices that fire a fibrous adhesive very similar to material spiders use to construct webs. The trigger rests high in the palm and requires a double tapping from the middle and ring fingers to activate, so Peter can't accidentally fire the shooter if he makes a fist or his hand hits the trigger. The placement of the trigger and the finger pressure needed to activate it yield Spider-Man's distinctive hand gesture, with the two outer fingers extended, and the two inner fingers on the palm.
+
+The default setting has the adhesive threaded through a special mesh to take on a [[spider web]] like design. The substance dries almost immediately into a strong material that can support very heavy loads: into the one-[[ton]] range. Typical uses of his webs include creating long swing lines which he uses to travel through the chasms between the Manhattan high-rises. He can change the setting to a wide spray to ensnare criminals, and to form protective shields or nets. He can also form crude objects with a heavy application. In addition, when Spider-Man desires it, he can fire the web fluid as a straight liquid when he needs to use the substance's maximum adhesive strength. However, the default meshed spray generally allows for sufficient strength while being more versatile in its use and easier to remove when desired. The substance is formulated to dissolve after one hour which is generally sufficient time for Spider-Man's needs while ensuring the webs he makes do not cause undue litter. In addition, Parker can modify the fluid formulation to suit particular specialized needs when called for (this explains why the webbing sometimes conducts electricity, but can also be used as an insulator). The web-shooters can also be used to expel other liquids, using interchangeable cartridges, but are seldom used to do this.
+
+In some versions of the character (such as the popular ''[[Spider-Man (film)|Spider-Man]]'' movie series), the character generates webs organically from his own altered spider-like biology, instead of mechanical web shooters.
+
+Recently, Spider-Man and [[Captain America]] crossed paths with a villain called the Queen. During this encounter, the Queen transformed Spider-Man into a human-sized spider. The end of the situation saw the Queen presumably dead and Spider-Man reverting back to human form. The transformation, however, seemed to give Spider-Man organic web glands in his wrists. For now (until Marvel decides to change this), Spider-Man is able to produce webbing without the aid of his web-shooters.
+
+====Spider tracers====
+Spider-Man has also developed small electronic "spider-tracers" which allow him to track objects or individuals. The outer casing is shaped like a spider and is designed to cling to a target without attracting attention. While he originally threw his tracers at a target in the hopes that at least one hits, he later developed a wrist launcher which ejects tracers above the wrist while the web is fired from below to allow for more precise and reliable applications of the tracers.
+
+Spider-Man originally used a small receiver device to follow the tracers. However, he eventually learned that he could tune the tracer signal frequency to his own spider-sense for more convenient use, but the receiver is still used as a back-up and long-range measure.
+
+====Other equipment====
+Spider-Man keeps his regular field equipment in a specially designed utility belt that contains his [[web fluid cartridges]] and his tracers.
+
+It also carries his camera, which has an extended rear metal plate that allows him to use his web to position it without interfering with its functions. The camera also has an automatic shutter mechanism linked to an internal motion detector so it will take a picture whenever Spider-Man moves in front of the camera lens.
+
+Finally, the belt contains a strong light called a Spider Signal that creates an image of his mask when activated. He typically uses it not only for a light source, but as a way of unnerving opponents and to call attention.
+
+In addition, the [[Human Torch]] once helped Spider-Man build a car called the Spider-Mobile which had a paint job and modifications that follow his spider motif. Unfortunately, Spider-Man had never learned to drive a car and crashed the car into the [[Hudson River]] soon after receiving it.
+
+==Enemies==
+[[Image:Spider-Man500.jpg|right|thumb|200px|''Amazing Spider-Man'' #500, featuring Spider-Man along with his wife, Mary Jane Watson, surrounded by many of his numerous villains. Art by [[J. Scott Campbell]].]]
+:''See also: [[:Category:Spider-Man villains|Spider-Man villains]]'' <br>
+
+Spider-Man has one of the best-known [[rogues gallery|rogues galleries]] (list of enemies) in comics. His most famous enemies include the [[Green Goblin]], [[Doctor Octopus]], and [[Venom (comics)|Venom]].
+
+==Other Spider-Men==
+In the comics, others have used the Spider-Man identity. These include:
+*[[Ben Reilly]], a [[cloning|clone]] of Parker, who also fought crime as the ''Scarlet Spider''.
+*[[Kraven the Hunter]] donned Spider-Man's costume for a short time in ''[[Kraven's Last Hunt]]''.
+*[[Spider-Woman (Mattie Franklin)|Mattie Franklin]], the niece of J. Jonah Jameson, who assumed the role with a padded costume when Parker temporarily quit. She later became '''Spider-Woman''' for a time.
+*May "Mayday" Parker a.k.a. [[Spider-Girl]], the daughter of Peter Parker, set in an alternate reality.
+*[[Spider-Man 2099|Miguel O'Hara]], the Spider-Man of [[Marvel 2099]].
+*Yu Komori (小森ユウ ''Komori Yū'') in ''[[Spider-Man: The Manga]]''.
+*Takuya Yamashiro (山城拓也), the Spider-Man of [[Spider-Man (tokusatsu)]].
+*Peter Parquagh in the [[1602 (comic)|1602]] miniseries.
+*Peter Porker a.k.a. [[Spider-Ham]] (a pig in a funny animal version of the Marvel Universe.)
+*Pavitr Prabhakar in the [[India|Indian]] adaptation of Spider-Man, ''[[Spider-Man: India]]''.
+*[[Blood Spider]] was an evil version of Spider-Man created by the [[Taskmaster]] and the [[Red Skull]].
+*[[Mary-Jane Watson]] a.k.a (Spider-Woman) alternate reality, "Exiles: Legacy, issues 20-21-22".
+*Spider-Boy in the [[Amalgam Comics|Amalgam Universe]]; is a merge between the Ben Reilly Spider-Man and [[Superboy]] after all characters from Marvel Comics and [[DC Comics]] were merged due to [[Marvel vs. DC|the war between the two universes]].
+
+''Note: with the exception of Ben Reilly, Kraven, Mattie Franklin, and the Blood Spider, these characters all exist in [[parallel universe|alternate versions]] of the [[Marvel Universe]].''
+
+==Appearances in other media==
+===Television===
+:''Main article: [[Spider-Man (TV)]]
+
+Spider-Man has been adapted to [[television]] numerous times, through a short-lived live-action [[television series]] and several animated cartoon series.  There was also the [[Spidey Super Stories]] segments on the [[PBS]] educational series [[The Electric Company]].
+
+===Film===
+[[Image:Movie poster spiderman 2.jpg|left|thumb|200px|Movie Poster for '''''Spider-Man 2'''''.]]''
+
+*''[[Spider-Man (film)|Spider-Man]]'': On [[May 3]], [[2002 in film|2002]], the [[film]] ''Spider-Man'' was released. It was directed by [[Sam Raimi]] and starred actor [[Tobey Maguire]] as Peter Parker. The film featured a number of impressive [[Computer generated image|CGI]] effects used to bring Spider-Man to life. Although the film adaptation took a number of liberties with the character's history and powers, most notably giving him [[organic]] web-shooters rather than [[mechanical]] ones, it was essentially true to the character and was widely embraced by the viewing public. Earning more than $403 million at U.S. box offices, it was the highest-grossing movie of the year while also opening up at a record $114.8 million. ''Spider-Man'' went on to become the sixth highest-grossing film in North American history and is ranked 11th worldwide with a total take of more than $821 million internationally.
+
+*''[[Spider-Man 2]]'': It was 2004's second-most financially successful movie and 15th-most [[List of highest-grossing films|financially successful movie of all time]]. It premiered in more North American movie theaters (4,152) than any previous movie. Its first-day gross ($40.5 million) surpassed its predecessor's $39.4 million record. The only higher single-day movie grosses were ''[[Shrek 2]]''<nowiki>'</nowiki>s $44.8 million in the first weekend of its May 2004 release and ''[[Star Wars Episode III: Revenge of the Sith]]'''s $50 million on the first day of its May 2005 release. ''Spider-Man 2'' was also the first motion picture released in the [[Sony]] [[Universal Media Disc|UMD]] format for the [[PlayStation Portable]], being included for free with the first one million PSP systems released in the [[United States]].
+
+*''[[Spider-Man 3]]'': Currently this movie is being in production, and is expected to be in theaters on May 4, 2007. It will again be directed by Sam Raimi. [http://www.imdb.com/title/tt0413300/]
+{{-}}
+
+===Stage===
+In 2002 [[2MA]] produced the world's first live action Spider-Man stunt show in Jeddah, Saudi Arabia. 
+
+===Video games===
+''Main article: [[Spider-Man (games)]]''
+
+As a popular franchise character, many games starring Spider-Man, both based on the comics, and more recently on the movies, have been released on many different systems.  However, he also appears as a boss in the video game [[Revenge of Shinobi]].
+
+===Real life===
+Spider-Man imitators in real life include :
+* [[Dan Goodwin|"Spider Dan" Goodwin]], who in 1981, climbed the glass of the [[Sears Tower]] and the [[John Hancock Center]] in Chicago using suction cups.
+* [[Alain Robert]] nicknamed ''Spiderman'', rock and urban climber who has scaled more than 70 tall buildings using his hands and feet, without using additional devices. He sometimes wears a Spider-Man suit during his climbs. In May 2003, he was paid approximately $18,000 to climb the 312-foot, Lloyd's of London, to promote the premiere of the movie ''Spider-Man'' on the British television channel, Sky Movies.
+* The surname Parker was chosen to honor a Mr. Richard Parker, childhood friend of Stan Lee and father to famed injury attorney Larry H. Parker.  Peter's father is named Richard Parker for the same reason.
+
+===Spider-Man in music===
+The catchy original 1960s Spider-Man cartoon [[theme song]] has been covered and reinterpreted by numerous musical acts, including [[The Ramones]], [[Moxy Fruvous]], [[Tenacious D]] and others. For other versions, see: [[Spider-Man_%281960s_animation%29#Theme_song|Spider-Man (1960s animation)]]
+
+<br>
+The [[2003 in music|2003]] [[Weird Al Yankovic]] album "[[Poodle Hat]]" has a track entitled "Ode to a Superhero." It is a [[parody]] of the [[Billy Joel]] song "[[Piano Man (song)|Piano Man]]," and recounts the events of the [[Spider-Man (movie)|movie]].
+
+===Spider-Man in pop culture===
+On [[Halloween]] 2004, an estimated 2.15 million U.S. children dressed up as Spider-Man, making it the year's most popular costume.
+
+In the political sphere, [[David Chick]] used a Spider-Man outfit to obtain publicity for [[fathers' rights]]. See [http://www.glennsacks.com/in_defense_of_spiderman.htm].
+
+==Bibliography==
+:''Main article: [[Bibliography of Spider-Man titles]]''
+
+===On-going titles===
+Spider-Man [[first appearance|first appeared]] in ''[[Amazing Fantasy]]'' #15. After that, he was given his own series. Many followed, and as of 2005, the related titles are:
+
+====Marvel Universe====
+*''[[The Amazing Spider-Man]]'' #1-441, Vol. 2 #1-58, #500-present (Marvel Comics; March 1963 - November 1998, January 1999 - December 2003, January 2004 - present). Currently written by [[J. Michael Straczynski]], and pencilled by Michael Deodato.
+*''[[Friendly Neighborhood Spider-Man]]'' #1-present (Marvel Comics; December 2005 - present), written by [[Peter David]] and pencilled by [[Mike Wieringo]].
+*''[[Marvel Knights Spider-Man]]'' #1-present (Marvel Comics/[[Marvel Knights]]; June 2004 - present). Currently written by [[Reginald Hudlin]] and pencilled by [[Pat Lee]].
+*''Spider-Man Unlimited'' Vol. 3 #1-present (Marvel Comics; March 2004 - present), showcasing Spider-Man in stories by new writing talent.
+*''[[Avengers (comics)|New Avengers]]'' #1-present (Marvel Comics; January 2005 - present, continuation of ''Avengers'' Vol. 3), written by [[Brian Michael Bendis]] and pencilled by [[David Finch]]. This book is not one of the official Spider-man titles but includes him as part of the current team line-up.
+*''[[Astonishing Spider-Man]]'' #1-present ([[Panini Comics]]/[[Marvel UK]]; Unknown month 1994 - present). Part of Marvel UK's "Collector Edition" line, reprinting US stories from 2-3 years earlier.
+*[http://www.lollipopanimation.com LollipopAnimation.com]
+
+====Other continuities====
+*''[[Ultimate Spider-Man]]'' #1-present (Marvel Comics/[[Ultimate Marvel]]; October 2000 - present), written by Bendis and pencilled by [[Mark Bagley]], set in the [[Ultimate Marvel Universe]].
+*''[[Marvel Adventures Spider-Man]]'' #1- (Marvel Comics/[[Marvel Adventures]]; May 2005 - present; continuation of ''Marvel Age Spider-Man''), written by [[Sean McKeever]], set during Spider-Man's high school years but not within regular [[Earth-616|Marvel continuity]].
+*''[[Spider-Man Loves Mary Jane]]'' #1-present (Marvel Comics, December 2005 - present, sequel to ''Mary Jane'' and ''Mary Jane: Homecoming'' miniseries), written by [[Sean McKeever]] and illustrated by [[Takeshi Miyazawa]]. Set outside the regular [[Earth-616|Marvel continuity]].
+
+==See also==
+* [[Bibliography of Spider-Man titles]]
+* [[Spider-Man (film)|''Spider-Man'' (film)]]
+* [[Spider-Man (games)]]
+* [[Spider-Man (tokusatsu)]]
+* [[Spider-Ham]]
+* [[Ultimate Spider-Man]]
+* [[Spider-Man: The Other]]
+
+==Footnotes==
+* {{fnb|1}} "Shop Talk: Jack Kirby", ''Will Eisner's Spirit Magazine'' #39 (Feb. 1982)
+* {{fnb|2}} Simon, Joe, with Jim Simon, ''The Comic Book Makers'' (Crestwood/II, 1990) ISBN 1887591354
+
+==References==
+*[http://www.marvel.com/publishing/showcomic.htm?id=2 Marvel.com - Official webpage]
+*[http://spiderman.sonypicture.com/ Official Spider-Man movie webpage]
+*[http://news.bbc.co.uk/2/hi/entertainment/3836797.stm BBC article on the Indian Spider-Man] 
+*[http://www.spidermancrawlspace.com/ Spider-Man Crawl Space-All Spidey, All The Time] 
+*[http://spiderfan.org/ SpiderFan.org - Unofficial Spider-Man webpage]
+*[http://www.spiderman.xt.pl Spider-Man Online, Unofficial Spider-Man webpage]
+
+==External links==
+*[http://www.marveldatabase.com/wiki/index.php/Spider-Man MDP:Spider-Man] - Marvel Database Project
+*[http://www.marvelpics.co.uk Official Marvel Picture site]
+*[http://superherohype.com/spider-man Superhero Hype! - Spider-Man movie-news site]
+*[http://www.spideykicksbutt.com/ Spidey Kicks Butt! - Essays and commentary on the Amazing Spider-Man]
+*[http://www.adherents.com/lit/comics/SpiderMan.html The Religious Affiliation of Peter Parker: Spider-Man]
+*[http://spider-man.toonzone.net/ 1981 ''Spider-Man'' Cartoon @ Toon Zone] 
+*[http://members.aol.com/drg4/index.html DRG4's Spider-Man: The Animated Series Page]
+*[http://www.NewKadia.com Largest internet retailer of Spider-Man comics]
+*[http://spiderman-web.com/ Spiderman Web] Spiderman fan site with news, forum, and episode guides.
+*[http://spideystore.com/ Spidey Store] Spiderman toys, movies, posters, shirts, and many other products based on Marvel Comics most popular super hero.
+*[http://spiderman.ugo.com/ Amazing Spiderman Hub]
+*[http://www.samruby.com/  Amazing Spider-Man Info]
+
+{{spiderman}}
+
+
+[[Category:Avengers members]]
+[[Category:Defenders members]]
+[[Category:Fictional reporters]]
+[[Category:Fictional scientists]]
+[[Category:Fictional vigilantes]]
+[[Category:Marvel Comics titles]]
+[[Category:Spider-Man| ]]
+
+[[ca:Spiderman]]
+[[da:Spider-Man]]
+[[de:Spider-Man]]
+[[es:Spiderman]]
+[[fi:Hämähäkkimies]]
+[[fr:Spider-Man]]
+[[gl:Spider-Man]]
+[[he:ספיידרמן]]
+[[it:Uomo Ragno]]
+[[ja:スパイダーマン]]
+[[nl:Spider-Man]]
+[[no:Spider-Man]]
+[[pl:Spider-man]]
+[[pt:Homem-Aranha]]
+[[sv:Spindelmannen]]
+[[tr:Spider-Man]]
+[[zh:蜘蛛人]]

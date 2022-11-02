@@ -1,0 +1,99 @@
+{{Use mdy dates|date=April 2019}}
+{{short description| character in the Marvel Cinematic Universe}}
+{{Infobox character
+| color              = #AF181F
+| name               = Sam Wilson
+| franchise          = [[Marvel Cinematic Universe]]
+| image              = 
+| image_upright      = 
+| caption            = 
+| first_major        = 
+| first_date         = 
+| creator            = {{Plainlist|
+* [[Stan Lee]]
+* [[Gene Colan]]
+}}
+| adapted_by         = [[Christopher Markus and Stephen McFeely|Christopher Markus<br>Stephen McFeely]]
+| based_on = [[Falcon (comics)|Falcon]]
+| portrayer          = [[Anthony Mackie]]
+| full_name          = Samuel "Sam" Wilson
+| alias              = Falcon
+| occupation         = {{Plainlist|
+* [[United States Air Force Pararescue|U.S. Air Force Pararescue Jumper]]
+}}
+| family             = 
+| spouse             = 
+| children           = 
+| affiliation        = {{Plainlist|
+* [[Avengers (comics)|Avengers]]
+* [[Steve Rogers (Marvel Cinematic Universe)|Captain America (Steve Rogers)]]
+* [[United States Air Force]]
+* [[United States Department of Veterans Affairs]]
+* [[Bucky Barnes|Winter Soldier (James Barnes)]]
+}}
+| nationality        = American
+| series             = 
+| alt                = 
+| first              = ''[[Captain America: The Winter Soldier]]'' (2014)
+| last               = 
+| voice              = 
+| origin             = 
+| home               = 
+}}
+'''Sam Wilson''' is a [[character (arts)|character]] portrayed by [[Anthony Mackie]] in the [[Marvel Cinematic Universe]] (MCU) [[film franchise]], based on the [[Marvel Comics]] character of the same name and known commonly by his [[alter ego]], '''[[Falcon (comics)|Falcon]]'''.
+
+[[Anthony Mackie]] portrays Sam Wilson in the [[Marvel Cinematic Universe]], with the character's first appearance being in the 2014 film ''[[Captain America: The Winter Soldier]]''.<ref name="Mackie">{{cite web|url=http://www.variety.com/article/VR1118056643 |title=Mackie mulls Falcon in 'Captain America' |first=Marc |last=Graser |publisher=Variety |date=July 16, 2012 |accessdate=July 16, 2012 |archiveurl=https://www.webcitation.org/69DyO1q9R?url=http://www.variety.com/article/VR1118056643 |archivedate=July 17, 2012 |url-status=live }}</ref><ref name="Mackie2">{{cite web |url=http://splashpage.mtv.com/2012/09/17/anthony-mackie-captain-america-winter-soldier-falcon/ |title='Captain America' Actor Anthony Mackie Hasn't Seen His Falcon Costume Yet |date=September 17, 2012 |accessdate=September 17, 2012 |publisher=MTV Splash Page |first=Josh |last=Wigler |archivedate=September 17, 2012 |archiveurl=https://www.webcitation.org/6AklBQ0sH?url=http://splashpage.mtv.com/2012/09/17/anthony-mackie-captain-america-winter-soldier-falcon/ |url-status=dead }}</ref> In the film, Wilson is a veteran [[United States Air Force]] [[Pararescueman]] and uses a pair of [[submachine gun]]s as his main weapons and flies using a [[jet pack]] with articulated wings.<ref name="StitchKingdom">{{cite web |url=http://www.stitchkingdom.com/disney-captain-america-fun-facts-69306/ |title='Captain America: The Winter Soldier' Character Bios, Fun Facts (Minor Spoilers) |publisher=Stitch Kingdom |date=February 14, 2014 |accessdate=February 15, 2014 |archiveurl=https://www.webcitation.org/6NPxAyi5I?url=http://www.stitchkingdom.com/disney-captain-america-fun-facts-69306/ |archivedate=February 16, 2014 |url-status=dead |df=mdy-all }}</ref> Mackie reprises the role in the 2015 films ''[[Avengers: Age of Ultron]]'',<ref>{{cite web|url=http://www.slashfilm.com/the-gangs-all-here-in-the-official-avengers-age-of-ultron-poster/ |title=The Gang's All Here in the Official 'Avengers: Age of Ultron' Poster [UPDATED] |last=Lussier |first=Germain |publisher=[[/Film]] |date=February 24, 2015 |accessdate=February 24, 2015 |archiveurl=https://www.webcitation.org/6Wamlu3ih?url=http://www.slashfilm.com/the-gangs-all-here-in-the-official-avengers-age-of-ultron-poster/ |archivedate=February 24, 2015 |url-status=live }}</ref> ''[[Ant-Man (film)|Ant-Man]]'',<ref>{{cite web|url=http://comicbook.com/2015/07/04/falcon-appears-in-new-ant-man-tv-spot/|title=New Ant-Man TV Spot Reveals Avenger Guest Star In New Costume|author=Jay Jayson|work=Comicbook.com}}</ref> the 2016 film ''[[Captain America: Civil War]]'',<ref>{{cite web|last1=Fleming Jr|first1=Mike|title=Daniel Bruhl To Play Villain In 'Captain America: Civil War'|url=https://deadline.com/2014/11/daniel-bruhl-captain-america-robert-downey-jr-chris-evans-1201284648/|website=Deadline|publisher=Deadline|accessdate=November 17, 2014|ref=29}}</ref><ref name="VarietyAug2015">{{cite web|url=https://variety.com/2015/film/news/captain-america-civil-war-concept-art-hawkeye-black-widow-1201579801/ |title='Captain America: Civil War' Concept Art Shows Where Each Avenger's Loyalties Lie |last=Kroll |first=Justin |work=[[Variety (magazine)|Variety]] |date=August 27, 2015 |accessdate=August 27, 2015 |archiveurl=https://www.webcitation.org/6b6MaETh4?url=http://variety.com/2015/film/news/captain-america-civil-war-concept-art-hawkeye-black-widow-1201579801/ |archivedate=August 27, 2015 |url-status=live }}</ref> the 2018 film ''[[Avengers: Infinity War]]'',<ref>{{cite web|last1=Peters|first1=Megan|title=Anthony Mackie Teases Falcon’s Fate After Avengers: Infinity War|url=http://comicbook.com/marvel/2017/03/23/anthony-mackie-avengers-infinity-war-falcon-lives|website=ComicBook.com|publisher=ComicBook.com|accessdate=14 June 2017}}</ref> and the 2019 film ''[[Avengers: Endgame]]''.<ref name=Wrap/> Redwing makes a first appearance in ''Civil War'' as Falcon's bird-shaped robotic drone.<ref>{{cite web|url=http://www.ew.com/article/2015/08/15/marvel-d23-expo-civil-war |title=Marvel brings Captain America: Civil War to Disney's D23 Expo |last=Breznican |first=Anthony |work=[[Entertainment Weekly]] |date=August 15, 2015 |accessdate=August 15, 2015 |archiveurl=https://www.webcitation.org/6ao5MAC8Q?url=http://www.ew.com/article/2015/08/15/marvel-d23-expo-civil-war |archivedate=August 15, 2015 |url-status=live }}</ref> In ''Avengers: Endgame'', an elderly [[Steve Rogers (Marvel Cinematic Universe)|Steve Rogers]] passes his shield and the mantle of [[Captain America]] to Wilson.<ref name=Wrap>{{cite web|url=https://www.thewrap.com/avengers-endgame-captain-america-chris-evans-anthony-mackie/|title='Avengers: Endgame' – Let's Talk About the Future of Captain America and Sam Wilson|first1=Trey|last1=Williams|first2=Ross A.|last2=Lincoln|work=The Wrap|date=April 26, 2019|access-date=April 27, 2019}}</ref>
+
+==Concept, creation, and characterization==
+
+===Characterization===
+
+==Marvel Cinematic Universe==
+
+===Feature films===
+
+==Fictional character biography==
+
+==Differences from the comic books==
+
+==Reception==
+
+==See also==
+
+== Notes ==
+{{Notelist}}
+
+==References==
+{{reflist}}
+
+{{Marvel Cinematic Universe}}
+{{Captain America}}
+
+==External links==
+* [https://marvelcinematicuniverse.fandom.com/wiki/Falcon Falcon] at Marvel Cinematic Universe Wiki
+* {{Marveldatabase|Samuel Wilson (Earth-199999)|Marvel Cinematic Universe Falcon}}
+
+{{DISPLAYTITLE:Sam Wilson (Marvel Cinematic Universe)}}
+{{Draft categories|
+[[Category:African-American superheroes]]
+[[Category:Black characters in films]]
+[[Category:Captain America characters]]
+[[Category:Captain America]]
+[[Category:Fictional United States Air Force personnel]]
+[[Category:Fictional United States Army personnel]]
+[[Category:Fictional characters from New York City]]
+[[Category:Fictional characters introduced in 2014]]
+[[Category:Fictional soldiers]]
+[[Category:Fictional victims of genocide]]
+[[Category:Fictional vigilantes]]
+[[Category:Male characters in film]]
+[[Category:Marvel Cinematic Universe characters]]
+[[Category:Superhero film characters]]
+}}
+
+{{fmbox
+|type=editnotice
+|image=[[File:Ambox warning green construction.svg|40px|alt=|link=]]
+|text= This open draft remains in progress.
+}}
+[[Category:Marvel Cinematic Universe drafts]]

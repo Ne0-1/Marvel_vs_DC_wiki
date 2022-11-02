@@ -1,0 +1,56 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:DrManhattan.jpg|200px]]
+|caption=Doctor Manhattan from Watchmen.  Art by Dave Gibbons.
+|comic_color=background:#8080ff
+|character_name=Doctor Manhattan
+|real_name=Jonathan Osterman
+|publisher=[[DC Comics]]
+|debut=''Watchmen'' #1 ([[1986]])
+|creators=[[Alan Moore]] (story), [[Dave Gibbons]] (art), based on [[Captain Atom]] created by [[Steve Ditko]]
+|alliance_color=background:#ffc0c0
+|status=Exploring the universe
+|alliances=formerly [[United States]] government
+|previous_alliances=Crimebusters
+|aliases=Jon Osterman (former identity)
+|relatives=Father (deceased)
+|powers=Mental control over matter
+|}}'''Doctor Manhattan''' is a [[fictional character]] in the [[comic]] book series, ''[[Watchmen]]'' by [[Alan Moore]] and [[Dave Gibbons]] and published by [[DC Comics]]. He is a modified version of the character [[Captain Atom]] created by [[Steve Ditko]] for [[Charlton Comics]].
+
+{{spoilers}}
+
+==Character history==
+
+'''Doctor Manhattan''' was born Jon Osterman in 1929.  His father was a watchmaker, and Jon plans to follow in his footsteps.  When the US drops the atomic bomb on [[Hiroshima]], Jon is sixteen.  His father, confronted with the undeniable facts of the theory of relativity, declares his profession outdated and throws Jon's watch-making parts out the windows.  Not only is this the turning point in Jon's career choice, from watchmaker to nuclear physicist, it foreshadows Doctor Manhattan's 'relative' perception of time.
+
+Osterman attends Princeton University from 1948-58 and graduates with a [[Doctor of Philosophy|Ph.D.]] in [[atomic physics]]. In 1959, he moves to the research base at Gila Flats.  Here he meets Janey Slater, and they eventually become lovers.  
+
+During a trip to New Jersey in July 1959, Jon and Janey visit the Amusement park.  Janey's watchband breaks, and the watch is damaged when a fat man steps on it. Jon decides to repair the watch.
+
+In August, 1959, Jon goes to give Janey the repaired watch, only to discover he has left it in his lab coat inside the Intrinsic Field experiment test chamber.  While inside the test chamber the door closes, automatically locking as a safety feature. The countown for the current experiment shortly reaches zero, and Jon has his "intrinsic field" removed. He is vaporised and thought to be dead, only to partially reappear over the following months; first as a nervous, then a circulatory system (November 10) then a partially muscled skeleton (November 14). Jon fully reappears on November 22 as a tall, bald, blue-skinned man.
+
+He is typically considered the only character in the Watchmen world to explicitly possess supernatural abilities (albeit there are indications that this is false, as it is relevant to the plot that at least one person possessed genuine psychic abilities).  He has complete control over matter, including his own body's size, coloration and density.  In addition, he can create multiple copies of himself which function independently of each other, project destructive energy rays, create [[force field]]s, [[transmutation|transmute]] and create matter, [[teleportation|teleport]] himself and others, move objects ([[Psychokinesis|telekinesis]]), and even reverse [[entropy]] locally.  Part of ''Watchmen'''s background information states he would be capable of destroying upwards of 60% of all Soviet nuclear missiles while at the same time 'destroying' large areas of Russia. 
+
+Jon becomes a pawn of the United States government. They give him the code name Doctor Manhattan (a reference to the [[Manhattan Project]]) in order to scare America's enemies.  He is also provided with a fairly ridiculous costume, which he slowly abandons as his detachment from humanity grows.  His presence unbalances the [[cold war]], and the United States becomes more aggressive and adventurist during this period.  At President Nixon's request, he brings America victory in the [[Vietnam war]] within three months.
+
+His abilities radically alter the North American economy, synthesising the massive amounts of [[lithium]] required for cars to become electric.  
+
+During the first meeting of the Crimebusters superhero group, he catches the eye of Laurie Juspeczyk, a.k.a. [[Silk Spectre]] II.  His relationship with Janey Slater ends acrimoniously shortly after, and he begins dating Laurie.  
+
+After his transformation, Jon begins to experience time in a non-linear, "quantum" fashion.  His already weak will becomes sublimated further during this time.  It is implied that he does not so much perceive the past or future as directly experience them.  He increasingly has difficulty acting in what those around him consider the present moment.  This leads to many accusations and even the public perception that he is emotionless.  However, during the course of ''Watchmen'' he displays powerful emotion several times.  His apparent lack of sentiment is more a matter of radically altered priorities. 
+
+His [[precognition]] does not allow him to change events.  He believes he has no choices for the large part of ''Watchmen''.  His total determinism of action and the implied amorality of such a position is strongly contrasted with his ability to do almost anything.  In some sense, unlimited power has come at the cost of the total absence of responsibility.  During the period where he fights crime, because his government told him to, he states that the morality of the activities escapes him.  From his radically altered perspective, almost all human concerns appear pointless to him.  This growing sense of disconnection is marked by his use of clothing which over the years gradually shrinks until he is naked by the [[1980s]].
+
+Doctor Manhattan serves the role of foil to [[Ozymandias (comics)|Adrian Veidt]].  Doctor Manhattan is the technological superman: deterministic, incredibly powerful, extremely remote from daily concerns and apparently possessing no sentiment.  Veidt is the more traditional [[Übermensch]], having achieved his success from discipline, reason and willpower.
+
+==Events of Watchmen==
+
+At the start of ''Watchmen'', Doctor Manhattan is working in Rockefeller Military Research Center for the Government. He is living with the [[Silk Spectre]], Laurie Juspeczyk.  
+
+However, Doctor Manhattan leaves Earth for Mars when he is accused of causing [[cancer]] in close associates over the years.  However, this was a frame arranged by [[Ozymandias (comics)|Veidt]] to induce Osterman to leave, to remove his interference in his scheme to save the world.  Eventually, he brings Laurie to Mars to discuss why he should do anything to aid humanity, an argument Laurie inadvertently wins when she goes through her life and realizes to her shock that her father is [[Comedian (comics)|the Comedian]], a man whom she despised for [[Sexual_assault|sexually assault]]ing her mother.  From that revelation, Doctor Manhattan is amazed by the improbable chances that occurred to result in the birth of Laurie, which he sees as a stunning "thermodynamic miracle".  By extension, this miracle can apply to any living thing on Earth, and so Doctor Manhattan decides to return to Earth to protect this wonder called life.
+
+Although they return too late to stop Veidt's plan, they teleport to [[Antarctica]] to confront him. Veidt hinders Doctor Manhattan with a [[tachyon]] generator that interferes with Doctor Manhattan's ability to see the future, and then disintegrates him by subtracting his intrinsic field. Doctor Manhattan restores himself much more quickly this time, but when Veidt reveals that his scheme appears to have averted a looming [[nuclear war]] Doctor Manhattan realizes that to expose the scheme would be too dangerous for all life on Earth. Doctor Manhattan and the other superheroes except for [[Rorschach (comics)|Rorschach]] agree to keep quiet to preserve Veidt's results, and Doctor Manhattan kills Rorschach upon his own insistence.
+
+At the end of ''Watchmen'', Doctor Manhattan decides to depart Earth for good. Veidt is surprised by his decision, pointing out the apparent contradiction with Doctor Manhattan's renewed interest in human life. Doctor Manhattan responds, "Yes. Perhaps I'll create some." Along with his walking on water on his way to meet Veidt, it is strongly implied that he has ascended to godhood.
+
+[[Category:Watchmen|Manhattan, Doctor]]
+[[Category:Fictional scientists|Manhattan, Doctor]]

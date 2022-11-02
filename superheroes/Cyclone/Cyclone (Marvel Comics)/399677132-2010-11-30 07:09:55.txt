@@ -1,0 +1,103 @@
+'''Cyclone''' is the alias of a number of  [[fictional character]]s appearing in the comic books published by [[Marvel Comics]]. 
+
+==Fictional character biography==
+===André Gerard===
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name = Cyclone
+| publisher = [[Marvel Comics]]
+| debut = ''[[The Amazing Spider-Man]]'' #143 (Apr 1975)
+| creators = [[Gerry Conway]]<br /> [[Ross Andru]]
+| alter_ego = 
+| full_name = André Gerard
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = Cyclone's criminal gang<br />[[Maggia (comics)#The Nefaria family|Maggia]]
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = Costume grants:<br>Ability to create whirlwinds
+}}
+
+The original Cyclone first appeared in ''The Amazing Spider-Man'' #143.
+
+====Fictional character biography====
+André Gerard was born in [[Lyon|Lyons, France]]. Formerly a French [[engineer]] working for [[NATO]], Gerard had a falling out with his former employees, supposedly related to political decisions over implementing his research, based on the development of a weapon that generates high velocity tornado-like winds. Cyclone took his invention and used it for his own criminal ends, developing his costume and other weapons. Like many criminal masterminds in [[Spider-Man]] comics, he decided to form a gang and capture [[J. Jonah Jameson]], the owner of the [[Daily Bugle]], and like so many criminal masterminds who follow this plan, he was defeated by [[Spider-Man]].<ref>''Amazing Spider-Man'' #143</ref> He also kidnapped [[Robbie Robertson (comics)|Joseph "Robbie" Robertson]], but was again defeated by Spider-Man.<ref>''Amazing Spider-Man'' #144</ref> 
+
+He was subsequently broken out of prison by the [[Masked Marauder]] and employed by the Nefaria Family of the [[Maggia (comics)#The Nefaria family|Maggia]] as an enforcer. He was sent to kill Spider-Man and [[Moon Knight]], but was defeated by Moon Knight.<ref>''Spectacular Spider-Man'' #22-23</ref> He was doing relatively well for himself, in spite of his defeats at the hands of Spider-Man. Concerned over the deaths of various costumed villains by the vigilante Scourge organization, Cyclone attended a meeting at the "Bar with No Name" in Medinah County, [[Ohio]], to deal with the Scourge and was shot to death by a [[Scourge of the Underworld|Scourge]] agent posing as the bartender.<ref>''Captain America'' #319</ref> 
+
+Gerard's DNA was later used by [[Arnim Zola]] to create a proto-husk. This proto-husk attacked and was killed by [[Deadpool (comics)|Deadpool]].<ref>''Deadpool'' (vol. 3) #0</ref>
+
+André Gerard seemingly returned from the dead in the 2007-08 ''[[Mar-Vell|Captain Marvel]]'' mini-series, but it is revealed that this is really a [[Secret Invasion|Skrull impostor]]. It was killed by [[Captain Marvel (Khn'nr)|Captain Marvel]] with its remains decimated in one powerful attack.<ref>''Captain Marvel'' (vol. 7) #1</ref>
+
+The original Cyclone was later among the seventeen victims of Scourge to be resurrected by [[Hood (comics)|Hood]] using the power of [[Dormammu]] as part of a squad assembled to eliminate the [[Punisher]].<ref>''Punisher'' Vol. 7 #5</ref> He will be partnered with Firebrand.<ref>http://www.comicbookresources.com/news/preview2.php?image=previews/marvelcomics/punisher/villains/PunisherVillains-3.jpg</ref> After the Punisher is captured, he is present at the ritual where the Hood intends to resurrect the Punisher's family. The Hood gives the Punisher a knife to sacrifice [[G. W. Bridge]], but the Punisher instead uses the knife to slash Cyclone's throat.<ref>''Punisher'' Vol. 7 #10</ref>
+
+====Powers and abilities====
+The original Cyclone was a man with gifted intelligence, with a Masters degree in mechanical engineering.  He designed a costume for himself which contained mechanisms that enabled him to accelerate volumes of air up to {{convert|300|mi/h|km/h}} within a radius of {{convert|100|ft|m}} from his body in the form of tornado-force whirlwinds about himself.  He was able to use these whirlwinds to fly, and could use them offensively against opponents.
+
+===Gregory Stevens===
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name = Cyclone
+| publisher = [[Marvel Comics]]
+| debut = ''[[Marvel Comics Presents]]'' #97/4
+| creators = [[Sholly Fisch]]<br /> [[Mark Bagley]]<br /> [[Don Hudson]]
+| alter_ego = 
+| full_name = Gregory Stevens
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = [[Justin Hammer]] Industries/Hammer's operatives
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = Costume grants:<br>Ability to create whirlwinds
+}}
+
+The second Cyclone appeared in ''[[Marvel Comics Presents]]'' #97/4 (December 1992). Gregory Stevens acquired the Cyclone costume, and at the "Bar with No Name," participated in a bar fight initiated by the [[Impossible Man]] posing as the Ace of Spades in a [[poker]] game.<ref>''Marvel Comics Presents'' #97</ref> He later assisted various agents of [[Justin Hammer]] in attacking [[Silver Sable]] and her Wild Pack.<ref>''Silver Sable'' #21-22</ref> Never saying a word in all of his appearances, Stevens was reported killed in a skiing accident.<ref>''Official Handbook of the Marvel Universe 2006'' #3</ref> 
+
+{{-}}
+
+===Pierre Fresson===
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| Image = 
+| caption = 
+| character_name = Cyclone
+| publisher = [[Marvel Comics]]
+| debut = ''[[Thunderbolts (comics)|Thunderbolts]]'' #3
+| creators = [[Kurt Busiek]]<br /> [[Mark Bagley]]<br /> [[Vince Russell]]
+| alter_ego = Pierre Fresson
+| full_name = 
+| species = Human Empowered
+| homeworld = <!-- optional -->
+| alliances = [[Maggia (comics)|Maggia]]<br/>[[Masters of Evil]]<br/>[[Thunderbolts (comics)|Thunderbolts]]
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = Costume grants:<br>Ability to create whirlwinds
+}}
+
+The third Cyclone first appeared in ''Thunderbolts'' #3. Pierre Fresson was a member of a European crime family who was given the recreated Cyclone suit. Not wishing to serve the European crime family any longer, he stole the suit and fled. Now freelance, he operated as an agent of Justin Hammer, before being recruited into [[Justine Hammer]]'s first incarnation of the [[Masters of Evil]].<ref>''Thunderbolts'' #18</ref><ref>''Official Handbook of the Marvel Universe 2006'' #3</ref> As a part of the Masters of Evil, Cyclone battled against the Thunderbolts and other assorted heroes.<ref>''Thunderbolts'' #18-25</ref>  Fresson also represented the European families when [[Grim Reaper (comics)|Grim Reaper]] called a meeting of Maggia bosses.<ref>''Avengers'' (vol. 3) #31</ref>  Later, he attempted to steal Justin Hammer's will, before being soundly defeated by the Thunderbolts again.<ref>''Thunderbolts'' #63</ref> After it was revealed that Justin Hammer had planted time bombs in his former agents, Cyclone was given the option to work with the Thunderbolts to rid themselves of the threat. At first, Fresson attempted to flee, but quickly surrendered and joined the Thunderbolts. Running into Silver Sable like his predecessor, Fresson would assist the Thunderbolts in freeing Justin Hammer's former agents of their biological time bomb.<ref>''Thunderbolts'' #65-67</ref> He was also with the Thunderbolts when they attacked the omnipotent [[Thanos]] after Thanos had received the power of the Heart of the Infinite. Cyclone would battle against the Elite Agents of [[S.H.I.E.L.D.]] before [[Hawkeye (comics)|Hawkeye]] would give him the option of either remaining a Thunderbolt or being cut loose. Choosing the latter, Cyclone was dropped with an electrical arrow and turned over to S.H.I.E.L.D., as he was no longer a Thunderbolt, and therefore a felon.<ref>''Thunderbolts'' #71-73</ref> 
+
+In the ''[[Civil War (comics)|Civil War]]'' storyline, someone that looks like Cyclone popped up in [[Hammerhead (comics)|Hammerhead]]'s villain army when S.H.I.E.L.D. attacked their headquarters.<ref>''Civil War: War Crimes'' #1</ref> 
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.com/universe/Cyclone_%28Andr%C3%A9_Gerard%29 Cyclone I] at Marvel.com
+* [http://www.marvel.com/universe/Cyclone_(Pierre_Fresson) Cyclone III] at Marvel.com
+* [http://www.marvel.com/universe/Cyclone_%28Proto-Husk%29 Cyclone Proto-Husk] at Marvel.com
+* [http://www.spiderfan.org/characters/cyclone.html Profile at Spiderfan.org]
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/cyclonefresson.htm|Pierre Fresson}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix2/cyclonesilvers.htm|Gregory Stevens}}
+
+
+[[Category:Comics characters introduced in 1975]]
+[[Category:Characters created by Gerry Conway]]
+[[Category:Characters created by Kurt Busiek]]
+[[Category:Characters created by Ross Andru]]
+[[Category:Fictional French people]]
+[[Category:Fictional mobsters]]
+[[Category:Marvel Comics supervillains]]
+
+[[fr:Cyclone (Marvel Comics)]]
+[[tl:Cyclone (Marvel Comics)]]

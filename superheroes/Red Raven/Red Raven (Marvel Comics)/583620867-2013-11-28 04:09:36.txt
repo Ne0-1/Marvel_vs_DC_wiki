@@ -1,0 +1,79 @@
+'''Red Raven''' is the name of three characters from [[Marvel Comics]].
+
+==Publication history==
+The first Red Raven, created by writer [[Joe Simon]] and artist [[Louis Cazeneuve]], [[first appearance|first appeared]] in ''Red Raven Comics'' #1 ([[cover-date]]d Aug. 1940), published by Marvel's predecessor, [[Timely Comics]], during the period fans and historians call the [[Golden Age of Comic Books]]. The title was canceled after its premiere issue, becoming ''[[Human Torch (Golden Age)|The Human Torch]]'' with #2, dropping all features from the debut.<ref>[http://www.comics.org/series/180/ ''Red Raven Comics'' (Marvel, 1940 Series)] at the [[Grand Comics Database]]</ref><ref>[http://www.comics.org/series/178/ ''The Human Torch'' (Marvel, 1940 Series)] at the Grand Comics Database</ref> The [[Grand Comics Database]] notes of the first and only issue, "No blurbs at the end of the stories in this issue indicate that there will be a ''Red Raven Comics'' #2. Instead they all advertise either ''[[Marvel Mystery Comics]]'' or in one case ''[[Mystic Comics]]'', suggesting that perhaps Red Raven Comics was cancelled even before it went to press."<ref>[http://www.comics.org/issue/951/ ''Red Raven Comics'' #1] at the Grand Comics Database</ref> The character remained unused for more than two decades before being revived in the modern day as an [[antagonist]] in ''[[Uncanny X-Men|X-Men]]'' #44 (May 1968). The Red Raven then battled [[Namor, the Sub-Mariner]] in ''Sub-Mariner'' #26 (June 1970). Although presumed dead for years, he eventually returned in ''[[Nova (Richard Rider)|Nova]]'' vol. 3, #4-5 (Aug.-Sept. 1999), and guest-starred in ''[[Defenders (comics)|Defenders]]'' #6-7 (Aug. - Sept. 2001) and ''The Order'' #2 (May 2002)<ref name=gcd>[http://www.comics.org/character/name/red%20raven/sort/chrono/ Red Raven] at the [[Grand Comics Database]]. Note: List includes unrelated [[DC Comics]] character.</ref> In ''[[Marvel Premiere]]'' #29 (April 1976), Red Raven was [[retconned]] to have been a member of the stateside [[World War II]]-era superhero team the [[Liberty Legion]]. In that capacity he and his teammates guest-starred in ''[[Marvel Two-In-One]] Annual'' #1 (1976) and ''[[Invaders (comics)|The Invaders]]'' #6 (May 1976). He appeared in flashback [[cameo appearance|cameos]] in ''[[Thor (Marvel Comics)|Thor]] Annual'' #12 (1984) and  ''[[Fantastic Four]]'' #405 (Oct. 1995).<ref name=gcd />
+
+==Fictional character biography==
+===Original Red Raven===
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption= 
+|comic_color=background:#ff8080
+|character_name=Red Raven
+|real_name=
+|publisher=[[Marvel Comics]]
+|debut= (historic) ''Red Raven Comics'' #1 (Aug. 1940);<br>(modern) [[Uncanny X-Men|X-Men]]'' #44 (May 1968)
+|creators= Joe Simon and Louis Cazeneuve
+|alliance_color=background:#c0c0ff
+|alliances=[[Liberty Legion]]
+|aliases=
+|powers=Flight using mechanical wings. Access to alien technology. Skilled hand-to-hand combatant
+|}}
+The boy who would become Red Raven was a child from [[Europe]], and the only survivor of a [[Atlantic Ocean|trans-Atlantic]] [[airplane]] crash. As an infant, he was adopted by a civilization of winged people who lived on a floating island in the sky, the Aerie, one kept aloft by [[antigravity]] drives and hidden from human civilization by artificial clouds. As he grew, he learned they were an [[bird|avian]] offshoot of a human-alien hybrid race known as the [[Inhumans]], who had long ago left the hidden Inhuman city [[Attilan]], built their own abode, and learned to stabilize their genetics to reproduce only in this winged form.<ref>''[[Thor (Marvel Comics)|Thor]] Annual'' #12 (1984)</ref> Calling themselves both The [[List of avian humanoids|Bird-People]] and The Winged Ones, they made their adopted son a uniform outfitted with anti-[[gravitons]] for flight and metal wings for navigation. During [[World War II]], fearing an escalation of [[Nazi Germany]]'s efforts that would encompass his adopted people, the now-grown human wore a costume with large metal wings that enabled him to fly, and called himself Red Raven and joined the [[United States]] superhero team the [[Liberty Legion]], battling foes such as the [[Red Skull]].<ref>''Marvel Premiere'' #29-30 (April–June 1976)</ref>
+
+The Bird-People, however, planned to invade human civilization after the war. Red Raven foiled their plot by using gas to place the tribe, including himself, in [[suspended animation]], and sank their domed island to the bottom of the ocean, setting a timer to return them to the surface and reawaken them after several years. When the island eventually resurfaced near the end of the suspended-animation cycle, the superhero [[Warren Worthington III|Angel]] of the [[X-Men]] stumbled upon the island. Angel and Red Raven clashed when the latter was startled by the former. Angel believed it would be more humane to revive the Bird-People, but Red Raven disagreed. He again sank the island to protect the secret of the Bird-People, continuing the suspended animation process, and set Angel adrift on a raft.<ref>''X-Men'' #44 (May 1968)</ref>
+
+Sometime later, following an undersea [[earthquake]], the Red Raven's suspended-animation capsule broke loose. It floated to the surface, where Red Raven was found by his old wartime ally the [[Namor|Sub-Mariner]]. The imperfect suspended-animation technology that he had used, however, had begun to drive Red Raven insane. He tried to awaken the Bird-People to join their crusade against humanity, but was thwarted by Namor. His condition worsened when he discovered that the Bird-People had all died. In a mad rage, he accidentally caused an explosion that engulfed him and the entire island.<ref>''Sub-Mariner'' #26 (June 1970)</ref>
+
+Sometime throughout all this, Red Raven had a daughter who, under the same name, became a superhero.<ref name="Marvel Super-Heroes #8">''[[Marvel Super-Heroes (comics)|Marvel Super-Heroes]]'' vol. 3, #8 (Jan. 1992), in the Sub-Mariner story "Leftovers" by writer Scott Lobdell and pencilers Ken Lopez and Chris Wozniak.</ref>
+
+Red Raven eventually reappeared alive, and revealed that he'd faked his own death, that of the Bird People, and the sinking of the island.<ref>''Nova'' #4-5 (Aug.-Sept. 1999)</ref> The [[Defenders (comics)|Defenders]] are later brought to the Red Raven's sky-island and clash with the Raven.<ref>''Defenders'' #6-7 (Aug.-Sept. 2001)</ref> The Red Raven also encounters [[The Order (comics)#Defenders offshoot|The Order]] on his island.<ref>''The Order'' #2 (May 2002)</ref>
+
+===Redford Raven===
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption= 
+|comic_color=background:#ff8080
+|character_name=Red Raven
+|real_name=Redford Raven
+|publisher=[[Marvel Comics]]
+|debut= ''Rawhide Kid'' #38 (Feb. 1964)
+|creators= Stan Lee and Dick Ayers
+|alliance_color=background:#c0c0ff
+|alliances=Iron Mask's gang
+|aliases=
+|powers=Gliding on artificial wings.
+|}}
+
+In the Wild West, Redford Raven is a bank robber who led his own gang into a series of robberies until they ran afoul of [[Rawhide Kid]] who defeated the bank robbers and handed them over to the authorities. While in prison, Redford Raven shared a cell with a dying Navajo medicine man. The medicine man decided to share his secrets with Redford where he had designed a winged harness that could be worn by a man and permit him to glide upon the winds. The old Navajo trained Raven in the use of these wings until he passed away from his illness. Redford Raven tricked the guard into letting him escape by hovering to the ceiling and slipping out. Upon becoming Red Raven, he was able to safely escape the prison simply by flying out of reach of the guards. Red Raven's first action was to take revenge on Rawhide Kid. Not realizing Red Raven's new abilities, Rawhide Kid fired at Red Raven who dodged every bullet. Red Raven then shot Rawhide Kid and left him for dead. Rawhide Kid was saved and nursed back to health by a young Navajo who was the son of the Navajo medicine man who gave Redford Raven his powers. Upon being nursed back to health, Rawhide Kid was trained by the Navajo man into using the wings so that he can be on equal grounds with Red Raven. Upon finding Red Raven, Rawhide Kid was still trying to get a hang of operating the flying harness. Red Raven made a mistake of flying in front of the sun enabling him to shoot Red Raven's gun from his hand. Rawhide Kid then wrestled with Red Raven and brought him to the ground upon his defeat. The young Navajo man then burnt both wings in order to protect his secret.<ref>''Rawhide Kid'' #38</ref>
+
+Redford Raven later came to own a new pair of wings and had joined forces with Iron Mask's gang (consisting of Dr. Danger, Fat Man, Hurricane, and Rattler). Upon being inspired by [[Kang the Conqueror]] in their timeline, they began to commit high-scaled thefts until the time-traveling [[West Coast Avengers]] showed up and stopped the criminals in their tracks. Red Raven ended up fighting Iron Man and proved totally ineffectual against him where Iron Man tore off his wings and knocked him to the ground. Red Raven and the other criminals were arrested and handed over to the authorities in Tombstone, Arizona.<ref>''West Coast Avengers'' Vol. 2 #18</ref>
+
+===Dania===
+The third Red Raven is Dania who was hatched on the floating island of Aerie. At age 14, Dania spent most of her life watching the video feeds of Namor and thought that he was responsible for the death of her father who was presumed to be the original Red Raven. Namor's company Oracle Inc. sought to study the sunken Sky-Island and study their technology. However, the workers were attacked by [[Diablo (Marvel Comics)|Diablo]] (who sought to harness the technology for himself). Dania flew there to protect her people while Diablo resurrected the Bird-People from their suspended animation leaving Dania and Namor to fight them off. One of the Bird-People brought back to life was Dania's father which left Dania distraught until Namor defeated him. Diablo departed where he had set up explosive that destroyed Sky-Island. Dania chided Namor for his interference with Sky-Island (though she did win a grudging respect for the hero). Dania's father later organized his people into building a new Sky-Island.<ref name="Marvel Super-Heroes #8"/>
+
+During the ''[[Civil War (comics)|Civil War]]'' storyline, Dania was listed as a foreign national by Tony Stark and was reported to still be active in the United States.<ref>''Civil War: Battle Damage Report'' #1</ref>
+
+As part of the ''[[Marvel NOW!]]'' event, Dania is among the teenage superheroes that were captured by [[Arcade (Marvel Comics)|Arcade]] and forced to fight for his amusement in the pages of ''[[Avengers Arena]]''.<ref>''Avengers Arena'' #1</ref> She becomes the second casualty of Arcade's schemes when she tries to escape by flying upward and has her neck broken by an invisible forcefield.<ref>''Avengers Arena'' #2</ref> When [[Deathlocket]] stumbles into an underground facility, she finds a room where Red Raven's body is alongside the others who have died in battle.<ref>''Avengers Arena'' #12</ref>
+
+==Powers and abilities==
+The first Red Raven costume was reinforced synthetic stretch fabric containing miniature anti-gravity mechanisms, as well as large artificial wings which allowed the Red Raven to fly. He was armed with the birdmen's advanced weaponry, including a [[ray gun]] and an [[anti-gravity]] gun. He was proficient in basic hand-to-hand combat techniques uniquely styled to make use of his advantage of flight.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.marveldirectory.com/individuals/r/redraven.htm Red Raven] at MarvelDirectory.com
+* [http://marvel.wikia.com/Red_Raven_%28Liberty_Legion%29_%28Earth-616%29 Original Red Raven] at Marvel Wiki
+* [http://marvel.wikia.com/Redford_Raven_%28Earth-616%29 Red Raven (Redford Raven)] at Marvel Wiki
+* [http://marvel.wikia.com/Dania_%28Earth-616%29 Red Raven (Dania)] at Marvel Wiki
+* {{Marvunapp|http://www.marvunapp.com/Appendix/redrv1.htm|Red Raven (Redford Raven)}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/redravendania.htm|Red Raven (Dania)}}
+* [http://www.toonopedia.com/redraven.htm  Red Raven] at [[Don Markstein's Toonopedia]]
+* [[Jess Nevins|Nevins, Jess]]. [http://www.reocities.com/jjnevins/raven.html Red Raven] at A Guide To Marvel's Golden Age Characters
+* [http://scoop.diamondgalleries.com/scoop_article.asp?ai=1275&si=126 Diamond Galleries Scoop: "Did You Know...?" (column of Oct. 25, 2002): "The Short Run of the Red Raven"]
+
+{{GoldenAge}}
+
+[[Category:Golden Age superheroes]]
+[[Category:Timely Comics characters]]

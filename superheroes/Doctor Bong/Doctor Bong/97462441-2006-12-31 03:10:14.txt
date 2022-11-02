@@ -1,0 +1,37 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|comic_color=background:#ff8180
+|character_name=Doctor Bong
+|real_name=Lester Verde
+|publisher=[[Marvel Comics]]
+|debut=''Howard the Duck'' (first series) #15 (Aug 1977)
+|creators=[[Steve Gerber]], [[Gene Colan]]
+|alliance_color=background:#c0c0ff
+|status=Active
+|alliances=
+|previous_alliances=[[Fifi the Duck]]
+|aliases=
+|relatives=Mrs. Verde (mother), Beverly Switzler (ex-wife), the Bong Quintuplets ("sons")
+|powers=Scientific genius.<br>[[bell (instrument)|Bell]]-shaped [[helmet]] can be struck to create a number of effects
+|}}
+
+'''Doctor Bong''' is a [[fictional character]], a [[supervillain]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]].  He possess an advanced knowledge of [[genetic engineering]], and his [[bell (instrument)|bell]]-shaped [[helmet]] can be struck to create a number of effects.  He has clashed with [[Howard the Duck]].
+
+Originally a [[journalism]] student whose [[yellow journalism]] got his professor fired, his hand was severed by a miniature [[guillotine]] when performing with the punk band Mildred Horowitz, which led him in the direction to becoming Doctor Bong.  How he developed his paraphernalia was never explained.  He had a longtime crush on [[Beverly Switzler]], whom he eventually married.  Before he was removed from the book, [[Steve Gerber]] had intended for their marriage to last and for her to no longer be a main character in the ''Howard the Duck'' series, but when he was removed from the book, [[Bill Mantlo]] quickly dissolved the marriage and brought the series back to a position of [[status quo]].
+
+[[John Byrne]] later pitted him against [[She-Hulk]], trying to uncensor sanitized violent television so that his [[Genetic engineering|gentically-engineered]] [[quintuplets]] would be raised not finding it at all attractive.
+
+He later appeared in issues of ''[[Deadpool (comics)|Deadpool]]''.
+
+
+
+==External link==
+* [http://www.marveldirectory.com/individuals/d/doctorbong.htm Doctor Bong at MarvelDirectory.com]
+
+[[Category:Fictional evil scientists|Bong]]
+[[Category:Fictional doctors|Bong]]
+[[Category:She-Hulk villains|Bong]]
+
+
+{{Marvel-villain-stub}}

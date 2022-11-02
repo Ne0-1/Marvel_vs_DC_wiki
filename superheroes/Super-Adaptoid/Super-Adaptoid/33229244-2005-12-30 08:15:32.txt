@@ -1,0 +1,30 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=<!-- Unsourced image removed: [[Image:SUPERADAPTOID(COMICS).JPG|160px]] -->
+|caption='''Super-Adaptoid'''
+|comic_color=background:#ff8080
+|character_name=Super-Adaptoid
+|real_name=not applicable
+|publisher=[[Marvel Comics]]
+|debut=(as the Adaptoid) Tales of Suspense #82, (as the Super-Adaptoid) Tales of Suspense #84
+|creators=
+|alliance_color=background:#c0c0ff
+|status=inactive
+|alliances=AIM
+|previous_alliances=HEAVY METAL, New Enforcers
+|aliases= not applicable
+|relatives= not applicable
+|powers=mimic the powers of up to eight superpowered individuals
+|}}
+
+The '''Super-Adaptoid''' is a fictional [[android]] from [[Marvel Comics]].  It has fought the [[Avengers (comics)|Avengers]], particularly [[Captain America]], on several occasions. Its first appearance was in ''Tales of Suspense'' #82 as the "Adaptoid" and ''Tales of Suspense'' #84 as the "Super-Adaptoid".
+
+==Character biography==
+The Super-Adaptoid is an artificially intelligent android. Its level of intelligence has varied during its different appearances, sometimes being primitive and sometimes being fairly advanced and sapient. It has battled the Avengers and the X-Men in the past. 
+
+The Super-Adaptoid was built by [[Advanced Idea Mechanics|AIM]], a former branch of the super-terrorist group [[HYDRA]].  It has the ability to mimic the powers of up to eight superpowered individuals.
+The Super-Adaptoid, at its most intelligent, became the leader of [[Heavy Metal (Marvel Comics)|Heavy Metal]], a team of androids whose membership included the [[Awesome Android]], a [[Kree Sentry]], the [[Dragon Man]], [[TESS-One]], and, briefly, the heroic android [[Machine Man]].  It later apparently committed suicide, and subsequently reappeared with substantially less intelligence.  In this form it joined the [[New Enforcers]], a criminal cartel affiliated with the [[Foreigner (comics)|Foreigner]].
+
+==Powers and abilities==
+The Super-Adaptoid is an artificial construct capable of mimicking the powers and appearances of up to eight superhumanly powerful individuals, including specific equipment and clothing, which it generates out of its own mass.  It can precisely mimic the physical appearance of a single individual whose powers it has stored; however, if it uses the powers of two or more individuals at the same time, its appearance alters to a mixture of the costumes and/or weaponry of the mimicked beings, and its skin, clothing and equipment alter to shades of Kelly green.  It has artificial intelligence that seems to vary from appearance to appearance.
+
+[[Category:Marvel Comics robots]][[Category:Avengers villains]]

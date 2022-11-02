@@ -1,0 +1,281 @@
+{{Article issues|cleanup=December 2008|confusing=December 2008|fansite=December 2008|in-universe=December 2008}}
+{{Infobox comics organization <!--Wikipedia:WikiProject Comics-->
+|name=Green Lantern Corps
+|image= GlCv2.jpg
+|imagesize= <!-- numeral only, defaults to 250 -->
+|caption= Members of the Green Lantern Corps from ''Green Lantern Corps #1'': [[Kilowog]], [[Guy Gardner (comics)|Guy Gardner]], [[Isamot Kol]], [[Soranik Natu]], [[Vath Sarn]]. Art by Patrick Gleason.
+|publisher=[[DC Comics]]
+|debut=''[[Showcase (comics)|Showcase]]'' #22<br> (September 1959).
+|creators=[[John Broome (writer)|John Broome]] (writer)<br>[[Gil Kane]] (artist)
+|type=
+|business=
+|organisation=
+|organization=
+|base=[[Oa]]
+|owners=
+|employees=
+|fullroster=[[List of Green Lanterns]]
+|subcat=DC Comics
+|hero=y
+|villain=
+|sortkey=Green Lantern Corps
+|}}
+
+The '''Green Lantern Corps''' is the name of a [[fictional]] intergalactic police force appearing in comics published by [[DC Comics]].  They patrol the farthest reaches of the [[DC Universe]] at the behest of the [[Guardians of the Universe|Guardians]]; a race of immortals residing on the planet [[Oa]]. According to DC [[continuity]], the Green Lantern Corps has been in existence for three billion years; surviving multiple conflicts both internal and foreign. Divided as pairs amongst the 3600 “sectors” of the universe, over 7200 members (known commonly as [[Green Lantern]]s) are estimated as serving within the Corps. Each Green Lantern is given a [[Power ring (DC Comics)|power ring]], a weapon granting the use of incredible abilities that are fueled by the wearer's own willpower.<ref name="dc-ency">{{Citation | last = Jimenez | first = Phil | author-link = Phil Jimenez | contribution = Green Lantern Corps | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | pages = 149 | publisher = [[Dorling Kindersley]] | place = New York | year = 2008 | ISBN = 0-7566-4119-5 | oclc = 213309017}}</ref>
+
+==Fictional group history==
+===Guardians===
+{{main|Guardians of the Universe}}
+The Guardians of the Universe are one of several races that originated on the planet [[Maltus (comics)|Maltus]], and were among the first intelligent life forms in the universe. At this time they were tall greyish blue humanoids with black hair. They became scientists and thinkers, experimenting on the worlds around them.  In a pivotal moment, billions of years ago, a Maltusian named [[Krona (comics)|Krona]] used time-bending technology to observe the beginning of the Universe. However, this experiment unleashed disaster upon all existence. Originally, the experiment splintered the Universe into the Multiverse and created the evil Anti-Matter Universe of [[Qward]]. Following the retroactive destruction of the [[Multiverse (DC Comics)|Multiverse]], it was revealed that Krona flooded the beginning of the Universe with entropy causing it "to be born old".
+
+The male Maltusians argued about how to deal with the situation. One group decided to dedicate their eternal existences to contain evil; this group fractured into the Guardians of the Universe and the [[Controllers (DC Comics)|Controllers]]. The females, however, saw no need to involve themselves and, since the Oans were by then immortal and had no more need to reproduce, left their mates and became known as the [[Zamaron]]s. Relocating to the planet Oa at "the center of the Universe", the Guardians dedicated themselves to combatting evil and create an orderly universe. During this period they slowly evolved into their current appearance.
+
+===Manhunters-"Massacre of Sector 666"===
+{{main|Manhunters}}
+
+In their first attempt to enforce their will and guard against menaces of all sorts, about 3.5 billion years ago the Guardians created a legion of robotic sentinels called the Manhunters. At first serving faithfully to enforce order, in time the Manhunters came to resent their servitude and the moral restrictions the guardians decreed of them. They were also found to be inherently flawed due to their inability to recognize or feel emotions. They rebelled against the Guardians and fought a millennia long war that culminated with an attack on the planet [[Oa]]. The Guardians overcame their android servants, stripped them of their power, and banished them across the universe. Eventually, the surviving Manhunters formed their own robotic society and pursued their own interpretation of their original mission (which often included interfering with and foiling the plans of the Guardians).
+
+In the ''Martian Manhunter'' series, the Guardians first get the idea for an intergalactic police force from the Martians' own Manhunters. They offer the Martian race the opportunity to be that force. The Martians turn it down, but the Guardians take the name for the androids.
+
+In Green Lantern: Secret Origins, it is revealed that the Manhunters suffered from a malfunction in their logic. This led them to believe that order could only be achieved by eliminating all life. They rampaged through Sector 666, massacring trillions in the process. The only survivors banded together to form the Five Inversions, swearing revenge on the Guardians for the actions of their creations.
+
+===Creation of the Corps===
+Chastened by the failure of the Manhunters, the Guardians decided that their newest force of soldiers for good would consist of living beings, ones who had free will and strong moral character. To arm this new legion of celestial knights, the Guardians created the ''[[Power ring (DC Comics)|Power Rings]],'' rings of inconceivably-advanced technology that allowed their wearers to project green beams of energy with which the bearer could conjure objects of any size or shape, limited only by their imagination and willpower.<ref name="dc-ency"/>
+
+Although the connection between the Guardian Oans and the origin of the Green Lantern symbol has yet to be clarified, it has been revealed that the lantern itself has its roots in the first life in the universe. Allegedly, the first life in the galaxy emerged on an unnamed foggy world, and when they developed a police force - the first in the universe - the constabulary carried a lantern lit with a green chemical flame, hence a corps of Green Lanterns. It is intimated that this idea was adopted and spread throughout the galaxy as a symbol for law and justice and its ability to pierce confusion and uncertainty, eventually resulting in the formation of the Green Lantern Corps, with requisite Power Rings and Lantern-shaped batteries along traditional lines. Initially consisting of only a few dozen agents at a time, the Corps radically increased its numbers approximately 1000 years ago. The Guardians sought to bring order to the planet known as [[Apokolips]]. Home to [[Darkseid]], a galactic tyrant, Apokolips was and is a stronghold of evil. Green Lantern [[Raker Qarrigat]] sought to remove Darkseid from power, only to be humbled by Darkseid's might. Raker returned to Oa, where he convinced the Guardians that taking Apokolips would require an army. Authorized to start a massive recruitment, Raker and his fellow Lanterns inducted thousands of new members, bringing total membership up to 3600.<ref name="dc-ency"/>
+
+===Crisis and aftermath===
+Both the Corps and the Guardians suffered casualties during the [[Crisis on Infinite Earths]]. The Guardians' failure to take appropriate action during the Crisis led to their decision to depart Oa in the company of their female counterparts, the [[Zamaron]]s. Left to their own devices, the Corps underwent a major reorganization. A team of Green Lanterns led by [[Hal Jordan]] was stationed on Earth, and the system of assigning one Green Lantern to a sector was temporarily abandoned. The decision of the Corps to execute [[Sinestro]] resulted in the activation of a previously unknown fail-safe that depowered the rings of every Green Lantern except for Hal Jordan, [[Guy Gardner (comics)|Guy Gardner]], [[Gnort]], and [[Ch'p]].
+
+The Guardians eventually returned to Oa and began the reconstruction of the Corps, assigning Guy Gardner to Earth, [[John Stewart (comics)|John Stewart]] to the [[Green Lantern: Mosaic|Mosaic World]], and Hal Jordan to recruit new members. Ironically, Jordan himself would eventually be responsible for destroying the incarnation of the Corps that he had helped create.
+
+===Fall of the Corps===
+The Green Lantern Corps patrolled the [[DC Universe]] for over three billion years. In that vast length of time, some Green Lanterns rebelled and turned against the Corps. A rogue Green Lantern, [[Universo]], was briefly shown to exist in the future epoch of the [[Legion of Super-Heroes]], but multiple [[retroactive continuity|retcon]]s have long since eliminated this possible future. Two of the most important fallen Lanterns were [[Sinestro]], the rogue Green Lantern, and [[Hal Jordan]], who would unknowingly become possessed by [[Parallax (comics)|Parallax]], the ancient fear parasite trapped in the Battery. At the ruins of his home [[Coast City]], Jordan was consumed by grief, which in turn allowed him to be overcome by fear... all the while not knowing that his fear was tainted by the creature Parallax.  This was also being planned by Sinestro when he imprisoned in the Battery.<ref name="dc-ency"/>
+
+The Green Lantern Corps ranks were decimated by the Parallax-possessed Jordan. The Corps' power source, the Central Power Battery, was drained by Jordan; and Oa was destroyed, removing the original power source for the rings. One Guardian, [[Ganthet]], survived Jordan's onslaught, and chose a young artist, [[Kyle Rayner]], as the sole Green Lantern of the Corps. <ref name="dc-ency"/>  Rayner would eventually becomes Parallax's arch-nemesis, and during their first battle, Rayner purposely triggered a chain reaction to Oa's core, causing the planet to explode.  
+
+After the fall of the Corps, other organizations tried to fill in the power vacuum left by the Guardians. Two organizations had initial notable successes: the [[Darkstars]] and [[L.E.G.I.O.N.]] However, neither ever achieved the power and reach of the Green Lantern Corps.
+
+===The Lost Lanterns===
+
+The Lost Lanterns were a group of Green Lanterns that tried to stop Parallax from reaching Oa. Parallax defeated them in space and after Parallax destroyed the Corps, they were assumed to be dead. Instead, they were captured by the Manhunters and taken to Biot, the Manhunter homeworld in Sector 3601. They were used in various experiments to design and power new Manhunter models. They were eventually found and rescued by the resurrected Hal Jordan and Guy Gardner. They rejoined the Corps, albeit with some difficult adjustment. Despite learning of Parallax's possession of Hal Jordan, many still blame him for their captivity and cluster to themselves when summoned to Oa.
+
+===First attempt of rebuilding the Green Lantern Corps===
+[[Image:Green LanternTheNewCorps.jpg|The New Corps: Kyle Rayner, Magaan Van'n Intraktus, Hammeroon, Anya Savenlovich, Garl Rathbone, and Sool. The cover of ''Green Lantern: The New Corps'' #1 (1999). Art by Scot Eaton.|thumb]]
+When Kyle Rayner accidentally travelled through time to ten years in the past and meeting a young Hal Jordan, the Guardians was able to send Rayner back to his own time by using the power from the Central Battery after Jordan and Rayner defeated Sinestro together. However, while doing so, Sinestro commanded his Qwardian ring to force Jordan to Rayner's time portal, in a bid to strand Jordan in Rayner's time period. Upon learning his future as Parallax (however not knowing that his future self's actions was the result of being possessed by a fear entity under the machination of Sinestro's future self) and awares that the future needs him to return to his own time and allow future events unravels in the way it was supposed to and must forget everything he learned from the present, young Jordan gave Rayner a copy of his ring to restart the Green Lantern Corp in a bid to undo some of the damages he knew he was going to make once he return to the past. <ref>''Green Lantern'' Vol. 3 #99-106 and
+''Green Arrow'' Vol. 2 #136</ref>
+
+Rayner then gave the ring to the elder Green Lantern [[Alan Scott]]'s daughter, [[Jade (comics)|Jennifer-Lynn Hayden]], which she becomes the first female Green Lantern of Earth and followed her father's footsteps, after he made another copy with it. In ''Green Lantern: The New Corps'', during his weeks long adventure in space, Rayner first recruited '''Magaan Van'n Intraktus''' of the planet Van'n, '''Hammeroon''', a bounty hunter from Ilskado System, '''Anya Savenlovich''', a lieutenant colonel from the [[Soviet Air Forces]] who was in suspended animation after participated a space mission in 1964, '''Garl Rathbone''', a miner from the debris belt over the planet Daffith, and '''Sool''', a judge from Daffith.
+
+However, the group later discovered Van'n Intraktus was a traitor after they discovered that he enslaved his home planet with his ring and would begins an invasion on other worlds. The Green Lanterns eventually stopped the renegade after a battle, but at the cost of one of their own: Hammeroon. This made Rayner to realize that he isn't the one who can properly choose to wear the rings, and taken all of the power rings back from the Green Lanterns until the time is right for the Corps' rebirth. After erected a memorial for Hammeroon, Rayner returned to Earth. The former Green Lanterns, despite of being stripped off their rings, decided to continue their intergalactic adventures. <ref>Green Lantern: The New Corps #1-2 (1999) mini-series by Chuck Dixon, Scot Eaton, Anibal Rodriguez, and Chris Chuckry.</ref>
+
+===Rebirth of the Corps===
+In an attempt to redeem himself after his actions as Parallax, [[Hal Jordan]] sacrificed his life reigniting the sun, whereupon Oa and the Central Power Battery were completely rebuilt by the physical manifestation of Jordan’s dying will channeled through his old friend and confidant [[Thomas Kalmaku]]. Shortly thereafter, [[Kyle Rayner]], having imbued with the vast power of [[Ion (DC Comics)|Ion]] after his battle with [[Kyle Rayner#Oblivion|Oblivion]] and [[Alexander Nero]].  As Ion, Rayner funneled the remaining energy left in the sun that was once the immortal Guardians back into the Central Power Battery, which allowed them to be reborn as children of both genders.  After Hayden regained her Starheart powers and becomes the superheroine '''Jade''' once more, Rayner gave the ring to [[John Stewart (comics)|John Stewart]]. After Oa's returns, Kilowog would eventually be resurrected.  With everything apparently is in place, Ganthet, Kilowog, Stewart, and Rayner make plans to rebuild the Corps once more.
+
+It was later discovered that Hal Jordan had been possessed by the living embodiment of fear, an ancient parasite called [[Parallax (comics)|Parallax]]. Parallax had been imprisoned within the Central Power Battery for billions of years and is the mysterious "Yellow Impurity" within the Corps' green light that leaves them vulnerable against yellow. Hal Jordan, upon learning the truth about Parallax, separated himself from it and was reborn as a Green Lantern once again. Jordan, with the help of John Stewart, [[Guy Gardner (comics)|Guy Gardner]], Kyle Rayner, and [[Kilowog]], reimprisoned Parallax. Upon Parallax's return to the Central Power Battery, the Guardians continued the re-construction and expansion of the Green Lantern Corps, strengthened with its power rings now able to directly affect yellow provided that a Lantern can face and conquer his or her fear. This new Corps, under the training of Kilowog, Kyle Rayner, Guy Gardner, and other veterans, was primarily composed of new recruits. Only a handful of veteran Lanterns remained in the ranks. Each sector has two Lanterns assigned to protect it (with Hal Jordan and John Stewart assigned as the protectors of Sector 2814). Due to an ancient pact with the [[List of alien races in DC Comics#S|Spider Guild]], the Vega star system is off limits to all members of the Corps.
+
+The new Green Lantern Corps presently lacks both the manpower and the political influence it once had due to its years-long absence from many sectors. This has left the Corps currently unable to intervene in situations it might have before Parallax destroyed the old Corps, including conflicts such as the [[Rann-Thanagar War]]. The Guardians remain staunchly uninvolved in what they see as a conflict that could destabilize many sectors, but that has not stopped Kyle Rayner and Kilowog from helping refugees.
+
+Despite these difficulties, the Corps played a key role in defeating [[Superboy-Prime]]. Several Lanterns were killed slowing the renegade Superboy's advance on Oa, a sacrifice that enabled Earth's most powerful heroes to execute their plan to restrain him. [[Mogo]], a sentient planet and Corps member, positioned himself to act as a final battleground between Superboy-Prime and two Supermen. Responsibility for imprisoning Superboy-Prime was undertaken by the Guardians who charged the Corps with its undertaking, incarcerating him inside a small red [[Sun-Eater]] with fifty Green Lanterns on constant guard duty. "Prime Duty" is considered one of the lowlier functions of the Corps, and Guy Gardner was sentenced to a month of such duty for one of his frequent rules infractions.
+
+As of the "[[One Year Later]]" timeframe, the Green Lantern Corps had increased its numbers, with many former trainees now full-fledged officers. A lack of truly experienced GLs remained an issue, with Guy Gardner being called upon often to assist the rookies.
+
+===Sinestro Corps===
+{{main|Sinestro Corps}}
+Rogue Green Lantern [[Sinestro]], working with the [[Anti-Monitor]], has created his own version of the Corps. Dubbed the "[[Sinestro Corps]]", it recruits beings capable of generating great fear. Armed with yellow Power Rings and Lanterns manufactured on [[Qward]], the Sinestro Corps recently staged an attack on Oa, killing dozens of GLC officers, kidnapping Kyle Rayner, and freeing Superboy-Prime, Parallax, and the [[Hank Henshaw|Cyborg Superman]] from the Corps' supervision.<ref name="dc-ency"/>
+
+As the Sinestro Corps' campaign of terror spreads, the Guardians, in desperation, rewrite the first '''Law of Ten''' in the '''Book of Oa''', enabling the remaining Lanterns to use lethal force.
+
+===The Blackest Night===
+{{main|The Blackest Night}}
+Hidden in the Book of Oa is the forbidden chapter of Cosmic Revelations, which contains a prophecy called the "Blackest Night". In the prophecy, seven different colored corps are at war with each other, eventually destroying one another and the universe.
+
+Following the ''[[Sinestro Corps War]]'', [[Ganthet]] and [[Sayd]] are banished from the Guardians. Realizing that the "Blackest Night" prophecy will come to be, they create a blue ring powered by [[hope]]. The remaining Guardians create the Alpha-Lanterns and reveal new laws they've written to the Green Lantern Corps.
+
+During the ''[[Blackest Night]],'' the Guardians finally realize the accuracy of the prophecy and are imprisoned by Scar; a rogue Guardian who launches an attack on the Corps by reviving deceased members as [[Black Lanterns]]. Command falls to [[Salaak]], a senior Lantern holding the rank of Clarissi.
+
+===31st Century===
+In the future shown in the ''[[Final Crisis: Legion of 3 Worlds|Legion of 3 Worlds]]'' miniseries, it is revealed that [[Mogo]] has been long dead and without him, there is no way to distribute the rings and thus no Green Lantern Corps in the 31st century. [[Rond Vidar]] was the last Green Lantern until he was killed by [[Superboy-Prime]]. [[Sodam Yat]] is the last [[Guardians of the Universe|Guardian of the Universe]], living on the now ruined Oa. Previews for ''Legion of 3 Worlds'' #3 show Yat taking on several rings of the fallen Lanterns with a new oath:
+
+  <blockquote>''"In brightest day, through Blackest Night, <br>
+  ''No other corps shall spreads its light!<br>
+  ''Let those who try to stop what's right, <br>
+  ''Burn like my power...Green Lantern's light!"''</blockquote>
+
+After aiding the Legions in defeating Prime and his forces, Yat realizes the universe needs to fight such threats. Going back to Oa, he sends rings across the universe to recruit a new Green Lantern Corps.
+
+In the original Legion continuity, the Green Lantern Corps were banned from Earth, thanks to the actions of the Green Lantern who became the Legion adversary, [[Universo]]. With recent alterations to this future continuity, it is unclear if this ban still exists.  Similarly, the Guardians were revealed as still on Oa in the original continuity; their fate in the revised continuity has yet to be revealed.
+
+==Oath==
+
+The Power ring must be recharged regularly (though apparently not at the standard 24-hour period as was originally described) by touching it to its lantern shaped power battery for a period of several seconds. When recharging their weapons, some Corps members recite an oath. This oath differs from Corps member to member, but the most popular seems to be Hal Jordan's.
+
+{{cquote|
+:''In brightest day, in blackest night,''
+:''No evil shall escape my sight.''
+:''Let those who worship evil's might,''
+:''Beware my power...''
+:''Green Lanterns Light!''
+|||Hal Jordan / Most Green Lantern Corps}}
+
+==Structure==
+===The 3600 sectors===
+The Corps is an organization of 7200+ Green Lanterns (the old Corps was composed of 3600) who are chosen by the ring for being able to overcome great fear, with two assigned to each sector of space that require the protection of more than one Green Lantern (Earth, home to [[Hal Jordan]] and [[John Stewart (comics)|John Stewart]], is in Sector 2814). Heavily-populated Sectors like 2814 can have several Lanterns. While the primary Lanterns of Sector 2814 are Hal Jordan and John Stewart, [[Kyle Rayner]] and [[Guy Gardner (comics)|Guy Gardner]] call Earth home, but are stationed on Oa, first as teachers, and then specially assigned to cases that are too difficult for the average GL. The official number of active Lanterns apparently does not include backup members who are kept in reserve to be called to active duty on short notice in the event that the regular Lantern in their particular sector is not available. In the original organization, the active list was apparently kept at a strict maximum considering John Stewart was not mobilized during the [[Nekron]] crisis despite the situation's dire nature. Despite the vast number of Green Lanterns, certain sectors of space apparently do not recognize the authority of the Corps, as alien superhero [[Icon (comics)|Icon]] claims that his status as a citizen of the world known as the Cooperative makes him immune to prosecution from Guardians or their agents.<ref>''Justice League of America'' (Volume 3) #28</ref>
+
+[[Image:Ic7.png|The Green Lantern Corps fighting Superboy-Prime, with the two Supermen, [[Power Girl]], and the Martian Manhunter. Cover to ''Infinite Crisis'' #7. Art by Jim Lee.|thumb]]
+
+Each member has a great deal of autonomy as to their methods in their jurisdiction, subject to review by the Guardians if they feel the Green Lantern in question has abused their assigned authority. The individual Lanterns are responsible for arranging their replacements (when possible) if they are near retirement or death. If a Lantern dies before that obligation is met, the ring will find and seek another trainee on its own. The planet-sized Green Lantern named Mogo plays a key role in this, helping to direct the rings to suitable recruits. For this reason, the Sinestro Corps tried to destroy Mogo during the Sinestro Corps War. In rare circumstances, Guardians will personally go out into the field to recruit a replacement, via [[telepresence]]. The recruitment of backup Lanterns is more ambiguous with different criteria such as the second closest worthy candidate to the dying Lantern in an emergency search is automatically designated, such as the case of Guy Gardner. When the sector's Lantern was still active, the Guardian would make a selection of a backup on their own, as with John Stewart's recruitment after Gardner was injured in an accident. Hal Jordan disagreed with this selection upon seeing Stewart's apparently belligerent attitude, but the Guardians stood by the decision and the recruit quickly proved himself. 
+
+Upon recruitment each Green Lantern in the original Corps received a Power Ring, a Power Battery shaped like a lantern (with which the ring is recharged), and a uniform. The default uniform design for humanoids was a green section covering the torso and shoulders, black arms and leggings, green boots, white gloves, green [[domino mask]], and a chest symbol of a stylized Green Lantern icon on a white circle. Lanterns were allowed to customize their uniforms as long as the color scheme and the symbol were present. When the nature of the being precludes a standard uniform, an equivalent arrangement is expected as a substitute. For instance, [[Mogo]], a sentient planet, arranges his foliage to create a green circling band and lantern symbol on his body. [[Jack T. Chance]], a humanoid, refused to wear a uniform, but conceded to wearing a badge on the lapel of his coat. Lanterns were also allowed the option of a [[secret identity]] as a security measure and it is implied that the Corps were instructed to honor that choice by taking care not to expose them. Training in the use of the ring was optional and appropriate facilities and personnel were available on Oa upon request. In addition, a senior Lantern can be assigned to coach a recruit while in the field in their sector.
+
+The New Green Lantern Corps being built by the Guardians is far more formal and structured than the old one that was destroyed by Parallax. Recruits, after being found by their Power Rings, are taken to Oa for training. Not all recruits will make it through training - indeed a great many of them might even fail, forcing the ring to find another candidate. Lantern trainees have a simplified version of the old Green Lantern uniform (with green covering more of the torso) with the white circle on their chest blank until the Lantern insignia is added upon completion of their training. Additionally, all Power Rings, not just the ring assigned to the interim Green Lantern Kyle Rayner, now work on the color yellow, provided the user can feel the fear behind the color and overcome it.
+
+Upon recruitment, a Green Lantern is expected to uphold certain principles of their duty. These principles include:
+
+#The protection of life and liberty within the assigned sector.
+#Following the orders of the Guardians without question.
+#Noninterference with a planet's culture, political structure, or its population's collective will.
+#Acting within local laws and obeying the local authority within reason (presumably, the Guardians' orders can overrule this when necessary).
+#Taking no action against anyone or anything until they are proven to be a threat against life and liberty. 
+#Refusing to use the equipment, resources, or authority of The Corps for personal gain.
+#Showing respect for and cooperating with other members of the Corps and the Guardians.
+#Showing respect for life which includes restraint of force unless there is no reasonable alternative.
+#Giving top priority to the greatest danger in the assigned sector.
+#Upholding the honor of the Corps.
+
+To enforce these principles, the Guardians closely monitor the activities of the Lanterns. If they feel a violation of Corps regulations has occurred, they will summon the offender to Oa and hold a trial in which the charges are read and the Lantern is allowed to explain their actions. If the Guardians are not satisfied by the explanation, they have a number of disciplinary options which include:
+*Probation.
+*Personal supervision by the Guardians on Oa.
+*Prime Duty (guarding Superman Prime, once held in a ScienceCell on Oa; this terminated after Prime escaped and was expelled from the Universe at the end of the Sinestro Corps War).
+*Temporary exile from the Lantern's homeworld.
+*Ritual Trial of Endurance - a Lantern must attempt a dangerous passage through the Anti-Matter Universe.
+*Expulsion from the Corps.
+
+Recently, in response to the [[Sinestro Corps War]], the Guardians have rewritten the [[Book of Oa]] (an action formerly considered impermissible} to include ten new laws. Six have been revealed so far. As of Green Lantern Corps #40 they are:
+
+*Green Lanterns are allowed to use lethal force against members of the Sinestro Corps.
+*Green Lanterns are allowed to use lethal force against any enemies of the Green Lantern Corps.
+*Green Lanterns are forbidden from being a part of any sort of romantic relationship with another Green Lantern (this led to over 200 Green Lanterns leaving the Corps).
+*The Vega System is no longer outside the Green Lantern Corps' jurisdiction.
+*All prisoners in the Sciencells must be sentence to death. (This law was not fully declared in the Book of Oa because of its questionable decree. However, it was sent to the Alpha Lanterns to carry out)
+*If the Guardians are unable to fulfill their duties then command of the Corps falls upon Senior Officer (Salaak), and next the Honor Guards (Kyle Rayner and Guy Gardner)
+
+===Oa - Corps headquarters===
+[[Image:Oa armour.jpg|left|150px|thumb|Oa's defensive systems]]
+Green Lantern Corps headquarters are on the planet [[Oa]], in the center of the universe. Oa was destroyed shortly after Hal Jordan became Parallax, but was later reconstituted by Jordan's friend [[Thomas Kalmaku]]. Formerly a natural if barren planet, the reconstructed Oa is now a vast labyrinthine planet-sized construct. Primary features include a great hall for the Guardians to meet in conference, training facilities for recruits, prisons called Sciencells for dangerous criminals, and tombs dedicated to honoring fallen lanterns. Oa's most prominent feature is the Central Power Battery, a gigantic version of the Lanterns' personal power batteries. The central battery channels the same green energy of the Guardians and amplifies it, broadcasting energy to the individual power batteries across the universe which can then be used to charge the Lanterns' power rings. Particularly dangerous beings, such as Sinestro or Parallax, are sometimes imprisoned within the central battery. Maintaining security on this device is vital as major damage to it would prevent individual Corpsmen throughout the universe from recharging their power rings, thus depowering the entire Corps in a single blow.
+
+The Guardians increased the capabilities of Oa's defensive systems by creating an armored structure that protects the planet, but this was destroyed during the preludes to the Blackest Night storyline.
+
+===Green Lantern Honor Guard and the Crimson Mantle of Command===
+The Green Lantern Honor Guard is an elite group of Green Lanterns, based on Oa but not restricted to one sector, who serve as leaders of the Corps, troubleshooters and special operatives.
+
+The title and mantle of Honor Guard was first introduced in issue #1 of the three part miniseries ''Tales of the Green Lantern Corps''.  Amongst their rank were three elite Corps members; [[Tomar-Re]], [[K'ryssma]] and [[Apros]] who lead three division of the Corps against the armies of the undead.  In issue #3  the Guardians promote Green Lantern [[Hal Jordan]] as the first human to receive the honor for his heroic actions in leading the Corps in the defeat of [[Krona]] and [[Nekron]].
+
+Jordan although flattered declines the honor, maintaining that he should be seen as “no different than any other ring-slinger” who did “what any GL would have done given the chance!” Adding that "When it comes right down to it, I guess I'm just one of the gang" and so he remains, to the cheers of his fellow Corps mates.
+
+Green Lantern [[Guy Gardner (comics)|Guy Gardner]] was promoted to primary membership in the Honor Guard as Lantern number one during the ''Green Lantern Corps: Recharge'' miniseries. Guy also serves as field commander during battle.<ref>''Infinite Crisis'' #7, 2006''</ref> In the aftermath of the Sinestro Corps War, with the Ion entity removed from his body, Kyle Rayner has been added to the Green Lantern Honor Guard as Guy's partner.
+
+===The Corpse===
+{{Quote|''You've just been inducted into the coldest, hardest, meanest division of the Green Lantern Corps you never even knew existed. Can't handle it? Tough luck, you don't have a choice. We live in the places that are too dark for the light of the Corps. We handle the jobs too dirty for the green. Welcome to The Corpse.''|Von Daggle}}
+[[Image:CorpseInAction.jpg|right|thumb|250px|The Corpse in action]]
+"The Corpse" is an elite, top-secret [[Black Operation|Black Ops]] division of the Green Lantern Corps. Members of The Corpse are not restricted by the same rules that regular Lanterns follow, and they perform the darkest, most dangerous missions. These members do not use Power Rings; instead, they swallow special coin-like disks that give them all of the powers of the standard ring with a charge that lasts five days. These disks produce purple energy instead of the traditional green. Members of the "Corpse" do not wear Green Lantern uniforms, or display the Green Lantern symbol. Instead, they seem to prefer black uniforms that have no symbol. They are also not bound to rules such as the restriction of using lethal force like the main Green Lantern Corps (though since The Sinestro Corps War, the main Green Lantern Corps have been enabled use of lethal force against Sinestro Corps members, and later all enemies of the Green Lantern Corps). 
+
+Very few Lanterns are even aware of the existence of the "Corpse". Guy Gardner said that in all of his years in the Corps, he never heard of them and after participating in a mission with the Corpse, his memory of them was erased. With the recent authorization of lethal force for the Corps in the aftermath of the Sinestro Corps War, the future and necessity of the Corpse remains unknown.
+
+===The Alpha Lanterns===
+[[Image:Green Lantern Corps no. 22 "The Curse of the Alpha-Lantern", part two.jpg|180px|thumb|Boodikka as an Alpha Lantern, on the cover for ''Green Lantern Corps'' #22. Art by Rodolfo Migliari.]]
+After the Sinestro Corps War, the Guardians create a new class of Green Lantern called the Alpha Lanterns. The Alpha Lanterns are seasoned Corpsmen who have been fused with their Power Rings and Batteries. [[Boodikka]], Varix, Kraken, [[Green Man (comics)|Green Man]], and [[List of Green Lanterns#Chaselon|Chaselon]] are all confirmed Alpha Lanterns; [[Hal Jordan]] is notably not chosen, and [[John Stewart (comics)|John Stewart]] is chosen but he declines the position, much to the disappointment of the Guardians. Geoff Johns stated in an interview with [[IGN]] that the Alpha Lanterns function as [[internal affairs (law enforcement)|Internal Affairs]] for the Green Lantern Corps.<ref>[http://comics.ign.com/articles/843/843209p1.html ''Green Lantern'' #26 Review]</ref> Hal Jordan refers to them in the same manner. They have "the sentient drive and thought process of the Green Lanterns and the efficiency and logic of The Manhunters," as the Guardians turn them into cyborgs using Manhunter technology, and mainline their minds directly to The Book of Oa and the Central Battery. After the transformation, an Alpha Lantern would receive an additional power ring and their power battery is surgically implanted into their body so they need never recharge it, at the apparent expense of their former personality; Alpha Lanterns show no semblance of their former selves or recognition of those they once knew. Similarly to the most recent generation of Manhunters, Alpha Lanterns have a secondary face which can drain a Power Ring of its energy. The Alpha Lanterns tend to chant the Manhunter-like slogan "No Lantern escapes the Alpha Lanterns".
+
+[[Laira (comics)|Laira]] was the first Green Lantern to be punished by the Alpha Lanterns; for the crime of killing [[Amon Sur]] she was stripped of her ring and expelled from the Corps.
+
+The concept of the Alpha Lantern Corps was conceived by [[Grant Morrison]].
+{{-}}
+
+===Weapons===
+{{main|Power ring (DC Comics)}}
+
+
+==Other appearances==
+[[Image:Duck dodgers 2.jpg|thumb|right|The Green Lantern Corps in ''Duck Dodgers'']]
+The Green Lantern Corps made an appearance in ''[[Duck Dodgers (TV series)|Duck Dodgers]]'' in an episode titled "The Green Loontern". After [[Duck Dodgers|Dodgers]] accidentally takes [[Hal Jordan]]'s uniform from the [[dry cleaning|dry cleaners]], he is teleported to the Corps location by the ring, where they are in a fight with a large number of Sinestro's robots. During the fight, the entire Corps is kidnapped by Sinestro to act as a power source for a doomsday device. Duck Dodgers manages to save them (more through accident than skill) before giving the uniform back to [[Hal Jordan]] and being stranded in Sinestro's hideout.
+
+The Green Lantern Corps appear in a few episodes of the ''[[Justice League (TV series)|Justice League]]'' and ''[[Justice League Unlimited]]'' animated series, including "In Blackest Night," "Hearts and Minds", and "The Return." Several Corps members also make cameos in the ''[[Superman: The Animated Series]]'' episode "In Brightest Day," which featured Kyle Rayner.
+
+The Green Lantern Corps are featured heavily in the video game ''[[Mortal Kombat vs. DC Universe]]''. Hal Jordan appears as a playable character and one of the game's major protagonists; the Guardians appear in the game's Oa based stage, and the rest of the Corps members are mentioned to be trying to contain the universe wide crisis taking place during Story Mode. Additionally, [[Sonya (Mortal Kombat)|Sonya Blade]]'s in-game ending depicts her becoming the Green Lantern of the Mortal Kombat universe after gaining the ring of a recently deceased Corps member.
+
+The Green Lantern Corps appear in ''[[Batman: The Brave and the Bold]]'' in their home planet Oa. In the teaser of "Day of the Dark Knight!", the Corps is having lunch in the cafeteria, and force Guy Gardner to clean up his mess. In "The Eyes of Despero!", they fight against [[Despero]], and Hal Jordan hides them in his ring for protection.
+
+<br clear="all" />
+[[Image:Jlu-greenlanterncorps1.jpg|thumb|center|400px|Members as seen in the ''[[Justice League Unlimited]]'' episode "The Return."]]
+
+==Other versions==
+* The Amber Butane Corps are the guardians of the "Perversiverse". Their weapons are sentient lighters. <br> 
+See: <br>
+''Son of Ambush Bug'' issue 1 <br>
+''Ambush Bug: Year None'' issue 2
+
+==See also==
+*[[List of Green Lanterns]]
+*[[L.E.G.I.O.N.]]
+*[[Sinestro Corps]]
+
+==Bibliography==
+This listing is for the “core” series or limited series to feature the Green Lantern Corps in their various incarnations over the years:
+
+*''Tales of the Green Lantern Corps'' Annual #1 (1981) (first annual issue for ''Green Lantern'' (vol. 2) series)
+*''Tales of the Green Lantern Corps'' (3-issue [[limited series|mini-series]], May-July 1981)
+*''Green Lantern Corps'' #201-224 (June 1986 – May 1988) (formerly ''Green Lantern'' (vol. 2) series)
+**Annuals #2 (Dec. 1986), #3 (Aug. 1987) 
+*''Green Lantern Corps Quarterly'' #1-8 (Summer, 1992 - Spring, 1994)
+*''Green Lantern: The New Corps'' (2-issue mini-series, 1999)
+*''[[Green Lantern Corps: Recharge]]'' (5-issue limited series, November 2005 - March 2006)
+*''Green Lantern Corps'' (vol. 2) #1 - present (August 2006 - present)
+
+===Collected editions===
+Some of the stories have been collected into [[trade paperback (comics)|trade paperbacks]]:
+
+*''Tales of the Green Lantern Corps'' (collects ''Tales of the Green Lantern Corps'' #1-3 and back-up stories from ''Green Lantern'' (vol. 2) #148, 151-154, 161-162, 164-167, 160 pages, [[Titan Books]], April 2009, ISBN 1848561474, DC Comics, March 2009, ISBN 1-4012-2155-6)<ref>[http://dccomics.com/dcu/graphic_novels/?gn=10923 ''Tales of the Green Lantern Corps''] at DC Comics.com</ref>
+
+*''Green Lantern Corps'':
+**''[[Green Lantern Corps: Recharge|Recharge]]'' (collects 5-issue limited series, June 2006, ISBN 1-4012-0962-9)<ref>[http://dccomics.com/dcu/graphic_novels/?gn=5221 ''Green Lantern Corps: Recharge''] at DC Comics.com</ref>
+**''To Be a Lantern'' (collects ''Green Lantern Corps'' (vol. 2) #1-6, May 2007, ISBN 1-4012-1356-1)<ref>[http://dccomics.com/dcu/graphic_novels/?gn=7152 ''Green Lantern Corps: To Be a Lantern''] at DC Comics.com</ref>
+**''The Dark Side of Green'' (collects ''Green Lantern Corps'' (vol. 2) #7-13, April 2008, ISBN 1-4352-5617-4)<ref>[http://dccomics.com/dcu/graphic_novels/?gn=8190 ''Green Lantern Corps: The Dark Side of Green''] at DC Comics.com</ref>
+**''[[Sinestro Corps War]]'':
+***''Volume 1'' (collects ''Green Lantern Corps'' (vol. 2) #14-15, ''[[Green Lantern (comic book)|Green Lantern]]'' (vol. 4) #21-23 and "Green Lantern: Sinestro Corps Special" one-shot, hardcover, February 2008, ISBN 1-4012-1650-1,<ref>[http://www.dccomics.com/dcu/graphic_novels/?gn=8543 ''Sinestro Corps War: Volume 1'' hardcover], at DC Comics.com</ref> softcover, May 2009, Titan Books, ISBN 1845767837, DC Comics, ISBN 1-4012-1870-9)<ref>[http://www.dccomics.com/dcu/graphic_novels/?gn=11322 ''Sinestro Corps War: Volume 1'' softcover], at DC Comics.com</ref>
+***''Volume 2'' (collects  ''Green Lantern Corps'' (vol. 2) #16-19 and ''Green Lantern'' (vol. 4) #24-25, hardcover, July 2008, ISBN 1-4012-1800-8,<ref>[http://www.dccomics.com/dcu/graphic_novels/?gn=9168 ''Sinestro Corps War: Volume 2'' hardcover], at DC Comics.com</ref> softcover, Titan Books, July 2009, ISBN 1845768795, DC Comics, June 2009, ISBN 1-4012-2036-3)<ref>[http://www.dccomics.com/dcu/graphic_novels/?gn=11743  ''Sinestro Corps War: Volume 2'' softcover], at DC Comics.com</ref>
+**''Ring Quest'' (collects ''Green Lantern Corps'' (vol. 2) #19-20, 23-26, Titan Books, January 2009, ISBN 1848561164, DC Comics, December 2008, ISBN 1-4012-1975-6)<ref>[http://dccomics.com/dcu/graphic_novels/?gn=10461 ''Green Lantern Corps: Ring Quest''] at DC Comics.com</ref>
+**''Sins of the Star Sapphire'' (collects ''Green Lantern Corps'' (vol. 2) #27-32, Titan Books, July 2009, ISBN 1848563183, DC Comics, June 2009, ISBN 1-4012-2273-0)<ref>[http://dccomics.com/dcu/graphic_novels/?gn=11744 ''Green Lantern Corps: Sins of the Star Sapphire''] at DC Comics.com</ref>
+**''Emerald Eclipse'' (collects ''Green Lantern Corps'' (vol. 2) #33-38, 160 pages, hardcover, November 2009, ISBN 1-4012-2788-0)
+**''Blackest Night'' (collects ''Green Lantern Corps'' (vol. 2) #39-45, 256 pages, hardcover, August 2010, ISBN 1-4012-2788-0)
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin}}
+*{{comicbookdb|type=team|id=11|title=Green Lantern Corps}}
+*{{comicbookdb|type=team|id=612|title=The Corpse}}
+*{{comicbookdb|type=team|id=1272|title=Alpha Lantern Corps}}
+{{refend}}
+
+== External links ==
+* [[DCDatabase:Green Lantern Corps|Green Lantern Corps at the DC Database]]
+* [http://alankistler.squarespace.com/journal/2008/9/5/alan-kistlers-history-of-the-green-lantern-part-1.html Alan Kistler's profile on Green Lantern]
+* [http://glcorps.dcuguide.com/book2.php The Green Lantern Webpage Great Book of OA]
+* [http://www.glcorps.org/glcorps.html The Unofficial Green Lantern Corps Webpage]
+* [http://www.fanboyplanet.com/interviews/mc-keithchampagne3.php Interview with Keith Champagne about the Green Lantern "Corpse"]
+
+{{Green Lantern}}
+[[Category:1959 comics characters debuts]]
+[[Category:DC Comics titles]]
+[[Category:DC Comics aliens]]
+[[Category:DC Comics superhero teams]]
+[[Category:Extraterrestrial superheroes]]
+[[Category:Green Lantern|Corps]]
+[[Category:Fictional law enforcement agencies]]
+
+[[es:Green Lantern Corps]]
+[[it:Corpo delle Lanterne Verdi]]
+[[nl:Green Lantern Corps]]
+[[pt:Tropa dos Lanternas Verdes]]
+[[zh:绿灯军团]]

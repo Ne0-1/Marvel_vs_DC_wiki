@@ -1,0 +1,43 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|comic_color=background:#ff8080
+|image=[[Image:UltimateNickFury.jpg|center|UltimateNickFury.jpg]]
+|caption=Ultimate Nick Fury
+|character_name=General Nick Fury
+|real_name=Nicholas Joseph Fury
+|publisher=[[Marvel Comics]]
+|debut=''Ultimate Marvel Team-Up'' #5
+|creators=[[Brian Michael Bendis]] and [[Mike Allred]], based on the character created by [[Stan Lee]] & [[Jack Kirby]]
+|alliance_color=background:#ffc0c0 
+|alliances=[[S.H.I.E.L.D.]], [[Ultimates]], [[United States Army]]<br>[[Ultimate X-Men]]
+|pwers=Trained in all forms of hand to hand and armed combat; has all of S.H.I.E.L.D. technology and personnel at his disposal.
+|}}
+
+General '''Nicholas Joseph "Nick" Fury''' is a [[fictional character|fictional]] army hero and [[spy]], featured in [[Marvel Comics]]. 
+
+Ultimate Nick Fury is a reinterpretation of the classic Marvel character [[Nick Fury]]. A notable difference between the two is the fact that Classic Fury is [[Caucasian race|caucasian]], while Ultimate Fury is [[African-American]], and was in fact specifically tailored after actor [[Samuel L. Jackson]] with his permission.[http://www.samuelljackson.com/index.php?option=com_content&task=view&id=36&Itemid=44]His eyepatch switches sides in different comics. 
+
+Fury features heavily in all ''Ultimates'' books; initially appearing in [[Ultimate Marvel Team-Up]] and ''Ultimate X-Men'', then later appearing in ''Ultimate Spider-Man'' and finally being the founder and leader of [[Ultimates|The Ultimates]], a re-imagining of the [[Avengers (comics)|Avengers]] and Marvel's current #1-selling title.
+
+==History==
+Ultimate Nick Fury's history has not been as clearly established as [[Earth-616]] Nick Fury, but some information is known.  He went to college in [[India]], and at some point he became involved with [[S.H.I.E.L.D.]]'s Weapon X program in the original [[Gulf War]].  Transporting [[Wolverine_(comics)#Ultimate_Marvel_version|Wolverine]] presumably to the front lines, an Iraqi guerilla ambush freed Wolverine from his cage, whereupon Wolverine slaughtered all the Iraqi fighters.  Only one member of the US forces survived the ambush: Nick Fury.  It was in this ambush that Fury lost an eye and from then on would be portrayed with his trademark eyepatch.  Carrying Fury through the desert back to allied forces, Wolverine was thanked for his work by being repeatedly shot, caged once more, and returned to the battlefront.  Still, a bond was forged between the two men.
+
+The relationship between Fury and Wolverine would prove beneficial to the X-Men years later when they were imprisoned by the Weapon X program. Wolverine, the only X-Man not captured, contacted Fury for help. The X-Men and the other mutants "employed" by Weapon X broke out and as the Weapon X project leader, Colonel [[John Wraith|Wraith]] was about to shoot [[Nightcrawler (comics)|Nightcrawler]], Fury appeared with a team of S.H.I.E.L.D. agents and shot the Colonel.  Wraith had previously attempted to kill General [[Thunderbolt Ross|Ross]] in an explosion for cancelling government support of the Weapon X program. Later, Ross showed up in ''[[Ultimate Fantastic Four]]'' with the explanation that he woke in the mortuary and, at least according to Reed Richards, told the person attending to him, ''"Hands off my precious bodily fluids, soldier,"'' (a reference to Gen. Jack Ripper of ''[[Dr. Strangelove]]'')
+
+After Ross' (apparent) demise, Fury was promoted to [[General]] and took over as the Director of S.H.I.E.L.D. His first plan was to resurrect the [[supersoldier|Super-Soldier]] program, resulting in the formation of the [[Ultimates]]. Fury commands the team - and has even lead them into action. Nick Fury additionally monitors the activities of Peter Parker (Ultimate Spider-Man, also shown in the [[video game]], ''[[Ultimate Spider-Man (video game)|Ultimate Spider-Man]]'') and the X-Men. Fury's future plans for these young post-humans, in part, are for them to join the Ultimates, especially Spider-Man who is not a born mutant but an illegal mutation. Last time he and Spider-Man have crossed paths, he said it was "time for Peter Parker to say goodbye to those [[Spider]] powers". He recently lost his right arm in the battle with the [[Liberators]] on [[Ultimates#Volume_2|Ultimates Vol. 2]].
+
+==Technologies==
+Fury has no trace of the Infinity Formula or other enhancements that the regular continuity's Fury has claimed. He is an exceptional combatant and strategist and a gifted field leader. He operates with technology years ahead of traditional forces, including the latest experimental weaponry, and some form of projected invisibility and the ability to walk through solid matter. These powers have very limited windows due to massive expense for any moment of 'uptime;' costs for these literally burn millions of dollars per microsecond.  Fury is constantly monitored and shadowed by dozens of S.H.I.E.L.D. agents and all observation technology known - and a few that are not.
+
+==Movies and Television ==
+* [[Samuel L. Jackson]] gave his consent for Marvel Comics to design their "Ultimate" version of the character Nick Fury after his likeness. (Amusingly enough, when discussing in 'The Ultimates' #4 who they thought would play them in an in-universe Ultimates movie, Nick Fury's first choice was Samuel L. Jackson) [[Samuel L. Jackson]] recently expressed interest in playing the role of Nick Fury in a future movie.[http://stream.tagworld.com/sam/sam_chat.swf]
+* A Marvel video feature entitled ''[[Ultimate Avengers]]'' and its sequel ''[[Ultimate Avengers 2]]''  features Ultimate Nick Fury, voiced by [[Andre Ware]] who also did Fury's voice for the 2005 game ''[[Fantastic Four (video game)|Fantastic Four]]''.
+* [[Dave Fennoy]] provided the voice of Ultimate Fury in the ''[[Ultimate Spider-Man (video game)|Ultimate Spider-Man video game]]''.
+* A version of Fury identical to the ultimate one also made an appearance on the newly released ''[[X-Men: Legends 2]]'' video game, voiced by [[Khary Payton]].
+*This version of Fury is available as a skin for the playable Nick Fury in the [[Marvel: Ultimate Alliance]] video game
+
+[[Category:Ultimates members|Fury, Nick]]
+[[Category:Fictional generals|Fury, Nick]]
+[[Category:Fictional secret agents and spies|Fury, Ultimate Nick]]
+[[Category:Fictional African-Americans|Fury, Nick]]
+[[Category:Black superheroes]]
+[[Category:Ultimate Marvel|Fury, Nick]]

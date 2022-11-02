@@ -1,0 +1,30 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Satannish
+|real_name=
+|species=[[Demons (Marvel Comics)|Demon]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Doctor Strange]]'' #174 (Nov 1968)
+|creators=[[Roy Thomas]] and [[Gene Colan]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+'''Satannish''' is a [[fictional character]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]].  He is a [[Demons (Marvel Comics)|demon]] who has clashed with [[Doctor Strange]].  He is sometimes referred to as the son of [[Dormammu]] and the father of [[Daimon Hellstrom]] and [[Satana (Marvel Comics)|Satana]].
+
+==External link==
+*[http://www.marvel.com/universe/Satannish Satannish at marvel.com]
+
+[[Category:Marvel Comics demons]]
+[[Category:Magic_users_in_comics]]
+
+[[fi:Satannish]]
+
+{{Marvel-Comics-stub}}

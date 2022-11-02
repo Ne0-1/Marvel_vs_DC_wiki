@@ -1,0 +1,36 @@
+{{In-universe | subject = a [[Wikipedia:WikiProject Comics|comics]] | described_object = a '''character''' | category = [[Category:Comics articles that need to differentiate between fact and fiction]] }}
+
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Delphi
+|real_name=Unknown
+|species=
+|publisher=[[Marvel Comics]]
+|debut=<br> '''Incredible Hulk #379''' 
+|creators=[[Peter David]]; [[Dale Keown]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=[[Pantheon (Marvel Comics)|Pantheon]]
+|previous_alliances=
+|aliases=
+|relatives= Jason (father); Andromeda (mother)
+|powers=immortality; clairvoyance
+|}}
+
+'''Delphi''' is a fictional character in the [[Marvel Universe]].
+
+Delphi is one of the members of the [[Pantheon (Marvel Comics)|Pantheon]]. Delphi can predict the future which she usually does in the nude while looking into her gazing pool. Her teammate, Walter Charles the second Pantheon member to use the codename [[Ulysses (Pantheon)|Ulysses]], has harbored feelings for Delphi for several years. Delphi often speaks in riddles. She was born the same day Ulysses officially joined the group.
+
+Delphi has chosen to remain pure of body (ie a virgin) to retain her psychic gift. Her mother Andromeda had been the seer for the Pantheon until she became pregnant thus losing her gift. Delphi's father [[Jason (Pantheon)|Jason]] the Renegade left the Pantheon after Agamemnon ordered him to kill the original Ulysses. That task later fell to [[Achilles (Pantheon)|Achilles]]. 
+
+Delphi left the group to live with her mother [[Andromeda (Pantheon)|Andromeda]] shortly before [[Agamemnon (Pantheon)|Agamemnon]]'s death. 
+
+
+{{marvel-comics-stub}}
+
+[[Category:Marvel Comics supporting characters]]
+[[Category:Fictional characters with precognition]]
+[[Category:Marvel Comics immortals]]
+[[Category:Pantheon]]

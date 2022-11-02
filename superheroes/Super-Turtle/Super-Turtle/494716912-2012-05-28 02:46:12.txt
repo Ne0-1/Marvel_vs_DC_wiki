@@ -1,0 +1,54 @@
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+| character_name = Super-Turtle
+| image     = [[Image:SuperTurtle.JPG]]
+| caption   = 
+| publisher = [[DC Comics]]
+| debut     = ''[[Adventure Comics]]'' #304 (January 1963)
+| creators  = [[Henry Boltinoff]]
+| alter_ego = 
+| full_name = Tur-Tel
+| species   = [[Turtle]]
+| homeworld = Galapagon
+| alliances = <!-- optional -->
+| partners  = <!-- optional -->
+| supports  = <!-- optional -->
+| aliases   = <!-- optional -->
+| powers    = Same range of powers as [[Superman]]
+}}
+
+'''Super-Turtle''' (or '''Super Turtle''') is a fictional character from [[DC Comics]], created by [[Henry Boltinoff]]; he's depicted as a [[bipedal]] [[anthropomorphic]] [[turtle]] wearing a [[cape]] like [[Superman]]'s. His emblem, which is on his cape, is a letter T in a shield.
+
+==Publication history==
+Created to be a lighthearted parody of Superman, Super-Turtle appeared mostly in one-page comic stories in [[Silver Age of Comic Books|Silver Age]] comic books, starting in ''[[Adventure Comics]]'' #304 (January 1963).
+
+An accepted part of DC Comics history, Super-Turtle tends to show up once in a while in one form or another; e.g., a Super-Turtle figure hangs from the ceiling of the Planet Krypton restaurant in ''[[Kingdom Come (comics)|Kingdom Come]]'', and he had a [[cameo appearance]] in the one-shot ''[[Superman and Batman: World's Funnest]]''. Two one-page Super-Turtle stories were created for and appeared in the 2000 ''[[Silver Age (DC Comics Title)|Silver Age]]'' series.
+
+His most recent comic book appearance was in issue #3 of the 2008 miniseries ''[[Ambush Bug: Year None]]'', in which he plays a role like the one [[Superboy-Prime]] played in ''[[Infinite Crisis]]''; after living in limbo with [[Superman (Earth-Two)|Kal-L]] and company, Super-Turtle (who now calls himself Clark Kent) starts destroying anyone he considers to be a phony Super-Turtle, including [[Bat-Mite]] and [[Superboy (Kon-El)|Connor Kent]].
+
+Super-Turtle has since appeared in ''Sleepy Time Crime'' from Capstone Publishing's DC Super-Pets line of children books.<ref>{{cite web|title=Sleepy Time Crime|url=http://www.capstonepub.com/product/9781404864856}}</ref>
+
+==Fictional character biography==
+On the planet Galapagon (a parody of [[Krypton (comics)|Krypton]] and the [[Galápagos Islands]]), the scientist Shh-Ell (a parody of [[Jor-El]]) of an advanced race of turtles realized that their planet was doomed, and convinced the Science Council that they should build 1,000 spaceships to evacuate it. Slow by nature, the turtles only managed to build one spaceship, in which Shh-Ell's infant son, Tur-Tel (Kal-El), was sent to Earth. Found by a kindly homespun farming couple, the turtle grew up and gained super-powers, becoming '''Super-Turtle''', the '''Reptile of Steel'''.
+
+Super-Turtle's enemies and allies include parodies of Superman's (such as Brainy-[[yak]], who is a parody of [[Brainiac (comics)|Brainiac]] and [[Lex Luthor]]) and, in curious circumstances, Superman himself.
+
+==Powers and abilities==
+Super-Turtle has the same powers as Superman: Flight, invulnerability, superhuman speed and strength, vision powers, et cetera.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.dcuguide.com/who.php?name=superturtle Unofficial Guide to the DC Universe: Super-Turtle]
+** [http://www.dcuguide.com/chronology.php?name=superturtle Unofficial Super-Turtle Chronology]
+* {{comicbookdb|type=character|id=6577}}
+* [http://www.dialbforblog.com/archives/314/ Dial B for Blog #314] (with Super-Turtle comic pages)
+
+{{-}}
+[[Category:Comics characters introduced in 1963]]
+[[Category:DC Comics characters]]
+[[Category:Fictional turtles]]
+[[Category:Parody superheroes]]
+
+
+{{DC-char-stub}}

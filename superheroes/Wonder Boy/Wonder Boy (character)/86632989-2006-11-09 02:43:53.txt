@@ -1,0 +1,27 @@
+{{Superherobox| <!--This box is part of Wikipedia:WikiProject Comics. See that article for details-->
+image=[[Image:wonderboy.jpg|250px]]
+|caption=Wonder Boy
+|comic_color=background:#8080ff <!--Do not change. See Wikipedia:WikiProject Comics-->
+|character_name=Wonder Boy
+|real_name=unknown
+|publisher=[[Quality Comics]]<br>now [[DC Comics]]
+|debut=''[[National Comics]]'' #1 (1940)
+|creators=Jerry Maxwell
+|alliance_color=background:#ffc0c0 <!--Do not change. See Wikipedia:WikiProject Comics-->
+|alliances=[[Uncle Sam (comics)|Uncle Sam]], Sally Benson (girlfriend)
+|relatives= none
+|status=unknown
+|powers=superhuman strength & stamina
+}}
+
+'''Wonder Boy''' is a [[fictional character|fictional]] [[Quality Comics]] character and a [[superhero]] who first appeared in ''[[National Comics]]'' #1 (July 1940): "The Boy From the Meteor".  The character lapsed into public domain prior to [[DC Comics]]'s purchase of Quality Comics. 
+
+He was an alien who came from "the depths of outer space" to Earth in the form of a young boy. He decided to use his superhuman abilities to fight the Nazis and crime in general. He had "the strength of a thousand men" and a girlfriend named Sally Benson.
+
+Wonder Boy was last seen in ''National Comics'' #26 (November 1942): "…The long bloody hands of America’s enemies…" and his subsequent whereabouts are unknown.
+
+==External links==
+*[http://www.internationalhero.co.uk/w/wondboy.htm International Superhero entry]
+
+[[Category:Quality Comics superheroes]]
+[[Category:DC Comics superheroes]]

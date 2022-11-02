@@ -1,0 +1,29 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Sub-Mariner-32.jpg|thumb|225px|right]]
+|caption=Llyra's first appearance. 
+|comic_color=
+|character_name=Llyra
+|real_name=Llyra
+|publisher=[[Marvel Comics]]
+|debut=''[[Namor the Sub-Mariner|Sub-Mariner]]'' #32 ([[December]], [[1970]])
+|creators=[[Roy Thomas]], [[Sal Buscema]] 
+|alliance_color=background:#4040ff 
+|status=Inactive
+|alliances= 
+|previous_alliances=[[Ghaur]]; [[Set (Serpent God)|Set]] 
+|aliases="The [[Lady Dorma]]"
+|relatives= Sub-Mariner (ex-husband); [[Llyron]] (son)
+|powers=Fully amphibious physignogmy suited for high water pressure;
+Super strength, high speed swimming 
+|}}
+'''Llyra''' is a [[Marvel Comics]] [[super-villainess]]. She was created by [[Roy Thomas]] and [[Sal Buscema]] and first appeared in ''[[Namor the Sub-Mariner|Sub-Mariner]]'' #32 ([[December]], [[1970]]).
+
+A native of the undersea kingdom of [[Lemuria (continent)| Lemuria]], Llyra is one of Namor the Sub-Mariner's greatest foes. She was involved in the death of Leonard McKenzie, Namor's father, and she is responsible for the murder of his wife [[Lady Dorma]] and his cousin [[Namora]].
+
+She also gave birth to Namor's son, [[Llyron]] and then had the boy genetically accelerated so that he might take the crown of [[Atlantis]].
+
+{{Marvel-Comics-stub}}
+
+[[Category:Homo mermanus]]
+[[Category:Namor villains]]
+[[Category:Frightful Four members]]

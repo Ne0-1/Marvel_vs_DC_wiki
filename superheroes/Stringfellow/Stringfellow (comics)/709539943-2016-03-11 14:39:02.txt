@@ -1,0 +1,28 @@
+{{About|the comic book character|other people bearing this name|Stringfellow (disambiguation)}}
+{{Unreferenced|date=December 2009}}
+
+{{Infobox comics character|
+image=[[Image:Stringfellow.jpg|78px]]
+|caption=Stringfellow from ''X-Treme X-Men'' #35<br>Art by [[Igor Kordey]].
+|character_name=Stringfellow
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Treme X-Men]]'' #35
+|creators=[[Chris Claremont]]
+|real_name=
+|alliances=[[X-Corporation]]
+|powers=Structure Loosening (the ability to negate the rigidity of biotic structures)
+}}
+'''Stringfellow''' is a [[fictional character]], a [[Mutant (Marvel Comics)|mutant]] in the [[Marvel Comics]] Universe. His first appearance was in ''[[X-Treme X-Men]]'' #35.
+
+==Fictional character biography==
+Stringfellow is a mutant with the ability to cause others' bodies to become super elastic. Serving as [[Sunspot (comics)|Sunspot]]'s personal bodyguard, Stringfellow used his abilities on the X-Man [[Rogue (comics)|Rogue]] when she crashed an [[X-Corporation]] party.{{issue|date=December 2012}} Following the events of [[Decimation (comics)|M-Day]] where [[Scarlet Witch]] removed the mutant genome from over 90% of the world's mutant population, it is unknown whether Stringfellow retained his superhuman powers.
+
+==Powers and abilities==
+He mentally causes organic beings to lose all rigidity in their physical structure, making them collapse like loose, pliant bands of flesh.
+
+==References==
+{{reflist}}
+{{Marvel-char-stub}}
+[[Category:Characters created by Chris Claremont]]
+[[Category:Fictional bodyguards]]
+[[Category:Marvel Comics mutants]]

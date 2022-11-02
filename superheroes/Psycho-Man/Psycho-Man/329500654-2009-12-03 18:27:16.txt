@@ -1,0 +1,48 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+| image = [[Image:FantasticFour-283.jpg|250px]]
+| caption = '''Psycho-Man''' battles the ''[[Fantastic Four]]'' on the cover of ''Fantastic Four'' #283 (Oct. 1985). Art by [[John Byrne]]. 
+| comic_color = background:#ff8080
+| character_name = Psycho-Man
+| real_name =
+| publisher =[[Marvel Comics]]
+| debut = ''[[Fantastic Four]]'' Annual #5 (Nov. 1967)
+| creators =[[Stan Lee]]<br>[[Jack Kirby]]
+| alliance_color=background:#c0c0ff
+| homeworld = Traan
+| powers = <br>Genius-level intellect<br>[[Powered armor]]<br>[[Empathy|Emotional manipulation]]
+|}}
+
+'''Psycho-Man''' is a [[fictional character]] that appears in [[comic book]]s published by [[Marvel Comics]]. The character first appears in ''[[Fantastic Four]]'' Annual #5 (Nov. 1967) and was created by [[Stan Lee]] and [[Jack Kirby]]. 
+
+==Publication history==
+Psycho-Man first appears in a ''[[Fantastic Four]]'' [[annual publication|annual]], being established as the leader of a [[Technocracy (bureaucratic)|technocracy]] that governs a [[microscopic]] system of worlds. Due to [[overpopulation]] on these worlds, the character decides that Earth will be an ideal new base. Using technology the mainstream Marvel universe, Psycho Man remains microscopic in size but is able to function by controlling a suit of advanced human-sized armour.  Using a portable device capable of influencing people's [[emotion]]s, Psycho-Man enslaves a number of human subjects to build a larger version of the machine, with the intent of subdicating the world. The plan, however, is thwarted by ''Fantastic Four'' members the [[Human Torch]] and the [[Thing (comics)|Thing]]; the Royal Family of the [[Inhumans]] and the hero the [[Black Panther (comics)|Black Panther]], and Psycho-Man is forced to retreat back to the Microverse.<ref>''Fantastic Four'' Annual #5 (Nov. 1967)</ref>
+
+The character reappears in the title ''Fantastic Four'' when [[Mister Fantastic]]; the Human Torch and the Thing travel to Psycho-Man's realm to find the [[Herald of Galactus]] the ''[[Silver Surfer]]''. Becoming aware of the threat of Galactus, Psycho-Man allows the heroes and the Surfer to leave unopposed.<ref>''Fantastic Four'' #76 - 77 (July - Aug. 1968)</ref>  In the title ''[[Micronauts]]'' the diminutive heroes are joined by the entire Fantastic Four and battle Psycho-Man, who at this time claims to be in forced [[exile]].<ref>''Micronauts'' #15 - 16 (Mar. - Apr. 1980)</ref> Psycho-Man reappears in the title ''Fantastic Four'', and uses an [[android]] based on the villain the [[Hate-Monger]] to incite hatred amongst the population of [[New York City]]. Psycho-Man succeeds in transforming the ''[[Susan Richards]]'' into the entity [[Malice (comics)#Malice (split personality)|Malice]], and sends her to destroy the remainder of the Fantastic Four. Mister Fantastic frees his wife from the conditioning, and they pursue Psycho-Man to the [[Microverse]], where the villain is forced to experience a number of negative emotions simultaneously by the Invisible Girl. The villain lapses into a [[coma]], and Susan Richards changes her name to the ''Invisible Woman''.<ref>''Fantastic Four'' #280 - 284 (July - Nov. 1985)</ref> 
+
+In the fourth volume of the title ''[[Captain Marvel (Marvel Comics)|Captain Marvel]]'', the [[Kree]] hero [[Genis-Vell]] in has an encounter with Psycho-Man in the Microverse when the villain temporarily controls Marvel's ally, [[Drax the Destroyer]].<ref>''Captain Marvel'' #15 - 16 (Mar. - Apr. 2001)</ref> The character launches another attack on New York City in the title ''[[Marvel Knights 4]]'' but is defeated once again by the Invisible Woman;<ref>''Marvel Knights 4'' #10 - 12 (Nov 2004 - Jan. 2005)</ref> appears in an issue of the fourth volume of the ''[[Black Panther (comics)|Black Panther]]'' and battles a new version of the Fantastic Four (the Black Panther; 
+the [[mutant (Marvel Comics)|mutant]] ''[[Storm (Marvel Comics)|Storm]]'';  the Thing and the Human Torch).<ref>''Black Panther'' vol. 4, #31 (Dec. 2007)</ref>
+
+Psycho-Man is killed by the [[Red Hulk]] during a [[tournament]] organized by the [[Elder of the Universe]] the [[Grandmaster (Marvel Comics)|Grandmaster]], but restored to life with other fallen characters when the tournament is completed.<ref>''Hulk'' vol. 2, #12 (May 2009)</ref>
+
+==Powers and abilities==
+Psycho-Man possesses advanced intelligence and in experimental and combat situations uses a portable emotion-controlling device called the "Control-Box" that projects a ray capable of stimulating the centers of emotion within a person's brain. The device has settings allowing it to trigger fear; doubt, and hate at varying degrees of intensity. Being a microscopic being, Psycho-Man uses and remotely controls wears advanced body armour (with varying abilities) when appearing on Earth. The character also possesses a futuristic space vessel for transport.
+
+==Other versions==
+=== Ultimate Marvel ===
+Psycho-Man appears in the [[Ultimate Marvel]] imprint [[Parallel universe (fiction)|alternate universe]] title ''[[Ultimate Fantastic Four]]'', and has a successor that is identical to the [[Herald of Galactus]] the ''[[Silver Surfer]]''.<ref>''Ultimate Fantastic Four'' #44 (Sep. 2007)</ref>
+
+==In other media==
+===Television===
+* Psycho-Man appears in episode "Worlds Within Worlds" of the [[animated]] series ''[[Fantastic Four (1994 TV series)|Fantastic Four]]'' (1994) voiced by Jamie Horton.<ref>http://voicechasers.com/database/showactor.php?actorid=6850</ref>
+
+==References==
+{{reflist}}
+
+{{Fantastic Four}}
+
+[[Category:1967 comics characters debuts]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Marvel Comics supervillains]]
+
+[[fi:Psykomies]]

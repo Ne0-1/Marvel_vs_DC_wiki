@@ -1,0 +1,45 @@
+{{Superherobox| <!--This box is part of Wikipedia:WikiProject Comics. See that article for details-->
+image=[[File:87683-150068-spidercide-1-.jpg|200px]]
+|caption=Spidercide<br>Art by [[Michael Bair]]
+|comic_color=background:#ff8080
+|character_name=Spidercide
+|real_name=
+|publisher=[[Marvel Comics]]
+|debut=''[[The Spectacular Spider-Man]]'' #222 (March 1995)
+|creators=[[Tom DeFalco]]<br>[[Sal Buscema]]<br>(based upon [[Spider-Man]] by [[Stan Lee]] and [[Steve Ditko]])
+|alliance_color=background:#ffc0c0
+|alliances=
+|aliases=Freakface
+|powers=Possesses all of Spider-Man's powers. Can grow and shrink in size. Can turn body semi-liquid and form blades. Limited Shapeshifting.
+|}}
+
+'''Spidercide''' is a [[fictional character]] from the [[Marvel Comics|Marvel]] [[Marvel Universe|Universe]], a clone of the superhero [[Spider-Man]], serving as an enemy and a [[Foil (literature)|foil]] to both his original counterpart and [[Scarlet Spider]] ([[Ben Reilly]]), who was also a clone and an ally of Spider-Man.
+
+==Fictional character biography==
+During the [[Clone Saga]], in addition to [[Ben Reilly]], [[Kaine]], Jack and Guardian another clone of Spider-Man was introduced, Spidercide. He was a [[red herring]] that was introduced to make him seem to be the real Peter Parker who was locked in a pod for roughly five years.<ref>''Spider-Man: Maximum Clonage Omega''</ref><ref name="ASM404">''[[The Amazing Spider-Man]]'' #404</ref> While still in denial of the fact that he was a clone, Spidercide died during a battle with Spider-Man, Ben, and Kaine.<ref>''Spider-Man: Maximum Clonage Alpha''</ref> [[Scrier]] recovered his remains and reanimated him, granting him the unique ability to turn into other materials and shapes in the process.{{Issue|date=August 2011}} While Spidercide returned to the [[Jackal (Marvel Comics)|Jackal]] thereafter, his loyalty was always to Scrier from that point on. He later mortally wounded Kaine by impaling him through the chest, causing an enraged Ben Reilly to throw him into a power grid, electrocuting and seemingly killing him.<ref>''The Amazing Spider-Man'' #399</ref> His new powers allowed him to regenerate and he came back once more. He ultimately betrayed the Jackal, sending a copy of all of the Jackal's data to Scrier. The Jackal found out and tried to kill him, and Spidercide was once again incapacitated when he fell off the top of the [[Daily Bugle]] building during the fight, splattering his protoplasmic body into a pile of inert goo. His remains were taken away by police and he was placed in a state of suspended animation to keep him from returning.<ref name="ASM404"/>
+
+The Jackal has recently acquired a fresh sample of Kaine's DNA and, ignoring his own advise of never cloning a clone, plans to create Spidercide 2.0.<ref>''Scarlet Spider'' vol. 2 #20</ref>
+
+==Powers and abilities==
+Spidercide possesses all of Spider-Man's powers. In addition, he can [[Shapeshifting|shapeshift]], turn his body into a semi-liquid form, and grow and shrink in size. His body is extremely durable and he can regenerate even after being pushed to the brink of death. As with many of Spider-Man's other clones, Spidercide does not trigger Spider-Man's spider sense; Spider-Man does not trigger Spidercide's spider sense either.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.spiderfan.org/characters/spidercide.html Bio at Spiderfan.org]
+*[http://www.samruby.com/History/clonesagatimeline.htm The Clone Saga Timeline]
+*[http://marvel.com/universe/Spidercide Spidercide on the Marvel Universe Character Bio Wiki]
+*{{Marvunapp|http://www.marvunapp.com/Appendix4/spidercide.htm|Spidercide}}
+
+<!--Spider-Sense is a form of prescience.-->
+
+{{Spider-Man}}
+[[Category:Comics characters introduced in 1995]]
+[[Category:Fictional clones]]
+[[Category:Fictional shapeshifters]]
+[[Category:Fictional amorphous creatures]]
+[[Category:Fictional undead]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Fictional mass murderers]]
+[[Category:Spider-Man characters]]

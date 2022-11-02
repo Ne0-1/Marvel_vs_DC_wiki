@@ -1,0 +1,41 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|character_name=Hope Pym
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[A-Next]]'' #7 (April [[1999 in comics|1999]])
+|creators=[[Tom DeFalco]], [[Ron Frenz]]
+|alliances=[[Revengers]]
+|aliases=[[Red Queen (comics)|Red Queen]]
+|powers=Flight via implanted bio-wings<br>Bio-electric blasters and extendable claws on her gloves
+|}}
+
+'''Hope Pym''', also known as the '''[[Red Queen (comics)|Red Queen]]''', is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The daughter of [[Hank Pym]] and [[Janet van Dyne]] in the [[Marvel Comics 2|MC2]] universe, she was created by [[Tom DeFalco]] and [[Ron Frenz]], and first appeared in ''[[A-Next]]'' #7 (April 1999). The character was adapted for a wider audience played by [[Evangeline Lilly]] in the [[Marvel Cinematic Universe]] as '''Hope van Dyne''' in the 2015 film ''[[Ant-Man (film)|Ant-Man]]'' and later as the titular superhero '''Wasp''' in the 2018 sequel ''Ant-Man and the Wasp''.
+
+==Fictional character biography==
+After the deaths of their parents, Hope Pym and her twin brother [[Big Man]] (Henry Pym Jr.) became outraged when people began referring to A-Next as the "next generation of Avengers". Using their parents' fortune, the twins put together the supervillain [[Revengers]] team and gained access to the [[Avengers Mansion]] via their parents' security codes.{{issue|date=April 2015}} When they ambushed A-Next, Hope set about to torture [[Cassandra Lang]], feeling that she's the Avengers' rightful heir.{{issue|date=April 2015}} Hope was finally stopped by Henry and prevented her from initiating the mansion's self-destruct sequence, which would have killed both A-Next and the Revengers.{{issue|date=April 2015}}
+
+==Powers and abilities==
+As Red Queen, she uses implanted bio-wings to fly. Also, she has bio-electric blasters installed on the gloves on the back of her hands, and extendable claws built into her gloves. However, she apparently does not have the ability to alter her size.{{issue|date=August 2015}}
+
+==In other media==
+===Film===
+[[File:Evangeline Lilly as Hope Van Dyne in Ant-Man.jpg|right|thumb|[[Evangeline Lilly]] as Hope van Dyne in the 2015 film ''[[Ant-Man (film)|Ant-Man]]''.]]
+* [[Evangeline Lilly]] portrays the character, re-named '''Hope van Dyne''', in the 2015 film ''[[Ant-Man (film)|Ant-Man]]''.<ref name="Lilly">{{cite web |last=Kit |first=Borys |date=February 5, 2014 |title=Evangeline Lilly in Talks to Join 'Ant-Man' |url=http://www.hollywoodreporter.com/heat-vision/evangeline-lilly-talks-join-ant-673718 |work=[[The Hollywood Reporter]] |accessdate=February 5, 2014 |archiveurl=http://www.webcitation.org/6NAjyeSR4 |archivedate=February 5, 2014 |deadurl=no}}</ref><ref>[http://www.slashfilm.com/ant-man-set-visit/4/]</ref> In the film, she is estranged from her father and takes her mother's maiden name. She is a business partner of [[Darren Cross]] and a reluctant acquaintance of [[Scott Lang]].<ref name="Marvel2014SDCC">{{cite web|url=http://marvel.com/news/movies/2014/7/26/22968/sdcc_2014_official_evangeline_lilly_corey_stoll_join_marvels_ant-man|title=SDCC 2014: Official: Evangeline Lilly & Corey Stoll Join Marvel's Ant-Man|publisher=[[Marvel Comics|Marvel.com]]|date=July 26, 2014|accessdate=July 26, 2014|archiveurl=http://www.webcitation.org/6RMwOxtAS|archivedate=July 26, 2014|deadurl=no}}</ref> A mid-credits scene shows Hope being given a modernized version of her mother's costume. 
+* Evangeline Lilly will reprise her role in the 2018 film ''[[Ant-Man and the Wasp]]'' albeit as the [[Marvel Cinematic Universe]] iteration of '''[[Wasp (comics)|Wasp]]'''.<ref>{{cite web|url=http://www.fandango.com/movie-news/interview-marvel-studios-president-kevin-feige-on-ant-man-doctor-strange-and-more-749486|title=Interview: Marvel Studios President Kevin Feige on 'Ant-Man,' 'Doctor Strange' and More|last=Davis|first=Erik|publisher=[[Fandango.com]]|date=July 7, 2015|accessdate=July 17, 2015|archiveurl=http://www.webcitation.org/6a54gkzBz|archivedate=July 17, 2015|deadurl=no}}</ref><ref>http://marvel.com/news/movies/25244/marvel_studios_phase_3_update#ixzz3nzXVCtqs</ref> 
+
+==References==
+{{reflist}}
+
+{{Henry Pym}}
+
+{{DEFAULTSORT:Pym, Hope}}
+[[Category:Characters created by Ron Frenz]]
+[[Category:Characters created by Tom DeFalco]]
+[[Category:Comics characters introduced in 1999]]
+[[Category:Fictional twins]]
+[[Category:Marvel Comics supervillains]]
+
+{{Marvel-char-stub}}

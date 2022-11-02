@@ -1,0 +1,34 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = [[Image:Girobotdcu0.jpg|225px]]
+| caption = G.I. robot, artist [[Ross Andru]]
+| character_name = G.I. Robot
+| publisher = [[DC Comics]]
+| debut = ''[[Weird War Tales]]'' #101 (July 1981)
+| creators = [[Robert Kanigher]] (writer)<br> Pepe Morino Casaras (artist)<br>Fred Carrillo (artist)
+| real_name =
+| species = Robot
+| homeworld = <!-- optional -->
+| alliances = [[Creature Commandos]]<br>[[United States Marine Corps]]
+| aliases = J.A.K.E., J.A.K.E. 2, 
+| supports=<!--optional-->
+| powers = Superhuman strength<br>[[Bulletproof]] casing<br>Mechanical stamina<br>Built-in [[machine gun]] arm.
+}}
+
+'''G.I. Robot''' is the name of a series of fictional [[robot]]s that appeared in comic books published by [[DC Comics]]. '''J.A.K.E. 1''' first appeared in ''[[Weird War Tales]]'' #101 (July 1981), and was created by [[Robert Kanigher]] and Pepe Morino Casaras. '''J.A.K.E. 2''' first appeared in ''Weird War Tales'' #113 (July 1982), and was created by Robert Kanigher and Fred Carrillo.
+
+==Fictional character biography==
+G.I. Robot is a robot designed by a [[Massachusetts Institute of Technology]] professor named Thompson. He is deployed to a Pacific island to fight the Japanese military during [[World War II]] alongside the United States Marines and is placed under the control of a sergeant named Coker. Although the robot is technically named '''Jungle Automatic Killer - Experimental Number 1''' (J.A.K.E. 1), Coker gives the robot the nickname G.I. Robot. Coker is skeptical of the robot's abilities, but it soon earns his trust.
+
+J.A.K.E. 1 is destroyed in ''Weird War Tales'' #111 but is replaced by J.A.K.E. 2, which also goes by the nickname G.I. Robot. The second G.I. Robot continued to fight on Pacific islands, including [[Dinosaur Island]]. It later teams with the [[Creature Commandos]].  J.A.K.E. 2 and the Creature Commandos were presumed killed when the rocket they were riding to [[Berlin]] misfired and headed into deep space (''Weird War Tales'' #124).
+
+==Powers and abilities==
+The G.I. Robots were both fully autonomous mechanical soldiers, capable of making decisions and adapting to changes in their environments.  Each unit is armor plated, and can withstand direct fire from small arms.  The left arm of the robots was a fully functional machine gun, which can fire both bullets, mini-torpedoes, and small anti-aircraft missiles.  The G.I. Robot's can fly for short distances thanks to small rockets in their boots.
+
+==References==
+*[http://www.mykey3000.com/cosmicteams/tommorrow/G/Girobot1.htm JAKE #1 at Cosmic Teams]
+*[http://www.mykey3000.com/cosmicteams/tommorrow/G/Girobot2.htm JAKE #2 at Cosmic Teams]
+
+{{-}}
+
+[[Category:DC Comics robots]]
+[[Category:Fictional robots]]

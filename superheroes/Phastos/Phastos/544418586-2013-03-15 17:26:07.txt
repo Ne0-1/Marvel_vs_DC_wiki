@@ -1,0 +1,57 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name=Phastos
+|image=Phastosmu0.png
+|imagesize=200
+|converted=y
+|caption=Phastos, art by [[Mark Texeira]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Eternals (comics)|Eternals]]'' (vol. 2) #1,<br/> (October 1985)
+|creators=[[Peter B. Gillis]] (writer)<br/>[[Sal Buscema]] (artiist)
+|alter_ego =
+|species = [[Eternals (comics)|Eternal]]
+|homeworld = <!-- optional -->
+|alliances =
+|aliases = Hephaestus<br />Vulcan<br />Phillip Stoss
+|supports=<!--optional-->
+|powers = Eternal body grant superhuman speed, strength, durability and regeneration<br>Cosmic energy manipulation<br>Flight<br>Illustion generation<br>Matter transmuation<br>Teleporation
+|cat=super
+|subcat=Marvel Comics
+|hero-yes
+|sortkey=Phastos
+}}
+'''Phastos''' is a [[fictional character]] appearing in the [[Marvel Comics]] [[Marvel Universe|universe]]. He first appeared in ''[[Eternals (comics)|Eternals]]'' (vol. 2) #1, October (1985), and was created by [[Peter B. Gillis]] and [[Sal Buscema]].
+
+==Publication history==
+{{Expand section|date=March 2009}}
+Phastos first appeared in ''Eternals'' (vol. 2) #1.
+
+The character re-appeared in ''Eternals'' (vol. 4) where he is shown living under the name '''Phillip Stoss'''<ref>''Eternals'' (vol. 4) #1</ref> before having his real identity revealed to him.
+
+==Fictional character biography==
+Phastos's history is very murky. He is a third or fourth generation Eternal who chose to remain on Earth because of his obsessive search for an unidentified item or person.{{issue|date=January 2013}} He continues to serve as the master technologist for the Eternal race, and it was his genius which allowed [[Virako]] to return from apparent death.{{issue|date=January 2013}} Although he despises [[war]], Phastos chose to follow [[Ikaris]] into battle against the minions of [[Apocalypse (comics)|Apocalypse]].<ref>''The New Eternals: Apocalypse Now'' (February 2000)</ref>
+
+==Powers and abilities==
+* Phastos' Eternal body is superhumanly fast, strong, tough, and can regenerate.
+* Can project "Cosmic Energy" in the form of beams from his eyes and hands.
+* Cosmic energy manipulation allows flight, illusion generation, matter transmutation, and teleportation.
+* Phastos carries a special hammer capable of firing bolts of an unknown energy.
+* Phastos is also a brilliant engineer, technologist and inventor.
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{refbegin}}
+* [http://www.marveldirectory.com/individuals/p/phastos.htm Phastos] at the Marvel Directory
+* {{comicbookdb|type=character|id=6296|title=Phastos}}
+{{refend}}
+
+==External links==
+* [http://www.marvel.com/universe/Eternals The Eternals] at the Marvel Universe
+* [http://marvel.wikia.com/wiki/Phastos Phastos] at the Marvel Database Project
+
+[[Category:Comics characters introduced in 1985]]
+[[Category:Marvel Comics Eternals]]
+
+
+{{Marvel-char-stub}}

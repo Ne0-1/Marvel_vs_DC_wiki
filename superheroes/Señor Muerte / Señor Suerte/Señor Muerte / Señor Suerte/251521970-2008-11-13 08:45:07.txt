@@ -1,0 +1,54 @@
+'''Señor Muerte''' and '''Señor Suerte''' are aliases used by a number of fictional characters in the [[Marvel Universe]].
+
+==Ramon==
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Señor Suerte
+|real_name=Ramon
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Luke Cage|Hero For Hire]] #10'' (Jun 1973)
+|creators=[[Steve Englehart]] and [[George Tuska]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=Señor Muerte
+|relatives=
+|powers=
+|}} 
+
+The first character to use these names was a criminal who called himself "Señor Suerte" (which means "Mr. Luck" in English) in his role as head of criminal gambling operations in New York.  He used the name "Señor Muerte" (which means "Mr. Death" in English) when he killed his opponents.
+
+Ramon had Frank Jenks killed.  He was electrocuted by his own device while battling [[Luke Cage]].<ref>''Hero For Hire'' #11</ref>
+
+{{-}}
+
+==Jaime and Phillip==
+{{Superherobox| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|comic_color=background:#ff8080 
+|character_name=Señor Suerte and Señor Muerte
+|real_name=Jaime
+|species=
+|publisher=[[Marvel Comics]]
+|debut=Muerte II: ''[[Captain America]] #224'' (Aug 1978)<br>Suerte II: ''[[Power Man/Iron Fist]] #56'' (Apr 1979)
+|creators=Muerte II: [[Peter Gillis]] and [[Mike Zeck]]<br>Suerte II: [[Mary Jo Duffy]] and [[Trevor Von Eeden]]
+|alliance_color=background:#c0c0ff
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+|}} 
+
+After Ramon's death, his younger brothers Jaime and Phillip took over his operations.  Jaime became "Señor Suerte" and Phillip became "Señor Muerte".  Phillip was a professional assassin and was formerly allied with the [[Tarantula (Marvel Comics)#Anton Miguel Rodriguez|Tarantula]] in an attempt to hijack the Madbombs.  Phillip wore gloves that were able to release spider venom into his victims.
+
+==References==
+<references />
+
+[[Category:Marvel Comics supervillains]]

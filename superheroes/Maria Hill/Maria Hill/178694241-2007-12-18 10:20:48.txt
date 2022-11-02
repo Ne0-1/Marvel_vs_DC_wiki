@@ -1,0 +1,66 @@
+{{Primarysources|article|date=August 2007}}
+{{Cleanup-comics|date=August 2007}}
+{{Plot|date=August 2007}}
+
+{{Superherobox|
+image=[[Image:Mariahill.PNG|240px]]
+|caption=Maria Hill.<br>Art by [[Steve McNiven]]. 
+|comic_color=background:#ff8080
+|character_name=Maria Hill
+|real_name=Maria Hill
+|publisher=[[Marvel Comics]]
+|debut=''New Avengers'' #4 (March [[2005]])
+|creators=[[Brian Michael Bendis]]<br>[[David Finch]]
+|alliance_color=background:#cccccc
+|alliances=[[S.H.I.E.L.D]]
+|powers=Trained agent
+|}}
+
+'''Maria Hill''' is a [[fictional character]] of the [[Marvel Universe]]. She is deputy Director of the planetary defense/intelligence service [[S.H.I.E.L.D.]]. 
+
+== Fictional character biography ==
+
+Born in [[Chicago]]<ref>''[[Secret War (comics)|Secret War]]'' #5</ref>, Hill has a brief stint in [[Madripoor]] that gets her noticed by various heads of state and government around the world.
+
+After the scandalous affair of the [[Secret War (comics)| Secret War]] and its disastrous effect on [[New York City]], S.H.I.E.L.D. director [[Nick Fury]] goes into hiding.  Maria Hill, viewed by the leaders of several nations as being both an efficient agent and, more importantly in their eyes, not directly loyal to Fury or any of his personal cadre, is appointed interim Executive Director. For a time, a [[Life Model Decoy]] of Fury is regularly used in public to maintain an illusion of normalcy within the Directorate's ranks. Hill is expected to be loyal to United States interests before those of the [[United Nations]], which S.H.I.E.L.D. is supposed to serve before any other country.
+
+Hill quickly establishes new policies on super-powered heroes, as requested by the [[President of the United States]] and his peers in other national governments: to end S.H.I.E.L.D. support for the heroes. These policies are in full effect when Hill tries to prevent the [[Avengers (comics)|Avengers]] from re-forming following the breakout at the super-villain prison the Raft.
+
+[[Captain America]]'s Champion status allows him to form any team he wants for any mission he sees fit. [[Jessica Drew|Spider-Woman]]'s status as a S.H.I.E.L.D. agent gives her access to any files that the Avengers may require. These two situations convince Hill to leave the situation alone.
+
+In the wake of events in the [[Savage Land]] the Avengers suspect Hill of being complicit in various crimes, but lack the evidence to prove her malfeasance. For her part, Hill has suspected the latest incarnation of the Avengers of harboring an illicit agenda in connection with, among other things, the [[House of M]] affair.
+
+She earns [[Iron Man]]'s respect when she ignores the [[President of the United States|president]]'s orders to nuke an island the Avengers were on.
+
+=== ''Civil War'' ===
+[[Image:CW01 11.jpg|Art from ''Civil War'' #1 by Steve McNiven.|left|thumb]]
+Maria Hill is directly responsible for [[Captain America]] going underground to lead the opposition against the Superhuman Registration Act. Weeks before the act became law, Hill summons Captain America to gain insight into the developments inside the superhero community.  When the Captain informed her that the registration issue was dividing heroes and setting them against each other, Hill attempts to force him into leading the Avengers in a pre-emptive measure to capture and detain heroes who would not consent to having their identities revealed. Since the act had not yet become law, the Captain dismisses her command as politically skewed, saying that heroes need to "stay above" such affairs or Washington would start telling them who the super-villains were.
+
+Following Captain America's refusal, Hill summons a [[Superhuman Restraint Unit|company of soldiers]] armed with tranquilizers and orders them to open fire. She implies that Captain America not obeying her orders/the will of the American people, makes him a supervillain. Left with no other choice, Captain America fights his way out of the [[Helicarrier]] and hijacks a jetplane (though he makes sure the pilot is unharmed).
+
+As S.H.I.E.L.D. Director, Hill is one of the leading enforcers of the Superhuman Registration Act. She blackmails [[Wonder Man]] into actively supporting S.H.I.E.L.D.'s crusade to hunt down the superheroes opposed to the Registration Act. She sends Kree supersoldier [[Noh-Varr]], already brainwashed, to capture the [[Runaways (comics)|Runaways]]. She directs the [[Thunderbolts (comics)|Thunderbolts]] to capture Spider-Man after he goes rogue. The two Thunderbolts members sent out, Jester and Jack-O-Lantern, are slain by the Punisher. 
+
+After foiling an attack on Stark Tower, Maria Hill admits to Tony Stark that she doesn't want her job as director of S.H.I.E.L.D. and thinks she shouldn't have been offered it in the first place. She suggests that the only other person besides [[Nick Fury]] who should lead the organization is Stark himself. 
+
+At the conclusion of the Civil War, the President of the United States appoints Tony Stark the new director of S.H.I.E.L.D., with Maria Hill his acting deputy director.  Stark later, dismissively asks her to fetch some coffee; Hill does not look pleased<ref>''Civil War'' #7</ref>.
+
+==Quotes==
+*[[Joe Quesada]]: "[Hill] is such a strong personality, she's like a force of nature and quite frankly, while perhaps not immediately loved by all involved, she's certainly as strong and imposing a figure as Nick Fury. Right now I feel that people view her as the outsider but [while] I  don't think she’s any harsher than Fury has ever been, what's different is that we aren’t quite clear about her motives".<ref> [http://www.newsarama.com/NewJoeFridays/NewJoeFridays12.html ''Newsarama'' (no date): "Joe Fridays" (column), by Joe Quesada]</ref>
+
+==See also==
+*[[List of S.H.I.E.L.D. members]]
+
+==Footnotes==
+<div class="references-small">
+<references/>
+</div>
+
+{{DEFAULTSORT:Hill, Maria}}
+
+[[Category:Fictional characters from Chicago]]
+[[Category:Fictional secret agents and spies]]
+[[Category:Fictional soldiers]]
+[[Category:Fictional Americans]]
+[[Category:Marvel Comics supporting characters]]
+
+[[pt:Maria Hill]]

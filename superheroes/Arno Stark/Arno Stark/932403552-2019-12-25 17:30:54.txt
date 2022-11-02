@@ -1,0 +1,47 @@
+{{short description|Comic book character}}
+'''Arno Stark''' are two similar [[fictional character]]s appearing in [[American comic book]]s published by [[Marvel Comics]], appearing as a counterpart of the [[superhero]] [[Iron Man]] in the [[Multiverse (Marvel Comics)|multiverse]]. The first of these characters is best known as [[Iron Man 2020]].
+
+==Publication history==
+[[Iron Man 2020]] first appeared in ''[[Machine Man]] 2020'' #2 (1984), and was created by [[Tom DeFalco]] and [[Herb Trimpe]].
+
+This Earth-616 iteration appeared unnamed in ''Iron Man'' #12 (September 2013) and named in ''Iron Man'' #17 (December 2013), and was created by [[Kieron Gillen]] and [[Dale Eaglesham]]. 
+
+==Fictional character biography==
+===Iron Man 2020===
+{{Main|Iron Man 2020}}
+
+===Earth-616 version===
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| image =
+| caption = 
+| character_name = Arno Stark
+| real_name = Arno Stark
+| publisher = [[Marvel Comics]]
+| debut = ''[[Iron Man (comic book)|Iron Man]]'' #12 (September 2013; unnamed<br>''Iron Man'' #17 (December 2013; named)
+| creators = [[Kieron Gillen]]<br>[[Dale Eaglesham]]
+| alliances = 
+| aliases = 
+| powers = Armor grants:<br>Flight<br>Superhuman strength and physical resistance<br>Energy blasts
+}}
+An alternate equivalent of Arno Stark has since been seen in the mainstream [[Earth-616]] continuity as the previously unknown brother of [[Iron Man]] (Tony Stark). He is revealed to have been genetically altered by the [[Recorder (comics)|Recorder]] known as 451, intending for the child to grow up to pilot a suit of armor known as the Godkiller. Upon learning this, [[Howard Stark]] sabotaged the experiment which rendered Arno crippled and unable to speak without the use of machines.<ref>''Iron Man'' vol. 5 #9–12</ref> His existence was purposefully kept a mystery until decades later when he was discovered by Tony at the [[Maria Stark]] Foundation.<ref>''Iron Man'' Vol. 5 #17</ref> He and Tony began transforming the decrepit Mandarin City into a futuristic utopia called Troy.<ref>''Iron Man'' Vol. 5 #19</ref> Tony and Arno's plan soon found opposition in the form of the Rings of the [[Mandarin (comics)|Mandarin]] who started searching for hosts to destroy Tony and Troy.<ref>''Iron Man'' Vol. 5 #20</ref> The Mandarin-One named Lord Remaker bombed the Troy Central Control and Arno was seemingly killed.<ref>''Iron Man'' Vol. 5 #21</ref> However, Arno had deployed his [[Iron Man's armor|own suit]] of Iron Man's armor with which he later helped Iron Man and the Trojan Guard fight the enemy forces. After realizing the city would never be safe as long as he was attached to it, Tony quits working directly on Troy, leaving Arno the position of the city's new custodian.<ref>''Iron Man'' Vol. 5 #22</ref> Arno later began working on a remake of the [[Extremis]] virus.<ref>''Iron Man'' Vol. 5 #26</ref>
+{{-}}
+
+==Powers and abilities==
+Iron Man 2020 wears a suit of highly sophisticated [[armor]], similar in appearance to the classic Iron Man armor (circa Model 5), with the exception of the faceplate and shoulders. Beam weapons are fitted in the gauntlets of the suit, as well as the chest beam and shoulder epaulets. The user no longer requires a [[cybernetic]] link in the helmet to control the armor; the helmet can also be hidden via cloaking technology, which was presumably developed based on the Chameleon mode of the Silver Centurion armor. Iron Man 2020's systems are built for [[warfare]], not super heroics like the original Iron Man. Iron Man 2020's repulsors (and an arsenal of other weapons) always fire at maximum power for the most lethal effects.  Curiously, Iron Man 2020 also has the original Iron Man's 1970s-era rollerskates (updated to a "roller blade" style{{issue|date=April 2013}}) built into the boots of the suit.
+
+==Other versions==
+
+===''Secret Wars''===
+On the Technopolis area of [[Battleworld]] during the ''[[Secret Wars (2015 comic book)|Secret Wars]]'' storyline, Arno Stark is the brother of Tony Stark (the region's ruler).<ref>''Armor Wars'' #1</ref> He colludes with [[Kingpin (comics)|Wilson Fisk]] to help undermine his brother's rule and seeks to steal new armor designs from Kiri Oshiro (the niece of [[Rumiko Fujikawa]]).<ref>''Armor Wars'' #2</ref> It turned out that Tony and Arno's father was the one who unleashed the airborne virus that required everyone to wear high-tech armors. After Lila Rhodes defeated Iron Man and Arno, the brothers are arrested by the Thor Corps.<ref>''Armor Wars'' #5</ref>
+
+==In other media==
+
+===Video games===
+* The Earth-616 version of Arno Stark appears as a playable character in ''[[Marvel: Future Fight]]'' with alternate costume designs consisting of [[Tony Stark (Marvel Cinematic Universe)|Iron Man]]'s [[Iron Man's armor#Hulkbuster armor|Hulkbuster armor]] in ''[[Avengers: Age of Ultron]]'' and [[Bruce Banner (Marvel Cinematic Universe)|Bruce Banner]]'s in ''[[Avengers: Infinity War]]''. 
+
+==References==
+{{Reflist|2}}
+
+{{Iron Man}}
+
+[[Category:Iron Man]]

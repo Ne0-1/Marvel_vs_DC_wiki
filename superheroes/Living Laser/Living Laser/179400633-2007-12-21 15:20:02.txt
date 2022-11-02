@@ -1,0 +1,52 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:IM-153.jpg|280px]]
+|caption=The '''Living Laser''' battles [[Iron Man (comics)|Iron Man]] on the cover of Iron Man #153 (Dec. 1981). Art by [[Bob Layton]].
+|comic_color=background:#ff8080
+|character_name=The Living Laser
+|real_name=Arthur Parks
+|publisher=[[Marvel Comics]]
+|debut=''Avengers'' #34 (Nov 1966)
+|creators=[[Stan Lee]]<br>[[Art Simek]]<br>[[Don Heck]]
+|alliance_color=background:#cccccc
+|status=Uncertain
+|alliances=
+|previous_alliances=[[Mandarin's Minions]], [[Batroc the Leaper|Batroc's Brigade]], [[Lethal Legion]]
+|aliases=The Laser
+|relatives=
+|powers=Genius level intellect<br>Light manipulation (flight, energy projection, illusion generation, intangibility)
+|}}
+
+'''The Living Laser''' ('''Arthur Parks''') is a [[supervillain]] that appears in the [[Marvel Universe]]. The character was created by [[Stan Lee]], [[Art Simek]] and [[Don Heck]] and first appears in [[Avengers (comics)|Avengers]] #34 (Nov. 1966). 
+
+==Fictional character biography==
+Arthur Parks was a relatively successful laser research scientist until spurned by a woman. Deciding he needed power to achieve his aims, Parks creates wrist-mounted laser units, a costume and uses the alias "Living Laser". He then develops an infatuation with the [[Wasp (comics)|Wasp]], and after kidnapping her is forced to battle the superhero team the [[Avengers (comics)|Avengers]]. After being defeated by the Avengers, the Laser is sent to prison. <ref>''Avengers'' #34 (Nov 1966)</ref> Although freed by master villain the [[Mandarin (comics)|Mandarin]] to fight the Avengers alongside other supervillains, the Laser is defeated once again. <ref>''Avengers'' King-Size Special #1 (Sep. 1967)</ref> The Laser, together with team-mate the [[Swordsman (comics)|Swordsman]], join [[Batroc the Leaper]] in a bid to kill [[Captain America]]. They are, however, defeated, <ref>''Captain America'' #105 (Sep. 1968)</ref> and the Laser later joins the [[Lethal Legion]] in a failed revenge attack on the Avengers. <ref>''Avengers'' #78-79 (Jul. - Aug. 1970)</ref> The Laser later battles the [[Kree]] hero [[Mar-Vell]], but after yet another defeat disappears into obscurity for some time. <ref>''Captain Marvel'' #35 (Nov. 1974)</ref>
+
+Several years later [[Count Nefaria]] employs the Laser and temporarily amplifies his abilities — together with those of team-mates [[Power Man]] and [[Whirlwind (comics)|Whirlwind]] — before sending them against the Avengers. The effect, however, is temporary and their combined abilities are drained by Nefaria, who is subsequently defeated by the Avengers. <ref>''Avengers'' #164 - 166 (Nov. 1977 - Jan. 1978)</ref> The Laser then discovers that the laser diodes implanted in his skin have become unstable, with the power build-up in his body reaching critical - and potentially fatal - levels. The Laser seeks the aid of East German scientists, who offer to help by draining off the excess energy and using it to power a network of weapons satellites. This plan, however, is foiled by [[Iron Man]], (at the base the Laser is located in to rescue a civilian), who battles the Laser and forces his energy levels to build to critical mass. The Laser begs for help, but with no time remaining Iron Man is forced to hurl him into the atmosphere where the Laser detonates. <ref>''Iron Man'' #152 - 153 (Nov. - Dec. 1981)</ref>
+
+Several months later, [[Tony Stark]], Iron Man's alter ego, repairs a faulty satellite that collected a pattern of energy. Upon repair the energy is released and reforms into the Laser, who is now composed entirely of sentient light. The Laser panics when he discovers his new condition, and although Iron Man tries to assist him, he is forced to battle and capture the Laser. Iron Man's colleague [[Henry Pym]] attempts to find a cure for the Laser's condition. <ref>''Iron Man'' #211 (Oct. 1986)</ref> The Laser subsequently escapes, and briefly battles the cosmic hero [[Quasar (comics)|Quasar]]. <ref>''Quasar'' #6 (Jan. 1990)</ref> The Laser later returns, and on hearing a rumor that Iron Man was dead posed as the villain the [[Titanium Man]] to draw him out. The ruse works, and after two grueling battles the Laser is finally defeated by using his own powers against him. <ref>''Iron Man'' #259 - 263 (Aug. - Dec. 1990)</ref>
+
+Upon reintegrating his energy form, the Laser seeks revenge but encounters [[War Machine|Jim Rhodes]], who offers him a position at Stark Industries and a chance of reforming. The Laser accepts, but when he begins to show signs of being unstable is projected via satellite by Rhodes into space. <ref>''Iron Man'' #289 (Feb. 1993)</ref> 
+
+The Laser later reforms and joins a group of supervillains formed by [[MODOK]]. <ref>''MODOK's 11'' #5 (Jul. 2007)</ref> and is later hired by the [[Hood (comics)|Hood]] to take advantage of the split in the superhero community caused by the Superhuman Registration Act. <ref>''New Avengers'' #35 (Oct. 2007)</ref>
+
+==Powers and abilities==
+A gifted research scientist, Arthur Parks began his criminal career using wrist-mounted laser projection units, and later implanted laser diodes into his skin. With the diode implants, Parks is capable of energy projectionm light refraction for invisibility and illusion generation. Once converted to light form, Parks could also travel at light speed.
+
+==In other media==
+* The Living Laser appears in the [[1994]] ''[[Iron Man (TV series)|Iron Man]]'' TV series voiced by [[Robert Hays]].
+
+* The character also appears in the video game [[Captain America and the Avengers]].
+
+== Footnotes ==
+<references/>
+
+==External links==
+* [http://www.marveldirectory.com/individuals/l/livinglaser.htm Living Laser at MarvelDirectory.com]
+
+[[Category:Fictional characters who can turn intangible]]
+[[Category:Marvel Comics characters who can fly]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics supervillains]]
+
+[[fr:Laser Vivant]]
+[[fi:Elolaser]]
