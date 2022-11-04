@@ -13,8 +13,4 @@ This investigative notebook will attempt to discover characteristics about the n
 
 Furthermore, with the metadata we have webscraped, we want to investigate whether Wikipedia revisions have followed the same trend as the rest of the world to include more diversity.
 
-Let's explore the data and its attributes!
-
-## Exploration of Basic Stats in Network
-### Node Analysis
-Let's view the number of nodes with each label by time:
+View handin_main.html for more info!!
