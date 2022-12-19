@@ -5,8 +5,6 @@ In this notebook, we will explore the temporal development of Marvel- and DC-Com
 
 We have also webscraped meta data from lists of female, black, latino, and asian superheroes and villains. With this meta data we were able to appoint node attributes to our graph with the help of document similarity (since different websites may call superheroes by different versions of their names).
 
-<img src="G_plot_final.gif" width="750" align="center">
-
 <img src="network_evolve_forcev4.gif" width="750" align="center">
 
 The red nodes here are Marvel characters, and the blue are DC characters!
@@ -16,3 +14,7 @@ This investigative notebook will attempt to discover characteristics about the n
 Furthermore, with the metadata we have webscraped, we want to investigate whether Wikipedia revisions have followed the same trend as the rest of the world to include more diversity.
 
 View handin_main.html for more info!!
+
+
+(Different visualization method)
+<img src="G_plot_final.gif" width="750" align="center">
