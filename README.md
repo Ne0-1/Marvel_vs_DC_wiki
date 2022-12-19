@@ -7,6 +7,8 @@ We have also webscraped meta data from lists of female, black, latino, and asian
 
 <img src="G_plot_final.gif" width="750" align="center">
 
+<img src="network_evolve_forcev4.gif" width="750" align="center">
+
 The red nodes here are Marvel characters, and the blue are DC characters!
 
 This investigative notebook will attempt to discover characteristics about the network as well as investigate to its evolution. This will be done by exploring basic statistics of the network and how they evolve, how communities evolve and finally how communities change with time in the network.
